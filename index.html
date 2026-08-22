@@ -368,6 +368,43 @@
   .compass-name{font-size:14.5px; font-weight:600; color:var(--ink);}
   .compass-desc{font-size:12.5px; line-height:1.5; color:var(--ink-soft);}
   .compass-arrow{font-size:14px; color:var(--focus); flex-shrink:0;}
+
+  /* Chat widget */
+  .chat-strip{margin:56px 0 60px;}
+  .chat-card{
+    background:var(--card); border:1px solid var(--line); max-width:640px;
+    display:flex; flex-direction:column; overflow:hidden;
+  }
+  .chat-log{
+    flex:1; min-height:220px; max-height:420px; overflow-y:auto;
+    padding:20px 22px; display:flex; flex-direction:column; gap:14px;
+  }
+  .chat-msg{max-width:82%; font-size:14px; line-height:1.55; padding:10px 14px; border-radius:2px;}
+  .chat-msg.user{
+    align-self:flex-end; background:var(--ink); color:var(--paper);
+  }
+  .chat-msg.assistant{
+    align-self:flex-start; background:var(--paper); border:1px solid var(--line); color:var(--ink);
+  }
+  .chat-msg.assistant.pending{color:var(--ink-soft); font-style:italic;}
+  .chat-empty{
+    font-size:13.5px; color:var(--ink-soft); padding:4px 2px;
+  }
+  .chat-input-row{
+    display:flex; gap:10px; border-top:1px solid var(--line); padding:14px 16px;
+  }
+  .chat-input-row input{
+    flex:1; border:1px solid var(--line); background:var(--paper); padding:10px 14px;
+    font-family:'IBM Plex Sans',sans-serif; font-size:14px; color:var(--ink); border-radius:3px;
+  }
+  .chat-input-row input:focus{outline:none; border-color:var(--focus);}
+  .chat-input-row button{
+    font-family:'IBM Plex Sans',sans-serif; font-size:13.5px; font-weight:600;
+    background:var(--ink); color:var(--paper); border:none; padding:0 22px; border-radius:3px;
+    cursor:pointer;
+  }
+  .chat-input-row button:disabled{opacity:0.5; cursor:default;}
+  .chat-input-row button:hover:not(:disabled){opacity:0.88;}
   .heatmap-wrap{overflow-x:auto; padding-bottom:6px;}
   .heatmap-tooltip-note{font-size:12px; color:var(--ink-soft); margin-top:10px;}
 
@@ -525,6 +562,17 @@
       </div>
     </div>
 
+    <div class="compass-strip">
+      <p class="section-label">Valkompasser — gör flera, inte bara en</p>
+      <p class="note" style="margin-bottom:20px; max-width:700px;">Olika valkompasser ställer olika frågor, väger dem olika och bestämmer partiernas positioner på olika sätt — därför kan resultatet skilja sig åt beroende på vilken du gör. Ingen av dem ska läsas som en röstningsrekommendation, bara som ett sätt att se var dina svar hamnar i förhållande till partierna.</p>
+
+      <p class="compass-subhead">Gör en valkompass</p>
+      <div class="compass-grid" id="compassGridTools"></div>
+
+      <p class="compass-subhead" style="margin-top:28px;">Jämför & granska metoderna bakom dem</p>
+      <div class="compass-grid" id="compassGridMeta"></div>
+    </div>
+
     <div class="debate-strip">
       <p class="section-label">Debattflöde — se debatterna gratis</p>
       <p class="note" style="margin-bottom:18px; max-width:640px;">Samtliga debatter nedan går att se helt utan betalvägg — SVT och Sveriges Radio är avgiftsfri public service, och TV4 sänder sina partiledardebatter fritt på tv4.se/TV4 Play. Där en arrangör (t.ex. en tidning) också skriver betalartiklar om debatten anges det separat — själva sändningen är ändå fri att titta på.</p>
@@ -559,15 +607,18 @@
       <div id="agreementMatrix"></div>
     </div>
 
-    <div class="compass-strip">
-      <p class="section-label">Valkompasser — gör flera, inte bara en</p>
-      <p class="note" style="margin-bottom:20px; max-width:700px;">Olika valkompasser ställer olika frågor, väger dem olika och bestämmer partiernas positioner på olika sätt — därför kan resultatet skilja sig åt beroende på vilken du gör. Ingen av dem ska läsas som en röstningsrekommendation, bara som ett sätt att se var dina svar hamnar i förhållande till partierna.</p>
-
-      <p class="compass-subhead">Gör en valkompass</p>
-      <div class="compass-grid" id="compassGridTools"></div>
-
-      <p class="compass-subhead" style="margin-top:28px;">Jämför & granska metoderna bakom dem</p>
-      <div class="compass-grid" id="compassGridMeta"></div>
+    <div class="chat-strip">
+      <p class="section-label">Fråga om svensk politik</p>
+      <p class="note" style="margin-bottom:16px; max-width:640px;">En chatt kopplad till Claude (Anthropic) som bara svarar på frågor om svensk politik och riksdagsvalet 2026 — inte en röstningsrekommendation, utan ett sätt att ställa uppföljningsfrågor om det som redan finns på sidan.</p>
+      <div class="chat-card">
+        <div class="chat-log" id="chatLog">
+          <div class="chat-empty">Ställ en fråga om partierna, valet eller något annat på den här sidan.</div>
+        </div>
+        <div class="chat-input-row">
+          <input type="text" id="chatInput" placeholder="T.ex. Vad skiljer M och SD åt i migrationsfrågan?" autocomplete="off">
+          <button id="chatSend">Skicka</button>
+        </div>
+      </div>
     </div>
   </div>
 </main>
@@ -1756,7 +1807,73 @@ renderRadarProfiles();
 initTopicViewToggle();
 renderAgreementMatrix();
 renderCompassLinks();
+initChatWidget();
 loadLivePollData();
+
+function initChatWidget(){
+  const log = document.getElementById('chatLog');
+  const input = document.getElementById('chatInput');
+  const sendBtn = document.getElementById('chatSend');
+  if (!log || !input || !sendBtn) return;
+
+  const history = []; // {role, content}
+  let sending = false;
+
+  function addMessage(role, text, opts = {}){
+    const emptyNote = log.querySelector('.chat-empty');
+    if (emptyNote) emptyNote.remove();
+    const el = document.createElement('div');
+    el.className = 'chat-msg ' + role + (opts.pending ? ' pending' : '');
+    el.textContent = text;
+    log.appendChild(el);
+    log.scrollTop = log.scrollHeight;
+    return el;
+  }
+
+  async function send(){
+    const text = input.value.trim();
+    if (!text || sending) return;
+
+    sending = true;
+    sendBtn.disabled = true;
+    input.value = '';
+
+    addMessage('user', text);
+    history.push({ role: 'user', content: text });
+
+    const pendingEl = addMessage('assistant', 'Skriver …', { pending: true });
+
+    try {
+      const res = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ messages: history })
+      });
+      const data = await res.json();
+
+      if (!res.ok || data.error) {
+        pendingEl.textContent = data.error || 'Något gick fel. Försök igen.';
+        pendingEl.classList.remove('pending');
+      } else {
+        pendingEl.textContent = data.reply;
+        pendingEl.classList.remove('pending');
+        history.push({ role: 'assistant', content: data.reply });
+      }
+    } catch (err) {
+      pendingEl.textContent = 'Kunde inte nå chatten just nu. Kontrollera din uppkoppling och försök igen.';
+      pendingEl.classList.remove('pending');
+    } finally {
+      sending = false;
+      sendBtn.disabled = false;
+      log.scrollTop = log.scrollHeight;
+    }
+  }
+
+  sendBtn.addEventListener('click', send);
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') send();
+  });
+}
 
 async function loadLivePollData(){
   try {
