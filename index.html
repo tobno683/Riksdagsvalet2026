@@ -369,17 +369,45 @@
   .compass-desc{font-size:12.5px; line-height:1.5; color:var(--ink-soft);}
   .compass-arrow{font-size:14px; color:var(--focus); flex-shrink:0;}
 
-  /* Chat widget */
-  .chat-strip{margin:56px 0 60px;}
-  .chat-card{
-    background:var(--card); border:1px solid var(--line); max-width:640px;
-    display:flex; flex-direction:column; overflow:hidden;
+  /* Chat widget — floating bubble + panel */
+  .chat-fab{
+    position:fixed; bottom:24px; right:24px; z-index:200;
+    width:56px; height:56px; border-radius:50%;
+    background:var(--ink); color:var(--paper); border:none; cursor:pointer;
+    display:flex; align-items:center; justify-content:center; font-size:22px;
+    box-shadow:0 6px 18px rgba(19,42,34,0.3);
+    transition:transform .15s ease, box-shadow .15s ease;
   }
+  .chat-fab:hover{transform:translateY(-2px); box-shadow:0 10px 22px rgba(19,42,34,0.36);}
+  .chat-fab-icon-close{display:none;}
+  .chat-fab.open .chat-fab-icon-open{display:none;}
+  .chat-fab.open .chat-fab-icon-close{display:inline;}
+
+  .chat-panel{
+    position:fixed; bottom:92px; right:24px; z-index:199;
+    width:360px; max-width:calc(100vw - 32px);
+    max-height:min(520px, calc(100vh - 140px));
+    background:var(--card); border:1px solid var(--line); border-radius:8px;
+    box-shadow:0 20px 44px rgba(19,42,34,0.28);
+    display:none; flex-direction:column; overflow:hidden;
+  }
+  .chat-panel.open{display:flex;}
+  .chat-panel-header{
+    display:flex; align-items:flex-start; justify-content:space-between; gap:10px;
+    padding:14px 16px; border-bottom:1px solid var(--line); background:var(--paper);
+  }
+  .chat-panel-title{display:block; font-family:'Fraunces',serif; font-weight:600; font-size:15px; color:var(--ink);}
+  .chat-panel-sub{display:block; font-size:11px; color:var(--ink-soft); margin-top:2px;}
+  .chat-panel-close{
+    background:none; border:none; cursor:pointer; font-size:14px; color:var(--ink-soft);
+    padding:2px 4px; flex-shrink:0;
+  }
+  .chat-panel-close:hover{color:var(--ink);}
   .chat-log{
-    flex:1; min-height:220px; max-height:420px; overflow-y:auto;
-    padding:20px 22px; display:flex; flex-direction:column; gap:14px;
+    flex:1; min-height:180px; overflow-y:auto;
+    padding:16px; display:flex; flex-direction:column; gap:12px;
   }
-  .chat-msg{max-width:82%; font-size:14px; line-height:1.55; padding:10px 14px; border-radius:2px;}
+  .chat-msg{max-width:85%; font-size:13.5px; line-height:1.5; padding:9px 12px; border-radius:2px;}
   .chat-msg.user{
     align-self:flex-end; background:var(--ink); color:var(--paper);
   }
@@ -388,23 +416,27 @@
   }
   .chat-msg.assistant.pending{color:var(--ink-soft); font-style:italic;}
   .chat-empty{
-    font-size:13.5px; color:var(--ink-soft); padding:4px 2px;
+    font-size:13px; color:var(--ink-soft); padding:4px 2px;
   }
   .chat-input-row{
-    display:flex; gap:10px; border-top:1px solid var(--line); padding:14px 16px;
+    display:flex; gap:8px; border-top:1px solid var(--line); padding:12px;
   }
   .chat-input-row input{
-    flex:1; border:1px solid var(--line); background:var(--paper); padding:10px 14px;
-    font-family:'IBM Plex Sans',sans-serif; font-size:14px; color:var(--ink); border-radius:3px;
+    flex:1; min-width:0; border:1px solid var(--line); background:var(--paper); padding:9px 12px;
+    font-family:'IBM Plex Sans',sans-serif; font-size:13.5px; color:var(--ink); border-radius:3px;
   }
   .chat-input-row input:focus{outline:none; border-color:var(--focus);}
   .chat-input-row button{
-    font-family:'IBM Plex Sans',sans-serif; font-size:13.5px; font-weight:600;
-    background:var(--ink); color:var(--paper); border:none; padding:0 22px; border-radius:3px;
-    cursor:pointer;
+    font-family:'IBM Plex Sans',sans-serif; font-size:13px; font-weight:600;
+    background:var(--ink); color:var(--paper); border:none; padding:0 16px; border-radius:3px;
+    cursor:pointer; flex-shrink:0;
   }
   .chat-input-row button:disabled{opacity:0.5; cursor:default;}
   .chat-input-row button:hover:not(:disabled){opacity:0.88;}
+  @media (max-width:480px){
+    .chat-panel{right:16px; bottom:84px;}
+    .chat-fab{right:16px; bottom:16px;}
+  }
   .heatmap-wrap{overflow-x:auto; padding-bottom:6px;}
   .heatmap-tooltip-note{font-size:12px; color:var(--ink-soft); margin-top:10px;}
 
@@ -606,20 +638,6 @@
       </p>
       <div id="agreementMatrix"></div>
     </div>
-
-    <div class="chat-strip">
-      <p class="section-label">Fråga om svensk politik</p>
-      <p class="note" style="margin-bottom:16px; max-width:640px;">En chatt kopplad till Claude (Anthropic) som bara svarar på frågor om svensk politik och riksdagsvalet 2026 — inte en röstningsrekommendation, utan ett sätt att ställa uppföljningsfrågor om det som redan finns på sidan.</p>
-      <div class="chat-card">
-        <div class="chat-log" id="chatLog">
-          <div class="chat-empty">Ställ en fråga om partierna, valet eller något annat på den här sidan.</div>
-        </div>
-        <div class="chat-input-row">
-          <input type="text" id="chatInput" placeholder="T.ex. Vad skiljer M och SD åt i migrationsfrågan?" autocomplete="off">
-          <button id="chatSend">Skicka</button>
-        </div>
-      </div>
-    </div>
   </div>
 </main>
 
@@ -647,6 +665,28 @@
 
 <div class="overlay" id="overlay">
   <div class="detail" id="detailCard"></div>
+</div>
+
+<button class="chat-fab" id="chatFab" aria-label="Öppna politikchatten" aria-expanded="false">
+  <span class="chat-fab-icon-open">💬</span>
+  <span class="chat-fab-icon-close">✕</span>
+</button>
+
+<div class="chat-panel" id="chatPanel">
+  <div class="chat-panel-header">
+    <div>
+      <span class="chat-panel-title">Fråga om svensk politik</span>
+      <span class="chat-panel-sub">Claude · svarar bara på frågor om svensk politik & valet 2026</span>
+    </div>
+    <button class="chat-panel-close" id="chatPanelClose" aria-label="Stäng chatten">✕</button>
+  </div>
+  <div class="chat-log" id="chatLog">
+    <div class="chat-empty">Ställ en fråga om partierna, valet eller något annat på den här sidan.</div>
+  </div>
+  <div class="chat-input-row">
+    <input type="text" id="chatInput" placeholder="T.ex. Vad skiljer M och SD åt i migrationsfrågan?" autocomplete="off">
+    <button id="chatSend">Skicka</button>
+  </div>
 </div>
 
 <script>
@@ -1814,7 +1854,32 @@ function initChatWidget(){
   const log = document.getElementById('chatLog');
   const input = document.getElementById('chatInput');
   const sendBtn = document.getElementById('chatSend');
+  const fab = document.getElementById('chatFab');
+  const panel = document.getElementById('chatPanel');
+  const closeBtn = document.getElementById('chatPanelClose');
   if (!log || !input || !sendBtn) return;
+
+  function openPanel(){
+    panel.classList.add('open');
+    fab.classList.add('open');
+    fab.setAttribute('aria-expanded', 'true');
+    setTimeout(() => input.focus(), 50);
+  }
+  function closePanel(){
+    panel.classList.remove('open');
+    fab.classList.remove('open');
+    fab.setAttribute('aria-expanded', 'false');
+  }
+  function togglePanel(){
+    if (panel.classList.contains('open')) closePanel();
+    else openPanel();
+  }
+
+  if (fab) fab.addEventListener('click', togglePanel);
+  if (closeBtn) closeBtn.addEventListener('click', closePanel);
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && panel.classList.contains('open')) closePanel();
+  });
 
   const history = []; // {role, content}
   let sending = false;
