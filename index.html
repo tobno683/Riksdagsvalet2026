@@ -294,41 +294,116 @@
   .bloc-strip{margin:60px 0 10px;}
   .debate-strip{margin:56px 0 10px;}
 
-  /* Topic spectrum chart */
+  /* Topic spectrum chart — compact */
   .topics-strip{margin:56px 0 10px;}
-  .topic-row{
-    background:var(--card); border:1px solid var(--line); padding:16px 22px 20px; margin-bottom:12px;
+  .topic-legend{
+    display:flex; flex-wrap:wrap; gap:12px; margin-bottom:16px;
+    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft);
   }
-  .topic-title{font-size:14px; font-weight:600; color:var(--ink); margin-bottom:14px;}
-  .topic-axis-labels{
-    display:flex; justify-content:space-between; font-family:'IBM Plex Mono',monospace;
-    font-size:10.5px; text-transform:uppercase; letter-spacing:.04em; color:var(--ink-soft); margin-bottom:8px;
+  .topic-legend-item{display:flex; align-items:center; gap:5px;}
+  .topic-legend-dot{width:9px; height:9px; border-radius:50%; flex-shrink:0;}
+  .topics-card{
+    background:var(--card); border:1px solid var(--line); padding:6px 22px;
   }
-  .topic-track{
-    position:relative; height:34px; border-top:1px solid var(--line);
+  .topic-row-compact{
+    padding:9px 0; border-bottom:1px dashed var(--line);
   }
-  .topic-track::before{
-    content:""; position:absolute; top:-1px; left:0; right:0; height:1px;
+  .topic-row-compact:last-child{border-bottom:none;}
+  .topic-title-compact{font-size:12.5px; font-weight:600; color:var(--ink); margin-bottom:6px;}
+  .topic-track-row{display:flex; align-items:center; gap:18px;}
+  .topic-axis-text{
+    font-family:'IBM Plex Mono',monospace; font-size:9.5px; text-transform:uppercase; letter-spacing:.02em;
+    color:var(--ink-soft); white-space:nowrap; flex:0 0 auto; min-width:110px;
   }
-  .topic-dot{
-    position:absolute; top:8px; width:20px; height:20px; border-radius:50%;
-    transform:translateX(-50%);
+  .topic-axis-text.right{text-align:right;}
+  .topic-track-compact{
+    position:relative; flex:1 1 auto; height:22px; border-top:1px solid var(--line); min-width:140px;
+  }
+  .topic-dot-compact{
+    position:absolute; top:50%; width:19px; height:19px; border-radius:50%;
+    transform:translate(-50%,-50%); border:1.5px solid var(--card);
+    box-shadow:0 1px 2px rgba(0,0,0,0.25); cursor:default;
     display:flex; align-items:center; justify-content:center;
-    font-family:'IBM Plex Mono',monospace; font-size:9px; font-weight:700; color:#fff;
-    border:2px solid var(--card); cursor:default;
-    box-shadow:0 1px 3px rgba(0,0,0,0.25);
+    font-family:'IBM Plex Mono',monospace; font-size:8px; font-weight:700; color:#fff;
+    letter-spacing:-0.02em;
   }
+  @media (max-width:560px){
+    .topic-axis-text{display:none;}
+  }
+
+  .topic-view-toggle{display:flex; gap:8px; margin-bottom:20px;}
+  .radar-grid{
+    display:grid; grid-template-columns:repeat(auto-fill, minmax(220px, 1fr));
+    gap:14px;
+  }
+  .radar-card{
+    background:var(--card); border:1px solid var(--line); padding:14px;
+    display:flex; flex-direction:column; align-items:center;
+  }
+  .radar-card-id{font-family:'IBM Plex Mono',monospace; font-weight:700; font-size:14px; margin-bottom:1px;}
+  .radar-card-name{font-size:10.5px; color:var(--ink-soft); margin-bottom:6px; text-align:center;}
 
   /* Agreement heatmap */
   .agreement-strip{margin:56px 0 40px;}
+
+  /* Valkompass links */
+  .compass-strip{margin:56px 0 60px;}
+  .compass-subhead{
+    font-family:'IBM Plex Mono',monospace; font-size:11.5px; text-transform:uppercase;
+    letter-spacing:.06em; color:var(--ink-soft); margin:0 0 12px; font-weight:600;
+  }
+  .compass-grid{
+    display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr));
+    gap:14px;
+  }
+  .compass-card{
+    background:var(--card); border:1px solid var(--line); padding:16px 18px;
+    display:flex; flex-direction:column; gap:8px; text-decoration:none; color:inherit;
+    transition:transform .15s ease, box-shadow .15s ease;
+  }
+  .compass-card:hover, .compass-card:focus-visible{
+    transform:translateY(-2px); box-shadow:0 8px 18px rgba(19,42,34,0.12);
+  }
+  .compass-card-top{display:flex; justify-content:space-between; align-items:flex-start; gap:8px;}
+  .compass-name{font-size:14.5px; font-weight:600; color:var(--ink);}
+  .compass-desc{font-size:12.5px; line-height:1.5; color:var(--ink-soft);}
+  .compass-arrow{font-size:14px; color:var(--focus); flex-shrink:0;}
   .heatmap-wrap{overflow-x:auto; padding-bottom:6px;}
   .heatmap-tooltip-note{font-size:12px; color:var(--ink-soft); margin-top:10px;}
+
+  /* Live debate banner — shown above "Läget just nu" */
+  .live-debate-banner{
+    display:none; padding:16px 22px; margin-top:24px; border-radius:4px;
+  }
+  .live-debate-banner.is-live{background:#C81E2E;}
+  .live-debate-banner.is-soon{background:#B4581A;}
+  .live-debate-inner{
+    display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;
+  }
+  .live-debate-text{display:flex; flex-direction:column; gap:2px;}
+  .live-debate-tag{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:700; text-transform:uppercase;
+    letter-spacing:.06em; color:#fff; opacity:0.92;
+  }
+  .live-debate-title{font-family:'Fraunces',serif; font-weight:600; font-size:17px; color:#fff;}
+  .live-debate-host{font-size:12.5px; color:#fff; opacity:0.85;}
+  .live-debate-link{
+    font-family:'IBM Plex Sans',sans-serif; font-size:13px; font-weight:700;
+    background:#fff; color:var(--ink); padding:9px 18px; border-radius:100px;
+    text-decoration:none; white-space:nowrap; flex-shrink:0;
+  }
+  .live-debate-link:hover{opacity:0.9;}
+  .live-debate-banner.is-live .live-debate-tag::before{content:"● "; animation:pulse 1.4s infinite;}
+  @keyframes pulse{ 0%,100%{opacity:1;} 50%{opacity:0.35;} }
   .debate-list{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line);}
   .debate-item{
     background:var(--card); padding:16px 20px;
     display:grid; grid-template-columns:120px 1fr auto; gap:18px; align-items:center;
   }
   .debate-item.is-past{opacity:0.62;}
+  .debate-item.is-live{
+    background:#FDEDEE; box-shadow:inset 3px 0 0 #C81E2E;
+  }
   .debate-date{
     font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:600; color:var(--ink);
     line-height:1.3;
@@ -344,6 +419,8 @@
   }
   .chip-free{background:#1B5E4A1A; color:#124234;}
   .chip-upcoming{background:#9C7A2E1A; color:#7A5F22;}
+  .chip-soon{background:#C8621E1A; color:#A04A12;}
+  .chip-live{background:#C81E2E; color:#fff;}
   .chip-past{background:#13372A0D; color:var(--ink-soft); border:1px solid var(--line);}
   .debate-link{
     font-family:'IBM Plex Sans',sans-serif; font-size:13px; font-weight:600; color:var(--focus);
@@ -405,6 +482,8 @@
       <p class="note" id="pollSourceNote" style="margin-top:10px;">Opinionssiffror hämtas automatiskt en gång per dag från Wikipedias sammanställning av svenska opinionsinstitut.</p>
     </div>
 
+    <div class="live-debate-banner" id="liveDebateBanner" style="display:none;"></div>
+
     <div class="summary-panel" id="summaryPanel">
       <p class="section-label" style="margin-bottom:14px;">Läget just nu</p>
       <div class="summary-grid" id="summaryGrid"><!-- filled by JS --></div>
@@ -454,8 +533,22 @@
 
     <div class="topics-strip">
       <p class="section-label">Var står partierna i sakfrågor?</p>
-      <p class="note" style="margin-bottom:22px; max-width:700px;">Varje prick visar ungefär var partiet placerar sig utifrån sitt valmanifest och sin röstningslinje i riksdagen — inte ett exakt mått. Klimatraden bygger på Naturskyddsföreningens granskning av 22 konkreta förslag (2026); övriga rader är sammanfattningar av partiernas egna ställningstaganden så som de beskrivs i manifesten på den här sidan.</p>
-      <div id="topicsChart"></div>
+      <p class="note" style="margin-bottom:16px; max-width:700px;">Varje prick visar ungefär var partiet placerar sig utifrån sitt valmanifest och sin röstningslinje i riksdagen — inte ett exakt mått. Klimatraden bygger på Naturskyddsföreningens granskning av 22 konkreta förslag (2026); övriga rader är sammanfattningar av partiernas egna ställningstaganden så som de beskrivs i manifesten på den här sidan.</p>
+
+      <div class="topic-view-toggle">
+        <button class="pill active" data-topicview="rows">Per sakfråga</button>
+        <button class="pill" data-topicview="radar">Per parti</button>
+      </div>
+
+      <div id="topicViewRows">
+        <div class="topic-legend" id="topicLegend"></div>
+        <div class="topics-card"><div id="topicsChart"></div></div>
+      </div>
+
+      <div id="topicViewRadar" style="display:none;">
+        <p class="note" style="margin-bottom:16px; max-width:700px;">Samma 12 sakfrågor, men vänt ett kvarts varv: här får varje parti sin egen "form" som sammanfattar alla frågor på en gång. Formens riktning avslöjar profilen — spretar den åt samma håll som ett annat parti ligger de partierna nära varandra över lag, inte bara i enskilda frågor.</p>
+        <div class="radar-grid" id="radarGrid"></div>
+      </div>
     </div>
 
     <div class="agreement-strip">
@@ -464,6 +557,17 @@
         Detta är <b>inte</b> en statistisk sammanställning av faktiska voteringar i riksdagen — sådan data kräver tillgång till Riksdagens fullständiga voteringsregister. Rutorna visar istället ett förenklat mönster baserat på blocktillhörighet (Tidöpartierna kontra oppositionen), faktiskt regeringssamarbete och kända undantag som beskrivs i partiprofilerna på den här sidan (t.ex. att V och MP delar näst intill identisk miljöpolitik trots att de tillhör olika delar av oppositionen, eller att C och L historiskt stått nära varandra som forna allianspartner). Ljusare grönt betyder högre samstämmighet, mörkare rött betyder lägre.
       </p>
       <div id="agreementMatrix"></div>
+    </div>
+
+    <div class="compass-strip">
+      <p class="section-label">Valkompasser — gör flera, inte bara en</p>
+      <p class="note" style="margin-bottom:20px; max-width:700px;">Olika valkompasser ställer olika frågor, väger dem olika och bestämmer partiernas positioner på olika sätt — därför kan resultatet skilja sig åt beroende på vilken du gör. Ingen av dem ska läsas som en röstningsrekommendation, bara som ett sätt att se var dina svar hamnar i förhållande till partierna.</p>
+
+      <p class="compass-subhead">Gör en valkompass</p>
+      <div class="compass-grid" id="compassGridTools"></div>
+
+      <p class="compass-subhead" style="margin-top:28px;">Jämför & granska metoderna bakom dem</p>
+      <div class="compass-grid" id="compassGridMeta"></div>
     </div>
   </div>
 </main>
@@ -902,6 +1006,36 @@ const TOPICS = [
     title: "Ny kärnkraft",
     left: "Avveckla / emot ny kärnkraft", right: "Bygg ut kraftigt",
     scores: { MP:1, V:2, S:3, C:3, L:4, KD:4, M:5, SD:5 }
+  },
+  {
+    title: "Vindkraft & förnybar energiutbyggnad",
+    left: "Lägre prioritet", right: "Högre prioritet",
+    scores: { SD:1, M:2, KD:3, L:3, S:4, C:4, V:5, MP:5 }
+  },
+  {
+    title: "Marknadshyror i nyproduktion",
+    left: "Behåll dagens hyresreglering", right: "Inför fri hyressättning",
+    scores: { V:1, S:2, MP:2, SD:2, KD:2, C:4, L:4, M:4 }
+  },
+  {
+    title: "EU-samarbete",
+    left: "Mer nationellt självbestämmande", right: "Fördjupat samarbete",
+    scores: { SD:1, V:2, S:3, MP:3, KD:4, M:4, L:5, C:5 }
+  },
+  {
+    title: "Höjda försvarsanslag",
+    left: "Lägre prioritet", right: "Högre prioritet",
+    scores: { V:2, MP:3, C:4, S:4, L:4, KD:4, SD:4, M:5 }
+  },
+  {
+    title: "Statligt huvudmannaskap för sjukvården",
+    left: "Behåll regionalt ansvar", right: "Förstatliga",
+    scores: { M:2, S:2, C:2, MP:2, V:3, L:3, SD:4, KD:5 }
+  },
+  {
+    title: "Arbetstidsförkortning med bibehållen lön",
+    left: "Ingen förkortning", right: "Stark förkortning",
+    scores: { C:1, L:1, KD:1, M:1, SD:1, S:2, MP:3, V:5 }
   }
 ];
 
@@ -920,6 +1054,93 @@ const AGREEMENT = {
 };
 const AGREEMENT_ORDER = ["V","S","MP","C","L","KD","M","SD"]; // rough left-to-right
 
+// Real, interactive voting-compass tools (not curated/edited by this site).
+const COMPASS_TOOLS = [
+  {
+    name: "SVT:s Valkompass 2026",
+    desc: "Public service. Täcker riksdagsvalet och över 300 lokala kompasser för region- och kommunval.",
+    url: "https://valkompass.svt.se/2026/"
+  },
+  {
+    name: "Expressens valkompass",
+    desc: "Bygger på TT Nyhetsbyråns modell, framtagen med en politikjournalist och en statsvetare.",
+    url: "https://www.expressen.se/nyheter/politik/valkompass/"
+  },
+  {
+    name: "Altingets valkompass",
+    desc: "Fokuserar på enskilda kandidater, inte bara partier — se vem du liknar mest.",
+    url: "https://www.altinget.se/valkompass/riksdagsval-2026"
+  },
+  {
+    name: "Valkompass.org",
+    desc: "Oberoende jämförelsesajt med egen kompass samt en sammanställning av flera andra institut.",
+    url: "https://valkompass.org/"
+  },
+  {
+    name: "Valkompass.com",
+    desc: "Privat, oberoende initiativ. 16 frågor, med fokus på att visa nackdelarna med varje svarsalternativ.",
+    url: "https://valkompass.com/"
+  },
+  {
+    name: "Opinionsvalet",
+    desc: "Kombinerar en valkompass med faktasidor om partier, opinion och källor till underlaget.",
+    url: "https://opinionsvalet.se/"
+  },
+  {
+    name: "Dagens valkompass",
+    desc: "Kristen dagstidnings egen kompass, med visst fokus på värdegrundsfrågor.",
+    url: "https://www.dagen.se/valkompass"
+  }
+];
+
+// Explainer/meta articles about how the compasses are built — useful for
+// understanding a compass's methodology before trusting its result.
+const COMPASS_META = [
+  {
+    name: "Källkritikbyrån: så är årets kompasser framtagna",
+    desc: "Genomgång av vilka som ligger bakom respektive valkompass och hur partiernas positioner fastställs.",
+    url: "https://kallkritikbyran.se/lista-har-ar-arets-valkompasser-sa-gors-de-och-av-vem/"
+  },
+  {
+    name: "hurbra.se: jämförelse av SVT, Aftonbladet, Expressen & SvD",
+    desc: "Går igenom skillnader i frågor, metod och vad respektive kompass passar bäst till.",
+    url: "https://hurbra.se/valkompass-2026/"
+  },
+  {
+    name: "Göteborgs universitet om Aftonbladets valkompass",
+    desc: "SOM-institutet vid GU beskriver hur de tagit fram underlaget till Aftonbladets kompass (30 frågor).",
+    url: "https://www.gu.se/nyheter/gor-valkompassen-2026"
+  }
+];
+
+function renderCompassLinks(){
+  const toolsEl = document.getElementById('compassGridTools');
+  const metaEl = document.getElementById('compassGridMeta');
+  if (toolsEl) {
+    toolsEl.innerHTML = COMPASS_TOOLS.map(c => `
+      <a class="compass-card" href="${c.url}" target="_blank" rel="noopener">
+        <div class="compass-card-top">
+          <span class="compass-name">${c.name}</span>
+          <span class="compass-arrow">↗</span>
+        </div>
+        <span class="compass-desc">${c.desc}</span>
+      </a>
+    `).join('');
+  }
+  if (metaEl) {
+    metaEl.innerHTML = COMPASS_META.map(c => `
+      <a class="compass-card" href="${c.url}" target="_blank" rel="noopener">
+        <div class="compass-card-top">
+          <span class="compass-name">${c.name}</span>
+          <span class="compass-arrow">↗</span>
+        </div>
+        <span class="compass-desc">${c.desc}</span>
+      </a>
+    `).join('');
+  }
+}
+
+
 function getAgreement(a, b){
   if (a === b) return 100;
   return AGREEMENT[a+"-"+b] ?? AGREEMENT[b+"-"+a] ?? null;
@@ -930,22 +1151,128 @@ function partyColor(id){
   return p ? p.color : "#999";
 }
 
+function renderTopicLegend(){
+  const el = document.getElementById('topicLegend');
+  if (!el) return;
+  el.innerHTML = PARTIES.map(p => `
+    <span class="topic-legend-item">
+      <span class="topic-legend-dot" style="background:${p.color}"></span>${p.id}
+    </span>
+  `).join('');
+}
+
 function renderTopics(){
   const el = document.getElementById('topicsChart');
   if (!el) return;
   el.innerHTML = TOPICS.map(topic => {
+    // group party ids sharing the same score so overlapping dots can fan out
+    const groups = {};
+    Object.entries(topic.scores).forEach(([pid, score]) => {
+      (groups[score] = groups[score] || []).push(pid);
+    });
     const dots = Object.entries(topic.scores).map(([pid, score]) => {
-      const pct = ((score - 1) / 4) * 100; // map 1..5 to 0..100%
-      return `<div class="topic-dot" style="left:${pct}%; background:${partyColor(pid)};" title="${pid}: ${score}/5">${pid}</div>`;
+      const pct = 6 + ((score - 1) / 4) * 88; // map 1..5 to 6%..94%, leaving margin at both ends
+      const group = groups[score];
+      const n = group.length;
+      const idx = group.indexOf(pid);
+      const offsetPx = n > 1 ? (idx - (n - 1) / 2) * 15 : 0;
+      const transform = `translate(calc(-50% + ${offsetPx}px), -50%)`;
+      return `<div class="topic-dot-compact" style="left:${pct}%; background:${partyColor(pid)}; transform:${transform};" title="${pid}: ${score}/5">${pid}</div>`;
     }).join('');
     return `
-      <div class="topic-row">
-        <div class="topic-title">${topic.title}</div>
-        <div class="topic-axis-labels"><span>${topic.left}</span><span>${topic.right}</span></div>
-        <div class="topic-track">${dots}</div>
+      <div class="topic-row-compact">
+        <div class="topic-title-compact">${topic.title}</div>
+        <div class="topic-track-row">
+          <span class="topic-axis-text">${topic.left}</span>
+          <div class="topic-track-compact">${dots}</div>
+          <span class="topic-axis-text right">${topic.right}</span>
+        </div>
       </div>
     `;
   }).join('');
+}
+
+// Short axis labels for the radar view — same 12 topics, compact wording.
+const TOPIC_SHORT_LABELS = {
+  "Migrationspolitik": "Migration",
+  "Skatt för höginkomsttagare & förmögna": "Skatt hög",
+  "Vinster i skattefinansierad skola & vård": "Vinstförbud",
+  "Klimat- & miljöambition (Naturskyddsföreningen, 22 förslag)": "Klimat",
+  "Straffskärpning för brott": "Straff",
+  "Ny kärnkraft": "Kärnkraft",
+  "Vindkraft & förnybar energiutbyggnad": "Vindkraft",
+  "Marknadshyror i nyproduktion": "Marknadshyra",
+  "EU-samarbete": "EU",
+  "Höjda försvarsanslag": "Försvar",
+  "Statligt huvudmannaskap för sjukvården": "Vård stat",
+  "Arbetstidsförkortning med bibehållen lön": "Arbetstid"
+};
+
+function buildRadarSVG(party){
+  const n = TOPICS.length;
+  const size = 200, cx = size/2, cy = size/2, maxR = 70;
+  const angleStep = (Math.PI*2)/n;
+
+  function pointFor(i, value){
+    const r = (value/5) * maxR;
+    const angle = -Math.PI/2 + i*angleStep;
+    return [cx + r*Math.cos(angle), cy + r*Math.sin(angle)];
+  }
+
+  let svg = `<svg viewBox="0 0 ${size} ${size}" width="${size}" height="${size}">`;
+
+  [1,2,3,4,5].forEach(ring => {
+    const pts = TOPICS.map((t,i) => pointFor(i, ring).join(',')).join(' ');
+    svg += `<polygon points="${pts}" fill="none" stroke="var(--line)" stroke-width="1"/>`;
+  });
+  TOPICS.forEach((t,i) => {
+    const [x,y] = pointFor(i,5);
+    svg += `<line x1="${cx}" y1="${cy}" x2="${x}" y2="${y}" stroke="var(--line)" stroke-width="1" opacity="0.6"/>`;
+  });
+
+  const polyPts = TOPICS.map((t,i) => pointFor(i, t.scores[party.id]).join(',')).join(' ');
+  svg += `<polygon points="${polyPts}" fill="${party.color}" fill-opacity="0.28" stroke="${party.color}" stroke-width="2"/>`;
+  TOPICS.forEach((t,i) => {
+    const [x,y] = pointFor(i, t.scores[party.id]);
+    svg += `<circle cx="${x}" cy="${y}" r="2.4" fill="${party.color}"><title>${TOPIC_SHORT_LABELS[t.title] || t.title}: ${t.scores[party.id]}/5</title></circle>`;
+  });
+
+  TOPICS.forEach((t,i) => {
+    const [x,y] = pointFor(i, 5.9);
+    let anchor = "middle";
+    if (x < cx-4) anchor = "end";
+    else if (x > cx+4) anchor = "start";
+    const label = TOPIC_SHORT_LABELS[t.title] || t.title;
+    svg += `<text x="${x}" y="${y}" text-anchor="${anchor}" font-size="6.6" fill="var(--ink-soft)" font-family="IBM Plex Mono, monospace">${label}</text>`;
+  });
+
+  svg += `</svg>`;
+  return svg;
+}
+
+function renderRadarProfiles(){
+  const el = document.getElementById('radarGrid');
+  if (!el) return;
+  el.innerHTML = PARTIES.map(p => `
+    <div class="radar-card">
+      <span class="radar-card-id" style="color:${p.color}">${p.id}</span>
+      <span class="radar-card-name">${p.name}</span>
+      ${buildRadarSVG(p)}
+    </div>
+  `).join('');
+}
+
+function initTopicViewToggle(){
+  const buttons = document.querySelectorAll('[data-topicview]');
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const view = btn.dataset.topicview;
+      document.getElementById('topicViewRows').style.display = view === 'rows' ? '' : 'none';
+      document.getElementById('topicViewRadar').style.display = view === 'radar' ? '' : 'none';
+    });
+  });
 }
 
 function renderAgreementMatrix(){
@@ -1002,63 +1329,112 @@ function renderAgreementMatrix(){
 
 const DEBATES = [
   {
-    date: "2026-05-03", label: "3 maj 2026",
+    start: "2026-05-03T20:00:00", end: "2026-05-03T21:30:00", label: "3 maj 2026",
     title: "Partiledardebatt i SVT Agenda",
     host: "SVT — sänd kvällstid, från riksdagen",
     url: "https://www.svtplay.se/video/e4z3mpR/agenda/partiledardebatt-del-1",
     linkText: "Se på SVT Play"
   },
   {
-    date: "2026-08-11", label: "11 aug 2026",
+    start: "2026-08-11T20:00:00", end: "2026-08-11T23:00:00", label: "11 aug 2026", approxTime: true,
     title: "Valutfrågningen — åtta enskilda partiledarsamtal",
     host: "TV4 — nytt format, upp till tre timmar per partiledare, sänds löpande fram mot valet",
     url: "https://www.tv4.se/partiledardebatt",
     linkText: "Se på TV4 Play"
   },
   {
-    date: "2026-08-17", label: "17 aug 2026",
+    start: "2026-08-17T20:00:00", end: "2026-08-17T22:00:00", label: "17 aug 2026, kl. 20.00–22.00",
     title: "Partiledardebatt om ekonomi och tillväxt",
     host: "Expressen / Dagens industri — gratis livesändning (redaktionella artiklar kan vara bakom betalvägg)",
     url: "https://hurbra.se/partiledardebatt-17-augusti-2026/",
     linkText: "Läs mer om sändningen"
   },
   {
-    date: "2026-08-23", label: "23 aug – 8 sep 2026", dateEnd: "2026-09-08",
-    title: "SVT:s valutfrågningar — en partiledare i taget",
-    host: "SVT — Åkesson (SD) 23/8, Mohamsson (L) 25/8, Dadgostar (V) 27/8, Kristersson (M) 30/8, Andersson (S) 1/9, Busch (KD) 3/9, Lind (MP) 6/9, Thand Ringqvist (C) 8/9",
+    start: "2026-08-23T20:00:00", end: "2026-08-23T21:00:00", label: "23 aug, kl. 20.00", approxTime: true,
+    title: "SVT:s utfrågning: Jimmie Åkesson (SD)",
+    host: "SVT — enskild partiledarutfrågning",
     url: "https://www.svt.se/nyheter/inrikes/guide-val-2026-i-sverige",
     linkText: "Se schema & sändningar"
   },
   {
-    date: "2026-09-04", label: "4 sep 2026",
+    start: "2026-08-25T20:00:00", end: "2026-08-25T21:00:00", label: "25 aug, kl. 20.00", approxTime: true,
+    title: "SVT:s utfrågning: Simona Mohamsson (L)",
+    host: "SVT — enskild partiledarutfrågning",
+    url: "https://www.svt.se/nyheter/inrikes/guide-val-2026-i-sverige",
+    linkText: "Se schema & sändningar"
+  },
+  {
+    start: "2026-08-27T20:00:00", end: "2026-08-27T21:00:00", label: "27 aug, kl. 20.00", approxTime: true,
+    title: "SVT:s utfrågning: Nooshi Dadgostar (V)",
+    host: "SVT — enskild partiledarutfrågning",
+    url: "https://www.svt.se/nyheter/inrikes/guide-val-2026-i-sverige",
+    linkText: "Se schema & sändningar"
+  },
+  {
+    start: "2026-08-30T20:00:00", end: "2026-08-30T21:00:00", label: "30 aug, kl. 20.00", approxTime: true,
+    title: "SVT:s utfrågning: Ulf Kristersson (M)",
+    host: "SVT — enskild partiledarutfrågning",
+    url: "https://www.svt.se/nyheter/inrikes/guide-val-2026-i-sverige",
+    linkText: "Se schema & sändningar"
+  },
+  {
+    start: "2026-09-01T20:00:00", end: "2026-09-01T21:00:00", label: "1 sep, kl. 20.00", approxTime: true,
+    title: "SVT:s utfrågning: Magdalena Andersson (S)",
+    host: "SVT — enskild partiledarutfrågning",
+    url: "https://www.svt.se/nyheter/inrikes/guide-val-2026-i-sverige",
+    linkText: "Se schema & sändningar"
+  },
+  {
+    start: "2026-09-03T20:00:00", end: "2026-09-03T21:00:00", label: "3 sep, kl. 20.00", approxTime: true,
+    title: "SVT:s utfrågning: Ebba Busch (KD)",
+    host: "SVT — enskild partiledarutfrågning",
+    url: "https://www.svt.se/nyheter/inrikes/guide-val-2026-i-sverige",
+    linkText: "Se schema & sändningar"
+  },
+  {
+    start: "2026-09-04T16:00:00", end: "2026-09-04T17:45:00", label: "4 sep, kl. 16.00–17.45",
     title: "Slutdebatt i Sveriges Radio P1",
-    host: "Sveriges Radio — avgiftsfri public service-radio",
+    host: "Sveriges Radio — avgiftsfri public service-radio, Kulturhuset Stadsteatern",
     url: "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026",
     linkText: "Följ nyheter om debatten"
   },
   {
-    date: "2026-09-09", label: "9 sep 2026",
+    start: "2026-09-06T20:00:00", end: "2026-09-06T21:00:00", label: "6 sep, kl. 20.00", approxTime: true,
+    title: "SVT:s utfrågning: Amanda Lind (MP)",
+    host: "SVT — enskild partiledarutfrågning",
+    url: "https://www.svt.se/nyheter/inrikes/guide-val-2026-i-sverige",
+    linkText: "Se schema & sändningar"
+  },
+  {
+    start: "2026-09-08T20:00:00", end: "2026-09-08T21:00:00", label: "8 sep, kl. 20.00", approxTime: true,
+    title: "SVT:s utfrågning: Elisabeth Thand Ringqvist (C)",
+    host: "SVT — enskild partiledarutfrågning",
+    url: "https://www.svt.se/nyheter/inrikes/guide-val-2026-i-sverige",
+    linkText: "Se schema & sändningar"
+  },
+  {
+    start: "2026-09-09T20:00:00", end: "2026-09-09T21:30:00", label: "9 sep, kl. 20.00–21.30",
     title: "Statsministerduell: Andersson (S) mot Kristersson (M)",
     host: "SVT — sänds från Gävle",
     url: "https://www.svt.se/nyheter/inrikes/senaste-nytt-om-val-2026",
     linkText: "Följ nyheter om duellen"
   },
   {
-    date: "2026-09-10", label: "10 sep 2026",
+    start: "2026-09-10T20:00:00", end: "2026-09-10T21:30:00", label: "10 sep, kl. 20.00 (ca)", approxTime: true,
     title: "Partiledardebatt",
     host: "TV4 — sänds från Eskilstuna inför publik",
     url: "https://www.tv4.se/partiledardebatt",
     linkText: "Se på TV4 Play"
   },
   {
-    date: "2026-09-11", label: "11 sep 2026",
+    start: "2026-09-11T20:00:00", end: "2026-09-11T22:00:00", label: "11 sep, kl. 20.00–22.00",
     title: "SVT:s stora slutdebatt",
-    host: "SVT — sista stora debatten före valdagen",
+    host: "SVT — sista stora debatten före valdagen, sänds från Gävle",
     url: "https://www.svt.se/nyheter/inrikes/har-ar-hojdpunkterna-fran-partiledardebatten",
     linkText: "Se på SVT Play"
   },
   {
-    date: "2026-09-12", label: "12 sep 2026",
+    start: "2026-09-12T20:00:00", end: "2026-09-12T21:30:00", label: "12 sep, kl. 20.00 (ca)", approxTime: true,
     title: "Statsministerduell, del två",
     host: "TV4 — sista stora sändningen före valdagen",
     url: "https://www.tv4.se/partiledardebatt",
@@ -1066,32 +1442,83 @@ const DEBATES = [
   }
 ];
 
+function getDebateStatus(d, now){
+  const start = new Date(d.start);
+  const end = new Date(d.end);
+  const soonThreshold = new Date(start.getTime() - 2*60*60*1000); // 2h before start
+  if (now >= start && now <= end) return "live";
+  if (now >= soonThreshold && now < start) return "soon";
+  if (now < soonThreshold) return "upcoming";
+  return "past";
+}
+
 function renderDebates(){
   const el = document.getElementById('debateList');
   if (!el) return;
-  const today = new Date('2026-08-22'); // matches the site's "last updated" reference date
+  const now = new Date();
 
-  const sorted = DEBATES.slice().sort((a,b)=> new Date(a.date) - new Date(b.date));
+  const sorted = DEBATES.slice().sort((a,b)=> new Date(a.start) - new Date(b.start));
 
   el.innerHTML = sorted.map(d => {
-    const endDate = new Date(d.dateEnd || d.date);
-    const isPast = endDate < today;
-    const isNextUp = !isPast && new Date(d.date) <= today ? true : false;
+    const status = getDebateStatus(d, now);
+    const isPast = status === "past";
+    const statusLabel = {live:"🔴 Sänds nu", soon:"Snart", upcoming:"Kommande", past:"Redan sänd"}[status];
+    const chipClass = {live:"chip-live", soon:"chip-soon", upcoming:"chip-upcoming", past:"chip-past"}[status];
+    const timeNote = d.approxTime ? " (ungefärlig tid, ej officiellt bekräftad)" : "";
     return `
-      <div class="debate-item ${isPast ? 'is-past' : ''}">
-        <div class="debate-date">${d.label}<span>${isPast ? 'Redan sänd' : 'Kommande'}</span></div>
+      <div class="debate-item ${isPast ? 'is-past' : ''} ${status === 'live' ? 'is-live' : ''}">
+        <div class="debate-date">${d.label}<span>${statusLabel}</span></div>
         <div class="debate-main">
           <div class="debate-title">${d.title}</div>
-          <div class="debate-host">${d.host}</div>
+          <div class="debate-host">${d.host}${timeNote}</div>
         </div>
         <div class="debate-actions">
           <span class="chip chip-free">Gratis</span>
-          <span class="chip ${isPast ? 'chip-past' : 'chip-upcoming'}">${isPast ? 'Sänd' : 'Kommande'}</span>
+          <span class="chip ${chipClass}">${statusLabel}</span>
           <a class="debate-link" href="${d.url}" target="_blank" rel="noopener">${d.linkText} ↗</a>
         </div>
       </div>
     `;
   }).join('');
+}
+
+function renderLiveBanner(){
+  const el = document.getElementById('liveDebateBanner');
+  if (!el) return;
+  const now = new Date();
+
+  // find a debate that's live, or the soonest one starting within 2h
+  const candidates = DEBATES
+    .map(d => ({ d, status: getDebateStatus(d, now) }))
+    .filter(x => x.status === "live" || x.status === "soon")
+    .sort((a,b) => new Date(a.d.start) - new Date(b.d.start));
+
+  if (candidates.length === 0){
+    el.style.display = "none";
+    el.innerHTML = "";
+    return;
+  }
+
+  const { d, status } = candidates[0];
+  const start = new Date(d.start);
+  const timeStr = start.toLocaleTimeString('sv-SE', {hour:'2-digit', minute:'2-digit'});
+
+  const headline = status === "live"
+    ? "🔴 Sänds nu"
+    : "Snart: sänds kl. " + timeStr;
+
+  el.style.display = "block";
+  el.className = "live-debate-banner " + (status === "live" ? "is-live" : "is-soon");
+  el.innerHTML = `
+    <div class="live-debate-inner">
+      <div class="live-debate-text">
+        <span class="live-debate-tag">${headline}</span>
+        <span class="live-debate-title">${d.title}</span>
+        <span class="live-debate-host">${d.host}</span>
+      </div>
+      <a class="live-debate-link" href="${d.url}" target="_blank" rel="noopener">${d.linkText} ↗</a>
+    </div>
+  `;
 }
 
 
@@ -1315,8 +1742,20 @@ renderGrid();
 renderBlocBar();
 renderSummary();
 renderDebates();
+renderLiveBanner();
+
+// Re-check live/soon debate status every minute, in case someone leaves the
+// page open across a debate's start time.
+setInterval(() => {
+  renderDebates();
+  renderLiveBanner();
+}, 60 * 1000);
+renderTopicLegend();
 renderTopics();
+renderRadarProfiles();
+initTopicViewToggle();
 renderAgreementMatrix();
+renderCompassLinks();
 loadLivePollData();
 
 async function loadLivePollData(){
