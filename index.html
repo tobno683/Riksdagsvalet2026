@@ -310,7 +310,31 @@
     padding:9px 0; border-bottom:1px dashed var(--line);
   }
   .topic-row-compact:last-child{border-bottom:none;}
+  .topic-row-clickable{cursor:pointer; transition:background .12s ease; margin:0 -14px; padding:9px 14px;}
+  .topic-row-clickable:hover{background:var(--paper);}
+  .topic-row-clickable.is-open{background:var(--paper);}
   .topic-title-compact{font-size:12.5px; font-weight:600; color:var(--ink); margin-bottom:6px;}
+  .topic-title-compact::after{content:" ▾"; color:var(--ink-soft); font-size:10px;}
+  .topic-row-clickable.is-open .topic-title-compact::after{content:" ▴";}
+  .topic-detail-panel{
+    margin-top:14px; padding-top:14px; border-top:1px solid var(--line);
+  }
+  .topic-detail-summary{font-size:13px; line-height:1.6; color:var(--ink); margin:0 0 12px; max-width:640px;}
+  .topic-detail-linklabel{
+    font-family:'IBM Plex Mono',monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.04em;
+    color:var(--ink-soft); margin:0 0 8px;
+  }
+  .topic-source-list{display:flex; flex-direction:column; gap:6px;}
+  .topic-source-link{
+    font-size:13px; color:var(--focus); text-decoration:none; word-break:break-word;
+  }
+  .topic-source-link:hover{text-decoration:underline;}
+  .topic-detail-nosource{font-size:12.5px; color:var(--ink-soft); font-style:italic; margin:0;}
+  .topic-fallback-link{
+    background:none; border:none; padding:0; margin:0; cursor:pointer;
+    font-size:12.5px; font-style:italic; color:var(--focus); text-decoration:underline;
+    font-family:inherit;
+  }
   .topic-track-row{display:flex; align-items:center; gap:18px;}
   .topic-axis-text{
     font-family:'IBM Plex Mono',monospace; font-size:9.5px; text-transform:uppercase; letter-spacing:.02em;
@@ -475,6 +499,17 @@
   .hemicycle-caption{font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); text-align:center; margin-top:10px;}
 
   /* Votes-counted progress indicator */
+  .region-view-indicator{
+    display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px;
+    background:#FF8B6B22; border:1px solid #FF8B6B; border-radius:6px; padding:10px 16px; margin-bottom:20px;
+  }
+  .region-view-indicator span{font-family:'IBM Plex Mono',monospace; font-size:12.5px; color:var(--ink);}
+  .region-view-indicator span b{color:#FF8B6B;}
+  .region-view-reset{
+    font-family:'IBM Plex Mono',monospace; font-size:12px; font-weight:700; color:#FF8B6B;
+    background:none; border:1px solid #FF8B6B; border-radius:100px; padding:5px 12px; cursor:pointer;
+  }
+  .region-view-reset:hover{background:#FF8B6B22;}
   .counted-box{
     background:var(--card); border:1px solid var(--line); border-radius:6px;
     padding:18px 22px; margin-bottom:30px;
@@ -545,21 +580,11 @@
     text-align:left; font-family:inherit; transition:transform .12s ease, box-shadow .12s ease;
   }
   .region-card:hover{transform:translateY(-2px); border-color:#FF8B6B;}
+  .region-card.selected{border-color:#FF8B6B; border-width:2px; background:#FF8B6B14;}
+  .region-card:disabled{cursor:default; opacity:0.5;}
+  .region-card:disabled:hover{transform:none;}
   .region-card-name{font-size:13px; font-weight:600; color:var(--ink); margin-bottom:3px;}
   .region-card-leader{font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft);}
-
-  /* X feed */
-  .feed-shell{
-    background:var(--card); border:1px solid var(--line); border-radius:8px; overflow:hidden; max-width:640px;
-  }
-  .feed-shell-header{
-    padding:14px 18px; border-bottom:1px solid var(--line); display:flex; align-items:center; gap:8px;
-  }
-  .feed-shell-title{font-weight:600; font-size:14px; color:var(--ink);}
-  .feed-live-dot{width:7px; height:7px; border-radius:50%; background:#FF8B6B; animation:feedPulse 1.4s infinite; margin-left:auto;}
-  @keyframes feedPulse{0%,100%{opacity:1;}50%{opacity:.3;}}
-  .feed-live-label{font-family:'IBM Plex Mono',monospace; font-size:10px; text-transform:uppercase; color:#FF8B6B; font-weight:700;}
-  .feed-viewport{min-height:640px; position:relative;}
 
   /* Live debate banner — shown above "Läget just nu" */
   .live-debate-banner{
@@ -595,19 +620,6 @@
   .debate-expand-btn:first-of-type{margin-bottom:1px;}
   .debate-expand-btn:last-of-type{margin-top:1px;}
   .debate-list{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line);}
-
-  .politician-feed-strip{margin:56px 0 10px;}
-  .feed-shell-light{
-    background:var(--card); border:1px solid var(--line); border-radius:6px; overflow:hidden; max-width:640px;
-  }
-  .feed-shell-light-header{
-    padding:14px 18px; border-bottom:1px solid var(--line); display:flex; align-items:center; gap:8px;
-  }
-  .feed-shell-light-title{font-weight:600; font-size:14px; color:var(--ink); font-family:'Fraunces',serif;}
-  .feed-live-dot-light{width:7px; height:7px; border-radius:50%; background:#C81E2E; animation:feedPulseLight 1.4s infinite; margin-left:auto;}
-  @keyframes feedPulseLight{0%,100%{opacity:1;}50%{opacity:.3;}}
-  .feed-live-label-light{font-family:'IBM Plex Mono',monospace; font-size:10px; text-transform:uppercase; color:#C81E2E; font-weight:700;}
-  .feed-viewport-light{min-height:640px; position:relative; background:var(--paper);}
 
   .debate-item{
     background:var(--card); padding:16px 20px;
@@ -735,6 +747,8 @@
 
       <div id="resultsContent" style="display:none;">
 
+        <div class="region-view-indicator" id="regionViewIndicator" style="display:none;"></div>
+
         <div class="counted-box">
           <div class="counted-top">
             <span class="counted-label">Rösträkning</span>
@@ -773,18 +787,6 @@
 
         <p class="compass-subhead" style="margin-top:36px;">Resultat per län — klicka för detaljer</p>
         <div class="region-grid" id="regionGrid"></div>
-
-        <p class="compass-subhead" style="margin-top:36px;">Direkt från politikerna</p>
-        <div class="feed-shell">
-          <div class="feed-shell-header">
-            <span class="feed-shell-title">Direkt från politikerna</span>
-            <span class="feed-live-label">Live</span>
-            <span class="feed-live-dot"></span>
-          </div>
-          <div class="feed-viewport">
-            <a class="twitter-timeline" data-height="640" data-theme="dark" href="https://x.com/i/lists/2091451225153626227?ref_src=twsrc%5Etfw">En X-lista</a>
-          </div>
-        </div>
 
       </div>
     </div>
@@ -852,21 +854,6 @@
       </p>
       <div id="agreementMatrix"></div>
     </div>
-
-    <div class="politician-feed-strip">
-      <p class="section-label">Direkt från politikerna</p>
-      <p class="note" style="margin-bottom:18px; max-width:640px;">Ett sammanslaget X-flöde med partiledarnas officiella konton, i kronologisk ordning.</p>
-      <div class="feed-shell-light">
-        <div class="feed-shell-light-header">
-          <span class="feed-shell-light-title">Direkt från politikerna</span>
-          <span class="feed-live-dot-light"></span>
-          <span class="feed-live-label-light">Live</span>
-        </div>
-        <div class="feed-viewport-light">
-          <a class="twitter-timeline" data-height="640" href="https://x.com/i/lists/2091451225153626227?ref_src=twsrc%5Etfw">En X-lista</a>
-        </div>
-      </div>
-    </div>
   </div>
 </main>
 
@@ -894,10 +881,6 @@
 
 <div class="overlay" id="overlay">
   <div class="detail" id="detailCard"></div>
-</div>
-
-<div class="overlay" id="regionOverlay">
-  <div class="detail" id="regionDetailCard"></div>
 </div>
 
 <button class="chat-fab" id="chatFab" aria-label="Öppna politikchatten" aria-expanded="false">
@@ -1304,62 +1287,90 @@ const TOPICS = [
   {
     title: "Migrationspolitik",
     left: "Mer restriktiv", right: "Mer liberal",
-    scores: { SD:1, M:2, KD:2, L:3, S:3, C:4, V:4, MP:5 }
+    scores: { SD:1, M:2, KD:2, L:3, S:3, C:4, V:4, MP:5 },
+    summary: "Handlar om hur mycket Sverige ska ta emot asylsökande och arbetskraftsinvandrare, samt hur höga kraven ska vara för uppehållstillstånd och medborgarskap.",
+    sources: []
   },
   {
     title: "Skatt för höginkomsttagare & förmögna",
     left: "Sänk kraftigt", right: "Höj kraftigt",
-    scores: { M:1, L:2, C:2, KD:2, SD:2, S:3, MP:4, V:5 }
+    scores: { M:1, L:2, C:2, KD:2, SD:2, S:3, MP:4, V:5 },
+    summary: "Hur progressiv inkomstbeskattningen ska vara, och om skatter på kapital, förmögenhet eller arv bör återinföras eller höjas för att finansiera välfärden.",
+    sources: []
   },
   {
     title: "Vinster i skattefinansierad skola & vård",
     left: "Tillåt fritt", right: "Förbjud vinstuttag",
-    scores: { M:1, L:1, C:2, SD:2, KD:2, S:4, MP:4, V:5 }
+    scores: { M:1, L:1, C:2, SD:2, KD:2, S:4, MP:4, V:5 },
+    summary: "Om privata aktörer inom skattefinansierad skola, vård och omsorg ska få ta ut vinst, eller om pengarna helt ska stanna i verksamheten.",
+    sources: []
   },
   {
     title: "Klimat- & miljöambition (Naturskyddsföreningen, 22 förslag)",
     left: "Lägst ambition", right: "Högst ambition",
-    scores: { SD:1, M:1, KD:2, S:3, C:4, L:4, V:5, MP:5 }
+    scores: { SD:1, M:1, KD:2, S:3, C:4, L:4, V:5, MP:5 },
+    summary: "Hur högt klimat- och miljöfrågor prioriteras i konkret politik, mätt mot Naturskyddsföreningens granskning av 22 förslag inför valet 2026.",
+    sources: []
   },
   {
     title: "Straffskärpning för brott",
     left: "Mjukare / rehabiliterande", right: "Hårdare straff",
-    scores: { V:2, MP:2, C:3, S:4, L:4, KD:4, M:5, SD:5 }
+    scores: { V:2, MP:2, C:3, S:4, L:4, KD:4, M:5, SD:5 },
+    summary: "Om kriminalpolitiken bör fokusera mer på längre straff och avskräckning, eller mer på förebyggande insatser och rehabilitering.",
+    sources: []
   },
   {
     title: "Ny kärnkraft",
     left: "Avveckla / emot ny kärnkraft", right: "Bygg ut kraftigt",
-    scores: { MP:1, V:2, S:3, C:3, L:4, KD:4, M:5, SD:5 }
+    scores: { MP:1, V:2, S:3, C:3, L:4, KD:4, M:5, SD:5 },
+    summary: "Om Sverige bör satsa statligt på ny kärnkraft som del av energiomställningen, eller prioritera andra kraftslag istället.",
+    sources: [
+      { label: "Vilka partier är för och emot kärnkraft? — jämförelse med citat från samtliga åtta partier", url: "https://nyheter24.se/nyheter/politik/1504671-valet-2026-vilka-partier-ar-for-och-emot-karnkraft" },
+      { label: "Kärnkraft valet 2026 — höger mot S om elpolitiken", url: "https://hurbra.se/karnkraft-el-valet-2026/" },
+      { label: "Moderaterna: Färdplan för ny kärnkraft i Sverige", url: "https://moderaterna.se/nyhet/en-fardplan-for-ny-karnkraft-i-sverige/" }
+    ]
   },
   {
     title: "Vindkraft & förnybar energiutbyggnad",
     left: "Lägre prioritet", right: "Högre prioritet",
-    scores: { SD:1, M:2, KD:3, L:3, S:4, C:4, V:5, MP:5 }
+    scores: { SD:1, M:2, KD:3, L:3, S:4, C:4, V:5, MP:5 },
+    summary: "Hur mycket utbyggnad av vindkraft och annan förnybar energi prioriteras, och hur snabbt tillstånd för ny kapacitet bör ges.",
+    sources: []
   },
   {
     title: "Marknadshyror i nyproduktion",
     left: "Behåll dagens hyresreglering", right: "Inför fri hyressättning",
-    scores: { V:1, S:2, MP:2, SD:2, KD:2, C:4, L:4, M:4 }
+    scores: { V:1, S:2, MP:2, SD:2, KD:2, C:4, L:4, M:4 },
+    summary: "Om hyror i nybyggda bostäder ska sättas fritt av marknaden, eller fortsätta regleras som i dagens hyressättningssystem.",
+    sources: []
   },
   {
     title: "EU-samarbete",
     left: "Mer nationellt självbestämmande", right: "Fördjupat samarbete",
-    scores: { SD:1, V:2, S:3, MP:3, KD:4, M:4, L:5, C:5 }
+    scores: { SD:1, V:2, S:3, MP:3, KD:4, M:4, L:5, C:5 },
+    summary: "Hur djupt Sveriges samarbete inom EU bör vara på områden som migration, försvar och lagstiftning, kontra mer nationellt självbestämmande.",
+    sources: []
   },
   {
     title: "Höjda försvarsanslag",
     left: "Lägre prioritet", right: "Högre prioritet",
-    scores: { V:2, MP:3, C:4, S:4, L:4, KD:4, SD:4, M:5 }
+    scores: { V:2, MP:3, C:4, S:4, L:4, KD:4, SD:4, M:5 },
+    summary: "Hur snabbt och hur mycket det militära och civila försvaret bör rustas upp, särskilt efter Sveriges Natomedlemskap 2024.",
+    sources: []
   },
   {
     title: "Statligt huvudmannaskap för sjukvården",
     left: "Behåll regionalt ansvar", right: "Förstatliga",
-    scores: { M:2, S:2, C:2, MP:2, V:3, L:3, SD:4, KD:5 }
+    scores: { M:2, S:2, C:2, MP:2, V:3, L:3, SD:4, KD:5 },
+    summary: "Om ansvaret för sjukvården bör flyttas från regionerna till staten för mer enhetlig styrning, eller stanna kvar som idag.",
+    sources: []
   },
   {
     title: "Arbetstidsförkortning med bibehållen lön",
     left: "Ingen förkortning", right: "Stark förkortning",
-    scores: { C:1, L:1, KD:1, M:1, SD:1, S:2, MP:3, V:5 }
+    scores: { C:1, L:1, KD:1, M:1, SD:1, S:2, MP:3, V:5 },
+    summary: "Om normalarbetstiden bör sänkas med bibehållen lön, som ett sätt att omfördela arbete och fritid i samhället.",
+    sources: []
   }
 ];
 
@@ -1488,7 +1499,7 @@ function renderTopicLegend(){
 function renderTopics(){
   const el = document.getElementById('topicsChart');
   if (!el) return;
-  el.innerHTML = TOPICS.map(topic => {
+  el.innerHTML = TOPICS.map((topic, idx) => {
     // group party ids sharing the same score so overlapping dots can fan out
     const groups = {};
     Object.entries(topic.scores).forEach(([pid, score]) => {
@@ -1498,22 +1509,56 @@ function renderTopics(){
       const pct = 6 + ((score - 1) / 4) * 88; // map 1..5 to 6%..94%, leaving margin at both ends
       const group = groups[score];
       const n = group.length;
-      const idx = group.indexOf(pid);
-      const offsetPx = n > 1 ? (idx - (n - 1) / 2) * 15 : 0;
+      const dotIdx = group.indexOf(pid);
+      const offsetPx = n > 1 ? (dotIdx - (n - 1) / 2) * 15 : 0;
       const transform = `translate(calc(-50% + ${offsetPx}px), -50%)`;
       return `<div class="topic-dot-compact" style="left:${pct}%; background:${partyColor(pid)}; transform:${transform};" title="${pid}: ${score}/5">${pid}</div>`;
     }).join('');
+
+    const hasSources = topic.sources && topic.sources.length > 0;
+    const sourcesHTML = hasSources
+      ? `
+        <p class="topic-detail-linklabel">Källor där partierna kommenterat sin ståndpunkt i just den här frågan:</p>
+        <div class="topic-source-list">
+          ${topic.sources.map(s => `<a class="topic-source-link" href="${s.url}" target="_blank" rel="noopener">${s.label} ↗</a>`).join('')}
+        </div>
+      `
+      : `<p class="topic-detail-nosource">Vi har ännu inte hittat och verifierat specifika källor för just den här frågan. <button class="topic-fallback-link" data-fallback-idx="${idx}">Se partiernas fullständiga profiler istället →</button></p>`;
+
     return `
-      <div class="topic-row-compact">
+      <div class="topic-row-compact topic-row-clickable" data-topic-idx="${idx}">
         <div class="topic-title-compact">${topic.title}</div>
         <div class="topic-track-row">
           <span class="topic-axis-text">${topic.left}</span>
           <div class="topic-track-compact">${dots}</div>
           <span class="topic-axis-text right">${topic.right}</span>
         </div>
+        <div class="topic-detail-panel" id="topicDetail${idx}" style="display:none;">
+          <p class="topic-detail-summary">${topic.summary}</p>
+          ${sourcesHTML}
+        </div>
       </div>
     `;
   }).join('');
+
+  el.querySelectorAll('.topic-row-clickable').forEach(row => {
+    const idx = row.dataset.topicIdx;
+    row.addEventListener('click', (e) => {
+      if (e.target.closest('.topic-source-link') || e.target.closest('.topic-fallback-link')) return;
+      const panel = document.getElementById('topicDetail' + idx);
+      const isOpen = panel.style.display !== 'none';
+      panel.style.display = isOpen ? 'none' : 'block';
+      row.classList.toggle('is-open', !isOpen);
+    });
+  });
+
+  el.querySelectorAll('.topic-fallback-link').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const grid = document.getElementById('grid');
+      if (grid) grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
 }
 
 // Short axis labels for the radar view — same 12 topics, compact wording.
@@ -2254,6 +2299,12 @@ function renderCountedProgress(countedPct){
   captionEl.textContent = `~${districtsReported.toLocaleString('sv-SE')} av cirka ${TOTAL_DISTRICTS.toLocaleString('sv-SE')} valdistrikt rapporterade`;
 }
 
+// Tracks the last-loaded national dataset and regional breakdown, so
+// selecting/resetting a region can re-derive its view without re-fetching.
+let lastNationalResults = null;
+let lastRegionsResults = {};
+let selectedRegion = null;
+
 function renderRegionGrid(regions){
   const el = document.getElementById('regionGrid');
   if (!el) return;
@@ -2262,69 +2313,65 @@ function renderRegionGrid(regions){
     const leaderText = data
       ? Object.entries(data).sort((a, b) => b[1] - a[1])[0][0] + ' störst'
       : 'Väntar på data';
-    return `<button class="region-card" data-region="${name}">
+    const isActive = selectedRegion === name;
+    return `<button class="region-card ${isActive ? 'selected' : ''}" data-region="${name}" ${data ? '' : 'disabled'}>
       <div class="region-card-name">${name}</div>
       <div class="region-card-leader">${leaderText}</div>
     </button>`;
   }).join('');
 
   el.querySelectorAll('.region-card').forEach(btn => {
-    btn.addEventListener('click', () => openRegionDetail(btn.dataset.region, regions[btn.dataset.region]));
+    if (btn.disabled) return;
+    btn.addEventListener('click', () => selectResultsView(btn.dataset.region));
   });
 }
 
-function openRegionDetail(name, data){
-  const card = document.getElementById('regionDetailCard');
-  if (!data){
-    card.innerHTML = `
-      <button class="detail-close" id="regionCloseBtn" aria-label="Stäng">✕</button>
-      <div class="detail-header"><h2 class="detail-title">${name}</h2></div>
-      <div class="detail-body"><p class="note">Regionala resultat för ${name} är inte tillgängliga ännu.</p></div>
-    `;
-  } else {
-    const sorted = Object.entries(data).sort((a, b) => b[1] - a[1]);
-    const maxPct = Math.max(...sorted.map(([, p]) => p));
-    const bars = sorted.map(([pid, pct]) => `
-      <div class="results-bar-row">
-        <span class="results-bar-label" style="color:${partyColor(pid)}">${pid}</span>
-        <div class="results-bar-track">
-          <div class="results-bar-fill" style="width:${(pct / maxPct * 100).toFixed(1)}%; background:${partyColor(pid)};">
-            <span class="results-bar-pct">${pct.toFixed(1)}%</span>
-          </div>
-        </div>
-      </div>`).join('');
-    card.innerHTML = `
-      <button class="detail-close" id="regionCloseBtn" aria-label="Stäng">✕</button>
-      <div class="detail-header"><h2 class="detail-title">${name}</h2></div>
-      <div class="detail-body">${bars}</div>
-    `;
+// Switches the bar chart, hemicycle, and coalition builder above to show
+// either the national results (regionName = null) or a single region's
+// results (as a "if the whole country voted like this region" hypothetical
+// — clearly labelled as such, since the seat-allocation math is inherently
+// a national-level calculation).
+function selectResultsView(regionName){
+  const data = regionName ? lastRegionsResults[regionName] : lastNationalResults;
+  if (!data) return; // no data for that region yet — nothing to switch to
+
+  selectedRegion = regionName || null;
+
+  const seats = calculateSeats(data);
+  renderResultsBarChart(data);
+  document.getElementById('hemicycleChart').innerHTML = buildHemicycleSVG(seats, AGREEMENT_ORDER);
+  renderBuilderToggles(seats);
+  renderBuilderResult(seats);
+  renderRegionGrid(lastRegionsResults); // re-render so the active card is highlighted
+
+  const indicator = document.getElementById('regionViewIndicator');
+  if (indicator){
+    if (selectedRegion){
+      indicator.style.display = 'flex';
+      indicator.innerHTML = `
+        <span>Visar: <b>${selectedRegion}</b> — som om hela landet röstat som detta län</span>
+        <button class="region-view-reset" id="regionViewReset">← Visa nationellt resultat</button>
+      `;
+      document.getElementById('regionViewReset').addEventListener('click', () => selectResultsView(null));
+    } else {
+      indicator.style.display = 'none';
+      indicator.innerHTML = '';
+    }
   }
-  document.getElementById('regionOverlay').classList.add('open');
-  document.getElementById('regionCloseBtn').addEventListener('click', closeRegionDetail);
-  document.body.style.overflow = 'hidden';
 }
-
-function closeRegionDetail(){
-  document.getElementById('regionOverlay').classList.remove('open');
-  document.body.style.overflow = '';
-}
-
-document.getElementById('regionOverlay').addEventListener('click', (e) => {
-  if (e.target.id === 'regionOverlay') closeRegionDetail();
-});
 
 function renderResultsContent(national, regions, countedPct){
   document.getElementById('resultsWaiting').style.display = 'none';
   document.getElementById('resultsContent').style.display = 'block';
 
-  const seats = calculateSeats(national);
+  lastNationalResults = national;
+  lastRegionsResults = regions || {};
+  selectedRegion = null;
+
   renderCountedProgress(countedPct);
-  renderResultsBarChart(national);
-  document.getElementById('hemicycleChart').innerHTML = buildHemicycleSVG(seats, AGREEMENT_ORDER);
-  renderBuilderToggles(seats);
-  renderBuilderResult(seats);
-  renderCompareTable(national, seats);
-  renderRegionGrid(regions || {});
+  renderCompareTable(national, calculateSeats(national)); // always national — 2022 baseline has no regional breakdown
+  renderRegionGrid(lastRegionsResults);
+  selectResultsView(null); // renders bar chart, hemicycle, and builder for the national view
 }
 
 async function loadRealResults(){
@@ -2627,6 +2674,5 @@ async function loadLivePollData(){
 }
 </script>
 
-<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
