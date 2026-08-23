@@ -85,6 +85,7 @@ NON_POLL_PHRASES = [
     "margin of error",
     "PolitPro Score",
     "accuracy",
+    "would win",
 ]
 
 PERCENT_RE = re.compile(r"(\d{1,2}(?:[.,]\d+)?)\s*%")
