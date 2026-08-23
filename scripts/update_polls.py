@@ -72,24 +72,62 @@ def fetch_page_text() -> str:
     return re.sub(r"\s+", " ", soup.get_text(" ", strip=True))
 
 
+# Phrases that introduce a percentage which is NOT a poll result — e.g.
+# PolitPro's Monte Carlo "chance of entering parliament" simulations for
+# parties near the 4% threshold (relevant for Liberalerna specifically).
+# A percentage is skipped as a false match if one of these phrases appears
+# between the party's name and that percentage.
+NON_POLL_PHRASES = [
+    "simulations",
+    "chance",
+    "probability",
+    "enter parliament",
+    "margin of error",
+    "PolitPro Score",
+    "accuracy",
+]
+
+PERCENT_RE = re.compile(r"(\d{1,2}(?:[.,]\d+)?)\s*%")
+
+
+def find_party_percentage(text, full_name, all_names):
+    """Find the nearest percentage after `full_name` that isn't disqualified
+    by crossing into another party's name or a known non-poll phrase in
+    between. Unlike a single greedy/lazy regex, this evaluates every
+    candidate percentage independently, so a disqualified one (e.g. a
+    "chance of entering parliament" stat) doesn't block reaching a valid
+    one further along — it's simply skipped in favour of the next."""
+    others = [n for n in all_names if n != full_name]
+
+    for name_match in re.finditer(re.escape(full_name), text):
+        search_start = name_match.end()
+        window_text = text[search_start: search_start + 200]
+
+        for pct_match in PERCENT_RE.finditer(window_text):
+            between = window_text[: pct_match.start()]  # full prefix, for the cross-party check
+            local = window_text[max(0, pct_match.start() - 40): pct_match.start()]  # just-before-this-number, for the phrase check
+            if any(other in between for other in others):
+                continue  # crossed into another party's mention — disqualified
+            if any(phrase.lower() in local.lower() for phrase in NON_POLL_PHRASES):
+                continue  # a non-poll stat immediately before this number — disqualified
+            value = float(pct_match.group(1).replace(",", "."))
+            context = full_name + between + pct_match.group(0)
+            return value, context
+
+    return None, None
+
+
 def parse_latest_poll(text: str):
     values = {}
     misses = []
+    matched_context = {}  # pid -> the text snippet that produced the value, for diagnostics
     all_names = list(FULL_NAMES.values())
 
     for pid, full_name in FULL_NAMES.items():
-        # Match "<Full party name> ... 30.5%", but refuse to let the gap
-        # between the name and the percentage cross into any OTHER party's
-        # name — otherwise a party mentioned with no percentage nearby
-        # ("Miljöpartiet is trending, Vänsterpartiet with 7.4%") could
-        # silently steal the next party's number instead of failing loudly.
-        others = [n for n in all_names if n != full_name]
-        exclude = "|".join(re.escape(n) for n in others)
-        gap = f"(?:(?!{exclude}).){{0,35}}?" if others else ".{0,35}?"
-        pattern = re.escape(full_name) + gap + r"(\d{1,2}(?:[.,]\d+)?)\s*%"
-        match = re.search(pattern, text)
-        if match:
-            values[pid] = float(match.group(1).replace(",", "."))
+        value, context = find_party_percentage(text, full_name, all_names)
+        if value is not None:
+            values[pid] = value
+            matched_context[pid] = context
         else:
             misses.append(pid)
 
@@ -113,9 +151,13 @@ def parse_latest_poll(text: str):
     total = sum(values.values())
     plausible = 85 <= total <= 105 and all(0 <= v <= 55 for v in values.values())
     if not plausible:
+        # Include what was actually matched for each party, so a bad number
+        # (like a stray unrelated percentage near a party's name) is
+        # immediately visible in the log instead of just the final total.
+        context_dump = " | ".join(f"{pid}: {matched_context[pid]!r}" for pid in values)
         raise ValueError(
             f"Parsed values failed the sanity check (sum={total:.1f}, "
-            f"expected roughly 85-105): {values}"
+            f"expected roughly 85-105): {values}. Matched text per party: {context_dump}"
         )
 
     return values
