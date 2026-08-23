@@ -106,5 +106,3 @@ function jsonResponse(obj, status = 200) {
     headers: { "Content-Type": "application/json" },
   });
 }
-
-// Add chat API function
