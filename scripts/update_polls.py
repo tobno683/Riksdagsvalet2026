@@ -62,24 +62,50 @@ def fetch_page_html() -> str:
     return data["parse"]["text"]
 
 
+def cell_label(cell):
+    """Extract a usable text label from a table cell. Wikipedia poll tables
+    sometimes use a small party logo image instead of plain text in header
+    cells, in which case the visible text is empty — fall back to the
+    image's alt text, then a link's title attribute."""
+    text = cell.get_text(strip=True)
+    if text:
+        # Strip footnote markers like "S[1]" or "S[a]" that would otherwise
+        # break an exact match against the plain party abbreviation.
+        return re.sub(r"\[.*?\]", "", text).strip()
+    img = cell.find("img")
+    if img and img.get("alt"):
+        return img["alt"].strip()
+    link = cell.find("a")
+    if link and link.get("title"):
+        return link["title"].strip()
+    return ""
+
+
 def find_best_table(soup: BeautifulSoup):
     """Find the wikitable whose header row best matches the party abbreviations."""
     tables = soup.find_all("table", class_="wikitable")
     best_table, best_score, best_header_cells = None, 0, []
+    diagnostics = []
 
     for table in tables:
         first_row = table.find("tr")
         if not first_row:
             continue
-        header_cells = [c.get_text(strip=True) for c in first_row.find_all(["th", "td"])]
+        header_cells = [cell_label(c) for c in first_row.find_all(["th", "td"])]
         score = sum(1 for pid in PARTY_IDS if pid in header_cells)
+        diagnostics.append((score, header_cells[:12]))  # keep first 12 cells for logging
         if score > best_score:
             best_table, best_score, best_header_cells = table, score, header_cells
 
     if best_table is None or best_score < 5:
+        # Print what we actually saw, so a failed run's log tells us why,
+        # instead of just "0/8" with no further clue.
+        diagnostics.sort(key=lambda d: -d[0])
+        preview = "; ".join(f"{s}/8 -> {cells}" for s, cells in diagnostics[:5])
         raise ValueError(
             f"Could not find a polling table with enough recognisable party "
-            f"columns (best match found {best_score}/8 parties)."
+            f"columns (best match found {best_score}/8 parties). "
+            f"Top candidate header rows seen: {preview}"
         )
     return best_table, best_header_cells
 
@@ -111,7 +137,7 @@ def parse_latest_poll(html: str):
         values = {}
         row_ok = True
         for pid, idx in col_index.items():
-            num = clean_number(cells[idx].get_text(strip=True))
+            num = clean_number(cell_label(cells[idx]) or cells[idx].get_text(strip=True))
             if num is None:
                 row_ok = False
                 break
