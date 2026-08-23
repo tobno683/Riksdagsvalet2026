@@ -1,8 +1,8 @@
 {
   "updated_at": "2026-08-22T00:00:00Z",
   "poll_date_label": "aug. 2026 (startvärden, ej ännu auto-uppdaterat)",
-  "source": "Manuellt startvärde baserat på Demoskop/Novus/Verian, augusti 2026",
-  "source_url": "https://sv.wikipedia.org/wiki/Opinionsunders%C3%B6kningar_inf%C3%B6r_riksdagsvalet_i_Sverige_2026",
+  "source": "Manuellt startvärde baserat på Demoskop/Novus/Verian, augusti 2026. Automatisk uppdatering hämtar från PolitPro.eu (källa krävs vid publik visning: Source: PolitPro.eu).",
+  "source_url": "https://politpro.eu/en/sweden",
   "parties": {
     "S": 30.5,
     "M": 17.3,
