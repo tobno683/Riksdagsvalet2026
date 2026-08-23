@@ -441,11 +441,21 @@
   .heatmap-wrap{overflow-x:auto; padding-bottom:6px;}
   .heatmap-tooltip-note{font-size:12px; color:var(--ink-soft); margin-top:10px;}
 
-  /* Election-night results */
+  /* Election-night results — dark indigo theme, scoped to .results-strip.
+     Overriding the shared --ink/--ink-soft/--line/--card/--paper tokens
+     locally means every nested component (bar chart, hemicycle SVG,
+     region cards) automatically inherits the dark palette without
+     needing separate dark-mode rules for each one. */
   .results-strip{
-    margin:56px 0 60px; border-top:2px solid #C81E2E; border-bottom:2px solid #C81E2E;
-    padding:32px 0; background:#FDEDEE;
+    --ink:#EDEAF5; --ink-soft:#B0A8CC; --line:#3A3564; --card:#242144; --paper:#141230; --focus:#FF8B6B;
+    margin:56px 0 60px; border-top:2px solid #FF8B6B; border-bottom:2px solid #FF8B6B;
+    padding:32px 0; background:#1A1830; color:var(--ink);
   }
+  .results-strip .section-label{color:#FF8B6B;}
+  .results-strip .compass-subhead{color:#FF8B6B;}
+  .results-strip .compass-subhead::after{background:var(--line);}
+  .results-strip .note{color:var(--ink-soft);}
+  .results-strip .note b{color:var(--ink);}
   .results-inner{
     max-width:1700px; margin:0 auto; padding:0 24px;
   }
@@ -453,7 +463,7 @@
     font-family:'IBM Plex Mono',monospace; font-size:14px; color:var(--ink-soft);
     padding:30px; text-align:center; border:1px dashed var(--line); background:var(--card);
   }
-  .results-grid{display:grid; grid-template-columns:1fr 1fr; gap:28px;}
+  .results-grid{display:grid; grid-template-columns:1fr 1fr; gap:28px; margin-bottom:36px;}
   @media (max-width:760px){ .results-grid{grid-template-columns:1fr;} }
   .results-bar-row{display:flex; align-items:center; gap:10px; margin-bottom:8px;}
   .results-bar-label{
@@ -462,6 +472,62 @@
   .results-bar-track{flex:1; height:20px; background:var(--paper); border:1px solid var(--line); position:relative;}
   .results-bar-fill{height:100%; display:flex; align-items:center; justify-content:flex-end; padding-right:6px;}
   .results-bar-pct{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:#fff; font-weight:600;}
+  .hemicycle-caption{font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); text-align:center; margin-top:10px;}
+
+  /* Votes-counted progress indicator */
+  .counted-box{
+    background:var(--card); border:1px solid var(--line); border-radius:6px;
+    padding:18px 22px; margin-bottom:30px;
+  }
+  .counted-top{display:flex; align-items:baseline; justify-content:space-between; margin-bottom:10px;}
+  .counted-label{font-family:'IBM Plex Mono',monospace; font-size:11px; text-transform:uppercase; letter-spacing:.06em; color:var(--ink-soft); font-weight:600;}
+  .counted-pct{font-family:'Fraunces',serif; font-weight:700; font-size:26px; color:#FF8B6B;}
+  .counted-track{height:14px; background:var(--paper); border-radius:100px; overflow:hidden;}
+  .counted-fill{
+    height:100%; background:linear-gradient(90deg, #FF8B6B, #FFB199); border-radius:100px;
+    transition:width .4s ease; width:0%;
+  }
+  .counted-caption{font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); margin:8px 0 0;}
+
+  /* Interactive coalition builder */
+  .builder-box{
+    background:var(--card); border:1px solid var(--line); border-radius:6px; padding:24px 26px; margin-bottom:36px;
+  }
+  .builder-hint{font-size:12.5px; color:var(--ink-soft); margin-bottom:16px; max-width:600px; line-height:1.5;}
+  .builder-toggles{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:22px;}
+  .party-toggle{
+    font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:700; padding:9px 16px;
+    border-radius:100px; cursor:pointer; border:2px solid transparent; opacity:0.35;
+    transition:opacity .15s ease; color:#fff; user-select:none;
+  }
+  .party-toggle:hover{opacity:0.6;}
+  .party-toggle.selected{opacity:1; border-color:#fff;}
+  .party-toggle .seats-count{font-weight:400; opacity:0.85; margin-left:4px;}
+  .builder-result{display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:16px; margin-bottom:10px;}
+  .builder-total{font-family:'Fraunces',serif; font-weight:700; font-size:28px; color:var(--ink);}
+  .builder-status{
+    font-family:'IBM Plex Mono',monospace; font-size:12.5px; font-weight:700; padding:6px 14px; border-radius:100px;
+  }
+  .builder-status.majority{background:#2E7D5A33; color:#7FE0B5;}
+  .builder-status.short{background:#FF8B6B22; color:#FF8B6B;}
+  .builder-bar{display:flex; height:34px; border-radius:3px; overflow:hidden; background:var(--paper);}
+  .builder-seg{display:flex; align-items:center; justify-content:center; font-family:'IBM Plex Mono',monospace; font-size:11.5px; font-weight:700; color:#fff; transition:width .2s ease;}
+  .builder-majority-label{font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--ink-soft); text-align:center; margin-top:6px;}
+
+  /* 2022 vs 2026 comparison table */
+  .compare-table{width:100%; border-collapse:collapse; font-size:13px; margin-bottom:36px;}
+  .compare-table th{
+    font-family:'IBM Plex Mono',monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.04em;
+    color:var(--ink-soft); text-align:right; padding:8px 10px; border-bottom:1px solid var(--line); font-weight:600;
+  }
+  .compare-table th:first-child, .compare-table td:first-child{text-align:left;}
+  .compare-table td{padding:10px 10px; border-bottom:1px solid var(--line); text-align:right; color:var(--ink);}
+  .compare-party-cell{display:flex; align-items:center; gap:8px;}
+  .compare-dot{width:10px; height:10px; border-radius:50%; flex-shrink:0;}
+  .compare-delta{font-family:'IBM Plex Mono',monospace; font-weight:700; font-size:12.5px;}
+  .compare-delta.up{color:#7FE0B5;}
+  .compare-delta.down{color:#FF8B6B;}
+  .compare-delta.flat{color:var(--ink-soft);}
 
   .coalition-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(240px, 1fr)); gap:12px;}
   .coalition-card{background:var(--card); border:1px solid var(--line); padding:14px 16px;}
@@ -478,9 +544,22 @@
     background:var(--card); border:1px solid var(--line); padding:12px 14px; cursor:pointer;
     text-align:left; font-family:inherit; transition:transform .12s ease, box-shadow .12s ease;
   }
-  .region-card:hover{transform:translateY(-2px); box-shadow:0 6px 14px rgba(19,42,34,0.12);}
+  .region-card:hover{transform:translateY(-2px); border-color:#FF8B6B;}
   .region-card-name{font-size:13px; font-weight:600; color:var(--ink); margin-bottom:3px;}
   .region-card-leader{font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft);}
+
+  /* X feed */
+  .feed-shell{
+    background:var(--card); border:1px solid var(--line); border-radius:8px; overflow:hidden; max-width:640px;
+  }
+  .feed-shell-header{
+    padding:14px 18px; border-bottom:1px solid var(--line); display:flex; align-items:center; gap:8px;
+  }
+  .feed-shell-title{font-weight:600; font-size:14px; color:var(--ink);}
+  .feed-live-dot{width:7px; height:7px; border-radius:50%; background:#FF8B6B; animation:feedPulse 1.4s infinite; margin-left:auto;}
+  @keyframes feedPulse{0%,100%{opacity:1;}50%{opacity:.3;}}
+  .feed-live-label{font-family:'IBM Plex Mono',monospace; font-size:10px; text-transform:uppercase; color:#FF8B6B; font-weight:700;}
+  .feed-viewport{min-height:640px; position:relative;}
 
   /* Live debate banner — shown above "Läget just nu" */
   .live-debate-banner{
@@ -506,16 +585,30 @@
   .live-debate-link:hover{opacity:0.9;}
   .live-debate-banner.is-live .live-debate-tag::before{content:"● "; animation:pulse 1.4s infinite;}
   @keyframes pulse{ 0%,100%{opacity:1;} 50%{opacity:0.35;} }
-  .debate-strip-collapsed{border:1px solid var(--line); background:var(--card); padding:18px 22px;}
-  .debate-collapse-toggle{
-    display:flex; align-items:center; justify-content:space-between; width:100%;
-    background:none; border:none; cursor:pointer; padding:0; text-align:left;
+  .debate-expand-btn{
+    display:flex; align-items:center; justify-content:center; gap:6px; width:100%;
+    background:var(--card); border:1px dashed var(--line); color:var(--focus);
+    font-family:'IBM Plex Mono',monospace; font-size:12px; font-weight:600;
+    padding:10px; cursor:pointer; transition:background .15s ease, border-color .15s ease;
   }
-  .debate-toggle-icon{
-    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--focus); font-weight:600;
-    white-space:nowrap; flex-shrink:0; margin-left:12px;
-  }
+  .debate-expand-btn:hover{background:var(--paper); border-color:var(--focus);}
+  .debate-expand-btn:first-of-type{margin-bottom:1px;}
+  .debate-expand-btn:last-of-type{margin-top:1px;}
   .debate-list{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line);}
+
+  .politician-feed-strip{margin:56px 0 10px;}
+  .feed-shell-light{
+    background:var(--card); border:1px solid var(--line); border-radius:6px; overflow:hidden; max-width:640px;
+  }
+  .feed-shell-light-header{
+    padding:14px 18px; border-bottom:1px solid var(--line); display:flex; align-items:center; gap:8px;
+  }
+  .feed-shell-light-title{font-weight:600; font-size:14px; color:var(--ink); font-family:'Fraunces',serif;}
+  .feed-live-dot-light{width:7px; height:7px; border-radius:50%; background:#C81E2E; animation:feedPulseLight 1.4s infinite; margin-left:auto;}
+  @keyframes feedPulseLight{0%,100%{opacity:1;}50%{opacity:.3;}}
+  .feed-live-label-light{font-family:'IBM Plex Mono',monospace; font-size:10px; text-transform:uppercase; color:#C81E2E; font-weight:700;}
+  .feed-viewport-light{min-height:640px; position:relative; background:var(--paper);}
+
   .debate-item{
     background:var(--card); padding:16px 20px;
     display:grid; grid-template-columns:120px 1fr auto; gap:18px; align-items:center;
@@ -641,6 +734,16 @@
       <div id="resultsWaiting" class="results-waiting">Väntar på resultat från Valmyndigheten …</div>
 
       <div id="resultsContent" style="display:none;">
+
+        <div class="counted-box">
+          <div class="counted-top">
+            <span class="counted-label">Rösträkning</span>
+            <span class="counted-pct" id="countedPct">—</span>
+          </div>
+          <div class="counted-track"><div class="counted-fill" id="countedFill"></div></div>
+          <p class="counted-caption" id="countedCaption"></p>
+        </div>
+
         <div class="results-grid">
           <div class="results-col">
             <p class="compass-subhead">Röstandel per parti</p>
@@ -649,14 +752,40 @@
           <div class="results-col">
             <p class="compass-subhead">Mandatfördelning (349 platser, 175 för majoritet)</p>
             <div id="hemicycleChart"></div>
+            <p class="hemicycle-caption">175 mandat krävs för majoritet</p>
           </div>
         </div>
 
-        <p class="compass-subhead" style="margin-top:32px;">Vilka koalitioner når 175 mandat?</p>
-        <div class="coalition-grid" id="coalitionGrid"></div>
+        <p class="compass-subhead">Bygg din egen koalition</p>
+        <div class="builder-box">
+          <p class="builder-hint">Klicka på partierna du vill kombinera och se om det räcker till 175 mandat.</p>
+          <div class="builder-toggles" id="builderToggles"></div>
+          <div class="builder-result">
+            <div><span class="builder-total" id="builderTotal">0</span> <span style="color:var(--ink-soft); font-size:13px;">/ 349 mandat</span></div>
+            <span class="builder-status" id="builderStatus"></span>
+          </div>
+          <div class="builder-bar" id="builderBar"></div>
+          <div class="builder-majority-label">175 mandat krävs för majoritet</div>
+        </div>
 
-        <p class="compass-subhead" style="margin-top:32px;">Resultat per län — klicka för detaljer</p>
+        <p class="compass-subhead">2022 vs 2026 — förändring sedan förra valet</p>
+        <table class="compare-table" id="compareTable"></table>
+
+        <p class="compass-subhead" style="margin-top:36px;">Resultat per län — klicka för detaljer</p>
         <div class="region-grid" id="regionGrid"></div>
+
+        <p class="compass-subhead" style="margin-top:36px;">Direkt från politikerna</p>
+        <div class="feed-shell">
+          <div class="feed-shell-header">
+            <span class="feed-shell-title">Direkt från politikerna</span>
+            <span class="feed-live-label">Live</span>
+            <span class="feed-live-dot"></span>
+          </div>
+          <div class="feed-viewport">
+            <a class="twitter-timeline" data-height="640" data-theme="dark" href="https://x.com/i/lists/2091451225153626227?ref_src=twsrc%5Etfw">En X-lista</a>
+          </div>
+        </div>
+
       </div>
     </div>
   </div>
@@ -689,14 +818,11 @@
     </div>
 
     <div class="debate-strip" id="debateStrip">
-      <button class="debate-collapse-toggle" id="debateToggle" aria-expanded="false" style="display:none;">
-        <span class="section-label" style="margin:0;">Debattflöde — se debatterna gratis</span>
-        <span class="debate-toggle-icon" id="debateToggleIcon">▾ Visa alla</span>
-      </button>
-      <p class="section-label" id="debateStaticLabel">Debattflöde — se debatterna gratis</p>
-      <p class="note" style="margin-bottom:18px; max-width:640px;">Samtliga debatter nedan går att se helt utan betalvägg — SVT och Sveriges Radio är avgiftsfri public service, och TV4 sänder sina partiledardebatter fritt på tv4.se/TV4 Play. Där en arrangör (t.ex. en tidning) också skriver betalartiklar om debatten anges det separat — själva sändningen är ändå fri att titta på.</p>
-      <div id="debateFeatured" style="display:none;"></div>
+      <p class="section-label">Debattflöde — se debatterna gratis</p>
+      <p class="note" style="margin-bottom:18px; max-width:640px;">Visar debatter från senaste veckan och kommande vecka. Samtliga går att se helt utan betalvägg — SVT och Sveriges Radio är avgiftsfri public service, och TV4 sänder sina partiledardebatter fritt på tv4.se/TV4 Play. Där en arrangör (t.ex. en tidning) också skriver betalartiklar om debatten anges det separat — själva sändningen är ändå fri att titta på.</p>
+      <button class="debate-expand-btn" id="debateExpandPast" style="display:none;"></button>
       <div class="debate-list" id="debateList"></div>
+      <button class="debate-expand-btn" id="debateExpandFuture" style="display:none;"></button>
     </div>
 
     <div class="topics-strip">
@@ -725,6 +851,21 @@
         Detta är <b>inte</b> en statistisk sammanställning av faktiska voteringar i riksdagen — sådan data kräver tillgång till Riksdagens fullständiga voteringsregister. Rutorna visar istället ett förenklat mönster baserat på blocktillhörighet (Tidöpartierna kontra oppositionen), faktiskt regeringssamarbete och kända undantag som beskrivs i partiprofilerna på den här sidan (t.ex. att V och MP delar näst intill identisk miljöpolitik trots att de tillhör olika delar av oppositionen, eller att C och L historiskt stått nära varandra som forna allianspartner). Ljusare grönt betyder högre samstämmighet, mörkare rött betyder lägre.
       </p>
       <div id="agreementMatrix"></div>
+    </div>
+
+    <div class="politician-feed-strip">
+      <p class="section-label">Direkt från politikerna</p>
+      <p class="note" style="margin-bottom:18px; max-width:640px;">Ett sammanslaget X-flöde med partiledarnas officiella konton, i kronologisk ordning.</p>
+      <div class="feed-shell-light">
+        <div class="feed-shell-light-header">
+          <span class="feed-shell-light-title">Direkt från politikerna</span>
+          <span class="feed-live-dot-light"></span>
+          <span class="feed-live-label-light">Live</span>
+        </div>
+        <div class="feed-viewport-light">
+          <a class="twitter-timeline" data-height="640" href="https://x.com/i/lists/2091451225153626227?ref_src=twsrc%5Etfw">En X-lista</a>
+        </div>
+      </div>
     </div>
   </div>
 </main>
@@ -1656,49 +1797,49 @@ function renderDebateItemHTML(d, status){
   `;
 }
 
+let debatePastExpanded = false;
+let debateFutureExpanded = false;
+
 function renderDebates(){
   const el = document.getElementById('debateList');
+  const pastBtn = document.getElementById('debateExpandPast');
+  const futureBtn = document.getElementById('debateExpandFuture');
   if (!el) return;
   const now = new Date();
+  const weekMs = 7 * 24 * 60 * 60 * 1000;
+  const lower = new Date(now.getTime() - weekMs);
+  const upper = new Date(now.getTime() + weekMs);
 
-  const sorted = DEBATES.slice().sort((a,b)=> new Date(a.start) - new Date(b.start));
-  el.innerHTML = sorted.map(d => renderDebateItemHTML(d, getDebateStatus(d, now))).join('');
-}
+  const sorted = DEBATES.slice().sort((a, b) => new Date(a.start) - new Date(b.start));
+  const pastDebates = sorted.filter(d => new Date(d.start) < lower);
+  const windowDebates = sorted.filter(d => { const s = new Date(d.start); return s >= lower && s <= upper; });
+  const futureDebates = sorted.filter(d => new Date(d.start) > upper);
 
-function pickFeaturedDebate(now){
-  const sorted = DEBATES.slice().sort((a,b)=> new Date(a.start) - new Date(b.start));
-  const withStatus = sorted.map(d => ({ d, status: getDebateStatus(d, now) }));
-  const live = withStatus.find(x => x.status === 'live');
-  if (live) return live.d;
-  const soon = withStatus.find(x => x.status === 'soon');
-  if (soon) return soon.d;
-  const upcoming = withStatus.find(x => x.status === 'upcoming');
-  if (upcoming) return upcoming.d;
-  // Everything has aired — fall back to the final (chronologically last) debate.
-  return sorted[sorted.length - 1];
-}
+  let visible = windowDebates.slice();
+  if (debatePastExpanded) visible = pastDebates.concat(visible);
+  if (debateFutureExpanded) visible = visible.concat(futureDebates);
 
-function renderFeaturedDebate(){
-  const el = document.getElementById('debateFeatured');
-  if (!el) return;
-  const now = new Date();
-  const d = pickFeaturedDebate(now);
-  el.innerHTML = renderDebateItemHTML(d, getDebateStatus(d, now));
+  el.innerHTML = visible.length > 0
+    ? visible.map(d => renderDebateItemHTML(d, getDebateStatus(d, now))).join('')
+    : '<p class="note" style="padding:16px 20px;">Inga debatter just nu — använd knapparna ovan/nedan för att se fler.</p>';
+
+  if (pastBtn){
+    const showPastBtn = !debatePastExpanded && pastDebates.length > 0;
+    pastBtn.style.display = showPastBtn ? 'flex' : 'none';
+    pastBtn.textContent = `+ Visa ${pastDebates.length} tidigare ${pastDebates.length === 1 ? 'debatt' : 'debatter'}`;
+  }
+  if (futureBtn){
+    const showFutureBtn = !debateFutureExpanded && futureDebates.length > 0;
+    futureBtn.style.display = showFutureBtn ? 'flex' : 'none';
+    futureBtn.textContent = `+ Visa ${futureDebates.length} kommande ${futureDebates.length === 1 ? 'debatt' : 'debatter'}`;
+  }
 }
 
 function initDebateToggle(){
-  const strip = document.getElementById('debateStrip');
-  const toggleBtn = document.getElementById('debateToggle');
-  const icon = document.getElementById('debateToggleIcon');
-  const list = document.getElementById('debateList');
-  if (!strip || !toggleBtn || !icon || !list) return;
-
-  toggleBtn.addEventListener('click', () => {
-    const isOpen = strip.classList.toggle('open');
-    toggleBtn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
-    list.style.display = isOpen ? 'flex' : 'none';
-    icon.textContent = isOpen ? '▴ Dölj äldre' : '▾ Visa alla';
-  });
+  const pastBtn = document.getElementById('debateExpandPast');
+  const futureBtn = document.getElementById('debateExpandFuture');
+  if (pastBtn) pastBtn.addEventListener('click', () => { debatePastExpanded = true; renderDebates(); });
+  if (futureBtn) futureBtn.addEventListener('click', () => { debateFutureExpanded = true; renderDebates(); });
 }
 
 function renderLiveBanner(){
@@ -1916,28 +2057,6 @@ function calculateSeats(votePcts){
   return seats;
 }
 
-function findMinimalWinningCoalitions(seats, order){
-  const parties = order.filter(pid => (seats[pid] || 0) > 0);
-  const n = parties.length;
-  const winning = [];
-  for (let mask = 1; mask < (1 << n); mask++){
-    const combo = [];
-    let total = 0;
-    for (let i = 0; i < n; i++){
-      if (mask & (1 << i)){ combo.push(parties[i]); total += seats[parties[i]]; }
-    }
-    if (total >= MANDATE_MAJORITY) winning.push({ combo, total });
-  }
-  winning.sort((a, b) => a.combo.length - b.combo.length);
-  const minimal = [];
-  winning.forEach(w => {
-    const isSuperset = minimal.some(m => m.combo.every(p => w.combo.includes(p)) && m.combo.length < w.combo.length);
-    if (!isSuperset) minimal.push(w);
-  });
-  minimal.sort((a, b) => a.total - b.total);
-  return minimal;
-}
-
 function buildHemicycleSVG(seats, order){
   const width = 620, height = 330;
   const cx = width / 2, cy = height - 15;
@@ -1999,20 +2118,140 @@ function renderResultsBarChart(national){
   }).join('');
 }
 
-function renderCoalitions(seats){
-  const el = document.getElementById('coalitionGrid');
+// --- Interactive coalition builder ---
+let selectedParties = new Set();
+
+function renderBuilderToggles(seats){
+  const el = document.getElementById('builderToggles');
   if (!el) return;
-  const minimal = findMinimalWinningCoalitions(seats, AGREEMENT_ORDER);
-  if (minimal.length === 0){
-    el.innerHTML = '<p class="note">Ingen koalition hittades som når 175 mandat med dessa siffror.</p>';
+  el.innerHTML = AGREEMENT_ORDER.filter(pid => seats[pid] > 0).map(pid => `
+    <button class="party-toggle ${selectedParties.has(pid) ? 'selected' : ''}" style="background:${partyColor(pid)}" data-pid="${pid}">
+      ${pid}<span class="seats-count">${seats[pid]}</span>
+    </button>
+  `).join('');
+  el.querySelectorAll('.party-toggle').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const pid = btn.dataset.pid;
+      if (selectedParties.has(pid)) selectedParties.delete(pid);
+      else selectedParties.add(pid);
+      renderBuilderToggles(seats);
+      renderBuilderResult(seats);
+    });
+  });
+}
+
+function renderBuilderResult(seats){
+  const totalEl = document.getElementById('builderTotal');
+  const statusEl = document.getElementById('builderStatus');
+  const barEl = document.getElementById('builderBar');
+  if (!totalEl || !statusEl || !barEl) return;
+
+  const total = Array.from(selectedParties).reduce((sum, pid) => sum + (seats[pid] || 0), 0);
+  const pct = (total / MANDATE_TOTAL * 100);
+  const hasMajority = total >= MANDATE_MAJORITY;
+
+  totalEl.textContent = total;
+  if (selectedParties.size === 0){
+    statusEl.textContent = 'Välj partier ovan';
+    statusEl.className = 'builder-status';
+  } else {
+    statusEl.textContent = hasMajority ? '✓ Egen majoritet' : `${MANDATE_MAJORITY - total} mandat kvar till majoritet`;
+    statusEl.className = 'builder-status ' + (hasMajority ? 'majority' : 'short');
+  }
+
+  if (selectedParties.size === 0){
+    barEl.innerHTML = '';
+  } else {
+    let segs = '';
+    AGREEMENT_ORDER.forEach(pid => {
+      if (selectedParties.has(pid) && seats[pid] > 0){
+        const w = (seats[pid] / MANDATE_TOTAL * 100).toFixed(1);
+        segs += `<div class="builder-seg" style="width:${w}%; background:${partyColor(pid)};">${pid}</div>`;
+      }
+    });
+    const restW = (100 - pct).toFixed(1);
+    segs += `<div class="builder-seg" style="width:${restW}%; background:var(--paper);"></div>`;
+    barEl.innerHTML = segs;
+  }
+}
+
+// --- 2022 vs 2026 comparison ---
+// Real, official 2022 Swedish general election results (Valmyndigheten) —
+// independently verified earlier against the seat calculator (exact match).
+const VOTES_2022 = { S:30.33, M:19.10, SD:20.54, V:6.75, C:6.71, KD:5.34, L:4.61, MP:5.08 };
+const SEATS_2022 = { S:107, M:68, SD:73, V:24, C:24, KD:19, L:16, MP:18 };
+
+function compareDeltaHTML(delta, unit){
+  if (Math.abs(delta) < (unit === 'pp' ? 0.05 : 1)) {
+    return `<span class="compare-delta flat">±0</span>`;
+  }
+  const cls = delta > 0 ? 'up' : 'down';
+  const arrow = delta > 0 ? '▲' : '▼';
+  const value = unit === 'pp' ? Math.abs(delta).toFixed(1) + ' pp' : Math.abs(delta) + ' mandat';
+  return `<span class="compare-delta ${cls}">${arrow} ${value}</span>`;
+}
+
+function renderCompareTable(national, seats){
+  const el = document.getElementById('compareTable');
+  if (!el) return;
+  const rows = AGREEMENT_ORDER.slice().reverse().map(pid => {
+    const v2022 = VOTES_2022[pid], v2026 = national[pid];
+    const s2022 = SEATS_2022[pid] || 0, s2026 = seats[pid] || 0;
+    if (v2026 === undefined) return '';
+    const voteDelta = v2026 - v2022;
+    const seatDelta = s2026 - s2022;
+    return `
+      <tr>
+        <td>
+          <div class="compare-party-cell">
+            <span class="compare-dot" style="background:${partyColor(pid)}"></span>
+            <span style="font-family:'IBM Plex Mono',monospace; font-weight:700;">${pid}</span>
+          </div>
+        </td>
+        <td>${v2022.toFixed(1)}%</td>
+        <td>${v2026.toFixed(1)}%</td>
+        <td>${compareDeltaHTML(voteDelta, 'pp')}</td>
+        <td>${s2022}</td>
+        <td>${s2026}</td>
+        <td>${compareDeltaHTML(seatDelta, 'seats')}</td>
+      </tr>
+    `;
+  }).join('');
+
+  el.innerHTML = `
+    <thead>
+      <tr>
+        <th>Parti</th>
+        <th>2022 (röster)</th>
+        <th>2026 (nu)</th>
+        <th>Förändring</th>
+        <th>2022 (mandat)</th>
+        <th>2026 (nu)</th>
+        <th>Förändring</th>
+      </tr>
+    </thead>
+    <tbody>${rows}</tbody>
+  `;
+}
+
+// --- Votes-counted progress indicator ---
+function renderCountedProgress(countedPct){
+  const pctEl = document.getElementById('countedPct');
+  const fillEl = document.getElementById('countedFill');
+  const captionEl = document.getElementById('countedCaption');
+  if (!pctEl || !fillEl || !captionEl) return;
+
+  if (typeof countedPct !== 'number'){
+    pctEl.textContent = '—';
+    fillEl.style.width = '0%';
+    captionEl.textContent = 'Väntar på data om rösträkningens status.';
     return;
   }
-  el.innerHTML = minimal.map(({ combo, total }) => `
-    <div class="coalition-card">
-      <div class="coalition-parties">${combo.map(pid => `<span class="coalition-chip" style="background:${partyColor(pid)}">${pid}</span>`).join('')}</div>
-      <div class="coalition-seats"><b>${total}</b> / 349 mandat — majoritet</div>
-    </div>
-  `).join('');
+  const TOTAL_DISTRICTS = 6900; // approx. number of Swedish voting districts (valdistrikt)
+  const districtsReported = Math.round(TOTAL_DISTRICTS * countedPct / 100);
+  pctEl.textContent = countedPct.toFixed(0) + '%';
+  fillEl.style.width = countedPct + '%';
+  captionEl.textContent = `~${districtsReported.toLocaleString('sv-SE')} av cirka ${TOTAL_DISTRICTS.toLocaleString('sv-SE')} valdistrikt rapporterade`;
 }
 
 function renderRegionGrid(regions){
@@ -2074,14 +2313,17 @@ document.getElementById('regionOverlay').addEventListener('click', (e) => {
   if (e.target.id === 'regionOverlay') closeRegionDetail();
 });
 
-function renderResultsContent(national, regions){
+function renderResultsContent(national, regions, countedPct){
   document.getElementById('resultsWaiting').style.display = 'none';
   document.getElementById('resultsContent').style.display = 'block';
 
   const seats = calculateSeats(national);
+  renderCountedProgress(countedPct);
   renderResultsBarChart(national);
   document.getElementById('hemicycleChart').innerHTML = buildHemicycleSVG(seats, AGREEMENT_ORDER);
-  renderCoalitions(seats);
+  renderBuilderToggles(seats);
+  renderBuilderResult(seats);
+  renderCompareTable(national, seats);
   renderRegionGrid(regions || {});
 }
 
@@ -2091,7 +2333,7 @@ async function loadRealResults(){
     if (!res.ok) return;
     const data = await res.json();
     if (data.status === 'live' || data.status === 'final'){
-      renderResultsContent(data.national, data.regions || {});
+      renderResultsContent(data.national, data.regions || {}, data.counted_pct);
     }
     // else: leave the "väntar på resultat" waiting state visible
   } catch (err) {
@@ -2100,31 +2342,20 @@ async function loadRealResults(){
 }
 
 function activateElectionNightLayout(){
-  // Move the debate strip (collapsed) into the dedicated top container —
-  // but only called once the election-day trigger has actually fired,
-  // never by default. resultsStrip itself doesn't need to move: it's
-  // already positioned right after #topWrap in the HTML, and it has its
-  // own wider max-width so the charts get more room than the rest of
-  // the (unchanged-width) page.
+  // Move the debate strip into the dedicated top container — but only
+  // called once the election-day trigger has actually fired, never by
+  // default. resultsStrip itself doesn't need to move: it's already
+  // positioned right after #topWrap in the HTML, and it has its own wider
+  // max-width so the charts get more room than the rest of the page.
+  // The debate strip's toggle+windowed-list behaviour is already active
+  // by default (same as the rest of the year), so nothing else needs to
+  // change here — it naturally shows this-week's debates on election day.
   const topWrap = document.getElementById('topWrap');
   const debateStrip = document.getElementById('debateStrip');
   const resultsStrip = document.getElementById('resultsStrip');
   if (!topWrap || !debateStrip || !resultsStrip) return;
 
   topWrap.appendChild(debateStrip);
-
-  // Switch the debate strip into its collapsed form: hide the static
-  // label and full list, show the toggle button and the single featured
-  // (most relevant) debate instead.
-  const staticLabel = document.getElementById('debateStaticLabel');
-  const toggleBtn = document.getElementById('debateToggle');
-  const featured = document.getElementById('debateFeatured');
-  const list = document.getElementById('debateList');
-  if (staticLabel) staticLabel.style.display = 'none';
-  if (toggleBtn) toggleBtn.style.display = 'flex';
-  if (featured) featured.style.display = 'block';
-  if (list) list.style.display = 'none';
-  renderFeaturedDebate();
 }
 
 function initResultsSection(){
@@ -2145,7 +2376,7 @@ function initResultsSection(){
       '⚠️ <b>Förhandsvisning</b> — det här är en testvy som använder aktuella opinionssiffror som platshållare, inte riktiga valresultat. Sektionen aktiveras automatiskt för alla besökare kl 20.00 den 13 september och visar då Valmyndighetens faktiska resultat istället.';
     const nationalPreview = {};
     PARTIES.forEach(p => nationalPreview[p.id] = p.poll2026.pct);
-    renderResultsContent(nationalPreview, {});
+    renderResultsContent(nationalPreview, {}, 47); // demo counted% for preview only
     return;
   }
 
@@ -2244,15 +2475,15 @@ renderGrid();
 renderBlocBar();
 renderSummary();
 renderDebates();
-renderFeaturedDebate();
 initDebateToggle();
 renderLiveBanner();
 
 // Re-check live/soon debate status every minute, in case someone leaves the
-// page open across a debate's start time.
+// page open across a debate's start time. The past/future-expanded state
+// (debatePastExpanded / debateFutureExpanded) persists automatically since
+// renderDebates() reads those module-level variables each time.
 setInterval(() => {
   renderDebates();
-  renderFeaturedDebate();
   renderLiveBanner();
 }, 60 * 1000);
 renderTopicLegend();
@@ -2396,5 +2627,6 @@ async function loadLivePollData(){
 }
 </script>
 
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
