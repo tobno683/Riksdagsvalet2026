@@ -1289,35 +1289,50 @@ const TOPICS = [
     left: "Mer restriktiv", right: "Mer liberal",
     scores: { SD:1, M:2, KD:2, L:3, S:3, C:4, V:4, MP:5 },
     summary: "Handlar om hur mycket Sverige ska ta emot asylsökande och arbetskraftsinvandrare, samt hur höga kraven ska vara för uppehållstillstånd och medborgarskap.",
-    sources: []
+    sources: [
+      { label: "Migration partier 2026 — jämförelse av samtliga åtta partiers migrationspolitik", url: "https://valkoll2026.se/insikt/migration-partier-2026/" },
+      { label: "Partiernas politik om invandring och integration 2026 (Sveriges Radio Ekot)", url: "https://www.sverigesradio.se/artikel/partiernas-politik-om-invandring-och-integration-2026" }
+    ]
   },
   {
     title: "Skatt för höginkomsttagare & förmögna",
     left: "Sänk kraftigt", right: "Höj kraftigt",
     scores: { M:1, L:2, C:2, KD:2, SD:2, S:3, MP:4, V:5 },
     summary: "Hur progressiv inkomstbeskattningen ska vara, och om skatter på kapital, förmögenhet eller arv bör återinföras eller höjas för att finansiera välfärden.",
-    sources: []
+    sources: [
+      { label: "Vallöften 2026 — jämförelse av partiernas skatte- och ekonomipolitik", url: "https://valkoll2026.se/insikt/valloften-partierna-2026/" }
+    ]
   },
   {
     title: "Vinster i skattefinansierad skola & vård",
     left: "Tillåt fritt", right: "Förbjud vinstuttag",
     scores: { M:1, L:1, C:2, SD:2, KD:2, S:4, MP:4, V:5 },
     summary: "Om privata aktörer inom skattefinansierad skola, vård och omsorg ska få ta ut vinst, eller om pengarna helt ska stanna i verksamheten.",
-    sources: []
+    sources: [
+      { label: "Vänsterpartiet — SVT Valkompass 2026, partiets egna svar om vinstjakt i välfärden", url: "https://valkompass.svt.se/2026/parti/vansterpartiet/" },
+      { label: "Vänsterpartiets valplattform 2026 (kongressbeslut) om vinster i välfärden", url: "https://www.vansterpartiet.se/wp-content/uploads/2026/04/Preliminar-Valplattform-efter-beslut-pa-kongressen-2026.pdf" },
+      { label: "Hur mycket vänsterpolitik tål Centern? — om vinster i välfärden mellan blocken", url: "https://www.fokus.se/valet-2026/hur-mycket-vansterpolitik-tal-centern/" }
+    ]
   },
   {
     title: "Klimat- & miljöambition (Naturskyddsföreningen, 22 förslag)",
     left: "Lägst ambition", right: "Högst ambition",
     scores: { SD:1, M:1, KD:2, S:3, C:4, L:4, V:5, MP:5 },
     summary: "Hur högt klimat- och miljöfrågor prioriteras i konkret politik, mätt mot Naturskyddsföreningens granskning av 22 förslag inför valet 2026.",
-    sources: []
+    sources: [
+      { label: "Naturskyddsföreningen — Val 2026, vad lovar partierna för miljön?", url: "https://www.naturskyddsforeningen.se/artiklar/val-2026-vad-lovar-partierna-for-miljon/" }
+    ]
   },
   {
     title: "Straffskärpning för brott",
     left: "Mjukare / rehabiliterande", right: "Hårdare straff",
     scores: { V:2, MP:2, C:3, S:4, L:4, KD:4, M:5, SD:5 },
     summary: "Om kriminalpolitiken bör fokusera mer på längre straff och avskräckning, eller mer på förebyggande insatser och rehabilitering.",
-    sources: []
+    sources: [
+      { label: "Partiernas politik för att stoppa kriminalitet 2026 (Sveriges Radio Ekot)", url: "https://www.sverigesradio.se/artikel/sa-ser-partiernas-politik-ut-for-lag-och-ordning-2026" },
+      { label: "Vänsterpartiet — officiell partiposition om kriminalitet och kriminalvård", url: "https://www.vansterpartiet.se/var-politik/politik-a-o/kriminalitet-och-kriminalvard/" },
+      { label: "Socialdemokraterna — tre kriminalpolitiska vallöften inför 2026", url: "https://www.socialdemokraterna.se/nyheter/nyheter/2026-08-07-socialdemokraterna-gar-till-val-pa-tre-reformer-for-ett-starkare-rattsvasende" }
+    ]
   },
   {
     title: "Ny kärnkraft",
@@ -1342,7 +1357,10 @@ const TOPICS = [
     left: "Behåll dagens hyresreglering", right: "Inför fri hyressättning",
     scores: { V:1, S:2, MP:2, SD:2, KD:2, C:4, L:4, M:4 },
     summary: "Om hyror i nybyggda bostäder ska sättas fritt av marknaden, eller fortsätta regleras som i dagens hyressättningssystem.",
-    sources: []
+    sources: [
+      { label: "Vänsterpartiet — SVT Valkompass 2026, partiets egna svar om marknadshyror", url: "https://valkompass.svt.se/2026/parti/vansterpartiet/" },
+      { label: "Hur mycket vänsterpolitik tål Centern? — om marknadshyror mellan blocken", url: "https://www.fokus.se/valet-2026/hur-mycket-vansterpolitik-tal-centern/" }
+    ]
   },
   {
     title: "EU-samarbete",
@@ -1356,7 +1374,9 @@ const TOPICS = [
     left: "Lägre prioritet", right: "Högre prioritet",
     scores: { V:2, MP:3, C:4, S:4, L:4, KD:4, SD:4, M:5 },
     summary: "Hur snabbt och hur mycket det militära och civila försvaret bör rustas upp, särskilt efter Sveriges Natomedlemskap 2024.",
-    sources: []
+    sources: [
+      { label: "Försvar och NATO 2026 — partiernas linjer jämförda, samtliga åtta partier", url: "https://valkoll2026.se/insikt/forsvar-nato-partier-2026/" }
+    ]
   },
   {
     title: "Statligt huvudmannaskap för sjukvården",
