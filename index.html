@@ -27,6 +27,7 @@
     color:var(--ink);
     font-family:'IBM Plex Sans',sans-serif;
     -webkit-font-smoothing:antialiased;
+    overflow-x:hidden; /* safety net: no component can force whole-page horizontal scroll */
   }
   a{color:inherit;}
   :focus-visible{outline:3px solid var(--focus); outline-offset:2px;}
@@ -353,7 +354,7 @@
     letter-spacing:.06em; color:var(--ink-soft); margin:0 0 12px; font-weight:600;
   }
   .compass-grid{
-    display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr));
+    display:grid; grid-template-columns:repeat(auto-fill, minmax(230px, 1fr));
     gap:14px;
   }
   .compass-card{
@@ -440,6 +441,47 @@
   .heatmap-wrap{overflow-x:auto; padding-bottom:6px;}
   .heatmap-tooltip-note{font-size:12px; color:var(--ink-soft); margin-top:10px;}
 
+  /* Election-night results */
+  .results-strip{
+    margin:56px 0 60px; border-top:2px solid #C81E2E; border-bottom:2px solid #C81E2E;
+    padding:32px 0; background:#FDEDEE;
+  }
+  .results-inner{
+    max-width:1700px; margin:0 auto; padding:0 24px;
+  }
+  .results-waiting{
+    font-family:'IBM Plex Mono',monospace; font-size:14px; color:var(--ink-soft);
+    padding:30px; text-align:center; border:1px dashed var(--line); background:var(--card);
+  }
+  .results-grid{display:grid; grid-template-columns:1fr 1fr; gap:28px;}
+  @media (max-width:760px){ .results-grid{grid-template-columns:1fr;} }
+  .results-bar-row{display:flex; align-items:center; gap:10px; margin-bottom:8px;}
+  .results-bar-label{
+    width:34px; flex-shrink:0; font-family:'IBM Plex Mono',monospace; font-size:12px; font-weight:700; text-align:right;
+  }
+  .results-bar-track{flex:1; height:20px; background:var(--paper); border:1px solid var(--line); position:relative;}
+  .results-bar-fill{height:100%; display:flex; align-items:center; justify-content:flex-end; padding-right:6px;}
+  .results-bar-pct{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:#fff; font-weight:600;}
+
+  .coalition-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(240px, 1fr)); gap:12px;}
+  .coalition-card{background:var(--card); border:1px solid var(--line); padding:14px 16px;}
+  .coalition-parties{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:8px;}
+  .coalition-chip{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:700; color:#fff;
+    padding:3px 9px; border-radius:100px;
+  }
+  .coalition-seats{font-family:'IBM Plex Mono',monospace; font-size:13px; color:var(--ink);}
+  .coalition-seats b{font-size:15px;}
+
+  .region-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(160px, 1fr)); gap:10px;}
+  .region-card{
+    background:var(--card); border:1px solid var(--line); padding:12px 14px; cursor:pointer;
+    text-align:left; font-family:inherit; transition:transform .12s ease, box-shadow .12s ease;
+  }
+  .region-card:hover{transform:translateY(-2px); box-shadow:0 6px 14px rgba(19,42,34,0.12);}
+  .region-card-name{font-size:13px; font-weight:600; color:var(--ink); margin-bottom:3px;}
+  .region-card-leader{font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft);}
+
   /* Live debate banner — shown above "Läget just nu" */
   .live-debate-banner{
     display:none; padding:16px 22px; margin-top:24px; border-radius:4px;
@@ -464,6 +506,15 @@
   .live-debate-link:hover{opacity:0.9;}
   .live-debate-banner.is-live .live-debate-tag::before{content:"● "; animation:pulse 1.4s infinite;}
   @keyframes pulse{ 0%,100%{opacity:1;} 50%{opacity:0.35;} }
+  .debate-strip-collapsed{border:1px solid var(--line); background:var(--card); padding:18px 22px;}
+  .debate-collapse-toggle{
+    display:flex; align-items:center; justify-content:space-between; width:100%;
+    background:none; border:none; cursor:pointer; padding:0; text-align:left;
+  }
+  .debate-toggle-icon{
+    font-family:'IBM Plex Mono',monospace; font-size:12px; color:var(--focus); font-weight:600;
+    white-space:nowrap; flex-shrink:0; margin-left:12px;
+  }
   .debate-list{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line);}
   .debate-item{
     background:var(--card); padding:16px 20px;
@@ -578,6 +629,38 @@
 </div>
 
 <main>
+  <div class="wrap" id="topWrap"><!-- populated only at election night; holds the collapsed debate strip so it sits above the wide results section --></div>
+
+  <div class="results-strip" id="resultsStrip" style="display:none;">
+    <div class="results-inner">
+      <p class="section-label">🔴 Valnatten — resultat live</p>
+      <p class="note" style="margin-bottom:20px; max-width:700px;" id="resultsIntroNote">
+        Resultat från Valmyndigheten uppdateras här efter att vallokalerna stängt kl 20.00 den 13 september. Mandatberäkningen nedan är en <b>förenklad nationell approximation</b> av den jämkade uddatalsmetoden (första divisor 1,2) med 4 %-spärren — inte den fullständiga officiella beräkningen, som även fördelar 310 fasta valkretsmandat och 39 utjämningsmandat regionvis. Klicka på ett län nedan för länets resultat.
+      </p>
+
+      <div id="resultsWaiting" class="results-waiting">Väntar på resultat från Valmyndigheten …</div>
+
+      <div id="resultsContent" style="display:none;">
+        <div class="results-grid">
+          <div class="results-col">
+            <p class="compass-subhead">Röstandel per parti</p>
+            <div id="resultsBarChart"></div>
+          </div>
+          <div class="results-col">
+            <p class="compass-subhead">Mandatfördelning (349 platser, 175 för majoritet)</p>
+            <div id="hemicycleChart"></div>
+          </div>
+        </div>
+
+        <p class="compass-subhead" style="margin-top:32px;">Vilka koalitioner når 175 mandat?</p>
+        <div class="coalition-grid" id="coalitionGrid"></div>
+
+        <p class="compass-subhead" style="margin-top:32px;">Resultat per län — klicka för detaljer</p>
+        <div class="region-grid" id="regionGrid"></div>
+      </div>
+    </div>
+  </div>
+
   <div class="wrap">
     <p class="section-label">Partierna — klicka för fullständig profil</p>
     <div class="grid" id="grid"></div>
@@ -605,9 +688,14 @@
       <div class="compass-grid" id="compassGridMeta"></div>
     </div>
 
-    <div class="debate-strip">
-      <p class="section-label">Debattflöde — se debatterna gratis</p>
+    <div class="debate-strip" id="debateStrip">
+      <button class="debate-collapse-toggle" id="debateToggle" aria-expanded="false" style="display:none;">
+        <span class="section-label" style="margin:0;">Debattflöde — se debatterna gratis</span>
+        <span class="debate-toggle-icon" id="debateToggleIcon">▾ Visa alla</span>
+      </button>
+      <p class="section-label" id="debateStaticLabel">Debattflöde — se debatterna gratis</p>
       <p class="note" style="margin-bottom:18px; max-width:640px;">Samtliga debatter nedan går att se helt utan betalvägg — SVT och Sveriges Radio är avgiftsfri public service, och TV4 sänder sina partiledardebatter fritt på tv4.se/TV4 Play. Där en arrangör (t.ex. en tidning) också skriver betalartiklar om debatten anges det separat — själva sändningen är ändå fri att titta på.</p>
+      <div id="debateFeatured" style="display:none;"></div>
       <div class="debate-list" id="debateList"></div>
     </div>
 
@@ -665,6 +753,10 @@
 
 <div class="overlay" id="overlay">
   <div class="detail" id="detailCard"></div>
+</div>
+
+<div class="overlay" id="regionOverlay">
+  <div class="detail" id="regionDetailCard"></div>
 </div>
 
 <button class="chat-fab" id="chatFab" aria-label="Öppna politikchatten" aria-expanded="false">
@@ -1543,34 +1635,70 @@ function getDebateStatus(d, now){
   return "past";
 }
 
+function renderDebateItemHTML(d, status){
+  const isPast = status === "past";
+  const statusLabel = {live:"🔴 Sänds nu", soon:"Snart", upcoming:"Kommande", past:"Redan sänd"}[status];
+  const chipClass = {live:"chip-live", soon:"chip-soon", upcoming:"chip-upcoming", past:"chip-past"}[status];
+  const timeNote = d.approxTime ? " (ungefärlig tid, ej officiellt bekräftad)" : "";
+  return `
+    <div class="debate-item ${isPast ? 'is-past' : ''} ${status === 'live' ? 'is-live' : ''}">
+      <div class="debate-date">${d.label}<span>${statusLabel}</span></div>
+      <div class="debate-main">
+        <div class="debate-title">${d.title}</div>
+        <div class="debate-host">${d.host}${timeNote}</div>
+      </div>
+      <div class="debate-actions">
+        <span class="chip chip-free">Gratis</span>
+        <span class="chip ${chipClass}">${statusLabel}</span>
+        <a class="debate-link" href="${d.url}" target="_blank" rel="noopener">${d.linkText} ↗</a>
+      </div>
+    </div>
+  `;
+}
+
 function renderDebates(){
   const el = document.getElementById('debateList');
   if (!el) return;
   const now = new Date();
 
   const sorted = DEBATES.slice().sort((a,b)=> new Date(a.start) - new Date(b.start));
+  el.innerHTML = sorted.map(d => renderDebateItemHTML(d, getDebateStatus(d, now))).join('');
+}
 
-  el.innerHTML = sorted.map(d => {
-    const status = getDebateStatus(d, now);
-    const isPast = status === "past";
-    const statusLabel = {live:"🔴 Sänds nu", soon:"Snart", upcoming:"Kommande", past:"Redan sänd"}[status];
-    const chipClass = {live:"chip-live", soon:"chip-soon", upcoming:"chip-upcoming", past:"chip-past"}[status];
-    const timeNote = d.approxTime ? " (ungefärlig tid, ej officiellt bekräftad)" : "";
-    return `
-      <div class="debate-item ${isPast ? 'is-past' : ''} ${status === 'live' ? 'is-live' : ''}">
-        <div class="debate-date">${d.label}<span>${statusLabel}</span></div>
-        <div class="debate-main">
-          <div class="debate-title">${d.title}</div>
-          <div class="debate-host">${d.host}${timeNote}</div>
-        </div>
-        <div class="debate-actions">
-          <span class="chip chip-free">Gratis</span>
-          <span class="chip ${chipClass}">${statusLabel}</span>
-          <a class="debate-link" href="${d.url}" target="_blank" rel="noopener">${d.linkText} ↗</a>
-        </div>
-      </div>
-    `;
-  }).join('');
+function pickFeaturedDebate(now){
+  const sorted = DEBATES.slice().sort((a,b)=> new Date(a.start) - new Date(b.start));
+  const withStatus = sorted.map(d => ({ d, status: getDebateStatus(d, now) }));
+  const live = withStatus.find(x => x.status === 'live');
+  if (live) return live.d;
+  const soon = withStatus.find(x => x.status === 'soon');
+  if (soon) return soon.d;
+  const upcoming = withStatus.find(x => x.status === 'upcoming');
+  if (upcoming) return upcoming.d;
+  // Everything has aired — fall back to the final (chronologically last) debate.
+  return sorted[sorted.length - 1];
+}
+
+function renderFeaturedDebate(){
+  const el = document.getElementById('debateFeatured');
+  if (!el) return;
+  const now = new Date();
+  const d = pickFeaturedDebate(now);
+  el.innerHTML = renderDebateItemHTML(d, getDebateStatus(d, now));
+}
+
+function initDebateToggle(){
+  const strip = document.getElementById('debateStrip');
+  const toggleBtn = document.getElementById('debateToggle');
+  const icon = document.getElementById('debateToggleIcon');
+  const list = document.getElementById('debateList');
+  if (!strip || !toggleBtn || !icon || !list) return;
+
+  toggleBtn.addEventListener('click', () => {
+    const isOpen = strip.classList.toggle('open');
+    toggleBtn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    list.style.display = isOpen ? 'flex' : 'none';
+    icon.textContent = isOpen ? '▴ Dölj äldre' : '▾ Visa alla';
+  });
 }
 
 function renderLiveBanner(){
@@ -1743,6 +1871,289 @@ function closeDetail(){
 document.getElementById('overlay').addEventListener('click', (e)=>{
   if(e.target.id === 'overlay') closeDetail();
 });
+
+// ---------------------------------------------------------------------
+// Election-night results: seat calculator, hemicycle, coalitions, regions
+// ---------------------------------------------------------------------
+
+const MANDATE_TOTAL = 349;
+const MANDATE_MAJORITY = 175;
+const MANDATE_THRESHOLD = 4;
+
+const SWEDISH_REGIONS = [
+  "Stockholms län","Uppsala län","Södermanlands län","Östergötlands län",
+  "Jönköpings län","Kronobergs län","Kalmar län","Gotlands län","Blekinge län",
+  "Skåne län","Hallands län","Västra Götalands län","Värmlands län",
+  "Örebro län","Västmanlands län","Dalarnas län","Gävleborgs län",
+  "Västernorrlands län","Jämtlands län","Västerbottens län","Norrbottens län"
+];
+
+// Modified Sainte-Laguë ("jämkade uddatalsmetoden"), first divisor 1.2 —
+// the method Sweden actually uses. NOTE: this is a NATIONAL-LEVEL
+// approximation. The real official method allocates 310 fixed seats
+// across 29 constituencies first, then 39 levelling seats nationally —
+// which requires per-constituency vote data this simplified version
+// doesn't have. Results will be close to, but not always identical to,
+// the official mandate count.
+function calculateSeats(votePcts){
+  const eligible = Object.entries(votePcts).filter(([, pct]) => pct >= MANDATE_THRESHOLD);
+  const seats = {};
+  eligible.forEach(([pid]) => seats[pid] = 0);
+  if (eligible.length === 0) return seats;
+
+  function divisorFor(seatsSoFar){
+    return seatsSoFar === 0 ? 1.2 : (2 * seatsSoFar + 1);
+  }
+
+  for (let i = 0; i < MANDATE_TOTAL; i++){
+    let bestPid = null, bestQuotient = -1;
+    eligible.forEach(([pid, pct]) => {
+      const q = pct / divisorFor(seats[pid]);
+      if (q > bestQuotient){ bestQuotient = q; bestPid = pid; }
+    });
+    seats[bestPid]++;
+  }
+  return seats;
+}
+
+function findMinimalWinningCoalitions(seats, order){
+  const parties = order.filter(pid => (seats[pid] || 0) > 0);
+  const n = parties.length;
+  const winning = [];
+  for (let mask = 1; mask < (1 << n); mask++){
+    const combo = [];
+    let total = 0;
+    for (let i = 0; i < n; i++){
+      if (mask & (1 << i)){ combo.push(parties[i]); total += seats[parties[i]]; }
+    }
+    if (total >= MANDATE_MAJORITY) winning.push({ combo, total });
+  }
+  winning.sort((a, b) => a.combo.length - b.combo.length);
+  const minimal = [];
+  winning.forEach(w => {
+    const isSuperset = minimal.some(m => m.combo.every(p => w.combo.includes(p)) && m.combo.length < w.combo.length);
+    if (!isSuperset) minimal.push(w);
+  });
+  minimal.sort((a, b) => a.total - b.total);
+  return minimal;
+}
+
+function buildHemicycleSVG(seats, order){
+  const width = 620, height = 330;
+  const cx = width / 2, cy = height - 15;
+  const innerR = 55, outerR = 270;
+  const rows = 9;
+  const rowGap = (outerR - innerR) / (rows - 1);
+
+  const radii = [];
+  for (let i = 0; i < rows; i++) radii.push(innerR + i * rowGap);
+  const totalRadius = radii.reduce((a, b) => a + b, 0);
+  const seatsPerRow = radii.map(r => Math.round((r / totalRadius) * MANDATE_TOTAL));
+  const diff = MANDATE_TOTAL - seatsPerRow.reduce((a, b) => a + b, 0);
+  seatsPerRow[seatsPerRow.length - 1] += diff;
+
+  let seatColors = [];
+  order.forEach(pid => {
+    const color = partyColor(pid);
+    for (let i = 0; i < (seats[pid] || 0); i++) seatColors.push({ pid, color });
+  });
+
+  let svg = `<svg viewBox="0 0 ${width} ${height}" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg">`;
+  let seatIdx = 0;
+  for (let row = 0; row < rows; row++){
+    const r = radii[row];
+    const n = seatsPerRow[row];
+    for (let j = 0; j < n; j++){
+      if (seatIdx >= seatColors.length) break;
+      const t = n === 1 ? 0.5 : j / (n - 1);
+      const angle = Math.PI - t * Math.PI;
+      const x = cx + r * Math.cos(angle);
+      const y = cy - r * Math.sin(angle);
+      const seat = seatColors[seatIdx];
+      svg += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="7" fill="${seat.color}"><title>${seat.pid}</title></circle>`;
+      seatIdx++;
+    }
+  }
+  svg += `<line x1="${cx-outerR-15}" y1="${cy+2}" x2="${cx+outerR+15}" y2="${cy+2}" stroke="var(--line)" stroke-width="1"/>`;
+  svg += `<text x="${cx}" y="${cy+22}" text-anchor="middle" font-size="12" fill="var(--ink-soft)" font-family="IBM Plex Mono, monospace">175 mandat krävs för majoritet</text>`;
+  svg += `</svg>`;
+  return svg;
+}
+
+function renderResultsBarChart(national){
+  const el = document.getElementById('resultsBarChart');
+  if (!el) return;
+  const maxPct = Math.max(...Object.values(national));
+  const sorted = Object.entries(national).sort((a, b) => b[1] - a[1]);
+  el.innerHTML = sorted.map(([pid, pct]) => {
+    const w = (pct / maxPct * 100).toFixed(1);
+    return `
+      <div class="results-bar-row">
+        <span class="results-bar-label" style="color:${partyColor(pid)}">${pid}</span>
+        <div class="results-bar-track">
+          <div class="results-bar-fill" style="width:${w}%; background:${partyColor(pid)};">
+            <span class="results-bar-pct">${pct.toFixed(1)}%</span>
+          </div>
+        </div>
+      </div>`;
+  }).join('');
+}
+
+function renderCoalitions(seats){
+  const el = document.getElementById('coalitionGrid');
+  if (!el) return;
+  const minimal = findMinimalWinningCoalitions(seats, AGREEMENT_ORDER);
+  if (minimal.length === 0){
+    el.innerHTML = '<p class="note">Ingen koalition hittades som når 175 mandat med dessa siffror.</p>';
+    return;
+  }
+  el.innerHTML = minimal.map(({ combo, total }) => `
+    <div class="coalition-card">
+      <div class="coalition-parties">${combo.map(pid => `<span class="coalition-chip" style="background:${partyColor(pid)}">${pid}</span>`).join('')}</div>
+      <div class="coalition-seats"><b>${total}</b> / 349 mandat — majoritet</div>
+    </div>
+  `).join('');
+}
+
+function renderRegionGrid(regions){
+  const el = document.getElementById('regionGrid');
+  if (!el) return;
+  el.innerHTML = SWEDISH_REGIONS.map(name => {
+    const data = regions[name];
+    const leaderText = data
+      ? Object.entries(data).sort((a, b) => b[1] - a[1])[0][0] + ' störst'
+      : 'Väntar på data';
+    return `<button class="region-card" data-region="${name}">
+      <div class="region-card-name">${name}</div>
+      <div class="region-card-leader">${leaderText}</div>
+    </button>`;
+  }).join('');
+
+  el.querySelectorAll('.region-card').forEach(btn => {
+    btn.addEventListener('click', () => openRegionDetail(btn.dataset.region, regions[btn.dataset.region]));
+  });
+}
+
+function openRegionDetail(name, data){
+  const card = document.getElementById('regionDetailCard');
+  if (!data){
+    card.innerHTML = `
+      <button class="detail-close" id="regionCloseBtn" aria-label="Stäng">✕</button>
+      <div class="detail-header"><h2 class="detail-title">${name}</h2></div>
+      <div class="detail-body"><p class="note">Regionala resultat för ${name} är inte tillgängliga ännu.</p></div>
+    `;
+  } else {
+    const sorted = Object.entries(data).sort((a, b) => b[1] - a[1]);
+    const maxPct = Math.max(...sorted.map(([, p]) => p));
+    const bars = sorted.map(([pid, pct]) => `
+      <div class="results-bar-row">
+        <span class="results-bar-label" style="color:${partyColor(pid)}">${pid}</span>
+        <div class="results-bar-track">
+          <div class="results-bar-fill" style="width:${(pct / maxPct * 100).toFixed(1)}%; background:${partyColor(pid)};">
+            <span class="results-bar-pct">${pct.toFixed(1)}%</span>
+          </div>
+        </div>
+      </div>`).join('');
+    card.innerHTML = `
+      <button class="detail-close" id="regionCloseBtn" aria-label="Stäng">✕</button>
+      <div class="detail-header"><h2 class="detail-title">${name}</h2></div>
+      <div class="detail-body">${bars}</div>
+    `;
+  }
+  document.getElementById('regionOverlay').classList.add('open');
+  document.getElementById('regionCloseBtn').addEventListener('click', closeRegionDetail);
+  document.body.style.overflow = 'hidden';
+}
+
+function closeRegionDetail(){
+  document.getElementById('regionOverlay').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+document.getElementById('regionOverlay').addEventListener('click', (e) => {
+  if (e.target.id === 'regionOverlay') closeRegionDetail();
+});
+
+function renderResultsContent(national, regions){
+  document.getElementById('resultsWaiting').style.display = 'none';
+  document.getElementById('resultsContent').style.display = 'block';
+
+  const seats = calculateSeats(national);
+  renderResultsBarChart(national);
+  document.getElementById('hemicycleChart').innerHTML = buildHemicycleSVG(seats, AGREEMENT_ORDER);
+  renderCoalitions(seats);
+  renderRegionGrid(regions || {});
+}
+
+async function loadRealResults(){
+  try {
+    const res = await fetch('./data/results.json?ts=' + Date.now());
+    if (!res.ok) return;
+    const data = await res.json();
+    if (data.status === 'live' || data.status === 'final'){
+      renderResultsContent(data.national, data.regions || {});
+    }
+    // else: leave the "väntar på resultat" waiting state visible
+  } catch (err) {
+    console.warn('Could not load election results:', err);
+  }
+}
+
+function activateElectionNightLayout(){
+  // Move the debate strip (collapsed) into the dedicated top container —
+  // but only called once the election-day trigger has actually fired,
+  // never by default. resultsStrip itself doesn't need to move: it's
+  // already positioned right after #topWrap in the HTML, and it has its
+  // own wider max-width so the charts get more room than the rest of
+  // the (unchanged-width) page.
+  const topWrap = document.getElementById('topWrap');
+  const debateStrip = document.getElementById('debateStrip');
+  const resultsStrip = document.getElementById('resultsStrip');
+  if (!topWrap || !debateStrip || !resultsStrip) return;
+
+  topWrap.appendChild(debateStrip);
+
+  // Switch the debate strip into its collapsed form: hide the static
+  // label and full list, show the toggle button and the single featured
+  // (most relevant) debate instead.
+  const staticLabel = document.getElementById('debateStaticLabel');
+  const toggleBtn = document.getElementById('debateToggle');
+  const featured = document.getElementById('debateFeatured');
+  const list = document.getElementById('debateList');
+  if (staticLabel) staticLabel.style.display = 'none';
+  if (toggleBtn) toggleBtn.style.display = 'flex';
+  if (featured) featured.style.display = 'block';
+  if (list) list.style.display = 'none';
+  renderFeaturedDebate();
+}
+
+function initResultsSection(){
+  const strip = document.getElementById('resultsStrip');
+  if (!strip) return;
+
+  const params = new URLSearchParams(window.location.search);
+  const isPreview = params.get('preview') === 'results';
+  const target = new Date('2026-09-13T18:00:00Z'); // 20:00 CEST on election day
+  const shouldShow = isPreview || new Date() >= target;
+  if (!shouldShow) return; // stays in its normal position — default state before election day
+
+  strip.style.display = 'block';
+  activateElectionNightLayout();
+
+  if (isPreview){
+    document.getElementById('resultsIntroNote').innerHTML =
+      '⚠️ <b>Förhandsvisning</b> — det här är en testvy som använder aktuella opinionssiffror som platshållare, inte riktiga valresultat. Sektionen aktiveras automatiskt för alla besökare kl 20.00 den 13 september och visar då Valmyndighetens faktiska resultat istället.';
+    const nationalPreview = {};
+    PARTIES.forEach(p => nationalPreview[p.id] = p.poll2026.pct);
+    renderResultsContent(nationalPreview, {});
+    return;
+  }
+
+  loadRealResults();
+  // Keep checking for fresh results every 2 minutes on election night.
+  setInterval(loadRealResults, 2 * 60 * 1000);
+}
+
 document.addEventListener('keydown', (e)=>{
   if(e.key === 'Escape') closeDetail();
 });
@@ -1833,12 +2244,15 @@ renderGrid();
 renderBlocBar();
 renderSummary();
 renderDebates();
+renderFeaturedDebate();
+initDebateToggle();
 renderLiveBanner();
 
 // Re-check live/soon debate status every minute, in case someone leaves the
 // page open across a debate's start time.
 setInterval(() => {
   renderDebates();
+  renderFeaturedDebate();
   renderLiveBanner();
 }, 60 * 1000);
 renderTopicLegend();
@@ -1848,6 +2262,7 @@ initTopicViewToggle();
 renderAgreementMatrix();
 renderCompassLinks();
 initChatWidget();
+initResultsSection();
 loadLivePollData();
 
 function initChatWidget(){
