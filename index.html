@@ -513,18 +513,6 @@
     max-width:150px;
   }
 
-  /* Selected-region indicator — small, sits at bottom-right of the map */
-  .region-view-indicator{
-    display:flex; align-items:center; justify-content:flex-end; gap:6px; flex-wrap:wrap;
-    margin-top:8px; text-align:right;
-  }
-  .region-view-indicator span{font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--ink-soft);}
-  .region-view-indicator span b{color:#FF8B6B; font-weight:700;}
-  .region-view-reset{
-    font-family:'IBM Plex Mono',monospace; font-size:9.5px; font-weight:700; color:#FF8B6B;
-    background:none; border:1px solid #FF8B6B; border-radius:100px; padding:2px 8px; cursor:pointer;
-  }
-  .region-view-reset:hover{background:#FF8B6B22;}
   .counted-box-slim{
     display:flex; align-items:center; gap:12px; margin-bottom:18px; flex-wrap:wrap;
   }
@@ -790,7 +778,6 @@
               </select>
             </div>
             <div class="region-grid" id="regionGrid"></div>
-            <div class="region-view-indicator" id="regionViewIndicator" style="display:none;"></div>
           </div>
         </div>
 
@@ -2312,12 +2299,12 @@ function compareDeltaHTML(delta, unit){
   return `<span class="compare-delta ${cls}">${arrow} ${value}</span>`;
 }
 
-function renderCompareTable(national, seats){
+function renderCompareTable(votes2026, seatsNational){
   const el = document.getElementById('compareTable');
   if (!el) return;
   const rows = AGREEMENT_ORDER.slice().reverse().map(pid => {
-    const v2022 = VOTES_2022[pid], v2026 = national[pid];
-    const s2022 = SEATS_2022[pid] || 0, s2026 = seats[pid] || 0;
+    const v2022 = VOTES_2022[pid], v2026 = votes2026[pid];
+    const s2022 = SEATS_2022[pid] || 0, s2026 = seatsNational[pid] || 0;
     if (v2026 === undefined) return '';
     const voteDelta = v2026 - v2022;
     const seatDelta = s2026 - s2022;
@@ -2470,38 +2457,28 @@ function renderRegionGrid(regions){
   }
 }
 
-// Switches the bar chart, hemicycle, and coalition builder above to show
-// either the national results (regionName = null) or a single region's
-// results (as a "if the whole country voted like this region" hypothetical
-// — clearly labelled as such, since the seat-allocation math is inherently
-// a national-level calculation).
+// Switches the bar chart above (and the "2026 (nu)" votes side of the
+// comparison table) to show either the national results (regionName =
+// null) or a single region's vote shares. Seats — the hemicycle,
+// coalition builder, and the mandat columns in the comparison table —
+// always stay based on the REAL national result: the jämkade
+// uddatalsmetoden is inherently a national-level calculation, so a
+// hypothetical "if the whole country voted like this region" seat count
+// would be more confusing than informative. Only the vote-share numbers,
+// which genuinely do vary by region, change with the selection.
 function selectResultsView(regionName){
   const data = regionName ? lastRegionsResults[regionName] : lastNationalResults;
   if (!data) return; // no data for that region yet — nothing to switch to
 
   selectedRegion = regionName || null;
 
-  const seats = calculateSeats(data);
+  const nationalSeats = calculateSeats(lastNationalResults);
   renderResultsBarChart(data);
-  document.getElementById('hemicycleChart').innerHTML = buildHemicycleSVG(seats, AGREEMENT_ORDER);
-  renderBuilderToggles(seats);
-  renderBuilderResult(seats);
+  document.getElementById('hemicycleChart').innerHTML = buildHemicycleSVG(nationalSeats, AGREEMENT_ORDER);
+  renderBuilderToggles(nationalSeats);
+  renderBuilderResult(nationalSeats);
+  renderCompareTable(data, nationalSeats);
   renderRegionGrid(lastRegionsResults); // re-render so the active card and dropdown stay in sync
-
-  const indicator = document.getElementById('regionViewIndicator');
-  if (indicator){
-    if (selectedRegion){
-      indicator.style.display = 'flex';
-      indicator.innerHTML = `
-        <span><b>${selectedRegion}</b> (hypotetiskt riksresultat)</span>
-        <button class="region-view-reset" id="regionViewReset">← Nationellt</button>
-      `;
-      document.getElementById('regionViewReset').addEventListener('click', () => selectResultsView(null));
-    } else {
-      indicator.style.display = 'none';
-      indicator.innerHTML = '';
-    }
-  }
 }
 
 function renderResultsContent(national, regions, countedPct){
@@ -2513,9 +2490,8 @@ function renderResultsContent(national, regions, countedPct){
   selectedRegion = null;
 
   renderCountedProgress(countedPct);
-  renderCompareTable(national, calculateSeats(national)); // always national — 2022 baseline has no regional breakdown
   renderRegionGrid(lastRegionsResults);
-  selectResultsView(null); // renders bar chart, hemicycle, and builder for the national view
+  selectResultsView(null); // renders bar chart, hemicycle, builder, and comparison table for the national view
 }
 
 async function loadRealResults(){
