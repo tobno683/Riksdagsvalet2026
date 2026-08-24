@@ -490,8 +490,11 @@
     font-family:'IBM Plex Mono',monospace; font-size:14px; color:var(--ink-soft);
     padding:30px; text-align:center; border:1px dashed var(--line); background:var(--card);
   }
-  .results-grid{display:grid; grid-template-columns:1fr 1fr; gap:28px; margin-bottom:36px;}
-  @media (max-width:760px){ .results-grid{grid-template-columns:1fr;} }
+  .results-grid-3{display:grid; grid-template-columns:0.8fr 1.3fr 1fr; gap:24px; margin-bottom:24px;}
+  @media (max-width:980px){ .results-grid-3{grid-template-columns:1fr 1fr;} }
+  @media (max-width:640px){ .results-grid-3{grid-template-columns:1fr;} }
+  .results-grid-2{display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-bottom:20px;}
+  @media (max-width:760px){ .results-grid-2{grid-template-columns:1fr;} }
   .results-bar-row{display:flex; align-items:center; gap:10px; margin-bottom:8px;}
   .results-bar-label{
     width:34px; flex-shrink:0; font-family:'IBM Plex Mono',monospace; font-size:12px; font-weight:700; text-align:right;
@@ -501,31 +504,47 @@
   .results-bar-pct{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:#fff; font-weight:600;}
   .hemicycle-caption{font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); text-align:center; margin-top:10px;}
 
-  /* Votes-counted progress indicator */
-  .region-view-indicator{
-    display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px;
-    background:#FF8B6B22; border:1px solid #FF8B6B; border-radius:6px; padding:10px 16px; margin-bottom:20px;
+  .region-col-header{
+    display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:4px; flex-wrap:wrap;
   }
-  .region-view-indicator span{font-family:'IBM Plex Mono',monospace; font-size:12.5px; color:var(--ink);}
-  .region-view-indicator span b{color:#FF8B6B;}
+  .region-dropdown{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink);
+    background:var(--card); border:1px solid var(--line); border-radius:4px; padding:4px 8px;
+    max-width:150px;
+  }
+
+  /* Selected-region indicator — small, sits at bottom-right of the map */
+  .region-view-indicator{
+    display:flex; align-items:center; justify-content:flex-end; gap:6px; flex-wrap:wrap;
+    margin-top:8px; text-align:right;
+  }
+  .region-view-indicator span{font-family:'IBM Plex Mono',monospace; font-size:10px; color:var(--ink-soft);}
+  .region-view-indicator span b{color:#FF8B6B; font-weight:700;}
   .region-view-reset{
-    font-family:'IBM Plex Mono',monospace; font-size:12px; font-weight:700; color:#FF8B6B;
-    background:none; border:1px solid #FF8B6B; border-radius:100px; padding:5px 12px; cursor:pointer;
+    font-family:'IBM Plex Mono',monospace; font-size:9.5px; font-weight:700; color:#FF8B6B;
+    background:none; border:1px solid #FF8B6B; border-radius:100px; padding:2px 8px; cursor:pointer;
   }
   .region-view-reset:hover{background:#FF8B6B22;}
-  .counted-box{
-    background:var(--card); border:1px solid var(--line); border-radius:6px;
-    padding:18px 22px; margin-bottom:30px;
+  .counted-box-slim{
+    display:flex; align-items:center; gap:12px; margin-bottom:18px; flex-wrap:wrap;
   }
-  .counted-top{display:flex; align-items:baseline; justify-content:space-between; margin-bottom:10px;}
-  .counted-label{font-family:'IBM Plex Mono',monospace; font-size:11px; text-transform:uppercase; letter-spacing:.06em; color:var(--ink-soft); font-weight:600;}
-  .counted-pct{font-family:'Fraunces',serif; font-weight:700; font-size:26px; color:#FF8B6B;}
-  .counted-track{height:14px; background:var(--paper); border-radius:100px; overflow:hidden;}
-  .counted-fill{
+  .counted-box-slim .counted-label{
+    font-family:'IBM Plex Mono',monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.06em;
+    color:var(--ink-soft); font-weight:600; flex-shrink:0;
+  }
+  .counted-box-slim .counted-track{
+    flex:1; min-width:120px; height:8px; background:var(--card); border-radius:100px; overflow:hidden;
+  }
+  .counted-box-slim .counted-fill{
     height:100%; background:linear-gradient(90deg, #FF8B6B, #FFB199); border-radius:100px;
     transition:width .4s ease; width:0%;
   }
-  .counted-caption{font-family:'IBM Plex Mono',monospace; font-size:11.5px; color:var(--ink-soft); margin:8px 0 0;}
+  .counted-box-slim .counted-pct{
+    font-family:'Fraunces',serif; font-weight:700; font-size:16px; color:#FF8B6B; flex-shrink:0;
+  }
+  .counted-box-slim .counted-caption{
+    font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:var(--ink-soft); flex-shrink:0;
+  }
 
   /* Interactive coalition builder */
   .builder-box{
@@ -578,7 +597,7 @@
   .coalition-seats b{font-size:15px;}
 
   .region-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(160px, 1fr)); gap:10px;}
-  .region-map-wrap{max-width:320px; margin:0 auto;}
+  .region-map-wrap{max-width:230px; margin:0 -20px 0 auto;}
   .region-map-note{
     font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft); text-align:center;
     margin-top:10px; font-style:italic;
@@ -746,46 +765,54 @@
 
       <div id="resultsContent" style="display:none;">
 
-        <div class="region-view-indicator" id="regionViewIndicator" style="display:none;"></div>
-
-        <div class="counted-box">
-          <div class="counted-top">
-            <span class="counted-label">Rösträkning</span>
-            <span class="counted-pct" id="countedPct">—</span>
-          </div>
+        <div class="counted-box-slim">
+          <span class="counted-label">Rösträkning</span>
           <div class="counted-track"><div class="counted-fill" id="countedFill"></div></div>
-          <p class="counted-caption" id="countedCaption"></p>
+          <span class="counted-pct" id="countedPct">—</span>
+          <span class="counted-caption" id="countedCaption"></span>
         </div>
 
-        <div class="results-grid">
+        <div class="results-grid-3">
           <div class="results-col">
             <p class="compass-subhead">Röstandel per parti</p>
             <div id="resultsBarChart"></div>
           </div>
           <div class="results-col">
-            <p class="compass-subhead">Mandatfördelning (349 platser, 175 för majoritet)</p>
+            <p class="compass-subhead">Mandatfördelning</p>
             <div id="hemicycleChart"></div>
             <p class="hemicycle-caption">175 mandat krävs för majoritet</p>
           </div>
-        </div>
-
-        <p class="compass-subhead">Bygg din egen koalition</p>
-        <div class="builder-box">
-          <p class="builder-hint">Klicka på partierna du vill kombinera och se om det räcker till 175 mandat.</p>
-          <div class="builder-toggles" id="builderToggles"></div>
-          <div class="builder-result">
-            <div><span class="builder-total" id="builderTotal">0</span> <span style="color:var(--ink-soft); font-size:13px;">/ 349 mandat</span></div>
-            <span class="builder-status" id="builderStatus"></span>
+          <div class="results-col">
+            <div class="region-col-header">
+              <p class="compass-subhead" style="margin:0;">Resultat per län</p>
+              <select class="region-dropdown" id="regionDropdown">
+                <option value="">Välj län…</option>
+              </select>
+            </div>
+            <div class="region-grid" id="regionGrid"></div>
+            <div class="region-view-indicator" id="regionViewIndicator" style="display:none;"></div>
           </div>
-          <div class="builder-bar" id="builderBar"></div>
-          <div class="builder-majority-label">175 mandat krävs för majoritet</div>
         </div>
 
-        <p class="compass-subhead">2022 vs 2026 — förändring sedan förra valet</p>
-        <table class="compare-table" id="compareTable"></table>
-
-        <p class="compass-subhead" style="margin-top:36px;">Resultat per län — klicka för detaljer</p>
-        <div class="region-grid" id="regionGrid"></div>
+        <div class="results-grid-2">
+          <div>
+            <p class="compass-subhead">Bygg din egen koalition</p>
+            <div class="builder-box">
+              <p class="builder-hint">Klicka på partierna du vill kombinera och se om det räcker till 175 mandat.</p>
+              <div class="builder-toggles" id="builderToggles"></div>
+              <div class="builder-result">
+                <div><span class="builder-total" id="builderTotal">0</span> <span style="color:var(--ink-soft); font-size:13px;">/ 349 mandat</span></div>
+                <span class="builder-status" id="builderStatus"></span>
+              </div>
+              <div class="builder-bar" id="builderBar"></div>
+              <div class="builder-majority-label">175 mandat krävs för majoritet</div>
+            </div>
+          </div>
+          <div>
+            <p class="compass-subhead">2022 vs 2026 — förändring sedan förra valet</p>
+            <table class="compare-table" id="compareTable"></table>
+          </div>
+        </div>
 
       </div>
     </div>
@@ -869,6 +896,7 @@
         <li><a href="https://www.riksdagen.se" target="_blank" rel="noopener">Sveriges riksdag — riksdagen.se</a></li>
         <li><a href="https://valkompass.svt.se/2026/" target="_blank" rel="noopener">SVT Valkompass 2026</a></li>
         <li><a href="https://www.scb.se" target="_blank" rel="noopener">SCB — Partisympatiundersökningen</a></li>
+        <li><a href="https://www.npmjs.com/package/@svg-maps/sweden" target="_blank" rel="noopener">Länskarta — @svg-maps/sweden (CC-BY 4.0)</a></li>
       </ul>
     </div>
     <div class="foot-col">
@@ -2188,7 +2216,6 @@ function buildHemicycleSVG(seats, order){
     }
   }
   svg += `<line x1="${cx-outerR-15}" y1="${cy+2}" x2="${cx+outerR+15}" y2="${cy+2}" stroke="var(--line)" stroke-width="1"/>`;
-  svg += `<text x="${cx}" y="${cy+22}" text-anchor="middle" font-size="12" fill="var(--ink-soft)" font-family="IBM Plex Mono, monospace">175 mandat krävs för majoritet</text>`;
   svg += `</svg>`;
   return svg;
 }
@@ -2420,16 +2447,27 @@ function buildSwedenHexMap(regions){
 
 function renderRegionGrid(regions){
   const el = document.getElementById('regionGrid');
+  const dropdown = document.getElementById('regionDropdown');
   if (!el) return;
 
-  el.innerHTML = `
-    <div class="region-map-wrap">${buildSwedenHexMap(regions)}</div>
-    <p class="region-map-note">Faktiska länsgränser (öppen karta, CC-BY 4.0). Grå län saknar data ännu.</p>
-  `;
+  el.innerHTML = `<div class="region-map-wrap">${buildSwedenHexMap(regions)}</div>`;
 
   el.querySelectorAll('.hex-clickable').forEach(g => {
-    g.addEventListener('click', () => selectResultsView(g.dataset.region));
+    g.addEventListener('click', () => {
+      const region = g.dataset.region;
+      selectResultsView(region === selectedRegion ? null : region);
+    });
   });
+
+  if (dropdown){
+    dropdown.innerHTML = `<option value="">Välj län…</option>` + SWEDISH_REGIONS.map(name => {
+      const disabled = !regions[name] ? ' disabled' : '';
+      const selectedAttr = name === selectedRegion ? ' selected' : '';
+      return `<option value="${name}"${disabled}${selectedAttr}>${name}</option>`;
+    }).join('');
+    if (!selectedRegion) dropdown.value = '';
+    dropdown.onchange = () => selectResultsView(dropdown.value || null);
+  }
 }
 
 // Switches the bar chart, hemicycle, and coalition builder above to show
@@ -2448,15 +2486,15 @@ function selectResultsView(regionName){
   document.getElementById('hemicycleChart').innerHTML = buildHemicycleSVG(seats, AGREEMENT_ORDER);
   renderBuilderToggles(seats);
   renderBuilderResult(seats);
-  renderRegionGrid(lastRegionsResults); // re-render so the active card is highlighted
+  renderRegionGrid(lastRegionsResults); // re-render so the active card and dropdown stay in sync
 
   const indicator = document.getElementById('regionViewIndicator');
   if (indicator){
     if (selectedRegion){
       indicator.style.display = 'flex';
       indicator.innerHTML = `
-        <span>Visar: <b>${selectedRegion}</b> — som om hela landet röstat som detta län</span>
-        <button class="region-view-reset" id="regionViewReset">← Visa nationellt resultat</button>
+        <span><b>${selectedRegion}</b> (hypotetiskt riksresultat)</span>
+        <button class="region-view-reset" id="regionViewReset">← Nationellt</button>
       `;
       document.getElementById('regionViewReset').addEventListener('click', () => selectResultsView(null));
     } else {
