@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-08-22T00:00:00Z",
-  "poll_date_label": "aug. 2026 (startvärden, ej ännu auto-uppdaterat)",
-  "source": "Manuellt startvärde baserat på Demoskop/Novus/Verian, augusti 2026. Automatisk uppdatering hämtar från PolitPro.eu (källa krävs vid publik visning: Source: PolitPro.eu).",
+  "updated_at": "2026-08-25T06:54:05.541088Z",
+  "poll_date_label": "PolitPro Election Trend (löpande uppdaterad)",
+  "source": "PolitPro.eu — sammanvägning av svenska opinionsinstitut (källa krävs vid publik visning: Source: PolitPro.eu)",
   "source_url": "https://politpro.eu/en/sweden",
   "parties": {
     "S": 30.5,
-    "M": 17.3,
-    "SD": 19.5,
-    "V": 7.0,
-    "C": 7.7,
-    "KD": 6.7,
+    "M": 17.6,
+    "SD": 19.3,
+    "V": 7.4,
+    "C": 7.6,
+    "KD": 6.4,
     "L": 2.0,
-    "MP": 7.2
+    "MP": 7.5
   }
 }
