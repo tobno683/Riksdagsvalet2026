@@ -539,6 +539,15 @@
     background:var(--card); border:1px solid var(--line); border-radius:6px; padding:24px 26px; margin-bottom:36px;
   }
   .builder-hint{font-size:12.5px; color:var(--ink-soft); margin-bottom:16px; max-width:600px; line-height:1.5;}
+  .builder-presets{display:flex; gap:8px; margin-bottom:14px; flex-wrap:wrap;}
+  .builder-preset-btn{
+    font-family:'IBM Plex Mono',monospace; font-size:11.5px; font-weight:600;
+    padding:6px 14px; border-radius:100px; cursor:pointer;
+    background:var(--paper); border:1px solid var(--line); color:var(--ink);
+    transition:border-color .15s ease, background .15s ease, color .15s ease;
+  }
+  .builder-preset-btn:hover{border-color:var(--focus); background:var(--card);}
+  .builder-preset-btn.active{background:var(--focus); border-color:var(--focus); color:#fff;}
   .builder-toggles{display:flex; flex-wrap:wrap; gap:8px; margin-bottom:22px;}
   .party-toggle{
     font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:700; padding:9px 16px;
@@ -786,6 +795,10 @@
             <p class="compass-subhead">Bygg din egen koalition</p>
             <div class="builder-box">
               <p class="builder-hint">Klicka på partierna du vill kombinera och se om det räcker till 175 mandat.</p>
+              <div class="builder-presets">
+                <button class="builder-preset-btn" id="presetTido">Tidöpartierna</button>
+                <button class="builder-preset-btn" id="presetOpposition">Oppositionen</button>
+              </div>
               <div class="builder-toggles" id="builderToggles"></div>
               <div class="builder-result">
                 <div><span class="builder-total" id="builderTotal">0</span> <span style="color:var(--ink-soft); font-size:13px;">/ 349 mandat</span></div>
@@ -2281,6 +2294,43 @@ function renderBuilderResult(seats){
     segs += `<div class="builder-seg" style="width:${restW}%; background:var(--paper);"></div>`;
     barEl.innerHTML = segs;
   }
+
+  updatePresetButtonStates();
+}
+
+const TIDO_PARTIES = ["M", "KD", "L", "SD"];
+const OPPOSITION_PARTIES = ["S", "V", "MP", "C"];
+
+function setsMatch(setA, arrB){
+  if (setA.size !== arrB.length) return false;
+  return arrB.every(p => setA.has(p));
+}
+
+function updatePresetButtonStates(){
+  const tidoBtn = document.getElementById('presetTido');
+  const oppBtn = document.getElementById('presetOpposition');
+  const nationalSeats = calculateSeats(lastNationalResults);
+  const validTido = TIDO_PARTIES.filter(p => nationalSeats[p] > 0);
+  const validOpposition = OPPOSITION_PARTIES.filter(p => nationalSeats[p] > 0);
+  if (tidoBtn) tidoBtn.classList.toggle('active', setsMatch(selectedParties, validTido));
+  if (oppBtn) oppBtn.classList.toggle('active', setsMatch(selectedParties, validOpposition));
+}
+
+function initBuilderPresets(){
+  function togglePreset(partyList){
+    const nationalSeats = calculateSeats(lastNationalResults);
+    const validList = partyList.filter(p => nationalSeats[p] > 0);
+    // Clicking an already-active preset clears the selection instead of
+    // re-applying it — same as clicking every one of its party toggles off.
+    selectedParties = setsMatch(selectedParties, validList) ? new Set() : new Set(validList);
+    renderBuilderToggles(nationalSeats);
+    renderBuilderResult(nationalSeats);
+  }
+
+  const tidoBtn = document.getElementById('presetTido');
+  const oppBtn = document.getElementById('presetOpposition');
+  if (tidoBtn) tidoBtn.addEventListener('click', () => togglePreset(TIDO_PARTIES));
+  if (oppBtn) oppBtn.addEventListener('click', () => togglePreset(OPPOSITION_PARTIES));
 }
 
 // --- 2022 vs 2026 comparison ---
@@ -2723,6 +2773,7 @@ initTopicViewToggle();
 renderAgreementMatrix();
 renderCompassLinks();
 initChatWidget();
+initBuilderPresets();
 initResultsSection();
 loadLivePollData();
 
