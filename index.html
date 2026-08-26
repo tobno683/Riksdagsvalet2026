@@ -370,7 +370,36 @@
   .radar-card-name{font-size:10.5px; color:var(--ink-soft); margin-bottom:6px; text-align:center;}
 
   /* Agreement heatmap */
-  .agreement-strip{margin:56px 0 40px;}
+
+
+  /* Demographics — "Vem röstar på vem?" */
+  .demographics-strip{margin:56px 0 40px;}
+  .demo-fact-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr)); gap:16px;}
+  .demo-fact-card{
+    background:var(--card); border:1px solid var(--line); padding:20px 22px;
+  }
+  .demo-fact-stat-row{display:flex; flex-wrap:wrap; align-items:baseline; gap:18px;}
+  .demo-fact-stat{
+    font-family:'Fraunces',serif; font-weight:700; font-size:24px; color:var(--focus);
+    display:inline-flex; align-items:baseline; gap:6px; white-space:nowrap;
+  }
+  .demo-fact-stat span{font-family:'IBM Plex Sans',sans-serif; font-weight:500; font-size:12px; color:var(--ink-soft); white-space:normal;}
+  .demo-fact-desc{font-size:13.5px; color:var(--ink); line-height:1.55; margin:10px 0 10px;}
+  .demo-fact-source{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:var(--ink-soft); margin:0;}
+
+  /* Government formation explainer */
+  .govform-strip{margin:56px 0 40px;}
+  .govform-steps{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line); max-width:760px;}
+  .govform-step{
+    background:var(--card); padding:18px 22px; display:flex; gap:18px; align-items:flex-start;
+  }
+  .govform-num{
+    font-family:'Fraunces',serif; font-weight:700; font-size:22px; color:var(--focus);
+    flex-shrink:0; width:34px; height:34px; border:1.5px solid var(--focus); border-radius:50%;
+    display:flex; align-items:center; justify-content:center;
+  }
+  .govform-content h4{font-family:'IBM Plex Sans',sans-serif; font-size:14.5px; font-weight:700; color:var(--ink); margin:0 0 5px;}
+  .govform-content p{font-size:13.5px; color:var(--ink-soft); line-height:1.6; margin:0;}
 
   /* Valkompass links */
   .compass-strip{margin:56px 0 60px;}
@@ -463,8 +492,7 @@
     .chat-panel{right:16px; bottom:84px;}
     .chat-fab{right:16px; bottom:16px;}
   }
-  .heatmap-wrap{overflow-x:auto; padding-bottom:6px;}
-  .heatmap-tooltip-note{font-size:12px; color:var(--ink-soft); margin-top:10px;}
+
 
   /* Election-night dark indigo theme — applied to the WHOLE page via a
      body class (not just .results-strip), since overriding the shared
@@ -831,7 +859,15 @@
       </div>
     </div>
 
-    <p class="section-label">Partierna — klicka för fullständig profil</p>
+    <div class="debate-strip" id="debateStrip">
+      <p class="section-label">Debattflöde — se debatterna gratis</p>
+      <p class="note" id="debateNoteText" style="margin-bottom:18px; max-width:640px;">Visar debatter från senaste veckan och kommande vecka. Samtliga går att se helt utan betalvägg — SVT och Sveriges Radio är avgiftsfri public service, och TV4 sänder sina partiledardebatter fritt på tv4.se/TV4 Play. Där en arrangör (t.ex. en tidning) också skriver betalartiklar om debatten anges det separat — själva sändningen är ändå fri att titta på.</p>
+      <button class="debate-expand-btn" id="debateExpandPast" style="display:none;"></button>
+      <div class="debate-list" id="debateList"></div>
+      <button class="debate-expand-btn" id="debateExpandFuture" style="display:none;"></button>
+    </div>
+
+    <p class="section-label" id="partyGridLabel">Partierna — klicka för fullständig profil</p>
     <div class="grid" id="grid"></div>
 
     <div class="compass-strip">
@@ -843,14 +879,6 @@
 
       <p class="compass-subhead" style="margin-top:28px;">Jämför & granska metoderna bakom dem</p>
       <div class="compass-grid" id="compassGridMeta"></div>
-    </div>
-
-    <div class="debate-strip" id="debateStrip">
-      <p class="section-label">Debattflöde — se debatterna gratis</p>
-      <p class="note" id="debateNoteText" style="margin-bottom:18px; max-width:640px;">Visar debatter från senaste veckan och kommande vecka. Samtliga går att se helt utan betalvägg — SVT och Sveriges Radio är avgiftsfri public service, och TV4 sänder sina partiledardebatter fritt på tv4.se/TV4 Play. Där en arrangör (t.ex. en tidning) också skriver betalartiklar om debatten anges det separat — själva sändningen är ändå fri att titta på.</p>
-      <button class="debate-expand-btn" id="debateExpandPast" style="display:none;"></button>
-      <div class="debate-list" id="debateList"></div>
-      <button class="debate-expand-btn" id="debateExpandFuture" style="display:none;"></button>
     </div>
 
     <div class="topics-strip">
@@ -873,12 +901,109 @@
       </div>
     </div>
 
-    <div class="agreement-strip">
-      <p class="section-label">Hur mycket håller partierna med varandra?</p>
+    <div class="demographics-strip">
+      <p class="section-label">Vem röstar på vem? — 2022 års väljare</p>
       <p class="note" style="margin-bottom:22px; max-width:700px;">
-        Detta är <b>inte</b> en statistisk sammanställning av faktiska voteringar i riksdagen — sådan data kräver tillgång till Riksdagens fullständiga voteringsregister. Rutorna visar istället ett förenklat mönster baserat på blocktillhörighet (Tidöpartierna kontra oppositionen), faktiskt regeringssamarbete och kända undantag som beskrivs i partiprofilerna på den här sidan (t.ex. att V och MP delar näst intill identisk miljöpolitik trots att de tillhör olika delar av oppositionen, eller att C och L historiskt stått nära varandra som forna allianspartner). Ljusare grönt betyder högre samstämmighet, mörkare rött betyder lägre.
+        Sverige för inte statistik över hur enskilda väljare röstar (valsedlar är anonyma) — allt nedan kommer istället från SVT:s Vallokalsundersökning (Valu) 2022, en oberoende enkät bland cirka 9 000 väljare i anslutning till vallokalerna, samt SCB:s valdeltagandeundersökning. Detta är alltså mönster från <b>förra valet</b>, inte en prognos för 2026.
       </p>
-      <div id="agreementMatrix"></div>
+      <div class="demo-fact-grid">
+        <div class="demo-fact-card">
+          <div class="demo-fact-stat-row">
+            <div class="demo-fact-stat">85% <span>kvinnor</span></div>
+            <div class="demo-fact-stat">84% <span>män</span></div>
+          </div>
+          <p class="demo-fact-desc">Valdeltagandet var nästan identiskt mellan könen 2022 — en skillnad på bara en procentenhet.</p>
+          <p class="demo-fact-source">Källa: SCB, Valdeltagandeundersökningen 2022</p>
+        </div>
+        <div class="demo-fact-card">
+          <div class="demo-fact-stat-row">
+            <div class="demo-fact-stat">+8pp <span>bland kvinnor</span></div>
+          </div>
+          <p class="demo-fact-desc"><b>Socialdemokraterna</b> hade 8 procentenheter starkare stöd bland kvinnor än bland män 2022 — partiets tydligaste könsskillnad.</p>
+          <p class="demo-fact-source">Källa: SVT:s Valu 2022, analys av Oscarsson & Ahlbom</p>
+        </div>
+        <div class="demo-fact-card">
+          <div class="demo-fact-stat-row">
+            <div class="demo-fact-stat">+9pp <span>bland män</span></div>
+          </div>
+          <p class="demo-fact-desc"><b>Sverigedemokraterna</b> hade tvärtom 9 procentenheter starkare stöd bland män än bland kvinnor — motsatt mönster mot S.</p>
+          <p class="demo-fact-source">Källa: SVT:s Valu 2022, analys av Oscarsson & Ahlbom</p>
+        </div>
+        <div class="demo-fact-card">
+          <div class="demo-fact-stat-row">
+            <div class="demo-fact-stat">56% <span>kvinnor</span></div>
+            <div class="demo-fact-stat">42% <span>män</span></div>
+          </div>
+          <p class="demo-fact-desc">Så stor andel av respektive kön röstade på den rödgröna sidan 2022 — ett tydligt könsgap på blocknivå.</p>
+          <p class="demo-fact-source">Källa: SVT:s Valu 2022</p>
+        </div>
+        <div class="demo-fact-card">
+          <div class="demo-fact-stat-row">
+            <div class="demo-fact-stat">52% <span>unga män (M/SD)</span></div>
+            <div class="demo-fact-stat">33% <span>unga kvinnor (M/SD)</span></div>
+          </div>
+          <p class="demo-fact-desc">Bland väljare 18–30 år röstade 52 % av männen på M eller SD, jämfört med 33 % av kvinnorna i samma ålder — det tydligaste könsgapet i hela väljarkåren.</p>
+          <p class="demo-fact-source">Källa: SVT:s Valu 2022, via Vänsterpartiets valanalys 2022</p>
+        </div>
+        <div class="demo-fact-card">
+          <div class="demo-fact-stat-row">
+            <div class="demo-fact-stat">Oförändrat <span>sedan 2006</span></div>
+          </div>
+          <p class="demo-fact-desc"><b>Vänsterpartiet</b> är det parti som haft mest stabilt litet könsgap i väljarstödet över tid — ungefär samma nivå sedan valet 2006.</p>
+          <p class="demo-fact-source">Källa: SVT:s Valu, flera valår</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="govform-strip">
+      <p class="section-label">Vägen till en ny regering</p>
+      <p class="note" style="margin-bottom:26px; max-width:700px;">
+        Sverige väljer inte en regering direkt i valet — väljarna väljer riksdagen, och det är riksdagen som sedan avgör vem som blir statsminister. Processen kallas <b>negativ parlamentarism</b> och fungerar annorlunda än i många andra länder.
+      </p>
+      <div class="govform-steps">
+        <div class="govform-step">
+          <div class="govform-num">1</div>
+          <div class="govform-content">
+            <h4>Valresultatet fastställs</h4>
+            <p>Riksdagens 349 mandat fördelas mellan partierna som klarat 4 %-spärren.</p>
+          </div>
+        </div>
+        <div class="govform-step">
+          <div class="govform-num">2</div>
+          <div class="govform-content">
+            <h4>Talmannen inleder talmansrundor</h4>
+            <p>Riksdagens talman — en opolitisk roll — samtalar enskilt med samtliga partiledare för att hitta den statsministerkandidat som har bäst chans att accepteras av riksdagen.</p>
+          </div>
+        </div>
+        <div class="govform-step">
+          <div class="govform-num">3</div>
+          <div class="govform-content">
+            <h4>Talmannen föreslår en statsministerkandidat</h4>
+            <p>Förslaget går till omröstning i riksdagens kammare.</p>
+          </div>
+        </div>
+        <div class="govform-step">
+          <div class="govform-num">4</div>
+          <div class="govform-content">
+            <h4>Riksdagen röstar — men bara "nej" räknas</h4>
+            <p>Vid <b>negativ parlamentarism</b> behöver kandidaten inget aktivt majoritetsstöd. Förslaget faller bara om minst 175 av 349 ledamöter röstar emot. Räcker det inte till en majoritet emot, blir kandidaten statsminister — även med en minoritetsregering.</p>
+          </div>
+        </div>
+        <div class="govform-step">
+          <div class="govform-num">5</div>
+          <div class="govform-content">
+            <h4>Om förslaget faller: nytt försök</h4>
+            <p>Talmannen har totalt fyra formella försök. Misslyckas alla fyra måste extra val till riksdagen utlysas. Efter valet 2018 tog processen över fyra månader och flera talmansrundor innan en regering till slut godkändes.</p>
+          </div>
+        </div>
+        <div class="govform-step">
+          <div class="govform-num">6</div>
+          <div class="govform-content">
+            <h4>Regeringen formas — ofta i minoritet</h4>
+            <p>Svenska regeringar är oftast minoritetsregeringar som tolereras av partier utanför regeringen, ibland formaliserat genom skriftliga samarbetsavtal mellan flera partier utan att alla sitter i regeringen — som Tidöavtalet 2022.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </main>
@@ -1421,19 +1546,6 @@ const TOPICS = [
   }
 ];
 
-// Simplified pairwise "agreement" scores (0–100). Based on bloc membership
-// (Tidöpartierna vs. oppositionen), documented government/support-party
-// cooperation, and specific cross-bloc alignments described in the party
-// profiles on this page. NOT derived from an actual roll-call vote count.
-const AGREEMENT = {
-  "S-M": 30, "S-SD": 20, "S-V": 55, "S-C": 45, "S-KD": 30, "S-L": 35, "S-MP": 70,
-  "M-SD": 65, "M-V": 15, "M-C": 55, "M-KD": 80, "M-L": 75, "M-MP": 25,
-  "SD-V": 10, "SD-C": 20, "SD-KD": 55, "SD-L": 35, "SD-MP": 15,
-  "V-C": 35, "V-KD": 15, "V-L": 20, "V-MP": 75,
-  "C-KD": 50, "C-L": 60, "C-MP": 55,
-  "KD-L": 65, "KD-MP": 25,
-  "L-MP": 30
-};
 const AGREEMENT_ORDER = ["V","S","MP","C","L","KD","M","SD"]; // rough left-to-right
 
 // Real, interactive voting-compass tools (not curated/edited by this site).
@@ -1522,11 +1634,6 @@ function renderCompassLinks(){
   }
 }
 
-
-function getAgreement(a, b){
-  if (a === b) return 100;
-  return AGREEMENT[a+"-"+b] ?? AGREEMENT[b+"-"+a] ?? null;
-}
 
 function partyColor(id){
   const p = PARTIES.find(x=>x.id===id);
@@ -1689,57 +1796,6 @@ function initTopicViewToggle(){
       document.getElementById('topicViewRadar').style.display = view === 'radar' ? '' : 'none';
     });
   });
-}
-
-function renderAgreementMatrix(){
-  const el = document.getElementById('agreementMatrix');
-  if (!el) return;
-  const order = AGREEMENT_ORDER;
-  const cell = 52, labelCol = 44, gap = 2;
-  const size = order.length;
-  const svgSize = labelCol + size * cell;
-
-  function colorFor(score){
-    // interpolate from a muted red (low agreement) to the site's green (high agreement)
-    const t = score / 100;
-    const r1=161,g1=18,b1=26;   // low  (#A1121A)
-    const r2=27,g2=94,b2=74;    // high (#1B5E4A)
-    const r = Math.round(r1 + (r2-r1)*t);
-    const g = Math.round(g1 + (g2-g1)*t);
-    const b = Math.round(b1 + (b2-b1)*t);
-    return `rgb(${r},${g},${b})`;
-  }
-
-  let svg = `<svg viewBox="0 0 ${svgSize} ${svgSize}" width="${svgSize}" height="${svgSize}" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Mono, monospace">`;
-
-  // column headers
-  order.forEach((pid, ci) => {
-    const x = labelCol + ci*cell + cell/2;
-    svg += `<text x="${x}" y="${labelCol-14}" text-anchor="middle" font-size="13" font-weight="700" fill="${partyColor(pid)}">${pid}</text>`;
-  });
-  // row headers
-  order.forEach((pid, ri) => {
-    const y = labelCol + ri*cell + cell/2 + 4;
-    svg += `<text x="${labelCol-12}" y="${y}" text-anchor="end" font-size="13" font-weight="700" fill="${partyColor(pid)}">${pid}</text>`;
-  });
-
-  order.forEach((rowId, ri) => {
-    order.forEach((colId, ci) => {
-      const x = labelCol + ci*cell;
-      const y = labelCol + ri*cell;
-      const score = getAgreement(rowId, colId);
-      const isDiag = rowId === colId;
-      const fill = isDiag ? "#DADFD5" : colorFor(score);
-      svg += `<rect x="${x+gap/2}" y="${y+gap/2}" width="${cell-gap}" height="${cell-gap}" fill="${fill}" rx="3"/>`;
-      const textFill = isDiag ? "#8A9188" : "#fff";
-      const label = isDiag ? "—" : score;
-      svg += `<text x="${x+cell/2}" y="${y+cell/2+4}" text-anchor="middle" font-size="12" font-weight="600" fill="${textFill}">${label}</text>`;
-      if (!isDiag) svg += `<title>${rowId} ↔ ${colId}: ${score}/100</title>`;
-    });
-  });
-
-  svg += `</svg>`;
-  el.innerHTML = `<div class="heatmap-wrap">${svg}</div><p class="heatmap-tooltip-note">Håll muspekaren över en ruta för exakt värde. Skala 0–100, där 100 vore identisk röstningslinje.</p>`;
 }
 
 
@@ -2610,6 +2666,23 @@ async function initResultsSection(){
   if (subText) subText.style.display = 'none';
   if (neutralityBox) neutralityBox.style.display = 'none';
 
+  // Below the party grid, hide the pre-election context that's less
+  // relevant once the page is showing live results (bloc bar, valkompasser,
+  // topic spectrum, demographics). "Vägen till en ny regering" is moved to
+  // sit above the party grid instead — exactly the question people have
+  // once results start coming in. (debate-strip is already relocated to
+  // #topWrap by activateElectionNightLayout().)
+  ['.bloc-strip', '.compass-strip', '.topics-strip', '.demographics-strip'].forEach(sel => {
+    const el = document.querySelector(sel);
+    if (el) el.style.display = 'none';
+  });
+
+  const govformStrip = document.querySelector('.govform-strip');
+  const partyGridLabel = document.getElementById('partyGridLabel');
+  if (govformStrip && partyGridLabel && partyGridLabel.parentNode){
+    partyGridLabel.parentNode.insertBefore(govformStrip, partyGridLabel);
+  }
+
   if (isPreview){
     document.getElementById('resultsIntroNote').innerHTML =
       '⚠️ <b>Förhandsvisning</b> — testvy. Om data/results.json innehåller testdata visas den nedan (samma kodväg som används på riktigt); annars visas opinionssiffror som platshållare. Sektionen aktiveras automatiskt för alla besökare kl 20.00 den 13 september och visar då Valmyndighetens faktiska resultat istället.';
@@ -2770,7 +2843,6 @@ renderTopicLegend();
 renderTopics();
 renderRadarProfiles();
 initTopicViewToggle();
-renderAgreementMatrix();
 renderCompassLinks();
 initChatWidget();
 initBuilderPresets();
