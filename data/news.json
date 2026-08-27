@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T19:03:02.787373Z",
+  "updated_at": "2026-08-27T19:12:27.938569Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -22,6 +22,16 @@
       "type": "news"
     },
     {
+      "name": "Dagens Nyheter",
+      "url": "https://www.dn.se/rss/",
+      "type": "news"
+    },
+    {
+      "name": "Expressen",
+      "url": "https://feeds.expressen.se/nyheter",
+      "type": "news"
+    },
+    {
       "name": "Ledarsidorna",
       "url": "https://ledarsidorna.se/feed/",
       "type": "blog"
@@ -29,6 +39,11 @@
     {
       "name": "Dagens Arena",
       "url": "https://www.dagensarena.se/feed/",
+      "type": "blog"
+    },
+    {
+      "name": "Svensson",
+      "url": "https://blog.zaramis.se/feed/",
       "type": "blog"
     }
   ],
