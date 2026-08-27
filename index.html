@@ -92,14 +92,6 @@
   .neutrality-box b{color:var(--ink);}
 
   /* ---------- Controls ---------- */
-  .controls{
-    position:sticky; top:0; z-index:5;
-    background:rgba(238,241,236,0.92);
-    backdrop-filter:blur(6px);
-    border-bottom:1px solid var(--line);
-    padding:14px 0;
-  }
-  .controls-inner{display:flex; flex-wrap:wrap; gap:10px 22px; align-items:center;}
   .control-group{display:flex; align-items:center; gap:8px; flex-wrap:wrap;}
   .control-label{font-family:'IBM Plex Mono',monospace; font-size:11.5px; text-transform:uppercase; letter-spacing:.08em; color:var(--ink-soft);}
   button.pill{
@@ -783,23 +775,6 @@
   </div>
 </header>
 
-<div class="controls">
-  <div class="wrap controls-inner">
-    <div class="control-group">
-      <span class="control-label">Block</span>
-      <button class="pill active" data-filter="all">Alla partier</button>
-      <button class="pill" data-filter="gov">Regeringsunderlag (Tidö)</button>
-      <button class="pill" data-filter="opp">Opposition</button>
-    </div>
-    <div class="control-group">
-      <span class="control-label">Sortera</span>
-      <button class="pill active" data-sort="poll">Opinionsläge</button>
-      <button class="pill" data-sort="alpha">Bokstavsordning</button>
-      <button class="pill" data-sort="seats2022">Mandat 2022</button>
-    </div>
-  </div>
-</div>
-
 <main>
   <div class="wrap" id="topWrap"><!-- populated only at election night; holds the collapsed debate strip so it sits above the wide results section --></div>
 
@@ -918,6 +893,13 @@
           <p class="news-empty-state" id="blogEmptyState" style="display:none;">Kunde inte hämta blogginlägg just nu — försök igen senare.</p>
         </div>
       </div>
+    </div>
+
+    <div class="control-group" id="blockFilterGroup" style="margin-bottom:16px;">
+      <span class="control-label">Block</span>
+      <button class="pill active" data-filter="all">Alla partier</button>
+      <button class="pill" data-filter="gov">Regeringsunderlag (Tidö)</button>
+      <button class="pill" data-filter="opp">Opposition</button>
     </div>
 
     <p class="section-label" id="partyGridLabel">Partierna — klicka för fullständig profil</p>
@@ -2877,12 +2859,12 @@ async function initResultsSection(){
   document.body.classList.add('election-night-active');
   activateElectionNightLayout();
 
-  // "Läget just nu" and the party filter/sort controls are pre-election
+  // "Läget just nu" and the party filter controls are pre-election
   // context that's redundant once live results take over the page.
   const summaryPanel = document.getElementById('summaryPanel');
-  const controls = document.querySelector('.controls');
+  const blockFilter = document.getElementById('blockFilterGroup');
   if (summaryPanel) summaryPanel.style.display = 'none';
-  if (controls) controls.style.display = 'none';
+  if (blockFilter) blockFilter.style.display = 'none';
 
   // The intro subtitle and "Om den här sidan" box explain the site's
   // pre-election framing — not needed once live results are the focus.
