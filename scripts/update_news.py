@@ -133,9 +133,7 @@ SOURCES = [
     {
         # Independent, generally seen as left-of-centre (Sweden's largest
         # daily paper; historically part-owned by the Swedish Trade Union
-        # Confederation). Included alongside SvD to span the political
-        # spectrum beyond SVT/SR, which are public-service and legally
-        # required to stay neutral rather than represent a viewpoint.
+        # Confederation).
         "name": "Aftonbladet",
         "domain": "aftonbladet.se",
         "feed_url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt",
@@ -143,11 +141,29 @@ SOURCES = [
         "type": "news",
     },
     {
-        # Independent, generally seen as moderate/right-of-centre — the
-        # traditional counterpart to Aftonbladet's leaning.
+        # Independent, generally seen as moderate/right-of-centre.
         "name": "Svenska Dagbladet",
         "domain": "svd.se",
         "feed_url": "https://www.svd.se/feed/articles.rss",
+        "format": "rss",
+        "type": "news",
+    },
+    {
+        # Independent liberal - Sweden's paper of record. Confirmed
+        # genuinely live via a third-party RSS reader showing real current
+        # articles, giving higher confidence than the /feed/ URL guesses
+        # used for the blog sources below.
+        "name": "Dagens Nyheter",
+        "domain": "dn.se",
+        "feed_url": "https://www.dn.se/rss/",
+        "format": "rss",
+        "type": "news",
+    },
+    {
+        # Liberal-conservative tabloid, one of Sweden's largest.
+        "name": "Expressen",
+        "domain": "expressen.se",
+        "feed_url": "https://feeds.expressen.se/nyheter",
         "format": "rss",
         "type": "news",
     },
@@ -172,6 +188,18 @@ SOURCES = [
         "name": "Dagens Arena",
         "domain": "dagensarena.se",
         "feed_url": "https://www.dagensarena.se/feed/",
+        "format": "rss",
+        "type": "blog",
+    },
+    {
+        # Long-running, well-known left-leaning individual political blog
+        # (author: Anders S.) - self-described and externally referenced
+        # (including by Expressen's own influential-blogger coverage) as
+        # one of Sweden's most-read political blogs. Same feed-URL caveat
+        # as the other two blogs.
+        "name": "Svensson",
+        "domain": "blog.zaramis.se",
+        "feed_url": "https://blog.zaramis.se/feed/",
         "format": "rss",
         "type": "blog",
     },
