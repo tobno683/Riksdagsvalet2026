@@ -688,12 +688,31 @@
   }
 
   .news-strip{margin:48px 0 56px;}
+  .news-tab-toggle{display:flex; gap:8px; margin-bottom:16px;}
+  .news-collapse-header{
+    display:flex; align-items:center; justify-content:space-between; width:100%;
+    background:none; border:none; padding:0; cursor:pointer; text-align:left;
+  }
+  .news-collapse-icon{font-size:16px; color:var(--ink-soft); transition:transform .15s ease;}
+  .news-collapse-icon.open{transform:rotate(180deg);}
+  .news-topic-chips{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px;}
+  .news-topic-chip{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:600;
+    padding:5px 12px; border-radius:100px; cursor:pointer;
+    background:var(--paper); border:1px solid var(--line); color:var(--ink-soft);
+    transition:border-color .15s ease, background .15s ease, color .15s ease;
+  }
+  .news-topic-chip:hover{border-color:var(--focus); color:var(--ink);}
+  .news-topic-chip.active{background:var(--focus); border-color:var(--focus); color:#fff;}
   .news-list{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line); max-width:760px;}
   .news-item{
     background:var(--card); padding:16px 20px; text-decoration:none; display:block;
     transition:background .12s ease;
   }
   .news-item:hover{background:var(--paper);}
+  .news-item-row{display:flex; gap:14px; align-items:flex-start;}
+  .news-item-icon{width:24px; height:24px; border-radius:5px; flex-shrink:0; margin-top:2px; background:var(--paper);}
+  .news-item-body{flex:1; min-width:0;}
   .news-item-title{font-size:14.5px; font-weight:600; color:var(--ink); margin:0 0 6px; line-height:1.4;}
   .news-item-desc{font-size:13px; color:var(--ink-soft); line-height:1.5; margin:0 0 8px;}
   .news-item-meta{
@@ -872,10 +891,30 @@
     </div>
 
     <div class="news-strip">
-      <p class="section-label">Senaste nytt om valet</p>
-      <p class="note" style="margin-bottom:18px; max-width:640px;">Automatiskt hämtat och filtrerat från SVT Nyheters officiella RSS-flöde, uppdateras var 30:e minut.</p>
-      <div class="news-list" id="newsList"></div>
-      <p class="news-empty-state" id="newsEmptyState" style="display:none;">Kunde inte hämta nyheter just nu — försök igen senare.</p>
+      <button class="news-collapse-header" id="newsCollapseHeader">
+        <span class="section-label" style="margin:0;">Senaste nytt om valet</span>
+        <span class="news-collapse-icon" id="newsCollapseIcon">▾</span>
+      </button>
+
+      <div class="news-collapse-body" id="newsCollapseBody" style="display:none;">
+        <p class="note" style="margin:12px 0 14px; max-width:640px;">Automatiskt hämtat och filtrerat från flera källors officiella RSS-flöden, uppdateras var 30:e minut. <b>Nyheter:</b> SVT och Sveriges Radio (public service, opartiska) samt Aftonbladet och Svenska Dagbladet (oberoende dagstidningar, olika politisk hemvist). <b>Bloggar:</b> Ledarsidorna och Dagens Arena (opinionsbloggar från höger respektive vänster — dessa är debattinlägg, inte nyhetsrapportering).</p>
+
+        <div class="news-tab-toggle">
+          <button class="pill active" data-newstab="news">Nyheter</button>
+          <button class="pill" data-newstab="blogs">Bloggar</button>
+        </div>
+
+        <div id="newsTabNews">
+          <div class="news-topic-chips" id="newsTopicChips"></div>
+          <div class="news-list" id="newsList"></div>
+          <p class="news-empty-state" id="newsEmptyState" style="display:none;">Kunde inte hämta nyheter just nu — försök igen senare.</p>
+        </div>
+        <div id="newsTabBlogs" style="display:none;">
+          <div class="news-topic-chips" id="blogTopicChips"></div>
+          <div class="news-list" id="blogList"></div>
+          <p class="news-empty-state" id="blogEmptyState" style="display:none;">Kunde inte hämta blogginlägg just nu — försök igen senare.</p>
+        </div>
+      </div>
     </div>
 
     <p class="section-label" id="partyGridLabel">Partierna — klicka för fullständig profil</p>
@@ -1620,33 +1659,116 @@ function relativeTimeSwedish(isoString){
   return then.toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' });
 }
 
+function renderNewsItems(items, listEl){
+  if (items.length === 0){
+    listEl.innerHTML = '<p class="news-empty-state" style="display:block;">Inga artiklar för det här ämnet just nu.</p>';
+    return;
+  }
+  listEl.innerHTML = items.map(item => `
+    <a class="news-item" href="${item.link}" target="_blank" rel="noopener">
+      <div class="news-item-row">
+        <img class="news-item-icon" src="${item.sourceIcon}" alt="" onerror="this.style.display='none'">
+        <div class="news-item-body">
+          <p class="news-item-title">${item.title}</p>
+          ${item.description ? `<p class="news-item-desc">${item.description}</p>` : ''}
+          <div class="news-item-meta">
+            <span>${item.source}</span>
+            <span class="dot"></span>
+            <span>${relativeTimeSwedish(item.pubDate)}</span>
+          </div>
+        </div>
+      </div>
+    </a>
+  `).join('');
+}
+
+function renderTopicChips(items, chipsEl, listEl){
+  const allTopics = [...new Set(items.flatMap(it => it.topics || []))];
+  if (allTopics.length === 0){ chipsEl.innerHTML = ''; return; }
+
+  let activeTopic = null;
+  function draw(){
+    chipsEl.innerHTML = `<button class="news-topic-chip ${!activeTopic ? 'active' : ''}" data-topic="">Alla</button>` +
+      allTopics.map(t => `<button class="news-topic-chip ${activeTopic === t ? 'active' : ''}" data-topic="${t}">${t}</button>`).join('');
+    chipsEl.querySelectorAll('.news-topic-chip').forEach(chip => {
+      chip.addEventListener('click', () => {
+        activeTopic = chip.dataset.topic || null;
+        const filtered = activeTopic ? items.filter(it => (it.topics || []).includes(activeTopic)) : items;
+        renderNewsItems(filtered, listEl);
+        draw();
+      });
+    });
+  }
+  draw();
+}
+
 async function loadNewsFeed(){
-  const listEl = document.getElementById('newsList');
-  const emptyEl = document.getElementById('newsEmptyState');
-  if (!listEl) return;
+  const newsListEl = document.getElementById('newsList');
+  const newsEmptyEl = document.getElementById('newsEmptyState');
+  const newsChipsEl = document.getElementById('newsTopicChips');
+  const blogListEl = document.getElementById('blogList');
+  const blogEmptyEl = document.getElementById('blogEmptyState');
+  const blogChipsEl = document.getElementById('blogTopicChips');
+  if (!newsListEl) return;
+
+  let data;
   try {
     const res = await fetch('./data/news.json?ts=' + Date.now());
     if (!res.ok) throw new Error('fetch failed: ' + res.status);
-    const data = await res.json();
-    if (!data.items || data.items.length === 0) throw new Error('no items');
-
-    listEl.innerHTML = data.items.map(item => `
-      <a class="news-item" href="${item.link}" target="_blank" rel="noopener">
-        <p class="news-item-title">${item.title}</p>
-        ${item.description ? `<p class="news-item-desc">${item.description}</p>` : ''}
-        <div class="news-item-meta">
-          <span>${data.source}</span>
-          <span class="dot"></span>
-          <span>${relativeTimeSwedish(item.pubDate)}</span>
-        </div>
-      </a>
-    `).join('');
-    if (emptyEl) emptyEl.style.display = 'none';
+    data = await res.json();
   } catch (err) {
     console.warn('Could not load news feed:', err);
-    listEl.innerHTML = '';
-    if (emptyEl) emptyEl.style.display = 'block';
+    newsListEl.innerHTML = '';
+    blogListEl.innerHTML = '';
+    if (newsEmptyEl) newsEmptyEl.style.display = 'block';
+    if (blogEmptyEl) blogEmptyEl.style.display = 'block';
+    return;
   }
+
+  if (data.news && data.news.length > 0){
+    renderNewsItems(data.news, newsListEl);
+    renderTopicChips(data.news, newsChipsEl, newsListEl);
+    if (newsEmptyEl) newsEmptyEl.style.display = 'none';
+  } else {
+    newsListEl.innerHTML = '';
+    if (newsEmptyEl) newsEmptyEl.style.display = 'block';
+  }
+
+  if (data.blogs && data.blogs.length > 0){
+    renderNewsItems(data.blogs, blogListEl);
+    renderTopicChips(data.blogs, blogChipsEl, blogListEl);
+    if (blogEmptyEl) blogEmptyEl.style.display = 'none';
+  } else {
+    blogListEl.innerHTML = '';
+    if (blogEmptyEl) blogEmptyEl.style.display = 'block';
+  }
+}
+
+function initNewsTabs(){
+  const buttons = document.querySelectorAll('[data-newstab]');
+  const panels = { news: document.getElementById('newsTabNews'), blogs: document.getElementById('newsTabBlogs') };
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const target = btn.dataset.newstab;
+      Object.keys(panels).forEach(key => {
+        if (panels[key]) panels[key].style.display = key === target ? 'block' : 'none';
+      });
+    });
+  });
+}
+
+function initNewsCollapse(){
+  const header = document.getElementById('newsCollapseHeader');
+  const body = document.getElementById('newsCollapseBody');
+  const icon = document.getElementById('newsCollapseIcon');
+  if (!header || !body) return;
+  header.addEventListener('click', () => {
+    const isOpen = body.style.display !== 'none';
+    body.style.display = isOpen ? 'none' : 'block';
+    if (icon) icon.classList.toggle('open', !isOpen);
+  });
 }
 
 function renderCompassLinks(){
@@ -2887,6 +3009,8 @@ renderRadarProfiles();
 initTopicViewToggle();
 renderCompassLinks();
 loadNewsFeed();
+initNewsTabs();
+initNewsCollapse();
 setInterval(loadNewsFeed, 5 * 60 * 1000); // refresh every 5 minutes
 initChatWidget();
 initBuilderPresets();
