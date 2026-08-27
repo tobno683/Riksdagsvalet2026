@@ -686,6 +686,23 @@
     .debate-item{grid-template-columns:1fr; gap:8px;}
     .debate-actions{justify-content:flex-start;}
   }
+
+  .news-strip{margin:48px 0 56px;}
+  .news-list{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line); max-width:760px;}
+  .news-item{
+    background:var(--card); padding:16px 20px; text-decoration:none; display:block;
+    transition:background .12s ease;
+  }
+  .news-item:hover{background:var(--paper);}
+  .news-item-title{font-size:14.5px; font-weight:600; color:var(--ink); margin:0 0 6px; line-height:1.4;}
+  .news-item-desc{font-size:13px; color:var(--ink-soft); line-height:1.5; margin:0 0 8px;}
+  .news-item-meta{
+    font-family:'IBM Plex Mono',monospace; font-size:10.5px; text-transform:uppercase; letter-spacing:.04em;
+    color:var(--brass); display:flex; align-items:center; gap:8px;
+  }
+  .news-item-meta .dot{width:4px; height:4px; border-radius:50%; background:var(--ink-soft); flex-shrink:0;}
+  .news-empty-state{font-size:13px; color:var(--ink-soft); font-style:italic;}
+
   .bloc-bar-wrap{
     background:var(--card); border:1px solid var(--line); padding:26px 28px; margin-top:16px;
   }
@@ -852,6 +869,13 @@
       <button class="debate-expand-btn" id="debateExpandPast" style="display:none;"></button>
       <div class="debate-list" id="debateList"></div>
       <button class="debate-expand-btn" id="debateExpandFuture" style="display:none;"></button>
+    </div>
+
+    <div class="news-strip">
+      <p class="section-label">Senaste nytt om valet</p>
+      <p class="note" style="margin-bottom:18px; max-width:640px;">Automatiskt hämtat och filtrerat från SVT Nyheters officiella RSS-flöde, uppdateras var 30:e minut.</p>
+      <div class="news-list" id="newsList"></div>
+      <p class="news-empty-state" id="newsEmptyState" style="display:none;">Kunde inte hämta nyheter just nu — försök igen senare.</p>
     </div>
 
     <p class="section-label" id="partyGridLabel">Partierna — klicka för fullständig profil</p>
@@ -1578,6 +1602,52 @@ const COMPASS_META = [
     url: "https://www.gu.se/nyheter/gor-valkompassen-2026"
   }
 ];
+
+function relativeTimeSwedish(isoString){
+  if (!isoString) return '';
+  const then = new Date(isoString);
+  const now = new Date();
+  const diffMs = now - then;
+  const diffMin = Math.round(diffMs / 60000);
+  const diffHr = Math.round(diffMs / 3600000);
+  const diffDay = Math.round(diffMs / 86400000);
+
+  if (diffMin < 1) return 'just nu';
+  if (diffMin < 60) return `${diffMin} min sedan`;
+  if (diffHr < 24) return `${diffHr} tim sedan`;
+  if (diffDay === 1) return 'igår';
+  if (diffDay < 7) return `${diffDay} dagar sedan`;
+  return then.toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' });
+}
+
+async function loadNewsFeed(){
+  const listEl = document.getElementById('newsList');
+  const emptyEl = document.getElementById('newsEmptyState');
+  if (!listEl) return;
+  try {
+    const res = await fetch('./data/news.json?ts=' + Date.now());
+    if (!res.ok) throw new Error('fetch failed: ' + res.status);
+    const data = await res.json();
+    if (!data.items || data.items.length === 0) throw new Error('no items');
+
+    listEl.innerHTML = data.items.map(item => `
+      <a class="news-item" href="${item.link}" target="_blank" rel="noopener">
+        <p class="news-item-title">${item.title}</p>
+        ${item.description ? `<p class="news-item-desc">${item.description}</p>` : ''}
+        <div class="news-item-meta">
+          <span>${data.source}</span>
+          <span class="dot"></span>
+          <span>${relativeTimeSwedish(item.pubDate)}</span>
+        </div>
+      </a>
+    `).join('');
+    if (emptyEl) emptyEl.style.display = 'none';
+  } catch (err) {
+    console.warn('Could not load news feed:', err);
+    listEl.innerHTML = '';
+    if (emptyEl) emptyEl.style.display = 'block';
+  }
+}
 
 function renderCompassLinks(){
   const toolsEl = document.getElementById('compassGridTools');
@@ -2816,6 +2886,8 @@ renderTopics();
 renderRadarProfiles();
 initTopicViewToggle();
 renderCompassLinks();
+loadNewsFeed();
+setInterval(loadNewsFeed, 5 * 60 * 1000); // refresh every 5 minutes
 initChatWidget();
 initBuilderPresets();
 initResultsSection();
