@@ -1695,7 +1695,10 @@ function renderTopicChips(items, chipsEl, listEl){
       allTopics.map(t => `<button class="news-topic-chip ${activeTopic === t ? 'active' : ''}" data-topic="${t}">${t}</button>`).join('');
     chipsEl.querySelectorAll('.news-topic-chip').forEach(chip => {
       chip.addEventListener('click', () => {
-        activeTopic = chip.dataset.topic || null;
+        const clickedTopic = chip.dataset.topic || null;
+        // Clicking "Alla" always clears; clicking an already-active topic
+        // toggles it off instead of just re-applying the same filter.
+        activeTopic = clickedTopic === null ? null : (activeTopic === clickedTopic ? null : clickedTopic);
         const filtered = activeTopic ? items.filter(it => (it.topics || []).includes(activeTopic)) : items;
         renderNewsItems(filtered, listEl);
         draw();
@@ -1777,6 +1780,7 @@ function renderNewsTeasers(data){
       if (body && body.style.display === 'none'){
         body.style.display = 'block';
         if (icon) icon.classList.add('open');
+        teaserEl.style.display = 'none'; // avoid a duplicate chip row once expanded
       }
 
       const newsHasIt = (data.news || []).some(it => (it.topics || []).includes(topic));
@@ -1815,11 +1819,16 @@ function initNewsCollapse(){
   const header = document.getElementById('newsCollapseHeader');
   const body = document.getElementById('newsCollapseBody');
   const icon = document.getElementById('newsCollapseIcon');
+  const teasers = document.getElementById('newsTeaserChips');
   if (!header || !body) return;
   header.addEventListener('click', () => {
     const isOpen = body.style.display !== 'none';
     body.style.display = isOpen ? 'none' : 'block';
     if (icon) icon.classList.toggle('open', !isOpen);
+    // Teasers are only useful as a collapsed-state entry point — once the
+    // section is open, the per-tab topic chips inside it do the same job,
+    // so showing both at once would just be a duplicate row.
+    if (teasers) teasers.style.display = isOpen ? 'flex' : 'none';
   });
 }
 
