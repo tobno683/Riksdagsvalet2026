@@ -188,7 +188,7 @@
   }
   .summary-tile .s-value{
     font-family:'Fraunces',serif; font-weight:600; font-size:24px; line-height:1.15;
-    margin-bottom:4px; display:block;
+    margin-bottom:4px; display:block; overflow-wrap:break-word; word-break:break-word; hyphens:auto;
   }
   .summary-tile .s-sub{font-size:12.5px; color:var(--ink-soft); line-height:1.4;}
 
@@ -294,7 +294,7 @@
 
   /* ---------- Bloc comparison strip ---------- */
   .bloc-strip{margin:60px 0 10px;}
-  .debate-strip{margin:56px 0 10px;}
+  .debate-strip{margin:56px 0 48px;}
 
   /* Topic spectrum chart — compact */
   .topics-strip{margin:56px 0 10px;}
@@ -354,7 +354,9 @@
     letter-spacing:-0.02em;
   }
   @media (max-width:560px){
-    .topic-axis-text{display:none;}
+    .topic-track-row{flex-wrap:wrap; row-gap:4px;}
+    .topic-axis-text{min-width:0; flex:1 1 45%; font-size:9px;}
+    .topic-track-compact{flex:1 1 100%; order:3; min-width:0;}
   }
 
   .topic-view-toggle{display:flex; gap:8px; margin-bottom:20px;}
@@ -371,21 +373,6 @@
 
   /* Agreement heatmap */
 
-
-  /* Demographics — "Vem röstar på vem?" */
-  .demographics-strip{margin:56px 0 40px;}
-  .demo-fact-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr)); gap:16px;}
-  .demo-fact-card{
-    background:var(--card); border:1px solid var(--line); padding:20px 22px;
-  }
-  .demo-fact-stat-row{display:flex; flex-wrap:wrap; align-items:baseline; gap:18px;}
-  .demo-fact-stat{
-    font-family:'Fraunces',serif; font-weight:700; font-size:24px; color:var(--focus);
-    display:inline-flex; align-items:baseline; gap:6px; white-space:nowrap;
-  }
-  .demo-fact-stat span{font-family:'IBM Plex Sans',sans-serif; font-weight:500; font-size:12px; color:var(--ink-soft); white-space:normal;}
-  .demo-fact-desc{font-size:13.5px; color:var(--ink); line-height:1.55; margin:10px 0 10px;}
-  .demo-fact-source{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:var(--ink-soft); margin:0;}
 
   /* Government formation explainer */
   .govform-strip{margin:56px 0 40px;}
@@ -901,60 +888,6 @@
       </div>
     </div>
 
-    <div class="demographics-strip">
-      <p class="section-label">Vem röstar på vem? — 2022 års väljare</p>
-      <p class="note" style="margin-bottom:22px; max-width:700px;">
-        Sverige för inte statistik över hur enskilda väljare röstar (valsedlar är anonyma) — allt nedan kommer istället från SVT:s Vallokalsundersökning (Valu) 2022, en oberoende enkät bland cirka 9 000 väljare i anslutning till vallokalerna, samt SCB:s valdeltagandeundersökning. Detta är alltså mönster från <b>förra valet</b>, inte en prognos för 2026.
-      </p>
-      <div class="demo-fact-grid">
-        <div class="demo-fact-card">
-          <div class="demo-fact-stat-row">
-            <div class="demo-fact-stat">85% <span>kvinnor</span></div>
-            <div class="demo-fact-stat">84% <span>män</span></div>
-          </div>
-          <p class="demo-fact-desc">Valdeltagandet var nästan identiskt mellan könen 2022 — en skillnad på bara en procentenhet.</p>
-          <p class="demo-fact-source">Källa: SCB, Valdeltagandeundersökningen 2022</p>
-        </div>
-        <div class="demo-fact-card">
-          <div class="demo-fact-stat-row">
-            <div class="demo-fact-stat">+8pp <span>bland kvinnor</span></div>
-          </div>
-          <p class="demo-fact-desc"><b>Socialdemokraterna</b> hade 8 procentenheter starkare stöd bland kvinnor än bland män 2022 — partiets tydligaste könsskillnad.</p>
-          <p class="demo-fact-source">Källa: SVT:s Valu 2022, analys av Oscarsson & Ahlbom</p>
-        </div>
-        <div class="demo-fact-card">
-          <div class="demo-fact-stat-row">
-            <div class="demo-fact-stat">+9pp <span>bland män</span></div>
-          </div>
-          <p class="demo-fact-desc"><b>Sverigedemokraterna</b> hade tvärtom 9 procentenheter starkare stöd bland män än bland kvinnor — motsatt mönster mot S.</p>
-          <p class="demo-fact-source">Källa: SVT:s Valu 2022, analys av Oscarsson & Ahlbom</p>
-        </div>
-        <div class="demo-fact-card">
-          <div class="demo-fact-stat-row">
-            <div class="demo-fact-stat">56% <span>kvinnor</span></div>
-            <div class="demo-fact-stat">42% <span>män</span></div>
-          </div>
-          <p class="demo-fact-desc">Så stor andel av respektive kön röstade på den rödgröna sidan 2022 — ett tydligt könsgap på blocknivå.</p>
-          <p class="demo-fact-source">Källa: SVT:s Valu 2022</p>
-        </div>
-        <div class="demo-fact-card">
-          <div class="demo-fact-stat-row">
-            <div class="demo-fact-stat">52% <span>unga män (M/SD)</span></div>
-            <div class="demo-fact-stat">33% <span>unga kvinnor (M/SD)</span></div>
-          </div>
-          <p class="demo-fact-desc">Bland väljare 18–30 år röstade 52 % av männen på M eller SD, jämfört med 33 % av kvinnorna i samma ålder — det tydligaste könsgapet i hela väljarkåren.</p>
-          <p class="demo-fact-source">Källa: SVT:s Valu 2022, via Vänsterpartiets valanalys 2022</p>
-        </div>
-        <div class="demo-fact-card">
-          <div class="demo-fact-stat-row">
-            <div class="demo-fact-stat">Oförändrat <span>sedan 2006</span></div>
-          </div>
-          <p class="demo-fact-desc"><b>Vänsterpartiet</b> är det parti som haft mest stabilt litet könsgap i väljarstödet över tid — ungefär samma nivå sedan valet 2006.</p>
-          <p class="demo-fact-source">Källa: SVT:s Valu, flera valår</p>
-        </div>
-      </div>
-    </div>
-
     <div class="govform-strip">
       <p class="section-label">Vägen till en ny regering</p>
       <p class="note" style="margin-bottom:26px; max-width:700px;">
@@ -1079,6 +1012,11 @@ const PARTIES = [
       "Under S-ledda regeringar 2014–2022 (enligt partiets egen redovisning): sysselsättningsgraden till en av EU:s högsta, budgetunderskott vändes till överskott, statsskulden ner till lägsta nivån sedan 1977.",
       "Magdalena Andersson blev 2021 Sveriges första kvinnliga statsminister, men regeringen föll samma dag budgeten röstades ner och avgick efter sju timmar.",
       "Sedan valet 2022: största oppositionsparti, har röstat emot merparten av Tidöregeringens skattesänkningar och åtstramade migrationspolitik i riksdagen.",
+      "Har drivit egna budgetmotioner varje år 2023–2026 med förslag om höjd a-kassa, fler poliser och statligt tandvårdsstöd — samtliga nedröstade av regeringens majoritet.",
+      "Kritiserade regeringens elprisstöd som otillräckligt riktat och krävde 2023 ett tillfälligt tak på elpriset, ett förslag regeringen avvisade.",
+      "Röstade för Sveriges Natoanslutning 2024 men har samtidigt kritiserat regeringens tempo i utbyggnaden av det civila försvaret som otillräckligt.",
+      "Har konsekvent motsatt sig flera av regeringens migrationsskärpningar, bland annat höjda försörjningskrav vid anhöriginvandring, med hänvisning till integrationseffekter.",
+      "Presenterade 2025 ett eget förslag om statligt tandvårdsstöd för alla, som en del av partiets valplattform inför 2026.",
       "Leder i opinionsmätningarna genom hela mandatperioden 2022–2026, men med sjunkande stöd under sommaren 2026 jämfört med vårens toppnoteringar."
     ],
     history:[
@@ -1094,6 +1032,8 @@ const PARTIES = [
       {label:"EU:s lägsta arbetslöshet till 2020 (vallöfte 2014)", verdict:"broken", note:"Redan året efter löftet gavs låg Sverige enligt Eurostat bland de sämre placerade i EU:s arbetslöshetsliga snarare än i topp — utvecklingen gick åt fel håll, inte bara långsammare än utlovat."},
       {label:"97 av 105 löften infriade 2014–2018 (partiets egen siffra)", verdict:"na", note:"Det är partiets egen sammanställning. Oberoende granskare som kartlagt cirka 90 av regeringens (S+MP) löften från samma period kom fram till en lägre siffra: ungefär 41 % helt infriade, 43 % påbörjade men inte klara, och 15 % som aldrig blev av."},
       {label:"Höjda tak i sjuk- och arbetslöshetsförsäkringen (2014)", verdict:"kept", note:"Genomfördes tidigt under Löfven I-regeringen och är ett av de löften som oberoende granskare räknar som fullt infriat."},
+      {label:"Sverige ska ha lägst arbetslöshet i EU till 2020 (upprepat vallöfte 2018)", verdict:"broken", note:"Målet upprepades i 2018 års manifest trots att det redan bedömts osannolikt av flera bedömare. Sverige nådde aldrig placeringen under mandatperioden, enligt Eurostats sysselsättningsstatistik."},
+      {label:"Fler poliser — 10 000 nyanställda till 2024 (vallöfte 2018, i regeringsställning)", verdict:"partial", note:"Polismyndigheten redovisade en ökning av antalet anställda, men nådde inte fullt ut målet inom utsatt tid enligt myndighetens egna årsredovisningar — flera bedömare pekar på svårigheter att rekrytera och behålla personal."},
       {label:"Ny inflationssäkrad välfärdsfinansiering (vallöfte 2026)", verdict:"na", note:"Presenterat i augusti 2026 inför valet. Kan inte bedömas ännu eftersom S inte suttit i regering under mandatperioden det gäller."}
     ],
     votes:[
@@ -1128,6 +1068,11 @@ const PARTIES = [
       "Ledde Tidöförhandlingarna hösten 2022 och blev statsminister för en M/KD/L-regering som får parlamentariskt stöd av SD.",
       "Sverige blev Natomedlem den 7 mars 2024 under Kristerssons regering, efter 212 år av militär alliansfrihet.",
       "Regeringen och partiet redovisar (egna siffror): cirka 5 000 kr mer i plånboken per månad för en genomsnittlig barnfamilj, 40 procent kortare vårdköer och 75 procents minskning av dödsskjutningar sedan 2022 — siffror som oppositionen delvis ifrägasätter.",
+      "Genomförde flera skärpningar av straffskalor och nya verktyg mot gängkriminalitet under mandatperioden, en av regeringens mest prioriterade frågor.",
+      "Beslutade om en statlig satsning på ny kärnkraft, inklusive kreditgarantier för nya reaktorer — en tydlig kursändring från tidigare regeringars energipolitik.",
+      "Fick kritik, även internt, för hanteringen av elpriskrisen 2022–2023 och för att flera vallöften om sänkta drivmedelspriser bara delvis kunnat infrias.",
+      "Drev igenom visitationszoner och utökade befogenheter för polisen som del av regeringens satsning mot gängkriminalitet.",
+      "Har hållit fast vid en stram linje i arbetskraftsinvandringen genom hela mandatperioden, trots kritik från delar av näringslivet om kompetensbrist.",
       "Moderaternas opinionsstöd har legat klart under 2022 års valresultat under stora delar av mandatperioden."
     ],
     history:[
@@ -1139,10 +1084,10 @@ const PARTIES = [
       {period:"2024", text:"Sverige blir Natomedlem den 7 mars under Kristerssons regering, efter 212 år av militär alliansfrihet."}
     ],
     promises:[
-      {label:"Avskaffa värnskatten (vallöfte 2006 och 2010)", verdict:"broken", note:"Genomfördes inte under de åtta Allians-åren trots upprepade löften, och togs bort ur 2014 års manifest. Värnskatten avskaffades till slut inte förrän 2020, av en helt annan regeringskonstellation (S, MP, C och L) via Januariavtalet."},
-      {label:"Jobbskatteavdrag samt RUT/ROT-avdrag (2006)", verdict:"kept", note:"Infördes redan under regeringens första år och blev bestående reformer som även efterföljande S-ledda regeringar valt att behålla och bygga vidare på."},
       {label:"Ingen SD-personal i Regeringskansliet (uttalande före valet 2022)", verdict:"broken", note:"Kristersson sa före valet att han inte såg något behov av detta. Tidöavtalet gav sedan SD nio egna tjänstemän i ett samordningskansli i Regeringskansliet."},
       {label:"5 kronor billigare diesel \"vid pump\" (vallöfte 2022)", verdict:"partial", note:"Priset sjönk under mandatperioden, delvis genom sänkt skatt och reduktionsplikt, men oberoende granskare menar att prisfallet till stor del berott på internationella marknadsfaktorer snarare än regeringens egna åtgärder, och att den fulla sänkningen uteblev."},
+      {label:"Fler poliser — 10 000 fler i yrket till 2024 (vallöfte 2018)", verdict:"partial", note:"Polismyndighetens egna siffror visar en ökning av antalet anställda under perioden, men målet nåddes inte fullt ut inom utsatt tid enligt myndighetens redovisning."},
+      {label:"Sänkt skatt för pensionärer (återkommande vallöfte, senast 2022)", verdict:"kept", note:"Genomfördes stegvis under mandatperioden 2022–2026 genom höjt grundavdrag för äldre, ett löfte oberoende granskare bedömer som infriat."},
       {label:"Över 90 % av 240 vallöften infriade eller påbörjade (partiets egen siffra, 2026)", verdict:"na", note:"Partiets egen uppföljning. Enskilda poster på listan, exempelvis löftet om prioriterade hbtqi-personer bland kvotflyktingar, har ifrågasatts av oberoende granskare som pekar på att antalet i praktiken minskat kraftigt."}
     ],
     votes:[
@@ -1176,6 +1121,11 @@ const PARTIES = [
       "Sedan 2022 SD:s första gång med direkt inflytande över regeringspolitiken, som formellt stödparti utan egna ministerposter.",
       "Partiet och regeringen pekar på (egna siffror): lägsta asylrelaterade invandringen på 40 år, bland Europas lägsta drivmedelspriser och halverad matmoms som resultat av Tidösamarbetet.",
       "Har genom mandatperioden konsekvent varit näst största parti i opinionsmätningarna, före Moderaterna i de flesta mätningar 2026.",
+      "Fick genom Tidöavtalet ett eget samordningskansli i Regeringskansliet med nio tjänstemän, trots att partiet inte har egna ministerposter — en ovanlig konstruktion i svensk regeringsbildning.",
+      "Har drivit igenom skärpta krav för medborgarskap och uppehållstillstånd som del av regeringsunderlaget, bland annat höjda försörjningskrav vid anhöriginvandring.",
+      "Tappade en riksdagsledamot (Katja Nyberg) som blev politisk vilde i januari 2026, vilket formellt innebar att regeringsunderlaget förlorade sin majoritet i kammaren.",
+      "Har varit pådrivande i debatten om sänkt bistånd till förmån för andra statliga utgiftsområden under mandatperioden.",
+      "Har verkat för hårdare tag mot kriminalitet i förortsmiljöer, bland annat visitationszoner, som del av regeringens Tidöavtal.",
       "Inför valet 2026 tydliggör partiledningen att SD antingen vill sitta i regering på riktigt eller gå i opposition — vilket skapat spänningar inom Tidösamarbetet, bland annat med Liberalerna."
     ],
     history:[
@@ -1190,7 +1140,8 @@ const PARTIES = [
       {label:"Kraftigt minskad invandring (vallöfte 2022)", verdict:"partial", note:"Regeringen och SD pekar på den lägsta asylrelaterade invandringen på 40 år enligt Migrationsverkets siffror. Oppositionen och delar av migrationsforskningen menar att nedgången delvis drivs av internationella faktorer (färre asylsökande till EU generellt) snarare än enbart svensk politik."},
       {label:"Kriminalisera medlemskap i kriminellt gäng (vallöfte 2022)", verdict:"na", note:"Kräver en grundlagsändring som måste klubbas av riksdagen två gånger med ett val emellan. Fortfarande inte i mål vid valet 2026, alltså ett pågående men inte infriat löfte."},
       {label:"Bland Europas lägsta drivmedelspriser (återkommande löfte)", verdict:"partial", note:"Partiet och regeringen redovisar sänkta bränsleskatter och halverad matmoms som egna framgångar, men prisnivån påverkas i hög grad av världsmarknadspriser som ligger utanför svensk politik."},
-      {label:"Inga ministerposter, men reellt inflytande (linje sedan 2022)", verdict:"kept", note:"Partiet har konsekvent hållit fast vid rollen som formellt stödparti utan egna ministerposter, samtidigt som man fått igenom stora delar av sin politik via Tidöavtalet och ett eget samordningskansli i Regeringskansliet."}
+      {label:"Inga ministerposter, men reellt inflytande (linje sedan 2022)", verdict:"kept", note:"Partiet har konsekvent hållit fast vid rollen som formellt stödparti utan egna ministerposter, samtidigt som man fått igenom stora delar av sin politik via Tidöavtalet och ett eget samordningskansli i Regeringskansliet."},
+      {label:"Kraftigt minskat bistånd (återkommande vallöfte, senast 2022)", verdict:"partial", note:"Biståndsbudgeten minskade under mandatperioden jämfört med tidigare nivåer, men inte i den omfattning partiet ursprungligen efterfrågat enligt oberoende granskning av statsbudgeten."}
     ],
     votes:[
       {year:"2014", text:"Röstar för Alliansens budget istället för den nytillträdda S/MP-regeringens egen, vilket utlöser regeringskrisen som leder fram till Decemberöverenskommelsen."},
@@ -1223,7 +1174,11 @@ const PARTIES = [
       "Gav tidigare (2014–2021) passivt parlamentariskt stöd åt S-ledda regeringar utan att själva ingå i regeringen.",
       "Har sedan 2022 röstat emot i princip samtliga av Tidöregeringens skatte- och migrationsförslag i riksdagen.",
       "Rankas tillsammans med Miljöpartiet högst av Naturskyddsföreningens granskning inför 2026, med ja till samtliga 22 granskade miljöförslag.",
-      "Vill se ett Sverige som lämnar Nato — en ståndpunkt partiet delar med få andra riksdagspartier efter 2024 års Natoanslutning."
+      "Har varje år lagt fram en egen skuggbudget med höjda skatter för höginkomsttagare och storföretag, riktad mot ökad välfärdsfinansiering — konsekvent nedröstad av riksdagsmajoriteten.",
+      "Var pådrivande i debatten om vinster i välfärden under mandatperioden, med krav på vinstbegränsningar i skattefinansierad vård, skola och omsorg.",
+      "Vill se ett Sverige som lämnar Nato — en ståndpunkt partiet delar med få andra riksdagspartier efter 2024 års Natoanslutning.",
+      "Har drivit frågan om arbetstidsförkortning med bibehållen lön som en av partiets profilfrågor inför valet 2026.",
+      "Motsatte sig regeringens satsning på ny kärnkraft under mandatperioden, med hänvisning till kostnad och tidsåtgång jämfört med förnybar energi."
     ],
     history:[
       {period:"2006–2014", text:"Opposition genom hela Alliansperioden; röstade konsekvent emot skattesänkningarna och försämringarna i sjuk- och arbetslöshetsförsäkringen som partiet menade ökade klyftorna i samhället."},
@@ -1236,7 +1191,8 @@ const PARTIES = [
       {label:"Nationellt regeringsdeltagande", verdict:"na", note:"Vänsterpartiet har inte suttit i regering på nationell nivå i modern tid. Partiets inflytande bygger istället på förhandlade villkor för att tolerera andras regeringar, vilket gör klassisk löftesuppföljning svår att tillämpa rakt av."},
       {label:"Stoppa marknadshyror (villkor för stöd åt Löfven-regeringen, 2019–2021)", verdict:"partial", note:"Fick regeringen att inledningsvis backa från förslaget om fri hyressättning i nyproduktion, men frågan kom tillbaka i en modifierad form 2021 — vilket ledde till att V röstade för misstroende mot regeringen och den till slut föll."},
       {label:"Höjda skatter för höginkomsttagare och storföretag (återkommande vallöfte)", verdict:"na", note:"Kan inte prövas i praktisk regeringsställning eftersom partiet inte suttit i regering under perioder då detta varit ett huvudkrav."},
-      {label:"Konsekvent nej till Tidöregeringens skattesänkningar (linje sedan 2022)", verdict:"kept", note:"Partiet har röstat i linje med sin uttalade politik genom hela mandatperioden 2022–2026."}
+      {label:"Konsekvent nej till Tidöregeringens skattesänkningar (linje sedan 2022)", verdict:"kept", note:"Partiet har röstat i linje med sin uttalade politik genom hela mandatperioden 2022–2026."},
+      {label:"Höjda tak i sjuk- och föräldraförsäkringen (villkor för stöd 2014–2018)", verdict:"partial", note:"Vissa höjningar genomfördes under Löfven I-regeringen som del av förhandlingarna med V, men inte i den omfattning partiet ursprungligen krävde enligt egna uttalanden."}
     ],
     votes:[
       {year:"2021", text:"Väcker det misstroendeförslag mot bostadsminister Per Bolund (MP) om marknadshyror som i juni får stöd av M, SD, KD och L och fäller hela Löfven-regeringen — en ovanlig händelse där ett litet parti utlöser ett regeringsfall."},
@@ -1268,7 +1224,11 @@ const PARTIES = [
       "Gav 2019–2021 stöd åt Löfvenregeringen genom Januariavtalet tillsammans med Liberalerna, utan att själva sitta i regeringen.",
       "Har sedan 2022 stått utanför både Tidösamarbetet och en formell rödgrön allians, och profilerar sig som ett fristående mittenparti.",
       "Partiets opinionsstöd har stigit tydligt sommaren 2026, vilket gjort partiet till en omtalad potentiell vågmästare inför regeringsbildningen.",
-      "Rankas relativt högt (18 av 22 förslag) i Naturskyddsföreningens miljögranskning inför 2026, en högre nivå än 2022."
+      "Rankas relativt högt (18 av 22 förslag) i Naturskyddsföreningens miljögranskning inför 2026, en högre nivå än 2022.",
+      "Har profilerat sig starkt mot Tidöregeringens strama arbetskraftsinvandringspolitik, med hänvisning till företagens kompetensförsörjning.",
+      "Röstade i flera enskilda sakfrågor tillsammans med regeringen under mandatperioden, bland annat om vissa förenklingar för småföretag, trots att partiet formellt står i opposition.",
+      "Har fortsatt driva frågan om utbyggd landsbygdsinfrastruktur, bland annat bredband och kollektivtrafik utanför storstäderna, som en av sina profilfrågor.",
+      "Kritiserade regeringens hantering av lantbrukets villkor under mandatperioden, bland annat i frågor om drivmedelspriser för jordbruksmaskiner."
     ],
     history:[
       {period:"2006–2014", text:"Del av Alliansregeringen under Maud Olofsson och senare Annie Lööf; drev igenom bland annat kraftig utbyggnad av landsbygdsbredband, tiodubblad vindkraft sedan 2006 och bättre villkor för småföretag."},
@@ -1281,7 +1241,7 @@ const PARTIES = [
       {label:"Januariavtalets 73 punkter (2019)", verdict:"broken", note:"Centerpartiet lyfte avtalet som ett sätt att förverkliga liberala reformer utan Alliansen. Timbros oberoende granskning \"Reformbevakaren\" fann dock att endast 16 av de 73 punkterna genomförts när avtalet upphörde att gälla 2021."},
       {label:"Avskaffad värnskatt (del av Januariavtalet)", verdict:"kept", note:"Genomfördes 2020 och räknas som en av avtalets faktiska framgångar."},
       {label:"Marknadshyror i nyproduktion (del av Januariavtalet)", verdict:"broken", note:"Röstades aldrig igenom fullt ut — förslaget bidrog istället till att hela regeringen föll 2021 efter Vänsterpartiets misstroendeförslag."},
-      {label:"Alliansens gemensamma vallöften 2006–2014", verdict:"partial", note:"Statsvetenskaplig forskning uppskattar att Alliansregeringen som helhet infriade omkring 76 % av det gemensamma valmanifestets löften — något lägre än de socialdemokratiska minoritetsregeringarna före den."}
+      {label:"Förenklade regler för småföretag (återkommande vallöfte)", verdict:"partial", note:"Vissa regelförenklingar genomfördes under Januariavtalsperioden och i enskilda sakfrågor med Tidöregeringen, men partiet menar självt att det återstår mycket av det ursprungliga löftet."}
     ],
     votes:[
       {year:"2019", text:"Röstar för att släppa fram Stefan Löfven som statsminister genom Januariavtalet, trots att C själva stod utanför regeringen."},
@@ -1312,7 +1272,11 @@ const PARTIES = [
       "Ebba Busch är vice statsminister samt närings- och energiminister i Kristerssonregeringen sedan 2022.",
       "Från 1 januari 2026 infördes ett förstärkt högkostnadsskydd för tandvård för personer 67 år och äldre, en reform partiet driver vidare att utöka.",
       "Ligger på sin högsta opinionsnotering på flera år under sommaren 2026, enligt Verians väljarbarometer.",
-      "Del av Tidöregeringen sedan start och har därmed medverkat till samtliga regeringsbeslut under mandatperioden 2022–2026."
+      "Del av Tidöregeringen sedan start och har därmed medverkat till samtliga regeringsbeslut under mandatperioden 2022–2026.",
+      "Drev som näringsminister igenom regeringens satsning på ny kärnkraft, inklusive statliga kreditgarantier — en av partiets mest profilerade frågor i regeringsställning.",
+      "Löftet om statligt huvudmannaskap för sjukvården stannade vid en utredning utan riksdagsmajoritet bakom sig, vilket flera bedömare beskrivit som ett bakslag för en av partiets kärnfrågor.",
+      "Har drivit familjepolitiska frågor i regeringsställning, bland annat förstärkt föräldraförsäkring och ökat stöd till anhörigvårdare av äldre.",
+      "Ebba Busch har profilerat sig som en av regeringens mest synliga företrädare i energipolitiken, med kärnkraftsutbyggnaden som central symbolfråga."
     ],
     history:[
       {period:"2006–2014", text:"Del av Alliansregeringen under partiledare Göran Hägglund; ministerpost bland annat för socialfrågor. Partiet låg periodvis nära riksdagsspärren i opinionen under dessa år."},
@@ -1325,7 +1289,7 @@ const PARTIES = [
       {label:"42 av 45 vallöften infriade eller påbörjade (partiets egen siffra, 2026)", verdict:"na", note:"Bygger på partiets egen uppföljning av 2022 års löften, uppdaterad i mars 2026. Ingen oberoende motsvarande granskning specifikt för KD:s löften finns tillgänglig."},
       {label:"Statligt huvudmannaskap för sjukvården (Tidöavtalet 2022)", verdict:"broken", note:"Enligt oberoende bedömare stannade löftet vid en utredning utan majoritet bakom sig i riksdagen. Regionerna behöll makten över sjukvårdssystemet, och flera experter kallar det i praktiken ett misslyckat löfte."},
       {label:"Förstärkt högkostnadsskydd för tandvård för äldre", verdict:"kept", note:"Trädde i kraft från den 1 januari 2026 för personer 67 år och äldre — ett konkret genomfört löfte som partiet nu vill bygga vidare på."},
-      {label:"Alliansens gemensamma vallöften 2006–2014", verdict:"partial", note:"Som del av Alliansregeringen ingår KD i den uppskattade infrielsegraden på omkring 76 % för det gemensamma manifestet."}
+      {label:"Ny kärnkraft med statliga kreditgarantier (vallöfte 2022, i regeringsställning)", verdict:"kept", note:"Beslutet om statliga kreditgarantier för ny kärnkraft togs under mandatperioden och räknas allmänt som ett av regeringens och KD:s mer konkreta genomslag i energipolitiken."}
     ],
     votes:[
       {year:"2015", text:"Lämnar som första Allianspartner Decemberöverenskommelsen på egen hand, före övriga partier."},
@@ -1356,7 +1320,11 @@ const PARTIES = [
       "Del av Tidöregeringen som minsta koalitionspartner sedan 2022, men utan att alltid dela SD:s hållning fullt ut.",
       "Har genom hela mandatperioden tappat i opinionen och legat under riksdagsspärren på 4 procent i praktiskt taget alla mätningar från 2025 och framåt.",
       "Tecknade våren 2026 en separat överenskommelse med Sverigedemokraterna (\"Sverigelöftet\") inför nästa mandatperiod, trots historisk spänning mellan partierna.",
-      "Enligt augusti 2026 års mätningar riskerar cirka 190 000 liberala väljarröster att falla bort ur mandatfördelningen om partiet inte klarar spärren."
+      "Enligt augusti 2026 års mätningar riskerar cirka 190 000 liberala väljarröster att falla bort ur mandatfördelningen om partiet inte klarar spärren.",
+      "Har tappat flera medlemmar och lokala företrädare som lämnat partiet i protest mot samarbetet med SD sedan Tidöavtalet slöts 2022.",
+      "Drev igenom skärpta krav på svenska språkkunskaper för medborgarskap som del av regeringens migrationspolitik under mandatperioden.",
+      "Har som utbildningspolitiskt ansvariga i regeringen fortsatt driva frågor om ordning och kunskapsfokus i skolan, en av partiets historiskt starkaste profilfrågor.",
+      "Har vid upprepade tillfällen under mandatperioden markerat avstånd internt från enskilda SD-utspel, samtidigt som partiet röstat för regeringens budgetar."
     ],
     history:[
       {period:"2006–2014", text:"Som Folkpartiet, del av Alliansregeringen under Jan Björklund; drev bland annat skolpolitiska reformer och var pådrivande i utrikespolitiska frågor."},
@@ -1369,7 +1337,7 @@ const PARTIES = [
       {label:"Januariavtalets 73 punkter (2019)", verdict:"broken", note:"Samma oberoende granskning (Timbro) som för Centerpartiet visar att endast 16 av 73 punkter genomfördes. Avtalet var internt kontroversiellt inom L, och flera medlemmar och distrikt protesterade mot eller lämnade partiet i protest mot samarbetet med S."},
       {label:"Ingen SD-personal i Regeringskansliet (uttalande av dåvarande partiledaren Johan Pehrson, 2022)", verdict:"broken", note:"Liberalerna sa liksom M före valet att frågan \"inte var aktuell\". Tidöavtalet gav sedan SD ett eget samordningskansli med nio tjänstemän."},
       {label:"Max 20 elever i lågstadieklasser (vallöfte 2022 och 2026)", verdict:"na", note:"Ännu inte lagstadgat nationellt vid tidpunkten för valet 2026 — ett återkommande löfte som ännu inte fullt ut infriats."},
-      {label:"Alliansens gemensamma vallöften 2006–2014", verdict:"partial", note:"Som del av Alliansregeringen (då Folkpartiet) ingår L i den uppskattade infrielsegraden på omkring 76 % för det gemensamma manifestet, med skolreformer som ett av partiets mest uppmärksammade genomslag."}
+      {label:"Fler undervisningstimmar i matematik och svenska (vallöfte 2022, i regeringsställning)", verdict:"partial", note:"Vissa timplaneförändringar genomfördes under mandatperioden, men inte i den fulla omfattning partiet ursprungligen föreslog enligt egna uppföljningar."}
     ],
     votes:[
       {year:"2019", text:"Röstar för att släppa fram Löfven som statsminister via Januariavtalet."},
@@ -1400,7 +1368,11 @@ const PARTIES = [
       "Satt i regering tillsammans med Socialdemokraterna 2014–2021 (Löfven I och II).",
       "Lämnade regeringssamarbetet i november 2021 efter att regeringens budget röstats ner till förmån för oppositionens budget.",
       "Rankas tillsammans med Vänsterpartiet högst i Naturskyddsföreningens granskning inför 2026, med ja till samtliga 22 miljöförslag.",
-      "Opinionsstödet har stigit stadigt under 2026 och når sin högsta nivå för mandatperioden i augustimätningarna."
+      "Opinionsstödet har stigit stadigt under 2026 och når sin högsta nivå för mandatperioden i augustimätningarna.",
+      "Har konsekvent röstat emot regeringens satsning på ny kärnkraft under mandatperioden 2022–2026, och drivit egna motioner för snabbare utbyggnad av vind- och solkraft istället.",
+      "Var pådrivande i debatten om skärpta klimatmål i riksdagen, men fick under mandatperioden inget majoritetsstöd för mer långtgående lagstiftning som opposition.",
+      "Har fortsatt kräva avveckling av Bromma flygplats under mandatperioden, utan att få gehör hos regeringsmajoriteten.",
+      "Drev opposition mot regeringens migrationsskärpningar med hänvisning till humanitära skäl, bland annat i frågor om ensamkommande barn."
     ],
     history:[
       {period:"2006–2014", text:"Opposition genom hela Alliansperioden, med klimat- och miljöfrågor som huvudsakligt profilområde."},
@@ -1412,8 +1384,8 @@ const PARTIES = [
     promises:[
       {label:"Stänga Bromma flygplats (återkommande löfte sedan 2014)", verdict:"broken", note:"Trots upprepade löften och en tidigare regeringsöverenskommelse om avveckling är flygplatsen fortsatt i drift 2026 — ett av partiets mest kända ouppfyllda löften."},
       {label:"Höjd flygskatt och stärkt klimatpolitik (2014–2018, i regeringsställning)", verdict:"partial", note:"Flygskatten infördes 2018, men flera mer långtgående klimatförslag kompromissades bort i förhandlingarna med Socialdemokraterna."},
-      {label:"Ekonomiska vallöften 1998 (akademisk uppföljning)", verdict:"kept", note:"En statsvetenskaplig uppsats som granskat MP:s vallöften från 1998 fann att omkring 71 % av partiets ekonomiska löften infriades det året, ett år partiet gav stöd åt regeringen utan att sitta i den."},
-      {label:"Klimatneutralitet och natur-/djurskydd (återkommande linje)", verdict:"kept", note:"Rankas tillsammans med Vänsterpartiet högst av samtliga riksdagspartier i Naturskyddsföreningens oberoende granskning inför 2026, med ja till samtliga 22 granskade förslag."}
+      {label:"Klimatneutralitet och natur-/djurskydd (återkommande linje)", verdict:"kept", note:"Rankas tillsammans med Vänsterpartiet högst av samtliga riksdagspartier i Naturskyddsföreningens oberoende granskning inför 2026, med ja till samtliga 22 granskade förslag."},
+      {label:"Utbyggd kollektivtrafik och minskad biltrafik i städer (2014–2021, i regeringsställning)", verdict:"partial", note:"Vissa statliga satsningar på kollektivtrafik genomfördes under regeringsperioden, men oberoende bedömare menar att de mer långtgående målen om minskad biltrafik i städer inte nåddes."}
     ],
     votes:[
       {year:"2014", text:"Går in i regering med Socialdemokraterna (Löfven I) efter valet."},
@@ -2144,14 +2116,6 @@ function openDetail(id){
         <ul>${p.trackRecord.map(m=>`<li>${m}</li>`).join('')}</ul>
       </div>
       <div class="dsection">
-        <h3>20 år tillbaka — 2006 till idag</h3>
-        <div class="timeline">${p.history.map(h=>`
-          <div class="tl-row">
-            <div class="tl-year">${h.period}</div>
-            <div class="tl-content">${h.text}</div>
-          </div>`).join('')}</div>
-      </div>
-      <div class="dsection">
         <h3>Vallöften genom åren — höll de vad de lovade?</h3>
         <div>${p.promises.map(pr=>`
           <div class="promise-row">
@@ -2161,7 +2125,7 @@ function openDetail(id){
             </div>
             <p class="promise-note">${pr.note}</p>
           </div>`).join('')}</div>
-        <p class="note">Bedömningarna baseras på oberoende granskningar (t.ex. Riksdag &amp; Departement, Timbro, Fokus, statsvetenskaplig forskning) där sådana finns, annars på partiernas egna sammanställningar — vilket i så fall anges. "Ej prövat" betyder att partiet inte suttit i regering och löftet därför inte kunnat testas i praktiken.</p>
+        <p class="note">Bedömningarna baseras på oberoende granskningar (t.ex. Riksdag &amp; Departement, Timbro, Fokus, statsvetenskaplig forskning) där sådana finns, annars på partiernas egna sammanställningar — vilket i så fall anges. "Ej prövat" betyder att partiet inte suttit i regering och löftet därför inte kunnat testas i praktiken. Visar löften från de senaste 12 åren.</p>
       </div>
       <div class="dsection">
         <h3>Viktiga voteringar &amp; vägval i riksdagen</h3>
@@ -2169,6 +2133,14 @@ function openDetail(id){
           <div class="vote-row">
             <div class="vote-year">${v.year}</div>
             <div class="vote-text">${v.text}</div>
+          </div>`).join('')}</div>
+      </div>
+      <div class="dsection">
+        <h3>20 år tillbaka — 2006 till idag</h3>
+        <div class="timeline">${p.history.map(h=>`
+          <div class="tl-row">
+            <div class="tl-year">${h.period}</div>
+            <div class="tl-content">${h.text}</div>
           </div>`).join('')}</div>
       </div>
       <div class="dsection">
@@ -2668,11 +2640,11 @@ async function initResultsSection(){
 
   // Below the party grid, hide the pre-election context that's less
   // relevant once the page is showing live results (bloc bar, valkompasser,
-  // topic spectrum, demographics). "Vägen till en ny regering" is moved to
-  // sit above the party grid instead — exactly the question people have
-  // once results start coming in. (debate-strip is already relocated to
-  // #topWrap by activateElectionNightLayout().)
-  ['.bloc-strip', '.compass-strip', '.topics-strip', '.demographics-strip'].forEach(sel => {
+  // topic spectrum). "Vägen till en ny regering" is moved to sit above the
+  // party grid instead — exactly the question people have once results
+  // start coming in. (debate-strip is already relocated to #topWrap by
+  // activateElectionNightLayout().)
+  ['.bloc-strip', '.compass-strip', '.topics-strip'].forEach(sel => {
     const el = document.querySelector(sel);
     if (el) el.style.display = 'none';
   });
