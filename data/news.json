@@ -1,73 +1,207 @@
 {
-  "updated_at": "2026-08-27T18:31:58.351864Z",
-  "source": "SVT Nyheter — Inrikes (RSS)",
-  "source_url": "https://www.svt.se/nyheter/inrikes/",
-  "items": [
+  "updated_at": "2026-08-27T19:03:02.787373Z",
+  "sources": [
+    {
+      "name": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/rss.xml",
+      "type": "news"
+    },
+    {
+      "name": "Sveriges Radio",
+      "url": "https://api.sr.se/api/rss/program/83",
+      "type": "news"
+    },
+    {
+      "name": "Aftonbladet",
+      "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt",
+      "type": "news"
+    },
+    {
+      "name": "Svenska Dagbladet",
+      "url": "https://www.svd.se/feed/articles.rss",
+      "type": "news"
+    },
+    {
+      "name": "Ledarsidorna",
+      "url": "https://ledarsidorna.se/feed/",
+      "type": "blog"
+    },
+    {
+      "name": "Dagens Arena",
+      "url": "https://www.dagensarena.se/feed/",
+      "type": "blog"
+    }
+  ],
+  "news": [
     {
       "title": "S-toppen: \"Vi betalar inte pengar till digitala kreatörer\"",
       "link": "https://www.svt.se/nyheter/inrikes/s-toppen-vi-betalar-inte-pengar-till-digitala-kreatorer",
-      "description": "Magdalena Anderssons poserande med influencern Alice Stenlöf har lett till spekulationer kring huruvida S betalat för att sprida sitt politiska budskap. Men Socialdemokraternas partisekreterare slår ifrån sig påståendena. – Vi betalar inte för samarbeten med digitala kreatörer, säger Tobias Baudin.",
-      "pubDate": "2026-08-27T16:09:13Z"
+      "description": "Magdalena Anderssons poserande med influencern Alice Stenlöf har lett till spekulationer kring huruvida S betalat för att sprida sitt politiska budskap.",
+      "pubDate": "2026-08-27T16:09:13Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
     },
     {
       "title": "Fouad Youcefi: Så ska V stoppa läckaget",
       "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-sa-ska-v-stoppa-lackaget",
-      "description": "Vänsterpartiet tappade väljarstöd i 277 av 290 svenska kommuner i förra valet – och för att få stopp på den utvecklingen måste de lyckas med en sak i valet. – De behöver stjäla S-väljare, säger SVT:s valreporter Fouad Youcefi.",
-      "pubDate": "2026-08-27T15:16:24Z"
+      "description": "Vänsterpartiet tappade väljarstöd i 277 av 290 svenska kommuner i förra valet.",
+      "pubDate": "2026-08-27T15:16:24Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
     },
     {
       "title": "Svantesson på Harpsund: 50 miljarder i reformutrymme",
       "link": "https://www.svt.se/nyheter/inrikes/svantesson-50-miljarder-i-reformutrymme",
-      "description": "50 miljarder kronor – så stort blir reformutrymmet nästa mandatperiod, bedömer regeringen. Det meddelade finansminister Elisabeth Svantesson (M) på en pressträff på Harpsund om det ekonomiska läget framåt.",
-      "pubDate": "2026-08-27T13:22:36Z"
+      "description": "50 miljarder kronor – så stort blir reformutrymmet nästa mandatperiod, bedömer regeringen.",
+      "pubDate": "2026-08-27T13:22:36Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Miljöpartiets plan: Vill satsa på cykel och kollektivtrafik",
+      "link": "https://www.sverigesradio.se/artikel/9285393",
+      "description": "Miljöpartiet vill lägga 1,5 miljarder kronor om året under nästa mandatperiod för att göra det enklare att gå, cykla och åka med kollektivtrafik.",
+      "pubDate": "2026-08-27T12:30:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
     },
     {
       "title": "Säpo inleder förundersökning efter hot mot Mohamsson",
       "link": "https://www.svt.se/nyheter/inrikes/sapo-inleder-forundersokning-efter-hot-mot-mohamsson",
-      "description": "Säkerhetspolisen utreder olaga hot mot L-ledaren Simona Mohamsson. Det efter att hon bar en davidsstjärna under en partiledardebatt.",
-      "pubDate": "2026-08-27T12:20:52Z"
+      "description": "Säkerhetspolisen utreder olaga hot mot L-ledaren Simona Mohamsson.",
+      "pubDate": "2026-08-27T12:20:52Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Socialdemokraterna på en minut",
+      "link": "https://www.sverigesradio.se/artikel/9281110",
+      "description": "Alla åtta riksdagspartier är nu ute och kampanjar. Socialdemokraterna bildades 1889 och mer pengar till välfärden är en av partiets viktigaste frågor.",
+      "pubDate": "2026-08-27T11:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Vänsterpartiet på en minut",
+      "link": "https://www.sverigesradio.se/artikel/9281080",
+      "description": "Vänsterpartiet är ett socialistiskt parti som också beskriver sig som feministiskt och grönt.",
+      "pubDate": "2026-08-27T11:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Liberalerna på en minut",
+      "link": "https://www.sverigesradio.se/artikel/9281077",
+      "description": "Liberalerna var med och drev igenom demokrati i Sverige för över hundra år sedan. Skolpolitiken är partiets viktigaste fråga.",
+      "pubDate": "2026-08-27T11:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Sverigedemokraterna på en minut",
+      "link": "https://www.sverigesradio.se/artikel/9281059",
+      "description": "Sverigedemokraterna beskriver sig i dag som ett nationalistiskt och socialkonservativt parti.",
+      "pubDate": "2026-08-27T11:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
     },
     {
       "title": "Magdalena Andersson (S) vill bli statsminister igen – men vägrar säga hur",
       "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-vill-bli-statsminister-igen-men-vagrar-saga-hur",
-      "description": "Senast Socialdemokraterna styrde landet hade de stora problem med att få ihop ett stabilt regeringsunderlag. Nu vill Magdalena Andersson bli Sveriges statsminister igen.",
-      "pubDate": "2026-08-27T10:54:59Z"
+      "description": "Nu vill Magdalena Andersson bli Sveriges statsminister igen.",
+      "pubDate": "2026-08-27T10:54:59Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
     },
     {
       "title": "Vem är Nooshi Dadgostar?",
       "link": "https://www.svt.se/nyheter/inrikes/vem-ar-nooshi-dadgostar",
-      "description": "Hon blev historisk när hon fällde Stefan Löfvens regering. Nu siktar Nooshi Dadgostar på nästa steg – att ta Vänsterpartiet hela vägen in i regeringen.",
-      "pubDate": "2026-08-27T09:14:42Z"
-    },
-    {
-      "title": "Mer än var fjärde rödgrön väljare negativa till V i regering",
-      "link": "https://www.svt.se/nyheter/inrikes/manga-rodgrona-valjare-negativa-till-v-i-regering",
-      "description": "Fler än var fjärde rödgrön väljare är negativt inställd till Vänsterpartiet i regering efter valet.",
-      "pubDate": "2026-08-27T03:51:11Z"
+      "description": "Hon blev historisk när hon fällde Stefan Löfvens regering.",
+      "pubDate": "2026-08-27T09:14:42Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
     },
     {
       "title": "Busch till C: Komsi komsi! – men MP står i vägen",
       "link": "https://www.svt.se/nyheter/inrikes/busch-till-c-komsi-komsi-men-mp-star-i-vagen",
-      "description": "Flörten mellan Ebba Busch (KD) och Elisabeth Thand Ringqvist (C) fortsatte när de möttes i Aktuellt på onsdagen.",
-      "pubDate": "2026-08-26T20:57:05Z"
+      "description": "Flörten mellan Ebba Busch (KD) och Elisabeth Thand Ringqvist (C) fortsatte.",
+      "pubDate": "2026-08-26T20:57:05Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "KD"
+      ]
     },
     {
       "title": "Vem är Ulf Kristersson?",
       "link": "https://www.svt.se/nyheter/inrikes/vem-ar-ulf-kristersson-a69f28bc83fd93623",
-      "description": "2022 blev Ulf Kristersson statsminister. Men det kom inte gratis och att återta ledarrollen är nu hans största utmaning.",
-      "pubDate": "2026-08-26T14:34:45Z"
-    },
-    {
-      "title": "Vem är Magdalena Andersson?",
-      "link": "https://www.svt.se/nyheter/inrikes/vem-ar-magdalena-andersson-a73885b02722ac6ce",
-      "description": "Från uppväxten i Uppsala till succékarriären i de Socialdemokratiska korridorerna.",
-      "pubDate": "2026-08-26T14:34:16Z"
+      "description": "2022 blev Ulf Kristersson statsminister.",
+      "pubDate": "2026-08-26T14:34:45Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
     },
     {
       "title": "Nio sakfrågor – så bra är partiernas politik enligt väljarna",
       "link": "https://www.svt.se/nyheter/inrikes/nio-sakfragor-sa-bra-ar-partiernas-politik-enligt-valjarna",
-      "description": "I SVT:s stora valundersökning som gjorts av opinionsinstitutet Verian har väljare svarat på vilket parti som har bäst politik i nio centrala frågor.",
-      "pubDate": "2026-08-26T08:58:34Z"
+      "description": "I SVT:s stora valundersökning har väljare svarat på vilket parti som har bäst politik.",
+      "pubDate": "2026-08-26T08:58:34Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     }
-  ]
+  ],
+  "blogs": []
 }
