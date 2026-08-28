@@ -701,7 +701,6 @@
     width:22px; height:22px; border:1.5px solid var(--focus); border-radius:50%;
   }
   .news-collapse-icon.open{transform:rotate(180deg);}
-  .news-teaser-chips{display:flex; flex-wrap:wrap; gap:6px; margin-top:10px;}
   .news-topic-chips{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px;}
   .news-topic-chip{
     font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:600;
@@ -891,8 +890,6 @@
           <span class="news-collapse-icon" id="newsCollapseIcon">▾</span>
         </span>
       </button>
-
-      <div class="news-teaser-chips" id="newsTeaserChips"></div>
 
       <div class="news-collapse-body" id="newsCollapseBody" style="display:none;">
         <p class="note" style="margin:12px 0 14px; max-width:640px;">Automatiskt hämtat och filtrerat från flera källors officiella RSS-flöden, uppdateras var 30:e minut. <b>Nyheter:</b> SVT, Sveriges Radio, Aftonbladet, Svenska Dagbladet, Dagens Nyheter och Expressen. <b>Bloggar:</b> Ledarsidorna, Jens Ganman, Dagens Arena, Svensson och Parabol (opinionsbloggar — debattinlägg, inte nyhetsrapportering). <b>Poddar:</b> Kvartal och Studio Ett (Sveriges Radio).</p>
@@ -1778,57 +1775,6 @@ async function loadNewsFeed(){
     podcastListEl.innerHTML = '';
     if (podcastEmptyEl) podcastEmptyEl.style.display = 'block';
   }
-
-  renderNewsTeasers(data);
-}
-
-// Teaser chips sit above the collapse toggle and stay visible even when
-// the section is collapsed. Clicking one expands the section, switches to
-// whichever tab (news, blogs, or podcasts) actually has matching items,
-// and applies that topic's filter there — by reusing the already-rendered
-// per-tab topic chips rather than duplicating the filtering logic.
-function renderNewsTeasers(data){
-  const teaserEl = document.getElementById('newsTeaserChips');
-  if (!teaserEl) return;
-
-  const allItems = [...(data.news || []), ...(data.blogs || []), ...(data.podcasts || [])];
-  const topicCounts = {};
-  allItems.forEach(it => (it.topics || []).forEach(t => { topicCounts[t] = (topicCounts[t] || 0) + 1; }));
-  const topTopics = Object.entries(topicCounts).sort((a, b) => b[1] - a[1]).slice(0, 8).map(([t]) => t);
-
-  if (topTopics.length === 0){ teaserEl.innerHTML = ''; return; }
-
-  teaserEl.innerHTML = topTopics.map(t => `<button class="news-topic-chip" data-teaser-topic="${t}">${t}</button>`).join('');
-
-  teaserEl.querySelectorAll('[data-teaser-topic]').forEach(chip => {
-    chip.addEventListener('click', (e) => {
-      e.stopPropagation(); // don't let this bubble into the collapse-header's own click toggle
-      const topic = chip.dataset.teaserTopic;
-
-      const body = document.getElementById('newsCollapseBody');
-      const icon = document.getElementById('newsCollapseIcon');
-      if (body && body.style.display === 'none'){
-        body.style.display = 'block';
-        if (icon) icon.classList.add('open');
-        teaserEl.style.display = 'none'; // avoid a duplicate chip row once expanded
-      }
-
-      const newsHasIt = (data.news || []).some(it => (it.topics || []).includes(topic));
-      const blogsHasIt = (data.blogs || []).some(it => (it.topics || []).includes(topic));
-      const podcastsHasIt = (data.podcasts || []).some(it => (it.topics || []).includes(topic));
-      const targetTab = newsHasIt ? 'news' : (blogsHasIt ? 'blogs' : (podcastsHasIt ? 'podcasts' : 'news'));
-      const tabBtn = document.querySelector(`[data-newstab="${targetTab}"]`);
-      if (tabBtn) tabBtn.click();
-
-      // Let the tab-switch above finish updating the DOM before we look
-      // for the matching chip inside it.
-      setTimeout(() => {
-        const chipsContainerIds = { news: 'newsTopicChips', blogs: 'blogTopicChips', podcasts: 'podcastTopicChips' };
-        const targetChip = document.querySelector(`#${chipsContainerIds[targetTab]} [data-topic="${topic}"]`);
-        if (targetChip) targetChip.click();
-      }, 0);
-    });
-  });
 }
 
 function initNewsTabs(){
@@ -1855,17 +1801,12 @@ function initNewsCollapse(){
   const body = document.getElementById('newsCollapseBody');
   const icon = document.getElementById('newsCollapseIcon');
   const hint = document.getElementById('newsCollapseHint');
-  const teasers = document.getElementById('newsTeaserChips');
   if (!header || !body) return;
   header.addEventListener('click', () => {
     const isOpen = body.style.display !== 'none';
     body.style.display = isOpen ? 'none' : 'block';
     if (icon) icon.classList.toggle('open', !isOpen);
     if (hint) hint.textContent = isOpen ? 'Visa' : 'Dölj';
-    // Teasers are only useful as a collapsed-state entry point — once the
-    // section is open, the per-tab topic chips inside it do the same job,
-    // so showing both at once would just be a duplicate row.
-    if (teasers) teasers.style.display = isOpen ? 'flex' : 'none';
   });
 }
 
