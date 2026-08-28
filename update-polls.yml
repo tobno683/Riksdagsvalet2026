@@ -1,0 +1,42 @@
+name: Update polling data
+
+on:
+  schedule:
+    # Runs once a day at 06:00 UTC (~08:00 Swedish time). Cron syntax:
+    # minute hour day month weekday. Change the numbers to adjust frequency,
+    # e.g. '0 */6 * * *' would run every 6 hours instead.
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit the updated JSON file
+
+jobs:
+  update-polls:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scripts/update_polls.py
+
+      - name: Commit and push if data changed
+        run: |
+          git config user.name "poll-bot"
+          git config user.email "poll-bot@users.noreply.github.com"
+          git add data/polls.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update polling data"
+            git push
+          fi
