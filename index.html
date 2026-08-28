@@ -285,7 +285,7 @@
   }
 
   /* ---------- Bloc comparison strip ---------- */
-  .bloc-strip{margin:60px 0 10px;}
+  .bloc-strip{margin:28px 0 10px;}
   .debate-strip{margin:56px 0 48px;}
 
   /* Topic spectrum chart — compact */
@@ -683,9 +683,23 @@
   .news-tab-toggle{display:flex; gap:8px; margin-bottom:16px;}
   .news-collapse-header{
     display:flex; align-items:center; justify-content:space-between; width:100%;
-    background:none; border:none; padding:0; cursor:pointer; text-align:left;
+    background:var(--card); border:1px solid var(--line); border-radius:6px;
+    padding:14px 18px; cursor:pointer; text-align:left;
+    transition:border-color .15s ease, background .15s ease;
   }
-  .news-collapse-icon{font-size:16px; color:var(--ink-soft); transition:transform .15s ease;}
+  .news-collapse-header:hover{border-color:var(--focus); background:var(--paper);}
+  .news-collapse-title{display:flex; flex-direction:column; align-items:flex-start; gap:6px;}
+  .news-collapse-categories{font-size:22px; opacity:0.85; letter-spacing:4px;}
+  .news-collapse-header-right{display:flex; align-items:center; gap:8px;}
+  .news-collapse-hint{
+    font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:600;
+    color:var(--focus); text-transform:uppercase; letter-spacing:.04em;
+  }
+  .news-collapse-icon{
+    font-size:16px; color:var(--focus); transition:transform .15s ease;
+    display:inline-flex; align-items:center; justify-content:center;
+    width:22px; height:22px; border:1.5px solid var(--focus); border-radius:50%;
+  }
   .news-collapse-icon.open{transform:rotate(180deg);}
   .news-teaser-chips{display:flex; flex-wrap:wrap; gap:6px; margin-top:10px;}
   .news-topic-chips{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px;}
@@ -868,18 +882,25 @@
 
     <div class="news-strip">
       <button class="news-collapse-header" id="newsCollapseHeader">
-        <span class="section-label" style="margin:0;">Senaste nytt om valet</span>
-        <span class="news-collapse-icon" id="newsCollapseIcon">▾</span>
+        <span class="news-collapse-title">
+          <span class="section-label" style="margin:0;">Senaste nytt om valet</span>
+          <span class="news-collapse-categories">📰 💬 🎙️</span>
+        </span>
+        <span class="news-collapse-header-right">
+          <span class="news-collapse-hint" id="newsCollapseHint">Visa</span>
+          <span class="news-collapse-icon" id="newsCollapseIcon">▾</span>
+        </span>
       </button>
 
       <div class="news-teaser-chips" id="newsTeaserChips"></div>
 
       <div class="news-collapse-body" id="newsCollapseBody" style="display:none;">
-        <p class="note" style="margin:12px 0 14px; max-width:640px;">Automatiskt hämtat och filtrerat från flera källors officiella RSS-flöden, uppdateras var 30:e minut. <b>Nyheter:</b> SVT, Sveriges Radio, Aftonbladet, Svenska Dagbladet, Dagens Nyheter och Expressen. <b>Bloggar:</b> Ledarsidorna, Dagens Arena och Svensson (opinionsbloggar — debattinlägg, inte nyhetsrapportering).</p>
+        <p class="note" style="margin:12px 0 14px; max-width:640px;">Automatiskt hämtat och filtrerat från flera källors officiella RSS-flöden, uppdateras var 30:e minut. <b>Nyheter:</b> SVT, Sveriges Radio, Aftonbladet, Svenska Dagbladet, Dagens Nyheter och Expressen. <b>Bloggar:</b> Ledarsidorna, Jens Ganman, Dagens Arena, Svensson och Parabol (opinionsbloggar — debattinlägg, inte nyhetsrapportering). <b>Poddar:</b> Kvartal och Studio Ett (Sveriges Radio).</p>
 
         <div class="news-tab-toggle">
-          <button class="pill active" data-newstab="news">Nyheter</button>
-          <button class="pill" data-newstab="blogs">Bloggar</button>
+          <button class="pill active" data-newstab="news">📰 Nyheter</button>
+          <button class="pill" data-newstab="blogs">💬 Bloggar</button>
+          <button class="pill" data-newstab="podcasts">🎙️ Poddar</button>
         </div>
 
         <div id="newsTabNews">
@@ -891,6 +912,11 @@
           <div class="news-topic-chips" id="blogTopicChips"></div>
           <div class="news-list" id="blogList"></div>
           <p class="news-empty-state" id="blogEmptyState" style="display:none;">Kunde inte hämta blogginlägg just nu — försök igen senare.</p>
+        </div>
+        <div id="newsTabPodcasts" style="display:none;">
+          <div class="news-topic-chips" id="podcastTopicChips"></div>
+          <div class="news-list" id="podcastList"></div>
+          <p class="news-empty-state" id="podcastEmptyState" style="display:none;">Kunde inte hämta poddavsnitt just nu — försök igen senare.</p>
         </div>
       </div>
     </div>
@@ -912,8 +938,16 @@
       <p class="compass-subhead">Gör en valkompass</p>
       <div class="compass-grid" id="compassGridTools"></div>
 
-      <p class="compass-subhead" style="margin-top:28px;">Jämför & granska metoderna bakom dem</p>
-      <div class="compass-grid" id="compassGridMeta"></div>
+      <button class="news-collapse-header" id="compassMetaHeader" style="margin-top:28px;">
+        <span class="compass-subhead" style="margin:0;">Jämför &amp; granska metoderna bakom dem</span>
+        <span class="news-collapse-header-right">
+          <span class="news-collapse-hint" id="compassMetaHint">Visa</span>
+          <span class="news-collapse-icon" id="compassMetaIcon">▾</span>
+        </span>
+      </button>
+      <div id="compassMetaBody" style="display:none; margin-top:14px;">
+        <div class="compass-grid" id="compassGridMeta"></div>
+      </div>
     </div>
 
     <div class="topics-strip">
@@ -1697,6 +1731,9 @@ async function loadNewsFeed(){
   const blogListEl = document.getElementById('blogList');
   const blogEmptyEl = document.getElementById('blogEmptyState');
   const blogChipsEl = document.getElementById('blogTopicChips');
+  const podcastListEl = document.getElementById('podcastList');
+  const podcastEmptyEl = document.getElementById('podcastEmptyState');
+  const podcastChipsEl = document.getElementById('podcastTopicChips');
   if (!newsListEl) return;
 
   let data;
@@ -1708,8 +1745,10 @@ async function loadNewsFeed(){
     console.warn('Could not load news feed:', err);
     newsListEl.innerHTML = '';
     blogListEl.innerHTML = '';
+    podcastListEl.innerHTML = '';
     if (newsEmptyEl) newsEmptyEl.style.display = 'block';
     if (blogEmptyEl) blogEmptyEl.style.display = 'block';
+    if (podcastEmptyEl) podcastEmptyEl.style.display = 'block';
     return;
   }
 
@@ -1731,19 +1770,28 @@ async function loadNewsFeed(){
     if (blogEmptyEl) blogEmptyEl.style.display = 'block';
   }
 
+  if (data.podcasts && data.podcasts.length > 0){
+    renderNewsItems(data.podcasts, podcastListEl);
+    renderTopicChips(data.podcasts, podcastChipsEl, podcastListEl);
+    if (podcastEmptyEl) podcastEmptyEl.style.display = 'none';
+  } else {
+    podcastListEl.innerHTML = '';
+    if (podcastEmptyEl) podcastEmptyEl.style.display = 'block';
+  }
+
   renderNewsTeasers(data);
 }
 
 // Teaser chips sit above the collapse toggle and stay visible even when
 // the section is collapsed. Clicking one expands the section, switches to
-// whichever tab (news or blogs) actually has matching articles, and
-// applies that topic's filter there — by reusing the already-rendered
+// whichever tab (news, blogs, or podcasts) actually has matching items,
+// and applies that topic's filter there — by reusing the already-rendered
 // per-tab topic chips rather than duplicating the filtering logic.
 function renderNewsTeasers(data){
   const teaserEl = document.getElementById('newsTeaserChips');
   if (!teaserEl) return;
 
-  const allItems = [...(data.news || []), ...(data.blogs || [])];
+  const allItems = [...(data.news || []), ...(data.blogs || []), ...(data.podcasts || [])];
   const topicCounts = {};
   allItems.forEach(it => (it.topics || []).forEach(t => { topicCounts[t] = (topicCounts[t] || 0) + 1; }));
   const topTopics = Object.entries(topicCounts).sort((a, b) => b[1] - a[1]).slice(0, 8).map(([t]) => t);
@@ -1767,15 +1815,16 @@ function renderNewsTeasers(data){
 
       const newsHasIt = (data.news || []).some(it => (it.topics || []).includes(topic));
       const blogsHasIt = (data.blogs || []).some(it => (it.topics || []).includes(topic));
-      const targetTab = newsHasIt ? 'news' : (blogsHasIt ? 'blogs' : 'news');
+      const podcastsHasIt = (data.podcasts || []).some(it => (it.topics || []).includes(topic));
+      const targetTab = newsHasIt ? 'news' : (blogsHasIt ? 'blogs' : (podcastsHasIt ? 'podcasts' : 'news'));
       const tabBtn = document.querySelector(`[data-newstab="${targetTab}"]`);
       if (tabBtn) tabBtn.click();
 
       // Let the tab-switch above finish updating the DOM before we look
       // for the matching chip inside it.
       setTimeout(() => {
-        const chipsContainerId = targetTab === 'news' ? 'newsTopicChips' : 'blogTopicChips';
-        const targetChip = document.querySelector(`#${chipsContainerId} [data-topic="${topic}"]`);
+        const chipsContainerIds = { news: 'newsTopicChips', blogs: 'blogTopicChips', podcasts: 'podcastTopicChips' };
+        const targetChip = document.querySelector(`#${chipsContainerIds[targetTab]} [data-topic="${topic}"]`);
         if (targetChip) targetChip.click();
       }, 0);
     });
@@ -1784,7 +1833,11 @@ function renderNewsTeasers(data){
 
 function initNewsTabs(){
   const buttons = document.querySelectorAll('[data-newstab]');
-  const panels = { news: document.getElementById('newsTabNews'), blogs: document.getElementById('newsTabBlogs') };
+  const panels = {
+    news: document.getElementById('newsTabNews'),
+    blogs: document.getElementById('newsTabBlogs'),
+    podcasts: document.getElementById('newsTabPodcasts')
+  };
   buttons.forEach(btn => {
     btn.addEventListener('click', () => {
       buttons.forEach(b => b.classList.remove('active'));
@@ -1801,16 +1854,32 @@ function initNewsCollapse(){
   const header = document.getElementById('newsCollapseHeader');
   const body = document.getElementById('newsCollapseBody');
   const icon = document.getElementById('newsCollapseIcon');
+  const hint = document.getElementById('newsCollapseHint');
   const teasers = document.getElementById('newsTeaserChips');
   if (!header || !body) return;
   header.addEventListener('click', () => {
     const isOpen = body.style.display !== 'none';
     body.style.display = isOpen ? 'none' : 'block';
     if (icon) icon.classList.toggle('open', !isOpen);
+    if (hint) hint.textContent = isOpen ? 'Visa' : 'Dölj';
     // Teasers are only useful as a collapsed-state entry point — once the
     // section is open, the per-tab topic chips inside it do the same job,
     // so showing both at once would just be a duplicate row.
     if (teasers) teasers.style.display = isOpen ? 'flex' : 'none';
+  });
+}
+
+function initCompassMetaCollapse(){
+  const header = document.getElementById('compassMetaHeader');
+  const body = document.getElementById('compassMetaBody');
+  const icon = document.getElementById('compassMetaIcon');
+  const hint = document.getElementById('compassMetaHint');
+  if (!header || !body) return;
+  header.addEventListener('click', () => {
+    const isOpen = body.style.display !== 'none';
+    body.style.display = isOpen ? 'none' : 'block';
+    if (icon) icon.classList.toggle('open', !isOpen);
+    if (hint) hint.textContent = isOpen ? 'Visa' : 'Dölj';
   });
 }
 
@@ -2386,6 +2455,16 @@ function openDetail(id){
   `;
   document.getElementById('overlay').classList.add('open');
   document.getElementById('closeBtn').addEventListener('click', closeDetail);
+  // On touch devices, tapping anywhere in the open profile closes it —
+  // there's no hover state to rely on, and the close button can be
+  // fiddly to hit precisely on a phone. Desktop is untouched: clicking
+  // inside the profile there still just lets you read/interact normally.
+  if (!card.dataset.touchCloseBound){
+    card.dataset.touchCloseBound = 'true';
+    card.addEventListener('click', () => {
+      if (window.matchMedia('(pointer: coarse)').matches) closeDetail();
+    });
+  }
   document.body.style.overflow = 'hidden';
 }
 
@@ -3054,6 +3133,7 @@ renderCompassLinks();
 loadNewsFeed();
 initNewsTabs();
 initNewsCollapse();
+initCompassMetaCollapse();
 setInterval(loadNewsFeed, 5 * 60 * 1000); // refresh every 5 minutes
 initChatWidget();
 initBuilderPresets();
