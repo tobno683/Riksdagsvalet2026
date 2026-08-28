@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T03:38:37.580167Z",
+  "updated_at": "2026-08-28T15:52:22.999459Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -49,189 +49,193 @@
   ],
   "news": [
     {
-      "title": "Dadgostar tror på S-V-MP-regering",
-      "link": "https://www.svd.se/a/JOq1X6/dadgostar-tror-pa-s-v-mp-regering",
-      "description": "Med några veckor kvar till valet sätter Vänsterpartiets ledare Nooshi Dadgostar sina pengar på att hon hamnar i en S-ledd regering tillsammans med Miljöpartiet. Och partiet har inte mjuknat: det blir nej till alla regeringar där V inte ingår.",
-      "pubDate": "2026-08-28T03:30:13Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "title": "Busch: ”Dags för ett skifte i svensk vård”",
+      "link": "https://www.sverigesradio.se/artikel/9286493",
+      "description": "Kristdemokraternas partiledare Ebba Busch inledde idag sin bussturné i Västerås. Budskapet till väljarna i Västerås var att svensk sjukvård ska blir mer som den i Danmark och Norge - vården ska förstatligas. ”Det är dags att lägga ner de 21 regionerna. Vi är ett Sverige och borde ha en vård”, säger Ebba Busch.",
+      "pubDate": "2026-08-28T15:33:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V",
-        "MP"
+        "KD"
       ]
     },
     {
-      "title": "Rökpelare över Göteborg – brinner kraftigt",
-      "link": "https://www.expressen.se/nyheter/sverige/rokpelare-over-goteborg-brinner-kraftigt-/",
-      "description": "En storbrand bröt ut i en industrilokal i Göteborg under torsdagskvällen.&nbsp; En rökpelare steg över staden och ett VMA utfärdades. Först uppåt fem timmar senare var branden under kontroll. &nbsp;– Det ser ganska bra ut nu, säger Mikael Lindgren, larm- och ledningsoperatör vid räddningstjänsten, vid halv två på natten.&nbsp;",
-      "pubDate": "2026-08-28T02:44:39Z",
+      "title": "Utrikesministern om trenden: Vill inte se det",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/utrikesministern-om-trenden-vill-inte-se-det/",
+      "description": "Moderaterna har varit för dåliga på att prata om jämställdhet. Det menar utrikesminister Maria Malmer Stenergard (M) – som upprörs över ”soft girl”-trenden. – Jag vill inte se det, säger hon i ”Viktor möter”.",
+      "pubDate": "2026-08-28T15:27:54Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "MP"
+        "M"
       ]
     },
     {
-      "title": "Stärkt förtroende för Ebba Busch",
-      "link": "https://www.sverigesradio.se/artikel/9284346",
-      "description": "Förtroendet för KD-ledaren Ebba Busch stiger markant, det visar Indikator opinions senaste väljarbarometer. Busch ligger nu på tredje plats och har gått om Jimmie Åkesson i popularitet. \"En möjlig förklaring är att hon ändrat kommunikativ strategi. Från att han varit mer konfrontativ tidigare är det mer utsträckta händer till andra sidan”, säger Per Oleskog Tryggvason, opinionschef på Indikator Opinion.",
-      "pubDate": "2026-08-28T02:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Island röstar om EU: ”Magkänslan kan avgöra”",
-      "link": "https://www.sverigesradio.se/artikel/9284343",
-      "description": "Island röstar på lördagen om landet ska återuppta förhandlingar om EU-medlemskap, och opinionsmätningarna pekar mot ett nästan helt jämnt resultat. Ja-sidan lyfter möjliga ekonomiska vinster, medan nej-sidan varnar för följder för fiskeindustrin och vill värna Islands självständighet. Enligt statsvetaren Eiríkur Bergmann handlar omröstningen också om isländsk identitet, där nationens magkänsla kan bli avgörande.",
-      "pubDate": "2026-08-28T01:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Nooshi Dadgostar: Kan bära davidsstjärnan",
-      "link": "https://www.svt.se/nyheter/inrikes/nooshi-dadgostar-kan-bara-davidsstjarnan",
-      "description": "Nooshi Dadgostar tror att Vänsterpartiets engagemang i Palestinafrågan kan ha gjort att personer med antisemitiska åsikter sökt sig till partiet. I SVT:s Utfrågningen öppnar hon upp för att bära davidsstjärna. – Ja det skulle jag kunna göra, som stöd för den judiska minoriteten i Sverige, säger Dadgostar i programmet.",
-      "pubDate": "2026-08-27T20:04:23Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "S är på väg rakt mot väggen",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/s-ar-pa-vag-rakt-mot-vaggen/",
+      "description": "Oförmågan att ta Vänsterpartiet på allvar lär sluta i elände – den här gången också.&nbsp;",
+      "pubDate": "2026-08-28T15:00:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
       ]
     },
     {
-      "title": "C skeptiskt till Svantessons glädjebesked: ”Haft fel många gånger”",
-      "link": "https://www.sverigesradio.se/artikel/9285751",
-      "description": "Enligt finansminister Elisabeth Svantesson (M) ljusnar det nu för svensk ekonomi. Under torsdagen presenterade hon prognosen för svensk ekonomi, där BNP väntas öka med 2,5 procent nästa år. Men oppositionen reagerar på prognosen. Centerpartiets ekonomisk-politisk talesperson Martin Ådahl är skeptisk till om den faktiskt stämmer. Vänsterpartiets ekonomisk-politisk talesperson Ida Gabrielsson säger att Moderaterna lovar reformer som partiet inte kan finansiera.",
-      "pubDate": "2026-08-27T19:31:00Z",
+      "title": "Kulturdebatt. ”Så måste nästa regering satsa på litteraturen”",
+      "link": "https://www.dn.se/kultur/sa-maste-nasta-regering-satsa-pa-litteraturen/",
+      "description": "En procent av statsbudgeten till kulturen, läscheckar och tredubblat litteraturstöd — det är några av förslagen som den oberoende Litteraturkommissionen har tagit fram inför valet. ”Bokens framtid angår hela den samlade politiken”, skriver bland andra Sverker Sörlin och Per Wirtén.",
+      "pubDate": "2026-08-28T14:52:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Mätningarna kan missa vissa partier",
+      "link": "https://www.svd.se/a/j0bKgA/partierna-som-opinionsmatningar-brukar-missa",
+      "description": "Inför valet duggar opinionsundersökningarna tätt, men hur träffsäkra är de? Och vad händer om de visar sig vara missvisande? – Det kan ha en psykologisk effekt, säger statsvetaren Annika Fredén.",
+      "pubDate": "2026-08-28T14:49:35Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Tidöpartierna vill utreda kemisk kastrering",
+      "link": "https://www.expressen.se/nyheter/politik/tidopartierna-vill-utreda-kemisk-kastrering/",
+      "description": "Regeringen och SD ska utreda frivillig kemisk kastrering för sexbrottsdömda. Gunnar Strömmer (M) och andra företrädare tackar föreningen Dumpen. – De har gjort otroligt viktiga insatser, säger jämställdhetsminister Nina Larsson (L).",
+      "pubDate": "2026-08-28T14:35:55Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Kristersson: Kungen var en oerhört uppskattad person",
+      "link": "https://www.sverigesradio.se/artikel/9286495",
+      "description": "Statsminister Ulf Kristersson (M) besökte Norges ambassad i Stockholm för att framföra Sveriges kondoleanser efter kung Haralds död. Tillsammans med utrikesminister Maria Malmer Stenergard (M) skrev han i en kondoleansbok och betonade de starka banden mellan Sverige och Norge. Kristersson beskriver kung Harald som en central och djupt uppskattad symbol för Norge.",
+      "pubDate": "2026-08-28T14:31:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
-        "V",
-        "C"
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "”Vänsterpartiet har ägnat fyra år åt att förbereda sig på ett chicken-race”",
-      "link": "https://www.svt.se/nyheter/inrikes/vansterpartiet-har-agnat-fyra-ar-at-att-forbereda-sig-pa-ett-chicken-race",
-      "description": "Vänsterpartiet har ägnat fyra år åt att förbereda sig på det chicken-race som kan vänta vid en rödgrön valseger. Och förutsatt att deras mandat behövs så kommer de driva sitt krav på ministerposter ända in i kaklet. Men om Socialdemokraterna hittar en annan lösning för majoritet så har Nooshi Dadgostar inte mycket att sätta emot.",
-      "pubDate": "2026-08-27T19:30:18Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "DN Debatt. ”Här är det verkliga skälet till att S vägrar prata med SD”",
+      "link": "https://www.dn.se/debatt/har-ar-det-verkliga-skalet-till-att-s-vagrar-prata-med-sd/",
+      "description": "DN DEBATT. Det har aldrig handlat om ideologi, ”tonen i debatten” eller sakpolitik. Socialdemokraternas beröringsskräck inför SD handlar om något helt annat: Rädslan för att bli av med makt och pengar, att bli avslöjat. Av oss. Inte konstigt att S ryggar undan det existentiella hot som vi utgör, skriver Sverigedemokraternas partisekreterare Mattias Bäckström Johansson.",
+      "pubDate": "2026-08-28T14:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "V"
-      ]
-    },
-    {
-      "title": "27 augusti: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/27-augusti-missa-inte-dagens-nyheter/",
-      "description": "Familjen samlas hos norska kung Harald på sjukhuset, sökandet efter överlevare i Nepal fortsätter och S-ledaren Magdalena Andersson har osexigt vallöfte – här är nyheterna du inte får missa från dagen.",
-      "pubDate": "2026-08-27T19:18:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "V-ledaren: Miljardärsskatt kan ge 50 miljarder",
-      "link": "https://www.svd.se/a/XMplmm/v-ledaren-miljardarsskatt-kan-ge-50-miljarder",
-      "description": "Den miljardärsskatt som Vänsterpartiet går till val på att införa skulle kunna ge många miljarder till viktiga behov, hävdar V-ledaren Nooshi Dadgostar.",
-      "pubDate": "2026-08-27T19:13:16Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Tidösamarbetet faller samman",
-      "link": "https://www.svd.se/a/Pdqry7/tidosamarbetet-faller-samman-men-en-lang-host-kan-gynna-ulf-kristersson",
-      "description": "Tidösamarbetet faller samman inför öppen ridå. Men vad de fyra partierna skapat tillsammans kommer inte att försvinna så fort.",
-      "pubDate": "2026-08-27T18:13:51Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Svaret från Moderaterna – efter omtalade videon: ”Har tagit inspiration”",
-      "link": "https://www.expressen.se/nyheter/sverige/svaret-fran-moderaterna-efter-omtalade-videon-har-tagit-inspiration/",
-      "description": "Var du en av dem som hajade till på Moderaternas nya kampanjfilm? I veckan lanserade de nämligen en video som var slående lik en före detta presidents kampanj.&nbsp; – Jag tror att Reagan hade älskat vår film, säger Amos Friedman, partiets presschef.",
-      "pubDate": "2026-08-27T18:07:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "M-förslag om gratis förskola sågas – av moderater",
-      "link": "https://www.dn.se/sverige/m-forslag-om-gratis-forskola-sagas-av-moderater/",
-      "description": "Moderaterna föreslår avgiftsfri förskola och fritids. I Haparanda har Moderaterna redan testat modellen – och slopat den. – Det var inte rätt att även höginkomsttagare skulle ha gratis barnomsorg, säger Sofia Söderholm, gruppledare för Moderaterna i Haparanda.",
-      "pubDate": "2026-08-27T17:59:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Lisa Magnusson: Åh, vad jag är trött på den nya högerns cancelkultur",
-      "link": "https://www.dn.se/ledare/lisa-magnusson-ah-vad-jag-ar-trott-pa-den-nya-hogerns-cancelkultur/",
-      "description": "Inte ens en tonåring kan tillåtas protestera mot Sverigedemokraterna utan att folk börjar önska livet ur honom och mobba bort honom.",
-      "pubDate": "2026-08-27T17:54:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "SD"
       ]
     },
     {
-      "title": "USA-valet: I Alaska står Dan Sullivan mot Dan Sullivan",
-      "link": "https://www.dn.se/varlden/usa-valet-i-alaska-star-dan-sullivan-mot-dan-sullivan/",
-      "description": "NEW YORK. Ska Dan Sullivan lyckas slå ut Dan Sullivan – som i sin tur får stöd av Dan Sullivan? Det märkliga valet till en av Alaskas senatsplatser kan bli avgörande för hela USA i november. Och nu anklagar Republikanerna Demokraterna för fulspel i den nordliga delstaten.",
-      "pubDate": "2026-08-27T17:02:04Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Utredare ska se över kemisk kastrering",
+      "link": "https://www.svt.se/nyheter/inrikes/utredare-ska-se-over-kemisk-kastrering",
+      "description": "Tidöpartierna vill utreda hur barn bättre kan skyddas från pedofiler – bland annat om frivillig kemisk kastrering för att minska risken för återfall.",
+      "pubDate": "2026-08-28T12:30:59Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
     {
-      "title": "S om läget i svensk ekonomi: ”Ett haveri”",
-      "link": "https://www.expressen.se/nyheter/sverige/s-om-laget-i-svensk-ekonomi-ett-haveri-/",
-      "description": "Regeringen har 50 miljarder kronor i reformutrymme kommande mandatperiod, meddelar finansministern.&nbsp; Beskedet får hård kritik från Socialdemokraterna.&nbsp; – Vi fick svart på vitt att regeringens ekonomiska politik är ett haveri, säger partiledaren Magdalena Andersson (S).&nbsp;",
-      "pubDate": "2026-08-27T16:41:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "M ska skrämmas med sossekaos",
+      "link": "https://www.svd.se/a/bOoz0A/moderaternas-plan-for-att-vinna-valet-skrammas-med-sossekaos",
+      "description": "I valrörelsens elfte timme tar Moderaterna till en klassiker: skrämmas med sossekaos – för att rädda Ulf Kristerssons jobb som statsminister.",
+      "pubDate": "2026-08-28T12:28:11Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Statsministerns tal om kung Harald: ”Minns hans humor och värme”",
+      "link": "https://www.sverigesradio.se/artikel/9286301",
+      "description": "I Norge har statsminister Jonas Gahr Støre hållit ett tv-sänt tal i NRK med anledning av kung Haralds död på fredagsmorgonen. ”En hel nation är i sorg ett folk står i djup tacksamhetsskuld”, sa statsministern. I sitt tal pratade Gahr Støre om att Harald inte lät åldern sätta stopp för sina kungliga uppdrag och välkomnade Kung Haakon VIII och drottning Mette-Marit.",
+      "pubDate": "2026-08-28T12:21:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Utredare ska se över kemisk kastrering",
+      "link": "https://www.svd.se/a/wrbrBd/utredare-ska-se-over-kemisk-kastrering",
+      "description": "Tidöpartierna vill utreda hur barn bättre kan skyddas från pedofiler – bland annat om frivillig kemisk kastrering ska bli ett krav för villkorlig frigivning.",
+      "pubDate": "2026-08-28T12:15:31Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "S om Moderaternas slöserikommission: ”Satte i halsen”",
+      "link": "https://www.dn.se/sverige/s-om-moderaternas-sloserikommission-satte-i-halsen/",
+      "description": "Socialdemokraterna rasar över Moderaternas förslag om en slöserikommission i Stockholms stad. Partierna har vitt skilda åsikter om vad som kan räknas som skatteslöseri och har helt olika syn på stadsskulden.",
+      "pubDate": "2026-08-28T11:51:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "S-kritik mot utnämning till nya underrättelsetjänsten: ”Provocerande”",
+      "link": "https://www.svt.se/nyheter/inrikes/han-blir-generaldirektor-for-sveriges-nya-underrattelsetjanst",
+      "description": "Sveriges nya underrättelsetjänst har fått en generaldirektör och en överdirektör. Men tidpunkten för utnämningarna får kritik från Socialdemokraterna. – Det är provocerande att regeringen gör det här bara ett par veckor före valet, säger partiets utrikespolitiska talesperson Morgan Johansson.",
+      "pubDate": "2026-08-28T11:13:40Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
       ]
+    },
+    {
+      "title": "Experterna eniga om Haralds betydelse: ”Person folk såg upp till”",
+      "link": "https://www.sverigesradio.se/artikel/9286188",
+      "description": "Att kung Haralds död väcker starka känslor förvånar inte hovexperten Ebba Kleberg von Sydow. Inte heller historikern Dick Harrison, som lyfter kungahusets agerande under andra världskriget som avgörande för den relationen norska folket haft till Harald V. ”Han var en otroligt snäll människa, säger Johan T Lindwall, hovreporter och chefredaktör på Svensk damtidning som får medhåll av Elisabeth Tarras-Wahlberg, tidigare hovmarskalk och informationschef vid Kungliga Hovstaterna.",
+      "pubDate": "2026-08-28T10:42:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "En ny inriktning för Sverige",
+      "link": "https://blog.zaramis.se/2026/08/28/en-ny-inriktning-for-sverige/",
+      "description": "Sverige behöver en ny regering och en ny politisk inriktning efter valet 2026. Efter decennier av nedskärningar och fyra år med en högerregering som prioriterat sänkt skatt för de rika på vanliga människors bekostnad behöver Sverige en regering som står på folkets sida och som har viljan att förändra. Läs mer … Inlägget En ny inriktning för Sverige dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-08-28T06:22:27Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "En relation höjd över all kritisk granskning",
       "link": "https://ledarsidorna.se/en-relation-hojd-over-all-kritik/",
@@ -304,16 +308,6 @@
         "SD",
         "L"
       ]
-    },
-    {
-      "title": "En statlig utredning som kommer fram till ingenting",
-      "link": "https://blog.zaramis.se/2026/08/24/en-statlig-utredning-som-kommer-fram-till-ingenting/",
-      "description": "Tidöregeringen beställde en utredning om parallellsamhällen, dvs parallella maktstrukturer vid sidan av de officiella. Så kallade parallella samhällsstrukturer. Utredningen konstaterar det inte går att påvisa några sådana i Sverige men det skulle kunna finnas så därför föreslår de åtgärder mot något som inte finns. Läs mer … Inlägget En statlig utredning som kommer fram till ingenting dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-08-24T10:53:16Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
     }
   ]
 }
