@@ -225,12 +225,25 @@ SOURCES = [
         # Right-leaning satirist/columnist. Verified well-known, not niche:
         # ranked in Favikon's "Top 20 X Influencers in Sweden 2026" list,
         # own Substack states 14K+ subscribers directly, profiled by Fokus
-        # magazine. RSS URL uses Substack's own officially documented
-        # convention (support.substack.com), so - unlike several other
-        # blog entries here - this one is confirmed, not inferred.
+        # magazine.
+        #
+        # Feed URL note: Substack returns 403 Forbidden specifically to
+        # requests from GitHub Actions' IP ranges - this is a documented,
+        # widely-reported issue (independently confirmed by multiple
+        # developers hitting the exact same problem), not something fixable
+        # via User-Agent or other request headers. Routed through a
+        # generic third-party pass-through proxy (allorigins.win) as an
+        # attempt to work around the IP-based block, since the proxy's own
+        # server IP - not GitHub Actions' - is what Substack sees. This is
+        # NOT a confirmed, proven fix - no one else's usage of this exact
+        # combination was found during research, so treat it as a
+        # reasonable attempt with its own third-party reliability risk, not
+        # a guaranteed solution. If it stops working, that's the most
+        # likely reason: the real underlying feed is
+        # https://jensganman.substack.com/feed
         "name": "Jens Ganman",
         "domain": "jensganman.substack.com",
-        "feed_url": "https://jensganman.substack.com/feed",
+        "feed_url": "https://api.allorigins.win/raw?url=https%3A%2F%2Fjensganman.substack.com%2Ffeed",
         "format": "rss",
         "type": "blog",
     },
