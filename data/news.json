@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T21:06:34.677410Z",
+  "updated_at": "2026-08-28T23:08:33.793526Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -37,11 +37,6 @@
       "type": "blog"
     },
     {
-      "name": "Jens Ganman",
-      "url": "https://jensganman.substack.com/feed",
-      "type": "blog"
-    },
-    {
       "name": "Dagens Arena",
       "url": "https://www.dagensarena.se/feed/",
       "type": "blog"
@@ -49,6 +44,11 @@
     {
       "name": "Svensson",
       "url": "https://blog.zaramis.se/feed/",
+      "type": "blog"
+    },
+    {
+      "name": "Jens Ganman",
+      "url": "https://jensganman.substack.com/feed",
       "type": "blog"
     },
     {
@@ -69,158 +69,92 @@
   ],
   "news": [
     {
-      "title": "S-toppen: \"Vi betalar inte pengar till digitala kreatörer\"",
-      "link": "https://www.svt.se/nyheter/inrikes/s-toppen-vi-betalar-inte-pengar-till-digitala-kreatorer",
-      "description": "Magdalena Anderssons poserande med influencern Alice Stenlöf har lett till spekulationer kring huruvida S betalat för att sprida sitt politiska budskap.",
-      "pubDate": "2026-08-27T16:09:13Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "Blir någon här statsminister?",
+      "link": "https://www.svd.se/a/PdqoOJ/slaget-om-framtiden-sa-gick-debatten-pa-debaser",
+      "description": "När ungdoms­förbunden drabbar samman på Debaser står både Sveriges och deras egen framtid på spel. Jag går dit för att bekanta mig med framtidens makthavare.",
+      "pubDate": "2026-08-28T20:01:50Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Tacka aktivismen för att vi har demokrati",
+      "link": "https://www.dn.se/insandare/svar-tacka-aktivismen-for-att-vi-har-demokrati/",
+      "description": "SVAR PÅ INSÄNDARE. Historien upprepar sig när mestadels män talar om för kämpande människor att de borde göra saker på ett annat sätt. Det låter förstås skönt att bara ha det trevligt och stå med mössan i hand, men problemet är att det inte fungerar, skriver klimatpsykologen Kali Andersson.",
+      "pubDate": "2026-08-28T17:31:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
       ]
     },
     {
-      "title": "Fouad Youcefi: Så ska V stoppa läckaget",
-      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-sa-ska-v-stoppa-lackaget",
-      "description": "Vänsterpartiet tappade väljarstöd i 277 av 290 svenska kommuner i förra valet.",
-      "pubDate": "2026-08-27T15:16:24Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "Busch: ”Dags för ett skifte i svensk vård”",
+      "link": "https://www.sverigesradio.se/artikel/9286493",
+      "description": "Kristdemokraternas partiledare Ebba Busch inledde idag sin bussturné i Västerås. Budskapet till väljarna i Västerås var att svensk sjukvård ska blir mer som den i Danmark och Norge - vården ska förstatligas. ”Det är dags att lägga ner de 21 regionerna. Vi är ett Sverige och borde ha en vård”, säger Ebba Busch.",
+      "pubDate": "2026-08-28T15:33:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V"
+        "KD"
       ]
     },
     {
-      "title": "Svantesson på Harpsund: 50 miljarder i reformutrymme",
-      "link": "https://www.svt.se/nyheter/inrikes/svantesson-50-miljarder-i-reformutrymme",
-      "description": "50 miljarder kronor – så stort blir reformutrymmet nästa mandatperiod, bedömer regeringen.",
-      "pubDate": "2026-08-27T13:22:36Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "Utrikesministern om trenden: Vill inte se det",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/utrikesministern-om-trenden-vill-inte-se-det/",
+      "description": "Moderaterna har varit för dåliga på att prata om jämställdhet. Det menar utrikesminister Maria Malmer Stenergard (M) – som upprörs över ”soft girl”-trenden. – Jag vill inte se det, säger hon i ”Viktor möter”.",
+      "pubDate": "2026-08-28T15:27:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M"
       ]
     },
     {
-      "title": "Miljöpartiets plan: Vill satsa på cykel och kollektivtrafik",
-      "link": "https://www.sverigesradio.se/artikel/9285393",
-      "description": "Miljöpartiet vill lägga 1,5 miljarder kronor om året under nästa mandatperiod för att göra det enklare att gå, cykla och åka med kollektivtrafik.",
-      "pubDate": "2026-08-27T12:30:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Säpo inleder förundersökning efter hot mot Mohamsson",
-      "link": "https://www.svt.se/nyheter/inrikes/sapo-inleder-forundersokning-efter-hot-mot-mohamsson",
-      "description": "Säkerhetspolisen utreder olaga hot mot L-ledaren Simona Mohamsson.",
-      "pubDate": "2026-08-27T12:20:52Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Socialdemokraterna på en minut",
-      "link": "https://www.sverigesradio.se/artikel/9281110",
-      "description": "Alla åtta riksdagspartier är nu ute och kampanjar. Socialdemokraterna bildades 1889 och mer pengar till välfärden är en av partiets viktigaste frågor.",
-      "pubDate": "2026-08-27T11:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Vänsterpartiet på en minut",
-      "link": "https://www.sverigesradio.se/artikel/9281080",
-      "description": "Vänsterpartiet är ett socialistiskt parti som också beskriver sig som feministiskt och grönt.",
-      "pubDate": "2026-08-27T11:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "S är på väg rakt mot väggen",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/s-ar-pa-vag-rakt-mot-vaggen/",
+      "description": "Oförmågan att ta Vänsterpartiet på allvar lär sluta i elände – den här gången också.&nbsp;",
+      "pubDate": "2026-08-28T15:00:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
       ]
     },
     {
-      "title": "Liberalerna på en minut",
-      "link": "https://www.sverigesradio.se/artikel/9281077",
-      "description": "Liberalerna var med och drev igenom demokrati i Sverige för över hundra år sedan. Skolpolitiken är partiets viktigaste fråga.",
-      "pubDate": "2026-08-27T11:47:00Z",
+      "title": "Kulturdebatt. ”Så måste nästa regering satsa på litteraturen”",
+      "link": "https://www.dn.se/kultur/sa-maste-nasta-regering-satsa-pa-litteraturen/",
+      "description": "En procent av statsbudgeten till kulturen, läscheckar och tredubblat litteraturstöd — det är några av förslagen som den oberoende Litteraturkommissionen har tagit fram inför valet. ”Bokens framtid angår hela den samlade politiken”, skriver bland andra Sverker Sörlin och Per Wirtén.",
+      "pubDate": "2026-08-28T14:52:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Mätningarna kan missa vissa partier",
+      "link": "https://www.svd.se/a/j0bKgA/partierna-som-opinionsmatningar-brukar-missa",
+      "description": "Inför valet duggar opinionsundersökningarna tätt, men hur träffsäkra är de? Och vad händer om de visar sig vara missvisande? – Det kan ha en psykologisk effekt, säger statsvetaren Annika Fredén.",
+      "pubDate": "2026-08-28T14:49:35Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Kristersson: Kungen var en oerhört uppskattad person",
+      "link": "https://www.sverigesradio.se/artikel/9286495",
+      "description": "Statsminister Ulf Kristersson (M) besökte Norges ambassad i Stockholm för att framföra Sveriges kondoleanser efter kung Haralds död. Tillsammans med utrikesminister Maria Malmer Stenergard (M) skrev han i en kondoleansbok och betonade de starka banden mellan Sverige och Norge. Kristersson beskriver kung Harald som en central och djupt uppskattad symbol för Norge.",
+      "pubDate": "2026-08-28T14:31:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Sverigedemokraterna på en minut",
-      "link": "https://www.sverigesradio.se/artikel/9281059",
-      "description": "Sverigedemokraterna beskriver sig i dag som ett nationalistiskt och socialkonservativt parti.",
-      "pubDate": "2026-08-27T11:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson (S) vill bli statsminister igen – men vägrar säga hur",
-      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-vill-bli-statsminister-igen-men-vagrar-saga-hur",
-      "description": "Nu vill Magdalena Andersson bli Sveriges statsminister igen.",
-      "pubDate": "2026-08-27T10:54:59Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Vem är Nooshi Dadgostar?",
-      "link": "https://www.svt.se/nyheter/inrikes/vem-ar-nooshi-dadgostar",
-      "description": "Hon blev historisk när hon fällde Stefan Löfvens regering.",
-      "pubDate": "2026-08-27T09:14:42Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Busch till C: Komsi komsi! – men MP står i vägen",
-      "link": "https://www.svt.se/nyheter/inrikes/busch-till-c-komsi-komsi-men-mp-star-i-vagen",
-      "description": "Flörten mellan Ebba Busch (KD) och Elisabeth Thand Ringqvist (C) fortsatte.",
-      "pubDate": "2026-08-26T20:57:05Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD"
-      ]
-    },
-    {
-      "title": "Vem är Ulf Kristersson?",
-      "link": "https://www.svt.se/nyheter/inrikes/vem-ar-ulf-kristersson-a69f28bc83fd93623",
-      "description": "2022 blev Ulf Kristersson statsminister.",
-      "pubDate": "2026-08-26T14:34:45Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
@@ -228,22 +162,235 @@
       ]
     },
     {
-      "title": "Nio sakfrågor – så bra är partiernas politik enligt väljarna",
-      "link": "https://www.svt.se/nyheter/inrikes/nio-sakfragor-sa-bra-ar-partiernas-politik-enligt-valjarna",
-      "description": "I SVT:s stora valundersökning har väljare svarat på vilket parti som har bäst politik.",
-      "pubDate": "2026-08-26T08:58:34Z",
+      "title": "DN Debatt. ”Här är det verkliga skälet till att S vägrar prata med SD”",
+      "link": "https://www.dn.se/debatt/har-ar-det-verkliga-skalet-till-att-s-vagrar-prata-med-sd/",
+      "description": "DN DEBATT. Det har aldrig handlat om ideologi, ”tonen i debatten” eller sakpolitik. Socialdemokraternas beröringsskräck inför SD handlar om något helt annat: Rädslan för att bli av med makt och pengar, att bli avslöjat. Av oss. Inte konstigt att S ryggar undan det existentiella hot som vi utgör, skriver Sverigedemokraternas partisekreterare Mattias Bäckström Johansson.",
+      "pubDate": "2026-08-28T14:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Utredare ska se över kemisk kastrering",
+      "link": "https://www.svt.se/nyheter/inrikes/utredare-ska-se-over-kemisk-kastrering",
+      "description": "Tidöpartierna vill utreda hur barn bättre kan skyddas från pedofiler – bland annat om frivillig kemisk kastrering för att minska risken för återfall.",
+      "pubDate": "2026-08-28T12:30:59Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "M ska skrämmas med sossekaos",
+      "link": "https://www.svd.se/a/bOoz0A/moderaternas-plan-for-att-vinna-valet-skrammas-med-sossekaos",
+      "description": "I valrörelsens elfte timme tar Moderaterna till en klassiker: skrämmas med sossekaos – för att rädda Ulf Kristerssons jobb som statsminister.",
+      "pubDate": "2026-08-28T12:28:11Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Statsministerns tal om kung Harald: ”Minns hans humor och värme”",
+      "link": "https://www.sverigesradio.se/artikel/9286301",
+      "description": "I Norge har statsminister Jonas Gahr Støre hållit ett tv-sänt tal i NRK med anledning av kung Haralds död på fredagsmorgonen. ”En hel nation är i sorg ett folk står i djup tacksamhetsskuld”, sa statsministern. I sitt tal pratade Gahr Støre om att Harald inte lät åldern sätta stopp för sina kungliga uppdrag och välkomnade Kung Haakon VIII och drottning Mette-Marit.",
+      "pubDate": "2026-08-28T12:21:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Utredare ska se över kemisk kastrering",
+      "link": "https://www.svd.se/a/wrbrBd/utredare-ska-se-over-kemisk-kastrering",
+      "description": "Tidöpartierna vill utreda hur barn bättre kan skyddas från pedofiler – bland annat om frivillig kemisk kastrering ska bli ett krav för villkorlig frigivning.",
+      "pubDate": "2026-08-28T12:15:31Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "S om Moderaternas slöserikommission: ”Satte i halsen”",
+      "link": "https://www.dn.se/sverige/s-om-moderaternas-sloserikommission-satte-i-halsen/",
+      "description": "Socialdemokraterna rasar över Moderaternas förslag om en slöserikommission i Stockholms stad. Partierna har vitt skilda åsikter om vad som kan räknas som skatteslöseri och har helt olika syn på stadsskulden.",
+      "pubDate": "2026-08-28T11:51:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "S-kritik mot utnämning till nya underrättelsetjänsten: ”Provocerande”",
+      "link": "https://www.svt.se/nyheter/inrikes/han-blir-generaldirektor-for-sveriges-nya-underrattelsetjanst",
+      "description": "Sveriges nya underrättelsetjänst har fått en generaldirektör och en överdirektör. Men tidpunkten för utnämningarna får kritik från Socialdemokraterna. – Det är provocerande att regeringen gör det här bara ett par veckor före valet, säger partiets utrikespolitiska talesperson Morgan Johansson.",
+      "pubDate": "2026-08-28T11:13:40Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
     }
   ],
-  "blogs": [],
+  "blogs": [
+    {
+      "title": "En ny inriktning för Sverige",
+      "link": "https://blog.zaramis.se/2026/08/28/en-ny-inriktning-for-sverige/",
+      "description": "Sverige behöver en ny regering och en ny politisk inriktning efter valet 2026. Efter decennier av nedskärningar och fyra år med en högerregering som prioriterat sänkt skatt för de rika på vanliga människors bekostnad behöver Sverige en regering som står på folkets sida och som har viljan att förändra. Läs mer … Inlägget En ny inriktning för Sverige dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-08-28T06:22:27Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
+    {
+      "title": "En relation höjd över all kritisk granskning",
+      "link": "https://ledarsidorna.se/en-relation-hojd-over-all-kritik/",
+      "description": "Relationerna mellan främst Socialdemokraterna och Fatah med sitt vidhängande kluster av terrororienterade organisationer har överlevt några av de mest omvälvande händelserna under efterkrigstiden, bland annat Sovjetunionens upplösning. En relation som visat sig vara så pass stark att den inte ens kunnat eller tillåtits att granskas eller kritiseras. Relationen mellan främst Socialdemokraterna och det palestinska politiska [&#8230;]",
+      "pubDate": "2026-08-28T03:21:00Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Rekordstor demonstration för klimatet. Men var är politikerna?",
+      "link": "https://www.dagensarena.se/opinion/rekordstor-demonstration-klimatet-men-var-ar-politikerna/",
+      "description": "Vi är många - men inför valet saknas klimatet på dagordningen. Inlägget Rekordstor demonstration för klimatet. Men var är politikerna? dök först upp på Dagens Arena .",
+      "pubDate": "2026-08-27T23:30:33Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
+    {
+      "title": "“Min dröm är att SD:are och vänsterpartister ska garva åt filmen tillsammans”",
+      "link": "https://www.dagensarena.se/innehall/min-drom-ar-att-sdare-och-vansterpartister-ska-garva-filmen-tillsammans/",
+      "description": "Dagens Arena har träffat Michael Lindgren bioaktuell med komedin “Flaggan”. Inlägget “Min dröm är att SD:are och vänsterpartister ska garva åt filmen tillsammans” dök först upp på Dagens Arena .",
+      "pubDate": "2026-08-27T23:30:03Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V",
+        "MP"
+      ]
+    },
+    {
+      "title": "Vänsterpartiet ansluter sig till det biståndsindustriella eko-systemet",
+      "link": "https://ledarsidorna.se/vansterpartiet-ansluter-sig-till-det-bistandsindustriella-eko-systemet/",
+      "description": "Vänsterpartiets relation till den palestinska rörelsen skiljer sig strukturellt från Socialdemokraternas. Den löper i högre grad underifrån genom föreningar och lokala kontakter snarare än centralt initierade samarbetsavtal och statliga anslag. Men den har en egen, sextio år lång historia. Från VPK:s ideologiska brytning med Sovjetunionen på 1960-talet till dagens seminarier med Palestinska riksförbundet som till [&#8230;]",
+      "pubDate": "2026-08-26T23:00:00Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Systrarna: S relation till Fatah 1969-2026",
+      "link": "https://ledarsidorna.se/systrarna-s-relation-till-fatah-1969-2026/",
+      "description": "Historien om Sveriges relation till det maktbärande palestinska partiet Fatah går hand i hand med hur Socialdemokraternas relation utvecklats och underhållits. En relation som klarat sig opåverkad av intifador och palestinska terrordåd riktade mot civila. Trots biståndsmyndigheten Sidas explicita regelverk som förbjudit allt bistånd till krigförande parter. Ett förbud som partiets och ABF internationella verksamhet [&#8230;]",
+      "pubDate": "2026-08-26T02:36:17Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Kan ett “Klamydiabrev” rädda Liberalerna?",
+      "link": "https://ledarsidorna.se/kan-ett-klamydiabrev-radda-liberalerna/",
+      "description": "Samtidigt som Sverigedemokraternas partiledare Jimmie Åkesson nu givit Liberalerna en tydlig tidsfrist på sig att nå över 3,5 procent går den tidigare partiledaren Lars Leijonborg (L) ut och menar att han hoppas på ett &#8220;defining moment&#8221; som kommer vända valrörelsen till partiets favör. En önskan som, på objektiva rekvisit, är att önska för mycket. Det [&#8230;]",
+      "pubDate": "2026-08-25T02:09:40Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "Valet i Colombia var en statskupp",
+      "link": "https://www.parabol.press/valet-i-colombia-var-en-statskupp/",
+      "description": "Amerikanska och israeliska företag räddade segern åt tiktok-högern.",
+      "pubDate": "2026-08-01T16:48:26Z",
+      "source": "Parabol",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
+    {
+      "title": "Läkarna är inte rentvådda från styckmordet",
+      "link": "https://www.parabol.press/lakarna-ar-inte-rentvadda-fran-styckmordet/",
+      "description": "Tvärtom har Gunnar Strömmer inte uttalat sig i skuldfrågan.",
+      "pubDate": "2026-08-01T16:47:25Z",
+      "source": "Parabol",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Slöja är inte ett fritt val",
+      "link": "https://www.parabol.press/sloja-ar-inte-ett-fritt-val/",
+      "description": "För att förstå religion hjälper inte sekulariserad retorik om det fria valet.",
+      "pubDate": "2026-08-01T16:44:28Z",
+      "source": "Parabol",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
+    {
+      "title": "Vi kan inte rösta bort krigen",
+      "link": "https://www.parabol.press/vi-kan-inte-rosta-bort-krigen/",
+      "description": "Replik på de nya vänsterpartiernas artikel.",
+      "pubDate": "2026-08-01T16:44:25Z",
+      "source": "Parabol",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Eliten i Sverige vill dra in oss i krig mot Ryssland",
+      "link": "https://www.parabol.press/eliten-i-sverige-vill-dra-in-oss-i-krig-mot-ryssland/",
+      "description": "Arméchefen Jonny Lindfors kallar det oundvikligt att vi dras in i nästa storkrig.",
+      "pubDate": "2026-08-01T16:44:21Z",
+      "source": "Parabol",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    }
+  ],
   "podcasts": [
     {
       "title": "Partiet och sakfrågan: S och svensk ekonomi",
       "link": "https://pod.space/kvartal/partiet-och-sakfragan-s-och-svensk-ekonomi",
-      "description": "Mikael Damberg, ekonomisk-politisk talesperson för Socialdemokraterna intervjuas av Jörgen Huitfeldt. Arbetslösheten är regeringens största misslyckande, menar Mikael Damberg.",
+      "description": "Mikael Damberg, ekonomisk-politisk talesperson för Socialdemokraterna intervjuas av Jörgen Huitfeldt. I Kvartals intervjuserie Partiet och sakfrågan ville Socialdemokraterna prata svensk ekonomi. Arbetslösheten är regeringens största misslyckande, menar Mikael Damberg. En återkommande fråga i intervjun är om den migrationskris och pandemi som S-regeringen hade att hantera är bättre ursäkter för svag tillväxt och hög arbetslöshet än inflationen och Donald Trump, som Tidöpartierna ofta förklarar sina problem med?&nbsp;",
       "pubDate": "2026-08-28T10:45:00Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
@@ -253,9 +400,23 @@
       ]
     },
     {
+      "title": "Inläst: Ni är principlösa hycklare",
+      "link": "https://pod.space/kvartal/inlast-ni-ar-principlosa-hycklare",
+      "description": "När Richard Jomshof kallade Anders Lindberg quisling kom Magdalena Andersson, Svenska PEN och Reportrar utan gränser på att det fanns något som heter principer. Var fanns de principerna när rikspolitiker och ministrar på vänsterkanten anklagade högerskribenter för att hota demokratin och förespråka etnisk rensning? Av Ivar Arpi Inläsare: Staffan Dopping",
+      "pubDate": "2026-08-28T04:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "SD",
+        "MP"
+      ]
+    },
+    {
       "title": "Kvartal Idag: Var fjärde rödgrön väljare vill inte ha V i regeringen",
       "link": "https://pod.space/kvartal/kvartal-idag-var-fjarde-rodgron-valjare-vill-inte-ha-v-i-regeringen",
-      "description": "Kan påverka S vid en valvinst. Så kontrollerar kriminella välfärden. Svenska partier är misstänksamma mot Kina. Programledare: Nathalie Rothschild.",
+      "description": "Kan påverka S vid en valvinst. Så kontrollerar kriminella välfärden. Svenska partier är misstänksamma mot Kina. Och influerare förändrar golfen. Programledare: Nathalie Rothschild.",
       "pubDate": "2026-08-27T13:46:36Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
@@ -263,9 +424,21 @@
       "topics": []
     },
     {
+      "title": "Inläst: Klimatfilmen som fick mig att stänga av",
+      "link": "https://pod.space/kvartal/inlast-klimatfilmen-som-fick-mig-att-stanga-av",
+      "description": "När jag var femton såg jag en film som fick mig att tro att jordens undergång var nära. Men människorna omkring mig fortsatte som vanligt. Till slut gjorde jag det också, skriver Linda Shanwell. Inläsare: Ella Öfwerman",
+      "pubDate": "2026-08-27T04:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
       "title": "Kvartal Idag: Socialdemokraternas tapp gör blockstriden jämnare",
       "link": "https://pod.space/kvartal/kvartal-idag-socialdemokraternas-tapp-gor-blockstriden-jamnare",
-      "description": "De osäkra är nyckeln, enligt statsvetare. Oväntat stöd för misstänkt barnamördare. Och därför märks knappt viktigaste valfrågan. Programledare: Cassandra Alm.",
+      "description": "De osäkra är nyckeln, enligt statsvetare. Oväntat stöd för misstänkt barnamördare. Sjukvårdare attackeras i Kongo. Och därför märks knappt viktigaste valfrågan. Programledare: Cassandra Alm.&nbsp;",
       "pubDate": "2026-08-26T13:56:16Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
@@ -277,7 +450,7 @@
     {
       "title": "Kvartal Idag: Jomshof: En svensk statsminister kan inte vara muslim",
       "link": "https://pod.space/kvartal/kvartal-idag-jomshof-en-statsminister-kan-inte-vara-muslim",
-      "description": "Går emot Jimmie Åkesson om islam. Försvarsmakten larmar om ryss på Muskö. Programledare: Staffan Dopping.",
+      "description": "Går emot Jimmie Åkesson om islam. Försvarsmakten larmar om ryss på Muskö. Europadomstolen kräver att aktivist friges. Och kinesisk robot snabbare än Usain Bolt. Programledare: Staffan Dopping.",
       "pubDate": "2026-08-25T13:46:51Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
@@ -288,21 +461,34 @@
       ]
     },
     {
+      "title": "Inläst: V höll riksdagsseminarium med dömd terrorist",
+      "link": "https://pod.space/kvartal/inlast-v-holl-riksdagsseminarium-med-domd-terrorist",
+      "description": "Den 22 oktober 2025 arrangerade Vänsterpartiet ett seminarium i riksdagen i samarbete med Palestinska riksförbundet där två före detta fångar i israeliska fängelser deltog via länk. En av dem, Hussam Shaheen, dömdes 2004 till 27 års fängelse för mordförsök och stämpling till mord. Av Nathalie Rothshild Inläsare: Nathalie Rothshild",
+      "pubDate": "2026-08-22T04:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Veckopanelen: Vi pratar inte om det som är viktigt på riktigt",
       "link": "https://pod.space/kvartal/veckopanelen-vi-pratar-inte-om-det-som-ar-viktigt-pa-riktigt",
-      "description": "Veckopanelen med Emil Källström, Stefan Stern och Pernilla Zethraeus under ledning av Magnus Thorén. Är loppet kört för Tidö och ligger vägen nu öppen för mittens rike med Centerpartiet i en nyckelroll?",
+      "description": "Veckopanelen med Emil Källström, Stefan Stern och Pernilla Zethraeus under ledning av Magnus Thorén. Är loppet kört för Tidö och ligger vägen nu öppen för ”mittens rike” med Centerpartiet i en nyckelroll? SD vill benåda dem som döms för förtal av pedofiler. Zelenskyj utmanas om makten i Ukraina – och är regeringens utspel om att motverka så kallad tvångsblandning i villaområden ett sista försök att skrämma magdamoderater?",
       "pubDate": "2026-08-22T03:35:00Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": [
+        "M",
         "C"
       ]
     },
     {
       "title": "Partiet och sakfrågan: C och migrationen",
       "link": "https://pod.space/kvartal/partiet-och-sakfragan-c-och-migrationen",
-      "description": "Centern skickade Niels Paarup-Petersen för att prata migration: Varför anser C att regeringens lönegolv för arbetskraftsinvandrare är skadligt för svensk ekonomi? Programledare: Jörgen Huitfeldt.",
+      "description": "I Kvartals intervjuserie Partiet och sakfrågan väljer partierna själva vem som deltar och vilket ämne intervjun ska handla om. Centern skickade Niels Paarup-Petersen för att prata migration: Varför anser C att regeringens lönegolv för arbetskraftsinvandrare är skadligt för svensk ekonomi? Varför ska de som betalar mer i skatt få bli medborgare snabbare än andra? Och vad tänker partiet idag om Annie Lööfs resonemang om att Sverige skulle kunna ta emot 30-40 miljoner migranter? Programledare: Jörgen Huitfeldt",
       "pubDate": "2026-08-21T10:40:00Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
@@ -310,21 +496,48 @@
       "topics": []
     },
     {
+      "title": "Rak höger: \"Jomshof borde flytta hem till Finland\"",
+      "link": "https://pod.space/kvartal/rak-hoger-richard-jomshof-borde-flytta-hem-till-finland",
+      "description": "I filmen Flaggan blir allas fördomar om alla bekräftade – eller blir de? Är filmen SD-fientlig, eller gullar den tvärtom med Sverigevännerna? Ivar Arpi frågar skaparen Michael Lindgren om svenskhet, fördomar och den hycklande urbana medelklassen. Mer oenighet uppstår när Lindgren pratar om hur svenskt islam är och att Richard Jomshof borde flytta hem till Finland.",
+      "pubDate": "2026-08-20T04:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "MP"
+      ]
+    },
+    {
       "title": "Djupet: Är valet redan avgjort?",
       "link": "https://pod.space/kvartal/djupet-ar-valet-redan-avgjort",
-      "description": "För den som bygger sin verklighetsbild på opinionsmätningar tycks det redan klart: Tidöpartierna förlorar och S bildar regering. Med Dan Hedlin, Tommy Möller, Karin Nelsson och Märta Stenevi.",
+      "description": "För den som bygger sin verklighetsbild på opinionsmätningar tycks det redan klart: Tidöpartierna förlorar och S bildar regering. Men vad vet vi om hur säkra mätningarna är, hur de görs och hur de påverkar väljare och politiker? Med Dan Hedlin, professor i statistik, Tommy Möller, professor i statsvetenskap, Karin Nelsson, vd för Demoskop och Märta Stenevi, tidigare språkrör för Miljöpartiet. Programledare: Jörgen Huitfeldt.",
       "pubDate": "2026-08-16T03:30:00Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": [
+        "MP",
         "Opinion"
+      ]
+    },
+    {
+      "title": "Veckopanelen: När makt står på spel blir motståndaren fiende",
+      "link": "https://pod.space/kvartal/veckopanelen-nar-makt-star-pa-spel-blir-motstandaren-fiende",
+      "description": "Veckopanelen med Tomas Eneroth, Madina Refoi och Richard Sörman under ledning av Staffan Dopping.&nbsp; Regeringen vann omröstningen om slopad mängdrabatt i straffrätten, men hur djup är klyftan mellan Tidö och Socialdemokraterna? Magdalena Andersson håller hårt i frågan om avskaffad karensdag och vill också införa en bankskatt. Var står Centern i detta? Gapet i opinionen tycks minska, och sverigedemokraten Richard Jomshof talar ut om varför han använde ordet quisling om två socialdemokrater.",
+      "pubDate": "2026-08-15T03:40:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "SD"
       ]
     },
     {
       "title": "Partiet och sakfrågan: V och välfärden",
       "link": "https://pod.space/kvartal/partiet-och-sakfragan-v-och-valfarden",
-      "description": "Från Vänsterpartiet är det ekonomiskpolitiska talespersonen Ida Gabrielsson som talar om hur partiet vill förändra socialförsäkringen.",
+      "description": "I Kvartals intervjuserie Partiet och sakfrågan väljer partierna själva vem som deltar och vilket ämne intervjun ska handla om. Från Vänsterpartiet är det ekonomiskpolitiska talespersonen Ida Gabrielsson som talar om hur partiet vill förändra socialförsäkringen, hur hon ser på varningarna om att mer behovsstyrda regler kan leda till ökat fusk och varför hon är övertygad om att ”marknadsskolan” på sikt kommer att avskaffas.",
       "pubDate": "2026-08-14T10:50:00Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
@@ -334,40 +547,28 @@
       ]
     },
     {
-      "title": "Partiet och sakfrågan: M och ekonomin",
-      "link": "https://pod.space/kvartal/partiet-och-sakfragan-m-och-ekonomin",
-      "description": "Elisabeth Svantesson, moderat finansminister intervjuas av Jörgen Huitfeldt. Hur hushållen ska stärkas och hur Sverige ska finansiera växande utgifter för försvar, välfärd och infrastruktur.",
-      "pubDate": "2026-08-07T10:40:00Z",
+      "title": "Inläst: Kanske ett förräderi – mot god journalistik",
+      "link": "https://pod.space/kvartal/inlast-kanske-ett-forraderi-mot-god-journalistik",
+      "description": "Aftonbladets Anders Lindberg är ingen quisling. Och Jomshofs anklagelse är ett övertramp. Men Aftonbladet kanske kan sägas ha förrått någonting annat vid återkommande tillfällen – den goda journalistiken, skriver Kvartals Magnus Thorén. Inläsare: Magnus Thorén",
+      "pubDate": "2026-08-14T04:30:00Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Partiet och sakfrågan: KD och värderingarna",
-      "link": "https://pod.space/kvartal/partiet-och-sakfragan-kd-och-varderingarna",
-      "description": "Hans Eklind, riksdagsledamot för Kristdemokraterna intervjuas av Jörgen Huitfeldt. KD ville prata om värderingar, jämställdhet och yttrandefrihet.",
-      "pubDate": "2026-07-31T10:45:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "KD",
+        "SD",
         "MP"
       ]
     },
     {
-      "title": "Partiet och sakfrågan: L och skolan",
-      "link": "https://pod.space/kvartal/partiet-och-sakfragan-l-och-skolan",
-      "description": "Liberalernas andre vice partiordförande Lotta Edholm intervjuas av Magnus Thorén om varför hon vill öka statens kontroll i skolan.",
-      "pubDate": "2026-07-24T10:50:00Z",
+      "title": "Kvartal Idag: Därför ökar Tidö i opinionen nu",
+      "link": "https://pod.space/kvartal/kvartal-idag-darfor-okar-tido-i-opinionen-nu",
+      "description": "Men L står och stampar. Spermabrist i hela Sverige. Rysk journalist: Putin kan inte vinna. Och Jomshofs första intervju sedan quisling-gate. Programledare: Cassandra Alm.&nbsp;",
+      "pubDate": "2026-08-13T13:48:05Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": [
-        "L"
+        "SD"
       ]
     }
   ]
