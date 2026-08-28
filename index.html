@@ -711,8 +711,14 @@
     transition:border-color .15s ease, background .15s ease;
   }
   .news-collapse-header:hover{border-color:var(--focus); background:var(--paper);}
-  .news-collapse-title{display:flex; flex-direction:column; align-items:flex-start; gap:6px;}
-  .news-collapse-categories{font-size:22px; opacity:0.85; letter-spacing:4px;}
+  .news-collapse-title{display:flex; flex-direction:column; align-items:flex-start; gap:8px;}
+  .news-collapse-categories{display:flex; gap:18px;}
+  .news-collapse-cat{
+    display:flex; flex-direction:column; align-items:center; gap:2px;
+    font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:600;
+    text-transform:uppercase; letter-spacing:.04em; color:var(--ink-soft); opacity:0.85;
+  }
+  .news-collapse-cat-icon{font-size:22px;}
   .news-collapse-header-right{display:flex; align-items:center; gap:8px;}
   .news-collapse-hint{
     font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:600;
@@ -733,7 +739,10 @@
   }
   .news-topic-chip:hover{border-color:var(--focus); color:var(--ink);}
   .news-topic-chip.active{background:var(--focus); border-color:var(--focus); color:#fff;}
-  .news-list{display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line); max-width:760px;}
+  .news-list{
+    display:flex; flex-direction:column; gap:1px; background:var(--line); border:1px solid var(--line);
+    max-width:760px; max-height:900px; overflow-y:auto;
+  }
   .news-item{
     background:var(--card); padding:16px 20px; text-decoration:none; display:block;
     transition:background .12s ease;
@@ -911,7 +920,11 @@
       <button class="news-collapse-header" id="newsCollapseHeader">
         <span class="news-collapse-title">
           <span class="section-label" style="margin:0;">Senaste nytt om valet</span>
-          <span class="news-collapse-categories">📰 💬 🎙️</span>
+          <span class="news-collapse-categories">
+            <span class="news-collapse-cat"><span class="news-collapse-cat-icon">📰</span>Nyheter</span>
+            <span class="news-collapse-cat"><span class="news-collapse-cat-icon">💬</span>Bloggar</span>
+            <span class="news-collapse-cat"><span class="news-collapse-cat-icon">🎙️</span>Poddar</span>
+          </span>
         </span>
         <span class="news-collapse-header-right">
           <span class="news-collapse-hint" id="newsCollapseHint">Visa</span>
