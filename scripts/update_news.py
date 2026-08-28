@@ -11,6 +11,17 @@ Sources:
   - Sveriges Radio Ekot (Atom)    - public service, politically neutral
   - Aftonbladet (RSS 2.0)         - independent, generally left-of-centre
   - Svenska Dagbladet (RSS 2.0)   - independent, generally right-of-centre
+  Blogs (opinion/commentary, not news reporting) - all six verified as
+  genuinely widely-known rather than small/niche circles (concrete
+  follower counts, external press coverage, or comparable-institution
+  validation - see the comment on each entry below for specifics):
+    - Ledarsidorna  - nationalist-adjacent right-wing commentary
+    - Jens Ganman   - right-leaning satirist/columnist
+    - Kvartal       - right-of-centre intellectual magazine, hundreds of
+                       thousands of monthly readers/listeners
+    - Dagens Arena  - independent, investigative, progressive
+    - Svensson      - one of Sweden's most-read individual political blogs
+    - Parabol       - left-intellectual magazine, comparable to Kvartal/Axess
   Deliberately spans the spectrum: SVT/SR are legally required to stay
   neutral, but Aftonbladet and SvD are independent papers with genuinely
   different editorial leanings, so mixing all four gives a more balanced
@@ -203,6 +214,75 @@ SOURCES = [
         "format": "rss",
         "type": "blog",
     },
+    {
+        # Right-leaning satirist/columnist. Verified well-known, not niche:
+        # ranked in Favikon's "Top 20 X Influencers in Sweden 2026" list,
+        # own Substack states 14K+ subscribers directly, profiled by Fokus
+        # magazine. RSS URL uses Substack's own officially documented
+        # convention (support.substack.com), so - unlike several other
+        # blog entries here - this one is confirmed, not inferred.
+        "name": "Jens Ganman",
+        "domain": "jensganman.substack.com",
+        "feed_url": "https://jensganman.substack.com/feed",
+        "format": "rss",
+        "type": "blog",
+    },
+    {
+        # Left-intellectual magazine co-founded 2023 by journalist/author
+        # Kajsa Ekis Ekman (not her own small personal Substack, which has
+        # only ~hundreds of subscribers - this is her actual current
+        # primary outlet). Verified well-known: Aftonbladet's own coverage
+        # explicitly frames it as the left's counterpart to the
+        # established magazines Kvartal and Axess, and its contributor
+        # roster includes notable figures like sociologist Göran Therborn
+        # and musician Mikael Wiehe. Feed URL is an educated guess based on
+        # the .press domain (commonly a Ghost-platform publication, whose
+        # default RSS path is /rss/) rather than directly confirmed - if
+        # wrong, this source simply fails independently without affecting
+        # others.
+        "name": "Parabol",
+        "domain": "parabol.press",
+        "feed_url": "https://www.parabol.press/rss/",
+        "format": "rss",
+        "type": "blog",
+    },
+]
+
+PODCAST_SOURCES = [
+    {
+        # Right-of-centre (self-described independent, but per Wikipedia
+        # "repeatedly labeled a right-wing publication by commentators on
+        # the left" - the same contested-positioning pattern as
+        # Ledarsidorna) intellectual media house founded 2016. Verified
+        # genuinely widely-known, not niche: its own channel states
+        # hundreds of thousands of readers/listeners monthly - an order of
+        # magnitude above every blog entry above - and it was
+        # independently used by Aftonbladet as the reference point for
+        # describing Parabol's significance (see above), not something
+        # Kvartal claims about itself. This is their CONFIRMED podcast
+        # feed (verified live via direct fetch, current episodes include
+        # a same-day interview with Finance Minister Svantesson) - not the
+        # earlier guessed text-article URL, which has been dropped now
+        # that this real feed is in use instead.
+        "name": "Kvartal",
+        "domain": "kvartal.se",
+        "feed_url": "https://feed.pod.space/kvartal",
+        "format": "rss",
+        "type": "podcast",
+    },
+    {
+        # Sveriges Radio's flagship daily current-affairs/politics
+        # program - public service, politically neutral, the same
+        # standing as SR's Ekot in the news list above. Feed URL
+        # confirmed via two independent sources (a podcast directory
+        # listing and a direct fetch of the feed itself, showing real
+        # current episodes).
+        "name": "Studio Ett",
+        "domain": "sverigesradio.se",
+        "feed_url": "https://api.sr.se/api/rss/pod/4021",
+        "format": "rss",
+        "type": "podcast",
+    },
 ]
 
 
@@ -293,8 +373,9 @@ def fetch_atom_items(source):
 def main():
     all_items = []
     failures = []
+    all_sources = SOURCES + PODCAST_SOURCES
 
-    for source in SOURCES:
+    for source in all_sources:
         try:
             fetcher = fetch_rss_items if source["format"] == "rss" else fetch_atom_items
             raw_items = fetcher(source)
@@ -319,26 +400,28 @@ def main():
         sys.exit(0)
 
     # Sort newest-first; items with no parseable date sink to the bottom
-    # rather than crashing the sort. News and blogs are split into
-    # separate, independently-capped lists so one type can't crowd out
-    # the other on the frontend's two tabs.
+    # rather than crashing the sort. News, blogs, and podcasts are split
+    # into separate, independently-capped lists so one type can't crowd
+    # out the others on the frontend's three tabs.
     all_items.sort(key=lambda it: it["pubDate"] or "", reverse=True)
     news_items = [it for it in all_items if it["sourceType"] == "news"][:MAX_ITEMS]
     blog_items = [it for it in all_items if it["sourceType"] == "blog"][:MAX_ITEMS]
+    podcast_items = [it for it in all_items if it["sourceType"] == "podcast"][:MAX_ITEMS]
 
     output = {
         "updated_at": datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z"),
-        "sources": [{"name": s["name"], "url": s["feed_url"], "type": s["type"]} for s in SOURCES],
+        "sources": [{"name": s["name"], "url": s["feed_url"], "type": s["type"]} for s in all_sources],
         "news": news_items,
         "blogs": blog_items,
+        "podcasts": podcast_items,
     }
 
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"Updated data/news.json with {len(news_items)} news items and {len(blog_items)} blog items:")
-    for it in news_items + blog_items:
+    print(f"Updated data/news.json with {len(news_items)} news, {len(blog_items)} blog, {len(podcast_items)} podcast items:")
+    for it in news_items + blog_items + podcast_items:
         print(f"  - [{it['sourceType']}/{it['source']}] {it['title']}")
 
 
