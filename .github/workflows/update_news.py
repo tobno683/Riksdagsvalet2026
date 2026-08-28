@@ -311,6 +311,29 @@ PODCAST_SOURCES = [
         # Trust the outlet instead of keyword-matching each episode.
         "always_relevant": True,
     },
+    {
+        # Expressen's own political-desk podcast, hosted by named
+        # political correspondents (Viktor Barth-Kron and colleagues) -
+        # liberal-conservative leaning, same institutional backing as
+        # Expressen's news feed above (already verified). Feed URL
+        # confirmed directly via a podcast directory listing showing the
+        # real underlying feed, with genuinely current 2026 election
+        # content (episode dated June 2026 discussing Dadgostar, a fresh
+        # SCB opinion poll, and Tidö tensions).
+        #
+        # Note: I searched specifically for an equally well-confirmed
+        # left-leaning podcast counterpart (e.g. Aftonbladet's "En runda
+        # till") to keep the podcast tab balanced the way the blog tab is,
+        # but could not find a directly confirmed feed URL for one within
+        # reasonable search effort. Worth revisiting - the podcast tab
+        # currently leans right/neutral (Kvartal, this, Studio Ett) with
+        # no confirmed left-leaning entry yet.
+        "name": "Politikrummet",
+        "domain": "expressen.se",
+        "feed_url": "https://feed.pod.space/politikrummet",
+        "format": "rss",
+        "type": "podcast",
+    },
 ]
 
 
