@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T17:15:43.346370Z",
+  "updated_at": "2026-08-29T19:50:29.296462Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -74,7 +74,32 @@
   ],
   "news": [
     {
-      "title": "Busch: Åkesson vet att han kan lita på mig",
+      "title": "29 augusti: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/29-augusti-missa-inte-dagens-nyheter/",
+      "description": "Kung Hakkon höll minnestal till sin far, polis tvingar med femåring i viralt klipp och här går gränsen för att stödrösta på Liberalerna – här är nyheterna du inte får missa från dagen.",
+      "pubDate": "2026-08-29T18:59:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Kan ett bråk med Busch rädda SD?",
+      "link": "https://www.svd.se/a/2pJ2Rv/kan-ett-brak-med-busch-radda-sd",
+      "description": "Ett gräl med Ebba Busch räddar nog inte Jimmie Åkessons valrörelse. Men kanske är det inte heller det han är ute efter.",
+      "pubDate": "2026-08-29T18:48:48Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Busch: Vet att han kan lita på mig",
       "link": "https://www.svd.se/a/m0pkLp/akesson-kritiserar-busch-for-flirt-med-socialdemokraterna",
       "description": "Jimmie Åkesson kritiserar Ebba Busch för att flirta med oppositionen, och frågar sig om han kan lita på sin samarbetspartner. Men KD-ledaren tycks inte berörd. ”Han vet att han kan lita på mig”, säger hon.",
       "pubDate": "2026-08-29T17:06:28Z",
@@ -245,31 +270,6 @@
         "S",
         "SD",
         "KD"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson går till attack mot Ebba Busch",
-      "link": "https://www.expressen.se/nyheter/politik/har-haller-akesson-sitt-sommartal/",
-      "description": "SD-ledaren Jimmie Åkesson är kritisk till KD:s ”vänsterflörtande” och säger att det är en dålig strategi för det blågula laget. – Går det att lita på Ebba Busch? Riskerar en röst på Kristdemokraterna att bli en röst på Magdalena? Ebba Busch svarar nu på utspelet.&nbsp; – Det är klart att man kan lita på mig, säger hon till TV4 Nyheterna.&nbsp;",
-      "pubDate": "2026-08-29T12:40:03Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Här går gränsen – då dumpar stödröstarna Mohamsson",
-      "link": "https://www.dn.se/sverige/har-gar-gransen-da-dumpar-stodrostarna-mohamsson/",
-      "description": "Kan stödröster rädda Liberalerna? DN/Ipsos har undersökt när väljarna är beredda att chansa på ett parti som ligger illa till. – Liberalerna måste öka rejält i mätningarna för att kunna räkna med hjälp på valdagen, säger Nicklas Källebring på Ipsos.",
-      "pubDate": "2026-08-29T11:25:07Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
       ]
     }
   ],
