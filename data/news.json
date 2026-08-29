@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T19:50:29.296462Z",
+  "updated_at": "2026-08-29T22:05:02.526135Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -73,6 +73,26 @@
     }
   ],
   "news": [
+    {
+      "title": "Trumps försök att ta Grönland kan avgöra valet",
+      "link": "https://www.expressen.se/nyheter/varlden/trumps-forsok-att-ta-gronland-kan-avgora-valet/",
+      "description": "I vågskålen ligger rädslan för Trumps oblyga försök att ta över närbelägna Grönland.&nbsp; Men även en oro för det inhemska fisket.&nbsp; I dag röstar islänningarna kring om de ska fortsätta förhandla om EU-medlemskap.&nbsp; Vid midnatt stänger vallokalerna.",
+      "pubDate": "2026-08-29T20:56:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Islands ”maffia” styr EU-valet i det tysta",
+      "link": "https://www.svd.se/a/L4qKrJ/islands-fiskeoligarker-mot-eu-medlemskap",
+      "description": "Islands mäktiga ”fiskemaffia” försöker påverka resultatet i helgens EU-omröstning och vill inte se något inträde i unionen. De befarar att Bryssel vill släppa in andra länder i deras fiskevatten – och börja strida om den isländska ”oljan”.",
+      "pubDate": "2026-08-29T20:04:42Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "29 augusti: Missa inte dagens nyheter",
       "link": "https://www.dn.se/varlden/29-augusti-missa-inte-dagens-nyheter/",
@@ -238,33 +258,6 @@
       "pubDate": "2026-08-29T13:13:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Åkesson i sommartal: Går det att lita på Busch?",
-      "link": "https://www.svd.se/a/vrbLM5/akesson-i-sommartal-gar-det-att-lita-pa-ebba-busch",
-      "description": "",
-      "pubDate": "2026-08-29T12:46:38Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Åkesson attackerar Busch: Går det att lita på KD?",
-      "link": "https://www.svd.se/a/430229/akesson-attackerar-busch-gar-det-att-lita-pa-kd",
-      "description": "SD-ledaren Jimmie Åkesson ger sig på sina egna Tidökollegor i sitt sommartal. – Går det att lita på KD? frågar han sig efter Ebba Buschs återkommande blinkningar till S-ledaren Magdalena Andersson. Jodå, det går att lita på mig, svarar Ebba Busch.",
-      "pubDate": "2026-08-29T12:42:58Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
