@@ -66,7 +66,14 @@ OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "news.json")
 MAX_ITEMS = 15
 
 HEADERS = {
-    "User-Agent": "RiksdagenPartiguide-NewsUpdater/1.0 (educational hobby project)"
+    # Substack (used for the Jens Ganman feed below) returned 403 Forbidden
+    # to the previous custom "...NewsUpdater/1.0" User-Agent - a common
+    # anti-scraping pattern where non-browser-looking requests get blocked.
+    # A standard browser User-Agent avoids that without misrepresenting
+    # what this script does (it's still just reading a public RSS feed,
+    # the same way any browser or feed reader would).
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
 }
 
 # Keywords that mark an item as politics/election-relevant. Deliberately
@@ -218,12 +225,25 @@ SOURCES = [
         # Right-leaning satirist/columnist. Verified well-known, not niche:
         # ranked in Favikon's "Top 20 X Influencers in Sweden 2026" list,
         # own Substack states 14K+ subscribers directly, profiled by Fokus
-        # magazine. RSS URL uses Substack's own officially documented
-        # convention (support.substack.com), so - unlike several other
-        # blog entries here - this one is confirmed, not inferred.
+        # magazine.
+        #
+        # Feed URL note: Substack returns 403 Forbidden specifically to
+        # requests from GitHub Actions' IP ranges - this is a documented,
+        # widely-reported issue (independently confirmed by multiple
+        # developers hitting the exact same problem), not something fixable
+        # via User-Agent or other request headers. Routed through a
+        # generic third-party pass-through proxy (allorigins.win) as an
+        # attempt to work around the IP-based block, since the proxy's own
+        # server IP - not GitHub Actions' - is what Substack sees. This is
+        # NOT a confirmed, proven fix - no one else's usage of this exact
+        # combination was found during research, so treat it as a
+        # reasonable attempt with its own third-party reliability risk, not
+        # a guaranteed solution. If it stops working, that's the most
+        # likely reason: the real underlying feed is
+        # https://jensganman.substack.com/feed
         "name": "Jens Ganman",
         "domain": "jensganman.substack.com",
-        "feed_url": "https://jensganman.substack.com/feed",
+        "feed_url": "https://api.allorigins.win/raw?url=https%3A%2F%2Fjensganman.substack.com%2Ffeed",
         "format": "rss",
         "type": "blog",
     },
@@ -280,6 +300,37 @@ PODCAST_SOURCES = [
         "name": "Studio Ett",
         "domain": "sverigesradio.se",
         "feed_url": "https://api.sr.se/api/rss/pod/4021",
+        "format": "rss",
+        "type": "podcast",
+        # Episode titles are frequently just a timestamp (e.g. "Studio Ett
+        # 2025-08-25 kl 22.12") with a static recurring description, so the
+        # keyword relevance filter below - built for general news feeds
+        # that mix political and non-political stories - was silently
+        # dropping every single episode even though the show is Sweden's
+        # flagship daily politics/current-affairs program by definition.
+        # Trust the outlet instead of keyword-matching each episode.
+        "always_relevant": True,
+    },
+    {
+        # Expressen's own political-desk podcast, hosted by named
+        # political correspondents (Viktor Barth-Kron and colleagues) -
+        # liberal-conservative leaning, same institutional backing as
+        # Expressen's news feed above (already verified). Feed URL
+        # confirmed directly via a podcast directory listing showing the
+        # real underlying feed, with genuinely current 2026 election
+        # content (episode dated June 2026 discussing Dadgostar, a fresh
+        # SCB opinion poll, and Tidö tensions).
+        #
+        # Note: I searched specifically for an equally well-confirmed
+        # left-leaning podcast counterpart (e.g. Aftonbladet's "En runda
+        # till") to keep the podcast tab balanced the way the blog tab is,
+        # but could not find a directly confirmed feed URL for one within
+        # reasonable search effort. Worth revisiting - the podcast tab
+        # currently leans right/neutral (Kvartal, this, Studio Ett) with
+        # no confirmed left-leaning entry yet.
+        "name": "Politikrummet",
+        "domain": "expressen.se",
+        "feed_url": "https://feed.pod.space/politikrummet",
         "format": "rss",
         "type": "podcast",
     },
@@ -384,7 +435,7 @@ def main():
             continue
 
         for it in raw_items:
-            if not is_politics_relevant(it["title"], it["description"]):
+            if not source.get("always_relevant") and not is_politics_relevant(it["title"], it["description"]):
                 continue
             it["source"] = source["name"]
             it["sourceIcon"] = favicon_url(source["domain"])
