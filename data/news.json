@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:14:36.455548Z",
+  "updated_at": "2026-08-29T17:15:43.346370Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -74,6 +74,153 @@
   ],
   "news": [
     {
+      "title": "Busch: Åkesson vet att han kan lita på mig",
+      "link": "https://www.svd.se/a/m0pkLp/akesson-kritiserar-busch-for-flirt-med-socialdemokraterna",
+      "description": "Jimmie Åkesson kritiserar Ebba Busch för att flirta med oppositionen, och frågar sig om han kan lita på sin samarbetspartner. Men KD-ledaren tycks inte berörd. ”Han vet att han kan lita på mig”, säger hon.",
+      "pubDate": "2026-08-29T17:06:28Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Ett samarbete i begynnande sönderfall?",
+      "link": "https://www.svt.se/nyheter/inrikes/ett-samarbete-i-begynnande-sonderfall",
+      "description": "Det gnisslar rejält mellan Tidöpartierna just nu. Med ett tufft opinionsläge ligger irritationen nära. SD-ledaren Jimmie Åkessons angrepp på KD-ledaren Ebba Busch är ett tydligt exempel på det.",
+      "pubDate": "2026-08-29T15:34:47Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Från Netanyahus toppgeneral – till hans främsta utmanare",
+      "link": "https://www.dn.se/varlden/fran-netanyahus-toppgeneral-till-hans-framsta-utmanare/",
+      "description": "Han är överbefälhavaren som förlorat sin son i Gazakriget och gjort det till sitt mål att avsätta Benjamin Netanyahu. Gadi Eisenkot, 66, bildade sitt parti för blott ett år sedan – men leder nu i mätningarna inför det israeliska valet i höst. Det har fått Netanyahu-sidan att attackera honom med full kraft.",
+      "pubDate": "2026-08-29T15:17:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Furtenbach: ”Orealistiskt med samarbete mellan KD och S”",
+      "link": "https://www.sverigesradio.se/artikel/9286799",
+      "description": "Inför valet tycker SD-ledaren Jimmie Åkesson att sammanhållningen inom Tidölaget är skakig. Han anser att KD-ledaren Ebba Busch flirtar lite väl mycket med Socialdemokraterna och frågade sig under sitt sommartal: ”Går det att lita på KD och Ebba Busch eller riskerar en röst på KD att vara en röst på Magdalena Andersson?” Hör Ekots inrikespolitiske kommentator Fredrik Furtenbach om Åkessons utspel.",
+      "pubDate": "2026-08-29T14:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Trumps tabbe kan driva Island närmare EU",
+      "link": "https://www.svd.se/a/9pMEOl/folkomrostning-om-eu-pa-island",
+      "description": "Donald Trumps felsägningar om att annektera Island i stället för Grönland fick regeringen i Reykjavik att utlysa en folkomröstning om EU. Men valet väcker stormiga känslor.",
+      "pubDate": "2026-08-29T14:58:34Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Allas krig mot alla har börjat",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/allas-krig-mot-alla-har-borjat/",
+      "description": "Kan man lita på Ebba Busch? undrar Jimmie Åkesson. Svaret är förstås både ja och nej, skriver Viktor Barth-Kron.",
+      "pubDate": "2026-08-29T14:39:24Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Sprickan i regeringen efter Buschs sågning",
+      "link": "https://www.expressen.se/nyheter/politik/sprickan-i-regeringen-efter-buschs-sagning/",
+      "description": "Ebba Busch ifrågasätter Moderaternas bedömning av reformutrymmet. Benjamin Dousa (M) tycker inte att KD-ledarens kalkyl går ihop. – Jag litar betydligt mer på Elisabeth Svantesson, säger han. Oenigheten får oppositionen att reagera. – Det är jätteanmärkningsvärt att vice statsministern underkänner prognosen, säger Mikael Damberg (S).",
+      "pubDate": "2026-08-29T14:16:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Åkessons känga till KD: Går det att lita på Ebba Busch?",
+      "link": "https://www.svt.se/nyheter/inrikes/akessons-kanga-till-kd-gar-det-att-lita-pa-ebba-busch",
+      "description": "KD-ledaren Ebba Busch har sagt att hon kan komma att släppa fram Magdalena Andersson (S) som statsminister i fall av ”krig, kris och exceptionellt läge”. Det oroar Sverigedemokraternas Jimmie Åkesson. – Det är uppenbart att man från Ebbas sida haft en slags strategi att flörta vänsterut, säger han till SVT Nyheter.",
+      "pubDate": "2026-08-29T14:09:53Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Åkesson: Buschs S-flört en dålig strategi för de blågula",
+      "link": "https://www.dn.se/sverige/akesson-buschs-s-flort-en-dalig-strategi-for-de-blagula/",
+      "description": "SÖLVESBORG. SD-ledaren Jimmie Åkesson kräver svar från Ebba Busch om när hon är beredd att stötta en socialdemokratisk statsminister. Han frågar sig om man kan lita på Ebba Busch. – Ställer jag frågan öppet så måste man ju ändå svara öppet och då är det svårare att ta tillbaka sen i efterhand, säger Åkesson till DN.",
+      "pubDate": "2026-08-29T14:06:57Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Judiska företrädare kritiska mot politisering av antisemitism: ”Slagträn”",
+      "link": "https://www.svt.se/nyheter/inrikes/judiska-foretradare-kritiska-mot-politisering-av-antisemitism-slagtran",
+      "description": "Simona Mohamsson bär davidsstjärnan när hon attackerar Vänsterpartiet. Jimmie Åkesson poserar med boken @Stoltjude samtidigt som han rasar mot islamism. Judiska företrädare är kritiska mot att antisemitism blir ett slagträ i debatten. – Vi vill inte bli använda som verktyg för att smutskasta andra, säger Naomi Manderman på Judiska ungdomsförbundet.",
+      "pubDate": "2026-08-29T13:34:29Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V",
+        "L"
+      ]
+    },
+    {
+      "title": "Åkessons känga mot Busch: ”Går det att lita på KD”",
+      "link": "https://www.sverigesradio.se/artikel/9286771",
+      "description": "Sverigedemokraternas ledare Jimmie Åkesson håller under lördagen sitt sommartal i Sölvesborg. Han säger sig vara osäker på om han kan fortsätta lita på Tidö-kollegan Ebba Busch (KD). ”Går det att lita på KD och Ebba Busch eller riskerar en röst på KD att vara en röst på Magdalena Andersson”, säger han. Inför valet tycker Åkesson att sammanhållningen inom Tidölaget är skakig. Han menar att KD-ledaren Ebba Busch flirtar lite väl mycket med Socialdemokraterna.",
+      "pubDate": "2026-08-29T13:13:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD"
+      ]
+    },
+    {
       "title": "Åkesson i sommartal: Går det att lita på Busch?",
       "link": "https://www.svd.se/a/vrbLM5/akesson-i-sommartal-gar-det-att-lita-pa-ebba-busch",
       "description": "",
@@ -89,7 +236,7 @@
     {
       "title": "Åkesson attackerar Busch: Går det att lita på KD?",
       "link": "https://www.svd.se/a/430229/akesson-attackerar-busch-gar-det-att-lita-pa-kd",
-      "description": "SD-ledaren Jimmie Åkesson ger sig på sina egna Tidökollegor i sitt sommartal. – Går det att lita på KD? frågar han sig efter Ebba Buschs återkommande blinkningar till Magdalena Andersson.",
+      "description": "SD-ledaren Jimmie Åkesson ger sig på sina egna Tidökollegor i sitt sommartal. – Går det att lita på KD? frågar han sig efter Ebba Buschs återkommande blinkningar till S-ledaren Magdalena Andersson. Jodå, det går att lita på mig, svarar Ebba Busch.",
       "pubDate": "2026-08-29T12:42:58Z",
       "source": "Svenska Dagbladet",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
@@ -103,7 +250,7 @@
     {
       "title": "Jimmie Åkesson går till attack mot Ebba Busch",
       "link": "https://www.expressen.se/nyheter/politik/har-haller-akesson-sitt-sommartal/",
-      "description": "SD-ledaren Jimmie Åkesson ser inte ljust på KD:s ”vänsterflörtande”.&nbsp; Han säger att det är en dålig strategi för det blågula laget. – Går det att lita på Ebba Busch? Riskerar en röst på Kristdemokraterna att bli en röst på Magdalena?",
+      "description": "SD-ledaren Jimmie Åkesson är kritisk till KD:s ”vänsterflörtande” och säger att det är en dålig strategi för det blågula laget. – Går det att lita på Ebba Busch? Riskerar en röst på Kristdemokraterna att bli en röst på Magdalena? Ebba Busch svarar nu på utspelet.&nbsp; – Det är klart att man kan lita på mig, säger hon till TV4 Nyheterna.&nbsp;",
       "pubDate": "2026-08-29T12:40:03Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -123,132 +270,6 @@
       "sourceType": "news",
       "topics": [
         "L"
-      ]
-    },
-    {
-      "title": "Lysande ironier roar i musikalisk Molière",
-      "link": "https://www.svd.se/a/rrGOJ0/recension-tartuffe-med-magnus-krepper-i-regi-av-eirik-stuboe",
-      "description": "Magnus Krepper gör en karismatisk vindflöjel och Peter Andersson förkroppsligar den nyfrälstes godtrogenhet i ”Tartuffe”. I Eirik Stubøs musikaliska regi blir Molière pånyttfödd med en självklar energi och ironi.",
-      "pubDate": "2026-08-29T09:05:44Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "”Satan står på tröskeln till Sveriges riksdag”",
-      "link": "https://www.svd.se/a/Gxn2oJ/markus-allard-satan-star-pa-troskeln-till-riksdagen",
-      "description": "Han har blivit Tidöpartiernas nya huvudvärk. Den arga och virala politikern i Örebro med stor följarskara i sociala medier. I bakgrundssamtal varnar SD-topparna för att en röst på Markus Allard är en ”vaskad” röst. Men det finns debattörer som välkomnar honom.",
-      "pubDate": "2026-08-29T08:29:51Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Techjättar nervösa – donerar till demokrater",
-      "link": "https://www.svd.se/a/OkqlQO/techjattar-nervosa-donerar-till-demokrater",
-      "description": "De amerikanska techbolagen är oroade för att ett maktskifte i representanthuset leder till utredningar och granskning av deras donationer till Trumpprojekt. Nu har allt fler företag börjat flirta med Demokraterna inför mellanårsvalet i höst.",
-      "pubDate": "2026-08-29T08:29:46Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Första samtalet från kung Haakon: ”Bra och nära”",
-      "link": "https://www.dn.se/varlden/forsta-samtalet-fran-kung-haakon-bra-och-nara/",
-      "description": "Ett nära samtal om det personliga i att förlora sin far. Så beskriver statsminister Jonas Gahr Støre samtalet med den nye monarken kort efter kung Haralds död. – När det där telefonsamtalet kom var det tydligt för mig vad det skulle handla om, säger statsministern till Aftenposten.",
-      "pubDate": "2026-08-29T08:29:07Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Tidö: Dömda ska inte få tjäna pengar på musik",
-      "link": "https://www.expressen.se/nyheter/sverige/tido-domda-ska-inte-fa-tjana-pengar-pa-musik/",
-      "description": "Tidöpartierna vill stoppa personer med kriminell bakgrund från att tjäna pengar på musik eller böcker om sin brottslighet. Det är en kränkning mot brottsoffren, anser partierna.",
-      "pubDate": "2026-08-29T08:20:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Tara Moshizi: Grattis alla sköna snubbar – ni vann valet i medierna",
-      "link": "https://www.dn.se/kultur/tara-moshizi-grattis-alla-skona-snubbar-ni-vann-valet-i-medierna/",
-      "description": "Vi behöver inte vänta till mitten av september. Valets stora segrare kan utses redan nu, och det är Den sköna killen. Grattis alla roliga snubbar – ni vann!",
-      "pubDate": "2026-08-29T07:07:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Hemliga V-brevet  varnar för MP: ”Dåligt”",
-      "link": "https://www.expressen.se/nyheter/politik/hemliga-v-brevet--varnar-for-mp-daligt/",
-      "description": "Ett hemligt brev skapar konflikt mellan V och MP i Stockholms stad. Där anklagar Vänstern Miljöpartiet för att vilja förhandla högerut. – Det stämmer inte, säger MP-toppen Lars Strömgren.",
-      "pubDate": "2026-08-29T07:05:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Hammarby har blåst liv i guldstriden: ”Är duell igen”",
-      "link": "https://www.dn.se/sport/hammarby-har-blast-liv-i-guldstriden-ar-duell-igen/",
-      "description": "Guldstriden i herrallsvenskan i fotboll har fått nytt syre. Serieledande Sirius har börjat darra och jagande Hammarby hittat formen. Och nu väntar ett stekhett Stockholmsderby för de grönvita med guldvittring. – Det är bra att det är duell igen, säger anfallaren Victor Lind.",
-      "pubDate": "2026-08-29T06:57:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Ifrågasätter Svantesson",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d2f4116b-90a4-44b5-a64f-328273b0433e",
-      "description": "Busch: Kan finnas mer pengar",
-      "pubDate": "2026-08-29T05:19:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "KD"
-      ]
-    },
-    {
-      "title": "Busch: KD är Tidös hopp",
-      "link": "https://www.svd.se/a/d4p3Lo/busch-kd-ar-tidos-hopp",
-      "description": "KD-ledaren Ebba Busch ser ”en höger med hjärta” som Tidöpartiernas hopp. Och hon håller inte med finansministern om att det är ont om pengar till vallöften.",
-      "pubDate": "2026-08-29T04:45:21Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "S och M i strid om bankskatten – helt olika besked om bolånen",
-      "link": "https://www.svt.se/nyheter/inrikes/s-och-m-i-strid-om-bankskatten-helt-olika-besked-om-bolanen",
-      "description": "”Bolåneskatt” eller bankskatt? Moderaterna räknar med det värsta om den införs. Samtidigt vågar socialdemokraterna inte lova att boräntorna inte blir högre med partiets förslag till ny skatt på bankerna.",
-      "pubDate": "2026-08-29T04:45:12Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
       ]
     }
   ],
