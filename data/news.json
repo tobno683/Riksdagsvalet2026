@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T00:11:45.551697Z",
+  "updated_at": "2026-08-29T07:13:06.842685Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -74,6 +74,156 @@
   ],
   "news": [
     {
+      "title": "Tara Moshizi: Grattis alla sköna snubbar – ni vann valet i medierna",
+      "link": "https://www.dn.se/kultur/tara-moshizi-grattis-alla-skona-snubbar-ni-vann-valet-i-medierna/",
+      "description": "Vi behöver inte vänta till mitten av september. Valets stora segrare kan utses redan nu, och det är Den sköna killen. Grattis alla roliga snubbar – ni vann!",
+      "pubDate": "2026-08-29T07:07:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Hemliga V-brevet  varnar för MP: ”Dåligt”",
+      "link": "https://www.expressen.se/nyheter/politik/hemliga-v-brevet--varnar-for-mp-daligt/",
+      "description": "Ett hemligt brev skapar konflikt mellan V och MP i Stockholms stad. Där anklagar Vänstern Miljöpartiet för att vilja förhandla högerut. – Det stämmer inte, säger MP-toppen Lars Strömgren.",
+      "pubDate": "2026-08-29T07:05:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Hammarby har blåst liv i guldstriden: ”Är duell igen”",
+      "link": "https://www.dn.se/sport/hammarby-har-blast-liv-i-guldstriden-ar-duell-igen/",
+      "description": "Guldstriden i herrallsvenskan i fotboll har fått nytt syre. Serieledande Sirius har börjat darra och jagande Hammarby hittat formen. Och nu väntar ett stekhett Stockholmsderby för de grönvita med guldvittring. – Det är bra att det är duell igen, säger anfallaren Victor Lind.",
+      "pubDate": "2026-08-29T06:57:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Ifrågasätter Svantesson",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d2f4116b-90a4-44b5-a64f-328273b0433e",
+      "description": "Busch: Kan finnas mer pengar",
+      "pubDate": "2026-08-29T05:19:10Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "KD"
+      ]
+    },
+    {
+      "title": "Busch: KD är Tidös hopp",
+      "link": "https://www.svd.se/a/d4p3Lo/busch-kd-ar-tidos-hopp",
+      "description": "KD-ledaren Ebba Busch ser ”en höger med hjärta” som Tidöpartiernas hopp. Och hon håller inte med finansministern om att det är ont om pengar till vallöften.",
+      "pubDate": "2026-08-29T04:45:21Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "S och M i strid om bankskatten – helt olika besked om bolånen",
+      "link": "https://www.svt.se/nyheter/inrikes/s-och-m-i-strid-om-bankskatten-helt-olika-besked-om-bolanen",
+      "description": "”Bolåneskatt” eller bankskatt? Moderaterna räknar med det värsta om den införs. Samtidigt vågar socialdemokraterna inte lova att boräntorna inte blir högre med partiets förslag till ny skatt på bankerna.",
+      "pubDate": "2026-08-29T04:45:12Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Så kan din ekonomi påverkas av ny bankskatt",
+      "link": "https://www.svt.se/nyheter/inrikes/sa-kan-din-ekonomi-paverkas-av-ny-bankskatt",
+      "description": "Bankskatt – bra eller dåligt för din plånbok? Svaret är en vattendelare i valet. Beroende på vilken sida du frågar är extra beskattning av bankerna antingen himmel eller helvete för din privatekonomi om du har bostadslån.",
+      "pubDate": "2026-08-29T04:38:17Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "”Är det dubbelmoral att Birgitta Ed röstar?”",
+      "link": "https://www.svd.se/a/7pxEqK/magdalena-andersson-s-slar-tillbaka-mot-kristerssons-ord-om-hyckleri",
+      "description": "Magdalena Andersson ilsknar till – efter Ulf Kristerssons ord om hennes make och anklagelser om skatte­hyckleri. ”Är det dubbelmoral att han tar ut semester eller att Birgitta Ed röstar? För det var ju M emot”, säger hon.",
+      "pubDate": "2026-08-29T04:30:13Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "”Det bästa Allard vet är om någon kallar honom ett hot mot demokratin”",
+      "link": "https://www.dn.se/sverige/det-basta-allard-vet-ar-om-nagon-kallar-honom-ett-hot-mot-demokratin/",
+      "description": "Örebropartiet och dess ledare Markus Allard har nu präglat Örebropolitiken i två mandatperioder. Det hårda samtalsklimatet i fullmäktige och näthatet har fått flera politiker att hoppa av eller tystna. Fyra örebroare berättar om sina erfarenheter av Markus Allard.",
+      "pubDate": "2026-08-29T04:12:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "”Politik handlar om hot, att sätta den jävla revolvern mot tinningen på dem”",
+      "link": "https://www.dn.se/sverige/politik-handlar-om-hot-att-satta-den-javla-revolvern-mot-tinningen-pa-dem/",
+      "description": "Han var för vänsterextrem för Vänsterpartiet. Nu är han mer nationalistisk än Sverigedemokraterna – vill ”rena nationen” och sparka ut hundratusentals invandrare. Vem är Markus Allard, populisten som fått fem miljoner kronor för att ta Örebropartiet in i Sveriges riksdag?",
+      "pubDate": "2026-08-29T04:12:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Amanda Sokolnicki: SVT sväljer betet – så här dum får inte valrörelsen vara",
+      "link": "https://www.dn.se/ledare/amanda-sokolnicki-svt-svaljer-betet-sa-har-dum-far-inte-valrorelsen-vara/",
+      "description": "Tidöpartierna sade att de – till skillnad från Jimmie Åkessons kritiker – fokuserade på att få saker gjorda. Men hur gick det egentligen?",
+      "pubDate": "2026-08-29T03:09:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Fler än hälften tycker regeringen gör ett bra jobb",
+      "link": "https://www.sverigesradio.se/artikel/9284665",
+      "description": "Väljarnas betyg på regeringen är det högsta hittills under mandatperioden, drygt hälften tycker att den gör ett bra jobb, visar en undersökning från Indikator opinion. Högt betyg får regeringen för brottsbekämpningen och ekonomin, sämst för klimat- och välfärdspolitiken. Väljarnas viktigaste valfråga är fortsatt sjukvården, men prioriteringarna ser annorlunda ut för höger- respektive vänsterväljare, visar Indikator.&nbsp;",
+      "pubDate": "2026-08-29T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Trump: USA tar kontroll över delar av Venezuelas olja",
+      "link": "https://www.sverigesradio.se/artikel/9286655",
+      "description": "\"Den största oljeaffären i världens historia.\" Så beskriver Donald Trump det som i Venezuela tas emot med stor skepsis: nämligen att USA nu enligt landets president kommer ta majoritetskontroll över stora delar av venezolanska oljereserver, mer än 65 miljarder fat råolja. Det kommer göras genom privata partnerskap med amerikanska oljebolag. Trump lovar i sitt meddelande att avtalet kommer dubblera de amerikanska oljereserverna och minska bensinpriserna i USA – en av de frågor som står på dagordningen inför mellanårsvalet i höst. Venezuela är en av världens oljerikaste länder och oljan är en fråga om nationell suveränitet. Även många av de som var positivt inställda till den amerikanska interventionen och tillfångatagandet av Nicolás Maduro är motståndare till en amerikansk kontroll av oljeindustrin.",
+      "pubDate": "2026-08-28T23:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Blir någon här statsminister?",
       "link": "https://www.svd.se/a/PdqoOJ/slaget-om-framtiden-sa-gick-debatten-pa-debaser",
       "description": "När ungdoms­förbunden drabbar samman på Debaser står både Sveriges och deras egen framtid på spel. Jag går dit för att bekanta mig med framtidens makthavare.",
@@ -95,160 +245,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Busch: ”Dags för ett skifte i svensk vård”",
-      "link": "https://www.sverigesradio.se/artikel/9286493",
-      "description": "Kristdemokraternas partiledare Ebba Busch inledde idag sin bussturné i Västerås. Budskapet till väljarna i Västerås var att svensk sjukvård ska blir mer som den i Danmark och Norge - vården ska förstatligas. ”Det är dags att lägga ner de 21 regionerna. Vi är ett Sverige och borde ha en vård”, säger Ebba Busch.",
-      "pubDate": "2026-08-28T15:33:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Utrikesministern om trenden: Vill inte se det",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/utrikesministern-om-trenden-vill-inte-se-det/",
-      "description": "Moderaterna har varit för dåliga på att prata om jämställdhet. Det menar utrikesminister Maria Malmer Stenergard (M) – som upprörs över ”soft girl”-trenden. – Jag vill inte se det, säger hon i ”Viktor möter”.",
-      "pubDate": "2026-08-28T15:27:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "S är på väg rakt mot väggen",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/s-ar-pa-vag-rakt-mot-vaggen/",
-      "description": "Oförmågan att ta Vänsterpartiet på allvar lär sluta i elände – den här gången också.&nbsp;",
-      "pubDate": "2026-08-28T15:00:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Kulturdebatt. ”Så måste nästa regering satsa på litteraturen”",
-      "link": "https://www.dn.se/kultur/sa-maste-nasta-regering-satsa-pa-litteraturen/",
-      "description": "En procent av statsbudgeten till kulturen, läscheckar och tredubblat litteraturstöd — det är några av förslagen som den oberoende Litteraturkommissionen har tagit fram inför valet. ”Bokens framtid angår hela den samlade politiken”, skriver bland andra Sverker Sörlin och Per Wirtén.",
-      "pubDate": "2026-08-28T14:52:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Mätningarna kan missa vissa partier",
-      "link": "https://www.svd.se/a/j0bKgA/partierna-som-opinionsmatningar-brukar-missa",
-      "description": "Inför valet duggar opinionsundersökningarna tätt, men hur träffsäkra är de? Och vad händer om de visar sig vara missvisande? – Det kan ha en psykologisk effekt, säger statsvetaren Annika Fredén.",
-      "pubDate": "2026-08-28T14:49:35Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kristersson: Kungen var en oerhört uppskattad person",
-      "link": "https://www.sverigesradio.se/artikel/9286495",
-      "description": "Statsminister Ulf Kristersson (M) besökte Norges ambassad i Stockholm för att framföra Sveriges kondoleanser efter kung Haralds död. Tillsammans med utrikesminister Maria Malmer Stenergard (M) skrev han i en kondoleansbok och betonade de starka banden mellan Sverige och Norge. Kristersson beskriver kung Harald som en central och djupt uppskattad symbol för Norge.",
-      "pubDate": "2026-08-28T14:31:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "DN Debatt. ”Här är det verkliga skälet till att S vägrar prata med SD”",
-      "link": "https://www.dn.se/debatt/har-ar-det-verkliga-skalet-till-att-s-vagrar-prata-med-sd/",
-      "description": "DN DEBATT. Det har aldrig handlat om ideologi, ”tonen i debatten” eller sakpolitik. Socialdemokraternas beröringsskräck inför SD handlar om något helt annat: Rädslan för att bli av med makt och pengar, att bli avslöjat. Av oss. Inte konstigt att S ryggar undan det existentiella hot som vi utgör, skriver Sverigedemokraternas partisekreterare Mattias Bäckström Johansson.",
-      "pubDate": "2026-08-28T14:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Utredare ska se över kemisk kastrering",
-      "link": "https://www.svt.se/nyheter/inrikes/utredare-ska-se-over-kemisk-kastrering",
-      "description": "Tidöpartierna vill utreda hur barn bättre kan skyddas från pedofiler – bland annat om frivillig kemisk kastrering för att minska risken för återfall.",
-      "pubDate": "2026-08-28T12:30:59Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "M ska skrämmas med sossekaos",
-      "link": "https://www.svd.se/a/bOoz0A/moderaternas-plan-for-att-vinna-valet-skrammas-med-sossekaos",
-      "description": "I valrörelsens elfte timme tar Moderaterna till en klassiker: skrämmas med sossekaos – för att rädda Ulf Kristerssons jobb som statsminister.",
-      "pubDate": "2026-08-28T12:28:11Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Statsministerns tal om kung Harald: ”Minns hans humor och värme”",
-      "link": "https://www.sverigesradio.se/artikel/9286301",
-      "description": "I Norge har statsminister Jonas Gahr Støre hållit ett tv-sänt tal i NRK med anledning av kung Haralds död på fredagsmorgonen. ”En hel nation är i sorg ett folk står i djup tacksamhetsskuld”, sa statsministern. I sitt tal pratade Gahr Støre om att Harald inte lät åldern sätta stopp för sina kungliga uppdrag och välkomnade Kung Haakon VIII och drottning Mette-Marit.",
-      "pubDate": "2026-08-28T12:21:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S om Moderaternas slöserikommission: ”Satte i halsen”",
-      "link": "https://www.dn.se/sverige/s-om-moderaternas-sloserikommission-satte-i-halsen/",
-      "description": "Socialdemokraterna rasar över Moderaternas förslag om en slöserikommission i Stockholms stad. Partierna har vitt skilda åsikter om vad som kan räknas som skatteslöseri och har helt olika syn på stadsskulden.",
-      "pubDate": "2026-08-28T11:51:18Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "S-kritik mot utnämning till nya underrättelsetjänsten: ”Provocerande”",
-      "link": "https://www.svt.se/nyheter/inrikes/han-blir-generaldirektor-for-sveriges-nya-underrattelsetjanst",
-      "description": "Sveriges nya underrättelsetjänst har fått en generaldirektör och en överdirektör. Men tidpunkten för utnämningarna får kritik från Socialdemokraterna. – Det är provocerande att regeringen gör det här bara ett par veckor före valet, säger partiets utrikespolitiska talesperson Morgan Johansson.",
-      "pubDate": "2026-08-28T11:13:40Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Experterna eniga om Haralds betydelse: ”Person folk såg upp till”",
-      "link": "https://www.sverigesradio.se/artikel/9286188",
-      "description": "Att kung Haralds död väcker starka känslor förvånar inte hovexperten Ebba Kleberg von Sydow. Inte heller historikern Dick Harrison, som lyfter kungahusets agerande under andra världskriget som avgörande för den relationen norska folket haft till Harald V. ”Han var en otroligt snäll människa, säger Johan T Lindwall, hovreporter och chefredaktör på Svensk damtidning som får medhåll av Elisabeth Tarras-Wahlberg, tidigare hovmarskalk och informationschef vid Kungliga Hovstaterna.",
-      "pubDate": "2026-08-28T10:42:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     }
   ],
@@ -403,34 +399,21 @@
       "topics": [
         "MP"
       ]
-    },
-    {
-      "title": "BREV 480 – Floder av blod.",
-      "link": "https://jensganman.substack.com/p/brev-480-floder-av-blod",
-      "description": "Babbel med Allard / Babbel med &#197;kesson / Babbel av Karin Ohlsson / Tv&#229; svenska kryptokommunister i New York / Listan med f&#246;retag som h&#246;rt av sig till Nooshi Dadgostar / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 479 – Uppmanar han till mord på Mohamsson ... ?",
-      "link": "https://jensganman.substack.com/p/brev-479-uppmanar-han-till-pa-mord",
-      "description": "Var det verkligen 50 000? / Simonas stora miss i partiledarutfr&#229;gningen / Dadgostar &#8211; ekonomisk analfabet / Ett viktigt tal fr&#229;n 1989 / Kvartoft och Holmberg &#8211; &#228;ntligen p&#229; Jimmies sida / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V",
-        "L"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: Kina säljer knark till våra ungdomar",
+      "link": "https://pod.space/kvartal/veckopanelen-kina-saljer-knark-till-vara-ungdomar",
+      "description": "Veckopanelen med Silvia Kakembo, Andreas Johansson Heinö och Jens Odlander under ledning av Staffan Dopping. Kung Harald V har gått bort, och nu börjar regenttiden för Haakon VIII. Finansministern skådade det ekonomiska ljuset på Harpsund. Gapet mellan oppositionen och Tidöpartierna tycks minska, och Liberalernas ledare Simona Mohamsson har polisanmält hot efter att hon bar en davidsstjärna i en politisk debatt. Skolattacken i Fagersta hade kunnat följas av ännu en, och countrystjärnan Dolly Parton är d",
+      "pubDate": "2026-08-29T03:40:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "L"
+      ]
+    },
     {
       "title": "Partiet och sakfrågan: S och svensk ekonomi",
       "link": "https://pod.space/kvartal/partiet-och-sakfragan-s-och-svensk-ekonomi",
@@ -594,18 +577,6 @@
       "link": "https://pod.space/politikrummet/extra-partiledardebatten-2026",
       "description": "Skarpa utspel och tuffa ordväxlingar. På måndagen möttes partiledarna i valrörelsens första debatt, arrangerad av Expressen och Dagens industri. Hör den i efterhand här. Programledare: Viktor Barth-Kron och Ylva Johansson.",
       "pubDate": "2026-08-18T07:27:54Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "Debatt"
-      ]
-    },
-    {
-      "title": "299. Så var Expressens debatt",
-      "link": "https://pod.space/politikrummet/299-sa-var-expressens-debatt",
-      "description": "Vi analyserar valrörelsens första stora partiledardebatt, som arrangerats av Expressen och Dagens industri. I studion: Filippa Rogvall, Max V Karlsson och Fredrik Öjemar.",
-      "pubDate": "2026-08-17T20:50:14Z",
       "source": "Politikrummet",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "podcast",
