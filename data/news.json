@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T07:13:06.842685Z",
+  "updated_at": "2026-08-29T13:14:36.455548Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -74,6 +74,112 @@
   ],
   "news": [
     {
+      "title": "Åkesson i sommartal: Går det att lita på Busch?",
+      "link": "https://www.svd.se/a/vrbLM5/akesson-i-sommartal-gar-det-att-lita-pa-ebba-busch",
+      "description": "",
+      "pubDate": "2026-08-29T12:46:38Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Åkesson attackerar Busch: Går det att lita på KD?",
+      "link": "https://www.svd.se/a/430229/akesson-attackerar-busch-gar-det-att-lita-pa-kd",
+      "description": "SD-ledaren Jimmie Åkesson ger sig på sina egna Tidökollegor i sitt sommartal. – Går det att lita på KD? frågar han sig efter Ebba Buschs återkommande blinkningar till Magdalena Andersson.",
+      "pubDate": "2026-08-29T12:42:58Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson går till attack mot Ebba Busch",
+      "link": "https://www.expressen.se/nyheter/politik/har-haller-akesson-sitt-sommartal/",
+      "description": "SD-ledaren Jimmie Åkesson ser inte ljust på KD:s ”vänsterflörtande”.&nbsp; Han säger att det är en dålig strategi för det blågula laget. – Går det att lita på Ebba Busch? Riskerar en röst på Kristdemokraterna att bli en röst på Magdalena?",
+      "pubDate": "2026-08-29T12:40:03Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Här går gränsen – då dumpar stödröstarna Mohamsson",
+      "link": "https://www.dn.se/sverige/har-gar-gransen-da-dumpar-stodrostarna-mohamsson/",
+      "description": "Kan stödröster rädda Liberalerna? DN/Ipsos har undersökt när väljarna är beredda att chansa på ett parti som ligger illa till. – Liberalerna måste öka rejält i mätningarna för att kunna räkna med hjälp på valdagen, säger Nicklas Källebring på Ipsos.",
+      "pubDate": "2026-08-29T11:25:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Lysande ironier roar i musikalisk Molière",
+      "link": "https://www.svd.se/a/rrGOJ0/recension-tartuffe-med-magnus-krepper-i-regi-av-eirik-stuboe",
+      "description": "Magnus Krepper gör en karismatisk vindflöjel och Peter Andersson förkroppsligar den nyfrälstes godtrogenhet i ”Tartuffe”. I Eirik Stubøs musikaliska regi blir Molière pånyttfödd med en självklar energi och ironi.",
+      "pubDate": "2026-08-29T09:05:44Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "”Satan står på tröskeln till Sveriges riksdag”",
+      "link": "https://www.svd.se/a/Gxn2oJ/markus-allard-satan-star-pa-troskeln-till-riksdagen",
+      "description": "Han har blivit Tidöpartiernas nya huvudvärk. Den arga och virala politikern i Örebro med stor följarskara i sociala medier. I bakgrundssamtal varnar SD-topparna för att en röst på Markus Allard är en ”vaskad” röst. Men det finns debattörer som välkomnar honom.",
+      "pubDate": "2026-08-29T08:29:51Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Techjättar nervösa – donerar till demokrater",
+      "link": "https://www.svd.se/a/OkqlQO/techjattar-nervosa-donerar-till-demokrater",
+      "description": "De amerikanska techbolagen är oroade för att ett maktskifte i representanthuset leder till utredningar och granskning av deras donationer till Trumpprojekt. Nu har allt fler företag börjat flirta med Demokraterna inför mellanårsvalet i höst.",
+      "pubDate": "2026-08-29T08:29:46Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Första samtalet från kung Haakon: ”Bra och nära”",
+      "link": "https://www.dn.se/varlden/forsta-samtalet-fran-kung-haakon-bra-och-nara/",
+      "description": "Ett nära samtal om det personliga i att förlora sin far. Så beskriver statsminister Jonas Gahr Støre samtalet med den nye monarken kort efter kung Haralds död. – När det där telefonsamtalet kom var det tydligt för mig vad det skulle handla om, säger statsministern till Aftenposten.",
+      "pubDate": "2026-08-29T08:29:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Tidö: Dömda ska inte få tjäna pengar på musik",
+      "link": "https://www.expressen.se/nyheter/sverige/tido-domda-ska-inte-fa-tjana-pengar-pa-musik/",
+      "description": "Tidöpartierna vill stoppa personer med kriminell bakgrund från att tjäna pengar på musik eller böcker om sin brottslighet. Det är en kränkning mot brottsoffren, anser partierna.",
+      "pubDate": "2026-08-29T08:20:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Tara Moshizi: Grattis alla sköna snubbar – ni vann valet i medierna",
       "link": "https://www.dn.se/kultur/tara-moshizi-grattis-alla-skona-snubbar-ni-vann-valet-i-medierna/",
       "description": "Vi behöver inte vänta till mitten av september. Valets stora segrare kan utses redan nu, och det är Den sköna killen. Grattis alla roliga snubbar – ni vann!",
@@ -144,111 +250,21 @@
         "S",
         "M"
       ]
-    },
-    {
-      "title": "Så kan din ekonomi påverkas av ny bankskatt",
-      "link": "https://www.svt.se/nyheter/inrikes/sa-kan-din-ekonomi-paverkas-av-ny-bankskatt",
-      "description": "Bankskatt – bra eller dåligt för din plånbok? Svaret är en vattendelare i valet. Beroende på vilken sida du frågar är extra beskattning av bankerna antingen himmel eller helvete för din privatekonomi om du har bostadslån.",
-      "pubDate": "2026-08-29T04:38:17Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "”Är det dubbelmoral att Birgitta Ed röstar?”",
-      "link": "https://www.svd.se/a/7pxEqK/magdalena-andersson-s-slar-tillbaka-mot-kristerssons-ord-om-hyckleri",
-      "description": "Magdalena Andersson ilsknar till – efter Ulf Kristerssons ord om hennes make och anklagelser om skatte­hyckleri. ”Är det dubbelmoral att han tar ut semester eller att Birgitta Ed röstar? För det var ju M emot”, säger hon.",
-      "pubDate": "2026-08-29T04:30:13Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "”Det bästa Allard vet är om någon kallar honom ett hot mot demokratin”",
-      "link": "https://www.dn.se/sverige/det-basta-allard-vet-ar-om-nagon-kallar-honom-ett-hot-mot-demokratin/",
-      "description": "Örebropartiet och dess ledare Markus Allard har nu präglat Örebropolitiken i två mandatperioder. Det hårda samtalsklimatet i fullmäktige och näthatet har fått flera politiker att hoppa av eller tystna. Fyra örebroare berättar om sina erfarenheter av Markus Allard.",
-      "pubDate": "2026-08-29T04:12:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "”Politik handlar om hot, att sätta den jävla revolvern mot tinningen på dem”",
-      "link": "https://www.dn.se/sverige/politik-handlar-om-hot-att-satta-den-javla-revolvern-mot-tinningen-pa-dem/",
-      "description": "Han var för vänsterextrem för Vänsterpartiet. Nu är han mer nationalistisk än Sverigedemokraterna – vill ”rena nationen” och sparka ut hundratusentals invandrare. Vem är Markus Allard, populisten som fått fem miljoner kronor för att ta Örebropartiet in i Sveriges riksdag?",
-      "pubDate": "2026-08-29T04:12:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Amanda Sokolnicki: SVT sväljer betet – så här dum får inte valrörelsen vara",
-      "link": "https://www.dn.se/ledare/amanda-sokolnicki-svt-svaljer-betet-sa-har-dum-far-inte-valrorelsen-vara/",
-      "description": "Tidöpartierna sade att de – till skillnad från Jimmie Åkessons kritiker – fokuserade på att få saker gjorda. Men hur gick det egentligen?",
-      "pubDate": "2026-08-29T03:09:40Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Fler än hälften tycker regeringen gör ett bra jobb",
-      "link": "https://www.sverigesradio.se/artikel/9284665",
-      "description": "Väljarnas betyg på regeringen är det högsta hittills under mandatperioden, drygt hälften tycker att den gör ett bra jobb, visar en undersökning från Indikator opinion. Högt betyg får regeringen för brottsbekämpningen och ekonomin, sämst för klimat- och välfärdspolitiken. Väljarnas viktigaste valfråga är fortsatt sjukvården, men prioriteringarna ser annorlunda ut för höger- respektive vänsterväljare, visar Indikator.&nbsp;",
-      "pubDate": "2026-08-29T01:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Trump: USA tar kontroll över delar av Venezuelas olja",
-      "link": "https://www.sverigesradio.se/artikel/9286655",
-      "description": "\"Den största oljeaffären i världens historia.\" Så beskriver Donald Trump det som i Venezuela tas emot med stor skepsis: nämligen att USA nu enligt landets president kommer ta majoritetskontroll över stora delar av venezolanska oljereserver, mer än 65 miljarder fat råolja. Det kommer göras genom privata partnerskap med amerikanska oljebolag. Trump lovar i sitt meddelande att avtalet kommer dubblera de amerikanska oljereserverna och minska bensinpriserna i USA – en av de frågor som står på dagordningen inför mellanårsvalet i höst. Venezuela är en av världens oljerikaste länder och oljan är en fråga om nationell suveränitet. Även många av de som var positivt inställda till den amerikanska interventionen och tillfångatagandet av Nicolás Maduro är motståndare till en amerikansk kontroll av oljeindustrin.",
-      "pubDate": "2026-08-28T23:17:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Blir någon här statsminister?",
-      "link": "https://www.svd.se/a/PdqoOJ/slaget-om-framtiden-sa-gick-debatten-pa-debaser",
-      "description": "När ungdoms­förbunden drabbar samman på Debaser står både Sveriges och deras egen framtid på spel. Jag går dit för att bekanta mig med framtidens makthavare.",
-      "pubDate": "2026-08-28T20:01:50Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Tacka aktivismen för att vi har demokrati",
-      "link": "https://www.dn.se/insandare/svar-tacka-aktivismen-for-att-vi-har-demokrati/",
-      "description": "SVAR PÅ INSÄNDARE. Historien upprepar sig när mestadels män talar om för kämpande människor att de borde göra saker på ett annat sätt. Det låter förstås skönt att bara ha det trevligt och stå med mössan i hand, men problemet är att det inte fungerar, skriver klimatpsykologen Kali Andersson.",
-      "pubDate": "2026-08-28T17:31:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "En förändring är möjlig",
+      "link": "https://blog.zaramis.se/2026/08/29/en-forandring-ar-mojlig/",
+      "description": "Vänsterpartiet går till val på ett löfte om att en förändring är möjlig och med den tydliga insikten om att samhällsproblem kräver politiska lösningar. Den nuvarande regeringens strategi är splittrande. Istället för att ta ansvar och försöka lösa de samhällsproblem som Sverige Läs mer … Inlägget En förändring är möjlig dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-08-29T10:46:30Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "“Jag vill inte recensera public service”",
       "link": "https://www.dagensarena.se/innehall/jag-vill-inte-recensera-public-service/",
