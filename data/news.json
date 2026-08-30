@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T15:06:31.565790Z",
+  "updated_at": "2026-08-30T18:41:24.708816Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -73,6 +73,109 @@
     }
   ],
   "news": [
+    {
+      "title": "Furtenbach: ”Åkesson är uppenbarligen inte nöjd”",
+      "link": "https://www.sverigesradio.se/artikel/9287037",
+      "description": "Sverigedemokraternas Jimmie Åkesson har krävt besked från Kristdemokraternas Ebba Busch kring i vilket läge hon kan tänka sig att samarbeta med Socialdemokraterna. Under söndagen reste Ebba Busch till Sölvesborg och för att prata med sin Tidökollega, men på plattformen X krävde Jimmie Åkesson att hon också förklarar sin hållning offentligt. ”Bilden av ett enigt Tidögäng får sig en knäck av detta”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach.",
+      "pubDate": "2026-08-30T18:25:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Han skildrar USA:s andliga kris",
+      "link": "https://www.svd.se/a/43Xgwg/han-skildrar-usa-s-andliga-kris",
+      "description": "George Saunders försöker inte bringa reda i kaoset: han bejakar det i stället. Stefan Lindberg tråcklar sig fram genom ett av våra viktigaste nutida författarskap.",
+      "pubDate": "2026-08-30T18:15:00Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "”Ebba Busch kommer  inte göra en Annie Lööf”",
+      "link": "https://www.expressen.se/nyheter/politik/kristersson-intervjuas-i-hemstaden/",
+      "description": "Statsministern och M-ledaren Ulf Kristersson medverkar under söndagskvällen i SVT:s ”Utfrågningen”.&nbsp; Han frågas direkt ut om bråket mellan Jimmie Åkesson (SD) och Ebba Busch (KD).&nbsp; – Hon kommer inte göra en Annie Lööf, säger Kristersson om Busch och menar att programledarna ”hetsar upp sig”.&nbsp;",
+      "pubDate": "2026-08-30T18:08:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Sverige pressade Frankrike – föll i slutminuterna",
+      "link": "https://www.dn.se/sport/sverige-pressade-frankrike-foll-i-slutminuterna/",
+      "description": "Sverige pressade OS-tvåan Frankrike länge i VM-kvalet – men orkade inte hela vägen. I slutminuterna var bortalaget starkare och vann till slut med 15 poäng. – Till slut hade vi inte energin, men jag är väldigt stolt över laget, säger Ludvig Håkanson.",
+      "pubDate": "2026-08-30T17:19:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "”Hela Tyskland ska vakna och vi ska bli normala människor igen”",
+      "link": "https://www.dn.se/varlden/hela-tyskland-ska-vakna-och-vi-ska-bli-normala-manniskor-igen/",
+      "description": "QUEDLINBURG. På DDR-tillverkade mopeder kör den historiska valrörelsen genom Tyskland. För första gången sedan andra världskriget kan ett högerextremt parti, AFD, bilda delstatsregering. Valet i Sachsen-Anhalt kan förändra Tyskland – och därmed Europa.",
+      "pubDate": "2026-08-30T16:58:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Busch och Åkesson har talat ut – oklart om de är överens",
+      "link": "https://www.sverigesradio.se/artikel/9286989",
+      "description": "Ebba Busch (KD) och Jimmie Åkesson (SD) träffades på söndagen efter Åkessons kritik mot Busch i sitt sommartal. I talet ifrågasatte han om det går att lita på Kristdemokraterna, då partiet öppnat upp för att släppa fram en socialdemokratiskt statsminister i ”ett exceptionellt läge”. Efter söndagens möte beskrev Busch det som att hon och Åkesson \"har rätat ut de frågetecken som finns\", men Åkesson skriver på X att frågan om vad ett \"exceptionellt läge\" innebär behöver redas ut offentligt och inte i ett slutet rum mellan fyra ögon.",
+      "pubDate": "2026-08-30T16:07:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Det händer vid ett maktskifte – experten: ”Total låsning”",
+      "link": "https://www.expressen.se/nyheter/politik/det-hander-vid-ett-maktskifte-experten-total-lasning/",
+      "description": "Oppositionen ser ut att gå mot valseger –&nbsp;men vad händer egentligen vid ett maktskifte? Enligt statsvetarprofessorn Tommy Möller väntar en tuff situation för Magdalena Andersson. – Någon behöver ge med sig.",
+      "pubDate": "2026-08-30T15:50:41Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Skattefrågor splittrar Vänsterpartiet och Centern",
+      "link": "https://www.sverigesradio.se/artikel/9280738",
+      "description": "Centerpartiet och Vänsterpartiet är båda del av oppositionen och möjliga delar av Magdalena Anderssons och socialdemokraternas regeringsunderlag. Men i skattefrågor skiljer de sig åt. Vänsterpartiets ekonomiska talesperson Ida Gabrielsson ser negativt på att skatter har sänkts de senaste åren. Men centerns ekonomiskpolitiska talesperson Martin Ådahl vill sänka skatter, särskilt på arbete.",
+      "pubDate": "2026-08-30T15:16:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Åkessons nya krav på Busch:  ”Det behöver redas ut”",
       "link": "https://www.expressen.se/nyheter/sverige/akessons-nya-krav-pa-busch--det-behover-redas-ut/",
@@ -160,108 +263,6 @@
       "topics": [
         "SD",
         "KD"
-      ]
-    },
-    {
-      "title": "Busch svar efter Åkessons pik: ”Jag står för ett annat ledarskap”",
-      "link": "https://www.dn.se/sverige/busch-svar-efter-akessons-pik-jag-star-for-ett-annat-ledarskap/",
-      "description": "SÖLVESBORG/STRÄNGNÄS. Efter att Jimmie Åkesson ställt frågan om man kan lita på Ebba Busch har de två Tidöledarna druckit kaffe ihop i Sölvesborg. – Jag står för ett annat ledarskap. Jag står för att lyfta fram styrkan i det blågula laget, säger Busch.",
-      "pubDate": "2026-08-30T13:02:22Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Bland pengar och påhopp",
-      "link": "https://www.svd.se/a/rrb380/susanna-popova-simona-mohamsson-och-magdalena-andersson-i-valrorelsen",
-      "description": "Magdalena Andersson får sitt vinnande koncept vridet ur händerna. Och Simona Mohamsson är genial.",
-      "pubDate": "2026-08-30T12:30:00Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
-      "title": "Trump hoppas på lägre bensinpris: ”Inte gratis”",
-      "link": "https://www.svd.se/a/e7Xjn9/trump-hoppas-pa-lagre-bensinpris-inte-gratis",
-      "description": "Trump jublar över oljeavtalet med Venezuela – och hoppas på lägre bensinpriser till kongressvalet. Men detaljerna är oklara. ”Det låter på Trump som om allt kommer gratis, men så kan det inte vara”, säger professor Andrés Rivarola Puntigliano.",
-      "pubDate": "2026-08-30T12:03:27Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Busch i Sölvesborg: ”Vi är på väg mot seger”",
-      "link": "https://www.svd.se/a/JOqjRR/busch-i-solvesborg-vi-ar-pa-vag-mot-seger",
-      "description": "",
-      "pubDate": "2026-08-30T11:49:25Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Kristersson om bråket mellan KD och SD: Inte bekymrad",
-      "link": "https://www.sverigesradio.se/artikel/9286947",
-      "description": "Moderata statsministern Ulf Kristersson kommer inte ställa krav på Ebba Busch att ge tydligare besked kring i vilket läge hon kan tänka sig att samarbeta med Socialdemokraterna. Detta krävde däremot Sverigedemokraternas Jimmie Åkesson i sitt sommartal, då kan också sa att han inte vet om man kan lita på KD. Kristersson ser dock ingen dramatik kring Åkessons utspel: ”Det har varit mycket kramar också – en valrörelse är känsloladdad”.",
-      "pubDate": "2026-08-30T11:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Mohamssons vädjan",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a1f5665f-b0ce-4ab4-8488-489eebd112d7",
-      "description": "Efter Åkessons Busch-känga: ”Färre angrepp”",
-      "pubDate": "2026-08-30T11:40:57Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD",
-        "L"
-      ]
-    },
-    {
-      "title": "Socialdemokraterna: Dubbla prövotiden för sexualbrottslingar",
-      "link": "https://www.sverigesradio.se/artikel/9286944",
-      "description": "Socialdemokraterna lovar en offensiv mot mäns våld mot kvinnor om partiet vinner valet, med skärpta straff och områdesarrest för särskilt hotfulla män. Partiet vill också stoppa nedläggningar av skyddade boenden, medan regeringen tidigare skärpt lagen för att komma åt oseriösa aktörer. I utspelet väger, enligt Teresa Carvalho, kvinnors och barns skydd tyngre än förövarens integritet.",
-      "pubDate": "2026-08-30T11:21:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Vecka 35 i bilder – se världen genom DN-fotografernas ögon",
-      "link": "https://www.dn.se/kultur/vecka-35-i-bilder-se-varlden-genom-dn-fotografernas-ogon-5/",
-      "description": "Hur ser tiden ut? Den här veckan väljer DN:s bildredaktör Petra Lindell ut fem fotografier som speglar Sverige och världen just nu. Här är bilder från vecka 35, 2026.",
-      "pubDate": "2026-08-30T11:04:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     }
   ],
