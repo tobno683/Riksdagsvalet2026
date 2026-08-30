@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T21:42:31.723437Z",
+  "updated_at": "2026-08-30T23:59:40.744041Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -250,15 +250,18 @@
       ]
     },
     {
-      "title": "Det händer vid ett maktskifte – experten: ”Total låsning”",
-      "link": "https://www.expressen.se/nyheter/politik/det-hander-vid-ett-maktskifte-experten-total-lasning/",
-      "description": "Oppositionen ser ut att gå mot valseger –&nbsp;men vad händer egentligen vid ett maktskifte? Enligt statsvetarprofessorn Tommy Möller väntar en tuff situation för Magdalena Andersson. – Någon behöver ge med sig.",
-      "pubDate": "2026-08-30T15:50:41Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Skattefrågor splittrar Vänsterpartiet och Centern",
+      "link": "https://www.sverigesradio.se/artikel/9280738",
+      "description": "Centerpartiet och Vänsterpartiet är båda del av oppositionen och möjliga delar av Magdalena Anderssons och socialdemokraternas regeringsunderlag. Men i skattefrågor skiljer de sig åt. Vänsterpartiets ekonomiska talesperson Ida Gabrielsson ser negativt på att skatter har sänkts de senaste åren. Men centerns ekonomiskpolitiska talesperson Martin Ådahl vill sänka skatter, särskilt på arbete.",
+      "pubDate": "2026-08-30T15:16:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S"
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
       ]
     }
   ],
@@ -330,19 +333,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "“Min dröm är att SD:are och vänsterpartister ska garva åt filmen tillsammans”",
-      "link": "https://www.dagensarena.se/innehall/min-drom-ar-att-sdare-och-vansterpartister-ska-garva-filmen-tillsammans/",
-      "description": "Dagens Arena har träffat Michael Lindgren bioaktuell med komedin “Flaggan”. Inlägget “Min dröm är att SD:are och vänsterpartister ska garva åt filmen tillsammans” dök först upp på Dagens Arena .",
-      "pubDate": "2026-08-27T23:30:03Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V",
-        "MP"
-      ]
     },
     {
       "title": "Vänsterpartiet ansluter sig till det biståndsindustriella eko-systemet",
