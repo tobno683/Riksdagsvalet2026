@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T22:05:02.526135Z",
+  "updated_at": "2026-08-30T00:28:20.580145Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -428,6 +428,18 @@
       "sourceType": "blog",
       "topics": [
         "MP"
+      ]
+    },
+    {
+      "title": "BREV 480 – Floder av blod.",
+      "link": "https://jensganman.substack.com/p/brev-480-floder-av-blod",
+      "description": "Babbel med Allard / Babbel med &#197;kesson / Babbel av Karin Ohlsson / Tv&#229; svenska kryptokommunister i New York / Listan med f&#246;retag som h&#246;rt av sig till Nooshi Dadgostar / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
       ]
     }
   ],
