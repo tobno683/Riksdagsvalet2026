@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T10:49:31.963319Z",
+  "updated_at": "2026-08-30T15:06:31.565790Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -74,101 +74,10 @@
   ],
   "news": [
     {
-      "title": "M vill införa skyddslagstiftning mot kvinnovåld",
-      "link": "https://www.sverigesradio.se/artikel/9286936",
-      "description": "Statsminister Ulf Kristersson (M) lovar hårdare straff mot män som begår brott mot kvinnor under sitt sommartal i Strängnäs. M-ledaren lägger fram tre förslag till skyddslagstiftningen. Ett av dem är att kunna tvångsomhänderta män ”när risken för våld är tydlig”. Kristersson (M) vill också att polisen ska kunna varna potentiella brottsoffer och avlyssna telefoner för att förhindra kvinnovåld.",
-      "pubDate": "2026-08-30T10:29:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Vem är kapten på Kristerssons skuta?",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-vem-ar-kapten-pa-kristerssons-skuta/",
-      "description": "Jimmie Åkesson angriper Ebba Busch och uppmanar högerväljare att inte rösta på Simona Mohamsson. Både Busch och Mohamsson slår tillbaka. När Tidö-skutan sjunker slåss partiledarna om livbåtarna. Frågan är vem som är kapten?",
-      "pubDate": "2026-08-30T10:20:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "KD",
-        "L"
-      ]
-    },
-    {
-      "title": "Kristersson: Farliga män ska tvångsomhändertas",
-      "link": "https://www.svd.se/a/0pk5oA/kristersson-farliga-man-ska-tvangsomhandertas",
-      "description": "Statsminister Ulf Kristersson (M) lovar hårdare tag mot män som begår brott mot kvinnor under sitt sommartal i Strängnäs. Ett av förslagen är att kunna tvångsomhänderta män ”när risken för våld är tydlig”.",
-      "pubDate": "2026-08-30T10:11:31Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Mohamssons vädjan",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a1f5665f-b0ce-4ab4-8488-489eebd112d7",
-      "description": "Efter Åkessons Busch-känga: ”Färre angrepp”",
-      "pubDate": "2026-08-30T09:57:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD",
-        "L"
-      ]
-    },
-    {
-      "title": "Kristersson: Farliga män ska tvångsomhändertas",
-      "link": "https://www.expressen.se/nyheter/politik/kristersson-haller-sommartal-i-strangnas/",
-      "description": "Ulf Kristersson håller sitt sommartal hemma i Strängnäs. Moderaterna vill att farliga män ska kunna tvångsomhändertas. Förslaget är en ny skyddslagstiftning mot mäns våld mot kvinnor.",
-      "pubDate": "2026-08-30T09:49:57Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Chatt: Vad undrar du om klimatpolitiken?",
-      "link": "https://www.svt.se/nyheter/inrikes/chatt-vad-undrar-du-om-klimatpolitiken",
-      "description": "I kväll sänds Agendas klimatpolitiska debatt med representanter från alla åtta riksdagspartier. Redan nu kan du chatta med SVT:s politikreporter Julia Lindvall.",
-      "pubDate": "2026-08-30T08:48:56Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "”Klimatpolitiken ska inte vara symbolisk”",
-      "link": "https://www.svd.se/a/k0bMAk/klimatpolitiken-ska-inte-vara-symbolisk-skriver-romina-pourmokhtari",
-      "description": "Det som är bra för klimatet ska också ska vara bra för svensk ekonomi. Liberalerna vill sätta stopp för den populistiska utvecklingen av klimatfrågan, skriver Romina Pourmokhtari (L).",
-      "pubDate": "2026-08-30T08:00:00Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Busch drar till Sölvesborg",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=1cedf6cb-6c5c-4c1f-b2ac-848aeba7d869",
-      "description": "Efter Åkessons smocka",
-      "pubDate": "2026-08-30T07:37:02Z",
+      "title": "Åkessons nya krav på Busch:  ”Det behöver redas ut”",
+      "link": "https://www.expressen.se/nyheter/sverige/akessons-nya-krav-pa-busch--det-behover-redas-ut/",
+      "description": "Ebba Busch bjöd Jimmie Åkesson på fika efter utspelet om hennes ”vänsterflört”.&nbsp; Trots det kommer hårda tongångar från SD-ledaren. ”Det behöver redas ut offentligt, inte i ett slutet rum mellan fyra ögon”, skriver han på X.&nbsp;",
+      "pubDate": "2026-08-30T14:35:04Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -178,88 +87,181 @@
       ]
     },
     {
-      "title": "Valkompass 2026 – nu med uppdaterade frågor",
-      "link": "https://www.svd.se/a/K8e5gX/valkompass-2026-uppdaterade-fragor",
-      "description": "Vilket parti ligger närmast dina åsikter? Gör SvD:s valkompass 2026 och jämför dina svar med partiernas inför valet den 13 september. Nu uppdaterad med nya, aktuella frågor.",
-      "pubDate": "2026-08-30T05:51:52Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Vilka partier styr Sverige efter valet? – ”Det kommer bli en spännande höst”",
-      "link": "https://www.dn.se/sverige/vilka-partier-styr-sverige-efter-valet-det-kommer-bli-en-spannande-host/",
-      "description": "Kristersson hoppas på ”blågult”, C-ledaren på mitten – och Vänsterpartiet kräver en plats i en regering de stöttar. Det pratas om flera olika regeringskonstellationer just nu. Men hur sannolika är de? – Ingenting är omöjligt, säger Jan Teorell, professor i statsvetenskap, som spår en spännande höst.",
-      "pubDate": "2026-08-30T04:03:32Z",
+      "title": "Island: EU-samtal utesluts under mandatperiod",
+      "link": "https://www.dn.se/varlden/island-eu-samtal-utesluts-under-mandatperiod/",
+      "description": "Island säger nej till EU-förhandlingar i landets folkomröstning. Närmare 53 procent röstade emot medlemskap. Statsminister Kristrún Frostadóttir, som vill gå med i EU, säger att resultatet ”inte är ett bakslag” utan ”en seger för demokratin”.",
+      "pubDate": "2026-08-30T14:24:23Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "V"
-      ]
-    },
-    {
-      "title": "Kristersson som bäst trea när väljare betygsätter partiledarna",
-      "link": "https://www.svt.se/nyheter/inrikes/kristersson-som-bast-trea-nar-valjare-betygsatter-partiledarna",
-      "description": "I väljarnas rankning av partiledarnas positiva egenskaper hamnar Magdalena Andersson högst i de flesta kategorier. Statsministern blir däremot som bäst tre, enligt en undersökning från SVT Verian. – Med tanke på att han är statsminister och leder större parti så är det lite överraskande, säger Tommy Möller, professor i statsvetenskap vid Stockholms universitet.",
-      "pubDate": "2026-08-30T04:02:34Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "SD vill ge kommuner veto mot att ta emot flyktingar",
-      "link": "https://www.sverigesradio.se/artikel/9286428",
-      "description": "Flyktingmottagandet har i många år varit kontroversiellt i kommunerna. Nu vill Sverigedemokraterna ge kommunerna rätt att helt säga nej till att ta emot nyanlända. ”Jag tycker att staten har varit extremt ansvarslös när man har tvingat kommuner att ta emot migranter. Det är fel på alla plan”, Ludvig Aspling, SD:s migrationspolitiska talesperson. I dag gäller den så kallade anvisningslagen och alla kommuner ska ta emot nyanlända personer efter förmåga.",
-      "pubDate": "2026-08-30T00:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Islands ”maffia” styr EU-valet i det tysta",
-      "link": "https://www.svd.se/a/L4qKrJ/islands-fiskeoligarker-mot-eu-medlemskap",
-      "description": "Islands mäktiga ”fiskemaffia” försöker påverka resultatet i helgens EU-omröstning och vill inte se något inträde i unionen. De befarar att Bryssel vill släppa in andra länder i deras fiskevatten – och börja strida om den isländska ”oljan”.",
-      "pubDate": "2026-08-29T20:04:42Z",
+      "title": "Solen sken på förväntad förlorare",
+      "link": "https://www.svd.se/a/JOqjX8/kristersson-talade-med-sjalvfortroende-utan-distraherande-hustru",
+      "description": "En optimistisk statsminister sommartalade i hemstaden utan omskrivna hustrun. När M vill prata skatter och brott bråkar Tidö-kollegorna med varandra.",
+      "pubDate": "2026-08-30T14:15:47Z",
       "source": "Svenska Dagbladet",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
       "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "29 augusti: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/29-augusti-missa-inte-dagens-nyheter/",
-      "description": "Kung Hakkon höll minnestal till sin far, polis tvingar med femåring i viralt klipp och här går gränsen för att stödrösta på Liberalerna – här är nyheterna du inte får missa från dagen.",
-      "pubDate": "2026-08-29T18:59:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
       "topics": [
-        "L"
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "Ett samarbete i begynnande sönderfall?",
-      "link": "https://www.svt.se/nyheter/inrikes/ett-samarbete-i-begynnande-sonderfall",
-      "description": "Det gnisslar rejält mellan Tidöpartierna just nu. Med ett tufft opinionsläge ligger irritationen nära. SD-ledaren Jimmie Åkessons angrepp på KD-ledaren Ebba Busch är ett tydligt exempel på det.",
-      "pubDate": "2026-08-29T15:34:47Z",
+      "title": "Bjöd Åkesson på sockerkaka – efter kängan mot Ebba Busch",
+      "link": "https://www.svt.se/nyheter/inrikes/bjod-akesson-pa-sockerkaka-efter-kangan-mot-ebba-busch",
+      "description": "Ebba Busch har bjudit Jimmie Åkesson (SD) på sockerkaka – efter hans attack mot KD-ledaren tidigare i helgen. – Vi är inte rädda för en nyvalssituation, säger hon.",
+      "pubDate": "2026-08-30T13:55:10Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "S-ledaren upprepar ”varning” om Liseberg och mat till gamla",
+      "link": "https://www.dn.se/sverige/s-ledaren-upprepar-varning-om-liseberg-och-mat-till-gamla/",
+      "description": "En anmälan om billiga skolhyror i Göteborg har åter satt lagen om offentlig säljverksamhet i fokus. S-ledaren Magdalena Andersson menar att den riskerar både Liseberg och restauranger på äldreboenden. Ett utspel som avfärdas av Moderaterna.",
+      "pubDate": "2026-08-30T13:50:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Fouad Youcefi: Här måste Moderaterna stoppa väljarflykten",
+      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-har-maste-moderaterna-stoppa-valjarflykten",
+      "description": "Moderaterna vann statsministerposten 2022 – trots det sämsta valresultatet på 20 år. Inför årets val ser siffrorna dystra ut för M, och de riskerar inte bara att hamna i opposition, utan också att bara bli näst största oppositionsparti. – Nu måste de, som en moderat sa till mig, stoppa väljarflykten i ett specifikt område, säger valreporter Fouad Youcefi.",
+      "pubDate": "2026-08-30T13:30:21Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Busch bjöd Åkesson på sockerkaka: ”På väg mot en blågul seger”",
+      "link": "https://www.expressen.se/nyheter/politik/busch-har-fikat-med-akesson-pa-vag-mot-en-blagul-seger/",
+      "description": "Åkesson kritiserade Ebba Busch för hennes ”vänsterflört” – och Ebba Busch slängde om sin valturné för ett stopp i Sölvesborg. Nu har Busch och Åkesson ”druckit kaffe och ätit kaka” tillsammans. – Vi är på väg mot en blågul seger, säger Ebba Busch i Sölvesborg.",
+      "pubDate": "2026-08-30T13:09:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Busch svar efter Åkessons pik: ”Jag står för ett annat ledarskap”",
+      "link": "https://www.dn.se/sverige/busch-svar-efter-akessons-pik-jag-star-for-ett-annat-ledarskap/",
+      "description": "SÖLVESBORG/STRÄNGNÄS. Efter att Jimmie Åkesson ställt frågan om man kan lita på Ebba Busch har de två Tidöledarna druckit kaffe ihop i Sölvesborg. – Jag står för ett annat ledarskap. Jag står för att lyfta fram styrkan i det blågula laget, säger Busch.",
+      "pubDate": "2026-08-30T13:02:22Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Bland pengar och påhopp",
+      "link": "https://www.svd.se/a/rrb380/susanna-popova-simona-mohamsson-och-magdalena-andersson-i-valrorelsen",
+      "description": "Magdalena Andersson får sitt vinnande koncept vridet ur händerna. Och Simona Mohamsson är genial.",
+      "pubDate": "2026-08-30T12:30:00Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L"
+      ]
+    },
+    {
+      "title": "Trump hoppas på lägre bensinpris: ”Inte gratis”",
+      "link": "https://www.svd.se/a/e7Xjn9/trump-hoppas-pa-lagre-bensinpris-inte-gratis",
+      "description": "Trump jublar över oljeavtalet med Venezuela – och hoppas på lägre bensinpriser till kongressvalet. Men detaljerna är oklara. ”Det låter på Trump som om allt kommer gratis, men så kan det inte vara”, säger professor Andrés Rivarola Puntigliano.",
+      "pubDate": "2026-08-30T12:03:27Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Busch i Sölvesborg: ”Vi är på väg mot seger”",
+      "link": "https://www.svd.se/a/JOqjRR/busch-i-solvesborg-vi-ar-pa-vag-mot-seger",
+      "description": "",
+      "pubDate": "2026-08-30T11:49:25Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Kristersson om bråket mellan KD och SD: Inte bekymrad",
+      "link": "https://www.sverigesradio.se/artikel/9286947",
+      "description": "Moderata statsministern Ulf Kristersson kommer inte ställa krav på Ebba Busch att ge tydligare besked kring i vilket läge hon kan tänka sig att samarbeta med Socialdemokraterna. Detta krävde däremot Sverigedemokraternas Jimmie Åkesson i sitt sommartal, då kan också sa att han inte vet om man kan lita på KD. Kristersson ser dock ingen dramatik kring Åkessons utspel: ”Det har varit mycket kramar också – en valrörelse är känsloladdad”.",
+      "pubDate": "2026-08-30T11:45:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
         "KD",
-        "Opinion"
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Mohamssons vädjan",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a1f5665f-b0ce-4ab4-8488-489eebd112d7",
+      "description": "Efter Åkessons Busch-känga: ”Färre angrepp”",
+      "pubDate": "2026-08-30T11:40:57Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Socialdemokraterna: Dubbla prövotiden för sexualbrottslingar",
+      "link": "https://www.sverigesradio.se/artikel/9286944",
+      "description": "Socialdemokraterna lovar en offensiv mot mäns våld mot kvinnor om partiet vinner valet, med skärpta straff och områdesarrest för särskilt hotfulla män. Partiet vill också stoppa nedläggningar av skyddade boenden, medan regeringen tidigare skärpt lagen för att komma åt oseriösa aktörer. I utspelet väger, enligt Teresa Carvalho, kvinnors och barns skydd tyngre än förövarens integritet.",
+      "pubDate": "2026-08-30T11:21:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Vecka 35 i bilder – se världen genom DN-fotografernas ögon",
+      "link": "https://www.dn.se/kultur/vecka-35-i-bilder-se-varlden-genom-dn-fotografernas-ogon-5/",
+      "description": "Hur ser tiden ut? Den här veckan väljer DN:s bildredaktör Petra Lindell ut fem fotografier som speglar Sverige och världen just nu. Här är bilder från vecka 35, 2026.",
+      "pubDate": "2026-08-30T11:04:21Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
       ]
     }
   ],
