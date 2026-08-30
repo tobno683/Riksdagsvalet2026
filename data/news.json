@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T18:41:24.708816Z",
+  "updated_at": "2026-08-30T21:42:31.723437Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -73,6 +73,106 @@
     }
   ],
   "news": [
+    {
+      "title": "Ströp sina tre barn – snart faller domen",
+      "link": "https://www.expressen.se/nyheter/varlden/strop-sina-tre-barn-snart-faller-domen-/",
+      "description": "Tusentals har följt rättegången online och många har visat sitt stöd för Lindsay Clancy – 36-åringen som dödat sina tre barn. Det råder inga frågetecken om vem som dödade barnen, frågan är om hon agerade under en förlossningspsykos eller inte.&nbsp; På måndag fortsätter juryn med sina överläggningar.&nbsp;",
+      "pubDate": "2026-08-30T20:43:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Är kungen av true crime själv en förövare?",
+      "link": "https://www.svd.se/a/k0ynxQ/true-crime-forfattaren-christopher-berry-lee-anklagas-for-overgrepp",
+      "description": "Han är en av världens största true crime-författare. Nu drar Bonnier Books UK och svenska Lind & Co tillbaka böckerna efter anklagelser om upprepade övergrepp – som påstås ha inspirerats av seriemördarna han skrivit om.",
+      "pubDate": "2026-08-30T19:52:40Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Heta ordväxlingen i SVT:s klimatdebatt",
+      "link": "https://www.expressen.se/nyheter/politik/heta-ordvaxlingen-i-svts-klimatdebatt/",
+      "description": "Riksdagspartierna deltar i en debatt om klimatet i SVT. Meningarna går isär om hur pass allvarligt läget är.&nbsp; – Det är ni som vilselett svenska folket och ljugit dem rätt upp i ansiktet, säger Amanda Lind (MP).",
+      "pubDate": "2026-08-30T19:32:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Kristersson: Aldrig begripit förskoleavgift",
+      "link": "https://www.svd.se/a/vrb0kj/kristersson-aldrig-begripit-forskoleavgift",
+      "description": "Moderatledaren, statsminister Ulf Kristersson, säger nu att ”han aldrig begripit” varför föräldrar måste betala avgift för att ha sina barn i förskolan. – I praktiken är det en extra skatt på arbete, säger Kristersson i SVT:s Utfrågningen.",
+      "pubDate": "2026-08-30T19:27:07Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Sprickan sätter hård press på statsministern",
+      "link": "https://www.svt.se/nyheter/inrikes/sprickan-satter-hard-press-pa-statsministern",
+      "description": "Sprickan inom Tidösamarbetet sätter hård press på statsminister Ulf Kristersson. Länge var regeringsfrågan ett trumfkort för honom. Men med två veckor kvar till valdagen kan det trumfkortet vara på väg att glida honom ur händerna.",
+      "pubDate": "2026-08-30T19:13:41Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "30 augusti: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/30-augusti-missa-inte-dagens-nyheter/",
+      "description": "Färja har kapsejsat utanför Cypern, skjutning på rejv i Schweiz och så kan en regering se ut efter valet – här är nyheterna du inte får missa från dagen.",
+      "pubDate": "2026-08-30T19:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "M och S lovar nya lagar mot mäns våld mot kvinnor",
+      "link": "https://www.sverigesradio.se/artikel/9287039",
+      "description": "Både Moderaterna och Socialdemokraterna lovar nya lagar mot mäns våld mot kvinnor. Moderaterna lägger fram tre förslag till skyddslagstiftningen. Ett av dem är att kunna tvångsomhänderta män ”när risken för våld är tydlig”. Socialdemokraterna å sin sida presenterar fem vallöften i det området. Bland annat ska straffet för grov kvinnofridskränkning skärpas.",
+      "pubDate": "2026-08-30T18:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Kristersson: ”Kommer inte att göra en Annie Lööf”",
+      "link": "https://www.svt.se/nyheter/inrikes/kristersson-kommer-inte-att-gora-en-annie-loof",
+      "description": "Ulf Kristersson misstror inte Ebba Busch (KD), efter ordväxlingen med Jimmie Åkesson (SD). – Ebba Busch kommer inte att göra en ”Annie Lööf” och plötsligt byta sida, säger M-ledaren i SVT:s partiledarutfrågning.",
+      "pubDate": "2026-08-30T18:40:25Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "KD",
+        "Debatt"
+      ]
+    },
     {
       "title": "Furtenbach: ”Åkesson är uppenbarligen inte nöjd”",
       "link": "https://www.sverigesradio.se/artikel/9287037",
@@ -159,110 +259,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Skattefrågor splittrar Vänsterpartiet och Centern",
-      "link": "https://www.sverigesradio.se/artikel/9280738",
-      "description": "Centerpartiet och Vänsterpartiet är båda del av oppositionen och möjliga delar av Magdalena Anderssons och socialdemokraternas regeringsunderlag. Men i skattefrågor skiljer de sig åt. Vänsterpartiets ekonomiska talesperson Ida Gabrielsson ser negativt på att skatter har sänkts de senaste åren. Men centerns ekonomiskpolitiska talesperson Martin Ådahl vill sänka skatter, särskilt på arbete.",
-      "pubDate": "2026-08-30T15:16:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Åkessons nya krav på Busch:  ”Det behöver redas ut”",
-      "link": "https://www.expressen.se/nyheter/sverige/akessons-nya-krav-pa-busch--det-behover-redas-ut/",
-      "description": "Ebba Busch bjöd Jimmie Åkesson på fika efter utspelet om hennes ”vänsterflört”.&nbsp; Trots det kommer hårda tongångar från SD-ledaren. ”Det behöver redas ut offentligt, inte i ett slutet rum mellan fyra ögon”, skriver han på X.&nbsp;",
-      "pubDate": "2026-08-30T14:35:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Island: EU-samtal utesluts under mandatperiod",
-      "link": "https://www.dn.se/varlden/island-eu-samtal-utesluts-under-mandatperiod/",
-      "description": "Island säger nej till EU-förhandlingar i landets folkomröstning. Närmare 53 procent röstade emot medlemskap. Statsminister Kristrún Frostadóttir, som vill gå med i EU, säger att resultatet ”inte är ett bakslag” utan ”en seger för demokratin”.",
-      "pubDate": "2026-08-30T14:24:23Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Solen sken på förväntad förlorare",
-      "link": "https://www.svd.se/a/JOqjX8/kristersson-talade-med-sjalvfortroende-utan-distraherande-hustru",
-      "description": "En optimistisk statsminister sommartalade i hemstaden utan omskrivna hustrun. När M vill prata skatter och brott bråkar Tidö-kollegorna med varandra.",
-      "pubDate": "2026-08-30T14:15:47Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Bjöd Åkesson på sockerkaka – efter kängan mot Ebba Busch",
-      "link": "https://www.svt.se/nyheter/inrikes/bjod-akesson-pa-sockerkaka-efter-kangan-mot-ebba-busch",
-      "description": "Ebba Busch har bjudit Jimmie Åkesson (SD) på sockerkaka – efter hans attack mot KD-ledaren tidigare i helgen. – Vi är inte rädda för en nyvalssituation, säger hon.",
-      "pubDate": "2026-08-30T13:55:10Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "S-ledaren upprepar ”varning” om Liseberg och mat till gamla",
-      "link": "https://www.dn.se/sverige/s-ledaren-upprepar-varning-om-liseberg-och-mat-till-gamla/",
-      "description": "En anmälan om billiga skolhyror i Göteborg har åter satt lagen om offentlig säljverksamhet i fokus. S-ledaren Magdalena Andersson menar att den riskerar både Liseberg och restauranger på äldreboenden. Ett utspel som avfärdas av Moderaterna.",
-      "pubDate": "2026-08-30T13:50:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Fouad Youcefi: Här måste Moderaterna stoppa väljarflykten",
-      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-har-maste-moderaterna-stoppa-valjarflykten",
-      "description": "Moderaterna vann statsministerposten 2022 – trots det sämsta valresultatet på 20 år. Inför årets val ser siffrorna dystra ut för M, och de riskerar inte bara att hamna i opposition, utan också att bara bli näst största oppositionsparti. – Nu måste de, som en moderat sa till mig, stoppa väljarflykten i ett specifikt område, säger valreporter Fouad Youcefi.",
-      "pubDate": "2026-08-30T13:30:21Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Busch bjöd Åkesson på sockerkaka: ”På väg mot en blågul seger”",
-      "link": "https://www.expressen.se/nyheter/politik/busch-har-fikat-med-akesson-pa-vag-mot-en-blagul-seger/",
-      "description": "Åkesson kritiserade Ebba Busch för hennes ”vänsterflört” – och Ebba Busch slängde om sin valturné för ett stopp i Sölvesborg. Nu har Busch och Åkesson ”druckit kaffe och ätit kaka” tillsammans. – Vi är på väg mot en blågul seger, säger Ebba Busch i Sölvesborg.",
-      "pubDate": "2026-08-30T13:09:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
       ]
     }
   ],
