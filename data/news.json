@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T05:38:48.107704Z",
+  "updated_at": "2026-08-30T10:49:31.963319Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -74,6 +74,120 @@
   ],
   "news": [
     {
+      "title": "M vill införa skyddslagstiftning mot kvinnovåld",
+      "link": "https://www.sverigesradio.se/artikel/9286936",
+      "description": "Statsminister Ulf Kristersson (M) lovar hårdare straff mot män som begår brott mot kvinnor under sitt sommartal i Strängnäs. M-ledaren lägger fram tre förslag till skyddslagstiftningen. Ett av dem är att kunna tvångsomhänderta män ”när risken för våld är tydlig”. Kristersson (M) vill också att polisen ska kunna varna potentiella brottsoffer och avlyssna telefoner för att förhindra kvinnovåld.",
+      "pubDate": "2026-08-30T10:29:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Vem är kapten på Kristerssons skuta?",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-vem-ar-kapten-pa-kristerssons-skuta/",
+      "description": "Jimmie Åkesson angriper Ebba Busch och uppmanar högerväljare att inte rösta på Simona Mohamsson. Både Busch och Mohamsson slår tillbaka. När Tidö-skutan sjunker slåss partiledarna om livbåtarna. Frågan är vem som är kapten?",
+      "pubDate": "2026-08-30T10:20:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Kristersson: Farliga män ska tvångsomhändertas",
+      "link": "https://www.svd.se/a/0pk5oA/kristersson-farliga-man-ska-tvangsomhandertas",
+      "description": "Statsminister Ulf Kristersson (M) lovar hårdare tag mot män som begår brott mot kvinnor under sitt sommartal i Strängnäs. Ett av förslagen är att kunna tvångsomhänderta män ”när risken för våld är tydlig”.",
+      "pubDate": "2026-08-30T10:11:31Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Mohamssons vädjan",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a1f5665f-b0ce-4ab4-8488-489eebd112d7",
+      "description": "Efter Åkessons Busch-känga: ”Färre angrepp”",
+      "pubDate": "2026-08-30T09:57:42Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Kristersson: Farliga män ska tvångsomhändertas",
+      "link": "https://www.expressen.se/nyheter/politik/kristersson-haller-sommartal-i-strangnas/",
+      "description": "Ulf Kristersson håller sitt sommartal hemma i Strängnäs. Moderaterna vill att farliga män ska kunna tvångsomhändertas. Förslaget är en ny skyddslagstiftning mot mäns våld mot kvinnor.",
+      "pubDate": "2026-08-30T09:49:57Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Chatt: Vad undrar du om klimatpolitiken?",
+      "link": "https://www.svt.se/nyheter/inrikes/chatt-vad-undrar-du-om-klimatpolitiken",
+      "description": "I kväll sänds Agendas klimatpolitiska debatt med representanter från alla åtta riksdagspartier. Redan nu kan du chatta med SVT:s politikreporter Julia Lindvall.",
+      "pubDate": "2026-08-30T08:48:56Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "”Klimatpolitiken ska inte vara symbolisk”",
+      "link": "https://www.svd.se/a/k0bMAk/klimatpolitiken-ska-inte-vara-symbolisk-skriver-romina-pourmokhtari",
+      "description": "Det som är bra för klimatet ska också ska vara bra för svensk ekonomi. Liberalerna vill sätta stopp för den populistiska utvecklingen av klimatfrågan, skriver Romina Pourmokhtari (L).",
+      "pubDate": "2026-08-30T08:00:00Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Busch drar till Sölvesborg",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=1cedf6cb-6c5c-4c1f-b2ac-848aeba7d869",
+      "description": "Efter Åkessons smocka",
+      "pubDate": "2026-08-30T07:37:02Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Valkompass 2026 – nu med uppdaterade frågor",
+      "link": "https://www.svd.se/a/K8e5gX/valkompass-2026-uppdaterade-fragor",
+      "description": "Vilket parti ligger närmast dina åsikter? Gör SvD:s valkompass 2026 och jämför dina svar med partiernas inför valet den 13 september. Nu uppdaterad med nya, aktuella frågor.",
+      "pubDate": "2026-08-30T05:51:52Z",
+      "source": "Svenska Dagbladet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Vilka partier styr Sverige efter valet? – ”Det kommer bli en spännande höst”",
       "link": "https://www.dn.se/sverige/vilka-partier-styr-sverige-efter-valet-det-kommer-bli-en-spannande-host/",
       "description": "Kristersson hoppas på ”blågult”, C-ledaren på mitten – och Vänsterpartiet kräver en plats i en regering de stöttar. Det pratas om flera olika regeringskonstellationer just nu. Men hur sannolika är de? – Ingenting är omöjligt, säger Jan Teorell, professor i statsvetenskap, som spår en spännande höst.",
@@ -101,29 +215,6 @@
       ]
     },
     {
-      "title": "Susanne Nyström: Hatet efter partiledardebatten blottar en otäck sanning",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-hatet-efter-partiledardebatten-blottar-en-otack-sanning/",
-      "description": "Efter hot mot Simona Mohamsson (L) har Säpo inlett en förundersökning. Det är bra. Men som hon själv säger handlar situationen egentligen inte om henne.",
-      "pubDate": "2026-08-30T03:07:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "EU-valet på Island",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=41131580-05f8-4908-addd-d4091edeed6f",
-      "description": "Extremt jämnt i EU-valet",
-      "pubDate": "2026-08-30T03:00:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "SD vill ge kommuner veto mot att ta emot flyktingar",
       "link": "https://www.sverigesradio.se/artikel/9286428",
       "description": "Flyktingmottagandet har i många år varit kontroversiellt i kommunerna. Nu vill Sverigedemokraterna ge kommunerna rätt att helt säga nej till att ta emot nyanlända. ”Jag tycker att staten har varit extremt ansvarslös när man har tvingat kommuner att ta emot migranter. Det är fel på alla plan”, Ludvig Aspling, SD:s migrationspolitiska talesperson. I dag gäller den så kallade anvisningslagen och alla kommuner ska ta emot nyanlända personer efter förmåga.",
@@ -134,16 +225,6 @@
       "topics": [
         "SD"
       ]
-    },
-    {
-      "title": "Trumps försök att ta Grönland kan avgöra valet",
-      "link": "https://www.expressen.se/nyheter/varlden/trumps-forsok-att-ta-gronland-kan-avgora-valet/",
-      "description": "I vågskålen ligger rädslan för Trumps oblyga försök att ta över närbelägna Grönland.&nbsp; Men även en oro för det inhemska fisket.&nbsp; I dag röstar islänningarna kring om de ska fortsätta förhandla om EU-medlemskap.&nbsp; Vid midnatt stänger vallokalerna.",
-      "pubDate": "2026-08-29T20:56:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Islands ”maffia” styr EU-valet i det tysta",
@@ -168,32 +249,6 @@
       ]
     },
     {
-      "title": "Kan ett bråk med Busch rädda SD?",
-      "link": "https://www.svd.se/a/2pJ2Rv/kan-ett-brak-med-busch-radda-sd",
-      "description": "Ett gräl med Ebba Busch räddar nog inte Jimmie Åkessons valrörelse. Men kanske är det inte heller det han är ute efter.",
-      "pubDate": "2026-08-29T18:48:48Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Busch: Vet att han kan lita på mig",
-      "link": "https://www.svd.se/a/m0pkLp/akesson-kritiserar-busch-for-flirt-med-socialdemokraterna",
-      "description": "Jimmie Åkesson kritiserar Ebba Busch för att flirta med oppositionen, och frågar sig om han kan lita på sin samarbetspartner. Men KD-ledaren tycks inte berörd. ”Han vet att han kan lita på mig”, säger hon.",
-      "pubDate": "2026-08-29T17:06:28Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
       "title": "Ett samarbete i begynnande sönderfall?",
       "link": "https://www.svt.se/nyheter/inrikes/ett-samarbete-i-begynnande-sonderfall",
       "description": "Det gnisslar rejält mellan Tidöpartierna just nu. Med ett tufft opinionsläge ligger irritationen nära. SD-ledaren Jimmie Åkessons angrepp på KD-ledaren Ebba Busch är ett tydligt exempel på det.",
@@ -206,63 +261,21 @@
         "KD",
         "Opinion"
       ]
-    },
-    {
-      "title": "Från Netanyahus toppgeneral – till hans främsta utmanare",
-      "link": "https://www.dn.se/varlden/fran-netanyahus-toppgeneral-till-hans-framsta-utmanare/",
-      "description": "Han är överbefälhavaren som förlorat sin son i Gazakriget och gjort det till sitt mål att avsätta Benjamin Netanyahu. Gadi Eisenkot, 66, bildade sitt parti för blott ett år sedan – men leder nu i mätningarna inför det israeliska valet i höst. Det har fått Netanyahu-sidan att attackera honom med full kraft.",
-      "pubDate": "2026-08-29T15:17:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Furtenbach: ”Orealistiskt med samarbete mellan KD och S”",
-      "link": "https://www.sverigesradio.se/artikel/9286799",
-      "description": "Inför valet tycker SD-ledaren Jimmie Åkesson att sammanhållningen inom Tidölaget är skakig. Han anser att KD-ledaren Ebba Busch flirtar lite väl mycket med Socialdemokraterna och frågade sig under sitt sommartal: ”Går det att lita på KD och Ebba Busch eller riskerar en röst på KD att vara en röst på Magdalena Andersson?” Hör Ekots inrikespolitiske kommentator Fredrik Furtenbach om Åkessons utspel.",
-      "pubDate": "2026-08-29T14:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Åkessons känga till KD: Går det att lita på Ebba Busch?",
-      "link": "https://www.svt.se/nyheter/inrikes/akessons-kanga-till-kd-gar-det-att-lita-pa-ebba-busch",
-      "description": "KD-ledaren Ebba Busch har sagt att hon kan komma att släppa fram Magdalena Andersson (S) som statsminister i fall av ”krig, kris och exceptionellt läge”. Det oroar Sverigedemokraternas Jimmie Åkesson. – Det är uppenbart att man från Ebbas sida haft en slags strategi att flörta vänsterut, säger han till SVT Nyheter.",
-      "pubDate": "2026-08-29T14:09:53Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Åkesson: Buschs S-flört en dålig strategi för de blågula",
-      "link": "https://www.dn.se/sverige/akesson-buschs-s-flort-en-dalig-strategi-for-de-blagula/",
-      "description": "SÖLVESBORG. SD-ledaren Jimmie Åkesson kräver svar från Ebba Busch om när hon är beredd att stötta en socialdemokratisk statsminister. Han frågar sig om man kan lita på Ebba Busch. – Ställer jag frågan öppet så måste man ju ändå svara öppet och då är det svårare att ta tillbaka sen i efterhand, säger Åkesson till DN.",
-      "pubDate": "2026-08-29T14:06:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Ett starkare Sverige kräver en ny regering",
+      "link": "https://blog.zaramis.se/2026/08/30/ett-starkare-sverige-kraver-en-ny-regering/",
+      "description": "Vänsterpartiet går till val för ett tryggt Sverige där vardagen fungerar och ekonomin går ihop för vanligt folk. Där det råder jämställdhet mellan könen samt nolltolerans för mäns våld mot kvinnor. Där HBTQIA+ personers rättigheter värnas och där transpersoners liv inte används som ett slagträ i den politiska debatten. Välfärden måste tryggas och en rättvis grön omställning genomföras. Läs mer … Inlägget Ett starkare Sverige kräver en ny regering dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-08-30T05:54:57Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "En förändring är möjlig",
       "link": "https://blog.zaramis.se/2026/08/29/en-forandring-ar-mojlig/",
