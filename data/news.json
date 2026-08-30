@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T00:28:20.580145Z",
+  "updated_at": "2026-08-30T05:38:48.107704Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -73,6 +73,68 @@
     }
   ],
   "news": [
+    {
+      "title": "Vilka partier styr Sverige efter valet? – ”Det kommer bli en spännande höst”",
+      "link": "https://www.dn.se/sverige/vilka-partier-styr-sverige-efter-valet-det-kommer-bli-en-spannande-host/",
+      "description": "Kristersson hoppas på ”blågult”, C-ledaren på mitten – och Vänsterpartiet kräver en plats i en regering de stöttar. Det pratas om flera olika regeringskonstellationer just nu. Men hur sannolika är de? – Ingenting är omöjligt, säger Jan Teorell, professor i statsvetenskap, som spår en spännande höst.",
+      "pubDate": "2026-08-30T04:03:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Kristersson som bäst trea när väljare betygsätter partiledarna",
+      "link": "https://www.svt.se/nyheter/inrikes/kristersson-som-bast-trea-nar-valjare-betygsatter-partiledarna",
+      "description": "I väljarnas rankning av partiledarnas positiva egenskaper hamnar Magdalena Andersson högst i de flesta kategorier. Statsministern blir däremot som bäst tre, enligt en undersökning från SVT Verian. – Med tanke på att han är statsminister och leder större parti så är det lite överraskande, säger Tommy Möller, professor i statsvetenskap vid Stockholms universitet.",
+      "pubDate": "2026-08-30T04:02:34Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Susanne Nyström: Hatet efter partiledardebatten blottar en otäck sanning",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-hatet-efter-partiledardebatten-blottar-en-otack-sanning/",
+      "description": "Efter hot mot Simona Mohamsson (L) har Säpo inlett en förundersökning. Det är bra. Men som hon själv säger handlar situationen egentligen inte om henne.",
+      "pubDate": "2026-08-30T03:07:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "EU-valet på Island",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=41131580-05f8-4908-addd-d4091edeed6f",
+      "description": "Extremt jämnt i EU-valet",
+      "pubDate": "2026-08-30T03:00:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "SD vill ge kommuner veto mot att ta emot flyktingar",
+      "link": "https://www.sverigesradio.se/artikel/9286428",
+      "description": "Flyktingmottagandet har i många år varit kontroversiellt i kommunerna. Nu vill Sverigedemokraterna ge kommunerna rätt att helt säga nej till att ta emot nyanlända. ”Jag tycker att staten har varit extremt ansvarslös när man har tvingat kommuner att ta emot migranter. Det är fel på alla plan”, Ludvig Aspling, SD:s migrationspolitiska talesperson. I dag gäller den så kallade anvisningslagen och alla kommuner ska ta emot nyanlända personer efter förmåga.",
+      "pubDate": "2026-08-30T00:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Trumps försök att ta Grönland kan avgöra valet",
       "link": "https://www.expressen.se/nyheter/varlden/trumps-forsok-att-ta-gronland-kan-avgora-valet/",
@@ -170,44 +232,6 @@
       ]
     },
     {
-      "title": "Trumps tabbe kan driva Island närmare EU",
-      "link": "https://www.svd.se/a/9pMEOl/folkomrostning-om-eu-pa-island",
-      "description": "Donald Trumps felsägningar om att annektera Island i stället för Grönland fick regeringen i Reykjavik att utlysa en folkomröstning om EU. Men valet väcker stormiga känslor.",
-      "pubDate": "2026-08-29T14:58:34Z",
-      "source": "Svenska Dagbladet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svd.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Allas krig mot alla har börjat",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/allas-krig-mot-alla-har-borjat/",
-      "description": "Kan man lita på Ebba Busch? undrar Jimmie Åkesson. Svaret är förstås både ja och nej, skriver Viktor Barth-Kron.",
-      "pubDate": "2026-08-29T14:39:24Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Sprickan i regeringen efter Buschs sågning",
-      "link": "https://www.expressen.se/nyheter/politik/sprickan-i-regeringen-efter-buschs-sagning/",
-      "description": "Ebba Busch ifrågasätter Moderaternas bedömning av reformutrymmet. Benjamin Dousa (M) tycker inte att KD-ledarens kalkyl går ihop. – Jag litar betydligt mer på Elisabeth Svantesson, säger han. Oenigheten får oppositionen att reagera. – Det är jätteanmärkningsvärt att vice statsministern underkänner prognosen, säger Mikael Damberg (S).",
-      "pubDate": "2026-08-29T14:16:20Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Åkessons känga till KD: Går det att lita på Ebba Busch?",
       "link": "https://www.svt.se/nyheter/inrikes/akessons-kanga-till-kd-gar-det-att-lita-pa-ebba-busch",
       "description": "KD-ledaren Ebba Busch har sagt att hon kan komma att släppa fram Magdalena Andersson (S) som statsminister i fall av ”krig, kris och exceptionellt läge”. Det oroar Sverigedemokraternas Jimmie Åkesson. – Det är uppenbart att man från Ebbas sida haft en slags strategi att flörta vänsterut, säger han till SVT Nyheter.",
@@ -235,34 +259,6 @@
         "SD",
         "KD",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Judiska företrädare kritiska mot politisering av antisemitism: ”Slagträn”",
-      "link": "https://www.svt.se/nyheter/inrikes/judiska-foretradare-kritiska-mot-politisering-av-antisemitism-slagtran",
-      "description": "Simona Mohamsson bär davidsstjärnan när hon attackerar Vänsterpartiet. Jimmie Åkesson poserar med boken @Stoltjude samtidigt som han rasar mot islamism. Judiska företrädare är kritiska mot att antisemitism blir ett slagträ i debatten. – Vi vill inte bli använda som verktyg för att smutskasta andra, säger Naomi Manderman på Judiska ungdomsförbundet.",
-      "pubDate": "2026-08-29T13:34:29Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V",
-        "L"
-      ]
-    },
-    {
-      "title": "Åkessons känga mot Busch: ”Går det att lita på KD”",
-      "link": "https://www.sverigesradio.se/artikel/9286771",
-      "description": "Sverigedemokraternas ledare Jimmie Åkesson håller under lördagen sitt sommartal i Sölvesborg. Han säger sig vara osäker på om han kan fortsätta lita på Tidö-kollegan Ebba Busch (KD). ”Går det att lita på KD och Ebba Busch eller riskerar en röst på KD att vara en röst på Magdalena Andersson”, säger han. Inför valet tycker Åkesson att sammanhållningen inom Tidölaget är skakig. Han menar att KD-ledaren Ebba Busch flirtar lite väl mycket med Socialdemokraterna.",
-      "pubDate": "2026-08-29T13:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD"
       ]
     }
   ],
@@ -428,18 +424,6 @@
       "sourceType": "blog",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "BREV 480 – Floder av blod.",
-      "link": "https://jensganman.substack.com/p/brev-480-floder-av-blod",
-      "description": "Babbel med Allard / Babbel med &#197;kesson / Babbel av Karin Ohlsson / Tv&#229; svenska kryptokommunister i New York / Listan med f&#246;retag som h&#246;rt av sig till Nooshi Dadgostar / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
       ]
     }
   ],
