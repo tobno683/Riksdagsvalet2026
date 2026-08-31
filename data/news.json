@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T10:11:07.302916Z",
+  "updated_at": "2026-08-31T17:39:58.086362Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -74,119 +74,85 @@
   ],
   "news": [
     {
-      "title": "Betyg utan stress: Expertens råd till föräldrar",
-      "link": "https://www.dn.se/insidan/betyg-utan-stress-expertens-rad-till-foraldrar/",
-      "description": "Skolterminen är i full gång och läxorna börjar snart hopa sig. Att prata om betyg kan väcka många känslor, både hos barn och föräldrar. – Fokusera på lärandet, säger beteendevetaren Petra Krantz Lindgren som ger råd kring hur man kan motivera till studier.",
-      "pubDate": "2026-08-31T10:05:41Z",
+      "title": "SD-källor sågar Tidös valstrategi: ”De vill bara kramas”",
+      "link": "https://www.dn.se/sverige/sd-sagar-tidos-valstrategi-de-vill-bara-kramas/",
+      "description": "Tidöpartiernas valstrategi ”det enade laget” skakar i grunden. Nu söker SD konflikt med M, L och KD – som inte vill plocka upp bollen. – Ibland känner man sig som matadoren i Tjuren Ferdinand. ”Stånga mig! Sparka mig! Gör någonting!”, säger en central SD-källa.",
+      "pubDate": "2026-08-31T17:22:26Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Susanne Nyström: Bakom Kristerssons ord döljer sig en krass verklighet",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-bakom-kristerssons-ord-doljer-sig-en-krass-verklighet/",
+      "description": "I SVT:s partiledarutfrågning sa Ulf Kristersson (M) att han skulle tycka att det vore tråkigt om någon tror att man inte är välkommen till Sverige, bara för att man har utländska rötter. Det är möjligt att han menar det han säger. Men i så fall bör han byta strategi.",
+      "pubDate": "2026-08-31T17:04:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Bil voltade – fem till sjukhus",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=79c5b4f5-dcaa-4f69-ae4f-f2c6df2e30ff",
+      "description": "Singelolycka i Lindesbergs kommun",
+      "pubDate": "2026-08-31T16:56:59Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "MP"
       ]
     },
     {
-      "title": "VM-hoppet lever för Sverige: ”Chanserna är större nu”",
-      "link": "https://www.dn.se/sport/vm-hoppet-lever-for-sverige-chanserna-ar-storre-nu/",
-      "description": "En vinst och en förlust under första kvalfönstret i andra rundan av VM-kvalet i basket för Sverige. Nu väntar ytterligare fyra matcher i resan mot VM – men då utan storstjärnan Pelle Larsson. – Alla kommer behöva steppa upp, säger Ludvig Håkanson.",
-      "pubDate": "2026-08-31T10:03:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Mohamssons vädjan – mitt i Tidöbråket",
-      "link": "https://www.expressen.se/nyheter/politik/mohamssons-vadjan-mitt-i-tidobraket/",
-      "description": "Krisstämplade L-ledaren Simona Mohamsson ringde alla Tidöledare på söndagen med en vädjan. Samtalet kom till efter de senaste dagarnas osämja. På torsdag löper Jimmie Åkessons deadline ut – och nu rustar L för en motattack.",
-      "pubDate": "2026-08-31T09:43:06Z",
+      "title": "Centerns 7 klimatkrav – för nästa regering",
+      "link": "https://www.expressen.se/nyheter/politik/centerns-7-klimatkrav-for-nasta-regering/",
+      "description": "Centerpartiet kan få en vågmästarroll efter riksdagsvalet.&nbsp; Nu presenterar partiet sju klimatfrågor som man vill börja jobba med ”under de första 100 dagarna i regeringsställning”.&nbsp; – Vi ska se till att leda den gröna industrirevolutionen, säger partiledaren Elisabeth Thand Ringqvist i sitt valtal.&nbsp;",
+      "pubDate": "2026-08-31T16:54:35Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "SD",
-        "L"
+        "C"
       ]
     },
     {
-      "title": "Magdalena Anderssons hårda attack mot Åkesson",
-      "link": "https://www.expressen.se/nyheter/politik/magdalena-anderssons-harda-attack-mot-akesson/",
-      "description": "Efter helgens tjafs mellan Tidöpartierna går nu S-ledaren Magdalena Andersson till hårt angrepp. – Sverigedemokraternas partiledare kräver en total underkastelse, säger hon.",
-      "pubDate": "2026-08-31T07:49:39Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Centerns klimatplan: Nio av tio nya bilar ska vara eldrivna 2030",
+      "link": "https://www.sverigesradio.se/artikel/9287680",
+      "description": "Centerpartiets ledare Elisabeth Thand Ringqvist presenterade idag en klimatplan med 30 åtgärder som partiet kommer att genomföra eller påbörja under de första hundra dagarna i regeringsställning. Planen innehåller bland annat ett elektrifieringsmål för försäljning av nya fordon till 2030. Exempelvis ska nio av tio nya bilar och varannan tung lastbil vara helt eldrivna. Klimatplanen innehåller även förslag om långsiktiga energiöverenskommelser mellan riksdagspartierna, ett starkt arbete med klimatanpassning hos myndigheter och åtgärder för att stärka Sveriges ledarskap i det globala klimatarbetet.",
+      "pubDate": "2026-08-31T16:52:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "SD"
+        "C"
       ]
     },
     {
-      "title": "S-satsning mot organiserad brottslighet: Vill förstärka myndighet",
-      "link": "https://www.expressen.se/nyheter/politik/s-satsning-mot-organiserad-brottslighet-vill-ha-ny-myndighet/",
-      "description": "Socialdemokraterna vill slå hårt mot organiserad brottslighet. Partiet vill förstärka Ekobrottsmyndigheten – som ska få tydligare uppdrag och bli Myndigheten mot organiserad brottslighet. – De kriminella gängen är ett hot mot hela vårt samhälle, säger Magdalena Andersson på en pressträff.&nbsp;",
-      "pubDate": "2026-08-31T07:32:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Örebropartiet tredubblar stödet i Örebro län – har chans på riksdagen",
-      "link": "https://www.dn.se/sverige/orebropartiet-tredubblar-stodet-i-orebro-lan-har-chans-pa-riksdagen/",
-      "description": "En ny opinionsmätning från Novus och Nerikes Allehanda indikerar att Sverige kan få ett nytt riksdagsparti: Örebropartiet (ÖP). Det nationalistiska populistpartiet ökar kraftigt och har nu 15 procents stöd i regionvalet. Om ÖP även i riksdagsvalet samlar minst 12 procent i valkretsen Örebro län väljs partiledaren Markus Allard in i riksdagen.",
-      "pubDate": "2026-08-31T07:23:14Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Moderaternas stora satsning mot mäns våld mot kvinnor",
-      "link": "https://www.expressen.se/nyheter/politik/moderaternas-stora-satsning-mot-mans-vald-mot-kvinnor/",
-      "description": "30 olika förslag ska stoppa mäns våld mot kvinnor, enligt ett nytt program som Moderaterna lägger fram under måndagen.",
-      "pubDate": "2026-08-31T07:07:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Centerns strategi är bingo för Dadgostar",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-centerns-strategi-ar-bingo-for-dadgostar/",
-      "description": "Spekulationerna om en mittenregering är den bästa hjälp Nooshi Dadgostar kan få i valets slutspurt. Vänsterpartiets chans är att många S-väljare vill dra Magdalena Andersson vänsterut och därför lägger sin röst på V. Samtidigt lättar trycket på Dadgostar i regeringsfrågan.",
-      "pubDate": "2026-08-31T06:50:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Så blev valaffischerna mer tradition än politik: ”Som sill på midsommar”",
-      "link": "https://www.dn.se/kultur/sa-blev-valaffischerna-mer-tradition-an-politik-som-sill-pa-midsommar/",
-      "description": "Den 16 augusti började partierna affischera inför valet. DN tar en titt i valaffischens historia, från klasskamp till försök att fånga alla väljare samtidigt. – Valaffischerna har gått från ideologi till varumärkesbyggande, säger medie- och kommunikationsforskaren Bengt Johansson, som även kallar sig för propagandainspektör.",
-      "pubDate": "2026-08-31T06:39:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Macron besöker Sverige – rykten om kryssningsrobotar: ”Helt annan förmåga”",
-      "link": "https://www.svt.se/nyheter/inrikes/macron-besoker-sverige-rykten-om-kryssningsrobotar-helt-annan-formaga",
-      "description": "Frankrikes president Emmanuel Macron möter statsminister Ulf Kristersson (M). I dag ska de underteckna Sveriges köp av fyra fregatter – enligt uppgifter vill Frankrike även erbjuda kryssningsrobotar. – Det skulle ge svenska försvarsmakten en helt annan förmåga än vad som finns idag, säger SVT:s politikreporter Andreas Öbrink.",
-      "pubDate": "2026-08-31T06:20:31Z",
+      "title": "Busch ser Tidö som ett medel – redo att pressa sitt eget lag",
+      "link": "https://www.svt.se/nyheter/inrikes/busch-ser-tido-som-ett-medel-redo-att-pressa-sitt-eget-lag",
+      "description": "Ebba Buschs ”flörtande” med Magdalena Andersson har retat upp Jimmie Åkesson. Men samtidigt har KD:s förhandlingsposition stärkts, enligt Busch. Till SVT säger hon att KD ser Tidö som ”ett medel” med vilket partiet just nu får mest utväxling för sin politik. – Om det skulle ändras får man ju se över det. Men där är vi inte nu.",
+      "pubDate": "2026-08-31T15:12:41Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "”Fregatterna ska ge skydd mot ballistiska robotar”",
+      "link": "https://www.sverigesradio.se/artikel/9287636",
+      "description": "En av Sveriges största försvarsinvesteringar har undertecknats av statsminister Ulf Kristersson och Frankrikes president Emmanuel Macron, affären gäller fyra fregatter från Frankrike. ”Enligt svenska regeringen är det här en investering i svensk säkerhet för flera decennier framåt. Den ska bidra till Natos avskräckning och försvar. Fragatterna ska skydda militära och civila sjöförbindelser och bidra till att hålla viktiga transportleder öppna”, säger Ekots reporter Beatrice Janzon. Fregatterna ska även ge Sverige skydd mot ballistiska robotar, en försvarsförmåga som visat sig vara viktig för Ukrainas motstånd mot Ryssland.",
+      "pubDate": "2026-08-31T15:12:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
@@ -194,65 +160,118 @@
       ]
     },
     {
-      "title": "M vill porta hotfulla personer: ”Stökiga kaosgrabbar”",
-      "link": "https://www.expressen.se/nyheter/politik/m-vill-porta-hotfulla-personer-stokiga-kaosgrabbar/",
-      "description": "Moderaterna vill att polisen enklare ska kunna ingripa mot personer som beter sig hotfullt, skriver TT.&nbsp; – Det räcker med stökiga kaosgrabbar som tror de äger våra gator, säger MUF:s ordförande Douglas Thor.&nbsp;",
-      "pubDate": "2026-08-31T05:46:37Z",
+      "title": "Kristersson om avtalet med Frankrike: ”Stärker svensk säkerhet”",
+      "link": "https://www.sverigesradio.se/artikel/9287625",
+      "description": "Sverige har köpt fyra fregatter av Frankrike. Frankrikes president Emmanuel Macron är i Stockholm under måndagen för att skriva under avtalet, värt 47 miljarder kronor. Statsminister Ulf Kristersson betonar att avtalet stärker svensk säkerhet, men också skapar jobb både i Sverige och i Frankrike. ”Det är alltså inte bara ett avtal som signeras här idag där Sverige köper fyra kraftfulla fregatter utan vi bygger ett djupare samarbete mellan Sverige och Frankrike för att stärka den europeiska pelaren i Nato för lång tid framöver”, säger han.",
+      "pubDate": "2026-08-31T15:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Dadgostar om S: ”Vill gå högerut”",
+      "link": "https://www.expressen.se/nyheter/politik/dadgostar-om-s-vill-ga-hogerut/",
+      "description": "Nooshi Dadgostar (V) anser att S-ledningen vill stänga hennes parti ute – för att få driva högerpolitik. Nu uppmanar hon S-väljare att markera. –&nbsp;Magdalena Andersson och Mikael Damberg har länge stått långt till höger om sina gräsrötter.",
+      "pubDate": "2026-08-31T14:39:42Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M"
+        "S",
+        "V"
       ]
     },
     {
-      "title": "Planer på kärnkraft i 17 kommuner – här kan det avgöra lokalvalet",
-      "link": "https://www.sverigesradio.se/artikel/9286065",
-      "description": "I 17 kommuner finns olika långt gångna planer eller förstudier för ny kärnkraft. Den första ansökan på över 50 år gäller ett nytt kärnkraftverk i Valdemarsvik med fyra till sex reaktorer. Enligt den nya tillståndsprocessen som regeringen drivit igenom kommer Valdemarsviks kommun snart att krävas på besked och lokalvalet kan bli avgörande.",
-      "pubDate": "2026-08-31T05:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Alex Schulman: Ebba Buschs förvandling från isdrottning till Moder Teresa är genial",
-      "link": "https://www.dn.se/sverige/alex-schulman-ebba-buschs-forvandling-fran-isdrottning-till-moder-teresa-ar-genial/",
-      "description": "När stenhårda Ebba Busch började prata om att politiken behövde mer ”hjärta”. tänkte jag: lycka till Men även det lappkastet klarade Sveriges skickligaste politiker.",
-      "pubDate": "2026-08-31T04:36:09Z",
+      "title": "”Ebba Busch blir den man ska bekämpa”",
+      "link": "https://www.dn.se/podd/alskade-politik/ebba-busch-blir-den-man-ska-bekampa/",
+      "description": "Åkesson attackerar Busch – och Busch avvärjer med en fika. Men det räcker inte för SD-ledaren. Är det full kannibalism i Tidöpartierna?",
+      "pubDate": "2026-08-31T14:31:06Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "SD",
         "KD"
       ]
     },
     {
-      "title": "Viktor Karlsson: Richard Jomshof hatar islam – nu har han skrivit en hel bok om det",
-      "link": "https://www.dn.se/ledare/viktor-karlsson-richard-jomshof-hatar-islam-nu-har-han-skrivit-en-hel-bok-om-det/",
-      "description": "Sverigedemokraten Richard Jomshof avskyr islam. Hans nya bok handlar om hur Sverige ska befrias från den.",
-      "pubDate": "2026-08-31T04:09:19Z",
+      "title": "S vill göra om Ekobrottsmyndigheten för att stoppa gängen",
+      "link": "https://www.sverigesradio.se/artikel/9287462",
+      "description": "Idag presenterade både Socialdemokraterna och Moderaterna flera vallöften på det rättspolitiska området. Flera förslag som var kända sedan tidigare, men Socialdemokraterna presenterade ett nytt förslag om att göra om Ekobrottsmyndigheten i syfte att komma åt den organiserade brottsligheten, enligt partiets rättspolitiska talesperson Theresa Carvalho. Moderaterna vill att farliga män ska tvångsomhändertas när risken för våld mot kvinnor är tydlig. Det är en del av ett program på 30 punkter där mycket redan är känt som skärpta kontaktförbud, förövarregister och dubbla straff för våld mot kvinnor.",
+      "pubDate": "2026-08-31T14:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Centerns miljövallöfte: 90 procent nya elbilar år 2030",
+      "link": "https://www.dn.se/sverige/centerns-miljovallofte-90-procent-nya-elbilar-ar-2030/",
+      "description": "Centerpartiets vill att 90 procent av nybilsförsäljningen 2030 ska utgöras av elbilar. Elbilsbonusar, utbyggda laddnät och miljözoner ska hjälpa till att nå målet. – Det är en stor förändring, konstaterar partiledaren Elisabeth Thand Ringqvist.",
+      "pubDate": "2026-08-31T13:20:02Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Därför vill Åkesson bråka med Busch",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/darfor-vill-akesson-braka-med-busch/",
+      "description": "Jimmie Åkesson kräver svar av Ebba Busch.&nbsp; Har Sverigedemokraterna gett upp om Tidösamarbetet? Lyssna på ”Politikrummet”.",
+      "pubDate": "2026-08-31T12:19:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Frågan som Åkesson själv borde svara på",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/fragan-som-akesson-sjalv-borde-svara-pa/",
+      "description": "Jimmie Åkesson kräver lojalitet av sina samarbetspartier. Men har han något att erbjuda i gengäld?",
+      "pubDate": "2026-08-31T12:07:38Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD"
       ]
     },
     {
-      "title": "Pressen på S-ledaren: ”Jag är rädd – ett väldigt flörtande”",
-      "link": "https://www.svt.se/nyheter/inrikes/pressen-pa-s-ledaren-jag-ar-radd-ett-valdigt-flortande",
-      "description": "V-toppen Jonas Sjöstedt är ”allvarligt orolig” för att Magdalena Andersson ska försöka bilda regering med KD. Han uppmanar S-ledaren att börja forma sitt lag. – Tänk om vi hade haft en rödgrön regering och jag hade varit klimatminister, säger den tidigare partiledaren.",
-      "pubDate": "2026-08-31T04:09:15Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "DN/Ipsos: Plånboken och vården viktigast när väljarna bestämmer sig",
+      "link": "https://www.dn.se/sverige/dn-ipsos-planboken-och-varden-viktigast-nar-valjarna-bestammer-sig/",
+      "description": "Hushållsekonomin och sjukvården är de viktigaste frågorna när väljarna ska bestämma hur de röstar i riksdagsvalet, enligt en mätning från DN/Ipsos. – Det är helt klart en annan dagordning i den här valrörelsen jämfört med den förra, säger Nicklas Källebring på Ipsos.",
+      "pubDate": "2026-08-31T12:01:13Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
-      "topics": [
-        "S"
-      ]
+      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "Missnöjet minskar inte av Tidöstyre",
+      "link": "https://www.dagensarena.se/opinion/missnojet-minskar-inte-av-tidostyre/",
+      "description": "Ny rapport visar att SD:s väljare, och Moderaternas, har radikaliserats. Inlägget Missnöjet minskar inte av Tidöstyre dök först upp på Dagens Arena .",
+      "pubDate": "2026-08-31T14:10:57Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
+      ]
+    },
     {
       "title": "De två bästa partierna för klimatet",
       "link": "https://blog.zaramis.se/2026/08/31/de-tva-basta-partierna-for-klimatet/",
@@ -327,16 +346,6 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Rekordstor demonstration för klimatet. Men var är politikerna?",
-      "link": "https://www.dagensarena.se/opinion/rekordstor-demonstration-klimatet-men-var-ar-politikerna/",
-      "description": "Vi är många - men inför valet saknas klimatet på dagordningen. Inlägget Rekordstor demonstration för klimatet. Men var är politikerna? dök först upp på Dagens Arena .",
-      "pubDate": "2026-08-27T23:30:33Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
     },
     {
       "title": "Vänsterpartiet ansluter sig till det biståndsindustriella eko-systemet",
@@ -434,6 +443,19 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "305. Har Åkesson gett upp?",
+      "link": "https://pod.space/politikrummet/305-har-akesson-gett-upp",
+      "description": "Jimmie Åkesson kräver svar av Ebba Busch. Har Sverigedemokraterna gett upp om Tidö? I studion: Filippa Rogvall, Max V Karlsson och Viktor Barth-Kron Producent: Anna Westman Swantesson Ljudklipp från SVT Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-08-31T11:43:49Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
     {
       "title": "Veckopanelen: Kina säljer knark till våra ungdomar",
       "link": "https://pod.space/kvartal/veckopanelen-kina-saljer-knark-till-vara-ungdomar",
@@ -602,18 +624,6 @@
       "sourceType": "podcast",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Extra: Partiledardebatten 2026",
-      "link": "https://pod.space/politikrummet/extra-partiledardebatten-2026",
-      "description": "Skarpa utspel och tuffa ordväxlingar. På måndagen möttes partiledarna i valrörelsens första debatt, arrangerad av Expressen och Dagens industri. Hör den i efterhand här. Programledare: Viktor Barth-Kron och Ylva Johansson.",
-      "pubDate": "2026-08-18T07:27:54Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "Debatt"
       ]
     }
   ]
