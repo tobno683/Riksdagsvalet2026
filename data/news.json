@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T23:59:40.744041Z",
+  "updated_at": "2026-08-31T03:44:18.013574Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -73,6 +73,53 @@
     }
   ],
   "news": [
+    {
+      "title": "Ledare: Moderaterna brukade vara seriösa i finanspolitiken – vad har hänt?",
+      "link": "https://www.dn.se/ledare/moderaterna-brukade-vara-seriosa-i-finanspolitiken-vad-har-hant/",
+      "description": "Sverige har exceptionellt starka statsfinanser. Det är tack vare att två statsbärande partier satt ramarna – för sig själva, varandra och andra. Nu seglar Moderaterna iväg.",
+      "pubDate": "2026-08-31T03:24:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Insändare. Stäng inte ute svenskar i världen från valet",
+      "link": "https://www.dn.se/insandare/stang-inte-ute-svenskar-i-varlden-fran-valet/",
+      "description": "INSÄNDARE. Det är orimligt att man som svensk medborgare bosatt utomlands ändå kan nekas att få delta i höstens val. I stället för att låta tidigare folkbokföring vara avgörande för rösträtt bör en möjlighet införas för svenska medborgare som aldrig bott i Sverige att rösta, skriver utlandssvenskan Alicia Alserholm.",
+      "pubDate": "2026-08-31T03:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Trump kräver att journalisten straffas",
+      "link": "https://www.expressen.se/nyheter/varlden/trump-kraver-att-journalisten-straffas/",
+      "description": "Donald Trump hotar journalisten Kristen Welker med bestraffning. Och säger att ”något måste göras” åt ”falska” opinionsmätningar. Till sin hjälp vill han återigen ta tillsynsmyndigheten FCC.",
+      "pubDate": "2026-08-31T01:34:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Partierna satsar mer på dörrknackning: ”Det nya svarta”",
+      "link": "https://www.sverigesradio.se/artikel/9285209",
+      "description": "Klassiska valkampanjer som dörrknackning blir viktigare för partierna trots social mediers framfart. Både Kristdemokraterna i Stockholm och Miljöpartiet i Uppsala berättar att de satsar mer på dörrknackning i år. ”Vi kommer säkert knacka dubbelt så mycket eller tre gånger så mycket som för fyra år sedan” säger Simon Rosen, kampanjledare för Miljöpartiet i Uppsala. Medieforskaren Marie Grusell vid Göteborgs universitet menar att dörrknackning kommer spela en stor roll i valrörelsen.",
+      "pubDate": "2026-08-31T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD",
+        "MP"
+      ]
+    },
     {
       "title": "Ströp sina tre barn – snart faller domen",
       "link": "https://www.expressen.se/nyheter/varlden/strop-sina-tre-barn-snart-faller-domen-/",
@@ -213,59 +260,23 @@
         "KD",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Sverige pressade Frankrike – föll i slutminuterna",
-      "link": "https://www.dn.se/sport/sverige-pressade-frankrike-foll-i-slutminuterna/",
-      "description": "Sverige pressade OS-tvåan Frankrike länge i VM-kvalet – men orkade inte hela vägen. I slutminuterna var bortalaget starkare och vann till slut med 15 poäng. – Till slut hade vi inte energin, men jag är väldigt stolt över laget, säger Ludvig Håkanson.",
-      "pubDate": "2026-08-30T17:19:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "”Hela Tyskland ska vakna och vi ska bli normala människor igen”",
-      "link": "https://www.dn.se/varlden/hela-tyskland-ska-vakna-och-vi-ska-bli-normala-manniskor-igen/",
-      "description": "QUEDLINBURG. På DDR-tillverkade mopeder kör den historiska valrörelsen genom Tyskland. För första gången sedan andra världskriget kan ett högerextremt parti, AFD, bilda delstatsregering. Valet i Sachsen-Anhalt kan förändra Tyskland – och därmed Europa.",
-      "pubDate": "2026-08-30T16:58:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Busch och Åkesson har talat ut – oklart om de är överens",
-      "link": "https://www.sverigesradio.se/artikel/9286989",
-      "description": "Ebba Busch (KD) och Jimmie Åkesson (SD) träffades på söndagen efter Åkessons kritik mot Busch i sitt sommartal. I talet ifrågasatte han om det går att lita på Kristdemokraterna, då partiet öppnat upp för att släppa fram en socialdemokratiskt statsminister i ”ett exceptionellt läge”. Efter söndagens möte beskrev Busch det som att hon och Åkesson \"har rätat ut de frågetecken som finns\", men Åkesson skriver på X att frågan om vad ett \"exceptionellt läge\" innebär behöver redas ut offentligt och inte i ett slutet rum mellan fyra ögon.",
-      "pubDate": "2026-08-30T16:07:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Skattefrågor splittrar Vänsterpartiet och Centern",
-      "link": "https://www.sverigesradio.se/artikel/9280738",
-      "description": "Centerpartiet och Vänsterpartiet är båda del av oppositionen och möjliga delar av Magdalena Anderssons och socialdemokraternas regeringsunderlag. Men i skattefrågor skiljer de sig åt. Vänsterpartiets ekonomiska talesperson Ida Gabrielsson ser negativt på att skatter har sänkts de senaste åren. Men centerns ekonomiskpolitiska talesperson Martin Ådahl vill sänka skatter, särskilt på arbete.",
-      "pubDate": "2026-08-30T15:16:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Miljöpartiets apologetiska inställning till politiskt våld inbyggt i partikulturen",
+      "link": "https://ledarsidorna.se/miljopartiets-apologetiska-installning-till-politiskt-vald-inbyggt-i-partikulturen/",
+      "description": "Miljöpartiets relation till Palestina-rörelsen och vilket inflytande partiet har både skiljer sig från och visar upp stora likheter med både Socialdemokraterna och Vänsterpartiet. Men med en viktig skillnad. Några av partiets främsta företrädare har aldrig hymlat med sin bakgrund och sina sympatier med den våldsbejakande yttervänstern. Något som även kommit att få genomslag i partiets [&#8230;]",
+      "pubDate": "2026-08-31T03:30:03Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "V",
+        "MP"
+      ]
+    },
     {
       "title": "Ett starkare Sverige kräver en ny regering",
       "link": "https://blog.zaramis.se/2026/08/30/ett-starkare-sverige-kraver-en-ny-regering/",
