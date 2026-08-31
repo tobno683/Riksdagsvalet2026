@@ -81,19 +81,34 @@ HEADERS = {
 # don't under-filter and miss genuinely relevant coverage, but specific
 # enough to exclude the unrelated general-news items (weather, crime,
 # health, foreign royals) that also appear in these feeds.
-KEYWORDS = [
+# Keywords split into two tiers, since generic political vocabulary
+# (e.g. "valet", "statsminister") applies just as well to a foreign
+# election as a Swedish one - a story about "det tyska valet" or a
+# foreign PM would otherwise false-positive. STRONG_KEYWORDS are
+# unambiguous on their own (party names, distinctive politician surnames,
+# Sweden-specific institutions/vocabulary). WEAK_KEYWORDS need a
+# companion Sweden-anchor - either a strong keyword or an explicit
+# "Sverige/svensk(a)/riksdag" mention - before they count. This also
+# covers a few common Swedish surnames (Andersson, Lind, Busch) that are
+# too generic to trust alone: countless people share them regardless of
+# whether the story is Swedish politics at all.
+STRONG_KEYWORDS = [
     "socialdemokrat", "moderater", "sverigedemokrat", "vänsterpart",
     "centerpart", "kristdemokrat", "liberalern", "miljöpart",
     "tidöpart", "tidöavtal", "tidöregeringen", "tidösamarbet", "rödgrön",
-    "kristersson", "andersson", "åkesson", "busch", "dadgostar",
-    "thand ringqvist", "mohamsson", "lind", "jomshof", "svantesson",
-    "strömmer", "damberg",
-    "valet", "riksdagsval", "opinionsmätning", "opinionsläge",
-    "väljarbarometer", "regeringsbildning", "statsminister",
-    "regeringsunderlag", "mandatperiod", "partiledarutfrågning",
-    "partiledardebatt", "valkompass", "förtidsröst", "röstkort",
-    "valmyndigheten", "sakfråg", "väljarnas", "partiernas politik",
+    "kristersson", "åkesson", "dadgostar", "thand ringqvist", "jomshof",
+    "svantesson", "strömmer", "damberg", "mohamsson",
+    "riksdagsval", "valmyndigheten", "regeringsunderlag",
+    "partiledarutfrågning", "partiledardebatt", "valkompass",
+    "förtidsröst", "röstkort",
 ]
+WEAK_KEYWORDS = [
+    "andersson", "lind", "busch",
+    "valet", "opinionsmätning", "opinionsläge", "väljarbarometer",
+    "regeringsbildning", "statsminister", "mandatperiod",
+    "sakfråg", "väljarnas", "partiernas politik",
+]
+SWEDEN_ANCHORS = ["sverige", "svensk", "svenska", "riksdagen", "riksdags"]
 
 # Party mentions (including each party's known leader, so an article about
 # "Kristersson" is tagged "M" even if it never spells out "Moderaterna")
@@ -297,19 +312,24 @@ PODCAST_SOURCES = [
         # confirmed via two independent sources (a podcast directory
         # listing and a direct fetch of the feed itself, showing real
         # current episodes).
+        #
+        # Note: this show covers "dagens stora händelser i Sverige och
+        # världen" - Swedish AND international current affairs, not
+        # exclusively Swedish politics. An earlier version of this entry
+        # had an "always_relevant" flag bypassing the keyword filter
+        # entirely (added because episode titles are often just a
+        # timestamp, e.g. "Studio Ett 2025-08-25 kl 22.12", which caused
+        # genuinely Swedish-political episodes to get dropped by the
+        # keyword filter). That bypass was too blunt: it let foreign/
+        # international episodes with no Swedish-politics content through
+        # too. Removed - better to occasionally miss a genuinely relevant
+        # but generically-titled episode than to show non-Swedish content
+        # in a feed specifically about the Swedish election.
         "name": "Studio Ett",
         "domain": "sverigesradio.se",
         "feed_url": "https://api.sr.se/api/rss/pod/4021",
         "format": "rss",
         "type": "podcast",
-        # Episode titles are frequently just a timestamp (e.g. "Studio Ett
-        # 2025-08-25 kl 22.12") with a static recurring description, so the
-        # keyword relevance filter below - built for general news feeds
-        # that mix political and non-political stories - was silently
-        # dropping every single episode even though the show is Sweden's
-        # flagship daily politics/current-affairs program by definition.
-        # Trust the outlet instead of keyword-matching each episode.
-        "always_relevant": True,
     },
     {
         # Expressen's own political-desk podcast, hosted by named
@@ -363,7 +383,11 @@ def strip_html(raw: str) -> str:
 
 def is_politics_relevant(title: str, description: str) -> bool:
     haystack = f"{title} {description}".lower()
-    return any(kw in haystack for kw in KEYWORDS)
+    if any(kw in haystack for kw in STRONG_KEYWORDS):
+        return True
+    if any(kw in haystack for kw in WEAK_KEYWORDS):
+        return any(anchor in haystack for anchor in SWEDEN_ANCHORS)
+    return False
 
 
 def parse_rss_pubdate(raw: str):
@@ -454,7 +478,7 @@ def main():
             continue
 
         for it in raw_items:
-            if not source.get("always_relevant") and not is_politics_relevant(it["title"], it["description"]):
+            if not is_politics_relevant(it["title"], it["description"]):
                 continue
             it["source"] = source["name"]
             it["sourceIcon"] = favicon_url(source["domain"])
