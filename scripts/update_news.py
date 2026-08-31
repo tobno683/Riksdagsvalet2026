@@ -320,17 +320,36 @@ PODCAST_SOURCES = [
         # real underlying feed, with genuinely current 2026 election
         # content (episode dated June 2026 discussing Dadgostar, a fresh
         # SCB opinion poll, and Tidö tensions).
-        #
-        # Note: I searched specifically for an equally well-confirmed
-        # left-leaning podcast counterpart (e.g. Aftonbladet's "En runda
-        # till") to keep the podcast tab balanced the way the blog tab is,
-        # but could not find a directly confirmed feed URL for one within
-        # reasonable search effort. Worth revisiting - the podcast tab
-        # currently leans right/neutral (Kvartal, this, Studio Ett) with
-        # no confirmed left-leaning entry yet.
         "name": "Politikrummet",
         "domain": "expressen.se",
         "feed_url": "https://feed.pod.space/politikrummet",
+        "format": "rss",
+        "type": "podcast",
+    },
+    {
+        # Dagens Nyheter's own political podcast - liberal/centrist
+        # leaning (DN's own editorial positioning), genuinely current
+        # (episodes cover 2026 campaign events like an SD ledamot's
+        # resignation, MP's language-spokesperson handover, and the
+        # opposition's opinion-poll lead). Feed URL directly confirmed -
+        # it appeared as the actual source URL of an indexed search
+        # result, not inferred from a platform convention. Same pod.space
+        # infrastructure as Kvartal/Politikrummet, consistent with DN and
+        # Expressen both being part of Bonnier News.
+        #
+        # Note: I searched specifically for an equally well-confirmed
+        # left-leaning podcast counterpart (e.g. Aftonbladet's "En runda
+        # till", which is genuinely real, current, and well-produced -
+        # 307+ episodes, explicitly covers this election) but could not
+        # get a directly confirmed feed URL for it, since Aftonbladet is
+        # Schibsted-owned rather than Bonnier News and likely isn't on the
+        # same pod.space infrastructure. Worth revisiting - the podcast
+        # tab still leans right/centrist (Kvartal, Politikrummet, this)
+        # with only Studio Ett as a neutral counterweight and no confirmed
+        # left-leaning entry yet.
+        "name": "Älskade politik",
+        "domain": "dn.se",
+        "feed_url": "https://feed.pod.space/alskadepolitik",
         "format": "rss",
         "type": "podcast",
     },
