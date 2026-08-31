@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T20:53:34.956562Z",
+  "updated_at": "2026-08-31T22:06:50.994499Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,16 @@
     }
   ],
   "news": [
+    {
+      "title": "Direktrapport | Senaste nytt om svenska valet",
+      "link": "https://www.sverigesradio.se/artikel/9227357",
+      "description": "13 september 2026 går Sverige till val. Här samlar vi Ekots rapportering om riksdagsvalet och svensk politik 2026.",
+      "pubDate": "2026-08-31T22:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "S-löftet: Utred inställelsetider för polisen",
       "link": "https://www.expressen.se/nyheter/sverige/s-loftet-utred-installelsetider-for-polisen/",
@@ -253,19 +263,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Dadgostar om S: ”Vill gå högerut”",
-      "link": "https://www.expressen.se/nyheter/politik/dadgostar-om-s-vill-ga-hogerut/",
-      "description": "Nooshi Dadgostar (V) anser att S-ledningen vill stänga hennes parti ute – för att få driva högerpolitik. Nu uppmanar hon S-väljare att markera. –&nbsp;Magdalena Andersson och Mikael Damberg har länge stått långt till höger om sina gräsrötter.",
-      "pubDate": "2026-08-31T14:39:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     }
   ],
