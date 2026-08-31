@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T17:39:58.086362Z",
+  "updated_at": "2026-08-31T20:41:19.756177Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -70,9 +70,136 @@
       "name": "Politikrummet",
       "url": "https://feed.pod.space/politikrummet",
       "type": "podcast"
+    },
+    {
+      "name": "Älskade politik",
+      "url": "https://feed.pod.space/alskadepolitik",
+      "type": "podcast"
     }
   ],
   "news": [
+    {
+      "title": "Monster eller offer? Snart får trebarnsmamman sin dom",
+      "link": "https://www.dn.se/varlden/monster-eller-offer-snart-far-trebarnsmamman-sin-dom/",
+      "description": "WASHINGTON. Få rättegångar i USA är mer uppmärksammade än den om 36-åriga Lindsay Clancy. I januari 2023 ströp hon sina tre barn och försökte sedan ta sitt liv – men misslyckades. Juryn har överlagt i tre dagar men ännu inte kommit fram till en dom.",
+      "pubDate": "2026-08-31T20:23:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "S-löftet: Utred inställelsetider för polisen",
+      "link": "https://www.expressen.se/nyheter/sverige/s-loftet-utred-installelsetider-for-polisen/",
+      "description": "Socialdemokraterna lanserar ett nytt vallöfte: Utred ett krav på hur lång tid det får ta för polisen att komma fram efter larm. – Staten måste finnas där när människor behöver den som mest, säger partisekreteraren Tobias Baudin.",
+      "pubDate": "2026-08-31T19:43:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Rysk oppositionspolitiker: ”Vi är inne på Putinregimens sista kapitel”",
+      "link": "https://www.dn.se/varlden/rysk-oppositionspolitiker-vi-ar-inne-pa-putinregimens-sista-kapitel/",
+      "description": "BERLIN. Ryssarna vill egentligen ha slut på kriget, något som oroar Putin. Därför hindrade Kreml det enda antikrigspartiet från att delta i dumavalet, säger Ilja Jasjin, 43, rysk oppositionsledare i exil.",
+      "pubDate": "2026-08-31T19:31:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Åkesson: Busch har sagt att hon inte räds nyval",
+      "link": "https://www.expressen.se/nyheter/sverige/akesson-busch-har-sagt-att-hon-inte-rads-nyval/",
+      "description": "I helgen tonade både SD och KD ned konflikten mellan dem båda.&nbsp; Enligt Jimmie Åkesson har Ebba Busch sagt att hon föredrar nyval framför Magdalena Andersson som statsminister. – Det är tydligt för mig, men då gäller det att man kan säga det offentligt också, säger Åkesson till SVT Nyheter .",
+      "pubDate": "2026-08-31T19:30:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Åkesson kräver offentligt klargörande från Busch",
+      "link": "https://www.sverigesradio.se/artikel/9287724",
+      "description": "Sverigedemokraternas ledare Jimmie Åkesson håller fast vid sitt krav på Ebba Busch om ett offentligt klargörande efter hennes uttalande om att hon vid ett ”exceptionellt läge” skulle kunna stödja en regering ledd av Magdalena Andersson. Enligt Åkesson har KD-ledaren sagt att hon inte räds nyval framför att stödja Magdalena Andersson som statsminister, något Åkesson vill att hon ska uttala offentligt. ”Kan man säga det offentligt så är det ett väldigt bra steg i rätt riktning”, säger Jimmie Åkesson.",
+      "pubDate": "2026-08-31T19:22:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ledare: Dags att hoppa på det europeiska tåget",
+      "link": "https://www.dn.se/ledare/dags-att-hoppa-pa-det-europeiska-taget/",
+      "description": "Under nästa mandatperiod finns skäl att tänka större kring järnvägens upprustning – kanske rent av europeiskt.",
+      "pubDate": "2026-08-31T19:06:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "31 augusti: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/31-augusti-missa-inte-dagens-nyheter/",
+      "description": "Historiskt försvarsavtal klart, Sverige vidare i volleyboll-EM och väljarnas viktigaste frågor – här är nyheterna du inte får missa från dagen.",
+      "pubDate": "2026-08-31T18:59:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Jan Emanuels krav för att rösta på S",
+      "link": "https://www.expressen.se/nyheter/politik/jan-emanuels-krav-for-att-rosta-pa-s/",
+      "description": "Jan Emanuel ska inte rösta på Socialdemokraterna i årets val.&nbsp; Men han har en plan för hur han ska kunna göra det igen.&nbsp; – Jag ska rädda mitt parti genom att få partiledningen att avgå, säger Jan Emanuel.&nbsp;",
+      "pubDate": "2026-08-31T18:35:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "V-mannens judehat: ”Vidrig och lömsk”",
+      "link": "https://www.expressen.se/nyheter/politik/v-mannens-judehat-vidrig-och-lomsk-/",
+      "description": "Abdi&nbsp;Omari Mohamed kandiderar för Vänsterpartiet i Stockholm. På Facebook har han spridit inlägg där judar beskrivs som vidriga och lömska, där L-ledaren Simona Mohamsson kallas ”Ärke-husblatte” och där Sveriges stöd till Ukraina kritiseras utifrån att Zelenskyj påstås vara israelisk medborgare. Efter Expressens frågor har Abdi&nbsp;Omari Mohamed avsagt sig sin kandidatur.",
+      "pubDate": "2026-08-31T18:16:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "L"
+      ]
+    },
+    {
+      "title": "Sveriges största försvarsavtal på årtionden klart",
+      "link": "https://www.dn.se/varlden/sveriges-storsta-forsvarsavtal-pa-artionden-klart/",
+      "description": "I närvaro av Frankrikes president undertecknades på måndagen Sveriges största försvarsavtal på decennier. Länderna fördjupar samtidigt samarbetet på fler områden – inklusive skyddet av franska kärnvapen. – Vi är mycket glada över Frankrikes öppenhet i den här frågan, sade statsminister Ulf Kristersson.",
+      "pubDate": "2026-08-31T17:45:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "SD-källor sågar Tidös valstrategi: ”De vill bara kramas”",
       "link": "https://www.dn.se/sverige/sd-sagar-tidos-valstrategi-de-vill-bara-kramas/",
@@ -123,7 +250,7 @@
     {
       "title": "Centerns klimatplan: Nio av tio nya bilar ska vara eldrivna 2030",
       "link": "https://www.sverigesradio.se/artikel/9287680",
-      "description": "Centerpartiets ledare Elisabeth Thand Ringqvist presenterade idag en klimatplan med 30 åtgärder som partiet kommer att genomföra eller påbörja under de första hundra dagarna i regeringsställning. Planen innehåller bland annat ett elektrifieringsmål för försäljning av nya fordon till 2030. Exempelvis ska nio av tio nya bilar och varannan tung lastbil vara helt eldrivna. Klimatplanen innehåller även förslag om långsiktiga energiöverenskommelser mellan riksdagspartierna, ett starkt arbete med klimatanpassning hos myndigheter och åtgärder för att stärka Sveriges ledarskap i det globala klimatarbetet.",
+      "description": "Centerpartiets ledare Elisabeth Thand Ringqvist presenterade idag en klimatplan med 30 åtgärder som partiet kommer att genomföra eller påbörja under de första hundra dagarna i regeringsställning. Planen innehåller bland annat ett elektrifieringsmål för försäljning av nya fordon till 2030. Exempelvis ska nio av tio nya bilar och varannan tung lastbil vara helt eldrivna. Klimatplanen innehåller även förslag om långsiktiga energiöverenskommelser mellan riksdagspartier samt åtgärder för att stärka myndigheternas arbete med klimatanpassning.",
       "pubDate": "2026-08-31T16:52:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -131,132 +258,6 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "Busch ser Tidö som ett medel – redo att pressa sitt eget lag",
-      "link": "https://www.svt.se/nyheter/inrikes/busch-ser-tido-som-ett-medel-redo-att-pressa-sitt-eget-lag",
-      "description": "Ebba Buschs ”flörtande” med Magdalena Andersson har retat upp Jimmie Åkesson. Men samtidigt har KD:s förhandlingsposition stärkts, enligt Busch. Till SVT säger hon att KD ser Tidö som ”ett medel” med vilket partiet just nu får mest utväxling för sin politik. – Om det skulle ändras får man ju se över det. Men där är vi inte nu.",
-      "pubDate": "2026-08-31T15:12:41Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "”Fregatterna ska ge skydd mot ballistiska robotar”",
-      "link": "https://www.sverigesradio.se/artikel/9287636",
-      "description": "En av Sveriges största försvarsinvesteringar har undertecknats av statsminister Ulf Kristersson och Frankrikes president Emmanuel Macron, affären gäller fyra fregatter från Frankrike. ”Enligt svenska regeringen är det här en investering i svensk säkerhet för flera decennier framåt. Den ska bidra till Natos avskräckning och försvar. Fragatterna ska skydda militära och civila sjöförbindelser och bidra till att hålla viktiga transportleder öppna”, säger Ekots reporter Beatrice Janzon. Fregatterna ska även ge Sverige skydd mot ballistiska robotar, en försvarsförmåga som visat sig vara viktig för Ukrainas motstånd mot Ryssland.",
-      "pubDate": "2026-08-31T15:12:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson om avtalet med Frankrike: ”Stärker svensk säkerhet”",
-      "link": "https://www.sverigesradio.se/artikel/9287625",
-      "description": "Sverige har köpt fyra fregatter av Frankrike. Frankrikes president Emmanuel Macron är i Stockholm under måndagen för att skriva under avtalet, värt 47 miljarder kronor. Statsminister Ulf Kristersson betonar att avtalet stärker svensk säkerhet, men också skapar jobb både i Sverige och i Frankrike. ”Det är alltså inte bara ett avtal som signeras här idag där Sverige köper fyra kraftfulla fregatter utan vi bygger ett djupare samarbete mellan Sverige och Frankrike för att stärka den europeiska pelaren i Nato för lång tid framöver”, säger han.",
-      "pubDate": "2026-08-31T15:03:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Dadgostar om S: ”Vill gå högerut”",
-      "link": "https://www.expressen.se/nyheter/politik/dadgostar-om-s-vill-ga-hogerut/",
-      "description": "Nooshi Dadgostar (V) anser att S-ledningen vill stänga hennes parti ute – för att få driva högerpolitik. Nu uppmanar hon S-väljare att markera. –&nbsp;Magdalena Andersson och Mikael Damberg har länge stått långt till höger om sina gräsrötter.",
-      "pubDate": "2026-08-31T14:39:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "”Ebba Busch blir den man ska bekämpa”",
-      "link": "https://www.dn.se/podd/alskade-politik/ebba-busch-blir-den-man-ska-bekampa/",
-      "description": "Åkesson attackerar Busch – och Busch avvärjer med en fika. Men det räcker inte för SD-ledaren. Är det full kannibalism i Tidöpartierna?",
-      "pubDate": "2026-08-31T14:31:06Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "S vill göra om Ekobrottsmyndigheten för att stoppa gängen",
-      "link": "https://www.sverigesradio.se/artikel/9287462",
-      "description": "Idag presenterade både Socialdemokraterna och Moderaterna flera vallöften på det rättspolitiska området. Flera förslag som var kända sedan tidigare, men Socialdemokraterna presenterade ett nytt förslag om att göra om Ekobrottsmyndigheten i syfte att komma åt den organiserade brottsligheten, enligt partiets rättspolitiska talesperson Theresa Carvalho. Moderaterna vill att farliga män ska tvångsomhändertas när risken för våld mot kvinnor är tydlig. Det är en del av ett program på 30 punkter där mycket redan är känt som skärpta kontaktförbud, förövarregister och dubbla straff för våld mot kvinnor.",
-      "pubDate": "2026-08-31T14:17:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Centerns miljövallöfte: 90 procent nya elbilar år 2030",
-      "link": "https://www.dn.se/sverige/centerns-miljovallofte-90-procent-nya-elbilar-ar-2030/",
-      "description": "Centerpartiets vill att 90 procent av nybilsförsäljningen 2030 ska utgöras av elbilar. Elbilsbonusar, utbyggda laddnät och miljözoner ska hjälpa till att nå målet. – Det är en stor förändring, konstaterar partiledaren Elisabeth Thand Ringqvist.",
-      "pubDate": "2026-08-31T13:20:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Därför vill Åkesson bråka med Busch",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/darfor-vill-akesson-braka-med-busch/",
-      "description": "Jimmie Åkesson kräver svar av Ebba Busch.&nbsp; Har Sverigedemokraterna gett upp om Tidösamarbetet? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-08-31T12:19:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Frågan som Åkesson själv borde svara på",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/fragan-som-akesson-sjalv-borde-svara-pa/",
-      "description": "Jimmie Åkesson kräver lojalitet av sina samarbetspartier. Men har han något att erbjuda i gengäld?",
-      "pubDate": "2026-08-31T12:07:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "DN/Ipsos: Plånboken och vården viktigast när väljarna bestämmer sig",
-      "link": "https://www.dn.se/sverige/dn-ipsos-planboken-och-varden-viktigast-nar-valjarna-bestammer-sig/",
-      "description": "Hushållsekonomin och sjukvården är de viktigaste frågorna när väljarna ska bestämma hur de röstar i riksdagsvalet, enligt en mätning från DN/Ipsos. – Det är helt klart en annan dagordning i den här valrörelsen jämfört med den förra, säger Nicklas Källebring på Ipsos.",
-      "pubDate": "2026-08-31T12:01:13Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
@@ -444,6 +445,19 @@
   ],
   "podcasts": [
     {
+      "title": "”Ebba Busch blir den man ska bekämpa”",
+      "link": "https://pod.space/alskadepolitik/ebba-busch-blir-den-man-ska-bekampa",
+      "description": "Åkesson attackerar Busch – och Busch avvärjer med en fika. Men det räcker inte för SD-ledaren. Är det full kannibalism i Tidöpartierna?",
+      "pubDate": "2026-08-31T14:31:06Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
       "title": "305. Har Åkesson gett upp?",
       "link": "https://pod.space/politikrummet/305-har-akesson-gett-upp",
       "description": "Jimmie Åkesson kräver svar av Ebba Busch. Har Sverigedemokraterna gett upp om Tidö? I studion: Filippa Rogvall, Max V Karlsson och Viktor Barth-Kron Producent: Anna Westman Swantesson Ljudklipp från SVT Ansvarig utgivare: Klas Granström, Expressen AB",
@@ -541,6 +555,16 @@
       ]
     },
     {
+      "title": "L ökar i nya mätningen – trots ”piss in i tältet”",
+      "link": "https://pod.space/alskadepolitik/l-okar-i-nya-matningen-trots-piss-in-i-taltet",
+      "description": "Tidöpartierna knappar in enligt helt ny mätning – samtidigt har de börjat äta på varandra. Eller ”pissa in i tältet” som Romina Pourmokhtari kallar det. Och det surras om alla möjliga regeringsalternativ – vilka är ens möjliga?",
+      "pubDate": "2026-08-25T14:59:31Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
+    {
       "title": "Kvartal Idag: Jomshof: En svensk statsminister kan inte vara muslim",
       "link": "https://pod.space/kvartal/kvartal-idag-jomshof-en-statsminister-kan-inte-vara-muslim",
       "description": "Går emot Jimmie Åkesson om islam. Försvarsmakten larmar om ryss på Muskö. Europadomstolen kräver att aktivist friges. Och kinesisk robot snabbare än Usain Bolt. Programledare: Staffan Dopping.",
@@ -592,39 +616,14 @@
       ]
     },
     {
-      "title": "Partiet och sakfrågan: C och migrationen",
-      "link": "https://pod.space/kvartal/partiet-och-sakfragan-c-och-migrationen",
-      "description": "I Kvartals intervjuserie Partiet och sakfrågan väljer partierna själva vem som deltar och vilket ämne intervjun ska handla om. Centern skickade Niels Paarup-Petersen för att prata migration: Varför anser C att regeringens lönegolv för arbetskraftsinvandrare är skadligt för svensk ekonomi? Varför ska de som betalar mer i skatt få bli medborgare snabbare än andra? Och vad tänker partiet idag om Annie Lööfs resonemang om att Sverige skulle kunna ta emot 30-40 miljoner migranter? Programledare: Jörgen Huitfeldt",
-      "pubDate": "2026-08-21T10:40:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "title": "”Bytet är nedlagt och ska styckas upp” – därför börjar bråket redan innan valet",
+      "link": "https://pod.space/alskadepolitik/bytet-ar-nedlagt-och-ska-styckas-upp-darfor-borjar-braket-redan-innan-valet",
+      "description": "Respektlöst eller rimligt när oppositionspartierna har eftervalskonflikt redan innan valet? Och kan Centerdrömmen om den breda mitten slå in?",
+      "pubDate": "2026-08-21T13:13:13Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "podcast",
       "topics": []
-    },
-    {
-      "title": "Rak höger: \"Jomshof borde flytta hem till Finland\"",
-      "link": "https://pod.space/kvartal/rak-hoger-richard-jomshof-borde-flytta-hem-till-finland",
-      "description": "I filmen Flaggan blir allas fördomar om alla bekräftade – eller blir de? Är filmen SD-fientlig, eller gullar den tvärtom med Sverigevännerna? Ivar Arpi frågar skaparen Michael Lindgren om svenskhet, fördomar och den hycklande urbana medelklassen. Mer oenighet uppstår när Lindgren pratar om hur svenskt islam är och att Richard Jomshof borde flytta hem till Finland.",
-      "pubDate": "2026-08-20T04:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "MP"
-      ]
-    },
-    {
-      "title": "300. Kalldusch för Kristersson",
-      "link": "https://pod.space/politikrummet/300-kalldusch-for-kristersson",
-      "description": "Åtta övertända partiledare slogs om ekonomi och svenska värderingar. Vem vann egentligen Expressens debatt?",
-      "pubDate": "2026-08-18T14:30:30Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M"
-      ]
     }
   ]
 }
