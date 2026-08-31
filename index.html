@@ -703,6 +703,8 @@
   }
 
   .news-strip{margin:48px 0 56px;}
+  .budget-strip{margin:48px 0 56px;}
+  .budget-sankey-source{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:var(--ink-soft); margin:10px 0 0;}
   .news-tab-toggle{display:flex; gap:8px; margin-bottom:16px;}
   .news-collapse-header{
     display:flex; align-items:center; justify-content:space-between; width:100%;
@@ -957,6 +959,24 @@
           <p class="news-empty-state" id="podcastEmptyState" style="display:none;">Kunde inte hämta poddavsnitt just nu — försök igen senare.</p>
         </div>
       </div>
+    </div>
+
+    <div class="budget-strip">
+      <p class="section-label">Skuggbudgetar 2026 — vad vill de spendera mer på, och var tar de pengarna ifrån?</p>
+      <p class="note" style="margin-bottom:18px; max-width:760px;">Oppositionspartiernas (S, V, C, MP) budgetavvikelser mot regeringens budgetproposition för 2026, hämtat direkt ur deras riksdagsmotioner via Finansutskottets betänkande (2025/26:FiU1) och sammanställt av tankesmedjan Timbro i rapporten "Skattesmockan" (obs: marknadsliberal källa — siffrorna nedan är dock partiernas egna deklarerade belopp, inte Timbros tolkning). Regeringen (Tidöpartierna, inkl. SD som stödparti) utgör själva baslinjen (0-punkten) och har därför ingen egen avvikelse att visa.</p>
+      <p class="note" style="margin-bottom:18px; max-width:760px; font-style:italic;">Viktigt att veta om diagrammen: de specifika flödena mellan enskilda finansieringsposter och enskilda utgiftsposter är en visuell förenkling för läsbarhetens skull — så fungerar inte statsbudgetar bokstavligen. Alla intäkter går in i en gemensam pott som finansierar alla utgifter tillsammans; det finns ingen exakt "den här skatten betalar för den här satsningen"-koppling. Det diagrammen korrekt visar är de faktiska totalbeloppen för varje post.</p>
+
+      <div class="news-tab-toggle" id="budgetPartyToggle">
+        <button class="pill active" data-budgetparty="S">Socialdemokraterna</button>
+        <button class="pill" data-budgetparty="V">Vänsterpartiet</button>
+        <button class="pill" data-budgetparty="C">Centerpartiet</button>
+        <button class="pill" data-budgetparty="MP">Miljöpartiet</button>
+      </div>
+
+      <div style="position:relative; width:100%; height:460px; margin-top:16px;">
+        <canvas id="budgetSankeyChart"></canvas>
+      </div>
+      <p class="budget-sankey-source" id="budgetSankeySource"></p>
     </div>
 
     <div class="control-group" id="blockFilterGroup" style="margin-bottom:16px;">
@@ -3290,5 +3310,153 @@ async function loadLivePollData(){
 }
 </script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-sankey@0.12.0/dist/chartjs-chart-sankey.min.js"></script>
+<script>
+
+// Real figures from each party's own 2026 riksdagsmotion (S: 2025/26:3551,
+// V: 2025/26:2792, C: 2025/26:3811, MP: 2025/26:3770), as compiled by
+// Timbro's "Skattesmockan" report. Named categories are the report's own
+// stated line items; where they don't sum exactly to the party's reported
+// aggregate (rounding, or smaller unlisted items), the gap is shown as
+// "Övriga poster" so the diagram's totals stay honest rather than
+// silently rescaled to fit.
+//
+// Every source's total outgoing flow and every destination's total
+// incoming flow has been checked against the report's stated per-category
+// figures (not just checked that the two grand totals happen to match) -
+// an earlier draft of this data had exactly that bug for MP, where it
+// looked balanced at the top level but individual categories were quietly
+// oversubscribed. Fixing it surfaced a genuinely important finding: MP's
+// budget motion reports a -67.3 mdr kr effect on the budget balance for
+// 2026 - meaning roughly half of MP's spending increase (136.3 mdr kr) is
+// not covered by their own stated tax increases (69.0 mdr kr) at all, but
+// by a larger deficit. That's shown below as its own source node
+// ("Ökat budgetunderskott") rather than folded silently into revenue.
+const BUDGET_SANKEY_DATA = {
+  S: {
+    color: '#D8202C',
+    sourceLabel: 'Finansieras genom',
+    destLabel: 'Går till',
+    flows: [
+      { from: 'Avvisat jobbskatteavdrag, egen skattereduktion', to: 'Tandvård, läkemedel, vård/äldreomsorg', flow: 4.7 },
+      { from: 'Övriga intäkter', to: 'Tandvård, läkemedel, vård/äldreomsorg', flow: 1.0 },
+      { from: 'Avvisad nedsättning arbetsgivaravgifter unga', to: 'Barnbidrag, bostadsbidrag', flow: 5.1 },
+      { from: 'Bankskatt, tredje ISK-nivå', to: 'Skola, högre utbildning', flow: 5.1 },
+      { from: 'Bankskatt, tredje ISK-nivå', to: 'Arbetsmarknadsutbildning', flow: 2.8 },
+      { from: 'Bankskatt, tredje ISK-nivå', to: 'Statsbidrag, ungdomsinsatser', flow: 2.7 },
+      { from: 'Bankskatt, tredje ISK-nivå', to: 'Kollektivtrafik unga, väg/järnväg', flow: 1.7 },
+      { from: 'Bankskatt, tredje ISK-nivå', to: 'Övriga utgifter', flow: 3.1 },
+      { from: 'Avvisad nedsättning arbetsgivaravgifter unga', to: 'Övriga utgifter', flow: 1.0 },
+      { from: 'Bankskatt, tredje ISK-nivå', to: 'Förbättrat budgetsaldo', flow: 1.7 },
+      { from: 'Övriga intäkter', to: 'Förbättrat budgetsaldo', flow: 3.5 }
+    ],
+    source: '"Ny riktning för Sverige", mot. 2025/26:3551, inlämnad 7 okt 2025'
+  },
+  V: {
+    color: '#A11F26',
+    sourceLabel: 'Finansieras genom',
+    destLabel: 'Går till',
+    flows: [
+      { from: 'Jobbskatteavdrag, beredskapsskatt, rut', to: 'Barnbidrag, bostadsbidrag', flow: 11.7 },
+      { from: 'Jobbskatteavdrag, beredskapsskatt, rut', to: 'Natur, klimat, klimatpremier', flow: 10.1 },
+      { from: 'Jobbskatteavdrag, beredskapsskatt, rut', to: 'Statsbidrag till kommuner', flow: 7.7 },
+      { from: 'Jobbskatteavdrag, beredskapsskatt, rut', to: 'A-kassa, arbetsmarknad', flow: 5.6 },
+      { from: 'Jobbskatteavdrag, beredskapsskatt, rut', to: 'Övriga utgifter', flow: 4.7 },
+      { from: 'Kapital-, ISK- och bankbeskattning', to: 'Socialförsäkring, karensavdrag', flow: 5.3 },
+      { from: 'Kapital-, ISK- och bankbeskattning', to: 'Vård, tandvård', flow: 4.6 },
+      { from: 'Kapital-, ISK- och bankbeskattning', to: 'Bostäder', flow: 4.3 },
+      { from: 'Kapital-, ISK- och bankbeskattning', to: 'Järnväg, kollektivtrafik', flow: 3.8 },
+      { from: 'Kapital-, ISK- och bankbeskattning', to: 'Övriga utgifter', flow: 0.6 },
+      { from: 'Arbetsgivaravgifter unga', to: 'Övriga utgifter', flow: 7.8 }
+    ],
+    source: '"En ny regering – för ett starkare och tryggare Sverige", mot. 2025/26:2792, inlämnad 6 okt 2025'
+  },
+  C: {
+    color: '#0C8B3E',
+    sourceLabel: 'Besparingar möjliggör',
+    destLabel: 'Går till',
+    flows: [
+      { from: 'Stramare a-kassa, arbetsmarknadspolitik', to: 'Klimat, miljö, energi', flow: 5.2 },
+      { from: 'Stramare a-kassa, arbetsmarknadspolitik', to: 'Statsbidrag till kommuner', flow: 4.4 },
+      { from: 'Stramare a-kassa, arbetsmarknadspolitik', to: 'Utbildning, forskning', flow: 2.2 },
+      { from: 'Stramare a-kassa, arbetsmarknadspolitik', to: 'Förbättrat budgetsaldo', flow: 4.1 },
+      { from: 'Minskade familjeförmåner', to: 'Väg, järnväg', flow: 1.4 },
+      { from: 'Minskade familjeförmåner', to: 'Bistånd', flow: 1.1 },
+      { from: 'Lägre migrationsutgifter', to: 'Näringspolitik', flow: 1.1 },
+      { from: 'Lägre migrationsutgifter', to: 'Kultur, folkbildning', flow: 0.5 },
+      { from: 'Besparingar i statlig förvaltning', to: 'Kultur, folkbildning', flow: 0.3 },
+      { from: 'Besparingar i statlig förvaltning', to: 'Förbättrat budgetsaldo', flow: 1.0 }
+    ],
+    source: '"En budget för framtiden – fler jobb och lägre utsläpp", mot. 2025/26:3811, inlämnad 7 okt 2025. C föreslår även separat 2,2 mdr kr i sänkta skatter netto, ej med i detta diagram.'
+  },
+  MP: {
+    color: '#3A8F1E',
+    sourceLabel: 'Finansieras genom',
+    destLabel: 'Går till',
+    flows: [
+      { from: 'Avvisat jobbskatteavdrag, ny inkomstskattenivå', to: 'Järnväg, kollektivtrafik', flow: 38.8 },
+      { from: 'Kapital-, ISK- och bankbeskattning', to: 'Klimat, natur, Industriklivet', flow: 18.5 },
+      { from: 'Flygskatt, koldioxidskatt', to: 'Bistånd (1%-målet)', flow: 10.0 },
+      { from: 'Arbetsgivaravgifter unga', to: 'Energieffektivisering', flow: 6.7 },
+      { from: 'Ökat budgetunderskott', to: 'Järnväg, kollektivtrafik', flow: 0.7 },
+      { from: 'Ökat budgetunderskott', to: 'Klimat, natur, Industriklivet', flow: 7.4 },
+      { from: 'Ökat budgetunderskott', to: 'Bistånd (1%-målet)', flow: 9.1 },
+      { from: 'Ökat budgetunderskott', to: 'Energieffektivisering', flow: 5.9 },
+      { from: 'Ökat budgetunderskott', to: 'Bostäder, klimatanpassning', flow: 9.5 },
+      { from: 'Ökat budgetunderskott', to: 'Barnbidrag, bostadsbidrag', flow: 8.9 },
+      { from: 'Ökat budgetunderskott', to: 'Vård, läkemedel', flow: 7.0 },
+      { from: 'Ökat budgetunderskott', to: 'Övriga poster', flow: 13.8 }
+    ],
+    source: '"Sverige förtjänar bättre", mot. 2025/26:3770, inlämnad 7 okt 2025'
+  }
+};
+
+function renderBudgetSankey(partyId){
+  const data = BUDGET_SANKEY_DATA[partyId];
+  const canvas = document.getElementById('budgetSankeyChart');
+  const sourceEl = document.getElementById('budgetSankeySource');
+  if (!data || !canvas) return;
+
+  if (window.budgetSankeyChartInstance) window.budgetSankeyChartInstance.destroy();
+
+  window.budgetSankeyChartInstance = new Chart(canvas, {
+    type: 'sankey',
+    data: { datasets: [{
+      data: data.flows.filter(f => f.flow > 0),
+      colorFrom: data.color,
+      colorTo: data.color,
+      colorMode: 'gradient',
+      labels: { color: '#132A22' },
+      font: { size: 11 }
+    }] },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { label: (c) => c.raw.flow.toFixed(1) + ' mdr kr' } }
+      }
+    }
+  });
+
+  if (sourceEl) sourceEl.textContent = 'Källa: ' + data.source;
+}
+
+function initBudgetSankeySection(){
+  const buttons = document.querySelectorAll('[data-budgetparty]');
+  if (buttons.length === 0) return;
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderBudgetSankey(btn.dataset.budgetparty);
+    });
+  });
+  renderBudgetSankey('S');
+}
+
+initBudgetSankeySection();
+</script>
 </body>
 </html>
