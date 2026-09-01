@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T21:29:23.100629Z",
+  "updated_at": "2026-09-01T23:28:25.237685Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -207,29 +207,6 @@
       ]
     },
     {
-      "title": "Tyskland anklagar Putin – krismöte i Sverige",
-      "link": "https://www.expressen.se/nyheter/varlden/tyskland-anklagar-putin-krismote-i-sverige/",
-      "description": "I början av augusti hittades en drönare med sprängämnen på flygplatsen i Leipzig, i närheten av ukrainska fraktplan.&nbsp; Den tyska regeringen anklagar nu officiellt Ryssland för attentatsförsök.&nbsp; Statsminister Ulf Kristersson (M) uttrycker sitt stöd till Tyskland och kallar nationella säkerhetsrådet till möte i morgon.&nbsp; Ryssland hävdar att den tyska regeringen saknar bevis för anklagelsen och att man kommer att ”svara på alla antiryska beslut”. &nbsp;",
-      "pubDate": "2026-09-01T16:09:56Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Så tycker väljarna  om att förtidsrösta",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/rekordmanga-fortidsrostar",
-      "description": "”Lite högtidligt” • Om man ångrar sig?",
-      "pubDate": "2026-09-01T15:37:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Mohamsson: Åkesson är väl stressad över Markus Allard",
       "link": "https://www.dn.se/sverige/mohamsson-akesson-ar-val-stressad-over-markus-allard/",
       "description": "I en intervju med DN säger Ulf Kristersson att högern kan vinna valet utan Liberalerna. Och på torsdag löper Jimmie Åkessons ”deadline” för stödröster till L ut. – Det är lite sjukt att det är jag med mina två procent som är den som tänker på laget, säger Simona Mohamsson.",
@@ -264,6 +241,30 @@
       "pubDate": "2026-09-01T14:46:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Po Tidholm: Strömmer vet inte längre vad ett liberalt samhälle är",
+      "link": "https://www.dn.se/kultur/po-tidholm-strommer-vet-inte-langre-vad-ett-liberalt-samhalle-ar/",
+      "description": "Tidöpartierna vill stoppa brottsdömda från att tjäna pengar på att skildra sin kriminalitet. Ett hisnande förslag som utmanar både tryck- och yttrandefriheten, skriver DN:s Po Tidholm.",
+      "pubDate": "2026-09-01T14:04:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Fouad Youcefi: De här väljarna vill S behålla – till varje pris",
+      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-de-har-valjarna-vill-s-behalla-till-varje-pris",
+      "description": "Socialdemokraterna ökade knappt i senaste valet, och valdagen ser ut att både bli en kamp om väljarna i norra Sverige med SD, storstadsväljarna med M och förortsväljarna med V. – Det här är verkligen ett flerfrontskrig för S, säger valreporter Fouad Youcefi.",
+      "pubDate": "2026-09-01T12:58:39Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
