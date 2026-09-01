@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:39:30.186865Z",
+  "updated_at": "2026-09-01T18:56:07.870196Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,119 @@
   ],
   "news": [
     {
+      "title": "Susanne Nyström: Såg vi just Ulf Kristersson kasta Simona Mohamsson under bussen?",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-sag-vi-just-ulf-kristersson-kasta-simona-mohamsson-under-bussen/",
+      "description": "Inför förra valet kampanjade Ulf Kristersson tillsammans med Liberalerna och slog fast att partiet var viktigt för att bilda en ny borgerlig regering. I år menar han att övriga i Tidö klarar sig bra utan kvartettens minsta parti.",
+      "pubDate": "2026-09-01T18:42:16Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "L"
+      ]
+    },
+    {
+      "title": "KD-källor: Otänkbart att släppa fram Andersson",
+      "link": "https://www.expressen.se/nyheter/politik/kd-kallor-otankbart-att-slappa-fram-andersson/",
+      "description": "Ebba Buschs vänsterflörtande har skapat öppet bråk i Tidösamarbetet. I Kristdemokraterna slår man ifrån sig anklagelserna om att partiet kan bli stödhjul till Magdalena Andersson. – Den svängen kommer aldrig att hända, säger en källa.",
+      "pubDate": "2026-09-01T17:49:08Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "KD"
+      ]
+    },
+    {
+      "title": "Centerpartiets kritik mot egna reformen",
+      "link": "https://www.expressen.se/nyheter/politik/centerpartiets-kritik-mot-egna-reformen/",
+      "description": "Centerpartiet var drivande i den kritiserade reformeringen av Arbetsförmedlingen – och insatsen Rusta och matcha. Nuvarande C-ledaren Elisabeth Thand Ringqvist är självkritisk, och vill nu se en rad förändringar. –&nbsp;Det har varit katastrof både för de arbetssökande och för skattebetalarnas pengar, säger hon.",
+      "pubDate": "2026-09-01T17:36:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "V-toppen om C: ”Man kan inte mobba sig till all sin politik”",
+      "link": "https://www.dn.se/sverige/v-toppen-om-c-man-kan-inte-mobba-sig-till-all-sin-politik/",
+      "description": "Vänsterpartiet mobiliserar mot vad de uppfattar som en socialdemokratisk högersväng. Med en kampanj på sociala medier riktar sig V nu mot S-ledaren Magdalena Andersson. – Vi såg sist hur S och MP blev överkörda av C i januariöverenskommelsen, säger V:s vice ordförande Ida Gabrielsson.",
+      "pubDate": "2026-09-01T17:36:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Kristersson: Ryssland vill skrämmas",
+      "link": "https://www.sverigesradio.se/artikel/9288445",
+      "description": "Statsminister Ulf Kristersson höll på tisdagen en pressträff om säkerhetsläget med anledning av att Tyskland har pekat ut Ryssland för att ligga bakom drönarincidenten i Leipzig tidigare i augusti. ”Det hade kunnat få helt förödande konsekvenser”, säger Ulf Kristersson under pressträffen. Han säger att Ryssland vill skrämmas för att minska Nato-ländernas stöd till Ukraina.",
+      "pubDate": "2026-09-01T17:34:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kristersson: ”De vill skrämmas för att minska stödet till Ukraina”",
+      "link": "https://www.expressen.se/nyheter/sverige/kallar-till-presstraff-efter-attentatsforsok-i-tyskland/",
+      "description": "Tyskland anklagar Ryssland för en allvarlig drönarhändelse på flygplatsen i Leipzig i augusti.&nbsp; Sverige delar Tysklands slutsats och kommer att kalla upp Rysslands ambassadör för att uttrycka en skarp protest.&nbsp; Statsminister Ulf Kristersson (M) betonar att sabotaget hade kunnat få ”förödande konsekvenser för människoliv och europeisk luftfart” om det lyckats. &nbsp; – De vill skrämmas för att minska stödet för Ukraina, säger han.&nbsp;",
+      "pubDate": "2026-09-01T17:11:33Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Efter sänkta matmomsen – S positiva till matpriskommissionen",
+      "link": "https://www.sverigesradio.se/artikel/9288355",
+      "description": "Regeringens sänkning av matmomsen ha gett fullt genomslag med 5,5 procent lägre matpriser, enligt Konsumentverket. Regeringen kallar reformen lyckad och Socialdemokraterna pekar på att matpriskommissionen verkar fungera. Vänsterpartiet varnar dock för att priserna kan stiga igen om konkurrensen inom dagligvaruhandeln inte ökar.",
+      "pubDate": "2026-09-01T16:23:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Tyskland anklagar Putin – krismöte i Sverige",
+      "link": "https://www.expressen.se/nyheter/varlden/tyskland-anklagar-putin-krismote-i-sverige/",
+      "description": "I början av augusti hittades en drönare med sprängämnen på flygplatsen i Leipzig, i närheten av ukrainska fraktplan.&nbsp; Den tyska regeringen anklagar nu officiellt Ryssland för attentatsförsök.&nbsp; Statsminister Ulf Kristersson (M) uttrycker sitt stöd till Tyskland och kallar nationella säkerhetsrådet till möte i morgon.&nbsp; Ryssland hävdar att den tyska regeringen saknar bevis för anklagelsen och att man kommer att ”svara på alla antiryska beslut”. &nbsp;",
+      "pubDate": "2026-09-01T16:09:56Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Så tycker väljarna  om att förtidsrösta",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/rekordmanga-fortidsrostar",
+      "description": "”Lite högtidligt” • Om man ångrar sig?",
+      "pubDate": "2026-09-01T15:37:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Mohamsson: Åkesson är väl stressad över Markus Allard",
       "link": "https://www.dn.se/sverige/mohamsson-akesson-ar-val-stressad-over-markus-allard/",
       "description": "I en intervju med DN säger Ulf Kristersson att högern kan vinna valet utan Liberalerna. Och på torsdag löper Jimmie Åkessons ”deadline” för stödröster till L ut. – Det är lite sjukt att det är jag med mina två procent som är den som tänker på laget, säger Simona Mohamsson.",
@@ -152,115 +265,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Fouad Youcefi: De här väljarna vill S behålla – till varje pris",
-      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-de-har-valjarna-vill-s-behalla-till-varje-pris",
-      "description": "Socialdemokraterna ökade knappt i senaste valet, och valdagen ser ut att både bli en kamp om väljarna i norra Sverige med SD, storstadsväljarna med M och förortsväljarna med V. – Det här är verkligen ett flerfrontskrig för S, säger valreporter Fouad Youcefi.",
-      "pubDate": "2026-09-01T12:58:39Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Max Hjelm: Allt fler är rädda för Centerpartiet – jag förstår dem",
-      "link": "https://www.dn.se/ledare/max-hjelm-allt-fler-ar-radda-for-centerpartiet-jag-forstar-dem/",
-      "description": "Både vänster- och högertankesmedjor varnar för att Centerpartiet kan skapa ”kaos” – men vad betyder det egentligen?",
-      "pubDate": "2026-09-01T12:28:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Socialdemokraterna går till val på ”århundradets tandvårdsreform”",
-      "link": "https://www.svt.se/nyheter/inrikes/socialdemokraterna-gar-till-val-pa-arhundradets-tandvardsreform",
-      "description": "Socialdemokraterna går till val på vad de kallar för ”århundradets tandvårdsreform”. – I Sverige ska vi kunna gå till tandläkaren utan att bli ruinerade, säger S-ledaren Magdalena Andersson.",
-      "pubDate": "2026-09-01T12:16:17Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "V: Återupprätta den svenska modellen",
-      "link": "https://www.expressen.se/nyheter/politik/v-ateruppratta-den-svenska-modellen/",
-      "description": "Vänsterpartiet vill förbättra a-kassan, ta bort avtrappningen i ersättningarna och investera fram nya jobb. – Vi behöver en ny politik som återupprättar den svenska modellen, säger partiledaren Nooshi Dadgostar.",
-      "pubDate": "2026-09-01T12:12:19Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "L vill sätta stopp för sms-lån",
-      "link": "https://www.expressen.se/nyheter/politik/l-vill-satta-stopp-for-sms-lan/",
-      "description": "Liberalerna vill förbjuda både sms-lån och telefonförsäljning.",
-      "pubDate": "2026-09-01T12:09:29Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "V-politiker hoppar av efter antisemitiska inlägg",
-      "link": "https://www.sverigesradio.se/artikel/9288095",
-      "description": "En politiker som kandiderar för Vänsterpartiet i Stockholms kommun hoppar av sitt uppdrag, rapporterar Expressen. Enligt tidningen har personen i fråga spridit antisemitiska och hatiska inlägg på Facebook. Bland annat att judar är ”vidriga och lömska”. ”Han har fått avgå nu då på grund av detta. Så då har vi agerat omedelbart”, säger V-ledaren Nooshi Dadgostar.",
-      "pubDate": "2026-09-01T11:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Kristersson (M): ”Vi är på rätt väg – men verkligen inte framme”",
-      "link": "https://www.sverigesradio.se/artikel/9288053",
-      "description": "Hushållens ekonomi och fortsatt bekämpning av kriminaliteten står i fokus i Moderaternas valmanifest, som består av 226 punkter och presenterades i dag. ”Sverige är på rätt väg nu, men vi är verkligen inte framme. När gamla problem löses, då kommer nya problem att ställas i förgrunden”, säger moderatledaren och statsministern Ulf Kristersson. Partiets viktigaste löfte är att en vanligt barnfamilj ska få behålla 5 000 kronor mer i månaden, jämfört med 2022.",
-      "pubDate": "2026-09-01T10:53:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S lovar billigare tandvård – presenterar valmanifest",
-      "link": "https://www.expressen.se/nyheter/politik/s-lovar-billigare-tandvard/",
-      "description": "Socialdemokraterna går till val på billigare tandvård. Vuxna ska betala max tio procent av priset för en behandling, enligt förslaget. – I Sverige ska vi kunna gå till tandläkaren utan att bli ruinerade, säger S-ledaren Magdalena Andersson. Missa ingenting om valet 2026 - ladda ned Expressens app här &nbsp;",
-      "pubDate": "2026-09-01T10:34:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Sänkningen av matmomsen har lett till lägre priser",
-      "link": "https://www.sverigesradio.se/artikel/9288012",
-      "description": "Matmomssänkningen har gett lägre livsmedelspriser, enligt en första redovisning från Konsumentverket och Konjunkturinstitutet. Enligt myndigheternas beräkningar har en matkasse blivit 5,5 procent billigare, vilket motsvarar momssänkningen. Reformen gäller under 2027 och vare sig finansminister Elisabeth Svantesson (M) eller civilminister Erik Slottner (KD) vill spekulera i vad som sker därefter.",
-      "pubDate": "2026-09-01T10:11:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     }
   ],
