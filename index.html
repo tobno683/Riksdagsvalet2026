@@ -314,10 +314,18 @@
   /* Topic spectrum chart — compact */
   .topics-strip{margin:56px 0 10px;}
   .topic-legend{
-    display:flex; flex-wrap:wrap; gap:12px; margin-bottom:16px;
-    font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft);
+    display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px;
+    font-family:'IBM Plex Mono',monospace; font-size:11px;
   }
-  .topic-legend-item{display:flex; align-items:center; gap:5px;}
+  .topic-legend-item{
+    display:flex; align-items:center; gap:5px; cursor:pointer;
+    background:none; border:1px solid var(--line); border-radius:100px;
+    padding:4px 10px; color:var(--ink-soft); transition:opacity .15s ease, border-color .15s ease;
+    font-family:'IBM Plex Mono',monospace; font-size:11px;
+  }
+  .topic-legend-item:hover{border-color:var(--focus);}
+  .topic-legend-item.is-dimmed{opacity:0.35;}
+  .topic-legend-item.is-active{border-color:var(--focus); color:var(--ink); font-weight:600;}
   .topic-legend-dot{width:9px; height:9px; border-radius:50%; flex-shrink:0;}
   .topics-card{
     background:var(--card); border:1px solid var(--line); padding:6px 22px;
@@ -1918,26 +1926,45 @@ function partyColor(id){
   return p ? p.color : "#999";
 }
 
+let selectedTopicParties = new Set();
+
 function renderTopicLegend(){
   const el = document.getElementById('topicLegend');
   if (!el) return;
-  el.innerHTML = PARTIES.map(p => `
-    <span class="topic-legend-item">
+  const hasSelection = selectedTopicParties.size > 0;
+  el.innerHTML = PARTIES.map(p => {
+    const isActive = selectedTopicParties.has(p.id);
+    const isDimmed = hasSelection && !isActive;
+    return `
+    <button class="topic-legend-item ${isActive ? 'is-active' : ''} ${isDimmed ? 'is-dimmed' : ''}" data-legend-party="${p.id}">
       <span class="topic-legend-dot" style="background:${p.color}"></span>${p.id}
-    </span>
-  `).join('');
+    </button>
+  `;
+  }).join('');
+
+  el.querySelectorAll('[data-legend-party]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const pid = btn.dataset.legendParty;
+      if (selectedTopicParties.has(pid)) selectedTopicParties.delete(pid);
+      else selectedTopicParties.add(pid);
+      renderTopicLegend();
+      renderTopics();
+    });
+  });
 }
 
 function renderTopics(){
   const el = document.getElementById('topicsChart');
   if (!el) return;
+  const hasSelection = selectedTopicParties.size > 0;
   el.innerHTML = TOPICS.map((topic, idx) => {
+    const visibleEntries = Object.entries(topic.scores).filter(([pid]) => !hasSelection || selectedTopicParties.has(pid));
     // group party ids sharing the same score so overlapping dots can fan out
     const groups = {};
-    Object.entries(topic.scores).forEach(([pid, score]) => {
+    visibleEntries.forEach(([pid, score]) => {
       (groups[score] = groups[score] || []).push(pid);
     });
-    const dots = Object.entries(topic.scores).map(([pid, score]) => {
+    const dots = visibleEntries.map(([pid, score]) => {
       const pct = 6 + ((score - 1) / 4) * 88; // map 1..5 to 6%..94%, leaving margin at both ends
       const group = groups[score];
       const n = group.length;
