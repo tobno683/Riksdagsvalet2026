@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T06:20:39.767423Z",
+  "updated_at": "2026-09-01T11:50:45.499092Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,28 +79,150 @@
   ],
   "news": [
     {
-      "title": "Svantesson slår tillbaka mot Ebba Buschs kritik",
-      "link": "https://www.expressen.se/nyheter/politik/svantesson-slar-tillbaka-mot-ebba-buschs-kritik/",
-      "description": "Hur mycket pengar kan nästa regering spendera? Frågan har orsakat en spricka i regeringen –&nbsp;där Ebba Busch ifrågasätter Finansdepartementets prognos.&nbsp; Nu slår Elisabeth Svantesson tillbaka. – Vi moderater har gjort ett gediget arbete att ta fram och presentera finansiering, säger finansministern.",
-      "pubDate": "2026-09-01T04:42:00Z",
+      "title": "V-politiker hoppar av efter antisemitiska inlägg",
+      "link": "https://www.sverigesradio.se/artikel/9288095",
+      "description": "En politiker som kandiderar för Vänsterpartiet i Stockholms kommun hoppar av sitt uppdrag, rapporterar Expressen. Enligt tidningen har personen i fråga spridit antisemitiska och hatiska inlägg på Facebook. Bland annat att judar är ”vidriga och lömska”. ”Han har fått avgå nu då på grund av detta. Så då har vi agerat omedelbart”, säger V-ledaren Nooshi Dadgostar.",
+      "pubDate": "2026-09-01T11:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kristersson (M): ”Vi är på rätt väg – men verkligen inte framme”",
+      "link": "https://www.sverigesradio.se/artikel/9288053",
+      "description": "Hushållens ekonomi och fortsatt bekämpning av kriminaliteten står i fokus i Moderaternas valmanifest, som består av 226 punkter och presenterades i dag. ”Sverige är på rätt väg nu, men vi är verkligen inte framme. När gamla problem löses, då kommer nya problem att ställas i förgrunden”, säger moderatledaren och statsministern Ulf Kristersson. Partiets viktigaste löfte är att en vanligt barnfamilj ska få behålla 5 000 kronor mer i månaden, jämfört med 2022.",
+      "pubDate": "2026-09-01T10:53:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "S lovar billigare tandvård – presenterar valprogram",
+      "link": "https://www.expressen.se/nyheter/politik/s-lovar-billigare-tandvard/",
+      "description": "Socialdemokraterna går till val på billigare tandvård. Vuxna ska betala max tio procent av priset för en behandling, enligt förslaget. – I Sverige ska vi kunna gå till tandläkaren utan att bli ruinerade, säger S-ledaren Magdalena Andersson. Missa ingenting om valet 2026 - ladda ned Expressens app här &nbsp;",
+      "pubDate": "2026-09-01T10:34:26Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Sänkningen av matmomsen har lett till lägre priser",
+      "link": "https://www.sverigesradio.se/artikel/9288012",
+      "description": "Matmomssänkningen har gett lägre livsmedelspriser, enligt en första redovisning från Konsumentverket och Konjunkturinstitutet. Enligt myndigheternas beräkningar har en matkasse blivit 5,5 procent billigare, vilket motsvarar momssänkningen. Reformen gäller under 2027 och vare sig finansminister Elisabeth Svantesson (M) eller civilminister Erik Slottner (KD) vill spekulera i vad som sker därefter.",
+      "pubDate": "2026-09-01T10:11:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Niklas Ekdal: Tidölagets stora problem ryms i ett enda ord",
+      "link": "https://www.dn.se/kultur/niklas-ekdal-tidolagets-stora-problem-ryms-i-ett-enda-ord/",
+      "description": "”Folket” har åter hamnat i politikens centrum. Men vem som egentligen räknas dit kan bli en avgörande fråga i valet – och kanske förklara varför Tidöpartierna har så svårt att lyfta, trots infriade vallöften, skriver Niklas Ekdal.",
+      "pubDate": "2026-09-01T09:30:14Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Kristerssons svar till L: Kan visst vinna",
+      "link": "https://www.expressen.se/nyheter/politik/kristerssons-var-till-l-kan-visst-vinna/",
+      "description": "Tidöpartierna kan vinna valet även utan Liberalerna. Orden från statsminister Ulf Kristersson fick mothugg av L – nu svarar han. – Det är klart vi kan, säger han.",
+      "pubDate": "2026-09-01T09:15:22Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
-        "KD"
+        "L",
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "Kristersson: Kan vinna utan L",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=cc47b7ff-348c-44db-95d8-8057905d15d8",
-      "description": "M: Stödrösta inte",
-      "pubDate": "2026-09-01T04:31:36Z",
+      "title": "Chatta med Expressen inför valet",
+      "link": "https://www.expressen.se/nyheter/politik/chatta-med-expressen-infor-valet/",
+      "description": "Nästa helg går Sverige till val. Vad undrar du om svensk politik! Politikreporter Max V Karlsson svarade på läsarnas frågor.",
+      "pubDate": "2026-09-01T09:02:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "PRO vill ha upp pensionerna i valrörelsen",
+      "link": "https://www.sverigesradio.se/artikel/9287940",
+      "description": "Pensionerna har kommit i bakgrunden i den här valrörelsen, tycker pensionärernas riksorganisation PRO. Den så kallade gasen, en mekanism som skulle räkna upp pensionerna automatiskt i goda tider, är så snål att den knappast märks, tycker PRO:s ordförande Åsa Lindestam. Vänsterpartiet vill höja pensionerna med ett par tusenlappar i månaden. Moderaterna vill ha ett skatteavdrag som skulle ge en genomsnittspensionär cirka 300-400 kronor extra i månaden.",
+      "pubDate": "2026-09-01T08:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "MP"
+      ]
+    },
+    {
+      "title": "MP: Stärk Industriklivet med tre miljarder",
+      "link": "https://www.expressen.se/nyheter/politik/mp-stark-industriklivet-med-tre-miljarder/",
+      "description": "För att få fart på den gröna omställningen utlovar Miljöpartiet tre miljarder i tillskott till det statliga Industriklivet. Pengarna utlovas i ”ett grönt industripaket” från partiet.",
+      "pubDate": "2026-09-01T08:40:38Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "M lovar full finansiering av alla vallöften",
+      "link": "https://www.svt.se/nyheter/inrikes/m-lovar-full-finansiering-av-alla-valloften",
+      "description": "Moderaterna lägger fram sitt valmanifest på 226 punkter. Partiet lovar full finansiering av alla sina vallöften.",
+      "pubDate": "2026-09-01T08:18:06Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
         "M"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Reinfeldts recept kan bli Kristerssons fall",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-reinfeldts-recept-kan-bli-kristerssons-fall/",
+      "description": "Ulf Kristerssons försök att vinna valet genom att visa upp ett samlat lag ser ut att misslyckas. Moderatledarens kritiker drar nu slutsatsen att det var ett strategiskt misstag att lova Jimmie Åkesson statsrådsposter. Men det avgörande vägvalet gjordes långt tidigare.",
+      "pubDate": "2026-09-01T07:48:49Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Moderaterna presenterar valmanifest 2026",
+      "link": "https://www.expressen.se/nyheter/politik/moderaterna-presenterar-valmanifest-2026/",
+      "description": "Moderaterna presenterar nu sitt valmanifest. Partiet går till val på att halvera antalet personer som lever på försörjningsstöd och att skärpa kraven på arbetslösa att flytta till jobb. – Ansträngning ska alltid löna sig. Att gå ”the extra mile”, säger statsminister Ulf Kristersson.",
+      "pubDate": "2026-09-01T07:16:22Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
       ]
     },
     {
@@ -141,131 +263,19 @@
         "M",
         "KD"
       ]
-    },
-    {
-      "title": "Direktrapport | Senaste nytt om svenska valet",
-      "link": "https://www.sverigesradio.se/artikel/9227357",
-      "description": "13 september 2026 går Sverige till val. Här samlar vi Ekots rapportering om riksdagsvalet och svensk politik 2026.",
-      "pubDate": "2026-08-31T22:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "S-löftet: Utred inställelsetider för polisen",
-      "link": "https://www.expressen.se/nyheter/sverige/s-loftet-utred-installelsetider-for-polisen/",
-      "description": "Socialdemokraterna lanserar ett nytt vallöfte: Utred ett krav på hur lång tid det får ta för polisen att komma fram efter larm. – Staten måste finnas där när människor behöver den som mest, säger partisekreteraren Tobias Baudin.",
-      "pubDate": "2026-08-31T19:43:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Åkesson kräver offentligt klargörande från Busch",
-      "link": "https://www.sverigesradio.se/artikel/9287724",
-      "description": "Sverigedemokraternas ledare Jimmie Åkesson håller fast vid sitt krav på Ebba Busch om ett offentligt klargörande efter hennes uttalande om att hon vid ett ”exceptionellt läge” skulle kunna stödja en regering ledd av Magdalena Andersson. Enligt Åkesson har KD-ledaren sagt att hon inte räds nyval framför att stödja Magdalena Andersson som statsminister, något Åkesson vill att hon ska uttala offentligt. ”Kan man säga det offentligt så är det ett väldigt bra steg i rätt riktning”, säger Jimmie Åkesson.",
-      "pubDate": "2026-08-31T19:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "31 augusti: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/31-augusti-missa-inte-dagens-nyheter/",
-      "description": "Historiskt försvarsavtal klart, Sverige vidare i volleyboll-EM och väljarnas viktigaste frågor – här är nyheterna du inte får missa från dagen.",
-      "pubDate": "2026-08-31T18:59:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Sveriges största försvarsavtal på årtionden klart",
-      "link": "https://www.dn.se/varlden/sveriges-storsta-forsvarsavtal-pa-artionden-klart/",
-      "description": "I närvaro av Frankrikes president undertecknades på måndagen Sveriges största försvarsavtal på decennier. Länderna fördjupar samtidigt samarbetet på fler områden – inklusive skyddet av franska kärnvapen. – Vi är mycket glada över Frankrikes öppenhet i den här frågan, sade statsminister Ulf Kristersson.",
-      "pubDate": "2026-08-31T17:45:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "SD-källor sågar Tidös valstrategi: ”De vill bara kramas”",
-      "link": "https://www.dn.se/sverige/sd-sagar-tidos-valstrategi-de-vill-bara-kramas/",
-      "description": "Tidöpartiernas valstrategi ”det enade laget” skakar i grunden. Nu söker SD konflikt med M, L och KD – som inte vill plocka upp bollen. – Ibland känner man sig som matadoren i Tjuren Ferdinand. ”Stånga mig! Sparka mig! Gör någonting!”, säger en central SD-källa.",
-      "pubDate": "2026-08-31T17:22:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Susanne Nyström: Bakom Kristerssons ord döljer sig en krass verklighet",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-bakom-kristerssons-ord-doljer-sig-en-krass-verklighet/",
-      "description": "I SVT:s partiledarutfrågning sa Ulf Kristersson (M) att han skulle tycka att det vore tråkigt om någon tror att man inte är välkommen till Sverige, bara för att man har utländska rötter. Det är möjligt att han menar det han säger. Men i så fall bör han byta strategi.",
-      "pubDate": "2026-08-31T17:04:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Centerns klimatplan: Nio av tio nya bilar ska vara eldrivna 2030",
-      "link": "https://www.sverigesradio.se/artikel/9287680",
-      "description": "Centerpartiets ledare Elisabeth Thand Ringqvist presenterade idag en klimatplan med 30 åtgärder som partiet kommer att genomföra eller påbörja under de första hundra dagarna i regeringsställning. Planen innehåller bland annat ett elektrifieringsmål för försäljning av nya fordon till 2030. Exempelvis ska nio av tio nya bilar och varannan tung lastbil vara helt eldrivna. Klimatplanen innehåller även förslag om långsiktiga energiöverenskommelser mellan riksdagspartier samt åtgärder för att stärka myndigheternas arbete med klimatanpassning.",
-      "pubDate": "2026-08-31T16:52:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Busch ser Tidö som ett medel – redo att pressa sitt eget lag",
-      "link": "https://www.svt.se/nyheter/inrikes/busch-ser-tido-som-ett-medel-redo-att-pressa-sitt-eget-lag",
-      "description": "Ebba Buschs ”flörtande” med Magdalena Andersson har retat upp Jimmie Åkesson. Men samtidigt har KD:s förhandlingsposition stärkts, enligt Busch. Till SVT säger hon att KD ser Tidö som ”ett medel” med vilket partiet just nu får mest utväxling för sin politik. – Om det skulle ändras får man ju se över det. Men där är vi inte nu.",
-      "pubDate": "2026-08-31T15:12:41Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Macron hoppas på fler försvarssamarbeten",
-      "link": "https://www.sverigesradio.se/artikel/9287636",
-      "description": "En av Sveriges största försvarsinvesteringar har undertecknats av statsminister Ulf Kristersson och Frankrikes president Emmanuel Macron, affären gäller fyra fregatter från Frankrike. ”Det är en investering i svensk marinsäkerhet för decennier framåt som skapar svenska jobb”, säger Ulf Kristersson på pressträffen. President Macron hoppas på fler försvarssamarbeten i Europa med sammanflätade industrier som gör oss mer oberoende och konkurrenskraftiga.",
-      "pubDate": "2026-08-31T15:12:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Kan israeliska teknikföretag påverka det svenska valet?",
+      "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
+      "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
+      "pubDate": "2026-09-01T08:58:35Z",
+      "source": "Parabol",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Miljöpartiet och Palestinarörelsen: Fridolin, Göteborg och ISM 2000-2006",
       "link": "https://ledarsidorna.se/miljopartiet-och-palestinarorelsen-fridolin-goteborg-och-ism-2000-2006/",
@@ -389,42 +399,6 @@
       "topics": [
         "SD",
         "L"
-      ]
-    },
-    {
-      "title": "Läkarna är inte rentvådda från styckmordet",
-      "link": "https://www.parabol.press/lakarna-ar-inte-rentvadda-fran-styckmordet/",
-      "description": "Tvärtom har Gunnar Strömmer inte uttalat sig i skuldfrågan.",
-      "pubDate": "2026-08-01T16:47:25Z",
-      "source": "Parabol",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Vi kan inte rösta bort krigen",
-      "link": "https://www.parabol.press/vi-kan-inte-rosta-bort-krigen/",
-      "description": "Replik på de nya vänsterpartiernas artikel.",
-      "pubDate": "2026-08-01T16:44:25Z",
-      "source": "Parabol",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Eliten i Sverige vill dra in oss i krig mot Ryssland",
-      "link": "https://www.parabol.press/eliten-i-sverige-vill-dra-in-oss-i-krig-mot-ryssland/",
-      "description": "Arméchefen Jonny Lindfors kallar det oundvikligt att vi dras in i nästa storkrig.",
-      "pubDate": "2026-08-01T16:44:21Z",
-      "source": "Parabol",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
       ]
     }
   ],
