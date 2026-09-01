@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T01:20:33.684074Z",
+  "updated_at": "2026-09-01T06:20:39.767423Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,70 @@
   ],
   "news": [
     {
+      "title": "Svantesson slår tillbaka mot Ebba Buschs kritik",
+      "link": "https://www.expressen.se/nyheter/politik/svantesson-slar-tillbaka-mot-ebba-buschs-kritik/",
+      "description": "Hur mycket pengar kan nästa regering spendera? Frågan har orsakat en spricka i regeringen –&nbsp;där Ebba Busch ifrågasätter Finansdepartementets prognos.&nbsp; Nu slår Elisabeth Svantesson tillbaka. – Vi moderater har gjort ett gediget arbete att ta fram och presentera finansiering, säger finansministern.",
+      "pubDate": "2026-09-01T04:42:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "KD"
+      ]
+    },
+    {
+      "title": "Kristersson: Kan vinna utan L",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=cc47b7ff-348c-44db-95d8-8057905d15d8",
+      "description": "M: Stödrösta inte",
+      "pubDate": "2026-09-01T04:31:36Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "S-löftet: Ingen med ”normal inkomst” får höjd skatt",
+      "link": "https://www.svt.se/nyheter/inrikes/s-loftet-ingen-med-normal-inkomst-far-hojd-skatt",
+      "description": "Personer med ”normala inkomster” ska inte betala mer i skatt under nästa mandatperiod, lovar Socialdemokraterna inför höstens val. – Ingen som tjänar under 70 000 kronor varje månad ska få höjd inkomstskatt, säger S-ledaren Magdalena Andersson.",
+      "pubDate": "2026-09-01T04:17:53Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Ulf Kristersson: Vi kan vinna valet utan L",
+      "link": "https://www.dn.se/sverige/ulf-kristersson-vi-kan-vinna-valet-utan-l/",
+      "description": "STRÄNGNÄS. Statsminister Ulf Kristersson, M, är tydlig – han tycker inte att väljarna ska stödrösta på L. Och han tror att de tre andra Tidöpartierna kan vinna valet utan Liberalerna. – Det kan vi absolut göra, säger han.",
+      "pubDate": "2026-09-01T04:00:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "L",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Det är inte fel på mig, det är fel på Jan-Emanuel",
+      "link": "https://www.dn.se/podd/armstrong-sokolnicki/det-ar-inte-fel-pa-mig-det-ar-fel-pa-jan-emanuel/",
+      "description": "Hur ska Kristersson hantera splittringen i Tidögänget? Hur mycket ska partiledarna behöva bjussa på sig själva i tv? Är Busch-bussen en bra idé? Kirsty och Amanda är oense om en hel del men har en sak gemensamt: parkeringsböter.",
+      "pubDate": "2026-09-01T00:00:51Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "KD"
+      ]
+    },
+    {
       "title": "Direktrapport | Senaste nytt om svenska valet",
       "link": "https://www.sverigesradio.se/artikel/9227357",
       "description": "13 september 2026 går Sverige till val. Här samlar vi Ekots rapportering om riksdagsvalet och svensk politik 2026.",
@@ -98,21 +162,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Åkesson: Busch har sagt att hon inte räds nyval",
-      "link": "https://www.expressen.se/nyheter/sverige/akesson-busch-har-sagt-att-hon-inte-rads-nyval/",
-      "description": "I helgen tonade både SD och KD ned konflikten mellan dem båda.&nbsp; Enligt Jimmie Åkesson har Ebba Busch sagt att hon föredrar nyval framför Magdalena Andersson som statsminister. – Det är tydligt för mig, men då gäller det att man kan säga det offentligt också, säger Åkesson till SVT Nyheter .",
-      "pubDate": "2026-08-31T19:30:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD",
-        "Regeringsbildning"
       ]
     },
     {
@@ -139,31 +188,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Jan Emanuels krav för att rösta på S",
-      "link": "https://www.expressen.se/nyheter/politik/jan-emanuels-krav-for-att-rosta-pa-s/",
-      "description": "Jan Emanuel ska inte rösta på Socialdemokraterna i årets val.&nbsp; Men han har en plan för hur han ska kunna göra det igen.&nbsp; – Jag ska rädda mitt parti genom att få partiledningen att avgå, säger Jan Emanuel.&nbsp;",
-      "pubDate": "2026-08-31T18:35:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "V-mannens judehat: ”Vidrig och lömsk”",
-      "link": "https://www.expressen.se/nyheter/politik/v-mannens-judehat-vidrig-och-lomsk-/",
-      "description": "Abdi&nbsp;Omari Mohamed kandiderar för Vänsterpartiet i Stockholm. På Facebook har han spridit inlägg där judar beskrivs som vidriga och lömska, där L-ledaren Simona Mohamsson kallas ”Ärke-husblatte” och där Sveriges stöd till Ukraina kritiseras utifrån att Zelenskyj påstås vara israelisk medborgare. Efter Expressens frågor har Abdi&nbsp;Omari Mohamed avsagt sig sin kandidatur.",
-      "pubDate": "2026-08-31T18:16:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "L"
-      ]
     },
     {
       "title": "Sveriges största försvarsavtal på årtionden klart",
@@ -202,18 +226,6 @@
       ]
     },
     {
-      "title": "Centerns 7 klimatkrav – för nästa regering",
-      "link": "https://www.expressen.se/nyheter/politik/centerns-7-klimatkrav-for-nasta-regering/",
-      "description": "Centerpartiet kan få en vågmästarroll efter riksdagsvalet.&nbsp; Nu presenterar partiet sju klimatfrågor som man vill börja jobba med ”under de första 100 dagarna i regeringsställning”.&nbsp; – Vi ska se till att leda den gröna industrirevolutionen, säger partiledaren Elisabeth Thand Ringqvist i sitt valtal.&nbsp;",
-      "pubDate": "2026-08-31T16:54:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "Centerns klimatplan: Nio av tio nya bilar ska vara eldrivna 2030",
       "link": "https://www.sverigesradio.se/artikel/9287680",
       "description": "Centerpartiets ledare Elisabeth Thand Ringqvist presenterade idag en klimatplan med 30 åtgärder som partiet kommer att genomföra eller påbörja under de första hundra dagarna i regeringsställning. Planen innehåller bland annat ett elektrifieringsmål för försäljning av nya fordon till 2030. Exempelvis ska nio av tio nya bilar och varannan tung lastbil vara helt eldrivna. Klimatplanen innehåller även förslag om långsiktiga energiöverenskommelser mellan riksdagspartier samt åtgärder för att stärka myndigheternas arbete med klimatanpassning.",
@@ -244,19 +256,6 @@
       "link": "https://www.sverigesradio.se/artikel/9287636",
       "description": "En av Sveriges största försvarsinvesteringar har undertecknats av statsminister Ulf Kristersson och Frankrikes president Emmanuel Macron, affären gäller fyra fregatter från Frankrike. ”Det är en investering i svensk marinsäkerhet för decennier framåt som skapar svenska jobb”, säger Ulf Kristersson på pressträffen. President Macron hoppas på fler försvarssamarbeten i Europa med sammanflätade industrier som gör oss mer oberoende och konkurrenskraftiga.",
       "pubDate": "2026-08-31T15:12:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson om avtalet med Frankrike: ”Stärker svensk säkerhet”",
-      "link": "https://www.sverigesradio.se/artikel/9287625",
-      "description": "Sverige har köpt fyra fregatter av Frankrike. Frankrikes president Emmanuel Macron är i Stockholm under måndagen för att skriva under avtalet, värt 47 miljarder kronor. Statsminister Ulf Kristersson betonar att avtalet stärker svensk säkerhet, men också skapar jobb både i Sverige och i Frankrike. ”Det är alltså inte bara ett avtal som signeras här idag där Sverige köper fyra kraftfulla fregatter utan vi bygger ett djupare samarbete mellan Sverige och Frankrike för att stärka den europeiska pelaren i Nato för lång tid framöver”, säger han.",
-      "pubDate": "2026-08-31T15:03:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
@@ -431,6 +430,16 @@
   ],
   "podcasts": [
     {
+      "title": "Under all kritik: Invandringen ritar om valkartan i det tysta",
+      "link": "https://pod.space/kvartal/under-all-kritik-invandringen-ritar-om-valkartan-i-det-tysta",
+      "description": "Kung Harald och Dolly Parton blev symboler för kontinuitet i en splittrad tid. Anna-Karin och Ivar minns två enande gestalter och frågar varför könsgapet i valet studeras in i minsta detalj, medan klyftan mellan väljare med svensk och utländsk bakgrund förbises.",
+      "pubDate": "2026-09-01T04:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
+    {
       "title": "”Ebba Busch blir den man ska bekämpa”",
       "link": "https://pod.space/alskadepolitik/ebba-busch-blir-den-man-ska-bekampa",
       "description": "Åkesson attackerar Busch – och Busch avvärjer med en fika. Men det räcker inte för SD-ledaren. Är det full kannibalism i Tidöpartierna?",
@@ -598,19 +607,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": []
-    },
-    {
-      "title": "Rak höger: \"Jomshof borde flytta hem till Finland\"",
-      "link": "https://pod.space/kvartal/rak-hoger-richard-jomshof-borde-flytta-hem-till-finland",
-      "description": "I filmen Flaggan blir allas fördomar om alla bekräftade – eller blir de? Är filmen SD-fientlig, eller gullar den tvärtom med Sverigevännerna? Ivar Arpi frågar skaparen Michael Lindgren om svenskhet, fördomar och den hycklande urbana medelklassen. Mer oenighet uppstår när Lindgren pratar om hur svenskt islam är och att Richard Jomshof borde flytta hem till Finland.",
-      "pubDate": "2026-08-20T04:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "MP"
-      ]
     }
   ]
 }
