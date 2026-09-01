@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T18:56:07.870196Z",
+  "updated_at": "2026-09-01T21:29:23.100629Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,44 @@
   ],
   "news": [
     {
+      "title": "S vill inte höja bränslepriset – trots risk för missat klimatmål",
+      "link": "https://www.svt.se/nyheter/inrikes/s-vill-inte-hoja-branslepriset-trots-risk-for-missat-klimatmal",
+      "description": "Magdalena Andersson (S) kritiserar Tidöpartiernas klimatpolitik i SVT:s utfrågning – men vill själv inte höja skatten på drivmedel. Detta trots att experter pekar ut det som nödvändigt för att klara klimatmålet till 2030. – Vi har inga förslag om att höja bränsleskatten, säger hon.",
+      "pubDate": "2026-09-01T19:54:15Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Andersson: V har ”lång resa att göra”",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-v-har-lang-resa-att-gora/",
+      "description": "V har en ”lång resa att göra”. Det konstaterar S-ledaren Magdalena Andersson i SVT:s partiledarutfrågning. Men trots att det bara är tolv dagar kvar till valet vill hon fortfarande inte svara på vilka partier hon kan tänka sig att regera med.",
+      "pubDate": "2026-09-01T19:35:36Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Åkesson och Mohamssons kram-kupp i SVT",
+      "link": "https://www.expressen.se/nyheter/politik/akesson-och-mohamssons-kram-kupp-i-svt/",
+      "description": "Simona Mohamsson och Jimmie Åkesson möttes under tisdagskvällen i debatt i SVT:s Aktuellt. Partiledarna var i överens i många frågor – och avslutade debatten med en kramkupp.&nbsp; – Vi kramas jättegärna, ska vi kramas? frågade Åkesson innan han kramade om Tidökollegan.&nbsp;",
+      "pubDate": "2026-09-01T19:27:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
       "title": "Susanne Nyström: Såg vi just Ulf Kristersson kasta Simona Mohamsson under bussen?",
       "link": "https://www.dn.se/ledare/susanne-nystrom-sag-vi-just-ulf-kristersson-kasta-simona-mohamsson-under-bussen/",
       "description": "Inför förra valet kampanjade Ulf Kristersson tillsammans med Liberalerna och slog fast att partiet var viktigt för att bilda en ny borgerlig regering. I år menar han att övriga i Tidö klarar sig bra utan kvartettens minsta parti.",
@@ -130,9 +168,9 @@
       ]
     },
     {
-      "title": "Kristersson: Ryssland vill skrämmas",
+      "title": "Sverige kallar upp Rysslands ambassadör efter tyska utpekandet",
       "link": "https://www.sverigesradio.se/artikel/9288445",
-      "description": "Statsminister Ulf Kristersson höll på tisdagen en pressträff om säkerhetsläget med anledning av att Tyskland har pekat ut Ryssland för att ligga bakom drönarincidenten i Leipzig tidigare i augusti. ”Det hade kunnat få helt förödande konsekvenser”, säger Ulf Kristersson under pressträffen. Han säger att Ryssland vill skrämmas för att minska Nato-ländernas stöd till Ukraina.",
+      "description": "Efter Tysklands utpekande kommer Sverige kalla upp Rysslands ambassadör för att framföra en protest, det sa statsminister Ulf Kristersson vid en pressträff som hölls efter det tyska utpekandet. ”Det hade kunnat få helt förödande konsekvenser”, sa Kristersson. På senaste tiden har det skett flera incidenter i Europa där det funnits misstankar om att det är Ryssland som ligger bakom, och att det riktas mot stödet till Ukraina men det här är första gången som Ryssland pekas ut som ansvarig.",
       "pubDate": "2026-09-01T17:34:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -220,18 +258,6 @@
       ]
     },
     {
-      "title": "Miljardären överger sitt parti: ”Kan inte”",
-      "link": "https://www.expressen.se/nyheter/politik/miljardaren-overger-sitt-parti-kan-inte/",
-      "description": "Företagaren och mångmiljardären Roger Akelius, 81, brukar rösta på Moderaterna.&nbsp; Men det kommer han inte göra i årets val, säger han till Dagens industri. &nbsp;",
-      "pubDate": "2026-09-01T15:09:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "S lovar billigare tandvård för vuxna",
       "link": "https://www.sverigesradio.se/artikel/9288266",
       "description": "Socialdemokraterna går till val på billigare tandvård, där vuxna högst ska betala 10 procent för de flesta behandlingar. Partiet vill också återinföra avgiftsfri tandvård för 19–23-åringar, och säger att reformen ska kosta omkring sex miljarder kronor per år. ”Vi tycker att det är dags att ta nästa steg och se till att tänderna blir en del av kroppen”, säger partiledare Magdalena Andersson (S).",
@@ -242,33 +268,21 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Po Tidholm: Strömmer vet inte längre vad ett liberalt samhälle är",
-      "link": "https://www.dn.se/kultur/po-tidholm-strommer-vet-inte-langre-vad-ett-liberalt-samhalle-ar/",
-      "description": "Tidöpartierna vill stoppa brottsdömda från att tjäna pengar på att skildra sin kriminalitet. Ett hisnande förslag som utmanar både tryck- och yttrandefriheten, skriver DN:s Po Tidholm.",
-      "pubDate": "2026-09-01T14:04:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Åkessons drag –  efter spelningen",
-      "link": "https://www.expressen.se/tv/nyheter/sverige/akesson-far-feeling-leder-kongataget",
-      "description": "Drog in i publiken",
-      "pubDate": "2026-09-01T14:03:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Från medieaktivist till kulturkrigssymbol",
+      "link": "https://www.dagensarena.se/innehall/fran-medieaktivist-till-kulturkrigssymbol/",
+      "description": "Hur ser kopplingen ut mellan Jonatan Alfvén och Sverigedemokraterna? Inlägget Från medieaktivist till kulturkrigssymbol dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-01T20:13:40Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Kan israeliska teknikföretag påverka det svenska valet?",
       "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
