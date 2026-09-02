@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T21:10:37.127956Z",
+  "updated_at": "2026-09-02T23:25:40.196897Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -219,18 +219,6 @@
       ]
     },
     {
-      "title": "S idiotförklarar sina egna väljare",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/s-idiotforklarar-sina-egna-valjare/",
-      "description": "Socialdemokraternas valkampanj går dåligt. Lösningen är knappast att spela ännu dummare.",
-      "pubDate": "2026-09-02T15:07:57Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Företagens orosmoln: Slopad karensavdrag och skattehöjning",
       "link": "https://www.sverigesradio.se/artikel/9291010",
       "description": "Sverige är på väg mot en mild högkonjunktur, enligt storbanken Nordea, med stöd av ökad export och starkare inhemsk efterfrågan. Svenska företag oroas dock över vad som sker efter valet, enligt banken, som pekar ut skattehöjningar som det största orosmolnet på affärshimlen. Nordeas chefsekonom Annika Winsth ser störst risker med förslaget om slopat karensavdrag.",
@@ -265,6 +253,19 @@
       "topics": [
         "V",
         "Debatt"
+      ]
+    },
+    {
+      "title": "Politikreportern: ”Chockvågor” inom S efter opinionsraset",
+      "link": "https://www.svt.se/nyheter/inrikes/politikreportern-chockvagor-inom-s-efter-opinionsraset",
+      "description": "Socialdemokraterna rasar i den senaste opinionsmätningen från Novus/TV4. Partiet ligger nu på 25,8 procent. – Det här skapar en stress i partiet, säger SVT:s politikreporter Tomas Nordenskiöld.",
+      "pubDate": "2026-09-02T13:38:16Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Opinion"
       ]
     }
   ],
