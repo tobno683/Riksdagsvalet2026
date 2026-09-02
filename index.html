@@ -313,16 +313,6 @@
 
   /* Topic spectrum chart — compact */
   .topics-strip{margin:56px 0 10px;}
-  .election-levels-strip{margin:56px 0 10px;}
-  .election-level-grid{display:grid; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); gap:16px;}
-  .election-level-card{background:var(--card); border:1px solid var(--line); padding:22px 24px;}
-  .election-level-ballot{
-    display:inline-block; font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:600;
-    text-transform:uppercase; letter-spacing:.04em; padding:4px 10px; border-radius:4px; margin:0 0 12px;
-  }
-  .election-level-title{font-family:'Fraunces',serif; font-weight:600; font-size:19px; margin:0 0 8px; color:var(--ink);}
-  .election-level-desc{font-size:13.5px; color:var(--ink); line-height:1.55; margin:0;}
-  .election-level-source{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:var(--ink-soft); margin:14px 0 0;}
   .topic-legend{
     display:flex; flex-wrap:wrap; gap:8px; margin-bottom:16px;
     font-family:'IBM Plex Mono',monospace; font-size:11px;
@@ -1043,44 +1033,6 @@
       <div id="topicViewRadar" style="display:none;">
         <p class="note" style="margin-bottom:16px; max-width:700px;">Samma 12 sakfrågor, men vänt ett kvarts varv: här får varje parti sin egen "form" som sammanfattar alla frågor på en gång. Formens riktning avslöjar profilen — spretar den åt samma håll som ett annat parti ligger de partierna nära varandra över lag, inte bara i enskilda frågor.</p>
         <div class="radar-grid" id="radarGrid"></div>
-      </div>
-    </div>
-
-    <div class="election-levels-strip">
-      <p class="section-label">Tre val, en dag</p>
-      <p class="note" style="margin-bottom:16px; max-width:700px;">Söndagen den 13 september 2026 röstar du faktiskt i tre olika val samtidigt — till riksdagen, till din region och till din kommun. Du får tre olika valsedlar och kan rösta på olika partier i var och en. Den här sajten handlar mest om riksdagsvalet, men kommun- och regionvalen påverkar minst lika mycket i vardagen.</p>
-
-      <div class="news-tab-toggle">
-        <button class="pill active" data-electionlevel="riksdag">Riksdagsval</button>
-        <button class="pill" data-electionlevel="kommun">Kommunval</button>
-      </div>
-
-      <div id="electionLevelRiksdag">
-        <div class="election-level-grid">
-          <div class="election-level-card">
-            <p class="election-level-ballot" style="background:#F2C94C;">Gul valsedel</p>
-            <p class="election-level-title">349 mandat i riksdagen</p>
-            <p class="election-level-desc">Beslutar om lagar och statens budget, och avgör vilken regering som kan bildas. 4 % spärr för att komma in. Det här är sajtens huvudfokus — se partiernas fullständiga profiler, budgetjämförelser och opinionsläge ovan.</p>
-          </div>
-        </div>
-      </div>
-
-      <div id="electionLevelKommun" style="display:none;">
-        <div class="election-level-grid">
-          <div class="election-level-card">
-            <p class="election-level-ballot" style="background:#5B9BD5;">Blå valsedel</p>
-            <p class="election-level-title">21 regionfullmäktige</p>
-            <p class="election-level-desc">Ansvarar för sjukvård, kollektivtrafik och regional utveckling — frågor som direkt påverkar väntetider och kommunikationer i vardagen. 3 % spärr i regionen.</p>
-          </div>
-          <div class="election-level-card">
-            <p class="election-level-ballot" style="background:#F2F2F2; color:#132A22; border:1px solid var(--line);">Vit valsedel</p>
-            <p class="election-level-title">290 kommunfullmäktige</p>
-            <p class="election-level-desc">Ansvarar för skola, äldreomsorg, socialtjänst, bibliotek, vatten/avfall och stadsplanering — det mesta av det som direkt märks i vardagen. Ingen enhetlig spärr: 2 % i kommuner med en valkrets, 3 % i kommuner med flera valkretsar.</p>
-          </div>
-        </div>
-        <p class="note" style="margin:18px 0 0; max-width:700px;"><b>Vem får rösta?</b> Fler personer har rösträtt i kommun- och regionvalet än i riksdagsvalet. Utöver svenska medborgare får även EU-medborgare, samt medborgare i Island och Norge, rösta om de är folkbokförda i kommunen — liksom medborgare i andra länder som varit folkbokförda i Sverige i tre år i följd före valdagen. I riksdagsvalet krävs svenskt medborgarskap.</p>
-        <p class="note" style="margin:10px 0 0; max-width:700px;"><b>Du kan rösta olika i de tre valen.</b> Ett parti kan vara för litet för riksdagen men ändå ha stor betydelse i din kommun — och lokala partier utan riksdagsrepresentation finns ofta i kommun- och regionfullmäktige.</p>
-        <p class="election-level-source">Källor: SKR (Sveriges Kommuner och Regioner), Sveriges riksdag, Valmyndigheten</p>
       </div>
     </div>
 
@@ -1906,24 +1858,6 @@ function initNewsTabs(){
       buttons.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       const target = btn.dataset.newstab;
-      Object.keys(panels).forEach(key => {
-        if (panels[key]) panels[key].style.display = key === target ? 'block' : 'none';
-      });
-    });
-  });
-}
-
-function initElectionLevelTabs(){
-  const buttons = document.querySelectorAll('[data-electionlevel]');
-  const panels = {
-    riksdag: document.getElementById('electionLevelRiksdag'),
-    kommun: document.getElementById('electionLevelKommun')
-  };
-  buttons.forEach(btn => {
-    btn.addEventListener('click', () => {
-      buttons.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      const target = btn.dataset.electionlevel;
       Object.keys(panels).forEach(key => {
         if (panels[key]) panels[key].style.display = key === target ? 'block' : 'none';
       });
@@ -3284,7 +3218,6 @@ initTopicViewToggle();
 renderCompassLinks();
 loadNewsFeed();
 initNewsTabs();
-initElectionLevelTabs();
 initNewsCollapse();
 initCompassMetaCollapse();
 setInterval(loadNewsFeed, 5 * 60 * 1000); // refresh every 5 minutes
