@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T06:00:00.809693Z",
+  "updated_at": "2026-09-02T10:43:07.015303Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,17 +79,126 @@
   ],
   "news": [
     {
-      "title": "L rycker i mätningar – gapet mellan blocken minskar",
+      "title": "Baudin efter S chocksiffra: En väckarklocka",
+      "link": "https://www.svt.se/nyheter/inrikes/baudin-efter-s-chocksiffra-en-vackarklocka",
+      "description": "Att gapet mellan regeringspartierna och oppositionen skulle minska var väntat inom S. Men att Socialdemokraterna skulle rasa 4 procent i TV4/Novus skakar om partiet. – Socialdemokraterna ligger långt under den nivå vi vill vara, säger partisekreterare Tobias Baudin.",
+      "pubDate": "2026-09-02T10:33:58Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Nordea: Hushållen behöver inte curlas trots stundande räntehöjning",
+      "link": "https://www.sverigesradio.se/artikel/9288819",
+      "description": "Banken Nordea konstaterar att svensk ekonomi är på väg mot en mild högkonjunktur och justerar därmed upp sin prognos för styrräntan, med en höjning från Riksbanken i november. Hushållen står dock rustade för ett högre ränteläge, enligt banken, som pekar på att konsumtionen ökar och att hushållens skulder, i förhållande till de disponibla inkomsterna, sjunker. Nordeas chefsekonom Annika Winsth efterlyser en mindre generös finanspolitik och mindre ”curlande” av hushållen efter valet.",
+      "pubDate": "2026-09-02T10:19:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ryska påverkansförsök mot franska och tyska valen",
+      "link": "https://www.sverigesradio.se/artikel/9288694",
+      "description": "Det pågår stor rysk aktivitet med informationspåverkan mot de kommande valen i Frankrike och Tyskland, det är mer prioriterat än det svenska valet, enligt Myndigheten för psykologiskt försvar. I länderna är det försök att smutskasta politiker och partier med videoklipp och bilder med anklagelser, ofta helt uppdiktade lögner, säger Karin Lönnheden operativ chef, till Ekot. Inför det svenska valet är myndigheten förberedd på försök till påverkan från bland annat Ryssland, Kina, Iran och USA.",
+      "pubDate": "2026-09-02T10:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Aktivist som pekade ut sexbrottslingar döms",
+      "link": "https://www.svt.se/nyheter/inrikes/aktivist-som-pekade-ut-sexbrottslingar-doms",
+      "description": "Aktivisten Jonathan Alfvén döms till villkorlig dom och dagsböter för grovt förtal efter att ha pekat ut sexualbrottslingar på Facebook. Rättsfallet har fått stor uppmärksamhet, bland annat från justitie- och statsministern, och Alfvéns agerande har fått uttryckligt stöd av Sverigedemokraterna.",
+      "pubDate": "2026-09-02T09:02:24Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Jonatan Alfvén döms för grovt förtal – pekade ut sexualbrottslingar",
+      "link": "https://www.expressen.se/nyheter/krim/jonatan-alfven-hangde-ut-sexualbrottslingar-riskerar-fangelse/",
+      "description": "Jonatan Alfvén hängde ut dömda sexualbrottslingar med namn, bild och bostadsort på Facebook. Nu har han dömts för grovt förtal till villkorlig dom och skadestånd. Ulf Kristersson (M) säger, efter domen: – Vi är bekymrade över nuvarande lagstiftning.",
+      "pubDate": "2026-09-02T08:56:22Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Vallöftet från MP: En miljard till fler avgångar i SL-trafiken",
+      "link": "https://www.dn.se/sverige/valloftet-fran-mp-en-miljard-till-fler-avgangar-i-sl-trafiken/",
+      "description": "Miljöpartiet i Region Stockholm vill satsa en miljard kronor på att utöka antalet avgångar i SL-trafiken. Förhoppningen är att det ska få fler att välja bort bilen. – Den stora förbättringen kan handla om att sätta in nya expressbussar, säger trafikregionrådet Jakop Dalunde (MP) om vallöftet.",
+      "pubDate": "2026-09-02T08:01:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Efter chocktappet för S: ”En varningsklocka”",
+      "link": "https://www.dn.se/sverige/efter-chocktappet-for-s-en-varningsklocka/",
+      "description": "Med 11 dagar kvar till valet tappar Socialdemokraterna stort, och får 25,8 procent i en opinionsmätning från Novus. Liberalerna närmar sig riksdagsspärren med sina 3,3 procent. – Nu ställs valet på sin spets, säger partisekreterare Tobias Baudin (S) om tappet. Jimmie Åkesson säger att han står fast vid sitt krav – 3,5 procent för L – annars ska partiet dumpas.",
+      "pubDate": "2026-09-02T07:51:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "L",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Tobias Baudin om S stora opinionstapp: ”Varningsklocka”",
+      "link": "https://www.expressen.se/nyheter/politik/tobias-baudin-om-s-stora-opinionstapp-varningsklocka/",
+      "description": "Socialdemokraterna landar på 25,8 procent i TV4/Novus senaste opinionsmätning. Om det vore valresultat skulle det innebära partiets sämsta resultat någonsin. Nu kommenterar partisekreterare Tobias Baudin skräcksiffran.&nbsp; – Det här är en varningsklocka.&nbsp;",
+      "pubDate": "2026-09-02T07:40:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Katastrofsiffror för Andersson",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-katastrofsiffror-for-andersson/",
+      "description": "Larmet går i oppositionspartierna efter morgonens opinionssiffror. Allra gällast ljuder varningssignalen hos Socialdemokraterna som riskerar att göra sitt sämsta val någonsin. Då kan både statsministerposten och partiledarskapet ryka för Magdalena Andersson. Lika högt som det larmas hos S jublas det hos Liberalerna.",
+      "pubDate": "2026-09-02T06:57:55Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "L rycker i mätning – gapet mellan blocken minskar",
       "link": "https://www.sverigesradio.se/artikel/9288565",
-      "description": "Liberalerna ökar till 3,3 procent i en ny Novusmätning som gjorts för TV4 Nyheterna och har nu riksdagsspärren på 4 procent närmare i sikte. Samtidigt faller Socialdemokraterna med 4,3 procentenheter jämfört med den föregående mätningen den 19 augusti och landar på 25,8 procent. Förändringarna för både S och L är statistiskt säkerställda, skriver TV4 Nyheterna. På Tidösidan faller Moderaterna med 1,1 procentenheter till 17,2 procent, samtidigt som Sverigedemokraterna ökar med 1,6 procentenheter till 20,7 procent. Sammantaget är de rödgrönas (S, V, MP och C) försprång nu 2,6 procentenheter jämfört med Tidösidan (M, SD, KD och L).",
+      "description": "Liberalerna ökar till 3,3 procent i en ny Novusmätning som gjorts för TV4 Nyheterna, samtidigt som Socialdemokraterna backar till 25,8. Med mindre än två veckor kvar till valet krymper de rödgrönas försprång från 6,9 till 2,6 procentenheter, enligt mätningen för TV4. S kallar siffrorna en varningsklocka, medan L talar om medvind och fred med SD efter tidigare spänningar.",
       "pubDate": "2026-09-02T05:17:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "M",
-        "SD",
         "L"
       ]
     },
@@ -104,9 +213,9 @@
       "topics": []
     },
     {
-      "title": "Liberalerna ökar stort i ny undersökning av Novus/TV4",
+      "title": "Liberalerna ökar stort i ny undersökning av Novus",
       "link": "https://www.expressen.se/nyheter/politik/liberalerna-okar-stort-i-ny-undersokning-av-novustv4/",
-      "description": "Valet närmar sig med stormsteg – och nu kommer en ny mätning från TV4/Novus som tyder på att det kan bli en riktig rysare. Liberalerna ökar stort i mätningen, och får 3,3 procent. Samtidigt får Socialdemokraterna 25,8 procent vilket innebär ett stort ras i opinionen. Missa ingenting om valet 2026 - ladda ned Expressens app här &nbsp;",
+      "description": "Valet närmar sig med stormsteg – och nu kommer en ny mätning från Novus för TV4 och GP som tyder på att det kan bli en riktig rysare. Liberalerna ökar stort i mätningen, och får 3,3 procent. Samtidigt får Socialdemokraterna 25,8 procent vilket innebär ett stort ras i opinionen. Missa ingenting om valet 2026 - ladda ned Expressens app här &nbsp;",
       "pubDate": "2026-09-02T04:02:39Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -119,7 +228,7 @@
     {
       "title": "Novus/TV4: Gapet mellan blocken 2,6 procentenheter",
       "link": "https://www.svt.se/nyheter/inrikes/novustv4-gapet-mellan-blocken-26-procentenheter",
-      "description": "Liberalerna ökar till 3,3 procent, visar en ny mätning från Novus/TV4. Samtidigt minskar oppositionens försprång till 2,6 procentenheter. ”Jag kommer att kampanja och knacka dörr hela vägen in i kaklet för att se till att vi gör ett bra val”, skriver Simona Mohamsson till SVT.",
+      "description": "Liberalerna ökar till 3,3 procent, visar en ny mätning från Novus/TV4. Samtidigt minskar oppositionens försprång till 2,6 procentenheter. – Vi ser att gapet minskar. Liberalerna går framåt och det bådar gott för den dag som spelar roll, nämligen valdagen, säger L:s partiledare Simona Mohamsson till SVT.",
       "pubDate": "2026-09-02T03:53:55Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
@@ -131,7 +240,7 @@
     {
       "title": "Jakten på metaller ställs mot rent vatten",
       "link": "https://www.sverigesradio.se/artikel/9288184",
-      "description": "Tidöpartierna och Socialdemokraterna är beredda att göra ändringar i lagar som skyddar miljön, för att underlätta för gruvnäringen. Det visar en genomgång som Ekot har gjort. ”Vi måste se till att bli mer självförsörjande på kritiska råvaror i Europa och där spelar Sveriges gruvor en väldigt viktig roll”, säger EUs Miljökommissionär, moderaten Jessika Roswall till Ekot. Miljöpartiet och Vänsterpartiet säger nej till att ändra i det EU-direktiv som ska garantera rent vatten.",
+      "description": "Tidöpartierna och Socialdemokraterna är beredda att göra ändringar i lagar som skyddar miljön, för att underlätta för gruvnäringen. Det visar en genomgång som Ekot har gjort. ”Vi måste se till att bli mer självförsörjande på kritiska råvaror i Europa och där spelar Sveriges gruvor en väldigt viktig roll”, säger EUs Miljökommissionär, moderaten Jessika Roswall till Ekot. Miljöpartiet och Vänsterpartiet säger nej till att ändra i det EU-direktiv som ska garantera rent vatten. Rättelse: I en tidigare version av det här inslaget sa vi att Miljöpartiets talesperson heter Vera Luhr. Det var fel. Rätt är att hon heter Katarina Luhr. Den här rättelsen gjordes 2 september 2026.",
       "pubDate": "2026-09-02T03:52:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -147,122 +256,6 @@
       "link": "https://www.svt.se/nyheter/inrikes/s-vill-inte-hoja-branslepriset-trots-risk-for-missat-klimatmal",
       "description": "Magdalena Andersson (S) kritiserar Tidöpartiernas klimatpolitik i SVT:s utfrågning – men vill själv inte höja skatten på drivmedel. Detta trots att experter pekar ut det som nödvändigt för att klara klimatmålet till 2030. – Vi har inga förslag om att höja bränsleskatten, säger hon.",
       "pubDate": "2026-09-01T19:54:15Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Andersson: V har ”lång resa att göra”",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-v-har-lang-resa-att-gora/",
-      "description": "V har en ”lång resa att göra”. Det konstaterar S-ledaren Magdalena Andersson i SVT:s partiledarutfrågning. Men trots att det bara är tolv dagar kvar till valet vill hon fortfarande inte svara på vilka partier hon kan tänka sig att regera med.",
-      "pubDate": "2026-09-01T19:35:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Åkesson och Mohamssons kram-kupp i SVT",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-och-mohamssons-kram-kupp-i-svt/",
-      "description": "Simona Mohamsson och Jimmie Åkesson möttes under tisdagskvällen i debatt i SVT:s Aktuellt. Partiledarna var i överens i många frågor – och avslutade debatten med en kramkupp.&nbsp; – Vi kramas jättegärna, ska vi kramas? frågade Åkesson innan han kramade om Tidökollegan.&nbsp;",
-      "pubDate": "2026-09-01T19:27:40Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "Susanne Nyström: Såg vi just Ulf Kristersson kasta Simona Mohamsson under bussen?",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-sag-vi-just-ulf-kristersson-kasta-simona-mohamsson-under-bussen/",
-      "description": "Inför förra valet kampanjade Ulf Kristersson tillsammans med Liberalerna och slog fast att partiet var viktigt för att bilda en ny borgerlig regering. I år menar han att övriga i Tidö klarar sig bra utan kvartettens minsta parti.",
-      "pubDate": "2026-09-01T18:42:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "L"
-      ]
-    },
-    {
-      "title": "V-toppen om C: ”Man kan inte mobba sig till all sin politik”",
-      "link": "https://www.dn.se/sverige/v-toppen-om-c-man-kan-inte-mobba-sig-till-all-sin-politik/",
-      "description": "Vänsterpartiet mobiliserar mot vad de uppfattar som en socialdemokratisk högersväng. Med en kampanj på sociala medier riktar sig V nu mot S-ledaren Magdalena Andersson. – Vi såg sist hur S och MP blev överkörda av C i januariöverenskommelsen, säger V:s vice ordförande Ida Gabrielsson.",
-      "pubDate": "2026-09-01T17:36:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Sverige kallar upp Rysslands ambassadör efter tyska utpekandet",
-      "link": "https://www.sverigesradio.se/artikel/9288445",
-      "description": "Efter Tysklands utpekande kommer Sverige kalla upp Rysslands ambassadör för att framföra en protest, det sa statsminister Ulf Kristersson vid en pressträff som hölls efter det tyska utpekandet. ”Det hade kunnat få helt förödande konsekvenser”, sa Kristersson. På senaste tiden har det skett flera incidenter i Europa där det funnits misstankar om att det är Ryssland som ligger bakom, och att det riktas mot stödet till Ukraina men det här är första gången som Ryssland pekas ut som ansvarig.",
-      "pubDate": "2026-09-01T17:34:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Efter sänkta matmomsen – S positiva till matpriskommissionen",
-      "link": "https://www.sverigesradio.se/artikel/9288355",
-      "description": "Regeringens sänkning av matmomsen ha gett fullt genomslag med 5,5 procent lägre matpriser, enligt Konsumentverket. Regeringen kallar reformen lyckad och Socialdemokraterna pekar på att matpriskommissionen verkar fungera. Vänsterpartiet varnar dock för att priserna kan stiga igen om konkurrensen inom dagligvaruhandeln inte ökar.",
-      "pubDate": "2026-09-01T16:23:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Mohamsson: Åkesson är väl stressad över Markus Allard",
-      "link": "https://www.dn.se/sverige/mohamsson-akesson-ar-val-stressad-over-markus-allard/",
-      "description": "I en intervju med DN säger Ulf Kristersson att högern kan vinna valet utan Liberalerna. Och på torsdag löper Jimmie Åkessons ”deadline” för stödröster till L ut. – Det är lite sjukt att det är jag med mina två procent som är den som tänker på laget, säger Simona Mohamsson.",
-      "pubDate": "2026-09-01T15:31:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "Po Tidholm: Strömmer vet inte längre vad ett liberalt samhälle är",
-      "link": "https://www.dn.se/kultur/po-tidholm-strommer-vet-inte-langre-vad-ett-liberalt-samhalle-ar/",
-      "description": "Tidöpartierna vill stoppa brottsdömda från att tjäna pengar på att skildra sin kriminalitet. Ett hisnande förslag som utmanar både tryck- och yttrandefriheten, skriver DN:s Po Tidholm.",
-      "pubDate": "2026-09-01T14:04:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Fouad Youcefi: De här väljarna vill S behålla – till varje pris",
-      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-de-har-valjarna-vill-s-behalla-till-varje-pris",
-      "description": "Socialdemokraterna ökade knappt i senaste valet, och valdagen ser ut att både bli en kamp om väljarna i norra Sverige med SD, storstadsväljarna med M och förortsväljarna med V. – Det här är verkligen ett flerfrontskrig för S, säger valreporter Fouad Youcefi.",
-      "pubDate": "2026-09-01T12:58:39Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
@@ -434,6 +427,20 @@
   ],
   "podcasts": [
     {
+      "title": "306. Viktor möter: Ulf Kristersson",
+      "link": "https://pod.space/politikrummet/306-viktor-moter-ulf-kristersson",
+      "description": "Med elva dagar till valet är statsministern gäst hos Viktor Barth-Kron i Expressens intervjustudio. Hur långt behöver Ryssland gå innan vi får en samlingsregering? Har Sverige pratat kärnvapen med Marine Le Pen? Och finns det en hemlig plan om att locka över Centerpartiet till högern igen?",
+      "pubDate": "2026-09-02T09:29:29Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Därför är det svårt att vara Ulf Kristersson",
       "link": "https://pod.space/alskadepolitik/darfor-ar-det-svart-att-vara-ulf-kristersson",
       "description": "Vad handlar egentligen det här valet om? Kanske kom svaret 12 dagar innan valdagen – när både S och M presenterade vad de går till val på.",
@@ -599,19 +606,6 @@
       "sourceType": "podcast",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Veckopanelen: Vi pratar inte om det som är viktigt på riktigt",
-      "link": "https://pod.space/kvartal/veckopanelen-vi-pratar-inte-om-det-som-ar-viktigt-pa-riktigt",
-      "description": "Veckopanelen med Emil Källström, Stefan Stern och Pernilla Zethraeus under ledning av Magnus Thorén. Är loppet kört för Tidö och ligger vägen nu öppen för ”mittens rike” med Centerpartiet i en nyckelroll? SD vill benåda dem som döms för förtal av pedofiler. Zelenskyj utmanas om makten i Ukraina – och är regeringens utspel om att motverka så kallad tvångsblandning i villaområden ett sista försök att skrämma magdamoderater?",
-      "pubDate": "2026-08-22T03:35:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
-        "C"
       ]
     }
   ]
