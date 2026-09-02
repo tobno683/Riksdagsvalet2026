@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T01:12:25.453177Z",
+  "updated_at": "2026-09-02T06:00:00.809693Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,70 @@
   ],
   "news": [
     {
+      "title": "L rycker i mätningar – gapet mellan blocken minskar",
+      "link": "https://www.sverigesradio.se/artikel/9288565",
+      "description": "Liberalerna ökar till 3,3 procent i en ny Novusmätning som gjorts för TV4 Nyheterna och har nu riksdagsspärren på 4 procent närmare i sikte. Samtidigt faller Socialdemokraterna med 4,3 procentenheter jämfört med den föregående mätningen den 19 augusti och landar på 25,8 procent. Förändringarna för både S och L är statistiskt säkerställda, skriver TV4 Nyheterna. På Tidösidan faller Moderaterna med 1,1 procentenheter till 17,2 procent, samtidigt som Sverigedemokraterna ökar med 1,6 procentenheter till 20,7 procent. Sammantaget är de rödgrönas (S, V, MP och C) försprång nu 2,6 procentenheter jämfört med Tidösidan (M, SD, KD och L).",
+      "pubDate": "2026-09-02T05:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "Cyberattacker ett hot för valet: ”Extra uppmärksam”",
+      "link": "https://www.sverigesradio.se/artikel/9288524",
+      "description": "Valmyndigheten har fått ett utökat ansvar för skydd av valprocessen, att analysera risker och bedöma säkerhetsåtgärder. Tillsammans med andra myndigheter är man extra uppmärksam på cyberattacker, säger Anna Nyqvist, kanslichef på Valmyndigheten. Det ska även finnas tydliga rutiner för att snabbt hantera incidenter vid vallokalerna.",
+      "pubDate": "2026-09-02T04:14:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Liberalerna ökar stort i ny undersökning av Novus/TV4",
+      "link": "https://www.expressen.se/nyheter/politik/liberalerna-okar-stort-i-ny-undersokning-av-novustv4/",
+      "description": "Valet närmar sig med stormsteg – och nu kommer en ny mätning från TV4/Novus som tyder på att det kan bli en riktig rysare. Liberalerna ökar stort i mätningen, och får 3,3 procent. Samtidigt får Socialdemokraterna 25,8 procent vilket innebär ett stort ras i opinionen. Missa ingenting om valet 2026 - ladda ned Expressens app här &nbsp;",
+      "pubDate": "2026-09-02T04:02:39Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L"
+      ]
+    },
+    {
+      "title": "Novus/TV4: Gapet mellan blocken 2,6 procentenheter",
+      "link": "https://www.svt.se/nyheter/inrikes/novustv4-gapet-mellan-blocken-26-procentenheter",
+      "description": "Liberalerna ökar till 3,3 procent, visar en ny mätning från Novus/TV4. Samtidigt minskar oppositionens försprång till 2,6 procentenheter. ”Jag kommer att kampanja och knacka dörr hela vägen in i kaklet för att se till att vi gör ett bra val”, skriver Simona Mohamsson till SVT.",
+      "pubDate": "2026-09-02T03:53:55Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Jakten på metaller ställs mot rent vatten",
+      "link": "https://www.sverigesradio.se/artikel/9288184",
+      "description": "Tidöpartierna och Socialdemokraterna är beredda att göra ändringar i lagar som skyddar miljön, för att underlätta för gruvnäringen. Det visar en genomgång som Ekot har gjort. ”Vi måste se till att bli mer självförsörjande på kritiska råvaror i Europa och där spelar Sveriges gruvor en väldigt viktig roll”, säger EUs Miljökommissionär, moderaten Jessika Roswall till Ekot. Miljöpartiet och Vänsterpartiet säger nej till att ändra i det EU-direktiv som ska garantera rent vatten.",
+      "pubDate": "2026-09-02T03:52:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "MP"
+      ]
+    },
+    {
       "title": "S vill inte höja bränslepriset – trots risk för missat klimatmål",
       "link": "https://www.svt.se/nyheter/inrikes/s-vill-inte-hoja-branslepriset-trots-risk-for-missat-klimatmal",
       "description": "Magdalena Andersson (S) kritiserar Tidöpartiernas klimatpolitik i SVT:s utfrågning – men vill själv inte höja skatten på drivmedel. Detta trots att experter pekar ut det som nödvändigt för att klara klimatmålet till 2030. – Vi har inga förslag om att höja bränsleskatten, säger hon.",
@@ -130,31 +194,6 @@
       ]
     },
     {
-      "title": "KD-källor: Otänkbart att släppa fram Andersson",
-      "link": "https://www.expressen.se/nyheter/politik/kd-kallor-otankbart-att-slappa-fram-andersson/",
-      "description": "Ebba Buschs vänsterflörtande har skapat öppet bråk i Tidösamarbetet. I Kristdemokraterna slår man ifrån sig anklagelserna om att partiet kan bli stödhjul till Magdalena Andersson. – Den svängen kommer aldrig att hända, säger en källa.",
-      "pubDate": "2026-09-01T17:49:08Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "KD"
-      ]
-    },
-    {
-      "title": "Centerpartiets kritik mot egna reformen",
-      "link": "https://www.expressen.se/nyheter/politik/centerpartiets-kritik-mot-egna-reformen/",
-      "description": "Centerpartiet var drivande i den kritiserade reformeringen av Arbetsförmedlingen – och insatsen Rusta och matcha. Nuvarande C-ledaren Elisabeth Thand Ringqvist är självkritisk, och vill nu se en rad förändringar. –&nbsp;Det har varit katastrof både för de arbetssökande och för skattebetalarnas pengar, säger hon.",
-      "pubDate": "2026-09-01T17:36:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "V-toppen om C: ”Man kan inte mobba sig till all sin politik”",
       "link": "https://www.dn.se/sverige/v-toppen-om-c-man-kan-inte-mobba-sig-till-all-sin-politik/",
       "description": "Vänsterpartiet mobiliserar mot vad de uppfattar som en socialdemokratisk högersväng. Med en kampanj på sociala medier riktar sig V nu mot S-ledaren Magdalena Andersson. – Vi såg sist hur S och MP blev överkörda av C i januariöverenskommelsen, säger V:s vice ordförande Ida Gabrielsson.",
@@ -174,19 +213,6 @@
       "pubDate": "2026-09-01T17:34:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson: ”De vill skrämmas för att minska stödet till Ukraina”",
-      "link": "https://www.expressen.se/nyheter/sverige/kallar-till-presstraff-efter-attentatsforsok-i-tyskland/",
-      "description": "Tyskland anklagar Ryssland för en allvarlig drönarhändelse på flygplatsen i Leipzig i augusti.&nbsp; Sverige delar Tysklands slutsats och kommer att kalla upp Rysslands ambassadör för att uttrycka en skarp protest.&nbsp; Statsminister Ulf Kristersson (M) betonar att sabotaget hade kunnat få ”förödande konsekvenser för människoliv och europeisk luftfart” om det lyckats. &nbsp; – De vill skrämmas för att minska stödet för Ukraina, säger han.&nbsp;",
-      "pubDate": "2026-09-01T17:11:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
@@ -221,32 +247,6 @@
       ]
     },
     {
-      "title": "”M och S verkar drömma om att hitta löftet som ska avgöra valet”",
-      "link": "https://www.sverigesradio.se/artikel/9288358",
-      "description": "Socialdemokraterna går till val på billigare tandvård. ”Tanken är väl också att det ska rycka en fördel ur Sverigedemokraternas händer,” säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. Inför valet har flera partier fokuserat på väljarnas plånböcker, vilket syns i både Moderaternas och Socialdemokraternas valmanifest som presenterades idag. ”M och S verkar drömma om att hitta det populära löftet som ska avgöra valet”, säger han.",
-      "pubDate": "2026-09-01T15:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD"
-      ]
-    },
-    {
-      "title": "S lovar billigare tandvård för vuxna",
-      "link": "https://www.sverigesradio.se/artikel/9288266",
-      "description": "Socialdemokraterna går till val på billigare tandvård, där vuxna högst ska betala 10 procent för de flesta behandlingar. Partiet vill också återinföra avgiftsfri tandvård för 19–23-åringar, och säger att reformen ska kosta omkring sex miljarder kronor per år. ”Vi tycker att det är dags att ta nästa steg och se till att tänderna blir en del av kroppen”, säger partiledare Magdalena Andersson (S).",
-      "pubDate": "2026-09-01T14:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Po Tidholm: Strömmer vet inte längre vad ett liberalt samhälle är",
       "link": "https://www.dn.se/kultur/po-tidholm-strommer-vet-inte-langre-vad-ett-liberalt-samhalle-ar/",
       "description": "Tidöpartierna vill stoppa brottsdömda från att tjäna pengar på att skildra sin kriminalitet. Ett hisnande förslag som utmanar både tryck- och yttrandefriheten, skriver DN:s Po Tidholm.",
@@ -272,6 +272,30 @@
     }
   ],
   "blogs": [
+    {
+      "title": "Trygghet när jobbet försvinner",
+      "link": "https://blog.zaramis.se/2026/09/02/trygghet-nar-jobbet-forsvinner/",
+      "description": "Den som blir arbetslös ska kunna fokusera på att hitta ett nytt jobb, inte på om pengarna räcker till mat och hyra. Vänsterpartiet vill att 80 procent av löntagarna ska få 80 procent av sin tidigare lön vid arbetslöshet. Läs mer … Inlägget Trygghet när jobbet försvinner dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-02T04:56:11Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Regeringsåren – Aktivismen och stödet till terror institutionaliseras",
+      "link": "https://ledarsidorna.se/regeringsaren-aktivismen-och-stodet-till-terror-institutionaliseras/",
+      "description": "Under regeringsåren 2014-2022 tar Miljöpartiet tydliga kliv in i politikens finrum genom att ingå i regeringen Löfvén. Under denna period formaliseras aktivismen i partiet som samtidigt mutar in biståndsområdet som sitt. Vilket gav en plattform för fortsatt internationell aktivism. Föreningen Charta 2008 bildades i mars 2008 mot terrorlagstiftning, med journalisten Gösta Hultén som en av [&#8230;]",
+      "pubDate": "2026-09-02T03:32:57Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "Från medieaktivist till kulturkrigssymbol",
       "link": "https://www.dagensarena.se/innehall/fran-medieaktivist-till-kulturkrigssymbol/",
@@ -350,18 +374,6 @@
       "link": "https://blog.zaramis.se/2026/08/30/ett-starkare-sverige-kraver-en-ny-regering/",
       "description": "Vänsterpartiet går till val för ett tryggt Sverige där vardagen fungerar och ekonomin går ihop för vanligt folk. Där det råder jämställdhet mellan könen samt nolltolerans för mäns våld mot kvinnor. Där HBTQIA+ personers rättigheter värnas och där transpersoners liv inte används som ett slagträ i den politiska debatten. Välfärden måste tryggas och en rättvis grön omställning genomföras. Läs mer … Inlägget Ett starkare Sverige kräver en ny regering dök först upp på Svenssons Nyheter .",
       "pubDate": "2026-08-30T05:54:57Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "En förändring är möjlig",
-      "link": "https://blog.zaramis.se/2026/08/29/en-forandring-ar-mojlig/",
-      "description": "Vänsterpartiet går till val på ett löfte om att en förändring är möjlig och med den tydliga insikten om att samhällsproblem kräver politiska lösningar. Den nuvarande regeringens strategi är splittrande. Istället för att ta ansvar och försöka lösa de samhällsproblem som Sverige Läs mer … Inlägget En förändring är möjlig dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-08-29T10:46:30Z",
       "source": "Svensson",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
       "sourceType": "blog",
