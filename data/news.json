@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T14:47:21.863329Z",
+  "updated_at": "2026-09-02T18:11:39.633154Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,7 +79,134 @@
   ],
   "news": [
     {
-      "title": "Företagens orosmoln: Slopat karensavdrag och skattehöjning",
+      "title": "Varnar för Vänsterpartiets plan vid ett maktskifte",
+      "link": "https://www.expressen.se/nyheter/politik/varnar-for-vansterpartiets-plan-vid-ett-maktskifte/",
+      "description": "Miljardärerna hotar att packa väskan om det blir en rödgrön valseger – och höjd skatt. Företagarnära organisationer varnar för negativa effekter. –&nbsp;Den stora risken är att Sverige blir mindre attraktivt som investeringsland, säger Sven-Olov Daunfeldt, chefsekonom på Svenskt näringsliv.",
+      "pubDate": "2026-09-02T18:03:58Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "DN Debatt. ”Tidöregeringen är den mest liberala i modern tid”",
+      "link": "https://www.dn.se/debatt/tidoregeringen-ar-den-mest-liberala-i-modern-tid/",
+      "description": "DN DEBATT. Efter fyra år är det dags att göra bokslut över Tidöavtalet. Från läktarna skäller de som hellre vill se ”plommonliberalism”. Men det vi lyckats åstadkomma i form av liberala reformer överträffar både regeringen Bildt och Reinfeldt. Ingen annan regering har i modern tid gjort mer för friheten i Sverige, skriver partiledare Simona Mohamsson (L).",
+      "pubDate": "2026-09-02T18:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Ledare: I vilken värld lever egentligen Kristersson och Andersson?",
+      "link": "https://www.dn.se/ledare/i-vilken-varld-lever-egentligen-kristersson-och-andersson/",
+      "description": "Det är krig i Europa, USA hotar sina allierade och ”fredspremien” har gått upp i rök. Men Ulf Kristersson och Magdalena Andersson verkar tycka att ljusare tider står för dörren och att alla förtjänar att få en rejäl slant tillbaka.",
+      "pubDate": "2026-09-02T17:05:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Kristofer Ahlström: Sluta håna Kristersson för att han vägrar tramsa i TV4",
+      "link": "https://www.dn.se/kultur/kristofer-ahlstrom-sluta-hana-kristersson-for-att-han-vagrar-tramsa-i-tv4/",
+      "description": "Statsministerns sammanbitna motstånd i ”Vem kan styra Mauri?” har blivit ett viralt skämt. Men hans usla humör är en sista försvarslinje i en tid där folkvalda förväntas vara lika delar statsman och gycklare, skriver Kristofer Ahlström.",
+      "pubDate": "2026-09-02T17:00:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Liberalerna behövs som liberal kraft i regeringen",
+      "link": "https://www.dn.se/insandare/liberalerna-behovs-som-liberal-kraft-i-regeringen/",
+      "description": "INSÄNDARE. För alla som vill säkra en balanserad borgerlighet med både hjärta och hjärna är Liberalerna helt avgörande. Oavsett vem som bildar regering efter valet kvarstår frågan: Vilka liberala krafter får vi i en riksdag utan Liberalerna? frågar Robin Alex, medlem i Liberalerna.",
+      "pubDate": "2026-09-02T17:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Novus mätning läckte till partierna – kramades i SVT",
+      "link": "https://www.dn.se/sverige/novus-matning-lackte-till-partierna-kramades-i-svt/",
+      "description": "Simona Mohamsson och Jimmie Åkesson ville plötsligt inte debattera i SVT:s Aktuellt. Då hade resultatet i en ny opinionsmätning läckt till partierna. – Det är klart att det är olyckligt, säger Fredrick Malmberg, ansvarig utgivare för TV4 Nyheterna som publicerade undersökningen.",
+      "pubDate": "2026-09-02T16:15:13Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Kristerssons svar till Åkesson: ”Nej”",
+      "link": "https://www.expressen.se/nyheter/politik/kristerssons-svar-till-akesson-nej/",
+      "description": "Jimmie Åkesson vill ha 12 till 14 ministerposter om Tidöpartierna vinner valet. Det kommer han inte att få, säger statsminister Ulf Kristersson. – Nej, det kan det inte bli, säger han och skrattar till SVT Nyheter. &nbsp;",
+      "pubDate": "2026-09-02T15:51:12Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Andersson: SD:s maktambitioner har inga gränser",
+      "link": "https://www.dn.se/sverige/andersson-sds-maktambitioner-har-inga-granser/",
+      "description": "S-ledaren Magdalena Andersson upprepar sitt uttalande om att en kommande högerregering helt kommer att domineras av SD-ministrar. – Det är uppenbart att Sverigedemokraternas maktambitioner inte har några gränser, säger hon.",
+      "pubDate": "2026-09-02T15:24:57Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Regeringen rundar SD – öppnar för att ta de afghanska tolkarna till Sverige",
+      "link": "https://www.dn.se/sverige/regeringen-rundar-sd-oppnar-for-att-ta-de-afghanska-tolkarna-till-sverige/",
+      "description": "Regeringen tar ett första steg för att låta tolkarna från Afghanistankriget komma till Sverige. Men Sverigedemokraterna var inte informerade om beslutet. – Det är en märklig hantering, säger Matheus Enholm, (SD).",
+      "pubDate": "2026-09-02T15:12:38Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "S idiotförklarar sina egna väljare",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/s-idiotforklarar-sina-egna-valjare/",
+      "description": "Socialdemokraternas valkampanj går dåligt. Lösningen är knappast att spela ännu dummare.",
+      "pubDate": "2026-09-02T15:07:57Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Företagens orosmoln: Slopad karensavdrag och skattehöjning",
       "link": "https://www.sverigesradio.se/artikel/9291010",
       "description": "Sverige är på väg mot en mild högkonjunktur, enligt storbanken Nordea, med stöd av ökad export och starkare inhemsk efterfrågan. Svenska företag oroas dock över vad som sker efter valet, enligt banken, som pekar ut skattehöjningar som det största orosmolnet på affärshimlen. Nordeas chefsekonom Annika Winsth ser störst risker med förslaget om slopat karensavdrag.",
       "pubDate": "2026-09-02T14:40:00Z",
@@ -139,126 +266,6 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "Gör SVT:s lokala valkompass 2026",
-      "link": "https://www.svt.se/nyheter/inrikes/gor-svts-lokala-valkompass-2026",
-      "description": "Vill du veta vad politikerna tycker där du bor, i din kommun eller region. SVT:s unika lokala valkompass visar hur partierna ställer sig i över 1000 konkreta lokala frågor.",
-      "pubDate": "2026-09-02T12:49:22Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Insändare. Det går inte att fega sig fram till valframgång",
-      "link": "https://www.dn.se/insandare/det-gar-inte-att-fega-sig-fram-till-valframgang/",
-      "description": "INSÄNDARE. Många journalister och politiska experter har under våren och sommaren efterlyst ett modigare Socialdemokraterna. Väljarna vill ha partier som står fasta i sin politik och inte ideligen ändrar sina positioner, skriver Peter Hedlin.",
-      "pubDate": "2026-09-02T12:35:33Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Debattör frias för olaga hot mot politiker",
-      "link": "https://www.dn.se/sverige/debattor-frias-for-olaga-hot-mot-politiker/",
-      "description": "Efter en konflikt på plattformen X åtalades debattören och komikern Aron Flam för olaga hot mot en miljöpartistisk kommunpolitiker. Nu frias han av Stockholms tingsrätt.",
-      "pubDate": "2026-09-02T12:31:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Insändare. Förminska inte Liberalerna till en fråga om stödröster",
-      "link": "https://www.dn.se/insandare/forminska-inte-liberalerna-till-en-fraga-om-stodroster/",
-      "description": "INSÄNDARE. Förvisso är det så att Liberalerna sannolikt krävs för att en fortsatt Tidö­regering ska kunna bli verklighet. Men att förminska partiets roll till en siffra i den parlamentariska mandatkalkylen är både historielöst och felaktigt, skriver Sivert Aronsson.",
-      "pubDate": "2026-09-02T12:21:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "S lovar gratis SL-kort för alla vårdanställda",
-      "link": "https://www.dn.se/sverige/s-lovar-gratis-sl-kort-for-alla-vardanstallda/",
-      "description": "Gratis SL-kort till alla vårdanställda. Det är ett löfte om Socialdemokraterna får fortsatt förtroende att styra i Region Stockholm efter valet. Kampen om Stockholmsväljarna höjer tonläget i årets valrörelse.",
-      "pubDate": "2026-09-02T12:13:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Regeringen går vidare med lag mot gängdeltagande",
-      "link": "https://www.sverigesradio.se/artikel/9290818",
-      "description": "Regeringen går vidare med förslaget att göra det straffbart att delta i kriminella gäng, med sikte på att lagen ska börja gälla i april nästa år. På pressträffen lyfte statsminister Ulf Kristersson fram förslaget som viktigt mot gängen, medan oppositionen beskrevs av Tidöpartierna som ett hot mot fortsatt kriminalpolitik. Samtidigt präglades framträdandet också av valrörelse, där både interna motsättningar och nya tongångar om opinionsläget märktes.",
-      "pubDate": "2026-09-02T10:58:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Opinion",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristerssons invit till C: Kan enkelt göra upp",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/kristerssons-invit-till-c-kan-enkelt-gora-upp/",
-      "description": "Kristersson kommer försöka få igenom sin ekonomiska politik även om han förlorar valet. Då tänker han sätta press på Centerpartiet. – Vi skulle väldigt enkelt kunna göra upp, säger han i ”Viktor möter”.",
-      "pubDate": "2026-09-02T10:56:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Helena Gissén: ”Osäkerheten ger problem för S”",
-      "link": "https://www.sverigesradio.se/artikel/9290821",
-      "description": "En ny opinionsmätning som Novus gjort för TV4 visar att stödet för Socialdemokraterna och de rödgrönas försprång minskar. Att Magdalena Andersson inte vill ge några besked om vilka partier hon vill bilda regering med, är en av anledningarna, menar Ekots inrikespolitiska kommentator Helena Gissén. ”Hon flirtar en del åt höger, vilket gör det oklart hur det i så fall ska gå med flera av Socialdemokraternas vallöften”, säger hon.",
-      "pubDate": "2026-09-02T10:56:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Baudin efter S chocksiffra: En väckarklocka",
-      "link": "https://www.svt.se/nyheter/inrikes/baudin-efter-s-chocksiffra-en-vackarklocka",
-      "description": "Att gapet mellan regeringspartierna och oppositionen skulle minska var väntat inom S. Men att Socialdemokraterna skulle rasa 4 procentenheter i TV4/Novus skakar om partiet. – Socialdemokraterna ligger långt under den nivå vi vill vara, säger partisekreterare Tobias Baudin.",
-      "pubDate": "2026-09-02T10:33:58Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Nordea: Hushållen behöver inte curlas trots stundande räntehöjning",
-      "link": "https://www.sverigesradio.se/artikel/9288819",
-      "description": "Banken Nordea konstaterar att svensk ekonomi är på väg mot en mild högkonjunktur och justerar därmed upp sin prognos för styrräntan, med en höjning från Riksbanken i november. Hushållen står dock rustade för ett högre ränteläge, enligt banken, som pekar på att konsumtionen ökar och att hushållens skulder, i förhållande till de disponibla inkomsterna, sjunker. Nordeas chefsekonom Annika Winsth efterlyser en mindre generös finanspolitik och mindre ”curlande” av hushållen efter valet.",
-      "pubDate": "2026-09-02T10:19:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
@@ -357,18 +364,6 @@
         "S",
         "V",
         "MP"
-      ]
-    },
-    {
-      "title": "Ett starkare Sverige kräver en ny regering",
-      "link": "https://blog.zaramis.se/2026/08/30/ett-starkare-sverige-kraver-en-ny-regering/",
-      "description": "Vänsterpartiet går till val för ett tryggt Sverige där vardagen fungerar och ekonomin går ihop för vanligt folk. Där det råder jämställdhet mellan könen samt nolltolerans för mäns våld mot kvinnor. Där HBTQIA+ personers rättigheter värnas och där transpersoners liv inte används som ett slagträ i den politiska debatten. Välfärden måste tryggas och en rättvis grön omställning genomföras. Läs mer … Inlägget Ett starkare Sverige kräver en ny regering dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-08-30T05:54:57Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
       ]
     },
     {
