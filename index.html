@@ -43,6 +43,24 @@
       radial-gradient(circle at 90% 80%, rgba(27,94,74,0.06), transparent 45%);
   }
 
+  /* ---------- Big days-until-election banner ---------- */
+  .days-countdown-banner{
+    display:flex; align-items:baseline; justify-content:center; gap:14px;
+    background:var(--ink); color:#fff;
+    padding:18px 20px;
+    border-bottom:2px solid var(--brass);
+  }
+  .days-countdown-number{
+    font-family:'IBM Plex Mono',monospace; font-weight:700; font-size:52px; line-height:1;
+    color:#FF4136; text-shadow:0 0 24px rgba(255,65,54,0.55);
+  }
+  .days-countdown-label{font-size:16px; font-weight:600;}
+  @media (max-width:640px){
+    .days-countdown-number{font-size:38px;}
+    .days-countdown-label{font-size:13px;}
+    .days-countdown-banner{padding:14px 16px; gap:10px;}
+  }
+
   /* ---------- Header ---------- */
   header.site{
     position:relative; z-index:1;
@@ -803,6 +821,11 @@
 </style>
 </head>
 <body>
+
+<div class="days-countdown-banner" id="daysCountdownBanner" style="display:none;">
+  <span class="days-countdown-number" id="daysCountdownNumber">--</span>
+  <span class="days-countdown-label" id="daysCountdownLabel">dagar kvar till valet</span>
+</div>
 
 <header class="site">
   <div class="wrap">
@@ -2974,6 +2997,35 @@ function activateElectionNightLayout(){
   renderDebates();
 }
 
+// Big "X dagar kvar" banner at the very top of the page, visible from now
+// until election day. Uses date-only comparison (midnight to midnight)
+// so it reads in whole days rather than fractional ones. Hides itself
+// once election day has actually passed, since the site's other
+// election-night machinery takes over the storytelling at that point.
+function initDaysCountdown(){
+  const banner = document.getElementById('daysCountdownBanner');
+  const numberEl = document.getElementById('daysCountdownNumber');
+  const labelEl = document.getElementById('daysCountdownLabel');
+  if (!banner || !numberEl || !labelEl) return;
+
+  const electionDay = new Date('2026-09-13T00:00:00');
+  const now = new Date();
+  const todayMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const diffDays = Math.round((electionDay - todayMidnight) / (1000 * 60 * 60 * 24));
+
+  if (diffDays > 0){
+    numberEl.textContent = diffDays;
+    labelEl.textContent = diffDays === 1 ? 'dag kvar till valet' : 'dagar kvar till valet';
+    banner.style.display = 'flex';
+  } else if (diffDays === 0){
+    numberEl.textContent = '🗳️';
+    labelEl.textContent = 'Valdagen är idag!';
+    banner.style.display = 'flex';
+  } else {
+    banner.style.display = 'none';
+  }
+}
+
 // Shows a countdown from midnight on election day (Sep 13) up to 20:00
 // CEST, the same moment initResultsSection() below switches the page into
 // election-night mode. Uses its own ?preview=countdown flag (distinct from
@@ -3223,6 +3275,7 @@ initCompassMetaCollapse();
 setInterval(loadNewsFeed, 5 * 60 * 1000); // refresh every 5 minutes
 initChatWidget();
 initBuilderPresets();
+initDaysCountdown();
 initElectionDayCountdown();
 initResultsSection();
 loadLivePollData();
