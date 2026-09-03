@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T10:34:43.852247Z",
+  "updated_at": "2026-09-03T14:45:55.890660Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,174 +79,23 @@
   ],
   "news": [
     {
-      "title": "Insändare. Vilseledande normalisering med skylten ”Regeringen”",
-      "link": "https://www.dn.se/insandare/vilseledande-normalisering-med-skylten-regeringen/",
-      "description": "INSÄNDARE. Fyra års presskonferenser med Sverigedemokraterna på podiet borde ha ifrågasatts av medierna. Vad denna vilseledande normalisering inneburit kanske vi blir varse inom kort, skriver Torgny Karnstedt.",
-      "pubDate": "2026-09-03T10:31:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Ebba Busch om kritiken mot rennäringspolitiken: ”Då har FN fel”",
-      "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-om-kritiken-mot-rennaringspolitiken-da-har-fn-fel",
-      "description": "Sverige har flera gånger fått kritik av FN för att inte skydda samernas rättigheter tillräckligt när nya gruvor planeras på samisk mark. Samtidigt vill flera svenska partier minska rennäringens inflytande. – Det är ett kulturellt folkmord som pågår i Kiruna, säger Lars-Marcus Kuhmunen, ordförande i Gabna sameby, i SVT:s ”Renar i vägen”.",
-      "pubDate": "2026-09-03T09:03:28Z",
+      "title": "SVT/Verian: L närmar sig spärren – ”Kan gå fort”",
+      "link": "https://www.svt.se/nyheter/inrikes/svtverian-l-narmar-sig-sparren-kan-ga-fort",
+      "description": "Liberalerna ökar – och närmar sig riksdagsspärren, enligt SVT/Verians nya väljarbarometer. Samtidigt får M sitt lägsta stöd på sju år. – Det är faktiskt större chans att L kommer in i riksdagen än att Tidöpartierna vinner valet, säger Per Söderpalm, opinionsansvarig på Verian.",
+      "pubDate": "2026-09-03T14:30:07Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "V-toppen: ”Magdalena Andersson skjuter sig själv i foten”",
-      "link": "https://www.dn.se/sverige/v-toppen-magdalena-andersson-skjuter-sig-sjalv-i-foten/",
-      "description": "Vänsterpartiets beslut att bara släppa fram en regering de själva ingår i ”var otroligt tydligt”. Det säger Daniel Bernmar, ledamot i partiledningen och i gruppen som jobbat för att göra V regeringsdugligt. Han anser att S-ledaren Magdalena Andersson nu ”skjuter sig själv i foten” och varnar för risken för ”ett nytt januariavtal”.",
-      "pubDate": "2026-09-03T08:51:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Magdalena Anderssons miss i TV4: ”Inte vara opassande”",
-      "link": "https://www.expressen.se/nyheter/politik/magdalena-anderssons-miss-i-tv4-inte-vara-opassande/",
-      "description": "När Magdalena Andersson (S) skulle placera ut partiledarna på en magnettavla i TV4 gick det lite snett. L:s Simona Mohamsson fastnade på SD:s Jimmie Åkesson. – Det var inte meningen, säger Andersson.&nbsp;",
-      "pubDate": "2026-09-03T08:34:29Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "Insändare. Man kan inte utesluta var femte väljare",
-      "link": "https://www.dn.se/insandare/man-kan-inte-utesluta-var-femte-valjare/",
-      "description": "INSÄNDARE. För att den nuvarande regeringen ska få utökat förtroende måste Liberalerna få fortsätta i riksdagen. Att försöka utesluta runt en femtedel av det svenska folket från deltagande kan inte vara demokratiskt, skriver Erik Lindblom.",
-      "pubDate": "2026-09-03T08:32:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "L",
-        "MP"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Omöjligt för mig att ge Liberalerna min röst",
-      "link": "https://www.dn.se/insandare/svar-omojligt-for-mig-att-ge-liberalerna-min-rost/",
-      "description": "SVAR PÅ INSÄNDARE. Ni har misslyckats med er hjärtefråga skolan, kört klimatet i botten – och dessutom sålt er själ till Sverigedemokraterna. Därför är det omöjligt för mig att ge Liberalerna min röst, skriver Agnes Andolf.",
-      "pubDate": "2026-09-03T05:59:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "DN frågar: Hur är det för dig att leva just nu?",
-      "link": "https://www.dn.se/sverige/dn-fragar-hur-ar-det-for-dig-att-leva-just-nu/",
-      "description": "Vi befinner oss i ett valår. Men hur känns livet i Sverige – på riktigt? Under ett år har DN:s fotograf Lars Lindqvist ställt frågan ”Hur är det att leva just nu” till människor runt om i landet. Hittills har videoklippen fått över 20 miljoner visningar i sociala medier och kommentarsfälten har fyllts med reaktioner.",
-      "pubDate": "2026-09-03T05:07:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Demonstrationer till stöd för Ceuta efter migrantvågen",
-      "link": "https://www.sverigesradio.se/artikel/9291331",
-      "description": "Minst 230 000 personer demonstrerade runtom i Spanien under onsdags kvällen till stöd för Ceuta efter migrantkrisen. Aktionen riktade skarp kritik mot hur den socialdemokratiskt ledda regeringen har hanterat migrantkrisen med krav på premiärministerns avgång. Orsaken till att 72 000 migranter tog sig in i Ceuta på drygt ett dygn i slutet av juli är fortfarande oklar.",
-      "pubDate": "2026-09-03T04:30:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "De rödgrönas mångmiljonvinster i välfärden",
-      "link": "https://www.expressen.se/nyheter/politik/de-rodgronas-mangmiljonvinster-i-valfarden/",
-      "description": "Socialdemokraterna, vänstern och Miljöpartiet vill se ett stopp för vinsterna i välfärden. Samtidigt visar Expressens granskning hur partiföreträdare tagit ut miljonvinster ur aktiebolag inom skattefinansierad skola, vård och omsorg. – Jag själv är inte helt emot vinster i välfärden, säger vänsterpartisten Gerty Fexler Höjer vars omsorgsbolag tagit ut tio miljoner i aktieutdelningar.",
-      "pubDate": "2026-09-03T04:00:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "MP"
-      ]
-    },
-    {
-      "title": "Skatteintäkter blir miljonvinster i miljöpartisters välfärdsbolag",
-      "link": "https://www.expressen.se/nyheter/politik/skatteintakter-blir-miljonvinster-i-miljopartisters-valfardsbolag/",
-      "description": "Servan Bozarslan, MP, driver stödboenden genom bolaget Inkludering AB, med årliga vinstutdelningar till ägarna. – Vi är en idéburen verksamhet, säger Servan Bozarslan. Bolagets bilpark: tre BMW, en Jeep Wrangler och en Mercedes i V-klassen.",
-      "pubDate": "2026-09-03T04:00:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "2 september: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/2-september-missa-inte-dagens-nyheter/",
-      "description": "L närmar sig riksdagsspärren, opinionsmätning läckte inför partiledarnas tv-debatt och två män pekas ut för drönarincidenten i Tyskland – här är nyheterna du inte får missa från dagen.",
-      "pubDate": "2026-09-02T20:07:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "Opinion"
       ]
     },
     {
-      "title": "Magdalena Andersson (S): Många har tagit valutgången för given",
-      "link": "https://www.sverigesradio.se/artikel/9291280",
-      "description": "Valutgången har tagits för given, sa Magdalena Andersson (S) under TV4:s utfrågning om varför partiet backar stort. Den senaste opinionsundersökningen från TV4/Novus blev en kalldusch för Socialdemokraterna. Partiet tappar hela 4,3 procentenheter jämfört med förra mätningen och hamnar på en historiskt låg nivå på 25,8 procent. I samma mätning ökar Liberalerna och närmar sig riksdagsspärren på 4 procent och dessutom minskar gapet mellan Oppositionen och Tidöpartierna.",
-      "pubDate": "2026-09-02T20:06:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
-      "title": "DN Debatt. ”Tidöregeringen är den mest liberala i modern tid”",
-      "link": "https://www.dn.se/debatt/tidoregeringen-ar-den-mest-liberala-i-modern-tid/",
-      "description": "DN DEBATT. Efter fyra år är det dags att göra bokslut över Tidöavtalet. Från läktarna skäller de som hellre vill se ”plommonliberalism”. Men det vi lyckats åstadkomma i form av liberala reformer överträffar både regeringen Bildt och Reinfeldt. Ingen annan regering har i modern tid gjort mer för friheten i Sverige, skriver partiledare Simona Mohamsson (L).",
-      "pubDate": "2026-09-02T18:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Kristofer Ahlström: Sluta håna Kristersson för att han vägrar tramsa i TV4",
-      "link": "https://www.dn.se/kultur/kristofer-ahlstrom-sluta-hana-kristersson-for-att-han-vagrar-tramsa-i-tv4/",
-      "description": "Statsministerns sammanbitna motstånd i ”Vem kan styra Mauri?” har blivit ett viralt skämt. Men hans usla humör är en sista försvarslinje i en tid där folkvalda förväntas vara lika delar statsman och gycklare, skriver Kristofer Ahlström.",
-      "pubDate": "2026-09-02T17:00:59Z",
+      "title": "Känd rappare och gängkriminell gripen i Rumänien",
+      "link": "https://www.dn.se/sverige/kand-rappare-och-gangkriminell-gripen-i-rumanien/",
+      "description": "Rapparen Haval Khalil greps under torsdagen i Rumänien. Han är misstänkt för medhjälp till mord och grov utpressning. ”När vi säger att vi kommer plocka dem 'en efter en' menar vi just det”, skriver statsminister Ulf Kristersson i en kommentar till DN.",
+      "pubDate": "2026-09-03T13:48:53Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -256,19 +105,179 @@
       ]
     },
     {
-      "title": "Insändare. Liberalerna behövs som liberal kraft i regeringen",
-      "link": "https://www.dn.se/insandare/liberalerna-behovs-som-liberal-kraft-i-regeringen/",
-      "description": "INSÄNDARE. För alla som vill säkra en balanserad borgerlighet med både hjärta och hjärna är Liberalerna helt avgörande. Oavsett vem som bildar regering efter valet kvarstår frågan: Vilka liberala krafter får vi i en riksdag utan Liberalerna? frågar Robin Alex, medlem i Liberalerna.",
-      "pubDate": "2026-09-02T17:00:00Z",
+      "title": "Starka reaktionen på Expressens granskning",
+      "link": "https://www.expressen.se/nyheter/starka-reaktionen-pa-expressens-granskning/",
+      "description": "Expressens granskning av företrädarna i de rödgröna partierna som plockar ut vinster ur välfärden får partimotståndarna att tala om dubbla måttstockar. –&nbsp;Ett hyckleri utan like, säger finansminister Elisabeth Svantesson, M.",
+      "pubDate": "2026-09-03T13:47:57Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Är det här Magdalena Anderssons mardröm?",
+      "link": "https://www.dn.se/podd/alskade-politik/ar-det-har-magdalena-anderssons-mardrom/",
+      "description": "Med elva dagar kvar till valet tappar Socialdemokraterna kraftigt. Hur \"pissed off\" är egentligen Magdalena Andersson?",
+      "pubDate": "2026-09-03T13:43:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Intern kritik i S –  efter stora raset",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/intern-kritik-i-s-efter-stora-raset/",
+      "description": "Fritt fall i opinionen för Socialdemokraterna. Hur ska Magdalena Andersson hantera den ökade pressen?&nbsp; Lyssna på ”Politikrummet”.",
+      "pubDate": "2026-09-03T13:40:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "SD-tjänsteman uppmanas säga upp sig av Kristersson",
+      "link": "https://www.dn.se/sverige/sd-tjansteman-uppmanas-saga-upp-sig-av-kristersson/",
+      "description": "En granskning av Expo kopplar en SD-tjänsteman till ryska nätverk och spridning av rysk propaganda. – Det finns uppgifter som är allvarliga, säger Jimmie Åkesson (SD). Socialdemokraterna ser uppgifterna som ett säkerhetsärende, som borde utredas. Statsminister Ulf Kristersson (M) tycker att kvinnan ska avsluta sin tjänst.",
+      "pubDate": "2026-09-03T13:38:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Socialdemokraterna måste ge oss något att rösta för",
+      "link": "https://www.dn.se/insandare/socialdemokraterna-maste-ge-oss-nagot-att-rosta-for/",
+      "description": "INSÄNDARE. Två grupper förtjänar särskild uppmärksamhet av S-ledaren Magdalena Andersson: äldre och medborgare med invandrarbakgrund. Väljarna behöver få veta vad socialdemokratin själv vill göra – inte bara vad partiet varnar för, skriver den tidigare S-riksdagsledamoten Juan Fonseca.",
+      "pubDate": "2026-09-03T13:27:24Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "SD-tjänsteman i riksdagen sprider proryska budskap",
+      "link": "https://www.svt.se/nyheter/inrikes/sd-tjansteman-i-riksdagen-sprider-proryska-budskap",
+      "description": "En SD-tjänsteman i riksdagen har under lång tid spridit proryska budskap och deltagit i kulturverksamheter med kopplingar till ryska statsintressen. Det visar en granskning från Expo. – Om det stämmer så är det allvarligt. Då måste SD se till att den medarbetaren avvecklas, säger statsminister Ulf Kristersson (M) till Aftonbladet. – Jag ser ingen panik med det här, säger Jimmie Åkesson.",
+      "pubDate": "2026-09-03T13:27:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "SD-tjänsteman spred pro-ryska budskap",
+      "link": "https://www.expressen.se/nyheter/politik/sd-tjansteman-spred-pro-ryska-budskap/",
+      "description": "En kvinnlig SD-tjänsteman i riksdagen har i flera år delat pro-ryska nyheter och budskap i sociala medier, rapporterar Expo . Hon är också sambo med en av partiets topptjänstemän. – Det här är inget som partiet haft kännedom om, säger Jimmie Åkesson till SVT Nyheter .",
+      "pubDate": "2026-09-03T13:24:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Fouad Youcefi: Här är KD:s stora bekymmer",
+      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-har-ar-kds-stora-bekymmer",
+      "description": "Kristdemokraterna hade vind i seglen på landsbygden i valet 2022 och håller på att bli ett utpräglat landsbygdsparti. Men det finns två platser där partiet tappade rejält där de behöver överprestera i detta val. – Ju rikare ett distrikt är, desto mindre röstade de på KD, säger valreporter Fouad Youcefi.",
+      "pubDate": "2026-09-03T12:41:57Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Tyvärr har Liberalerna lämnat sina principer",
+      "link": "https://www.dn.se/insandare/svar-tyvarr-har-liberalerna-lamnat-sina-principer/",
+      "description": "SVAR PÅ INSÄNDARE. Det är ett stort avstånd mellan avståndstagandet mot Ny Demokrati 1991 och kramandet av SD 2026. Liberalerna har förlorat ideologin och ställer inte längre upp för individens fri- och rättigheter, skriver Monica Hyll+en.",
+      "pubDate": "2026-09-03T12:24:02Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "L"
       ]
+    },
+    {
+      "title": "Buschs kupp – fick inte svar av Åkesson",
+      "link": "https://www.expressen.se/nyheter/politik/buschs-kupp-fick-inte-svar-av-akesson/",
+      "description": "Ebba Busch (KD) gjorde upprepade försök att nå Jimmie Åkesson före den uppmärksammade fikan i Sölvesborg. Till slut valde hon att åka dit ändå –&nbsp;utan att veta om hon var välkommen.",
+      "pubDate": "2026-09-03T12:20:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Studsvik har valt reaktor: ”Planerar leverera el 2030”",
+      "link": "https://www.sverigesradio.se/artikel/9291775",
+      "description": "Kärnteknikbolaget Studsvik har valt samarbetsparters för att bygga ny kärnkraft i Sverige, så kallade små modulära reaktorer. Valet föll på GE Vernova Hitachi för reaktorerna och Samsung för bygget. Men bolaget har ännu inte bestämt om man vill bygga i Nyköpings kommun eller Valdemarsviks kommun. ”Beslut som kommer fattas inom det närmaste året skulle jag tro”, säger Karl Thedéen, vd och koncernchef för Studsvik.",
+      "pubDate": "2026-09-03T12:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Victoria bör utnyttja sin rösträtt i valet",
+      "link": "https://www.dn.se/insandare/victoria-bor-utnyttja-sin-rostratt-i-valet/",
+      "description": "INSÄNDARE. Av tradition avstår kungen och övriga kungafamiljen tyvärr från att rösta i våra demokratiska val. Vår enkla uppmaning till alla som värnar Sverige och demokratin är att gå och rösta den 13 september, skriver Malin Michaelson, vice ordförande i Republikanska föreningen.",
+      "pubDate": "2026-09-03T12:11:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "God stämning när Åkesson talade i Gävle",
+      "link": "https://www.sverigesradio.se/artikel/9291330",
+      "description": "Efter opinionsmätningen i onsdags där gapet mellan blocken krympte har Tidöpartierna fått ett ökat hopp och det var god stämning när Jimmie Åkesson (SD) valtalade på Stortorget i Gävle på onsdagen ”Vill vi fortsätta på den väg som är nu eller göra som Magdalena Andersson vill”, Åkesson retoriskt från scenen. ”Han är den bästa politikern”, sade Sven som lyssnade på talet i en t-shirt med texten ”Heja Jimmie”.",
+      "pubDate": "2026-09-03T11:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "Opinion"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Stoppa gräddfilerna i vården",
+      "link": "https://blog.zaramis.se/2026/09/03/stoppa-graddfilerna-i-varden/",
+      "description": "Stoppa gräddfilerna i vården. Den som behöver vård mest ska få den först. Svensk sjukvård ska bygga på behov, inte plånbok. Men idag ser verkligheten annorlunda ut. Den som är rik, bor i ett välbärgat område eller har en privat sjukvårdsförsäkring får ofta snabbare och bättre tillgång till vård än den som behöver vården mest. Därför har Vänsterpartiet presenterat en plan för att stoppa gräddfilerna i vården och återupprätta principen om vård efter behov. Läs mer … Inlägget Stoppa gräddfilerna i vården dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-03T13:50:26Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Trygghet när jobbet försvinner",
       "link": "https://blog.zaramis.se/2026/09/02/trygghet-nar-jobbet-forsvinner/",
@@ -325,18 +334,6 @@
       "sourceType": "blog",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Missnöjet minskar inte av Tidöstyre",
-      "link": "https://www.dagensarena.se/opinion/missnojet-minskar-inte-av-tidostyre/",
-      "description": "Ny rapport visar att SD:s väljare, och Moderaternas, har radikaliserats. Inlägget Missnöjet minskar inte av Tidöstyre dök först upp på Dagens Arena .",
-      "pubDate": "2026-08-31T14:10:57Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
       ]
     },
     {
@@ -405,6 +402,30 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Är det här Magdalena Anderssons mardröm?",
+      "link": "https://pod.space/alskadepolitik/ar-det-har-magdalena-anderssons-mardrom",
+      "description": "Med elva dagar kvar till valet tappar Socialdemokraterna kraftigt. Hur \"pissed off\" är egentligen Magdalena Andersson?",
+      "pubDate": "2026-09-03T13:43:25Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "307. Socialdemokrater i fritt fall",
+      "link": "https://pod.space/politikrummet/307-socialdemokrater-i-fritt-fall",
+      "description": "Fritt fall i opinionen för Socialdemokraterna. Hur ska Magdalena Andersson hantera den ökade pressen? I studion: Filippa Rogvall, Anette Holmqvist och Viktor Barth-Kron. Producent: Fredrik Johansson.",
+      "pubDate": "2026-09-03T13:25:34Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "306. Viktor möter: Ulf Kristersson",
       "link": "https://pod.space/politikrummet/306-viktor-moter-ulf-kristersson",
@@ -560,31 +581,6 @@
       "topics": [
         "SD",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "302. Åkesson dumpar Liberalerna",
-      "link": "https://pod.space/politikrummet/302-akesson-dumpar-liberalerna",
-      "description": "Jimmie Åkesson har gett Liberalerna en deadline –&nbsp;och går Sverige mot redan mot ett extra&nbsp;val? I studion: Filippa Rogvall, Max V Karlsson, Anette Holmqvist och Viktor Barth-Kron Producent: Anna Westman Swantesson Ljudklipp från SVT och SR Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-08-24T11:57:44Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "Inläst: V höll riksdagsseminarium med dömd terrorist",
-      "link": "https://pod.space/kvartal/inlast-v-holl-riksdagsseminarium-med-domd-terrorist",
-      "description": "Den 22 oktober 2025 arrangerade Vänsterpartiet ett seminarium i riksdagen i samarbete med Palestinska riksförbundet där två före detta fångar i israeliska fängelser deltog via länk. En av dem, Hussam Shaheen, dömdes 2004 till 27 års fängelse för mordförsök och stämpling till mord. Av Nathalie Rothshild Inläsare: Nathalie Rothshild",
-      "pubDate": "2026-08-22T04:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V"
       ]
     }
   ]
