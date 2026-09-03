@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T01:14:58.612683Z",
+  "updated_at": "2026-09-03T05:58:24.837448Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,68 @@
   ],
   "news": [
     {
+      "title": "DN frågar: Hur är det för dig att leva just nu?",
+      "link": "https://www.dn.se/sverige/dn-fragar-hur-ar-det-for-dig-att-leva-just-nu/",
+      "description": "Vi befinner oss i ett valår. Men hur känns livet i Sverige – på riktigt? Under ett år har DN:s fotograf Lars Lindqvist ställt frågan ”Hur är det att leva just nu” till människor runt om i landet. Hittills har videoklippen fått över 20 miljoner visningar i sociala medier och kommentarsfälten har fyllts med reaktioner.",
+      "pubDate": "2026-09-03T05:07:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Demonstrationer till stöd för Ceuta efter migrantvågen",
+      "link": "https://www.sverigesradio.se/artikel/9291331",
+      "description": "Minst 230 000 personer demonstrerade runtom i Spanien under onsdags kvällen till stöd för Ceuta efter migrantkrisen. Aktionen riktade skarp kritik mot hur den socialdemokratiskt ledda regeringen har hanterat migrantkrisen med krav på premiärministerns avgång. Orsaken till att 72 000 migranter tog sig in i Ceuta på drygt ett dygn i slutet av juli är fortfarande oklar.",
+      "pubDate": "2026-09-03T04:30:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "De rödgrönas mångmiljonvinster i välfärden",
+      "link": "https://www.expressen.se/nyheter/politik/de-rodgronas-mangmiljonvinster-i-valfarden/",
+      "description": "Socialdemokraterna, vänstern och Miljöpartiet vill se ett stopp för vinsterna i välfärden. Samtidigt visar Expressens granskning hur partiföreträdare tagit ut miljonvinster ur aktiebolag inom skattefinansierad skola, vård och omsorg. – Jag själv är inte helt emot vinster i välfärden, säger vänsterpartisten Gerty Fexler Höjer vars omsorgsbolag tagit ut tio miljoner i aktieutdelningar.",
+      "pubDate": "2026-09-03T04:00:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "MP"
+      ]
+    },
+    {
+      "title": "Skatteintäkter blir miljonvinster i miljöpartisters välfärdsbolag",
+      "link": "https://www.expressen.se/nyheter/politik/skatteintakter-blir-miljonvinster-i-miljopartisters-valfardsbolag/",
+      "description": "Servan Bozarslan, MP, driver stödboenden genom bolaget Inkludering AB, med årliga vinstutdelningar till ägarna. – Vi är en idéburen verksamhet, säger Servan Bozarslan. Bolagets bilpark: tre BMW, en Jeep Wrangler och en Mercedes i V-klassen.",
+      "pubDate": "2026-09-03T04:00:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "S-politiker plockade ut vinst – HVB-boenden kritiserades",
+      "link": "https://www.expressen.se/nyheter/politik/s-politiker-plockade-ut-vinst--hvb-boenden-kritiserades/",
+      "description": "Frågan om vinster i välfärden är en känslig fråga för flera av Socialdemokraternas kandidater. När Expressen kontaktar S-politikern och vd:n för välfärdsföretaget C Omsorg AB, Andreas Johansson, blir det först luren på – och blockade samtal. –&nbsp;Vi är företagare och man måste få lön för sin möda, säger han om bolagets vinstuttag.&nbsp;",
+      "pubDate": "2026-09-03T04:00:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "2 september: Missa inte dagens nyheter",
       "link": "https://www.dn.se/varlden/2-september-missa-inte-dagens-nyheter/",
       "description": "L närmar sig riksdagsspärren, opinionsmätning läckte inför partiledarnas tv-debatt och två män pekas ut för drönarincidenten i Tyskland – här är nyheterna du inte får missa från dagen.",
@@ -91,7 +153,7 @@
       ]
     },
     {
-      "title": "Magdalena Andersson (S): Många har tagit valutgången för givet",
+      "title": "Magdalena Andersson (S): Många har tagit valutgången för given",
       "link": "https://www.sverigesradio.se/artikel/9291280",
       "description": "Valutgången har tagits för given, sa Magdalena Andersson (S) under TV4:s utfrågning om varför partiet backar stort. Den senaste opinionsundersökningen från TV4/Novus blev en kalldusch för Socialdemokraterna. Partiet tappar hela 4,3 procentenheter jämfört med förra mätningen och hamnar på en historiskt låg nivå på 25,8 procent. I samma mätning ökar Liberalerna och närmar sig riksdagsspärren på 4 procent och dessutom minskar gapet mellan Oppositionen och Tidöpartierna.",
       "pubDate": "2026-09-02T20:06:00Z",
@@ -104,18 +166,6 @@
       ]
     },
     {
-      "title": "Varnar för Vänsterpartiets plan vid ett maktskifte",
-      "link": "https://www.expressen.se/nyheter/politik/varnar-for-vansterpartiets-plan-vid-ett-maktskifte/",
-      "description": "Miljardärerna hotar att packa väskan om det blir en rödgrön valseger – och höjd skatt. Företagarnära organisationer varnar för negativa effekter. –&nbsp;Den stora risken är att Sverige blir mindre attraktivt som investeringsland, säger Sven-Olov Daunfeldt, chefsekonom på Svenskt näringsliv.",
-      "pubDate": "2026-09-02T18:03:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "DN Debatt. ”Tidöregeringen är den mest liberala i modern tid”",
       "link": "https://www.dn.se/debatt/tidoregeringen-ar-den-mest-liberala-i-modern-tid/",
       "description": "DN DEBATT. Efter fyra år är det dags att göra bokslut över Tidöavtalet. Från läktarna skäller de som hellre vill se ”plommonliberalism”. Men det vi lyckats åstadkomma i form av liberala reformer överträffar både regeringen Bildt och Reinfeldt. Ingen annan regering har i modern tid gjort mer för friheten i Sverige, skriver partiledare Simona Mohamsson (L).",
@@ -125,19 +175,6 @@
       "sourceType": "news",
       "topics": [
         "L"
-      ]
-    },
-    {
-      "title": "Ledare: I vilken värld lever egentligen Kristersson och Andersson?",
-      "link": "https://www.dn.se/ledare/i-vilken-varld-lever-egentligen-kristersson-och-andersson/",
-      "description": "Det är krig i Europa, USA hotar sina allierade och ”fredspremien” har gått upp i rök. Men Ulf Kristersson och Magdalena Andersson verkar tycka att ljusare tider står för dörren och att alla förtjänar att få en rejäl slant tillbaka.",
-      "pubDate": "2026-09-02T17:05:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
       ]
     },
     {
@@ -177,20 +214,6 @@
         "SD",
         "L",
         "Opinion"
-      ]
-    },
-    {
-      "title": "Kristerssons svar till Åkesson: ”Nej”",
-      "link": "https://www.expressen.se/nyheter/politik/kristerssons-svar-till-akesson-nej/",
-      "description": "Jimmie Åkesson vill ha 12 till 14 ministerposter om Tidöpartierna vinner valet. Det kommer han inte att få, säger statsminister Ulf Kristersson. – Nej, det kan det inte bli, säger han och skrattar till SVT Nyheter. &nbsp;",
-      "pubDate": "2026-09-02T15:51:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "Regeringsbildning"
       ]
     },
     {
@@ -240,32 +263,6 @@
         "M",
         "SD",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Jonas Sjöstedt: Jag har slutat titta på partiledardebatter, men börjat uppskatta Carl Bildt",
-      "link": "https://www.dn.se/kultur/jonas-sjostedt-jag-har-slutat-titta-pa-partiledardebatter-men-borjat-uppskatta-carl-bildt/",
-      "description": "Medvetna missförstånd, spelad upprördhet och ren hånfullhet – väljarna får inte den debatt de förtjänar. För att bryta polariseringen behöver svensk politik återupprätta ett rimligare samtalsklimat, skriver Vänsterpartiets tidigare ledare Jonas Sjöstedt.",
-      "pubDate": "2026-09-02T14:22:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Politikreportern: ”Chockvågor” inom S efter opinionsraset",
-      "link": "https://www.svt.se/nyheter/inrikes/politikreportern-chockvagor-inom-s-efter-opinionsraset",
-      "description": "Socialdemokraterna rasar i den senaste opinionsmätningen från Novus/TV4. Partiet ligger nu på 25,8 procent. – Det här skapar en stress i partiet, säger SVT:s politikreporter Tomas Nordenskiöld.",
-      "pubDate": "2026-09-02T13:38:16Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Opinion"
       ]
     }
   ],
