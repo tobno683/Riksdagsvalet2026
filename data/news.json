@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T05:58:24.837448Z",
+  "updated_at": "2026-09-03T10:34:43.852247Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,83 @@
   ],
   "news": [
     {
+      "title": "Insändare. Vilseledande normalisering med skylten ”Regeringen”",
+      "link": "https://www.dn.se/insandare/vilseledande-normalisering-med-skylten-regeringen/",
+      "description": "INSÄNDARE. Fyra års presskonferenser med Sverigedemokraterna på podiet borde ha ifrågasatts av medierna. Vad denna vilseledande normalisering inneburit kanske vi blir varse inom kort, skriver Torgny Karnstedt.",
+      "pubDate": "2026-09-03T10:31:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Ebba Busch om kritiken mot rennäringspolitiken: ”Då har FN fel”",
+      "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-om-kritiken-mot-rennaringspolitiken-da-har-fn-fel",
+      "description": "Sverige har flera gånger fått kritik av FN för att inte skydda samernas rättigheter tillräckligt när nya gruvor planeras på samisk mark. Samtidigt vill flera svenska partier minska rennäringens inflytande. – Det är ett kulturellt folkmord som pågår i Kiruna, säger Lars-Marcus Kuhmunen, ordförande i Gabna sameby, i SVT:s ”Renar i vägen”.",
+      "pubDate": "2026-09-03T09:03:28Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "V-toppen: ”Magdalena Andersson skjuter sig själv i foten”",
+      "link": "https://www.dn.se/sverige/v-toppen-magdalena-andersson-skjuter-sig-sjalv-i-foten/",
+      "description": "Vänsterpartiets beslut att bara släppa fram en regering de själva ingår i ”var otroligt tydligt”. Det säger Daniel Bernmar, ledamot i partiledningen och i gruppen som jobbat för att göra V regeringsdugligt. Han anser att S-ledaren Magdalena Andersson nu ”skjuter sig själv i foten” och varnar för risken för ”ett nytt januariavtal”.",
+      "pubDate": "2026-09-03T08:51:16Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Magdalena Anderssons miss i TV4: ”Inte vara opassande”",
+      "link": "https://www.expressen.se/nyheter/politik/magdalena-anderssons-miss-i-tv4-inte-vara-opassande/",
+      "description": "När Magdalena Andersson (S) skulle placera ut partiledarna på en magnettavla i TV4 gick det lite snett. L:s Simona Mohamsson fastnade på SD:s Jimmie Åkesson. – Det var inte meningen, säger Andersson.&nbsp;",
+      "pubDate": "2026-09-03T08:34:29Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "Insändare. Man kan inte utesluta var femte väljare",
+      "link": "https://www.dn.se/insandare/man-kan-inte-utesluta-var-femte-valjare/",
+      "description": "INSÄNDARE. För att den nuvarande regeringen ska få utökat förtroende måste Liberalerna få fortsätta i riksdagen. Att försöka utesluta runt en femtedel av det svenska folket från deltagande kan inte vara demokratiskt, skriver Erik Lindblom.",
+      "pubDate": "2026-09-03T08:32:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "MP"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Omöjligt för mig att ge Liberalerna min röst",
+      "link": "https://www.dn.se/insandare/svar-omojligt-for-mig-att-ge-liberalerna-min-rost/",
+      "description": "SVAR PÅ INSÄNDARE. Ni har misslyckats med er hjärtefråga skolan, kört klimatet i botten – och dessutom sålt er själ till Sverigedemokraterna. Därför är det omöjligt för mig att ge Liberalerna min röst, skriver Agnes Andolf.",
+      "pubDate": "2026-09-03T05:59:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
       "title": "DN frågar: Hur är det för dig att leva just nu?",
       "link": "https://www.dn.se/sverige/dn-fragar-hur-ar-det-for-dig-att-leva-just-nu/",
       "description": "Vi befinner oss i ett valår. Men hur känns livet i Sverige – på riktigt? Under ett år har DN:s fotograf Lars Lindqvist ställt frågan ”Hur är det att leva just nu” till människor runt om i landet. Hittills har videoklippen fått över 20 miljoner visningar i sociala medier och kommentarsfälten har fyllts med reaktioner.",
@@ -126,18 +203,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "S-politiker plockade ut vinst – HVB-boenden kritiserades",
-      "link": "https://www.expressen.se/nyheter/politik/s-politiker-plockade-ut-vinst--hvb-boenden-kritiserades/",
-      "description": "Frågan om vinster i välfärden är en känslig fråga för flera av Socialdemokraternas kandidater. När Expressen kontaktar S-politikern och vd:n för välfärdsföretaget C Omsorg AB, Andreas Johansson, blir det först luren på – och blockade samtal. –&nbsp;Vi är företagare och man måste få lön för sin möda, säger han om bolagets vinstuttag.&nbsp;",
-      "pubDate": "2026-09-03T04:00:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -200,69 +265,6 @@
       "sourceType": "news",
       "topics": [
         "L"
-      ]
-    },
-    {
-      "title": "Novus mätning läckte till partierna – kramades i SVT",
-      "link": "https://www.dn.se/sverige/novus-matning-lackte-till-partierna-kramades-i-svt/",
-      "description": "Simona Mohamsson och Jimmie Åkesson ville plötsligt inte debattera i SVT:s Aktuellt. Då hade resultatet i en ny opinionsmätning läckt till partierna. – Det är klart att det är olyckligt, säger Fredrick Malmberg, ansvarig utgivare för TV4 Nyheterna som publicerade undersökningen.",
-      "pubDate": "2026-09-02T16:15:13Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Andersson: SD:s maktambitioner har inga gränser",
-      "link": "https://www.dn.se/sverige/andersson-sds-maktambitioner-har-inga-granser/",
-      "description": "S-ledaren Magdalena Andersson upprepar sitt uttalande om att en kommande högerregering helt kommer att domineras av SD-ministrar. – Det är uppenbart att Sverigedemokraternas maktambitioner inte har några gränser, säger hon.",
-      "pubDate": "2026-09-02T15:24:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Regeringen rundar SD – öppnar för att ta de afghanska tolkarna till Sverige",
-      "link": "https://www.dn.se/sverige/regeringen-rundar-sd-oppnar-for-att-ta-de-afghanska-tolkarna-till-sverige/",
-      "description": "Regeringen tar ett första steg för att låta tolkarna från Afghanistankriget komma till Sverige. Men Sverigedemokraterna var inte informerade om beslutet. – Det är en märklig hantering, säger Matheus Enholm, (SD).",
-      "pubDate": "2026-09-02T15:12:38Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Företagens orosmoln: Slopad karensavdrag och skattehöjning",
-      "link": "https://www.sverigesradio.se/artikel/9291010",
-      "description": "Sverige är på väg mot en mild högkonjunktur, enligt storbanken Nordea, med stöd av ökad export och starkare inhemsk efterfrågan. Svenska företag oroas dock över vad som sker efter valet, enligt banken, som pekar ut skattehöjningar som det största orosmolnet på affärshimlen. Nordeas chefsekonom Annika Winsth ser störst risker med förslaget om slopat karensavdrag.",
-      "pubDate": "2026-09-02T14:40:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kristerssons besked: ”Det blir inte tolv SD-ministrar”",
-      "link": "https://www.svt.se/nyheter/inrikes/kristerssons-besked-det-blir-inte-12-sd-ministrar",
-      "description": "Jimmie Åkesson siktar på 12 till 14 ministerposter om Tidöpartierna vinner valet, säger han till Aftonbladet. Men statsminister Ulf Kristersson skrattar bort SD-ledarens planer. – Det kommer inte bli tolv SD-ministrar, säger han.",
-      "pubDate": "2026-09-02T14:29:05Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "Regeringsbildning"
       ]
     }
   ],
@@ -335,19 +337,6 @@
       "sourceType": "blog",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "De två bästa partierna för klimatet",
-      "link": "https://blog.zaramis.se/2026/08/31/de-tva-basta-partierna-for-klimatet/",
-      "description": "Två partier är tydligt bättre för klimatet än alla de andra partierna. Det är Vänsterpartiet och Miljöpartiet. Det visar Naturskyddsföreningen genomgång av partiernas miljö- och klimatpolitik. För den som vill ha en vettig klimatpolitik finns det alltså bara två partier att rösta på. Läs mer … Inlägget De två bästa partierna för klimatet dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-08-31T05:44:40Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V",
-        "MP"
       ]
     },
     {
