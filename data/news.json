@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T18:10:38.653307Z",
+  "updated_at": "2026-09-03T21:10:34.045924Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,56 @@
     }
   ],
   "news": [
+    {
+      "title": "Busch om flörtanklagelserna: ”Blir inget stödhjul åt S”",
+      "link": "https://www.svt.se/nyheter/inrikes/busch-om-flortanklagelserna-blir-inget-stodhjul-at-s",
+      "description": "Jimmie Åkesson (SD) har anklagat Ebba Busch för att flörta vänsterut. Men i SVT:s utfrågning stänger KD-ledaren dörren för Magdalena Andersson. – Jag kommer inte att vara ett stödhjul, säger hon.",
+      "pubDate": "2026-09-03T20:05:59Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "SD i Stockholm vill frysa hyror",
+      "link": "https://www.dn.se/ekonomi/sd-i-stockholm-vill-frysa-hyror/",
+      "description": "Sverigedemokraterna lovar att frysa hyrorna i allmännyttan i Stockholms stad. Huruvida det skulle gå att genomföra råder det delade meningar om. – Vi vill minska vinsterna i bolagen, säger SD:s gruppledare Gabriel Kroon.",
+      "pubDate": "2026-09-03T19:41:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "M i Stockholm saknar röda linjer för maktskifte – SD kräver lokalt Tidöavtal",
+      "link": "https://www.dn.se/sverige/m-i-stockholm-saknar-roda-linjer-for-maktskifte-sd-kraver-lokalt-tidoavtal/",
+      "description": "Om det rödgröna styret i Stockholm förlorar sin majoritet i valet har Moderaterna inga röda linjer för vilka partier de kan tänka sig att ta hjälp av för att rösta bort det nuvarande styret med. Samtidigt skriver gruppledaren Christofer Fjellner att han inte ser några förutsättningar för ett samarbete med SD för att styra Stockholm – och avböjer en förtydligande intervju.",
+      "pubDate": "2026-09-03T19:41:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Åkesson om Expos avslöjande: Inget partiet haft någon kännedom om",
+      "link": "https://www.sverigesradio.se/artikel/9292135",
+      "description": "SD-ledaren Jimmie Åkesson kommenterar nu tidskriften Expos granskning av en SD-anställd tjänsteman som jobbar nära politiker i riksdagens konstitutionsutskott. Tjänstemannen ska enligt Expo ha kopplingar till ryska statsaktörer och har spridit proryska budskap i sociala medier. ”Om det stämmer är det ju en hel del av det där som vi ser allvarligt på”, säger Jimmie Åkesson i en intervju till SVT.",
+      "pubDate": "2026-09-03T18:20:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "DN Debatt. ”Ända in i kaklet vill regeringen inskränka våra rättigheter”",
       "link": "https://www.dn.se/debatt/anda-in-i-kaklet-vill-regeringen-inskranka-vara-rattigheter/",
@@ -210,57 +260,6 @@
         "S",
         "L",
         "Opinion"
-      ]
-    },
-    {
-      "title": "Strömmer: Allvarliga uppgifter kring SD-tjänstemannen",
-      "link": "https://www.sverigesradio.se/artikel/9292051",
-      "description": "En SD-anställd tjänsteman som jobbar nära politiker i riksdagens konstitutionsutskott anklagas för att ha kopplingar till ryska statsaktörer. Kvinnan ska under flera år delat pro-ryska budskap i sina sociala medier, enligt en granskning av tidskriften Expo. Sverigedemokraterna skriver i ett mail till Ekot att de \"såklart ska titta närmare på de här allvarliga uppgifterna\".",
-      "pubDate": "2026-09-03T15:31:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD"
-      ]
-    },
-    {
-      "title": "Nya glädjesiffror för L",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e94925ad-bf55-4110-b566-6600dd9f3025",
-      "description": "Mohamsson hoppfull efter nya mätningen: ”Räckhåll”",
-      "pubDate": "2026-09-03T15:29:09Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "SVT/Verian: L närmar sig spärren – ”Kan gå fort”",
-      "link": "https://www.svt.se/nyheter/inrikes/svtverian-l-narmar-sig-sparren-kan-ga-fort",
-      "description": "Liberalerna ökar – och närmar sig riksdagsspärren, enligt SVT/Verians nya väljarbarometer. Samtidigt får M sitt lägsta stöd på sju år. – Det är faktiskt större chans att L kommer in i riksdagen än att Tidöpartierna vinner valet, säger Per Söderpalm, opinionsansvarig på Verian.",
-      "pubDate": "2026-09-03T14:30:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Känd rappare och gängkriminell gripen i Rumänien",
-      "link": "https://www.dn.se/sverige/kand-rappare-och-gangkriminell-gripen-i-rumanien/",
-      "description": "Rapparen Haval Khalil greps under torsdagen i Rumänien. Han är misstänkt för mordförsök och grov utpressning. ”När vi säger att vi kommer plocka dem 'en efter en' menar vi just det”, skriver statsminister Ulf Kristersson i en kommentar till DN.",
-      "pubDate": "2026-09-03T13:48:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
       ]
     }
   ],
