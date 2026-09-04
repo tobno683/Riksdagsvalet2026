@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T15:16:34.323946Z",
+  "updated_at": "2026-09-04T18:30:59.112214Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,156 @@
   ],
   "news": [
     {
+      "title": "Mikael Odenberg: SD bör inte ingå i en regering",
+      "link": "https://www.expressen.se/nyheter/sverige/mikael-odenberg-sd-bor-inte-inga-i-en-regering/",
+      "description": "Sverigedemokraterna har förändrats – men ändå inte. Det menar den före detta försvarsministern Mikael Odenberg (M), som skriver på Facebook: ”I min värld är SD inte ett parti som bör ingå i Sveriges regering”.",
+      "pubDate": "2026-09-04T18:11:37Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Busch: ”Tycker synd om Andersson ibland”",
+      "link": "https://www.expressen.se/nyheter/politik/busch-tycker-synd-om-andersson-ibland/",
+      "description": "KD-ledaren Ebba Busch tycker synd om Magdalena Andersson.&nbsp; Det eftersom hon ”behöver ha hand om” Nooshi Dadgostars ”lögner”.&nbsp; – Hur ska hon få ihop det här? säger Busch efter SR:s slutdebatt.&nbsp;",
+      "pubDate": "2026-09-04T18:07:10Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "KD"
+      ]
+    },
+    {
+      "title": "Åkesson om SD-toppens relation till rysskopplade tjänstemannen: Genomgått ny säkerhetsprövning",
+      "link": "https://www.svt.se/nyheter/inrikes/akesson-om-sd-toppens-relation-till-rysskopplade-tjanstemannen-genomgatt-ny-sakerhetsprovning",
+      "description": "Gustav Gellerbrant är chef för SD:s samordningskansli i Regeringskansliet. Han är också sambo med den SD-tjänsteman som enligt Expo kan kopplas till ryska statsaktörer. Enligt partiet ska Gellerbrant ha genomgått en ny säkerhetsprövning. – Inga myndigheter har kontaktat oss för att vidta några åtgärder, säger Jimmie Åkesson (SD).",
+      "pubDate": "2026-09-04T18:04:30Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Statsvetare: ”Partierna är oerhört oense om verklighetsbilden”",
+      "link": "https://www.dn.se/sverige/statsvetare-partierna-ar-oerhort-oense-om-verklighetsbilden/",
+      "description": "Utöver mål och medel är partierna ”oerhört oense” om verklighetsbilden, konstaterar statsvetaren Marie Demker efter fredagens partiledardebatt i Ekot. – Det togs till nya höjder, säger hon.",
+      "pubDate": "2026-09-04T17:19:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Svaret till Andersson om skatten: ”Absolut inte”",
+      "link": "https://www.svt.se/nyheter/inrikes/svaret-till-andersson-om-skatten-absolut-inte",
+      "description": "Miljöpartiet ser ut att kunna nå sitt bästa valresultat någonsin – medan Socialdemokraterna tappar i mätningarna. Kan ett starkare MP bädda för högre skatter än vad Magdalena Andersson har lovat väljarna? – Det är klart att storleken på partierna spelar roll, säger språkröret Amanda Lind.",
+      "pubDate": "2026-09-04T17:05:42Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Två försvagade ledare vacklar i mål",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-tva-forsvagade-ledare-vacklar-i-mal/",
+      "description": "Det är två partiledare med vacklande stöd som kämpar om statsministerposten sista veckan före valet. Ekots partiledardebatt påminde om att det blir hårda politiska förhandlingar efter valet oavsett vem som vinner. Varken Ulf Kristersson eller Magdalena Andersson kan lova något säkert om politiken efter valet.",
+      "pubDate": "2026-09-04T16:48:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Åkesson till klimatintresserade väljare: Rösta på Mohamsson",
+      "link": "https://www.dn.se/sverige/akesson-till-klimatintresserade-valjare-rosta-pa-mohamsson/",
+      "description": "Jimmie Åkesson (SD) byter fot. I SR Ekots partiledardebatt uppmanade han klimatintresserade högerväljare att rösta på Liberalerna. – Om du inte vill ha Nooshi Dadgostar som finansminister eller Daniel Helldén som energiminister så ska du rösta på Simona Mohamsson, sade Åkesson.",
+      "pubDate": "2026-09-04T16:30:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V",
+        "L",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Analys: ”Tidöpartierna gör sitt bästa för att framstå som ett enat lag”",
+      "link": "https://www.sverigesradio.se/artikel/9292922",
+      "description": "Det hettade till mellan partiledarna i flera frågor under Ekots slutdebatt . Särskilt mellan Kristdemokraternas partiledare Ebba Busch och Vänsterpartiets partiledare Nooshi Dadgostar mot slutet av debatten. Det säger Ekots poltikreporter Ekot Pontus Matsson, som också konstaterar att det märks i debatten att det är en dryg vecka kvar till valet. ”Det märks att det är mycket som står på spel. I de senaste opinionsmätningarna har Tidöpartierna fått lite häng på oppositionspartierna. Gapet har minskat i många och det känns som att de försöker ta det här tillfället i akt nu att framstå som ett samlat lag.”",
+      "pubDate": "2026-09-04T16:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist och Åkesson i debatt om migration och integration",
+      "link": "https://www.sverigesradio.se/artikel/9291006",
+      "description": "På fredagen möts partiledarna i Ekots slutdebatt inför valet 2026. Centerpartiets Elisabeth Thand Ringqvist och Sverigedemokraternas Jimmie Åkesson möts i en debatt om migration och integration. Thand Ringqvist säger att Sverige både behöver de som klarar gränserna för lönegolvet, på 34 400 kronor, och de klarar inte de lönegränserna. Och menar att utvisningar skapar färre jobb. Åkesson anklagar hennes syn på arbetskraftsinvandring för att vara ren lönedumpningspolitik och att lösningen inte är att fylla på med låglönearbetskraft från andra delar av världen.",
+      "pubDate": "2026-09-04T15:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Åkessons uppmaning: Rösta på Simona Mohamsson",
+      "link": "https://www.expressen.se/nyheter/politik/akessons-uppmaning-rosta-pa-simona-mohamsson/",
+      "description": "Jimmie Åkesson hyllar Simona Mohamsson – och uppmanar borgerliga väljare att rösta på Liberalerna. I alla fall om de brinner för klimatet. – Hon har slagits och kämpat, säger SD-ledaren i Ekots partiledardebatt. &nbsp;",
+      "pubDate": "2026-09-04T15:25:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Helldén och Mohamsson i debatt om klimatet",
+      "link": "https://www.sverigesradio.se/artikel/9291024",
+      "description": "På fredagen möts partiledarna i Ekots slutdebatt inför valet 2026. Miljöpartiets språkrör Daniel Helldén och Liberalernas partiledare Simona Mohamsson möts i en debatt om klimatet. Mohamsson menar att den bästa klimatpolitiken bygger på att elektrifiera samhället samt att utbyggnaden av kärnkraft är avgörande i den omställningen. Helldén å sin sida säger att den bästa klimatpolitiken är att se till så att Tidöpartierna inte sitter kvar vid makten, då han menar att de fördjupat svenskarnas fossilberoende.",
+      "pubDate": "2026-09-04T15:18:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "MP"
+      ]
+    },
+    {
       "title": "Fortsätter flörta med  C – nobbas igen",
       "link": "https://www.expressen.se/nyheter/sverige/fortsatter-florta-med--c-nobbas-igen/",
-      "description": "Tidöpartierna fortsätter flörta med Centerpartiet. I Ekots partiledardebatt säger Simon Mohamsson (L) till MP:s språkrör att han borde ”lyssna på Elisabeth Thand Ringqvist”. Och Ebba Busch (KD) räcker ut handen: – Tänk vad vi skulle kunna göra tillsammans.",
+      "description": "Tidöpartierna fortsätter flörta med Centerpartiet. I Ekots partiledardebatt säger Simona Mohamsson (L) till MP:s språkrör att han borde ”lyssna på Elisabeth Thand Ringqvist”. Och Ebba Busch (KD) räcker ut handen: – Tänk vad vi skulle kunna göra tillsammans.",
       "pubDate": "2026-09-04T15:04:13Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -94,7 +241,7 @@
       ]
     },
     {
-      "title": "Analys: Debatten har hittills handlar om verklighetsbeskrivningar",
+      "title": "Analys: Debatten har hittills handlat om verklighetsbeskrivningar",
       "link": "https://www.sverigesradio.se/artikel/9292897",
       "description": "Under fredagen möts partiledarna på Kulturhuset i Stockholm i Ekots slutdebatt inför valet. Ekots politikreporter Pontus Mattsson analyserar debattens första del som handlar om verklighetsbeskrivningar. Regeringssidan målar upp en ljus bild medan oppositionen målar upp en mörkare bild och talar om hur illa det går för svensk ekonomi, säger Pontus Mattsson.",
       "pubDate": "2026-09-04T15:04:00Z",
@@ -127,146 +274,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Busch och Dadgostar i debatt om sjukvården",
-      "link": "https://www.sverigesradio.se/artikel/9290998",
-      "description": "På fredagen möts partiledarna i Ekots slutdebatt inför valet 2026. Kristdemokraternas Ebba Busch och Vänsterpartiets Nooshi Dadgostar möts för att debattera sjukvården. Partiledarna är oense om huruvida vårdköerna har kortats. Nooshi Dadgostar säger att Ebba Busch har hittat ett nytt sätt att räkna ut vårdköerna, men det imponerar inte någon. Ebba Busch säger att Nooshi Dadgostar är en \"fullfjädrad socialist\" som inte tror på ett statligt ansvar vad gäller sjukvården.",
-      "pubDate": "2026-09-04T14:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD"
-      ]
-    },
-    {
-      "title": "Partiledardebatt i SR – följ direktrapporten",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/",
-      "description": "DIREKTRAPPORT: Partiledardebatt i SR",
-      "pubDate": "2026-09-04T14:16:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Andersson och Kristersson i debatt om ekonomin",
-      "link": "https://www.sverigesradio.se/artikel/9288684",
-      "description": "På fredagen möts partiledarna i Ekots slutdebatt inför valet 2026. Socialdemokraternas Magdalena Andersson och Moderaternas Ulf Kristersson möts för att debattera ekonomin. Bland annat hettar det till mellan partiledarna när Magdalena Andersson säger att Sverige befinner sig i det största underskottet på en generation. Ulf Kristersson kontrar med att S är ivriga att tala illa om ekonomin.",
-      "pubDate": "2026-09-04T14:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Reinfeldt rycker in i valspurten",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=713ed400-8085-4e14-9bc4-90a68305b59f",
-      "description": "Kampanjar för Moderaterna i valspurten",
-      "pubDate": "2026-09-04T13:23:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Här klipper Mohamsson sönder en hundring",
-      "link": "https://www.expressen.se/nyheter/politik/har-klipper-mohamsson-sonder-en-hundring/",
-      "description": "På väg in till radions partiledardebatt tog L-ledaren Simona Mohamsson fram saxen. Sen klippte hon sönder en hundralapp. – Vi har en straffskatt för dem som anstränger sig, säger hon.",
-      "pubDate": "2026-09-04T13:02:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Så här nära Kristersson har ingen SD-affär kommit förut",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-sa-har-nara-kristersson-har-ingen-sd-affar-kommit-forut/",
-      "description": "Det är inte första gången statsminister Ulf Kristersson tvingas parera politiska affärer i Sverigedemokraterna. Men den här gången bränns det mer än vanligt. Tjänstemannen som pekas ut för kopplingar till Ryssland är sambo med Sverigedemokraternas tyngsta företrädare i Regeringskansliet, med arbetsplats i statsministerns kansli på statsrådsberedningen.",
-      "pubDate": "2026-09-04T12:52:44Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "M lovar ”jättemycket pengar” till fler bussar",
-      "link": "https://www.dn.se/sverige/m-lovar-jattemycket-pengar-till-fler-bussar/",
-      "description": "Moderaterna i Region Stockholm har slickat såren efter förra valförlusten. Kommer renoverad vårdpolitik och löften om kraftigt utbyggd kollektivtrafik göra stockholmarna sugna på högerpolitik igen?",
-      "pubDate": "2026-09-04T11:27:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Nu måste högern rädda Liberalerna",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/nu-maste-hogern-radda-liberalerna/",
-      "description": "Simona Mohamsson har fått valrörelsen dit hon vill. Centerpartiets gravplundrare får vänta ett tag till, skriver Viktor Barth-Kron.",
-      "pubDate": "2026-09-04T10:57:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "Åkesson (SD) om Expos granskning: ”Allvarliga uppgifter”",
-      "link": "https://www.sverigesradio.se/artikel/9292535",
-      "description": "Sverigedemokraternas partiledare Jimmie Åkesson kommenterade under fredagen Expos granskning av en SD-anställd tjänsteman. Enligt tidningen ska tjänstemannen under flera år spridit proryska budskap, och ha kopplingar till ryska statsaktörer. ”Det finns uppgifter som upplevs som väldigt allvarliga och som man bör ta på allvar”, säger han.",
-      "pubDate": "2026-09-04T10:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Hultqvist vill kalla Kristersson till försvarsutskottet",
-      "link": "https://www.dn.se/sverige/hultqvist-vill-kalla-kristersson-till-forsvarsutskottet/",
-      "description": "Försvarsutskottets ordförande Peter Hultqvist (S) vill kalla statsminister Ulf Kristersson (M) till utskottet för att fråga om en SD-tjänstemans kopplingar till Ryssland. – Det här har en direkt koppling till statsrådsberedningen. Ytterst är det Kristersson som är ansvarig för verksamheten, säger Peter Hultqvist.",
-      "pubDate": "2026-09-04T10:10:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Furtenbach: ”Fortfarande väldigt allvarligt för Liberalerna”",
-      "link": "https://www.sverigesradio.se/artikel/9292380",
-      "description": "Med dryga veckan kvart till valdagen tappar Socialdemokraterna rejält, visar en ny mätning Indikator Opinion tagit fram för Ekot. Samtidigt är oppositionens försprång i opinionen tydligt, och Liberalerna har en bra bit upp till riksdagsspärren, enligt mätningen. ”Både Tidöpartierna och de rödgröna har anledning att vara nervösa”, säger Fredrik Furtenbach, Ekots inrikespolitiska kommentator.",
-      "pubDate": "2026-09-04T09:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
       ]
     }
   ],
