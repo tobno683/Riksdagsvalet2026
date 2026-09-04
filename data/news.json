@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:31:36.885442Z",
+  "updated_at": "2026-09-04T15:16:34.323946Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,7 +79,135 @@
   ],
   "news": [
     {
-      "title": "M lovar “jättemycket pengar” till fler bussar",
+      "title": "Fortsätter flörta med  C – nobbas igen",
+      "link": "https://www.expressen.se/nyheter/sverige/fortsatter-florta-med--c-nobbas-igen/",
+      "description": "Tidöpartierna fortsätter flörta med Centerpartiet. I Ekots partiledardebatt säger Simon Mohamsson (L) till MP:s språkrör att han borde ”lyssna på Elisabeth Thand Ringqvist”. Och Ebba Busch (KD) räcker ut handen: – Tänk vad vi skulle kunna göra tillsammans.",
+      "pubDate": "2026-09-04T15:04:13Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "KD",
+        "L",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Analys: Debatten har hittills handlar om verklighetsbeskrivningar",
+      "link": "https://www.sverigesradio.se/artikel/9292897",
+      "description": "Under fredagen möts partiledarna på Kulturhuset i Stockholm i Ekots slutdebatt inför valet. Ekots politikreporter Pontus Mattsson analyserar debattens första del som handlar om verklighetsbeskrivningar. Regeringssidan målar upp en ljus bild medan oppositionen målar upp en mörkare bild och talar om hur illa det går för svensk ekonomi, säger Pontus Mattsson.",
+      "pubDate": "2026-09-04T15:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Mohamssons syn på svenska är rasistisk",
+      "link": "https://www.dn.se/insandare/mohamssons-syn-pa-svenska-ar-rasistisk/",
+      "description": "INSÄNDARE. Det vore helt fel väg att gå om regeringen väljer att avskaffa ämnet svenska som andraspråk i grundskolan. Om fler elever ska lära sig bättre svenska behövs en utbyggd andraspråksutbildning i hela landet och på alla nivåer med fler utbildade och kompetenta lärare, skriver Hanna Ekstedt, legitimerad lärare i svenska och svenska som andraspråk.",
+      "pubDate": "2026-09-04T14:52:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Andersson om SD-tjänstemannen: Kristersson måste berätta",
+      "link": "https://www.dn.se/sverige/andersson-om-sd-tjanstemannen-kristersson-maste-beratta/",
+      "description": "Magdalena Andersson reagerar starkt på Expos avslöjande som kopplar en SD-tjänsteman till ryska nätverk och rysk propaganda. – Det handlar om väldigt allvarliga uppgifter vad gäller en person som arbetar i statsministerns direkta närhet, säger S-ledaren.",
+      "pubDate": "2026-09-04T14:52:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Busch och Dadgostar i debatt om sjukvården",
+      "link": "https://www.sverigesradio.se/artikel/9290998",
+      "description": "På fredagen möts partiledarna i Ekots slutdebatt inför valet 2026. Kristdemokraternas Ebba Busch och Vänsterpartiets Nooshi Dadgostar möts för att debattera sjukvården. Partiledarna är oense om huruvida vårdköerna har kortats. Nooshi Dadgostar säger att Ebba Busch har hittat ett nytt sätt att räkna ut vårdköerna, men det imponerar inte någon. Ebba Busch säger att Nooshi Dadgostar är en \"fullfjädrad socialist\" som inte tror på ett statligt ansvar vad gäller sjukvården.",
+      "pubDate": "2026-09-04T14:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD"
+      ]
+    },
+    {
+      "title": "Partiledardebatt i SR – följ direktrapporten",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/",
+      "description": "DIREKTRAPPORT: Partiledardebatt i SR",
+      "pubDate": "2026-09-04T14:16:37Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Andersson och Kristersson i debatt om ekonomin",
+      "link": "https://www.sverigesradio.se/artikel/9288684",
+      "description": "På fredagen möts partiledarna i Ekots slutdebatt inför valet 2026. Socialdemokraternas Magdalena Andersson och Moderaternas Ulf Kristersson möts för att debattera ekonomin. Bland annat hettar det till mellan partiledarna när Magdalena Andersson säger att Sverige befinner sig i det största underskottet på en generation. Ulf Kristersson kontrar med att S är ivriga att tala illa om ekonomin.",
+      "pubDate": "2026-09-04T14:13:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Reinfeldt rycker in i valspurten",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=713ed400-8085-4e14-9bc4-90a68305b59f",
+      "description": "Kampanjar för Moderaterna i valspurten",
+      "pubDate": "2026-09-04T13:23:38Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Här klipper Mohamsson sönder en hundring",
+      "link": "https://www.expressen.se/nyheter/politik/har-klipper-mohamsson-sonder-en-hundring/",
+      "description": "På väg in till radions partiledardebatt tog L-ledaren Simona Mohamsson fram saxen. Sen klippte hon sönder en hundralapp. – Vi har en straffskatt för dem som anstränger sig, säger hon.",
+      "pubDate": "2026-09-04T13:02:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Så här nära Kristersson har ingen SD-affär kommit förut",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-sa-har-nara-kristersson-har-ingen-sd-affar-kommit-forut/",
+      "description": "Det är inte första gången statsminister Ulf Kristersson tvingas parera politiska affärer i Sverigedemokraterna. Men den här gången bränns det mer än vanligt. Tjänstemannen som pekas ut för kopplingar till Ryssland är sambo med Sverigedemokraternas tyngsta företrädare i Regeringskansliet, med arbetsplats i statsministerns kansli på statsrådsberedningen.",
+      "pubDate": "2026-09-04T12:52:44Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "M lovar ”jättemycket pengar” till fler bussar",
       "link": "https://www.dn.se/sverige/m-lovar-jattemycket-pengar-till-fler-bussar/",
       "description": "Moderaterna i Region Stockholm har slickat såren efter förra valförlusten. Kommer renoverad vårdpolitik och löften om kraftigt utbyggd kollektivtrafik göra stockholmarna sugna på högerpolitik igen?",
       "pubDate": "2026-09-04T11:27:34Z",
@@ -139,128 +267,6 @@
       "topics": [
         "S",
         "L"
-      ]
-    },
-    {
-      "title": "S minskar kraftigt – L långt under riksdagsspärren: ”Historiskt dåligt”",
-      "link": "https://www.sverigesradio.se/artikel/9292027",
-      "description": "Socialdemokraterna minskar kraftigt i opinionen, och får nu 27,9 procents väljarstöd i Sveriges Radios mätning från Indikator opinion, vilket är den lägsta siffra som uppmätts från mätinstitutet. Partiet tappar till både Centerpartiet och Vänsterpartiet i den här mätningen. Liberalerna ligger fortsatt kvar på 2,2 procent som månaden innan, och sammantaget leder den rödgröna sidan över Tidöpartierna med knappt 5 procentenheter. ”Både Tidöpartierna och de rödgröna har anledning att vara nervösa”, säger Fredrik Furtenbach, Ekots inrikespolitiska kommentator .",
-      "pubDate": "2026-09-04T09:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "Moderaterna lovar att matcha Centerpartiets regeringskrav",
-      "link": "https://www.expressen.se/nyheter/politik/kallor-moderaterna-lovar-att-matcha-centerpartiets-regeringskrav-/",
-      "description": "Med Moderaterna kan Centerpartiet få igenom alla sex regeringskrav som de ställt på Magdalena Andersson. Det meddelar Gunnar Strömmer (M) på en pressträff. Men från C-ledaren Elisabeth Thand Ringqvist får man fortsatt kalla handen.",
-      "pubDate": "2026-09-04T09:33:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Åkesson om tjänstemannen: ”Väldigt allvarliga uppgifter”",
-      "link": "https://www.svt.se/nyheter/inrikes/akesson-om-tjanstemannen-valdigt-allvarliga-uppgifter",
-      "description": "SD-ledaren Jimmie Åkesson bemöter uppgifterna om den SD-tjänsteman som under lång tid har spridit proryska budskap. – Det finns uppgifter som upplevs som väldigt allvarliga och som man behöver ta på allvar och titta närmare på, säger han.",
-      "pubDate": "2026-09-04T09:22:09Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson om ryska kopplingarna: ”Väldigt allvarliga uppgifter”",
-      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-om-ryska-kopplingarna-valdigt-allvarliga-uppgifter/",
-      "description": "Jimmie Åkesson kommenterar avslöjandet om SD-tjänstemannen med kopplingar till Ryssland. – Det framkommer väldigt allvarliga uppgifter, säger han. Nu utreder partiet saken.",
-      "pubDate": "2026-09-04T09:01:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Åkesson: ”Väldig  allvarliga uppgifter”",
-      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-om-ryska-kopplingarna-valdigt-allvarliga-uppgifter/",
-      "description": "Åkessons ord efter avslöjandet: Utreds",
-      "pubDate": "2026-09-04T08:44:46Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "”Väldigt allvarligt uppgifter”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e9ca43d6-0a1d-40a8-93bb-7acf401574bd",
-      "description": "Åkesson om SD-kvinnan",
-      "pubDate": "2026-09-04T08:38:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Fel i förtidsröstningen – 4000 röster påverkas",
-      "link": "https://www.expressen.se/nyheter/politik/fel-i-fortidsrostningen-4000-roster-paverkas/",
-      "description": "Ett tekniskt fel har uppstått i registreringen av förtidsröster. Cirka 4000 röster kan underkännas, uppger Valmyndigheten. – Händelsen är allvarlig, säger kanslichef Anna Nyqvist.",
-      "pubDate": "2026-09-04T08:08:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Fel i förtidsröstningen – röster kan underkännas",
-      "link": "https://www.sverigesradio.se/artikel/9292335",
-      "description": "Omkring 4&nbsp;000 väljare har felaktigt prickats av två gånger vid röstningen eller fått sina röster avprickade på en annan väljare, enligt Valmyndigheten. ”Vi fick igår information om att det var problem vid registrering av mottagna röster vid förtidsröstningen”, säger myndighetens kanslichef Anna Nyqvist. Det ska gå att förtidsrösta säkert under fredagen, men Valmyndigheten ser allvarligt på händelsen. ”Vi är för det första inte säkra på att vi kan identifiera alla väljare”, säger myndighetens kanslichef Anna Nyqvist.",
-      "pubDate": "2026-09-04T07:58:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Andersson (S) om FN-kritiken: ”Vi behöver nya gruvor”",
-      "link": "https://www.svt.se/nyheter/inrikes/andersson-om-fn-kritiken-vi-behover-nya-gruvor",
-      "description": "FN kritiserar Sverige återkommande för att svensk lag inte uppfyller deklarationen om urfolksrättigheter för samerna, bland annat för bristande hänsyn till rennäringen vid gruvprojekt i norra Sverige. Men Socialdemokraterna har inga planer på att skärpa lagen som FN begärt, enligt Magdalena Andersson (S).",
-      "pubDate": "2026-09-04T07:49:50Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "S kallar Kristersson till utskott efter avslöjande om SD-tjänsteman",
-      "link": "https://www.expressen.se/nyheter/politik/s-kallar-kristersson-till-utskott-efter-avslojande-om-sd-tjansteman/",
-      "description": "Socialdemokraterna vill se Ulf Kristersson i försvarsutskottet efter avslöjandet om en SD-tjänsteman med kopplingar till Ryssland. – Det handlar om en säkerhetskris, säger Peter Hultqvist.",
-      "pubDate": "2026-09-04T07:29:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
       ]
     }
   ],
