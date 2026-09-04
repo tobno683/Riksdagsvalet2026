@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-03T10:33:38.110088Z",
+  "updated_at": "2026-09-04T10:24:24.016630Z",
   "poll_date_label": "PolitPro Election Trend (löpande uppdaterad)",
   "source": "PolitPro.eu — sammanvägning av svenska opinionsinstitut (källa krävs vid publik visning: Source: PolitPro.eu)",
   "source_url": "https://politpro.eu/en/sweden",
   "parties": {
-    "S": 29.2,
-    "M": 17.7,
-    "SD": 19.7,
+    "S": 28.9,
+    "M": 17.3,
+    "SD": 19.6,
     "V": 7.8,
-    "C": 7.5,
-    "KD": 6.5,
-    "L": 2.4,
-    "MP": 7.3
+    "C": 7.6,
+    "KD": 6.6,
+    "L": 2.5,
+    "MP": 7.4
   }
 }
