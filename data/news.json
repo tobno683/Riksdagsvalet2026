@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T01:06:46.548275Z",
+  "updated_at": "2026-09-04T06:05:37.294679Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,53 @@
   ],
   "news": [
     {
+      "title": "Regeringen vill förändra svenskundervisningen",
+      "link": "https://www.dn.se/sverige/regeringen-vill-forandra-svenskundervisningen/",
+      "description": "Regeringen tillsätter en utredning för att förbättra svenskundervisningen. Varannan elev som i dag studerar svenska som andraspråk är född här. – Jag tycker att det är en sorts rasism som baserar sig på låga förväntningar, säger skol- och integrationsminister Simona Mohamsson (L).",
+      "pubDate": "2026-09-04T06:00:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Centerpartiet och Liberalerna bråkar om vem som är liberal",
+      "link": "https://www.sverigesradio.se/artikel/9291976",
+      "description": "Centerpartiet tillsätter en grupp för att bli Sveriges samlande kraft för liberalismen, samtidigt som Liberalerna hävdar att Tidöregeringen är den mest liberala i modern tid. ”Vi har halverat skjutningarna, vi har det lägsta skattetrycket på 50 år”, säger Liberalernas partiledare Simona Mohamsson. ”Det är jättebra att skjutningarna går ned, men hur liberalt är det att gå till val på en regering till hälften bestående av SD”, säger Hannes Hervieu, partisekreterare (C).",
+      "pubDate": "2026-09-04T05:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "L"
+      ]
+    },
+    {
+      "title": "Din adress avgör vilken demenssjukvård du får: ”Diskriminerande”",
+      "link": "https://www.sverigesradio.se/artikel/9286441",
+      "description": "I region Stockholm finns tolv specialistmottagningar som arbetat med att diagnosticera demenssjukdom men i Region Jämtland Härjedalen saknas specialistmottagning. \"Vi kan inte bemöta patienternas önskemål och behov”, säger Elenor Öster som arbetar som överläkare i Region Jämtland Härjedalen. ”Vi kan ju behöva se hur vi organiserar det framåt”, säger Katarina Nyberg-Finn är socialdemokrat och ordförande i hälso- och sjukvårdsnämnden.",
+      "pubDate": "2026-09-04T04:39:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Johanna Frändén: Vem blir viktigast att rädda när extremvädret kommer?",
+      "link": "https://www.dn.se/kultur/johanna-franden-vem-blir-viktigast-att-radda-nar-extremvadret-kommer/",
+      "description": "Var det sommaren 2026 som nästan alla förstod att klimatkrisen inte är en fantasi utan något som händer nu, som eldar upp semesteridyllerna? Men i det svenska valet är det som om frågan inte existerar – trots att väljarna demonstrerar.",
+      "pubDate": "2026-09-04T04:38:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Busch om flörtanklagelserna: ”Blir inget stödhjul åt S”",
       "link": "https://www.svt.se/nyheter/inrikes/busch-om-flortanklagelserna-blir-inget-stodhjul-at-s",
       "description": "Jimmie Åkesson (SD) har anklagat Ebba Busch för att flörta vänsterut. Men i SVT:s utfrågning stänger KD-ledaren dörren för Magdalena Andersson. – Jag kommer inte att vara ett stödhjul, säger hon.",
@@ -139,36 +186,12 @@
       "topics": []
     },
     {
-      "title": "Max Hjelm: Liberalerna – garanten för SD:s massdeportationer",
-      "link": "https://www.dn.se/ledare/max-hjelm-liberalerna-garanten-for-sds-massdeportationer/",
-      "description": "Partiet som en gång hette Folkpartiet finns inte mer. Nu skryter L-ledaren om att hon är garanten för vad som förr utgjorde hennes ideologiska motståndare.",
-      "pubDate": "2026-09-03T17:54:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
       "title": "Falska rykten spreds efter dödsfall i Karlstad",
       "link": "https://www.dn.se/sverige/falska-rykten-spreds-efter-dodsfall-i-karlstad/",
       "description": "Två män i 20-årsåldern misstänks för att ha misshandlat en 48-årig pappa som senare dog av sina skador. Efter händelsen har falska rykten spridits om att de misstänkta männen ska ha utländsk bakgrund. Sverigedemokraten Charlie Weimers var en av politikerna som uppmärksammat fallet. – Jag står för varje ord jag skrev, säger han.",
       "pubDate": "2026-09-03T17:47:48Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Ministrar rasar – kräver att SD-kvinnan sparkas",
-      "link": "https://www.expressen.se/nyheter/politik/ministrar-rasar-kraver-att-sd-kvinnan-sparkas/",
-      "description": "Tidskriften Expo har avslöjat att en kvinnlig SD-tjänsteman under flera års tid har delat proryskt innehåll på sociala medier.&nbsp; Flera ministrar kräver att tjänstemannen får sparken om uppgifterna är riktiga.&nbsp; SD-ledaren Jimmie Åkesson säger att partiet ska ”reda ut vad som stämmer”.&nbsp;",
-      "pubDate": "2026-09-03T17:47:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD"
@@ -197,31 +220,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Åkesson tonar ned L-kravet: ”Trenden är tydlig”",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-tonar-ned-l-kravet-trenden-ar-tydlig/",
-      "description": "Med tio dagar kvar till valet ligger L fortfarande under den gräns på 3,5 procent som Jimmie Åkesson tidigare pekat ut. Men efter partiets uppgång i opinionen backar SD-ledaren – och menar att själva siffran har blivit mindre viktig. – Trenden är ju tydlig, säger han.",
-      "pubDate": "2026-09-03T17:03:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "L närmar sig riksdagsspärren",
-      "link": "https://www.expressen.se/nyheter/politik/l-narmar-sig-riksdagssparren/",
-      "description": "Liberalerna närmar sig riksdagsspärren. I torsdagens väljarbarometer från SVT/Verian får partiet 3,0 procent. Man saknar fortsatt en hel del väljare innan man når säker mark – men trenden är positiv.",
-      "pubDate": "2026-09-03T16:33:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
-        "Opinion"
       ]
     },
     {
@@ -266,10 +264,10 @@
   ],
   "blogs": [
     {
-      "title": "Stoppa gräddfilerna i vården",
-      "link": "https://blog.zaramis.se/2026/09/03/stoppa-graddfilerna-i-varden/",
-      "description": "Stoppa gräddfilerna i vården. Den som behöver vård mest ska få den först. Svensk sjukvård ska bygga på behov, inte plånbok. Men idag ser verkligheten annorlunda ut. Den som är rik, bor i ett välbärgat område eller har en privat sjukvårdsförsäkring får ofta snabbare och bättre tillgång till vård än den som behöver vården mest. Därför har Vänsterpartiet presenterat en plan för att stoppa gräddfilerna i vården och återupprätta principen om vård efter behov. Läs mer … Inlägget Stoppa gräddfilerna i vården dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-03T13:50:26Z",
+      "title": "Vänsterpartiets ungdomspaket",
+      "link": "https://blog.zaramis.se/2026/09/04/vansterpartiets-ungdomspaket/",
+      "description": "Vänsterpartiet lanserar ett nytt ”Ungdomspaket” på totalt cirka 5 miljarder kronor för att förbättra villkoren för studenter, vuxenstuderande och unga i hela landet. Paketet innehåller en rad satsningar, från höjt studiemedel till fri tandvård och billigare kollektivtrafik. Läs mer … Inlägget Vänsterpartiets ungdomspaket dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-04T05:17:04Z",
       "source": "Svensson",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
       "sourceType": "blog",
@@ -278,10 +276,22 @@
       ]
     },
     {
-      "title": "Trygghet när jobbet försvinner",
-      "link": "https://blog.zaramis.se/2026/09/02/trygghet-nar-jobbet-forsvinner/",
-      "description": "Den som blir arbetslös ska kunna fokusera på att hitta ett nytt jobb, inte på om pengarna räcker till mat och hyra. Vänsterpartiet vill att 80 procent av löntagarna ska få 80 procent av sin tidigare lön vid arbetslöshet. Läs mer … Inlägget Trygghet när jobbet försvinner dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-02T04:56:11Z",
+      "title": "Sopade under mattan",
+      "link": "https://ledarsidorna.se/sopade-under-mattan/",
+      "description": "I praktiken samtliga svenska riksdagspartier, med något undantag, har haft positiva och mer eller mindre långtgående relationer med radikal politisk islam på något sätt. Med samma motivbild. Moderaterna är ett parti som inte på något sätt är förskonade. I det partiet tog sig en medlem av det Muslimska brödraskapet ända fram till riksdagens försvarsutskott. Fyra [&#8230;]",
+      "pubDate": "2026-09-04T03:41:58Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Stoppa gräddfilerna i vården",
+      "link": "https://blog.zaramis.se/2026/09/03/stoppa-graddfilerna-i-varden/",
+      "description": "Stoppa gräddfilerna i vården. Den som behöver vård mest ska få den först. Svensk sjukvård ska bygga på behov, inte plånbok. Men idag ser verkligheten annorlunda ut. Den som är rik, bor i ett välbärgat område eller har en privat sjukvårdsförsäkring får ofta snabbare och bättre tillgång till vård än den som behöver vården mest. Därför har Vänsterpartiet presenterat en plan för att stoppa gräddfilerna i vården och återupprätta principen om vård efter behov. Läs mer … Inlägget Stoppa gräddfilerna i vården dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-03T13:50:26Z",
       "source": "Svensson",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
       "sourceType": "blog",
@@ -384,19 +394,6 @@
       "sourceType": "blog",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Kan ett “Klamydiabrev” rädda Liberalerna?",
-      "link": "https://ledarsidorna.se/kan-ett-klamydiabrev-radda-liberalerna/",
-      "description": "Samtidigt som Sverigedemokraternas partiledare Jimmie Åkesson nu givit Liberalerna en tydlig tidsfrist på sig att nå över 3,5 procent går den tidigare partiledaren Lars Leijonborg (L) ut och menar att han hoppas på ett &#8220;defining moment&#8221; som kommer vända valrörelsen till partiets favör. En önskan som, på objektiva rekvisit, är att önska för mycket. Det [&#8230;]",
-      "pubDate": "2026-08-25T02:09:40Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD",
-        "L"
       ]
     }
   ],
