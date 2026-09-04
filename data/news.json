@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:30:59.112214Z",
+  "updated_at": "2026-09-04T21:06:54.930234Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,43 @@
     }
   ],
   "news": [
+    {
+      "title": "4 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/4-september-missa-inte-dagens-nyheter/",
+      "description": "Tidigare SD-ledamot smygfotade kvinnor, adelsfamiljerna i bitter strid och Åkesson byter fot – här är dagens nyheter.",
+      "pubDate": "2026-09-04T19:11:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Gellerbrants sambo kopplas till ryska statsaktörer",
+      "link": "https://www.sverigesradio.se/artikel/9292962",
+      "description": "SD-toppen Gustav Gellerbrant har säkerhetsprövats på nytt efter Expos uppgifter om att hans sambo kopplats till ryska statsaktörer. Gellerbrant har haft en central roll i SD och pekas ut som en av arkitekterna bakom Tidöavtalet. ”Inga myndigheter har kontaktat oss för att vidta några åtgärder”, säger Jimmie Åkesson till SVT . Ekot söker Gustav Gellerbrant.",
+      "pubDate": "2026-09-04T18:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Åkesson hyllar L:s klimatlinje – ber väljare rösta",
+      "link": "https://www.sverigesradio.se/artikel/9292958",
+      "description": "Jimmie Åkesson (SD) uppmanar nu klimatengagerade borgerliga väljare att rösta på Liberalerna och hyllar Simona Mohamsson i Ekots slutdebatt . Svängningen kommer efter att SD-ledaren i augusti avrått från en L-röst, samtidigt som partiet enligt Ekots mätning ligger kvar på 2,2 procent. Mohamsson välkomnar stödet och beskriver hur Åkesson samtidigt erkänner att Liberalerna drivit på regeringens klimatpolitik.",
+      "pubDate": "2026-09-04T18:39:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
     {
       "title": "Mikael Odenberg: SD bör inte ingå i en regering",
       "link": "https://www.expressen.se/nyheter/sverige/mikael-odenberg-sd-bor-inte-inga-i-en-regering/",
@@ -238,42 +275,6 @@
         "KD",
         "L",
         "Debatt"
-      ]
-    },
-    {
-      "title": "Analys: Debatten har hittills handlat om verklighetsbeskrivningar",
-      "link": "https://www.sverigesradio.se/artikel/9292897",
-      "description": "Under fredagen möts partiledarna på Kulturhuset i Stockholm i Ekots slutdebatt inför valet. Ekots politikreporter Pontus Mattsson analyserar debattens första del som handlar om verklighetsbeskrivningar. Regeringssidan målar upp en ljus bild medan oppositionen målar upp en mörkare bild och talar om hur illa det går för svensk ekonomi, säger Pontus Mattsson.",
-      "pubDate": "2026-09-04T15:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Insändare. Mohamssons syn på svenska är rasistisk",
-      "link": "https://www.dn.se/insandare/mohamssons-syn-pa-svenska-ar-rasistisk/",
-      "description": "INSÄNDARE. Det vore helt fel väg att gå om regeringen väljer att avskaffa ämnet svenska som andraspråk i grundskolan. Om fler elever ska lära sig bättre svenska behövs en utbyggd andraspråksutbildning i hela landet och på alla nivåer med fler utbildade och kompetenta lärare, skriver Hanna Ekstedt, legitimerad lärare i svenska och svenska som andraspråk.",
-      "pubDate": "2026-09-04T14:52:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Andersson om SD-tjänstemannen: Kristersson måste berätta",
-      "link": "https://www.dn.se/sverige/andersson-om-sd-tjanstemannen-kristersson-maste-beratta/",
-      "description": "Magdalena Andersson reagerar starkt på Expos avslöjande som kopplar en SD-tjänsteman till ryska nätverk och rysk propaganda. – Det handlar om väldigt allvarliga uppgifter vad gäller en person som arbetar i statsministerns direkta närhet, säger S-ledaren.",
-      "pubDate": "2026-09-04T14:52:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
       ]
     }
   ],
