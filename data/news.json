@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T23:22:19.572958Z",
+  "updated_at": "2026-09-04T01:06:46.548275Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -225,18 +225,6 @@
       ]
     },
     {
-      "title": "Väljartapp skapar stress i S: Inte avgjort",
-      "link": "https://www.expressen.se/nyheter/politik/valjartapp-skapar-stress-i-s-inte-avgjort/",
-      "description": "Stressen sprider sig i Socialdemokraterna efter flera mätningar med väljartapp. Internt växer kritiken mot det ensidiga fokuset på SD, men S-topparna står fast vid inriktningen. –&nbsp;Valet är inte på något sätt avgjort, säger partiledaren Magdalena Andersson.",
-      "pubDate": "2026-09-03T16:23:53Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "V och S i bråk på arabiska: ”De har panik”",
       "link": "https://www.dn.se/sverige/v-och-s-i-brak-pa-arabiska-de-har-panik/",
       "description": "Valtemperaturen stiger i Malmö. I sociala medier har S och V hamnat i konflikt – och strider nu om arabisktalande väljare i staden. – Det här är desperation, säger Anfal Mahdi, oppositionsråd för Vänsterpartiet i Malmö.",
@@ -260,6 +248,19 @@
         "S",
         "L",
         "Opinion"
+      ]
+    },
+    {
+      "title": "Strömmer: Allvarliga uppgifter kring SD-tjänstemannen",
+      "link": "https://www.sverigesradio.se/artikel/9292051",
+      "description": "En SD-anställd tjänsteman som jobbar nära politiker i riksdagens konstitutionsutskott anklagas för att ha kopplingar till ryska statsaktörer. Kvinnan ska under flera år delat pro-ryska budskap i sina sociala medier, enligt en granskning av tidskriften Expo. Sverigedemokraterna skriver i ett mail till Ekot att de \"såklart ska titta närmare på de här allvarliga uppgifterna\".",
+      "pubDate": "2026-09-03T15:31:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
       ]
     }
   ],
