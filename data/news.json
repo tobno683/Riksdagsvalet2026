@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T06:05:37.294679Z",
+  "updated_at": "2026-09-04T11:31:36.885442Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,83 +79,10 @@
   ],
   "news": [
     {
-      "title": "Regeringen vill förändra svenskundervisningen",
-      "link": "https://www.dn.se/sverige/regeringen-vill-forandra-svenskundervisningen/",
-      "description": "Regeringen tillsätter en utredning för att förbättra svenskundervisningen. Varannan elev som i dag studerar svenska som andraspråk är född här. – Jag tycker att det är en sorts rasism som baserar sig på låga förväntningar, säger skol- och integrationsminister Simona Mohamsson (L).",
-      "pubDate": "2026-09-04T06:00:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Centerpartiet och Liberalerna bråkar om vem som är liberal",
-      "link": "https://www.sverigesradio.se/artikel/9291976",
-      "description": "Centerpartiet tillsätter en grupp för att bli Sveriges samlande kraft för liberalismen, samtidigt som Liberalerna hävdar att Tidöregeringen är den mest liberala i modern tid. ”Vi har halverat skjutningarna, vi har det lägsta skattetrycket på 50 år”, säger Liberalernas partiledare Simona Mohamsson. ”Det är jättebra att skjutningarna går ned, men hur liberalt är det att gå till val på en regering till hälften bestående av SD”, säger Hannes Hervieu, partisekreterare (C).",
-      "pubDate": "2026-09-04T05:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "Din adress avgör vilken demenssjukvård du får: ”Diskriminerande”",
-      "link": "https://www.sverigesradio.se/artikel/9286441",
-      "description": "I region Stockholm finns tolv specialistmottagningar som arbetat med att diagnosticera demenssjukdom men i Region Jämtland Härjedalen saknas specialistmottagning. \"Vi kan inte bemöta patienternas önskemål och behov”, säger Elenor Öster som arbetar som överläkare i Region Jämtland Härjedalen. ”Vi kan ju behöva se hur vi organiserar det framåt”, säger Katarina Nyberg-Finn är socialdemokrat och ordförande i hälso- och sjukvårdsnämnden.",
-      "pubDate": "2026-09-04T04:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Johanna Frändén: Vem blir viktigast att rädda när extremvädret kommer?",
-      "link": "https://www.dn.se/kultur/johanna-franden-vem-blir-viktigast-att-radda-nar-extremvadret-kommer/",
-      "description": "Var det sommaren 2026 som nästan alla förstod att klimatkrisen inte är en fantasi utan något som händer nu, som eldar upp semesteridyllerna? Men i det svenska valet är det som om frågan inte existerar – trots att väljarna demonstrerar.",
-      "pubDate": "2026-09-04T04:38:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Busch om flörtanklagelserna: ”Blir inget stödhjul åt S”",
-      "link": "https://www.svt.se/nyheter/inrikes/busch-om-flortanklagelserna-blir-inget-stodhjul-at-s",
-      "description": "Jimmie Åkesson (SD) har anklagat Ebba Busch för att flörta vänsterut. Men i SVT:s utfrågning stänger KD-ledaren dörren för Magdalena Andersson. – Jag kommer inte att vara ett stödhjul, säger hon.",
-      "pubDate": "2026-09-03T20:05:59Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "SD i Stockholm vill frysa hyror",
-      "link": "https://www.dn.se/ekonomi/sd-i-stockholm-vill-frysa-hyror/",
-      "description": "Sverigedemokraterna lovar att frysa hyrorna i allmännyttan i Stockholms stad. Huruvida det skulle gå att genomföra råder det delade meningar om. – Vi vill minska vinsterna i bolagen, säger SD:s gruppledare Gabriel Kroon.",
-      "pubDate": "2026-09-03T19:41:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "M i Stockholm saknar röda linjer för maktskifte – SD kräver lokalt Tidöavtal",
-      "link": "https://www.dn.se/sverige/m-i-stockholm-saknar-roda-linjer-for-maktskifte-sd-kraver-lokalt-tidoavtal/",
-      "description": "Om det rödgröna styret i Stockholm förlorar sin majoritet i valet har Moderaterna inga röda linjer för vilka partier de kan tänka sig att ta hjälp av för att rösta bort det nuvarande styret med. Samtidigt skriver gruppledaren Christofer Fjellner att han inte ser några förutsättningar för ett samarbete med SD för att styra Stockholm – och avböjer en förtydligande intervju.",
-      "pubDate": "2026-09-03T19:41:27Z",
+      "title": "M lovar “jättemycket pengar” till fler bussar",
+      "link": "https://www.dn.se/sverige/m-lovar-jattemycket-pengar-till-fler-bussar/",
+      "description": "Moderaterna i Region Stockholm har slickat såren efter förra valförlusten. Kommer renoverad vårdpolitik och löften om kraftigt utbyggd kollektivtrafik göra stockholmarna sugna på högerpolitik igen?",
+      "pubDate": "2026-09-04T11:27:34Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -164,105 +91,193 @@
       ]
     },
     {
-      "title": "Åkesson om Expos avslöjande: Inget partiet haft någon kännedom om",
-      "link": "https://www.sverigesradio.se/artikel/9292135",
-      "description": "SD-ledaren Jimmie Åkesson kommenterar nu tidskriften Expos granskning av en SD-anställd tjänsteman som jobbar nära politiker i riksdagens konstitutionsutskott. Tjänstemannen ska enligt Expo ha kopplingar till ryska statsaktörer och har spridit proryska budskap i sociala medier. ”Om det stämmer är det ju en hel del av det där som vi ser allvarligt på”, säger Jimmie Åkesson i en intervju till SVT.",
-      "pubDate": "2026-09-03T18:20:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Nu måste högern rädda Liberalerna",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/nu-maste-hogern-radda-liberalerna/",
+      "description": "Simona Mohamsson har fått valrörelsen dit hon vill. Centerpartiets gravplundrare får vänta ett tag till, skriver Viktor Barth-Kron.",
+      "pubDate": "2026-09-04T10:57:38Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "DN Debatt. ”Ända in i kaklet vill regeringen inskränka våra rättigheter”",
-      "link": "https://www.dn.se/debatt/anda-in-i-kaklet-vill-regeringen-inskranka-vara-rattigheter/",
-      "description": "DN DEBATT. Sverige går till val om drygt en vecka. In i det sista har Tidöregeringen tagit nya steg för att begränsa rättssäkerheten och yttrandefriheten. Ministrar klafsar runt i pågående rättsfall och hänger ut medier och journalister som vågar sig på granskning. Det är ett fräckt angrepp på den fria åsiktsbildningen, skriver yttrandefrihetsexperten Nils Funcke.",
-      "pubDate": "2026-09-03T18:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Falska rykten spreds efter dödsfall i Karlstad",
-      "link": "https://www.dn.se/sverige/falska-rykten-spreds-efter-dodsfall-i-karlstad/",
-      "description": "Två män i 20-årsåldern misstänks för att ha misshandlat en 48-årig pappa som senare dog av sina skador. Efter händelsen har falska rykten spridits om att de misstänkta männen ska ha utländsk bakgrund. Sverigedemokraten Charlie Weimers var en av politikerna som uppmärksammat fallet. – Jag står för varje ord jag skrev, säger han.",
-      "pubDate": "2026-09-03T17:47:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Åkesson backar om L-ultimatum: Vill vänta in fler mätningar",
-      "link": "https://www.dn.se/sverige/akesson-backar-om-l-ultimatum-vill-vanta-in-fler-matningar/",
-      "description": "GÄVLE-HORNDAL. Jimmie Åkesson mjukar upp sin utfästelse att dumpa Liberalerna om partiet släpar efter i opinionen. Med tio dagar kvar till valet vill SD-ledaren vänta in fler mätningar.",
-      "pubDate": "2026-09-03T17:21:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
+        "C",
         "L"
       ]
     },
     {
-      "title": "MP lovar tågresenärer bättre ersättning",
-      "link": "https://www.dn.se/sverige/mp-lovar-tagresenarer-battre-ersattning/",
-      "description": "Tågresenärer som drabbas av förseningar ska automatiskt få ersättning utan att behöva ansöka. Det är ett nytt löfte som Miljöpartiet går till val på. – Det ska bli enklare och mer attraktivt att resa med tåg, säger språkröret Daniel Helldén.",
-      "pubDate": "2026-09-03T17:21:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "V och S i bråk på arabiska: ”De har panik”",
-      "link": "https://www.dn.se/sverige/v-och-s-i-brak-pa-arabiska-de-har-panik/",
-      "description": "Valtemperaturen stiger i Malmö. I sociala medier har S och V hamnat i konflikt – och strider nu om arabisktalande väljare i staden. – Det här är desperation, säger Anfal Mahdi, oppositionsråd för Vänsterpartiet i Malmö.",
-      "pubDate": "2026-09-03T16:11:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "”Håller trenden i sig blir det ett jämnt val”",
-      "link": "https://www.svt.se/nyheter/inrikes/haller-trenden-i-sig-blir-det-ett-jamnt-val",
-      "description": "Liberalerna har medvind i opinionen, medan Socialdemokraterna tappar mark. Blockskillnaden minskar. Trenden syns i flera opinionsundersökningar och bekräftas i SVT/Verians väljarbarometer.",
-      "pubDate": "2026-09-03T15:40:33Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Strömmer: Allvarliga uppgifter kring SD-tjänstemannen",
-      "link": "https://www.sverigesradio.se/artikel/9292051",
-      "description": "En SD-anställd tjänsteman som jobbar nära politiker i riksdagens konstitutionsutskott anklagas för att ha kopplingar till ryska statsaktörer. Kvinnan ska under flera år delat pro-ryska budskap i sina sociala medier, enligt en granskning av tidskriften Expo. Sverigedemokraterna skriver i ett mail till Ekot att de \"såklart ska titta närmare på de här allvarliga uppgifterna\".",
-      "pubDate": "2026-09-03T15:31:00Z",
+      "title": "Åkesson (SD) om Expos granskning: ”Allvarliga uppgifter”",
+      "link": "https://www.sverigesradio.se/artikel/9292535",
+      "description": "Sverigedemokraternas partiledare Jimmie Åkesson kommenterade under fredagen Expos granskning av en SD-anställd tjänsteman. Enligt tidningen ska tjänstemannen under flera år spridit proryska budskap, och ha kopplingar till ryska statsaktörer. ”Det finns uppgifter som upplevs som väldigt allvarliga och som man bör ta på allvar”, säger han.",
+      "pubDate": "2026-09-04T10:46:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
         "SD"
+      ]
+    },
+    {
+      "title": "Hultqvist vill kalla Kristersson till försvarsutskottet",
+      "link": "https://www.dn.se/sverige/hultqvist-vill-kalla-kristersson-till-forsvarsutskottet/",
+      "description": "Försvarsutskottets ordförande Peter Hultqvist (S) vill kalla statsminister Ulf Kristersson (M) till utskottet för att fråga om en SD-tjänstemans kopplingar till Ryssland. – Det här har en direkt koppling till statsrådsberedningen. Ytterst är det Kristersson som är ansvarig för verksamheten, säger Peter Hultqvist.",
+      "pubDate": "2026-09-04T10:10:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Furtenbach: ”Fortfarande väldigt allvarligt för Liberalerna”",
+      "link": "https://www.sverigesradio.se/artikel/9292380",
+      "description": "Med dryga veckan kvart till valdagen tappar Socialdemokraterna rejält, visar en ny mätning Indikator Opinion tagit fram för Ekot. Samtidigt är oppositionens försprång i opinionen tydligt, och Liberalerna har en bra bit upp till riksdagsspärren, enligt mätningen. ”Både Tidöpartierna och de rödgröna har anledning att vara nervösa”, säger Fredrik Furtenbach, Ekots inrikespolitiska kommentator.",
+      "pubDate": "2026-09-04T09:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L"
+      ]
+    },
+    {
+      "title": "S minskar kraftigt – L långt under riksdagsspärren: ”Historiskt dåligt”",
+      "link": "https://www.sverigesradio.se/artikel/9292027",
+      "description": "Socialdemokraterna minskar kraftigt i opinionen, och får nu 27,9 procents väljarstöd i Sveriges Radios mätning från Indikator opinion, vilket är den lägsta siffra som uppmätts från mätinstitutet. Partiet tappar till både Centerpartiet och Vänsterpartiet i den här mätningen. Liberalerna ligger fortsatt kvar på 2,2 procent som månaden innan, och sammantaget leder den rödgröna sidan över Tidöpartierna med knappt 5 procentenheter. ”Både Tidöpartierna och de rödgröna har anledning att vara nervösa”, säger Fredrik Furtenbach, Ekots inrikespolitiska kommentator .",
+      "pubDate": "2026-09-04T09:45:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "L"
+      ]
+    },
+    {
+      "title": "Moderaterna lovar att matcha Centerpartiets regeringskrav",
+      "link": "https://www.expressen.se/nyheter/politik/kallor-moderaterna-lovar-att-matcha-centerpartiets-regeringskrav-/",
+      "description": "Med Moderaterna kan Centerpartiet få igenom alla sex regeringskrav som de ställt på Magdalena Andersson. Det meddelar Gunnar Strömmer (M) på en pressträff. Men från C-ledaren Elisabeth Thand Ringqvist får man fortsatt kalla handen.",
+      "pubDate": "2026-09-04T09:33:36Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Åkesson om tjänstemannen: ”Väldigt allvarliga uppgifter”",
+      "link": "https://www.svt.se/nyheter/inrikes/akesson-om-tjanstemannen-valdigt-allvarliga-uppgifter",
+      "description": "SD-ledaren Jimmie Åkesson bemöter uppgifterna om den SD-tjänsteman som under lång tid har spridit proryska budskap. – Det finns uppgifter som upplevs som väldigt allvarliga och som man behöver ta på allvar och titta närmare på, säger han.",
+      "pubDate": "2026-09-04T09:22:09Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson om ryska kopplingarna: ”Väldigt allvarliga uppgifter”",
+      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-om-ryska-kopplingarna-valdigt-allvarliga-uppgifter/",
+      "description": "Jimmie Åkesson kommenterar avslöjandet om SD-tjänstemannen med kopplingar till Ryssland. – Det framkommer väldigt allvarliga uppgifter, säger han. Nu utreder partiet saken.",
+      "pubDate": "2026-09-04T09:01:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Åkesson: ”Väldig  allvarliga uppgifter”",
+      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-om-ryska-kopplingarna-valdigt-allvarliga-uppgifter/",
+      "description": "Åkessons ord efter avslöjandet: Utreds",
+      "pubDate": "2026-09-04T08:44:46Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "”Väldigt allvarligt uppgifter”",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e9ca43d6-0a1d-40a8-93bb-7acf401574bd",
+      "description": "Åkesson om SD-kvinnan",
+      "pubDate": "2026-09-04T08:38:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Fel i förtidsröstningen – 4000 röster påverkas",
+      "link": "https://www.expressen.se/nyheter/politik/fel-i-fortidsrostningen-4000-roster-paverkas/",
+      "description": "Ett tekniskt fel har uppstått i registreringen av förtidsröster. Cirka 4000 röster kan underkännas, uppger Valmyndigheten. – Händelsen är allvarlig, säger kanslichef Anna Nyqvist.",
+      "pubDate": "2026-09-04T08:08:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Fel i förtidsröstningen – röster kan underkännas",
+      "link": "https://www.sverigesradio.se/artikel/9292335",
+      "description": "Omkring 4&nbsp;000 väljare har felaktigt prickats av två gånger vid röstningen eller fått sina röster avprickade på en annan väljare, enligt Valmyndigheten. ”Vi fick igår information om att det var problem vid registrering av mottagna röster vid förtidsröstningen”, säger myndighetens kanslichef Anna Nyqvist. Det ska gå att förtidsrösta säkert under fredagen, men Valmyndigheten ser allvarligt på händelsen. ”Vi är för det första inte säkra på att vi kan identifiera alla väljare”, säger myndighetens kanslichef Anna Nyqvist.",
+      "pubDate": "2026-09-04T07:58:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Andersson (S) om FN-kritiken: ”Vi behöver nya gruvor”",
+      "link": "https://www.svt.se/nyheter/inrikes/andersson-om-fn-kritiken-vi-behover-nya-gruvor",
+      "description": "FN kritiserar Sverige återkommande för att svensk lag inte uppfyller deklarationen om urfolksrättigheter för samerna, bland annat för bristande hänsyn till rennäringen vid gruvprojekt i norra Sverige. Men Socialdemokraterna har inga planer på att skärpa lagen som FN begärt, enligt Magdalena Andersson (S).",
+      "pubDate": "2026-09-04T07:49:50Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "S kallar Kristersson till utskott efter avslöjande om SD-tjänsteman",
+      "link": "https://www.expressen.se/nyheter/politik/s-kallar-kristersson-till-utskott-efter-avslojande-om-sd-tjansteman/",
+      "description": "Socialdemokraterna vill se Ulf Kristersson i försvarsutskottet efter avslöjandet om en SD-tjänsteman med kopplingar till Ryssland. – Det handlar om en säkerhetskris, säger Peter Hultqvist.",
+      "pubDate": "2026-09-04T07:29:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
       ]
     }
   ],
   "blogs": [
+    {
+      "title": "LO: ”Ingen höjd pension om Ulf Kristersson får fortsätta att vara statsminister”",
+      "link": "https://www.dagensarena.se/innehall/lo-ingen-hojd-pension-om-ulf-kristersson-far-fortsatta-att-vara-statsminister/",
+      "description": "LO drar igång kampanj för att få pensionsfrågan högre upp på dagordningen. Inlägget LO: ”Ingen höjd pension om Ulf Kristersson får fortsätta att vara statsminister” dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-04T06:42:46Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Vänsterpartiets ungdomspaket",
       "link": "https://blog.zaramis.se/2026/09/04/vansterpartiets-ungdomspaket/",
@@ -309,18 +324,6 @@
       "sourceType": "blog",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Från medieaktivist till kulturkrigssymbol",
-      "link": "https://www.dagensarena.se/innehall/fran-medieaktivist-till-kulturkrigssymbol/",
-      "description": "Hur ser kopplingen ut mellan Jonatan Alfvén och Sverigedemokraterna? Inlägget Från medieaktivist till kulturkrigssymbol dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-01T20:13:40Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
       ]
     },
     {
@@ -398,6 +401,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Partiet och sakfrågan: Sd och rättspolitiken",
+      "link": "https://pod.space/kvartal/partiet-och-sakfragan-sd-och-rattspolitiken",
+      "description": "De största straffskärpningarna på 400 år är på väg att rullas ut i den svenska rättspolitiken, något som i stora delar drivits på av Henrik Vinge och Sverigedemokraterna. Hur kommer det att påverka kriminaliteten framåt? Ser han en risk att vägen tillbaka till samhället för en del dömda som vill leva hederligt blir för svår om repressionen går för långt? Och var går gränsen för vilka sexualbrottslingar och dömda pedofiler som ska kunna hängas ut?",
+      "pubDate": "2026-09-04T10:50:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Är det här Magdalena Anderssons mardröm?",
       "link": "https://pod.space/alskadepolitik/ar-det-har-magdalena-anderssons-mardrom",
@@ -565,19 +580,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "podcast",
       "topics": []
-    },
-    {
-      "title": "Kvartal Idag: Jomshof: En svensk statsminister kan inte vara muslim",
-      "link": "https://pod.space/kvartal/kvartal-idag-jomshof-en-statsminister-kan-inte-vara-muslim",
-      "description": "Går emot Jimmie Åkesson om islam. Försvarsmakten larmar om ryss på Muskö. Europadomstolen kräver att aktivist friges. Och kinesisk robot snabbare än Usain Bolt. Programledare: Staffan Dopping.",
-      "pubDate": "2026-08-25T13:46:51Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "Regeringsbildning"
-      ]
     }
   ]
 }
