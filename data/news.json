@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T23:06:44.562306Z",
+  "updated_at": "2026-09-05T01:08:38.990009Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,16 @@
     }
   ],
   "news": [
+    {
+      "title": "Rekord för skolvalet: ”Bra att veta vad man står för”",
+      "link": "https://www.sverigesradio.se/artikel/9292488",
+      "description": "Rekordmånga elever deltar i årets skolval efter en särskild satsning i socioekonomiskt utsatta områden. Förhoppningen är att det ska leda till att fler unga med utländsk bakgrund röstar i riksdagsvalet, efter att valdeltagandet rasade 2022. ”Man vet inte vilket parti man ska rösta på eftersom man inte är så insatt i politik”, säger 17-åriga Emily Hanna på Täljegymnasiet i Södertälje.",
+      "pubDate": "2026-09-05T01:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "4 september: Missa inte dagens nyheter",
       "link": "https://www.dn.se/varlden/4-september-missa-inte-dagens-nyheter/",
@@ -261,24 +271,21 @@
         "L",
         "MP"
       ]
-    },
-    {
-      "title": "Fortsätter flörta med  C – nobbas igen",
-      "link": "https://www.expressen.se/nyheter/sverige/fortsatter-florta-med--c-nobbas-igen/",
-      "description": "Tidöpartierna fortsätter flörta med Centerpartiet. I Ekots partiledardebatt säger Simona Mohamsson (L) till MP:s språkrör att han borde ”lyssna på Elisabeth Thand Ringqvist”. Och Ebba Busch (KD) räcker ut handen: – Tänk vad vi skulle kunna göra tillsammans.",
-      "pubDate": "2026-09-04T15:04:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD",
-        "L",
-        "Debatt"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Slående tysk parallell till Sverigedemokraterna",
+      "link": "https://www.dagensarena.se/opinion/slaende-tysk-parallell-till-sverigedemokraterna/",
+      "description": "Skillnaden mellan SD och tyska AfD är en grad- snarare än artskillnad. Inlägget Slående tysk parallell till Sverigedemokraterna dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-04T23:58:19Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "LO: ”Ingen höjd pension om Ulf Kristersson får fortsätta att vara statsminister”",
       "link": "https://www.dagensarena.se/innehall/lo-ingen-hojd-pension-om-ulf-kristersson-far-fortsatta-att-vara-statsminister/",
