@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T20:32:10.336969Z",
+  "updated_at": "2026-09-05T22:25:06.922217Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,16 @@
     }
   ],
   "news": [
+    {
+      "title": "Partierna kallas till möte efter röstningskaoset: ”Allvarligt”",
+      "link": "https://www.expressen.se/nyheter/politik/partierna-kallas-till-mote-efter-rostningskaoset-allvarligt/",
+      "description": "Valmyndigheten har kallat partisekreterarna till ett informationsmöte om de cirka 4 000 felaktiga förtidsrösterna. Mattias Bäckström Johansson (SD) kräver att myndigheten rätar ut alla frågetecken. – Vi förväntar oss en fullständig transparens, säger han till Expressen.",
+      "pubDate": "2026-09-05T20:47:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "Partierna kallas till möte efter tekniskt fel med förtidsröster",
       "link": "https://www.dn.se/sverige/partierna-kallas-till-mote-efter-tekniskt-fel-med-fortidsroster/",
@@ -201,18 +211,6 @@
       "pubDate": "2026-09-05T14:55:21Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson  avfärdar S-kraven",
-      "link": "https://www.expressen.se/nyheter/sverige/jimmie-akesson--avfardar-s-kraven/",
-      "description": "Peter Hultqvist (S) kräver att SD-tjänstemannen som rapporteras ha spridit prorysk propaganda och hennes sambo, SD-toppen Gustav Gellerbrant, omedelbart stängs av från sina tjänster.&nbsp; Ett krav som avfärdas av Jimmie Åkesson.&nbsp; – Det är ju bara ett politiskt spel, säger han till Expressen.&nbsp;",
-      "pubDate": "2026-09-05T13:53:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD"
