@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T18:26:58.308160Z",
+  "updated_at": "2026-09-05T20:32:10.336969Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,7 +79,77 @@
   ],
   "news": [
     {
-      "title": "Dadgostar vallöfte: ”Kvinnors löner ska upp”",
+      "title": "Partierna kallas till möte efter tekniskt fel med förtidsröster",
+      "link": "https://www.dn.se/sverige/partierna-kallas-till-mote-efter-tekniskt-fel-med-fortidsroster/",
+      "description": "Valmyndigheten kallar till möte med riksdagspartiernas partisekreterare efter det tekniska fel som påverkat tusentals förtidsröster och där vissa kan underkännas, rapporterar Sveriges Radio Ekot. – Det handlar om trovärdigheten för vårt valsystem, säger Mattias Bäckström Johansson, Sverigedemokraternas partisekreterare, till kanalen.",
+      "pubDate": "2026-09-05T20:04:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Partierna kallas till möte efter felaktiga förtidsröster",
+      "link": "https://www.svt.se/nyheter/inrikes/partierna-kallas-till-mote-efter-felaktiga-fortidsrosterna",
+      "description": "Valmyndigheten har kallat riksdagspartiernas partisekreterare till möte på måndag, för att informera om situationen kring uppemot 4 000 felaktiga förtidsröster, rapporterar Ekot. – Det pågår ett intensivt arbete med att kartlägga vilka som har drabbats, säger myndighetens pressekreterare Jany Plevnik till SVT.",
+      "pubDate": "2026-09-05T19:42:43Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Efter kaoset: Valmyndigheten kallar partierna",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0532aff4-ee66-437a-80e4-041d208e5f47",
+      "description": "Beskedet efter strulet med förtidsröster",
+      "pubDate": "2026-09-05T19:16:53Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "5 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/5-september-missa-inte-dagens-nyheter/",
+      "description": "Jimmie Åkesson har siktet inställt på tunga ministerposter, barn fick livshotande blödningar efter operationer på privata kliniker och 590 miljarder behövs för att fixa vattenbristen – här är dagens nyheter.",
+      "pubDate": "2026-09-05T19:07:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Partierna kallas till möte efter tusentals felaktiga förtidsröster",
+      "link": "https://www.sverigesradio.se/artikel/9293211",
+      "description": "Valmyndigheten har kallat riksdagspartiernas partisekreterare till möte på måndag, för att ge information kring de uppemot fyratusen felaktiga förtidsrösterna. En av de kallade är Sverigedemokraternas Mattias Bäckström Johansson, som säger att situationen är oroande. ”Det handlar ju om trovärdigheten för vårt valsystem”, säger han.",
+      "pubDate": "2026-09-05T19:07:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Förslaget: Betald ledighet när  man lämnar våldsam relation",
+      "link": "https://www.expressen.se/nyheter/politik/forslaget-betald-ledighet-nar--man-lamnar-valdsam-relation/",
+      "description": "Upp till tio extra lediga betalda dagar till den som vill lämna en våldsam relation. Det föreslår Vänsterpartiet i Stockholm, skriver Arbetet . Förslaget får stöd av både Moderaterna och Socialdemokraterna.",
+      "pubDate": "2026-09-05T18:37:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Dadgostars vallöfte: ”Kvinnors löner ska upp”",
       "link": "https://www.sverigesradio.se/artikel/9293195",
       "description": "Vänsterpartiets ledare Nooshi Dadgostar lovade i sitt sommartal miljardärsskatt, avgiftsfri tandvård och billigare kollektivtrafik. På Södermalm i Stockholm riktade hon också kritik mot Attendo och Moderatledaren Ulf Kristersson, samtidigt som partiet lyfte kortare arbetsvecka, rätt till heltid och höjda kvinnolöner. I talet återkom Dadgostar till lönegapet mellan kvinnor och män – och ett av utspelen stack ut särskilt.",
       "pubDate": "2026-09-05T18:23:00Z",
@@ -183,75 +253,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "Valmyndighetens uppmaning: Förtidsrösta inte igen",
-      "link": "https://www.sverigesradio.se/artikel/9293047",
-      "description": "På torsdagen uppdagades ett tekniskt fel som gjort att uppemot 4 000 förtidsröster registrerats på fel sätt, enligt Valmyndigheten. Felet som upptäcktes i Nynäshamns kommun finns i kommuner i hela landet och kan leda till att rösterna ogiltigförklaras. Nu uppmanar Valmyndigheten alla som förtidsröstat att inte förtidsrösta igen: ”Då gör man sin röst ogiltig”, säger Anna Nyqvist, Valmyndighetens kanslichef, i P1 Morgon. Hör hela intervjun här .",
-      "pubDate": "2026-09-05T07:44:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Så förtidsröstar stockholmarna: ”Hade svårt att välja”",
-      "link": "https://www.dn.se/sverige/sa-fortidsrostar-stockholmarna-hade-svart-att-valja/",
-      "description": "Rekordmånga förtidsröstade i Sverige första dagen. DN har frågat personer vid en vallokal i centrala Stockholm hur de resonerade inför årets val – och vad som fick dem att rösta i förtid. – Jag orkar helt enkelt inte stå sista dagen, säger Marcus Jörgensen, 40.",
-      "pubDate": "2026-09-05T07:33:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Jimmie Åkesson: Då är jag nästa statsminister",
-      "link": "https://www.dn.se/sverige/jimmie-akesson-da-ar-jag-nasta-statsminister/",
-      "description": "Jimmie Åkesson har siktet inställt på tunga ministerposter i nästa regering. Runtom i landet blir han ivrigt påhejad – men kommer han att nå målet? De sista dagarna inför valet avgör hans framtid. – Jag är fortfarande hoppfull. Trenden är positiv för oss, säger SD-ledaren.",
-      "pubDate": "2026-09-05T04:09:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "4 september: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/4-september-missa-inte-dagens-nyheter/",
-      "description": "Tidigare SD-ledamot smygfotade kvinnor, adelsfamiljerna i bitter strid och Åkesson byter fot – här är dagens nyheter.",
-      "pubDate": "2026-09-04T19:11:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Åkesson om SD-toppens relation till rysskopplade tjänstemannen: Genomgått ny säkerhetsprövning",
-      "link": "https://www.svt.se/nyheter/inrikes/akesson-om-sd-toppens-relation-till-rysskopplade-tjanstemannen-genomgatt-ny-sakerhetsprovning",
-      "description": "Gustav Gellerbrant är chef för SD:s samordningskansli i Regeringskansliet. Han är också sambo med den SD-tjänsteman som enligt Expo kan kopplas till ryska statsaktörer. Enligt partiet ska Gellerbrant ha genomgått en ny säkerhetsprövning. – Inga myndigheter har kontaktat oss för att vidta några åtgärder, säger Jimmie Åkesson (SD).",
-      "pubDate": "2026-09-04T18:04:30Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Statsvetare: ”Partierna är oerhört oense om verklighetsbilden”",
-      "link": "https://www.dn.se/sverige/statsvetare-partierna-ar-oerhort-oense-om-verklighetsbilden/",
-      "description": "Utöver mål och medel är partierna ”oerhört oense” om verklighetsbilden, konstaterar statsvetaren Marie Demker efter fredagens partiledardebatt i Ekot. – Det togs till nya höjder, säger hon.",
-      "pubDate": "2026-09-04T17:19:18Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Debatt"
       ]
     }
   ],
