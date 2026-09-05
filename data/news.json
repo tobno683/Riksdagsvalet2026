@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T05:54:59.314153Z",
+  "updated_at": "2026-09-05T09:32:33.431799Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,61 @@
     }
   ],
   "news": [
+    {
+      "title": "Dadgostar avfärdar S-kritiken: Har kontakt med Andersson hela tiden",
+      "link": "https://www.svt.se/nyheter/inrikes/dadgostar-avfardar-s-kritiken-har-kontakt-med-andersson-hela-tiden",
+      "description": "Vänsterpartiet har en ”lång resa” att göra innan de kan sitta i regering, säger Magdalena Andersson. Men Nooshi Dadgostar avfärdar kritiken – så har Socialdemokraterna alltid låtit, menar hon. – Vi har kontakt med varandra hela tiden, säger Dadgostar.",
+      "pubDate": "2026-09-05T09:05:39Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "30 barn opererades privat – fick allvarliga blödningar",
+      "link": "https://www.dn.se/sverige/30-barn-opererades-privat-fick-allvarliga-blodningar/",
+      "description": "32 barn har kommit in till akuten på Karolinska med allvarliga och livshotande blödningar efter operationer i halsen. Sakkunniga vill flytta vissa ingrepp från privata kliniker till sjukhus. Men frågan bromsas av Centerpartiet.",
+      "pubDate": "2026-09-05T08:58:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Bor i Pattaya – röstar för färre invandrare i Sverige",
+      "link": "https://www.expressen.se/nyheter/varlden/bor-i-pattaya-rostar-for-farre-invandrare-i-sverige/",
+      "description": "De kom i Sverige-tröjor och SD-keps.&nbsp; Nu har svenskarna i Pattaya lagt sin röst i valet.&nbsp; Viktigaste frågan för flera. – Det är alla flyktingar och skit. Det är för många. Vi har inte råd, säger Christer, 64.",
+      "pubDate": "2026-09-05T08:43:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Valmyndighetens uppmaning: Förtidsrösta inte igen",
+      "link": "https://www.sverigesradio.se/artikel/9293047",
+      "description": "På torsdagen uppdagades ett tekniskt fel som gjort att uppemot 4 000 förtidsröster registrerats på fel sätt, enligt Valmyndigheten. Felet som upptäcktes i Nynäshamns kommun finns i kommuner i hela landet och kan leda till att rösterna ogiltigförklaras. Nu uppmanar Valmyndigheten alla som förtidsröstat att inte förtidsrösta igen: ”Då gör man sin röst ogiltig”, säger Anna Nyqvist, Valmyndighetens kanslichef, i P1 Morgon. Hör hela intervjun här .",
+      "pubDate": "2026-09-05T07:44:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Så förtidsröstar stockholmarna: ”Hade svårt att välja”",
+      "link": "https://www.dn.se/sverige/sa-fortidsrostar-stockholmarna-hade-svart-att-valja/",
+      "description": "Rekordmånga förtidsröstade i Sverige första dagen. DN har frågat personer vid en vallokal i centrala Stockholm hur de resonerade inför årets val – och vad som fick dem att rösta i förtid. – Jag orkar helt enkelt inte stå sista dagen, säger Marcus Jörgensen, 40.",
+      "pubDate": "2026-09-05T07:33:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "”Då är jag nästa”",
       "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=9ffb615b-bcd0-4781-8d3b-0946573bf4e2",
@@ -198,76 +253,6 @@
       "sourceType": "news",
       "topics": [
         "S",
-        "MP"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Två försvagade ledare vacklar i mål",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-tva-forsvagade-ledare-vacklar-i-mal/",
-      "description": "Det är två partiledare med vacklande stöd som kämpar om statsministerposten sista veckan före valet. Ekots partiledardebatt påminde om att det blir hårda politiska förhandlingar efter valet oavsett vem som vinner. Varken Ulf Kristersson eller Magdalena Andersson kan lova något säkert om politiken efter valet.",
-      "pubDate": "2026-09-04T16:48:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Åkesson till klimatintresserade väljare: Rösta på Mohamsson",
-      "link": "https://www.dn.se/sverige/akesson-till-klimatintresserade-valjare-rosta-pa-mohamsson/",
-      "description": "Jimmie Åkesson (SD) byter fot. I SR Ekots partiledardebatt uppmanade han klimatintresserade högerväljare att rösta på Liberalerna. – Om du inte vill ha Nooshi Dadgostar som finansminister eller Daniel Helldén som energiminister så ska du rösta på Simona Mohamsson, sade Åkesson.",
-      "pubDate": "2026-09-04T16:30:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V",
-        "L",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Analys: ”Tidöpartierna gör sitt bästa för att framstå som ett enat lag”",
-      "link": "https://www.sverigesradio.se/artikel/9292922",
-      "description": "Det hettade till mellan partiledarna i flera frågor under Ekots slutdebatt . Särskilt mellan Kristdemokraternas partiledare Ebba Busch och Vänsterpartiets partiledare Nooshi Dadgostar mot slutet av debatten. Det säger Ekots poltikreporter Ekot Pontus Matsson, som också konstaterar att det märks i debatten att det är en dryg vecka kvar till valet. ”Det märks att det är mycket som står på spel. I de senaste opinionsmätningarna har Tidöpartierna fått lite häng på oppositionspartierna. Gapet har minskat i många och det känns som att de försöker ta det här tillfället i akt nu att framstå som ett samlat lag.”",
-      "pubDate": "2026-09-04T16:17:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist och Åkesson i debatt om migration och integration",
-      "link": "https://www.sverigesradio.se/artikel/9291006",
-      "description": "På fredagen möts partiledarna i Ekots slutdebatt inför valet 2026. Centerpartiets Elisabeth Thand Ringqvist och Sverigedemokraternas Jimmie Åkesson möts i en debatt om migration och integration. Thand Ringqvist säger att Sverige både behöver de som klarar gränserna för lönegolvet, på 34 400 kronor, och de klarar inte de lönegränserna. Och menar att utvisningar skapar färre jobb. Åkesson anklagar hennes syn på arbetskraftsinvandring för att vara ren lönedumpningspolitik och att lösningen inte är att fylla på med låglönearbetskraft från andra delar av världen.",
-      "pubDate": "2026-09-04T15:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Helldén och Mohamsson i debatt om klimatet",
-      "link": "https://www.sverigesradio.se/artikel/9291024",
-      "description": "På fredagen möts partiledarna i Ekots slutdebatt inför valet 2026. Miljöpartiets språkrör Daniel Helldén och Liberalernas partiledare Simona Mohamsson möts i en debatt om klimatet. Mohamsson menar att den bästa klimatpolitiken bygger på att elektrifiera samhället samt att utbyggnaden av kärnkraft är avgörande i den omställningen. Helldén å sin sida säger att den bästa klimatpolitiken är att se till så att Tidöpartierna inte sitter kvar vid makten, då han menar att de fördjupat svenskarnas fossilberoende.",
-      "pubDate": "2026-09-04T15:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
         "MP"
       ]
     }
