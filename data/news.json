@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T09:32:33.431799Z",
+  "updated_at": "2026-09-05T13:05:29.222243Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,31 @@
   ],
   "news": [
     {
+      "title": "V: Noll vinster i Stockholms välfärd 2034",
+      "link": "https://www.dn.se/sverige/v-noll-vinster-i-stockholms-valfard-2034/",
+      "description": "Vänsterpartiet i Stockholm går till val på en plan som ska eliminera vinstdrivande aktörer inom välfärden. Den exakta kostnaden för staden är oklar, men beräknas enligt V vara låg. – Det är ett sjukt system att jag som kommunpolitiker och högst ansvarig för förskoleverksamheten inte kan bestämma vilka aktörer vi vill ha som driver förskolor i Stockholm i dag, säger Alexandra Mattsson, gruppledare för Vänsterpartiet i Stockholm.",
+      "pubDate": "2026-09-05T10:10:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kristersson: C-väljare rösta L",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a97d40a9-e875-4c75-901f-b789c39d10ba",
+      "description": "Uppmaningen till centerpartister",
+      "pubDate": "2026-09-05T10:00:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
       "title": "Dadgostar avfärdar S-kritiken: Har kontakt med Andersson hela tiden",
       "link": "https://www.svt.se/nyheter/inrikes/dadgostar-avfardar-s-kritiken-har-kontakt-med-andersson-hela-tiden",
       "description": "Vänsterpartiet har en ”lång resa” att göra innan de kan sitta i regering, säger Magdalena Andersson. Men Nooshi Dadgostar avfärdar kritiken – så har Socialdemokraterna alltid låtit, menar hon. – Vi har kontakt med varandra hela tiden, säger Dadgostar.",
@@ -94,7 +119,7 @@
     {
       "title": "30 barn opererades privat – fick allvarliga blödningar",
       "link": "https://www.dn.se/sverige/30-barn-opererades-privat-fick-allvarliga-blodningar/",
-      "description": "32 barn har kommit in till akuten på Karolinska med allvarliga och livshotande blödningar efter operationer i halsen. Sakkunniga vill flytta vissa ingrepp från privata kliniker till sjukhus. Men frågan bromsas av Centerpartiet.",
+      "description": "32 barn har kommit in till akuten på Karolinska med allvarliga och livshotande blödningar efter halsoperationer på privata kliniker. Nu vill sakkunniga att vissa ingrepp flyttas så att de i stället utförs på sjukhus. Men frågan bromsas av Centerpartiet.",
       "pubDate": "2026-09-05T08:58:25Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -106,7 +131,7 @@
     {
       "title": "Bor i Pattaya – röstar för färre invandrare i Sverige",
       "link": "https://www.expressen.se/nyheter/varlden/bor-i-pattaya-rostar-for-farre-invandrare-i-sverige/",
-      "description": "De kom i Sverige-tröjor och SD-keps.&nbsp; Nu har svenskarna i Pattaya lagt sin röst i valet.&nbsp; Viktigaste frågan för flera. – Det är alla flyktingar och skit. Det är för många. Vi har inte råd, säger Christer, 64.",
+      "description": "De kom i Sverige-tröjor och SD-keps.&nbsp; Nu har svenskarna i Pattaya lagt sin röst i valet.&nbsp; För flera av dem är en och samma fråga den viktigaste: – Det är alla flyktingar och skit. Det är för många. Vi har inte råd, säger Christer, 64.",
       "pubDate": "2026-09-05T08:43:43Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -132,19 +157,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "”Då är jag nästa”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=9ffb615b-bcd0-4781-8d3b-0946573bf4e2",
-      "description": "Åkesson om att bli statsminister",
-      "pubDate": "2026-09-05T05:30:51Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "Regeringsbildning"
-      ]
     },
     {
       "title": "Debatt: L-politikern vill inte se AI i klassrummet",
@@ -195,31 +207,6 @@
       ]
     },
     {
-      "title": "Gellerbrants sambo kopplas till ryska statsaktörer",
-      "link": "https://www.sverigesradio.se/artikel/9292962",
-      "description": "SD-toppen Gustav Gellerbrant har säkerhetsprövats på nytt efter Expos uppgifter om att hans sambo kopplats till ryska statsaktörer. Gellerbrant har haft en central roll i SD och pekas ut som en av arkitekterna bakom Tidöavtalet. ”Inga myndigheter har kontaktat oss för att vidta några åtgärder”, säger Jimmie Åkesson till SVT . Ekot söker Gustav Gellerbrant.",
-      "pubDate": "2026-09-04T18:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Åkesson hyllar L:s klimatlinje – ber väljare rösta",
-      "link": "https://www.sverigesradio.se/artikel/9292958",
-      "description": "Jimmie Åkesson (SD) uppmanar nu klimatengagerade borgerliga väljare att rösta på Liberalerna och hyllar Simona Mohamsson i Ekots slutdebatt . Svängningen kommer efter att SD-ledaren i augusti avrått från en L-röst, samtidigt som partiet enligt Ekots mätning ligger kvar på 2,2 procent. Mohamsson välkomnar stödet och beskriver hur Åkesson samtidigt erkänner att Liberalerna drivit på regeringens klimatpolitik.",
-      "pubDate": "2026-09-04T18:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
       "title": "Åkesson om SD-toppens relation till rysskopplade tjänstemannen: Genomgått ny säkerhetsprövning",
       "link": "https://www.svt.se/nyheter/inrikes/akesson-om-sd-toppens-relation-till-rysskopplade-tjanstemannen-genomgatt-ny-sakerhetsprovning",
       "description": "Gustav Gellerbrant är chef för SD:s samordningskansli i Regeringskansliet. Han är också sambo med den SD-tjänsteman som enligt Expo kan kopplas till ryska statsaktörer. Enligt partiet ska Gellerbrant ha genomgått en ny säkerhetsprövning. – Inga myndigheter har kontaktat oss för att vidta några åtgärder, säger Jimmie Åkesson (SD).",
@@ -254,6 +241,21 @@
       "topics": [
         "S",
         "MP"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Två försvagade ledare vacklar i mål",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-tva-forsvagade-ledare-vacklar-i-mal/",
+      "description": "Det är två partiledare med vacklande stöd som kämpar om statsministerposten sista veckan före valet. Ekots partiledardebatt påminde om att det blir hårda politiska förhandlingar efter valet oavsett vem som vinner. Varken Ulf Kristersson eller Magdalena Andersson kan lova något säkert om politiken efter valet.",
+      "pubDate": "2026-09-04T16:48:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning",
+        "Debatt"
       ]
     }
   ],
