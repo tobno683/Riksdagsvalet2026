@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T01:08:38.990009Z",
+  "updated_at": "2026-09-05T05:54:59.314153Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,45 @@
   ],
   "news": [
     {
+      "title": "”Då är jag nästa”",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=9ffb615b-bcd0-4781-8d3b-0946573bf4e2",
+      "description": "Åkesson om att bli statsminister",
+      "pubDate": "2026-09-05T05:30:51Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Debatt: L-politikern vill inte se AI i klassrummet",
+      "link": "https://www.sverigesradio.se/artikel/9292963",
+      "description": "Nästa regering kommer behöva ta ställning till en rad frågor relaterade till artificiell intelligent, AI. Bland annat om och i så fall hur de ska användas i skolan. Liberalernas Johan Britz tycker inte att elever i de lägre årskurserna ska använda AI överhuvudtaget. Men Socialdemokraternas Ardalan Shekarabi håller inte med. ”Att ha som ambition att ha skärmfri skola under en period där vi har en AI-omställning som kommer att påverka både näringsliv och arbetsmarknad”, säger Ardalan Shekarabi i Ekots lördagsintervju valspecial om AI i skolan .",
+      "pubDate": "2026-09-05T04:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson: Då är jag nästa statsminister",
+      "link": "https://www.dn.se/sverige/jimmie-akesson-da-ar-jag-nasta-statsminister/",
+      "description": "Jimmie Åkesson har siktet inställt på tunga ministerposter i nästa regering. Runtom i landet blir han ivrigt påhejad – men kommer han att nå målet? De sista dagarna inför valet avgör hans framtid. – Jag är fortfarande hoppfull. Trenden är positiv för oss, säger SD-ledaren.",
+      "pubDate": "2026-09-05T04:09:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Rekord för skolvalet: ”Bra att veta vad man står för”",
       "link": "https://www.sverigesradio.se/artikel/9292488",
       "description": "Rekordmånga elever deltar i årets skolval efter en särskild satsning i socioekonomiskt utsatta områden. Förhoppningen är att det ska leda till att fler unga med utländsk bakgrund röstar i riksdagsvalet, efter att valdeltagandet rasade 2022. ”Man vet inte vilket parti man ska rösta på eftersom man inte är så insatt i politik”, säger 17-åriga Emily Hanna på Täljegymnasiet i Södertälje.",
@@ -123,32 +162,6 @@
       "topics": [
         "SD",
         "L"
-      ]
-    },
-    {
-      "title": "Mikael Odenberg: SD bör inte ingå i en regering",
-      "link": "https://www.expressen.se/nyheter/sverige/mikael-odenberg-sd-bor-inte-inga-i-en-regering/",
-      "description": "Sverigedemokraterna har förändrats – men ändå inte. Det menar den före detta försvarsministern Mikael Odenberg (M), som skriver på Facebook: ”I min värld är SD inte ett parti som bör ingå i Sveriges regering”.",
-      "pubDate": "2026-09-04T18:11:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Busch: ”Tycker synd om Andersson ibland”",
-      "link": "https://www.expressen.se/nyheter/politik/busch-tycker-synd-om-andersson-ibland/",
-      "description": "KD-ledaren Ebba Busch tycker synd om Magdalena Andersson.&nbsp; Det eftersom hon ”behöver ha hand om” Nooshi Dadgostars ”lögner”.&nbsp; – Hur ska hon få ihop det här? säger Busch efter SR:s slutdebatt.&nbsp;",
-      "pubDate": "2026-09-04T18:07:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "KD"
       ]
     },
     {
@@ -246,20 +259,6 @@
       ]
     },
     {
-      "title": "Åkessons uppmaning: Rösta på Simona Mohamsson",
-      "link": "https://www.expressen.se/nyheter/politik/akessons-uppmaning-rosta-pa-simona-mohamsson/",
-      "description": "Jimmie Åkesson hyllar Simona Mohamsson – och uppmanar borgerliga väljare att rösta på Liberalerna. I alla fall om de brinner för klimatet. – Hon har slagits och kämpat, säger SD-ledaren i Ekots partiledardebatt. &nbsp;",
-      "pubDate": "2026-09-04T15:25:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L",
-        "Debatt"
-      ]
-    },
-    {
       "title": "Helldén och Mohamsson i debatt om klimatet",
       "link": "https://www.sverigesradio.se/artikel/9291024",
       "description": "På fredagen möts partiledarna i Ekots slutdebatt inför valet 2026. Miljöpartiets språkrör Daniel Helldén och Liberalernas partiledare Simona Mohamsson möts i en debatt om klimatet. Mohamsson menar att den bästa klimatpolitiken bygger på att elektrifiera samhället samt att utbyggnaden av kärnkraft är avgörande i den omställningen. Helldén å sin sida säger att den bästa klimatpolitiken är att se till så att Tidöpartierna inte sitter kvar vid makten, då han menar att de fördjupat svenskarnas fossilberoende.",
@@ -274,6 +273,31 @@
     }
   ],
   "blogs": [
+    {
+      "title": "Partiet som satsar på folket i förorterna",
+      "link": "https://blog.zaramis.se/2026/09/05/partiet-som-satsar-pa-folket-i-fororterna/",
+      "description": "När andra partier pratar om förorten som ett problem, ser Vänsterpartiet människorna som bor där. Människor som går till jobbet, tar hand om våra äldre, arbetar i vården, kollektivtrafiken och skolan. Men samtidigt ser vi hur växande klyftor, bostadsbrist och arbetslöshet slår hårt mot många av Sveriges förorter. Läs mer … Inlägget Partiet som satsar på folket i förorterna dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-05T05:51:27Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Vad ville Centern ha ut av muslimerna?",
+      "link": "https://ledarsidorna.se/vad-ville-centern-ha-ut-av-muslimerna/",
+      "description": "Fem år innan Socialdemokraternas sidoorganisation Broderskapsrörelsen började diskutera hur många muslimer som borde finnas på socialdemokratiska listor hade ett annat riksdagsparti redan genomfört ett omfattande samarbetsprojekt med muslimska organisationer. Centerpartiet. I en process där företrädare för samma muslimska kluster som Socialdemokraterna senare inledde dialog med. Allt finansierat med skattemedel. Mellan 1990 och 1994 drev Centern [&#8230;]",
+      "pubDate": "2026-09-05T03:33:38Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
     {
       "title": "Slående tysk parallell till Sverigedemokraterna",
       "link": "https://www.dagensarena.se/opinion/slaende-tysk-parallell-till-sverigedemokraterna/",
@@ -407,21 +431,24 @@
         "S",
         "V"
       ]
-    },
-    {
-      "title": "Systrarna: S relation till Fatah 1969-2026",
-      "link": "https://ledarsidorna.se/systrarna-s-relation-till-fatah-1969-2026/",
-      "description": "Historien om Sveriges relation till det maktbärande palestinska partiet Fatah går hand i hand med hur Socialdemokraternas relation utvecklats och underhållits. En relation som klarat sig opåverkad av intifador och palestinska terrordåd riktade mot civila. Trots biståndsmyndigheten Sidas explicita regelverk som förbjudit allt bistånd till krigförande parter. Ett förbud som partiets och ABF internationella verksamhet [&#8230;]",
-      "pubDate": "2026-08-26T02:36:17Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: Självklart är det här alldeles usla siffror",
+      "link": "https://pod.space/kvartal/veckopanelen-sjalvklart-ar-det-har-alldeles-usla-siffror",
+      "description": "Veckopanelen med Kajsa Dovstad, Håkan Juholt och Thomas Gür under ledning av Staffan Dopping. Serien med opinionsmätningar där Liberalerna går upp och Socialdemokraterna går ner höjer spänningen när valrörelsen går in på sista veckan. Tidöpartierna knappar in på de rödgröna och Magdalena Andersson varnar för ett Sverige där tolv SD-ministrar tar kontroll över regeringsmakten. Blev Aktuellt lurat av Mohamsson och Åkesson som kramades i tv på bästa sändningstid? Örebropartiets Markus Allard tror sig ha chans på riksdagsplats. Det ryska sabotageförsöket vid en flygplats i Tyskland diskuteras, liksom Sveriges köp av fyra franska fregatter. Vidare om jobbcoacher som hjälper långtidsarbetslösa att fuska och lura Arbetsförmedlingen.&nbsp;",
+      "pubDate": "2026-09-05T03:40:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "SD",
+        "L",
+        "Opinion"
+      ]
+    },
     {
       "title": "Partiet och sakfrågan: Sd och rättspolitiken",
       "link": "https://pod.space/kvartal/partiet-och-sakfragan-sd-och-rattspolitiken",
@@ -591,16 +618,6 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "L ökar i nya mätningen – trots ”piss in i tältet”",
-      "link": "https://pod.space/alskadepolitik/l-okar-i-nya-matningen-trots-piss-in-i-taltet",
-      "description": "Tidöpartierna knappar in enligt helt ny mätning – samtidigt har de börjat äta på varandra. Eller ”pissa in i tältet” som Romina Pourmokhtari kallar det. Och det surras om alla möjliga regeringsalternativ – vilka är ens möjliga?",
-      "pubDate": "2026-08-25T14:59:31Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
     }
   ]
 }
