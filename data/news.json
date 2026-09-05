@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T13:05:29.222243Z",
+  "updated_at": "2026-09-05T16:09:10.548232Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,53 @@
   ],
   "news": [
     {
+      "title": "Här synas partiernas vallöften – vad kostar de egentligen?",
+      "link": "https://www.dn.se/varlden/har-synas-partiernas-valloften-vad-kostar-de-egentligen/",
+      "description": "Svenska valet ser ut att bli ett plånboksval. Men vad kostar egentligen alla vallöften? I Nederländerna låter partierna oberoende experter räkna på prislappen för deras valfläsk. – Ni svenskar är välkomna att lära er av oss, säger Bert Smid på Centraal Planbureau.",
+      "pubDate": "2026-09-05T15:49:52Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Det räcker inte att skrämmas med SD",
+      "link": "https://www.dn.se/insandare/det-racker-inte-att-skrammas-med-sd/",
+      "description": "INSÄNDARE. Socialdemokraterna måste bli bättre på att kommunicera värdet av en progressiv mittenpolitik. Men nu är det som att se ett band ge konserter utan att spela sina största hits, skriver Mattias Lindström.",
+      "pubDate": "2026-09-05T15:06:49Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "Åkesson avfärdar S-krav: Ingen säkerhetskris",
+      "link": "https://www.dn.se/sverige/akesson-avfardar-s-krav-ingen-sakerhetskris/",
+      "description": "S kräver att den SD-tjänsteman, som kopplats till ryska nätverk, och hennes sambo stängs av från sina respektive tjänster. Kravet avfärdas av Jimmie Åkesson. – Det är ingen säkerhetskris, säger SD-ledaren till Expressen.",
+      "pubDate": "2026-09-05T14:55:21Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson  avfärdar S-kraven",
+      "link": "https://www.expressen.se/nyheter/sverige/jimmie-akesson--avfardar-s-kraven/",
+      "description": "Peter Hultqvist (S) kräver att SD-tjänstemannen som rapporteras ha spridit prorysk propaganda och hennes sambo, SD-toppen Gustav Gellerbrant, omedelbart stängs av från sina tjänster.&nbsp; Ett krav som avfärdas av Jimmie Åkesson.&nbsp; – Det är ju bara ett politiskt spel, säger han till Expressen.&nbsp;",
+      "pubDate": "2026-09-05T13:53:47Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "V: Noll vinster i Stockholms välfärd 2034",
       "link": "https://www.dn.se/sverige/v-noll-vinster-i-stockholms-valfard-2034/",
       "description": "Vänsterpartiet i Stockholm går till val på en plan som ska eliminera vinstdrivande aktörer inom välfärden. Den exakta kostnaden för staden är oklar, men beräknas enligt V vara låg. – Det är ett sjukt system att jag som kommunpolitiker och högst ansvarig för förskoleverksamheten inte kan bestämma vilka aktörer vi vill ha som driver förskolor i Stockholm i dag, säger Alexandra Mattsson, gruppledare för Vänsterpartiet i Stockholm.",
@@ -88,19 +135,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Kristersson: C-väljare rösta L",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a97d40a9-e875-4c75-901f-b789c39d10ba",
-      "description": "Uppmaningen till centerpartister",
-      "pubDate": "2026-09-05T10:00:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
       ]
     },
     {
@@ -127,16 +161,6 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "Bor i Pattaya – röstar för färre invandrare i Sverige",
-      "link": "https://www.expressen.se/nyheter/varlden/bor-i-pattaya-rostar-for-farre-invandrare-i-sverige/",
-      "description": "De kom i Sverige-tröjor och SD-keps.&nbsp; Nu har svenskarna i Pattaya lagt sin röst i valet.&nbsp; För flera av dem är en och samma fråga den viktigaste: – Det är alla flyktingar och skit. Det är för många. Vi har inte råd, säger Christer, 64.",
-      "pubDate": "2026-09-05T08:43:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Valmyndighetens uppmaning: Förtidsrösta inte igen",
@@ -185,16 +209,6 @@
       ]
     },
     {
-      "title": "Rekord för skolvalet: ”Bra att veta vad man står för”",
-      "link": "https://www.sverigesradio.se/artikel/9292488",
-      "description": "Rekordmånga elever deltar i årets skolval efter en särskild satsning i socioekonomiskt utsatta områden. Förhoppningen är att det ska leda till att fler unga med utländsk bakgrund röstar i riksdagsvalet, efter att valdeltagandet rasade 2022. ”Man vet inte vilket parti man ska rösta på eftersom man inte är så insatt i politik”, säger 17-åriga Emily Hanna på Täljegymnasiet i Södertälje.",
-      "pubDate": "2026-09-05T01:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "4 september: Missa inte dagens nyheter",
       "link": "https://www.dn.se/varlden/4-september-missa-inte-dagens-nyheter/",
       "description": "Tidigare SD-ledamot smygfotade kvinnor, adelsfamiljerna i bitter strid och Åkesson byter fot – här är dagens nyheter.",
@@ -241,21 +255,6 @@
       "topics": [
         "S",
         "MP"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Två försvagade ledare vacklar i mål",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-tva-forsvagade-ledare-vacklar-i-mal/",
-      "description": "Det är två partiledare med vacklande stöd som kämpar om statsministerposten sista veckan före valet. Ekots partiledardebatt påminde om att det blir hårda politiska förhandlingar efter valet oavsett vem som vinner. Varken Ulf Kristersson eller Magdalena Andersson kan lova något säkert om politiken efter valet.",
-      "pubDate": "2026-09-04T16:48:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning",
-        "Debatt"
       ]
     }
   ],
