@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:09:10.548232Z",
+  "updated_at": "2026-09-05T18:26:58.308160Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,29 @@
     }
   ],
   "news": [
+    {
+      "title": "Dadgostar vallöfte: ”Kvinnors löner ska upp”",
+      "link": "https://www.sverigesradio.se/artikel/9293195",
+      "description": "Vänsterpartiets ledare Nooshi Dadgostar lovade i sitt sommartal miljardärsskatt, avgiftsfri tandvård och billigare kollektivtrafik. På Södermalm i Stockholm riktade hon också kritik mot Attendo och Moderatledaren Ulf Kristersson, samtidigt som partiet lyfte kortare arbetsvecka, rätt till heltid och höjda kvinnolöner. I talet återkom Dadgostar till lönegapet mellan kvinnor och män – och ett av utspelen stack ut särskilt.",
+      "pubDate": "2026-09-05T18:23:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Fouad Youcefi: Tre valdistrikt kan bli avgörande i valet",
+      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-tre-valdistrikt-kan-bli-avgorande-i-valet",
+      "description": "Här är de tre valdistrikt som kan spela störst roll för valresultatet i Sverige. Fouad Youcefi förklarar varför de sticker ut.",
+      "pubDate": "2026-09-05T17:50:27Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "Här synas partiernas vallöften – vad kostar de egentligen?",
       "link": "https://www.dn.se/varlden/har-synas-partiernas-valloften-vad-kostar-de-egentligen/",
@@ -183,19 +206,6 @@
       "topics": []
     },
     {
-      "title": "Debatt: L-politikern vill inte se AI i klassrummet",
-      "link": "https://www.sverigesradio.se/artikel/9292963",
-      "description": "Nästa regering kommer behöva ta ställning till en rad frågor relaterade till artificiell intelligent, AI. Bland annat om och i så fall hur de ska användas i skolan. Liberalernas Johan Britz tycker inte att elever i de lägre årskurserna ska använda AI överhuvudtaget. Men Socialdemokraternas Ardalan Shekarabi håller inte med. ”Att ha som ambition att ha skärmfri skola under en period där vi har en AI-omställning som kommer att påverka både näringsliv och arbetsmarknad”, säger Ardalan Shekarabi i Ekots lördagsintervju valspecial om AI i skolan .",
-      "pubDate": "2026-09-05T04:10:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
       "title": "Jimmie Åkesson: Då är jag nästa statsminister",
       "link": "https://www.dn.se/sverige/jimmie-akesson-da-ar-jag-nasta-statsminister/",
       "description": "Jimmie Åkesson har siktet inställt på tunga ministerposter i nästa regering. Runtom i landet blir han ivrigt påhejad – men kommer han att nå målet? De sista dagarna inför valet avgör hans framtid. – Jag är fortfarande hoppfull. Trenden är positiv för oss, säger SD-ledaren.",
@@ -242,19 +252,6 @@
       "sourceType": "news",
       "topics": [
         "Debatt"
-      ]
-    },
-    {
-      "title": "Svaret till Andersson om skatten: ”Absolut inte”",
-      "link": "https://www.svt.se/nyheter/inrikes/svaret-till-andersson-om-skatten-absolut-inte",
-      "description": "Miljöpartiet ser ut att kunna nå sitt bästa valresultat någonsin – medan Socialdemokraterna tappar i mätningarna. Kan ett starkare MP bädda för högre skatter än vad Magdalena Andersson har lovat väljarna? – Det är klart att storleken på partierna spelar roll, säger språkröret Amanda Lind.",
-      "pubDate": "2026-09-04T17:05:42Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "MP"
       ]
     }
   ],
