@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T19:40:46.187245Z",
+  "updated_at": "2026-09-06T21:48:03.202732Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,62 @@
   ],
   "news": [
     {
+      "title": "Wallenberg varnar för vänsterseger: ”Djupt oroad”",
+      "link": "https://www.dn.se/ekonomi/wallenberg-varnar-for-vansterseger-djupt-oroad/",
+      "description": "Svenskt Näringslivs ordförande Jacob Wallenberg varnar för att det svenska företagandet kan skadas om vänsteroppositionen vinner valet. – Jag är djupt oroad, säger han till Financial Times.",
+      "pubDate": "2026-09-06T21:41:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Hettade till i debatten om försörjningskravet: ”Omänskligt”",
+      "link": "https://www.sverigesradio.se/artikel/9293412",
+      "description": "Det hettade till i SVT:s Agenda på söndagskvällen, när riksdagspartierna debatterad det höjda försörjningskravet för familjeåtervandring. Invandrare som vill ta partner och två barn till Sverige måste från nästa år ha en månadslön före skatt på drygt 52 000 kronor för hushållet. Det är en klar höjning från tidigare regler. Miljöpartiet kallar reglerna ”fullständigt omänskligt”. Regeringen anser det rimligt att invandrare måste kunna försörja sin familj.",
+      "pubDate": "2026-09-06T21:13:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Expert: Finns risk för stor  konflikt i en Tidöregering",
+      "link": "https://www.expressen.se/nyheter/politik/expert-finns-risk-for-stor--konflikt-i-en-tidoregering/",
+      "description": "Om Tidöpartierna vinner valet kan det bli en intern konflikt om de permanenta uppehållstillstånden. Det menar SVT:s Mats Knutson. – Det är en fråga som inte har diskuteras särskilt mycket i valrörelsen, säger han i Agenda. &nbsp;",
+      "pubDate": "2026-09-06T20:55:53Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Strömmers strul i SVT –  glasögonen immade igen",
+      "link": "https://www.expressen.se/nyheter/politik/strommers-strul-i-svt-glasogonen-immade-igen/",
+      "description": "Mitt under brinnande migrationsdebatt gick det hett till. Så hett att ministerns glasögon immade igen. – När jag kom ut från studion visade en pressekreterare mig en bild där jag såg ut som Karl-Bertil Jonsson när han luktat på glöggen, säger Gunnar Strömmer (M).",
+      "pubDate": "2026-09-06T20:40:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Strömmers glasögon har immat igen",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=05c75c46-21ac-4edd-a803-8f5c4693ba5c",
+      "description": "Hettar till så att glasögonen immar igen",
+      "pubDate": "2026-09-06T20:03:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "”Lind försöker tona ner betydelsen av skattehöjningarna”",
       "link": "https://www.svt.se/nyheter/inrikes/lind-forsoker-tona-ner-betydelsen-av-skattehojningarna",
       "description": "Miljöpartiets språkrör Amanda Lind försöker tona ner betydelsen av Miljöpartiets skattehöjningar. Men hon verkar fast besluten att driva igenom en så kallad miljardärsskatt trots att S-ledaren Magdalena Andersson avfärdat den som ”fantasisummor” och industrimannen Jacob Wallenberg varnat för konsekvenserna för det svenska näringslivet.",
@@ -104,7 +160,7 @@
     {
       "title": "Beskedet från Amanda Lind (MP): Bensinen höjs med sex kronor",
       "link": "https://www.svt.se/nyheter/inrikes/beskedet-fran-amanda-lind-mp-bensinen-hojs-med-sex-kronor",
-      "description": "Sex kronor litern. Så mycket dyrare beräknar Miljöpartiet att bensinpriserna kommer att bli om deras politik går igenom. Det uppger språkröret Amanda Lind (M) i SVT:s Utfrågning.",
+      "description": "Sex kronor litern. Så mycket dyrare beräknar Miljöpartiet att bensinpriserna kommer att bli. Förutom att subventionerna för fossilbränsle kommer att försvinna vill MP höja priserna ytterligare. – Det här är något som alla partier duckar för i dag, säger språkröret Amanda Lind (M) i SVT:s Utfrågning .",
       "pubDate": "2026-09-06T19:04:06Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
@@ -165,7 +221,7 @@
     {
       "title": "Högernationalistiska ADF nära egen majoritet i tyska delstatsvalet",
       "link": "https://www.sverigesradio.se/artikel/9293373",
-      "description": "Idag är det val i den tyska delstaten Sachsen-Anhalt. I vallokalsundersökningen får det högernationalistiska partiet AFD oväntat många röster, 44 procent, vilket är ett mandat ifrån egen majoritet. Samtidigt som både det liberala FDP och BSW ser ut att hamna utanför parlamentet. De gröna ser däremot ut att klara spärren, säger Sveriges Radios Tysklandskorrespondent Katarina von Arndt på plats i Magdeburg.",
+      "description": "Idag är det val i den tyska delstaten Sachsen-Anhalt. Det högernationalistiska partiet Alternativ för Tyskland, AFD, går enligt vallokalundersökningar mot en storseger. ”Om de blir så, är det historiskt. Det är första gången AFD får regera i en tysk delstat”, säger Sveriges Radios Tysklandskorrespondent Katarina von Arndt på plats i Magdeburg.",
       "pubDate": "2026-09-06T16:19:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -196,66 +252,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "De ska få upp valdeltagandet i sitt område: ”Plikt att rösta”",
-      "link": "https://www.dn.se/sverige/de-ska-fa-upp-valdeltagandet-i-sitt-omrade-plikt-att-rosta/",
-      "description": "Bara 55 procent av invånarna i Sveriges särskilt utsatta områden röstade i förra valet. Det visar DN:s sammanställning av valdeltagandet. Nu försöker en grupp mammor i Hammarkullen i Göteborg göra skillnad i sin stadsdel. – Även utsatta områden är en del av Sverige. Och det är vi också, säger Saido Mohamed.",
-      "pubDate": "2026-09-06T15:18:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "C:s ilska efter Gunnar Strömmers utspel",
-      "link": "https://www.expressen.se/nyheter/cs-ilska-efter-gunnar-strommers-utspel/",
-      "description": "Justitieminister Gunnar Strömmer uppmanar Centerpartiets väljare att rösta på Moderaterna – om de vill ha C-politik i stället för V-politik.&nbsp; Utspelet får Niels Paarup-Petersen, migrationspolitisk talesperson för C, att se rött.&nbsp; – Han har röstat för att utvisa tonåringar och alla möjliga familjer som gjort rätt för sig, säger Paarup-Petersen.&nbsp;",
-      "pubDate": "2026-09-06T15:12:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "V-avhopparnas nya parti ska driva ännu skarpare vänsterpolitik",
-      "link": "https://www.sverigesradio.se/artikel/9286372",
-      "description": "Det nybildade partiet Framtidens Vänster, bildat efter avhopp och bråk i Vänsterpartiet, ställer upp i kommunvalen i Stockholm, Malmö och ytterligare några kommuner. Partiet säger sig vilja föra en skarpare vänsterpolitik än vad Vänsterpartiet gör. ”Vi ska komma ihåg att under den tid Vänsterpartiet varit med att styra i Stockholm har hyrorna ökat”, säger Daniel Riazat, en av partiledarna och tidigare riksdagsledamot för Vänsterpartiet.",
-      "pubDate": "2026-09-06T15:11:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Gellerbrant en nyckelspelare i SD: ”Jätteviktig funktion”",
-      "link": "https://www.dn.se/sverige/gellerbrant-en-nyckelspelare-i-sd-jatteviktig-funktion/",
-      "description": "Han beskrivs som nyckelspelare med en central position i maktens inre rum. Men efter Expos granskning går SD:s chefssamordnare Gustav Gellerbrant på föräldraledighet. Därmed förlorar Sverigedemokraterna en tung roll – sju dagar före valet.",
-      "pubDate": "2026-09-06T15:01:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Vem är Amanda Lind?",
-      "link": "https://www.svt.se/nyheter/inrikes/vem-ar-amanda-lind-0bcb1m",
-      "description": "En hemmasnickrad flygskatt tog henne raka vägen från kommunkontoret till ”Sveriges tuffaste politikjobb”. Kan det brädspelsälskande språkröret få igenom sin offensiva klimatpolitik om Magdalena Andersson håller taktpinnen efter valet?",
-      "pubDate": "2026-09-06T13:42:25Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "MP"
       ]
     }
   ],
