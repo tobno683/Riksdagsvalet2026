@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T17:50:01.345564Z",
+  "updated_at": "2026-09-06T19:40:46.187245Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,78 @@
     }
   ],
   "news": [
+    {
+      "title": "”Lind försöker tona ner betydelsen av skattehöjningarna”",
+      "link": "https://www.svt.se/nyheter/inrikes/lind-forsoker-tona-ner-betydelsen-av-skattehojningarna",
+      "description": "Miljöpartiets språkrör Amanda Lind försöker tona ner betydelsen av Miljöpartiets skattehöjningar. Men hon verkar fast besluten att driva igenom en så kallad miljardärsskatt trots att S-ledaren Magdalena Andersson avfärdat den som ”fantasisummor” och industrimannen Jacob Wallenberg varnat för konsekvenserna för det svenska näringslivet.",
+      "pubDate": "2026-09-06T19:31:35Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "Näringslivet tar strid om karensen – varnar för höga kostnader",
+      "link": "https://www.dn.se/ekonomi/naringslivet-tar-strid-om-karensen-varnar-for-hoga-kostnader/",
+      "description": "Svenskt Näringsliv gör karensavdraget till en av sina största strider inför valet och varnar för kostnader på upp till 42 miljarder kronor. S angriper kalkylen och menar att organisationen driver en kampanj i arbetsgivarnas intresse. Oenigheten handlar framför allt om hur mycket sjukfrånvaron ökar om avdraget slopas.",
+      "pubDate": "2026-09-06T19:18:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Beskedet från Amanda Lind (MP): Bensinen höjs med sex kronor",
+      "link": "https://www.svt.se/nyheter/inrikes/beskedet-fran-amanda-lind-mp-bensinen-hojs-med-sex-kronor",
+      "description": "Sex kronor litern. Så mycket dyrare beräknar Miljöpartiet att bensinpriserna kommer att bli om deras politik går igenom. Det uppger språkröret Amanda Lind (M) i SVT:s Utfrågning.",
+      "pubDate": "2026-09-06T19:04:06Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Chock och självkritik på CDU:s valvaka: ”Tyskarna är aldrig nöjda”",
+      "link": "https://www.dn.se/varlden/chock-och-sjalvkritik-pa-cdus-valvaka-tyskarna-ar-aldrig-nojda/",
+      "description": "MAGDEBURG. Efter att AFD:s storseger hade kungjorts var det rena begravningsstämningen på CDU:s valvaka i Magdeburg. De tyska kristdemokraterna är chockade, häpna – och självkritiska.",
+      "pubDate": "2026-09-06T19:02:52Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Martin Liby Troein: Det kvittar om Jimmie Åkessons plan var att lyfta eller sänka Liberalerna",
+      "link": "https://www.dn.se/ledare/martin-liby-troein-det-kvittar-om-jimmie-akessons-plan-var-att-lyfta-eller-sanka-liberalerna/",
+      "description": "Tänkte Jimmie Åkesson lyfta eller sänka Liberalerna med sitt ultimatum? Det är svårt att säga, och spelar egentligen mindre roll. Mest av allt var det en maktdemonstration.",
+      "pubDate": "2026-09-06T18:04:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "DN Debatt. ”Gå inte på Tidös trick – vi har råd att hjälpa vanligt folk”",
+      "link": "https://www.dn.se/debatt/ga-inte-pa-tidos-trick-vi-har-rad-att-hjalpa-vanligt-folk/",
+      "description": "DN DEBATT. Under sina år vid makten har Tidöregeringen ständigt gynnat de som redan tjänar mest. Samtidigt tvingas vanligt folk gå sjuka till jobbet, avstå tandvård och oroa sig för pensionen. De säger att Sverige inte har råd att lätta folks bördor – men det är helt enkelt inte sant, skriver Linda Palmetzhofer och Elinor Odeberg från Handelsanställdas förbund.",
+      "pubDate": "2026-09-06T18:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "S får kritik för kommunal restaurang: ”Handlar inte om att konkurrera”",
       "link": "https://www.dn.se/sverige/s-far-kritik-for-kommunal-restaurang-handlar-inte-om-att-konkurrera/",
@@ -185,77 +257,6 @@
         "S",
         "MP"
       ]
-    },
-    {
-      "title": "Fouad Youcefi: Väljargruppen som kan rädda MP",
-      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-valjargruppen-som-kan-radda-mp",
-      "description": "Miljöpartiet är ett av partierna med högst andel unga väljare – och det kan bli ett vinnande faktum i årets val, då det är fler förstagångsväljare än 2022. – Det är en mycket viktig väljargrupp för partiet, säger valreporter Fouad Youcefi.",
-      "pubDate": "2026-09-06T13:42:12Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Kristersson om Gellerbrants ledighet: ”Bra lösning”",
-      "link": "https://www.svt.se/nyheter/inrikes/kristersson-om-gellerbrants-ledighet-bra-losning",
-      "description": "Efter uppgifterna om SD-toppen Gustav Gellerbrants sambo har Regeringskansliet genomfört en ny säkerhetsprövning. Samtidigt har Gellerbrant valt att lämna in sitt passerkort och ta föräldraledigt. – Det tycker jag är en bra lösning, säger statsminister Ulf Kristersson till SVT Nyheter.",
-      "pubDate": "2026-09-06T13:40:50Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Så går det med klimatet efter fyra år med Tidöregeringen",
-      "link": "https://www.dn.se/sverige/sa-gar-det-med-klimatet-efter-fyra-ar-med-tidoregeringen/",
-      "description": "Tidöpartierna har prioriterat sänkta bränslepriser, med stigande utsläpp som följd. Försäljningen av elbilar är lägst i Norden och vindkraften har tappat fart – men laddstolparna har blivit fler. Här är Sveriges klimatfacit efter fyra år med regeringen Kristersson.",
-      "pubDate": "2026-09-06T13:23:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Därför syns Gunnar Strömmer överallt",
-      "link": "https://www.expressen.se/nyheter/politik/darfor-syns-gunnar-strommer-overallt/",
-      "description": "Att Gunnar Strömmer är väl omtyckt internt är ingen hemlighet. Nu skickas justitieministern fram överallt – för att vinna valet åt Moderaterna. – Vi får jobba lite extra, säger Strömmer.",
-      "pubDate": "2026-09-06T12:14:20Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Ödesvalet i Tyskland: Oväntat med tanke på tysk historia",
-      "link": "https://www.sverigesradio.se/artikel/9293308",
-      "description": "I Tyskland är det delstatsval i Sachsen-Anhalt och det högernationalistiska partiet AFD har sen flera månader tillbaka legat på över 40 procent i opinionsmätningarna, vilket skulle kunna räcka till egen majoritet. Sveriges Radios korrespondent Katarina von Arndt är på plats i Magdeburg inför valet. ”Med tanke på tysk historia, att ett högernationaliskt parti skulle få makt över en delstat ses som något väldigt oväntat och något man inte hade tänkt sig skulle kunna ske”, säger hon.",
-      "pubDate": "2026-09-06T11:42:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Wallenberg om valet: ”Jag är djupt bekymrad”",
-      "link": "https://www.expressen.se/nyheter/sverige/wallenbergs-om-valet-jag-ar-djupt-bekymrad/",
-      "description": "Finansprofilen Jacob Wallenberg varnar: Om oppositionen vinner valet kan det svenska företagandet förstöras.&nbsp; – Jag är djupt bekymrad, säger han till Financial Times.&nbsp;",
-      "pubDate": "2026-09-06T11:10:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
