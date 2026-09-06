@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T09:00:26.411549Z",
+  "updated_at": "2026-09-06T12:40:30.249573Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,107 @@
   ],
   "news": [
     {
+      "title": "Därför syns Gunnar Strömmer överallt",
+      "link": "https://www.expressen.se/nyheter/politik/darfor-syns-gunnar-strommer-overallt/",
+      "description": "Att Gunnar Strömmer är väl omtyckt internt är ingen hemlighet. Nu skickas justitieministern fram överallt – för att vinna valet åt Moderaterna. – Vi får jobba lite extra, säger Strömmer.",
+      "pubDate": "2026-09-06T12:14:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Ödesvalet i Tyskland: Oväntat med tanke på tysk historia",
+      "link": "https://www.sverigesradio.se/artikel/9293308",
+      "description": "I Tyskland är det delstatsval i Sachsen-Anhalt och det högernationalistiska partiet AFD har sen flera månader tillbaka legat på över 40 procent i opinionsmätningarna, vilket skulle kunna räcka till egen majoritet. Sveriges Radios korrespondent Katarina von Arndt är på plats i Magdeburg inför valet. ”Med tanke på tysk historia, att ett högernationaliskt parti skulle få makt över en delstat ses som något väldigt oväntat och något man inte hade tänkt sig skulle kunna ske”, säger hon.",
+      "pubDate": "2026-09-06T11:42:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Wallenbergs varning inför valet: Vänstern kan förstöra",
+      "link": "https://www.expressen.se/nyheter/sverige/wallenbergs-varning-infor-valet-vanstern-kan-forstora/",
+      "description": "Finansprofilen Jacob Wallenberg varnar: Om oppositionen vinner valet kan det svenska företagandet förstöras.&nbsp; – Jag är djupt bekymrad, säger han till Financial Times.&nbsp;",
+      "pubDate": "2026-09-06T11:10:13Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Opinionsmätningar påverkar valspurten – ”kan se underdog-effekt”",
+      "link": "https://www.sverigesradio.se/artikel/9293303",
+      "description": "Opinionsmätningar påverkar stämningen i partierna, bland valarbetare och även väljare. ”Väljare kan dras till partier i medvind, eller taktikrösta på utsatta partier”, säger Tommy Möller, professor i statsvetenskap vid Stockholms universitet. För Socialdemokraterna kan svagare siffror minska styrkan inför eftervals­förhandlingar.",
+      "pubDate": "2026-09-06T10:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Partiernas lockrop till utlandssvenskar",
+      "link": "https://www.dn.se/varlden/partiernas-lockrop-till-utlandssvenskar/",
+      "description": "BRYSSEL. Tidöpartierna har sänkt inkomstskatten för utlandsboende. De rödgröna vill förenkla för hemvändande svenskars anhöriga. Alla vill att staten får makten över e-legitimation. I år riktar sig partierna allt mer direkt till utlandssvenskar – en grupp som växer i antal och kan påverka valet.",
+      "pubDate": "2026-09-06T10:26:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Londonsvensken Inger: ”Jag vet inte mycket om svensk politik, men röstar för världens framtid”",
+      "link": "https://www.dn.se/varlden/londonsvensken-inger-jag-vet-inte-mycket-om-svensk-politik-men-rostar-for-varldens-framtid/",
+      "description": "LONDON. 700 000 svenskar bor utomlands. Bara en minoritet röstar, men detta år kan det bli ett rekord. – Jag har valt det parti som jag tror behandlar människor som behöver hjälp bäst, säger Adrian Blazquez som förtidsröstat på Svenska skolan i London.",
+      "pubDate": "2026-09-06T10:26:52Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Här är politiken AFD vill genomföra – fem viktigaste frågorna",
+      "link": "https://www.sverigesradio.se/artikel/9293293",
+      "description": "Högernationalistiska AFD ser ut att vinna delstatsvalet i Sachsen-Anhalt. Sveriges Radios Tysklandskorrespondent Katarina von Arndt lyfter fram partiets inställning i fem ämnen: migration, klimat, skola, energi, ekonomi och kultur. ”Här i delstaten vill de få ned antalet invandrare genom att förstärka delstatens polis med en särskild enhet som ska lägga större fokus på utvisningar av de migranter som fått avslag”, säger Katarina von Arndt om en av frågorna.",
+      "pubDate": "2026-09-06T10:15:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Jimmie Åkessons drag: Servera SD-väljarna sprit",
+      "link": "https://www.expressen.se/nyheter/politik/jimmie-akessons-drag-servera-sd-valjarna-sprit/",
+      "description": "Röda galonsoffor, och en skön dubbelsäng i turnébussen – SD-ledaren Jimmie Åkesson lever rockstjärneliv. Dieten: kaffe och snus. Och sprit till väljarna. Fansen: många tonåringar, inte alla röstberättigade. – Jag gillar OP men föredrar Skåne akvavit, säger Åkesson som snapsade i lilla bruksorten Horndal.",
+      "pubDate": "2026-09-06T10:03:22Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Insändare. Mohamssons liberala ”vitbok” är en tunn soppa",
+      "link": "https://www.dn.se/insandare/mohamssons-liberala-vitbok-ar-en-tunn-soppa/",
+      "description": "INSÄNDARE. Om Liberalerna inte blir utkastade från riksdagen beror det nästan helt på stödröster från allt annat än liberala väljare. Partiledaren Simona Mohamssons förklaring vad partiet fått ut av Tidösamarbetet är en ganska tunn soppa, skriver Torbjörn Larsson.",
+      "pubDate": "2026-09-06T09:14:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
       "title": "MP-ledaren ser sig som Volvos bästa vän",
       "link": "https://www.dn.se/sverige/mp-ledaren-ser-sig-som-volvos-basta-van/",
       "description": "Miljöpartiet är nära att nå det 16 år gamla medlemsrekordet. I Göteborg är det redan slaget. – Det är lite svårt att förstå varifrån alla kommer, säger Klara Holmin. I Sveriges bilhuvudstad svarar MP:s nya ledare också ja på frågan om hon är Volvos bästa vän.",
@@ -100,6 +201,18 @@
       "sourceType": "news",
       "topics": [
         "S"
+      ]
+    },
+    {
+      "title": "Gustav Gellerbrant (SD) lämnar in passerkortet till Regeringskansliet",
+      "link": "https://www.sverigesradio.se/artikel/9293270",
+      "description": "Chefen för SD:s samordningskansli, Gustav Gellerbrant, kommenterar nu Expos granskning om hans sambos koppling till ryska statsaktörer och spridning av rysk propaganda. ”Påståenden och lösryckta uppgifter med syftet att misstänkliggöra hennes person med utgångspunkt i hennes ursprung i Ryssland”, skriver han på Facebook. ”För att få ytterligare distans och för att undvika att förflytta fokus i den pågående valrörelsen kommer jag under föräldraledigheten be om att deponera passerkort och dator hos Regeringskansliet”, avslutar Gellerbrant inlägget med. Sverigedemokraterna svarar i en kommentar att de kommer reda ut uppgifterna som finns i ärendet samt att Gellerbrant och sambon är frånkopplade från arbete i Regeringskansliet och riksdagen.",
+      "pubDate": "2026-09-06T07:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
       ]
     },
     {
@@ -135,122 +248,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Partierna kallas till möte efter tekniskt fel med förtidsröster",
-      "link": "https://www.dn.se/sverige/partierna-kallas-till-mote-efter-tekniskt-fel-med-fortidsroster/",
-      "description": "Valmyndigheten kallar till möte med riksdagspartiernas partisekreterare efter det tekniska fel som påverkat tusentals förtidsröster och där vissa kan underkännas, rapporterar Sveriges Radio Ekot. – Det handlar om trovärdigheten för vårt valsystem, säger Mattias Bäckström Johansson, Sverigedemokraternas partisekreterare, till kanalen.",
-      "pubDate": "2026-09-05T20:04:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Partierna kallas till möte efter felaktiga förtidsröster",
-      "link": "https://www.svt.se/nyheter/inrikes/partierna-kallas-till-mote-efter-felaktiga-fortidsrosterna",
-      "description": "Valmyndigheten har kallat riksdagspartiernas partisekreterare till möte på måndag, för att informera om situationen kring uppemot 4 000 felaktiga förtidsröster, rapporterar Ekot. – Det pågår ett intensivt arbete med att kartlägga vilka som har drabbats, säger myndighetens pressekreterare Jany Plevnik till SVT.",
-      "pubDate": "2026-09-05T19:42:43Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "5 september: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/5-september-missa-inte-dagens-nyheter/",
-      "description": "Jimmie Åkesson har siktet inställt på tunga ministerposter, barn fick livshotande blödningar efter operationer på privata kliniker och 590 miljarder behövs för att fixa vattenbristen – här är dagens nyheter.",
-      "pubDate": "2026-09-05T19:07:35Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Partierna kallas till möte efter tusentals felaktiga förtidsröster",
-      "link": "https://www.sverigesradio.se/artikel/9293211",
-      "description": "Valmyndigheten har kallat riksdagspartiernas partisekreterare till möte på måndag, för att ge information kring de uppemot fyratusen felaktiga förtidsrösterna. En av de kallade är Sverigedemokraternas Mattias Bäckström Johansson, som säger att situationen är oroande. ”Det handlar ju om trovärdigheten för vårt valsystem”, säger han.",
-      "pubDate": "2026-09-05T19:07:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Dadgostars vallöfte: ”Kvinnors löner ska upp”",
-      "link": "https://www.sverigesradio.se/artikel/9293195",
-      "description": "Vänsterpartiets ledare Nooshi Dadgostar lovade i sitt sommartal miljardärsskatt, avgiftsfri tandvård och billigare kollektivtrafik. På Södermalm i Stockholm riktade hon också kritik mot Attendo och Moderatledaren Ulf Kristersson, samtidigt som partiet lyfte kortare arbetsvecka, rätt till heltid och höjda kvinnolöner. I talet återkom Dadgostar till lönegapet mellan kvinnor och män – och ett av utspelen stack ut särskilt.",
-      "pubDate": "2026-09-05T18:23:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V"
-      ]
-    },
-    {
-      "title": "Fouad Youcefi: Tre valdistrikt kan bli avgörande i valet",
-      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-tre-valdistrikt-kan-bli-avgorande-i-valet",
-      "description": "Här är de tre valdistrikt som kan spela störst roll för valresultatet i Sverige. Fouad Youcefi förklarar varför de sticker ut.",
-      "pubDate": "2026-09-05T17:50:27Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Här synas partiernas vallöften – vad kostar de egentligen?",
-      "link": "https://www.dn.se/varlden/har-synas-partiernas-valloften-vad-kostar-de-egentligen/",
-      "description": "Svenska valet ser ut att bli ett plånboksval. Men vad kostar egentligen alla vallöften? I Nederländerna låter partierna oberoende experter räkna på prislappen för deras valfläsk. – Ni svenskar är välkomna att lära er av oss, säger Bert Smid på Centraal Planbureau.",
-      "pubDate": "2026-09-05T15:49:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Insändare. Det räcker inte att skrämmas med SD",
-      "link": "https://www.dn.se/insandare/det-racker-inte-att-skrammas-med-sd/",
-      "description": "INSÄNDARE. Socialdemokraterna måste bli bättre på att kommunicera värdet av en progressiv mittenpolitik. Men nu är det som att se ett band ge konserter utan att spela sina största hits, skriver Mattias Lindström.",
-      "pubDate": "2026-09-05T15:06:49Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "MP"
-      ]
-    },
-    {
-      "title": "Åkesson avfärdar S-krav: Ingen säkerhetskris",
-      "link": "https://www.dn.se/sverige/akesson-avfardar-s-krav-ingen-sakerhetskris/",
-      "description": "S kräver att den SD-tjänsteman, som kopplats till ryska nätverk, och hennes sambo stängs av från sina respektive tjänster. Kravet avfärdas av Jimmie Åkesson. – Det är ingen säkerhetskris, säger SD-ledaren till Expressen.",
-      "pubDate": "2026-09-05T14:55:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "V: Noll vinster i Stockholms välfärd 2034",
-      "link": "https://www.dn.se/sverige/v-noll-vinster-i-stockholms-valfard-2034/",
-      "description": "Vänsterpartiet i Stockholm går till val på en plan som ska eliminera vinstdrivande aktörer inom välfärden. Den exakta kostnaden för staden är oklar, men beräknas enligt V vara låg. – Det är ett sjukt system att jag som kommunpolitiker och högst ansvarig för förskoleverksamheten inte kan bestämma vilka aktörer vi vill ha som driver förskolor i Stockholm i dag, säger Alexandra Mattsson, gruppledare för Vänsterpartiet i Stockholm.",
-      "pubDate": "2026-09-05T10:10:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     }
   ],
   "blogs": [
