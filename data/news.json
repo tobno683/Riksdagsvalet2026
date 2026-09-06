@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T22:25:06.922217Z",
+  "updated_at": "2026-09-06T00:02:00.058430Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -412,6 +412,31 @@
       "topics": [
         "S",
         "V"
+      ]
+    },
+    {
+      "title": "BREV 483 – Rösta på svennehoran.",
+      "link": "https://jensganman.substack.com/p/brev-483-rosta-pa-svennehoran",
+      "description": "Kvartoft serverade Liberalerna 4% p&#229; ett silverfat / De Iran-v&#228;nliga tj&#228;nstem&#228;nnen m&#229;ste bort / S utopiska midsommardr&#246;m / Ebba f&#246;rsa sig i SVT / Bolunds osynliga monokel&#246;ga M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "BREV 482 – Sverige har INTE blivit tystare, Magdalena.",
+      "link": "https://jensganman.substack.com/p/brev-482-sverige-har-inte-blivit",
+      "description": "Gammelmedia st&#229;r med rumpan bar och alla ser det / N&#228;r Expressen kastade skit p&#229; invandrarna i Rinkeby / Fascinerande intervju med monstrets kusin / Mohamsson vinner i l&#228;ngden &#8211; Busch g&#246;r det inte /",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "KD",
+        "L"
       ]
     }
   ],
