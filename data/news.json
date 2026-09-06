@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T04:52:18.568978Z",
+  "updated_at": "2026-09-06T09:00:26.411549Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,42 @@
   ],
   "news": [
     {
+      "title": "MP-ledaren ser sig som Volvos bästa vän",
+      "link": "https://www.dn.se/sverige/mp-ledaren-ser-sig-som-volvos-basta-van/",
+      "description": "Miljöpartiet är nära att nå det 16 år gamla medlemsrekordet. I Göteborg är det redan slaget. – Det är lite svårt att förstå varifrån alla kommer, säger Klara Holmin. I Sveriges bilhuvudstad svarar MP:s nya ledare också ja på frågan om hon är Volvos bästa vän.",
+      "pubDate": "2026-09-06T07:43:51Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "S i Göteborg vill satsa på fritidsgårdar som förebygger brott",
+      "link": "https://www.dn.se/sverige/s-i-goteborg-vill-satsa-pa-fritidsgardar-som-forebygger-brott/",
+      "description": "Bidrar fritidsgårdar till att förebygga brott – eller underlättar de rekrytering? Frågan splittrar partierna i flera kommuner. I Göteborg vill Socialdemokraterna satsa på fritidsgårdar med mer struktur och mindre ”planlöst häng”. – Det ska vara jävligt kul också, säger partiets ordförande Jonas Attenius.",
+      "pubDate": "2026-09-06T07:43:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Björn Wiman: Jimmie Åkesson sade en sällsynt sanning om kultur",
+      "link": "https://www.dn.se/kultur/bjorn-wiman-jimmie-akesson-sade-en-sallsynt-sanning-om-kultur/",
+      "description": "Om Sverigedemokraterna får plats i regeringen väntar större omvälvningar i svenskt kulturliv än fler konserter med Fröken Snusk. Både ”Mupparna” och musiken från 30-talets Berlin har något att lära oss, skriver Björn Wiman.",
+      "pubDate": "2026-09-06T05:25:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Andersson om hur hon ska kunna styra: ”Det finns många Excel-ark”",
       "link": "https://www.dn.se/sverige/andersson-om-hur-hon-ska-kunna-styra-det-finns-manga-excel-ark/",
       "description": "Inom Socialdemokraterna stiger nervositeten. Sveriges yngste S-ordförande, Sebastian Wegbratt, 18, tror på maktskifte. Tidigare partiledaren Håkan Juholt, 63, är besviken redan på förhand. Särskilt ett samarbete kan komma att skada partiet, tror källor högt upp i partiet. Vart vänder sig Magdalena Andersson om S vinner valet?",
@@ -93,20 +129,10 @@
     {
       "title": "Vändningen: Unga män har blivit mer vänster",
       "link": "https://www.svt.se/nyheter/inrikes/vandningen-unga-man-har-blivit-mer-vanster",
-      "description": "Under mandatperioden har de unga väljarna blivit mer vänster, visar SVT/Verians mätningar. Förändringen syns inte minst bland unga män – som överger Tidöpartierna för oppositionen. – Bilden av att unga män röstar tydligt konservativt stämmer inte längre, säger Per Söderpalm.",
+      "description": "Under mandatperioden har de unga väljarna blivit mer vänster, visar SVT/Verians mätningar. Förändringen syns inte minst bland unga män – som överger Tidöpartierna för oppositionen. – Bilden av att unga män röstar tydligt konservativt stämmer inte längre, säger Per Söderpalm, opinionsansvarig på Verian.",
       "pubDate": "2026-09-06T04:03:08Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Partierna kallas till möte efter röstningskaoset: ”Allvarligt”",
-      "link": "https://www.expressen.se/nyheter/politik/partierna-kallas-till-mote-efter-rostningskaoset-allvarligt/",
-      "description": "Valmyndigheten har kallat partisekreterarna till ett informationsmöte om de cirka 4 000 felaktiga förtidsrösterna. Mattias Bäckström Johansson (SD) kräver att myndigheten rätar ut alla frågetecken. – Vi förväntar oss en fullständig transparens, säger han till Expressen.",
-      "pubDate": "2026-09-05T20:47:40Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
@@ -133,16 +159,6 @@
       "topics": []
     },
     {
-      "title": "Efter kaoset: Valmyndigheten kallar partierna",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0532aff4-ee66-437a-80e4-041d208e5f47",
-      "description": "Beskedet efter strulet med förtidsröster",
-      "pubDate": "2026-09-05T19:16:53Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "5 september: Missa inte dagens nyheter",
       "link": "https://www.dn.se/varlden/5-september-missa-inte-dagens-nyheter/",
       "description": "Jimmie Åkesson har siktet inställt på tunga ministerposter, barn fick livshotande blödningar efter operationer på privata kliniker och 590 miljarder behövs för att fixa vattenbristen – här är dagens nyheter.",
@@ -164,20 +180,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Förslaget: Betald ledighet när  man lämnar våldsam relation",
-      "link": "https://www.expressen.se/nyheter/politik/forslaget-betald-ledighet-nar--man-lamnar-valdsam-relation/",
-      "description": "Upp till tio extra lediga betalda dagar till den som vill lämna en våldsam relation. Det föreslår Vänsterpartiet i Stockholm, skriver Arbetet . Förslaget får stöd av både Moderaterna och Socialdemokraterna.",
-      "pubDate": "2026-09-05T18:37:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V"
       ]
     },
     {
@@ -253,6 +255,28 @@
   ],
   "blogs": [
     {
+      "title": "Unga i Sverige röstar vänster",
+      "link": "https://blog.zaramis.se/2026/09/06/unga-i-sverige-rostar-vanster/",
+      "description": "Enligt en undersökning som SVT låtit Verian göra är ungdomarna i Sverige klart och tydligt vänster. Starkast är stödet för oppositionen bland unga kvinnor. 74,2 procent av dem uppger i augusti att de skulle rösta på något av oppositionspartierna, medan 25,6 procent uppger att de skulle rösta på Tidöpartierna. Läs mer … Inlägget Unga i Sverige röstar vänster dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-06T07:40:04Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
+    {
+      "title": "Partiet som vill att folk ska kunna leva på lönen",
+      "link": "https://blog.zaramis.se/2026/09/06/partiet-som-vill-att-folk-ska-kunna-leva-pa-lonen/",
+      "description": "Kortare arbetsvecka, rätt till heltid och stopp för hyvling. Det är tre reformer som Vänsterpartiet vill genomföra för att fler ska kunna leva på sin lön och orka med ett helt arbetsliv. I ett tal på lördagen lyfte Nooshi Dadgostar särskilt kvinnors villkor på arbetsmarknaden. Läs mer … Inlägget Partiet som vill att folk ska kunna leva på lönen dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-06T05:22:24Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Muslimska brödraskapet når organisatorisk mognad med stöd från Centerpartiet",
       "link": "https://ledarsidorna.se/muslimska-brodraskapet-nar-organisatorisk-mognad-med-stod-fran-centerpartiet/",
       "description": "I den andra av tre artiklar om Centerpartiets muslimprojekt 1990–1994 beskrivs hur projektet når en organisatorisk mognad och utgör basen för etableringen av politisk islam i samtliga riksdagspartier. Där många av de politiska krav som formulerats med partiets hjälp nu etableras som allmängiltiga . Fyra månader före riksdagsvalet 1994 skickade Mahmoud Aldebe ett öppet brev [&#8230;]",
@@ -315,18 +339,6 @@
       ]
     },
     {
-      "title": "Vänsterpartiets ungdomspaket",
-      "link": "https://blog.zaramis.se/2026/09/04/vansterpartiets-ungdomspaket/",
-      "description": "Vänsterpartiet lanserar ett nytt ”Ungdomspaket” på totalt cirka 5 miljarder kronor för att förbättra villkoren för studenter, vuxenstuderande och unga i hela landet. Paketet innehåller en rad satsningar, från höjt studiemedel till fri tandvård och billigare kollektivtrafik. Läs mer … Inlägget Vänsterpartiets ungdomspaket dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-04T05:17:04Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Sopade under mattan",
       "link": "https://ledarsidorna.se/sopade-under-mattan/",
       "description": "I praktiken samtliga svenska riksdagspartier, med något undantag, har haft positiva och mer eller mindre långtgående relationer med radikal politisk islam på något sätt. Med samma motivbild. Moderaterna är ett parti som inte på något sätt är förskonade. I det partiet tog sig en medlem av det Muslimska brödraskapet ända fram till riksdagens försvarsutskott. Fyra [&#8230;]",
@@ -336,18 +348,6 @@
       "sourceType": "blog",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Stoppa gräddfilerna i vården",
-      "link": "https://blog.zaramis.se/2026/09/03/stoppa-graddfilerna-i-varden/",
-      "description": "Stoppa gräddfilerna i vården. Den som behöver vård mest ska få den först. Svensk sjukvård ska bygga på behov, inte plånbok. Men idag ser verkligheten annorlunda ut. Den som är rik, bor i ett välbärgat område eller har en privat sjukvårdsförsäkring får ofta snabbare och bättre tillgång till vård än den som behöver vården mest. Därför har Vänsterpartiet presenterat en plan för att stoppa gräddfilerna i vården och återupprätta principen om vård efter behov. Läs mer … Inlägget Stoppa gräddfilerna i vården dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-03T13:50:26Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
       ]
     },
     {
