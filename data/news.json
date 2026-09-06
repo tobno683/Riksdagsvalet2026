@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T00:02:00.058430Z",
+  "updated_at": "2026-09-06T04:52:18.568978Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,28 @@
     }
   ],
   "news": [
+    {
+      "title": "Andersson om hur hon ska kunna styra: ”Det finns många Excel-ark”",
+      "link": "https://www.dn.se/sverige/andersson-om-hur-hon-ska-kunna-styra-det-finns-manga-excel-ark/",
+      "description": "Inom Socialdemokraterna stiger nervositeten. Sveriges yngste S-ordförande, Sebastian Wegbratt, 18, tror på maktskifte. Tidigare partiledaren Håkan Juholt, 63, är besviken redan på förhand. Särskilt ett samarbete kan komma att skada partiet, tror källor högt upp i partiet. Vart vänder sig Magdalena Andersson om S vinner valet?",
+      "pubDate": "2026-09-06T04:08:45Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Vändningen: Unga män har blivit mer vänster",
+      "link": "https://www.svt.se/nyheter/inrikes/vandningen-unga-man-har-blivit-mer-vanster",
+      "description": "Under mandatperioden har de unga väljarna blivit mer vänster, visar SVT/Verians mätningar. Förändringen syns inte minst bland unga män – som överger Tidöpartierna för oppositionen. – Bilden av att unga män röstar tydligt konservativt stämmer inte längre, säger Per Söderpalm.",
+      "pubDate": "2026-09-06T04:03:08Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "Partierna kallas till möte efter röstningskaoset: ”Allvarligt”",
       "link": "https://www.expressen.se/nyheter/politik/partierna-kallas-till-mote-efter-rostningskaoset-allvarligt/",
@@ -227,34 +249,21 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "Dadgostar avfärdar S-kritiken: Har kontakt med Andersson hela tiden",
-      "link": "https://www.svt.se/nyheter/inrikes/dadgostar-avfardar-s-kritiken-har-kontakt-med-andersson-hela-tiden",
-      "description": "Vänsterpartiet har en ”lång resa” att göra innan de kan sitta i regering, säger Magdalena Andersson. Men Nooshi Dadgostar avfärdar kritiken – så har Socialdemokraterna alltid låtit, menar hon. – Vi har kontakt med varandra hela tiden, säger Dadgostar.",
-      "pubDate": "2026-09-05T09:05:39Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "30 barn opererades privat – fick allvarliga blödningar",
-      "link": "https://www.dn.se/sverige/30-barn-opererades-privat-fick-allvarliga-blodningar/",
-      "description": "32 barn har kommit in till akuten på Karolinska med allvarliga och livshotande blödningar efter halsoperationer på privata kliniker. Nu vill sakkunniga att vissa ingrepp flyttas så att de i stället utförs på sjukhus. Men frågan bromsas av Centerpartiet.",
-      "pubDate": "2026-09-05T08:58:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Muslimska brödraskapet når organisatorisk mognad med stöd från Centerpartiet",
+      "link": "https://ledarsidorna.se/muslimska-brodraskapet-nar-organisatorisk-mognad-med-stod-fran-centerpartiet/",
+      "description": "I den andra av tre artiklar om Centerpartiets muslimprojekt 1990–1994 beskrivs hur projektet når en organisatorisk mognad och utgör basen för etableringen av politisk islam i samtliga riksdagspartier. Där många av de politiska krav som formulerats med partiets hjälp nu etableras som allmängiltiga . Fyra månader före riksdagsvalet 1994 skickade Mahmoud Aldebe ett öppet brev [&#8230;]",
+      "pubDate": "2026-09-06T03:33:36Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
     {
       "title": "Partiet som satsar på folket i förorterna",
       "link": "https://blog.zaramis.se/2026/09/05/partiet-som-satsar-pa-folket-i-fororterna/",
@@ -399,44 +408,6 @@
       "sourceType": "blog",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Vänsterpartiet ansluter sig till det biståndsindustriella eko-systemet",
-      "link": "https://ledarsidorna.se/vansterpartiet-ansluter-sig-till-det-bistandsindustriella-eko-systemet/",
-      "description": "Vänsterpartiets relation till den palestinska rörelsen skiljer sig strukturellt från Socialdemokraternas. Den löper i högre grad underifrån genom föreningar och lokala kontakter snarare än centralt initierade samarbetsavtal och statliga anslag. Men den har en egen, sextio år lång historia. Från VPK:s ideologiska brytning med Sovjetunionen på 1960-talet till dagens seminarier med Palestinska riksförbundet som till [&#8230;]",
-      "pubDate": "2026-08-26T23:00:00Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 483 – Rösta på svennehoran.",
-      "link": "https://jensganman.substack.com/p/brev-483-rosta-pa-svennehoran",
-      "description": "Kvartoft serverade Liberalerna 4% p&#229; ett silverfat / De Iran-v&#228;nliga tj&#228;nstem&#228;nnen m&#229;ste bort / S utopiska midsommardr&#246;m / Ebba f&#246;rsa sig i SVT / Bolunds osynliga monokel&#246;ga M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "BREV 482 – Sverige har INTE blivit tystare, Magdalena.",
-      "link": "https://jensganman.substack.com/p/brev-482-sverige-har-inte-blivit",
-      "description": "Gammelmedia st&#229;r med rumpan bar och alla ser det / N&#228;r Expressen kastade skit p&#229; invandrarna i Rinkeby / Fascinerande intervju med monstrets kusin / Mohamsson vinner i l&#228;ngden &#8211; Busch g&#246;r det inte /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "KD",
-        "L"
       ]
     }
   ],
