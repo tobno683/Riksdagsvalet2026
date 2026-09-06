@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T15:52:18.553751Z",
+  "updated_at": "2026-09-06T17:50:01.345564Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,41 @@
     }
   ],
   "news": [
+    {
+      "title": "S får kritik för kommunal restaurang: ”Handlar inte om att konkurrera”",
+      "link": "https://www.dn.se/sverige/s-far-kritik-for-kommunal-restaurang-handlar-inte-om-att-konkurrera/",
+      "description": "Socialdemokraterna vill öppna fler lokala tillagningskök i kommunal regi i Stockholm. Ett kök som planeras stå klart nästa år ska också få en kommunal restaurang, vilket har väckt stark kritik från högern. – Det här handlar inte om att kommunen ska driva en restaurang som konkurrerar med andra i området, säger Emilia Bjuggren, S förstanamn i staden.",
+      "pubDate": "2026-09-06T17:46:57Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Högernationalistiska ADF nära egen majoritet i tyska delstatsvalet",
+      "link": "https://www.sverigesradio.se/artikel/9293373",
+      "description": "Idag är det val i den tyska delstaten Sachsen-Anhalt. I vallokalsundersökningen får det högernationalistiska partiet AFD oväntat många röster, 44 procent, vilket är ett mandat ifrån egen majoritet. Samtidigt som både det liberala FDP och BSW ser ut att hamna utanför parlamentet. De gröna ser däremot ut att klara spärren, säger Sveriges Radios Tysklandskorrespondent Katarina von Arndt på plats i Magdeburg.",
+      "pubDate": "2026-09-06T16:19:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Magdalena Andersson svarar Jacob Wallenberg",
+      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-svarar-jacob-wallenberg/",
+      "description": "Magdalena Andersson tycker att finansprofilen Jacob Wallenberg bekymrar sig helt i onödan. –&nbsp;Med mig som statsminister är det ordning och reda i ekonomin och bra villkor för svenskt företagande. I stället är det en regering med SD som borde oroa, anser Andersson.",
+      "pubDate": "2026-09-06T16:15:13Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Anderssons känga: Ett halmstrå för honom",
       "link": "https://www.expressen.se/nyheter/politik/anderssons-kanga-ett-halmstra-for-honom/",
@@ -221,42 +256,21 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Opinionsmätningar påverkar valspurten – ”kan se underdog-effekt”",
-      "link": "https://www.sverigesradio.se/artikel/9293303",
-      "description": "Opinionsmätningar påverkar stämningen i partierna, bland valarbetare och även väljare. ”Väljare kan dras till partier i medvind, eller taktikrösta på utsatta partier”, säger Tommy Möller, professor i statsvetenskap vid Stockholms universitet. För Socialdemokraterna kan svagare siffror minska styrkan inför eftervals­förhandlingar.",
-      "pubDate": "2026-09-06T10:43:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Partiernas lockrop till utlandssvenskar",
-      "link": "https://www.dn.se/varlden/partiernas-lockrop-till-utlandssvenskar/",
-      "description": "BRYSSEL. Tidöpartierna har sänkt inkomstskatten för utlandsboende. De rödgröna vill förenkla för hemvändande svenskars anhöriga. Alla vill att staten får makten över e-legitimation. I år riktar sig partierna allt mer direkt till utlandssvenskar – en grupp som växer i antal och kan påverka valet.",
-      "pubDate": "2026-09-06T10:26:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Londonsvensken Inger: ”Jag vet inte mycket om svensk politik, men röstar för världens framtid”",
-      "link": "https://www.dn.se/varlden/londonsvensken-inger-jag-vet-inte-mycket-om-svensk-politik-men-rostar-for-varldens-framtid/",
-      "description": "LONDON. 700 000 svenskar bor utomlands. Bara en minoritet röstar, men detta år kan det bli ett rekord. – Jag har valt det parti som jag tror behandlar människor som behöver hjälp bäst, säger Adrian Blazquez som förtidsröstat på Svenska skolan i London.",
-      "pubDate": "2026-09-06T10:26:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "”Det ska bli roligt att byta regering”",
+      "link": "https://www.dagensarena.se/innehall/det-ska-bli-roligt-att-byta-regering/",
+      "description": "Miljöpartiet hoppas på sitt bästa valresultat. Inlägget ”Det ska bli roligt att byta regering” dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-06T16:33:31Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "Unga i Sverige röstar vänster",
       "link": "https://blog.zaramis.se/2026/09/06/unga-i-sverige-rostar-vanster/",
