@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T12:40:30.249573Z",
+  "updated_at": "2026-09-06T15:52:18.553751Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,116 @@
   ],
   "news": [
     {
+      "title": "Anderssons känga: Ett halmstrå för honom",
+      "link": "https://www.expressen.se/nyheter/politik/anderssons-kanga-ett-halmstra-for-honom/",
+      "description": "Socialdemokraterna tappar i opinionen och Magdalena Andersson har bara sju dagar på sig att övertyga väljarna. I veckan väntar en rad debatter – mot Ulf Kristersson (M). – Problemet med honom är inte att han är en dålig debattör, det är att han är dålig på att regera, säger S-ledaren.",
+      "pubDate": "2026-09-06T15:46:18Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "De ska få upp valdeltagandet i sitt område: ”Plikt att rösta”",
+      "link": "https://www.dn.se/sverige/de-ska-fa-upp-valdeltagandet-i-sitt-omrade-plikt-att-rosta/",
+      "description": "Bara 55 procent av invånarna i Sveriges särskilt utsatta områden röstade i förra valet. Det visar DN:s sammanställning av valdeltagandet. Nu försöker en grupp mammor i Hammarkullen i Göteborg göra skillnad i sin stadsdel. – Även utsatta områden är en del av Sverige. Och det är vi också, säger Saido Mohamed.",
+      "pubDate": "2026-09-06T15:18:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "C:s ilska efter Gunnar Strömmers utspel",
+      "link": "https://www.expressen.se/nyheter/cs-ilska-efter-gunnar-strommers-utspel/",
+      "description": "Justitieminister Gunnar Strömmer uppmanar Centerpartiets väljare att rösta på Moderaterna – om de vill ha C-politik i stället för V-politik.&nbsp; Utspelet får Niels Paarup-Petersen, migrationspolitisk talesperson för C, att se rött.&nbsp; – Han har röstat för att utvisa tonåringar och alla möjliga familjer som gjort rätt för sig, säger Paarup-Petersen.&nbsp;",
+      "pubDate": "2026-09-06T15:12:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "V-avhopparnas nya parti ska driva ännu skarpare vänsterpolitik",
+      "link": "https://www.sverigesradio.se/artikel/9286372",
+      "description": "Det nybildade partiet Framtidens Vänster, bildat efter avhopp och bråk i Vänsterpartiet, ställer upp i kommunvalen i Stockholm, Malmö och ytterligare några kommuner. Partiet säger sig vilja föra en skarpare vänsterpolitik än vad Vänsterpartiet gör. ”Vi ska komma ihåg att under den tid Vänsterpartiet varit med att styra i Stockholm har hyrorna ökat”, säger Daniel Riazat, en av partiledarna och tidigare riksdagsledamot för Vänsterpartiet.",
+      "pubDate": "2026-09-06T15:11:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Gellerbrant en nyckelspelare i SD: ”Jätteviktig funktion”",
+      "link": "https://www.dn.se/sverige/gellerbrant-en-nyckelspelare-i-sd-jatteviktig-funktion/",
+      "description": "Han beskrivs som nyckelspelare med en central position i maktens inre rum. Men efter Expos granskning går SD:s chefssamordnare Gustav Gellerbrant på föräldraledighet. Därmed förlorar Sverigedemokraterna en tung roll – sju dagar före valet.",
+      "pubDate": "2026-09-06T15:01:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Vem är Amanda Lind?",
+      "link": "https://www.svt.se/nyheter/inrikes/vem-ar-amanda-lind-0bcb1m",
+      "description": "En hemmasnickrad flygskatt tog henne raka vägen från kommunkontoret till ”Sveriges tuffaste politikjobb”. Kan det brädspelsälskande språkröret få igenom sin offensiva klimatpolitik om Magdalena Andersson håller taktpinnen efter valet?",
+      "pubDate": "2026-09-06T13:42:25Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "Fouad Youcefi: Väljargruppen som kan rädda MP",
+      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-valjargruppen-som-kan-radda-mp",
+      "description": "Miljöpartiet är ett av partierna med högst andel unga väljare – och det kan bli ett vinnande faktum i årets val, då det är fler förstagångsväljare än 2022. – Det är en mycket viktig väljargrupp för partiet, säger valreporter Fouad Youcefi.",
+      "pubDate": "2026-09-06T13:42:12Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Kristersson om Gellerbrants ledighet: ”Bra lösning”",
+      "link": "https://www.svt.se/nyheter/inrikes/kristersson-om-gellerbrants-ledighet-bra-losning",
+      "description": "Efter uppgifterna om SD-toppen Gustav Gellerbrants sambo har Regeringskansliet genomfört en ny säkerhetsprövning. Samtidigt har Gellerbrant valt att lämna in sitt passerkort och ta föräldraledigt. – Det tycker jag är en bra lösning, säger statsminister Ulf Kristersson till SVT Nyheter.",
+      "pubDate": "2026-09-06T13:40:50Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Så går det med klimatet efter fyra år med Tidöregeringen",
+      "link": "https://www.dn.se/sverige/sa-gar-det-med-klimatet-efter-fyra-ar-med-tidoregeringen/",
+      "description": "Tidöpartierna har prioriterat sänkta bränslepriser, med stigande utsläpp som följd. Försäljningen av elbilar är lägst i Norden och vindkraften har tappat fart – men laddstolparna har blivit fler. Här är Sveriges klimatfacit efter fyra år med regeringen Kristersson.",
+      "pubDate": "2026-09-06T13:23:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "Därför syns Gunnar Strömmer överallt",
       "link": "https://www.expressen.se/nyheter/politik/darfor-syns-gunnar-strommer-overallt/",
       "description": "Att Gunnar Strömmer är väl omtyckt internt är ingen hemlighet. Nu skickas justitieministern fram överallt – för att vinna valet åt Moderaterna. – Vi får jobba lite extra, säger Strömmer.",
@@ -103,8 +213,8 @@
       ]
     },
     {
-      "title": "Wallenbergs varning inför valet: Vänstern kan förstöra",
-      "link": "https://www.expressen.se/nyheter/sverige/wallenbergs-varning-infor-valet-vanstern-kan-forstora/",
+      "title": "Wallenberg om valet: ”Jag är djupt bekymrad”",
+      "link": "https://www.expressen.se/nyheter/sverige/wallenbergs-om-valet-jag-ar-djupt-bekymrad/",
       "description": "Finansprofilen Jacob Wallenberg varnar: Om oppositionen vinner valet kan det svenska företagandet förstöras.&nbsp; – Jag är djupt bekymrad, säger han till Financial Times.&nbsp;",
       "pubDate": "2026-09-06T11:10:13Z",
       "source": "Expressen",
@@ -142,110 +252,6 @@
       "pubDate": "2026-09-06T10:26:52Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Här är politiken AFD vill genomföra – fem viktigaste frågorna",
-      "link": "https://www.sverigesradio.se/artikel/9293293",
-      "description": "Högernationalistiska AFD ser ut att vinna delstatsvalet i Sachsen-Anhalt. Sveriges Radios Tysklandskorrespondent Katarina von Arndt lyfter fram partiets inställning i fem ämnen: migration, klimat, skola, energi, ekonomi och kultur. ”Här i delstaten vill de få ned antalet invandrare genom att förstärka delstatens polis med en särskild enhet som ska lägga större fokus på utvisningar av de migranter som fått avslag”, säger Katarina von Arndt om en av frågorna.",
-      "pubDate": "2026-09-06T10:15:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Jimmie Åkessons drag: Servera SD-väljarna sprit",
-      "link": "https://www.expressen.se/nyheter/politik/jimmie-akessons-drag-servera-sd-valjarna-sprit/",
-      "description": "Röda galonsoffor, och en skön dubbelsäng i turnébussen – SD-ledaren Jimmie Åkesson lever rockstjärneliv. Dieten: kaffe och snus. Och sprit till väljarna. Fansen: många tonåringar, inte alla röstberättigade. – Jag gillar OP men föredrar Skåne akvavit, säger Åkesson som snapsade i lilla bruksorten Horndal.",
-      "pubDate": "2026-09-06T10:03:22Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Insändare. Mohamssons liberala ”vitbok” är en tunn soppa",
-      "link": "https://www.dn.se/insandare/mohamssons-liberala-vitbok-ar-en-tunn-soppa/",
-      "description": "INSÄNDARE. Om Liberalerna inte blir utkastade från riksdagen beror det nästan helt på stödröster från allt annat än liberala väljare. Partiledaren Simona Mohamssons förklaring vad partiet fått ut av Tidösamarbetet är en ganska tunn soppa, skriver Torbjörn Larsson.",
-      "pubDate": "2026-09-06T09:14:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "MP-ledaren ser sig som Volvos bästa vän",
-      "link": "https://www.dn.se/sverige/mp-ledaren-ser-sig-som-volvos-basta-van/",
-      "description": "Miljöpartiet är nära att nå det 16 år gamla medlemsrekordet. I Göteborg är det redan slaget. – Det är lite svårt att förstå varifrån alla kommer, säger Klara Holmin. I Sveriges bilhuvudstad svarar MP:s nya ledare också ja på frågan om hon är Volvos bästa vän.",
-      "pubDate": "2026-09-06T07:43:51Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "S i Göteborg vill satsa på fritidsgårdar som förebygger brott",
-      "link": "https://www.dn.se/sverige/s-i-goteborg-vill-satsa-pa-fritidsgardar-som-forebygger-brott/",
-      "description": "Bidrar fritidsgårdar till att förebygga brott – eller underlättar de rekrytering? Frågan splittrar partierna i flera kommuner. I Göteborg vill Socialdemokraterna satsa på fritidsgårdar med mer struktur och mindre ”planlöst häng”. – Det ska vara jävligt kul också, säger partiets ordförande Jonas Attenius.",
-      "pubDate": "2026-09-06T07:43:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Gustav Gellerbrant (SD) lämnar in passerkortet till Regeringskansliet",
-      "link": "https://www.sverigesradio.se/artikel/9293270",
-      "description": "Chefen för SD:s samordningskansli, Gustav Gellerbrant, kommenterar nu Expos granskning om hans sambos koppling till ryska statsaktörer och spridning av rysk propaganda. ”Påståenden och lösryckta uppgifter med syftet att misstänkliggöra hennes person med utgångspunkt i hennes ursprung i Ryssland”, skriver han på Facebook. ”För att få ytterligare distans och för att undvika att förflytta fokus i den pågående valrörelsen kommer jag under föräldraledigheten be om att deponera passerkort och dator hos Regeringskansliet”, avslutar Gellerbrant inlägget med. Sverigedemokraterna svarar i en kommentar att de kommer reda ut uppgifterna som finns i ärendet samt att Gellerbrant och sambon är frånkopplade från arbete i Regeringskansliet och riksdagen.",
-      "pubDate": "2026-09-06T07:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Björn Wiman: Jimmie Åkesson sade en sällsynt sanning om kultur",
-      "link": "https://www.dn.se/kultur/bjorn-wiman-jimmie-akesson-sade-en-sallsynt-sanning-om-kultur/",
-      "description": "Om Sverigedemokraterna får plats i regeringen väntar större omvälvningar i svenskt kulturliv än fler konserter med Fröken Snusk. Både ”Mupparna” och musiken från 30-talets Berlin har något att lära oss, skriver Björn Wiman.",
-      "pubDate": "2026-09-06T05:25:01Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Andersson om hur hon ska kunna styra: ”Det finns många Excel-ark”",
-      "link": "https://www.dn.se/sverige/andersson-om-hur-hon-ska-kunna-styra-det-finns-manga-excel-ark/",
-      "description": "Inom Socialdemokraterna stiger nervositeten. Sveriges yngste S-ordförande, Sebastian Wegbratt, 18, tror på maktskifte. Tidigare partiledaren Håkan Juholt, 63, är besviken redan på förhand. Särskilt ett samarbete kan komma att skada partiet, tror källor högt upp i partiet. Vart vänder sig Magdalena Andersson om S vinner valet?",
-      "pubDate": "2026-09-06T04:08:45Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Vändningen: Unga män har blivit mer vänster",
-      "link": "https://www.svt.se/nyheter/inrikes/vandningen-unga-man-har-blivit-mer-vanster",
-      "description": "Under mandatperioden har de unga väljarna blivit mer vänster, visar SVT/Verians mätningar. Förändringen syns inte minst bland unga män – som överger Tidöpartierna för oppositionen. – Bilden av att unga män röstar tydligt konservativt stämmer inte längre, säger Per Söderpalm, opinionsansvarig på Verian.",
-      "pubDate": "2026-09-06T04:03:08Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
     }
