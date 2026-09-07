@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T17:58:28.615444Z",
+  "updated_at": "2026-09-07T21:03:12.079867Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,67 @@
     }
   ],
   "news": [
+    {
+      "title": "S-konto la ut bild på gangsterrappare på Tiktok",
+      "link": "https://www.expressen.se/nyheter/sverige/s-konto-la-ut-bild-pa-gangsterrappare-pa-tiktok/",
+      "description": "Här poserar gangsterrapparna Dree Low och Adel – på en bild Socialdemokraterna i Stockholm har använt i ett Tiktok-inlägg. Efter frågor från TV4 är inlägget borttaget. ”Ingenting vi står bakom”, skriver kommunsekreteraren Andrea Törnestam till kanalen.",
+      "pubDate": "2026-09-07T20:54:33Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "SD-toppens sambo sökte jobb på flera departement",
+      "link": "https://www.dn.se/sverige/sd-toppens-sambo-sokte-jobb-pa-flera-departement/",
+      "description": "SD-toppen Gustav Gellerbrants sambo sökte fyra jobb på Regeringskansliet innan hon blev anställd hos Sverigedemokraterna, rapporterar TV4:s Kalla Fakta.",
+      "pubDate": "2026-09-07T20:46:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "7 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/7-september-missa-inte-dagens-nyheter/",
+      "description": "Liberalerna närmar sig riksdagsspärren, Gängkriminalitet vid idrottsplatser i var femte kommun och nya larmtestet nådde inte alla – här är dagens nyheter.",
+      "pubDate": "2026-09-07T18:58:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "”Sverige behöver ett maktskifte – men också ett systemskifte”",
+      "link": "https://www.dn.se/kultur/sverige-behover-ett-maktskifte-men-ocksa-ett-systemskifte/",
+      "description": "Om Magdalena Andersson blir statsminister måste hon våga göra upp med ett samhälle där pengar och vinst har fått styra på bekostnad av jämlikhet, kunskap och gemensam välfärd. Det skriver professorerna Sven-Eric Liedman och Mikael Stigendal.",
+      "pubDate": "2026-09-07T18:23:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "S-profilen ströks  – spelet bakom:  ”Ser mig som hot”",
+      "link": "https://www.expressen.se/nyheter/sverige/s-profilen-stroks-spelet-bakom--ser-mig-som-hot/",
+      "description": "Med sex dagar kvar till valet ströks socialdemokraten Tamam Abou Hamidan, 38, från riksdagslistan i Blekinge. &nbsp; Här är hennes egen berättelse om maktkampen bakom. – Det är allvarligt att man offrar mig, säger hon till Expressen.&nbsp;",
+      "pubDate": "2026-09-07T18:19:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Politikbyrån sänder live – häng med i chatten",
       "link": "https://www.svt.se/nyheter/inrikes/politikbyran-sander-live-hang-med-i-chatten",
@@ -200,68 +261,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Vem är Elisabeth Thand Ringqvist?",
-      "link": "https://www.svt.se/nyheter/inrikes/vem-ar-elisabeth-thand-ringqvist-7k0vbf",
-      "description": "Från campingägare i Jämtland till maktens korridorer Som valets färskaste partiledare försöker hon få till en regering i mitten – något som är lättare sagt än gjort.",
-      "pubDate": "2026-09-07T14:06:55Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Åkesson om Gellerbrants ”time out”: ”Det rimliga att göra”",
-      "link": "https://www.svt.se/nyheter/inrikes/akesson-om-gellerbrants-time-out-det-rimliga-att-gora",
-      "description": "En SD-tjänsteman, sambo med partitoppen Gustav Gellerbrant, har spridit rysk propaganda, enligt Expo. De båda är nu på föräldraledighet. – Det här ger ju oss en möjlighet att på riktigt titta på det här, säger partiledaren Jimmie Åkesson.",
-      "pubDate": "2026-09-07T13:50:23Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Dadgostar om V-granskningen: ”Har plockat bort dem”",
-      "link": "https://www.svt.se/nyheter/inrikes/dadgostar-om-v-granskningen-har-plockat-bort-dem",
-      "description": "Expressens avslöjande om att lokala V-politiker visat stöd för Hamas och spridit antisemitiska konspirationsteorier väcker kritik inom oppositionen. Thand Ringqvist (C) menar att Nooshi Dadgostar (V) har tappat kontrollen över partiet. – Vi har ju plockat bort de här personerna, de är inte längre med, svarar V-ledaren.",
-      "pubDate": "2026-09-07T13:22:34Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "SD efter felräknade rösterna: ”Extremt olyckligt”",
-      "link": "https://www.expressen.se/nyheter/politik/sd-efter-felraknade-rosterna-extremt-olyckligt/",
-      "description": "Haveriet i förtidsröstningen ledde till ett extrainsatt krismöte mellan valmyndigheten och riksdagspartierna.&nbsp; – Felet är extremt olyckligt, säger Mattias Bäckström Johansson (SD).",
-      "pubDate": "2026-09-07T13:02:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kristerssons krav på Andersson – efter V-avslöjandet",
-      "link": "https://www.expressen.se/nyheter/politik/kristerssons-krav-pa-andersson--efter-v-avslojandet/",
-      "description": "Vänsterpartiet har strukit ytterligare åtta kandidater som spridit antisemitisk propaganda. Statsminister Ulf Kristersson (M) reagerar skarpt på Expressens avslöjande – och kräver svar av Socialdemokraterna. – Vänsterpartiet har en lång resa att göra, och just nu går de åt fel håll, säger Magdalena Andersson (S).",
-      "pubDate": "2026-09-07T12:56:02Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
