@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:18:38.885952Z",
+  "updated_at": "2026-09-07T01:08:37.833592Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Högernationalistiska AFD stora vinnaren i tyska delstatsvalet",
+      "link": "https://www.sverigesradio.se/artikel/9293424",
+      "description": "Efter gårdagens delstatsval i Sachsen-Anhalt kan ytterhögerpartiet Alternativ för Tyskland (AFD) för första gången få chansen att regera i en tysk delstat. Det vänsterpopulistiska partiet BSW lyckades komma in i delstatsparlamentet, vilket skulle kunna öppna vägen för AFD:s väg till makten i delstaten. Detta då BSW:s anhängare de senaste dagarna antytt att de möjligen skulle kunna stötta AFD. Kristdemokratiska CDU gjorde ett mycket dåligt delstatsval, då deras väljarstöd halverades från föregående val.",
+      "pubDate": "2026-09-07T00:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
     {
       "title": "Wallenberg varnar för vänsterseger: ”Djupt oroad”",
       "link": "https://www.dn.se/ekonomi/wallenberg-varnar-for-vansterseger-djupt-oroad/",
@@ -240,22 +252,19 @@
         "S",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Anderssons känga: Ett halmstrå för honom",
-      "link": "https://www.expressen.se/nyheter/politik/anderssons-kanga-ett-halmstra-for-honom/",
-      "description": "Socialdemokraterna tappar i opinionen och Magdalena Andersson har bara sju dagar på sig att övertyga väljarna. I veckan väntar en rad debatter – mot Ulf Kristersson (M). – Problemet med honom är inte att han är en dålig debattör, det är att han är dålig på att regera, säger S-ledaren.",
-      "pubDate": "2026-09-06T15:46:18Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Kan Tidöpartierna ta hem riksdagsvalet?",
+      "link": "https://www.dagensarena.se/innehall/kan-tidopartierna-ta-hem-riksdagsvalet/",
+      "description": "Vi frågade Torbjörn Sjöström, vd på Novus. Inlägget Kan Tidöpartierna ta hem riksdagsvalet? dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-06T23:30:42Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "”Det ska bli roligt att byta regering”",
       "link": "https://www.dagensarena.se/innehall/det-ska-bli-roligt-att-byta-regering/",
@@ -340,19 +349,6 @@
       ]
     },
     {
-      "title": "LO: ”Ingen höjd pension om Ulf Kristersson får fortsätta att vara statsminister”",
-      "link": "https://www.dagensarena.se/innehall/lo-ingen-hojd-pension-om-ulf-kristersson-far-fortsatta-att-vara-statsminister/",
-      "description": "LO drar igång kampanj för att få pensionsfrågan högre upp på dagordningen. Inlägget LO: ”Ingen höjd pension om Ulf Kristersson får fortsätta att vara statsminister” dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-04T06:42:46Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Sopade under mattan",
       "link": "https://ledarsidorna.se/sopade-under-mattan/",
       "description": "I praktiken samtliga svenska riksdagspartier, med något undantag, har haft positiva och mer eller mindre långtgående relationer med radikal politisk islam på något sätt. Med samma motivbild. Moderaterna är ett parti som inte på något sätt är förskonade. I det partiet tog sig en medlem av det Muslimska brödraskapet ända fram till riksdagens försvarsutskott. Fyra [&#8230;]",
@@ -422,6 +418,18 @@
       "sourceType": "blog",
       "topics": [
         "S"
+      ]
+    },
+    {
+      "title": "BREV 483 – Rösta på svennehoran.",
+      "link": "https://jensganman.substack.com/p/brev-483-rosta-pa-svennehoran",
+      "description": "Kvartoft serverade Liberalerna 4% p&#229; ett silverfat / De Iran-v&#228;nliga tj&#228;nstem&#228;nnen m&#229;ste bort / S utopiska midsommardr&#246;m / Ebba f&#246;rsa sig i SVT / Bolunds osynliga monokel&#246;ga M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "L"
       ]
     }
   ],
