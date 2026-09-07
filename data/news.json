@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T06:14:26.323943Z",
+  "updated_at": "2026-09-07T12:49:10.980298Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,20 +79,47 @@
   ],
   "news": [
     {
-      "title": "Beskedet: Max 500 förtidsröster har registrerats felaktigt",
-      "link": "https://www.sverigesradio.se/artikel/9293447",
-      "description": "Nu kommer Valmyndigheten med nytt besked om de förtidsröster som registrerats felaktigt. Max 500 förtidsröster har registrerats felaktigt enligt mynidgheten. Den tidigare uppskattningen från förra veckan var 4000. Valmyndigheten har sedan tidigare kallat riksdagspartiernas partisekreterare till möte i dag för att informera om de felaktiga förtidsrösterna.",
-      "pubDate": "2026-09-07T05:17:00Z",
+      "title": "Efter röststrul – S kräver tydligare besked från Valmyndigheten",
+      "link": "https://www.sverigesradio.se/artikel/9293809",
+      "description": "Valmyndigheten har haft möte med partiernas partisekreterare för att redovisa vad som gått fel med ett antal förtidsröster. Men partiföreträdarna kommer att bjudas in till ytterligare ett möte inom kort. ”Jag väntar på tydligare besked – exakt hur många individer rör det sig om, i vilka vallolaker det kan ha blivit fel, och mellan vilka tidpunkter”, säger Socialdemokraternas partisekreterare Tobias Baudin.",
+      "pubDate": "2026-09-07T12:29:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "S"
+      ]
     },
     {
-      "title": "Max Hjelm: Det Gunnar Strömmer sa i migrationsdebatten är helt enkelt inte sant",
-      "link": "https://www.dn.se/ledare/max-hjelm-det-gunnar-strommer-sa-i-migrationsdebatten-ar-helt-enkelt-inte-sant/",
-      "description": "I Agendas migrationsdebatt ville inte regeringen prata om den utvisningspolitik som deras sida går till val på. På söndag står dagens migration kombinerat med integration mot massiva utvisningar och ingen integration.",
-      "pubDate": "2026-09-07T05:05:02Z",
+      "title": "Åkesson lovar skärpa migrationspolitiken ytterligare",
+      "link": "https://www.dn.se/sverige/akesson-lovar-skarpa-migrationspolitiken-ytterligare/",
+      "description": "En stor folksamling mötte Jimmie Åkesson när han på måndagen presenterade SD:s valmanifest på Stora torget i Nyköping. Bland punkterna finns ett ”migrationslöfte” och Åkesson lovar att ytterligare skärpa migrationspolitiken. – Det är en viktig fråga för en stor del av väljarna, säger han till DN.",
+      "pubDate": "2026-09-07T12:23:24Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Busch och Dadgostar i ordbråk: ”Stötande”",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/busch-och-dadgostar-i-ordbrak-stotande/",
+      "description": "Nooshi Dadgostar (V) och Ebba Busch (KD) möttes för duell i Expressens studio. Då hettade det till direkt. – Du har inget hjärta, röt Dadgostar. – Kan du inte bara svara på frågan? kontrade Busch.",
+      "pubDate": "2026-09-07T11:05:13Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD"
+      ]
+    },
+    {
+      "title": "SD-källor om Gellerbrant: Inga signaler från Säpo om säkerhetshot",
+      "link": "https://www.dn.se/sverige/sd-kallor-om-gellerbrant-inga-signaler-fran-sapo-om-sakerhetshot/",
+      "description": "SD-toppen Gustav Gellerbrants sambo pekas ut för att ha spridit pro-rysk propaganda under flera år. Enligt flera centrala SD-källor får partiet lugnande signaler från Säpo. Nu riktar SD kritik mot Moderaternas krishantering. – Vi tycker att de har hanterat det här uselt, säger en SD-källa.",
+      "pubDate": "2026-09-07T11:04:48Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -101,10 +128,128 @@
       ]
     },
     {
-      "title": "L över riksdagsspärren i ny Novusmätning",
-      "link": "https://www.sverigesradio.se/artikel/9293441",
-      "description": "Liberalerna ökar kraftigt och når över riksdagsspärren i Novus senaste mätning för TV4 Nyheterna. Liberalerna får 4,3 procent i Novus väljarbarometer och det är första gången sedan oktober 2022 som partiet når över 4 procent-spärren. Gapet mellan oppositionen och Tidöpartierna minskar därmed ytterligare något.",
-      "pubDate": "2026-09-07T05:03:00Z",
+      "title": "Plagget får Busch och Dadgostar att ryka ihop",
+      "link": "https://www.expressen.se/tv/politik/dadgostar-och-busch-ryker-ihop-om-plagget",
+      "description": "Hätska duellen i Expressens debatt",
+      "pubDate": "2026-09-07T10:56:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD"
+      ]
+    },
+    {
+      "title": "V-kandidater stryks efter antisemitiska inlägg",
+      "link": "https://www.sverigesradio.se/artikel/9293690",
+      "description": "Ytterligare åtta V-kandidater stryks från valsedlarna efter uppgifter om hyllningar av Iran och Hamas samt antisemitiska konspirationsteorier i sociala medier. Tidigare i år strök Vänsterpartiet 25 kandidater efter liknande avslöjanden. Partisekreteraren Maria Forsberg skriver till Ekot att antisemitism och konspirationsteorier inte har någon plats i partiet. Samtidigt väcker uppgifterna frågor om partiets kontroll av kandidaterna, efter tidigare besked från Nooshi Dadgostar om trygga listor.",
+      "pubDate": "2026-09-07T10:37:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Dadgostar om nya avslöjandet: ”De är borta”",
+      "link": "https://www.expressen.se/nyheter/politik/dadgostar-om-nya-avslojandet-de-ar-borta/",
+      "description": "Åtta V-kandidater hyllar Putin och Hamas och spred antisemitiska konspirationsteorier. Nooshi Dadgostar säger att personerna inte kan företräda partiet.&nbsp; – De är borta och var inte heller på valbar plats på listan, säger hon.",
+      "pubDate": "2026-09-07T10:20:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "JUST NU: ”De är borta”",
+      "link": "https://www.expressen.se/nyheter/politik/dadgostar-om-nya-avslojandet-de-ar-borta/",
+      "description": "Dadgostar svarar: ”Inte på valbar plats”",
+      "pubDate": "2026-09-07T09:46:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "”Stödrösta inte på L”",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=0a72c16d-64bb-426c-8529-04341675f93b",
+      "description": "Åkessons uppmaning till Sverigedemokrater",
+      "pubDate": "2026-09-07T09:38:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Mohamsson är ”liberalpartist” – men inte liberal",
+      "link": "https://www.dn.se/insandare/svar-mohamsson-ar-liberalpartist-men-inte-liberal/",
+      "description": "SVAR PÅ INSÄNDARE. De riktiga liberalerna hittar man på ”rätt” sida om den blåbruna linjen i det här valet. Låt därför slutsiffran för Liberalerna på söndag bli högst 3,9 procent, skriver Håkan Norén.",
+      "pubDate": "2026-09-07T09:12:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Partiledarna drabbar samman i ”Viktor möter”",
+      "link": "https://www.expressen.se/nyheter/politik/partiledarna-drabbar-samman-i-viktor-moter/",
+      "description": "Ebba Busch (KD) och Nooshi Dadgostar (V) drabbar samman i ”Viktor möter” Följ debatten här.",
+      "pubDate": "2026-09-07T09:04:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD"
+      ]
+    },
+    {
+      "title": "Insändare. Redovisa kostnaderna för bristande integration",
+      "link": "https://www.dn.se/insandare/redovisa-kostnaderna-for-bristande-integration/",
+      "description": "INSÄNDARE. Sverige bör följa det danska exemplet med årlig redovisning av skattebetalarnas kostnader för invandring. Inför valet bör regeringen redovisa vad den bristande integrationen av hundratusentals invandrare kostar, skriver Malmöbon Thomas Ekvall.",
+      "pubDate": "2026-09-07T08:56:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "S-toppens kritik mot V: ”Oroväckande”",
+      "link": "https://www.expressen.se/nyheter/sverige/s-toppens-kritik-mot-v-orovackande/",
+      "description": "Oppositionen reagerar starkt på avslöjandet om de strukna V-kandidaterna.&nbsp; Socialdemokraternas partisekreterare Tobias Baudin ser allvarligt på uppgifterna.&nbsp; – Det partiet står ju mycket långt ifrån att sitta i en regering, så är det, säger han.",
+      "pubDate": "2026-09-07T08:38:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Experter: Kraftigt höjda bränslepriser väntar – oavsett regering",
+      "link": "https://www.dn.se/sverige/experter-kraftigt-hojda-branslepriser-vantar-oavsett-regering/",
+      "description": "Priset på bensin och diesel kommer att höjas kraftigt under nästa mandatperiod, oavsett vilka som vinner valet. Det menar flera experter som DN pratat med. – Att Sverige har nästan lägst bensinpriser i EU är inte hållbart, säger regeringens klimatutredare Svante Mandell.",
+      "pubDate": "2026-09-07T08:26:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Fredrik Furtenbach: Därför visar opinionsmätningarna olika",
+      "link": "https://www.sverigesradio.se/artikel/9293564",
+      "description": "Valet närmar sig och opinionsmätningarna duggar tätt. På måndagen släpptes en mätning från Novus gjord för TV4 Nyheterna och i den hamnar Liberalerna över riksdagsspärren på 4 procent. Det är betydligt högre stöd än tidigare mätningar visat. Ekots inrikespolitiska kommentator Fredrik Furtenbach förklarar varför mätningar kan visa så olika, och hur metoderna skiljer sig åt.",
+      "pubDate": "2026-09-07T08:22:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
@@ -112,150 +257,21 @@
         "L",
         "Opinion"
       ]
-    },
-    {
-      "title": "Åtta namn stryks från V:s listor – kopplas till antisemitism",
-      "link": "https://www.sverigesradio.se/artikel/9293440",
-      "description": "Under helgen har ytterligare åtta personer som står på Vänsterpartiets listor inför valet strukits, rapporterar Expressen. Det är kandidater som hyllar Putin och Hamas och sprider antisemitiska konspirationsteorier, och de ströks sedan Expressen ställt frågor om dem. Totalt 25 personer har nu strukits från Vänsterpartiets listor efter att ha uttryckt stöd för terror, homofobi eller antisemitism, förnekat Förintelsen eller hyllat diktatorer.",
-      "pubDate": "2026-09-07T05:03:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Här sprider V-kandidater judehat på nätet – igen",
-      "link": "https://www.expressen.se/nyheter/politik/har-sprider-v-kandidater-judehat-pa-natet-igen/",
-      "description": "Vänsterpartiets ledare Nooshi Dadgostar har sagt att hon känner sig trygg med de kandidater som finns kvar på partiets vallistor.&nbsp; Expressen kan nu avslöja ytterligare åtta V-kandidater som hyllar Putin och Hamas och sprider antisemitiska konspirationsteorier, bland annat om att judar offrar den vita rasens barn. Alla åtta ströks från Vänsterpartiets listor under helgen efter att Expressen ställt frågor om dem. – De här personerna har gett uttryck för olika typer av konspirationsteorier och gjort olämpliga inlägg i sociala medier. De är därför inte längre kandidater för vårt parti, säger Vänsterpartiets partisekreterare Maria Forsberg.",
-      "pubDate": "2026-09-07T04:27:49Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Liberalerna hotar lägga ned jobbåtgärd",
-      "link": "https://www.sverigesradio.se/artikel/9292560",
-      "description": "Arbetsmarknadsminister Johan Britz från Liberalerna sätter press på fack och arbetsgivare om de så kallade etableringsjobben som ska få in nyanlända och långtidsarbetslösa på arbetsmarknaden. Det har blivit få jobb och parterna behöver nu släppa in bemanningsföretag, annars måste etableringsjobben läggas ned, tycker Johan Britz. LO avvisar ministerns krav och betonar att etableringsjobben är en modell som handlar om att man ska lära sig jobbet på jobbet och då kan man inte vara uthyrd.",
-      "pubDate": "2026-09-07T04:10:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Liberalerna över riksdagsspärren i ny mätning",
-      "link": "https://www.expressen.se/nyheter/politik/liberalerna-over-riksdagssparren-i-ny-matning/",
-      "description": "Liberalerna är över spärren – för första gången sedan 2022. Partiet får 4,3 procent i Novus/TV4:s senaste mätning. – Jag känner medvind, säger Simona Mohamsson.&nbsp;",
-      "pubDate": "2026-09-07T04:08:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Över spärren",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=dbe285ca-0223-4cba-b97e-490686fadddf",
-      "description": "Novus: Liberalerna klarar sig",
-      "pubDate": "2026-09-07T03:54:56Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Ledare: Moderaterna ljuger om mängdrabatten – och tar en stor risk",
-      "link": "https://www.dn.se/ledare/moderaterna-ljuger-om-mangdrabatten-och-tar-en-stor-risk/",
-      "description": "Moderaterna hävdar att Socialdemokraterna ville ha kvar mängdrabatten för grova brottslingar. Det stämmer inte.",
-      "pubDate": "2026-09-07T03:10:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Högernationalistiska AFD stora vinnaren i tyska delstatsvalet",
-      "link": "https://www.sverigesradio.se/artikel/9293424",
-      "description": "Efter gårdagens delstatsval i Sachsen-Anhalt kan ytterhögerpartiet Alternativ för Tyskland (AFD) för första gången få chansen att regera i en tysk delstat. Det vänsterpopulistiska partiet BSW lyckades komma in i delstatsparlamentet, vilket skulle kunna öppna för AFD:s väg till makten i delstaten. Detta då BSW:s anhängare de senaste dagarna antytt att de möjligen skulle kunna stötta AFD. Kristdemokratiska CDU gjorde ett mycket dåligt delstatsval, då deras väljarstöd halverades från föregående val.",
-      "pubDate": "2026-09-07T00:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Vill ”rena nationen” – kan ta bakväg in i riksdagen",
-      "link": "https://www.dn.se/podd/spotlight/vill-rena-nationen-kan-ta-bakvag-in-i-riksdagen/",
-      "description": "Han var för vänsterextrem för Vänsterpartiet. Nu vill han sparka ut hundratusentals invandrare. Örebropartiets ledare Markus Allard har blivit känd för sina virala utbrott. Bland svenska politiker är han idag en av de största på Tiktok. Efter framgångar i lokalpolitiken i Örebro, ställer han nu upp på riksnivå den 13 september. Han är långt ifrån 4-procentsspärren – men på grund av en ganska okänd regel, skulle han kunna ta sig in i riksdagen genom en sorts bakväg. Programledare: Elinor Ahlborn.",
-      "pubDate": "2026-09-06T23:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Wallenberg varnar för vänsterseger: ”Djupt oroad”",
-      "link": "https://www.dn.se/ekonomi/wallenberg-varnar-for-vansterseger-djupt-oroad/",
-      "description": "Svenskt Näringslivs ordförande Jacob Wallenberg varnar för att det svenska företagandet kan skadas om vänsteroppositionen vinner valet. – Jag är djupt oroad, säger han till Financial Times.",
-      "pubDate": "2026-09-06T21:41:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Hettade till i debatten om försörjningskravet: ”Omänskligt”",
-      "link": "https://www.sverigesradio.se/artikel/9293412",
-      "description": "Det hettade till i SVT:s Agenda på söndagskvällen, när riksdagspartierna debatterad det höjda försörjningskravet för familjeåtervandring. Invandrare som vill ta partner och två barn till Sverige måste från nästa år ha en månadslön före skatt på drygt 52 000 kronor för hushållet. Det är en klar höjning från tidigare regler. Miljöpartiet kallar reglerna ”fullständigt omänskligt”. Regeringen anser det rimligt att invandrare måste kunna försörja sin familj.",
-      "pubDate": "2026-09-06T21:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Expert: Finns risk för stor  konflikt i en Tidöregering",
-      "link": "https://www.expressen.se/nyheter/politik/expert-finns-risk-for-stor--konflikt-i-en-tidoregering/",
-      "description": "Om Tidöpartierna vinner valet kan det bli en intern konflikt om de permanenta uppehållstillstånden. Det menar SVT:s Mats Knutson. – Det är en fråga som inte har diskuteras särskilt mycket i valrörelsen, säger han i Agenda. &nbsp;",
-      "pubDate": "2026-09-06T20:55:53Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Strömmers strul i SVT –  glasögonen immade igen",
-      "link": "https://www.expressen.se/nyheter/politik/strommers-strul-i-svt-glasogonen-immade-igen/",
-      "description": "Mitt under brinnande migrationsdebatt gick det hett till. Så hett att ministerns glasögon immade igen. – När jag kom ut från studion visade min pressekreterare mig en bild där jag såg ut som Karl-Bertil Jonsson när han luktat på glöggen, säger Gunnar Strömmer (M).",
-      "pubDate": "2026-09-06T20:40:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Miljardärsskatt drabbar ingen fattig",
+      "link": "https://blog.zaramis.se/2026/09/07/miljardarsskatt-drabbar-ingen-fattig/",
+      "description": "Är du trött på att lönen känns mindre och mindre medan priset på mat, hyra och el bara ökar? Vill du också att unga ska kunna få jobb och hitta en bostad så att de kan bygga sin framtid? Tycker du att sjukvården ska vara till för patienterna, inte för vårdföretagens vinster? Då står Vänsterpartiet på samma sida, Läs mer … Inlägget Miljardärsskatt drabbar ingen fattig dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-07T08:25:32Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Vitboken som saknades",
       "link": "https://ledarsidorna.se/vitboken-som-saknades/",
@@ -425,6 +441,20 @@
   ],
   "podcasts": [
     {
+      "title": "308. Busch vs Dadgostar – vice statsministerduellen",
+      "link": "https://pod.space/politikrummet/308-busch-vs-dadgostar-vice-statsministerduellen",
+      "description": "Med sex dagar till valet möttes vice statsminister Ebba Busch (KD) och Vänsterpartiets ledare Nooshi Dadgostar för en duell i Expressens studio. Det blev ett hett samtal om burkaförbud, feminism, marknadshyror och priset på falukorv – bland annat. Moderator: Viktor Barth-Kron.",
+      "pubDate": "2026-09-07T11:25:00Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Veckopanelen: Självklart är det här alldeles usla siffror",
       "link": "https://pod.space/kvartal/veckopanelen-sjalvklart-ar-det-har-alldeles-usla-siffror",
       "description": "Veckopanelen med Kajsa Dovstad, Håkan Juholt och Thomas Gür under ledning av Staffan Dopping. Serien med opinionsmätningar där Liberalerna går upp och Socialdemokraterna går ner höjer spänningen när valrörelsen går in på sista veckan. Tidöpartierna knappar in på de rödgröna och Magdalena Andersson varnar för ett Sverige där tolv SD-ministrar tar kontroll över regeringsmakten. Blev Aktuellt lurat av Mohamsson och Åkesson som kramades i tv på bästa sändningstid? Örebropartiets Markus Allard tror sig ha chans på riksdagsplats. Det ryska sabotageförsöket vid en flygplats i Tyskland diskuteras, liksom Sveriges köp av fyra franska fregatter. Vidare om jobbcoacher som hjälper långtidsarbetslösa att fuska och lura Arbetsförmedlingen.&nbsp;",
@@ -592,18 +622,6 @@
       "pubDate": "2026-08-27T12:58:42Z",
       "source": "Politikrummet",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Socialdemokraternas tapp gör blockstriden jämnare",
-      "link": "https://pod.space/kvartal/kvartal-idag-socialdemokraternas-tapp-gor-blockstriden-jamnare",
-      "description": "De osäkra är nyckeln, enligt statsvetare. Oväntat stöd för misstänkt barnamördare. Sjukvårdare attackeras i Kongo. Och därför märks knappt viktigaste valfrågan. Programledare: Cassandra Alm.&nbsp;",
-      "pubDate": "2026-08-26T13:56:16Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": [
         "S"
