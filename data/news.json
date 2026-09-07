@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:03:12.079867Z",
+  "updated_at": "2026-09-07T23:36:51.791691Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -265,6 +265,18 @@
   ],
   "blogs": [
     {
+      "title": "Hur Ibn Rushd byggdes in i folkbildningen med hjälp av Kristdemokraterna",
+      "link": "https://ledarsidorna.se/hur-ibn-rushd-byggdes-in-i-folkbildningen-med-hjalp-av-kristdemokraterna/",
+      "description": "Kristdemokraterna var det parti som, om än via ombud, kom att bli en av Muslimska brödraskapets viktigaste partners. Med stöd av partiets associerade studieförbund Sensus och tillgång till den kristna miljön bereddes vägen i samförstånd för att studieförbundet Ibn Rushd kunde upptas i den exklusiva skara av fullvärdiga medlemmar som utgör Folkbildningsrådet. Och därmed öppna [&#8230;]",
+      "pubDate": "2026-09-07T22:04:00Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
       "title": "Sverigedemokraternas rysskontakter utsätter oss alla för fara",
       "link": "https://www.dagensarena.se/opinion/sverigedemokraternas-rysskontakter-utsatter-oss-alla-fara/",
       "description": "I förra veckan avslöjade Expo att en SD-tjänsteperson i riksdagen vid upprepade tillfällen haft olämpliga kontakter med ryska intressen. SD-tjänstemannen... Inlägget Sverigedemokraternas rysskontakter utsätter oss alla för fara dök först upp på Dagens Arena .",
@@ -427,18 +439,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "Miljöpartiet och Palestinarörelsen: Fridolin, Göteborg och ISM 2000-2006",
-      "link": "https://ledarsidorna.se/miljopartiet-och-palestinarorelsen-fridolin-goteborg-och-ism-2000-2006/",
-      "description": "I del 2 i serien av artiklar om Miljöpartiet, utlandsbiståndet och Palestinarörelsen täcks perioden då Gustav Fridolin blir Grön Ungdoms språkrör, grips på Västbanken samt Mehmet Kaplan gör entré i partiet. Perioden visar tre parallella spår som förenas i tid men inte nödvändigtvis passar formellt in i organisationen. Men rörelsen är obeveklig. Partiet rör sig [&#8230;]",
-      "pubDate": "2026-08-31T20:48:11Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
     }
   ],
   "podcasts": [
