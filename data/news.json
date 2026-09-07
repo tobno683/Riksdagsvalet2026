@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T01:08:37.833592Z",
+  "updated_at": "2026-09-07T06:14:26.323943Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,135 @@
   ],
   "news": [
     {
+      "title": "Beskedet: Max 500 förtidsröster har registrerats felaktigt",
+      "link": "https://www.sverigesradio.se/artikel/9293447",
+      "description": "Nu kommer Valmyndigheten med nytt besked om de förtidsröster som registrerats felaktigt. Max 500 förtidsröster har registrerats felaktigt enligt mynidgheten. Den tidigare uppskattningen från förra veckan var 4000. Valmyndigheten har sedan tidigare kallat riksdagspartiernas partisekreterare till möte i dag för att informera om de felaktiga förtidsrösterna.",
+      "pubDate": "2026-09-07T05:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Max Hjelm: Det Gunnar Strömmer sa i migrationsdebatten är helt enkelt inte sant",
+      "link": "https://www.dn.se/ledare/max-hjelm-det-gunnar-strommer-sa-i-migrationsdebatten-ar-helt-enkelt-inte-sant/",
+      "description": "I Agendas migrationsdebatt ville inte regeringen prata om den utvisningspolitik som deras sida går till val på. På söndag står dagens migration kombinerat med integration mot massiva utvisningar och ingen integration.",
+      "pubDate": "2026-09-07T05:05:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "L över riksdagsspärren i ny Novusmätning",
+      "link": "https://www.sverigesradio.se/artikel/9293441",
+      "description": "Liberalerna ökar kraftigt och når över riksdagsspärren i Novus senaste mätning för TV4 Nyheterna. Liberalerna får 4,3 procent i Novus väljarbarometer och det är första gången sedan oktober 2022 som partiet når över 4 procent-spärren. Gapet mellan oppositionen och Tidöpartierna minskar därmed ytterligare något.",
+      "pubDate": "2026-09-07T05:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Åtta namn stryks från V:s listor – kopplas till antisemitism",
+      "link": "https://www.sverigesradio.se/artikel/9293440",
+      "description": "Under helgen har ytterligare åtta personer som står på Vänsterpartiets listor inför valet strukits, rapporterar Expressen. Det är kandidater som hyllar Putin och Hamas och sprider antisemitiska konspirationsteorier, och de ströks sedan Expressen ställt frågor om dem. Totalt 25 personer har nu strukits från Vänsterpartiets listor efter att ha uttryckt stöd för terror, homofobi eller antisemitism, förnekat Förintelsen eller hyllat diktatorer.",
+      "pubDate": "2026-09-07T05:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Här sprider V-kandidater judehat på nätet – igen",
+      "link": "https://www.expressen.se/nyheter/politik/har-sprider-v-kandidater-judehat-pa-natet-igen/",
+      "description": "Vänsterpartiets ledare Nooshi Dadgostar har sagt att hon känner sig trygg med de kandidater som finns kvar på partiets vallistor.&nbsp; Expressen kan nu avslöja ytterligare åtta V-kandidater som hyllar Putin och Hamas och sprider antisemitiska konspirationsteorier, bland annat om att judar offrar den vita rasens barn. Alla åtta ströks från Vänsterpartiets listor under helgen efter att Expressen ställt frågor om dem. – De här personerna har gett uttryck för olika typer av konspirationsteorier och gjort olämpliga inlägg i sociala medier. De är därför inte längre kandidater för vårt parti, säger Vänsterpartiets partisekreterare Maria Forsberg.",
+      "pubDate": "2026-09-07T04:27:49Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Liberalerna hotar lägga ned jobbåtgärd",
+      "link": "https://www.sverigesradio.se/artikel/9292560",
+      "description": "Arbetsmarknadsminister Johan Britz från Liberalerna sätter press på fack och arbetsgivare om de så kallade etableringsjobben som ska få in nyanlända och långtidsarbetslösa på arbetsmarknaden. Det har blivit få jobb och parterna behöver nu släppa in bemanningsföretag, annars måste etableringsjobben läggas ned, tycker Johan Britz. LO avvisar ministerns krav och betonar att etableringsjobben är en modell som handlar om att man ska lära sig jobbet på jobbet och då kan man inte vara uthyrd.",
+      "pubDate": "2026-09-07T04:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Liberalerna över riksdagsspärren i ny mätning",
+      "link": "https://www.expressen.se/nyheter/politik/liberalerna-over-riksdagssparren-i-ny-matning/",
+      "description": "Liberalerna är över spärren – för första gången sedan 2022. Partiet får 4,3 procent i Novus/TV4:s senaste mätning. – Jag känner medvind, säger Simona Mohamsson.&nbsp;",
+      "pubDate": "2026-09-07T04:08:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Över spärren",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=dbe285ca-0223-4cba-b97e-490686fadddf",
+      "description": "Novus: Liberalerna klarar sig",
+      "pubDate": "2026-09-07T03:54:56Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Ledare: Moderaterna ljuger om mängdrabatten – och tar en stor risk",
+      "link": "https://www.dn.se/ledare/moderaterna-ljuger-om-mangdrabatten-och-tar-en-stor-risk/",
+      "description": "Moderaterna hävdar att Socialdemokraterna ville ha kvar mängdrabatten för grova brottslingar. Det stämmer inte.",
+      "pubDate": "2026-09-07T03:10:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "Högernationalistiska AFD stora vinnaren i tyska delstatsvalet",
       "link": "https://www.sverigesradio.se/artikel/9293424",
-      "description": "Efter gårdagens delstatsval i Sachsen-Anhalt kan ytterhögerpartiet Alternativ för Tyskland (AFD) för första gången få chansen att regera i en tysk delstat. Det vänsterpopulistiska partiet BSW lyckades komma in i delstatsparlamentet, vilket skulle kunna öppna vägen för AFD:s väg till makten i delstaten. Detta då BSW:s anhängare de senaste dagarna antytt att de möjligen skulle kunna stötta AFD. Kristdemokratiska CDU gjorde ett mycket dåligt delstatsval, då deras väljarstöd halverades från föregående val.",
+      "description": "Efter gårdagens delstatsval i Sachsen-Anhalt kan ytterhögerpartiet Alternativ för Tyskland (AFD) för första gången få chansen att regera i en tysk delstat. Det vänsterpopulistiska partiet BSW lyckades komma in i delstatsparlamentet, vilket skulle kunna öppna för AFD:s väg till makten i delstaten. Detta då BSW:s anhängare de senaste dagarna antytt att de möjligen skulle kunna stötta AFD. Kristdemokratiska CDU gjorde ett mycket dåligt delstatsval, då deras väljarstöd halverades från föregående val.",
       "pubDate": "2026-09-07T00:47:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "KD"
+      ]
+    },
+    {
+      "title": "Vill ”rena nationen” – kan ta bakväg in i riksdagen",
+      "link": "https://www.dn.se/podd/spotlight/vill-rena-nationen-kan-ta-bakvag-in-i-riksdagen/",
+      "description": "Han var för vänsterextrem för Vänsterpartiet. Nu vill han sparka ut hundratusentals invandrare. Örebropartiets ledare Markus Allard har blivit känd för sina virala utbrott. Bland svenska politiker är han idag en av de största på Tiktok. Efter framgångar i lokalpolitiken i Örebro, ställer han nu upp på riksnivå den 13 september. Han är långt ifrån 4-procentsspärren – men på grund av en ganska okänd regel, skulle han kunna ta sig in i riksdagen genom en sorts bakväg. Programledare: Elinor Ahlborn.",
+      "pubDate": "2026-09-06T23:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
       ]
     },
     {
@@ -133,128 +253,22 @@
       "topics": [
         "M"
       ]
-    },
-    {
-      "title": "Strömmers glasögon har immat igen",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=05c75c46-21ac-4edd-a803-8f5c4693ba5c",
-      "description": "Hettar till så att glasögonen immar igen",
-      "pubDate": "2026-09-06T20:03:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "”Lind försöker tona ner betydelsen av skattehöjningarna”",
-      "link": "https://www.svt.se/nyheter/inrikes/lind-forsoker-tona-ner-betydelsen-av-skattehojningarna",
-      "description": "Miljöpartiets språkrör Amanda Lind försöker tona ner betydelsen av Miljöpartiets skattehöjningar. Men hon verkar fast besluten att driva igenom en så kallad miljardärsskatt trots att S-ledaren Magdalena Andersson avfärdat den som ”fantasisummor” och industrimannen Jacob Wallenberg varnat för konsekvenserna för det svenska näringslivet.",
-      "pubDate": "2026-09-06T19:31:35Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "MP"
-      ]
-    },
-    {
-      "title": "Näringslivet tar strid om karensen – varnar för höga kostnader",
-      "link": "https://www.dn.se/ekonomi/naringslivet-tar-strid-om-karensen-varnar-for-hoga-kostnader/",
-      "description": "Svenskt Näringsliv gör karensavdraget till en av sina största strider inför valet och varnar för kostnader på upp till 42 miljarder kronor. S angriper kalkylen och menar att organisationen driver en kampanj i arbetsgivarnas intresse. Oenigheten handlar framför allt om hur mycket sjukfrånvaron ökar om avdraget slopas.",
-      "pubDate": "2026-09-06T19:18:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Beskedet från Amanda Lind (MP): Bensinen höjs med sex kronor",
-      "link": "https://www.svt.se/nyheter/inrikes/beskedet-fran-amanda-lind-mp-bensinen-hojs-med-sex-kronor",
-      "description": "Sex kronor litern. Så mycket dyrare beräknar Miljöpartiet att bensinpriserna kommer att bli. Förutom att subventionerna för fossilbränsle kommer att försvinna vill MP höja priserna ytterligare. – Det här är något som alla partier duckar för i dag, säger språkröret Amanda Lind (M) i SVT:s Utfrågning .",
-      "pubDate": "2026-09-06T19:04:06Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Chock och självkritik på CDU:s valvaka: ”Tyskarna är aldrig nöjda”",
-      "link": "https://www.dn.se/varlden/chock-och-sjalvkritik-pa-cdus-valvaka-tyskarna-ar-aldrig-nojda/",
-      "description": "MAGDEBURG. Efter att AFD:s storseger hade kungjorts var det rena begravningsstämningen på CDU:s valvaka i Magdeburg. De tyska kristdemokraterna är chockade, häpna – och självkritiska.",
-      "pubDate": "2026-09-06T19:02:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Martin Liby Troein: Det kvittar om Jimmie Åkessons plan var att lyfta eller sänka Liberalerna",
-      "link": "https://www.dn.se/ledare/martin-liby-troein-det-kvittar-om-jimmie-akessons-plan-var-att-lyfta-eller-sanka-liberalerna/",
-      "description": "Tänkte Jimmie Åkesson lyfta eller sänka Liberalerna med sitt ultimatum? Det är svårt att säga, och spelar egentligen mindre roll. Mest av allt var det en maktdemonstration.",
-      "pubDate": "2026-09-06T18:04:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "DN Debatt. ”Gå inte på Tidös trick – vi har råd att hjälpa vanligt folk”",
-      "link": "https://www.dn.se/debatt/ga-inte-pa-tidos-trick-vi-har-rad-att-hjalpa-vanligt-folk/",
-      "description": "DN DEBATT. Under sina år vid makten har Tidöregeringen ständigt gynnat de som redan tjänar mest. Samtidigt tvingas vanligt folk gå sjuka till jobbet, avstå tandvård och oroa sig för pensionen. De säger att Sverige inte har råd att lätta folks bördor – men det är helt enkelt inte sant, skriver Linda Palmetzhofer och Elinor Odeberg från Handelsanställdas förbund.",
-      "pubDate": "2026-09-06T18:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "S får kritik för kommunal restaurang: ”Handlar inte om att konkurrera”",
-      "link": "https://www.dn.se/sverige/s-far-kritik-for-kommunal-restaurang-handlar-inte-om-att-konkurrera/",
-      "description": "Socialdemokraterna vill öppna fler lokala tillagningskök i kommunal regi i Stockholm. Ett kök som planeras stå klart nästa år ska också få en kommunal restaurang, vilket har väckt stark kritik från högern. – Det här handlar inte om att kommunen ska driva en restaurang som konkurrerar med andra i området, säger Emilia Bjuggren, S förstanamn i staden.",
-      "pubDate": "2026-09-06T17:46:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Högernationalistiska ADF nära egen majoritet i tyska delstatsvalet",
-      "link": "https://www.sverigesradio.se/artikel/9293373",
-      "description": "Idag är det val i den tyska delstaten Sachsen-Anhalt. Det högernationalistiska partiet Alternativ för Tyskland, AFD, går enligt vallokalundersökningar mot en storseger. ”Om de blir så, är det historiskt. Det är första gången AFD får regera i en tysk delstat”, säger Sveriges Radios Tysklandskorrespondent Katarina von Arndt på plats i Magdeburg.",
-      "pubDate": "2026-09-06T16:19:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Magdalena Andersson svarar Jacob Wallenberg",
-      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-svarar-jacob-wallenberg/",
-      "description": "Magdalena Andersson tycker att finansprofilen Jacob Wallenberg bekymrar sig helt i onödan. –&nbsp;Med mig som statsminister är det ordning och reda i ekonomin och bra villkor för svenskt företagande. I stället är det en regering med SD som borde oroa, anser Andersson.",
-      "pubDate": "2026-09-06T16:15:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Vitboken som saknades",
+      "link": "https://ledarsidorna.se/vitboken-som-saknades/",
+      "description": "Muslimska brödraskapets etablering i svensk politik brukar tillskrivas samarbetet med Socialdemokraterna. Men detta är en delvis missvisande beskrivning. Centerpartiets partiprojekt i syfte att engagera muslimer startades långt tidigare och vars samhällseffekter fortfarande är märkbara och omfattande in i våra dagar på alla politiska nivåer. I oktober 2009 blev Mahmoud Aldebe medlem i Centerpartiet och deltog [&#8230;]",
+      "pubDate": "2026-09-07T01:27:23Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
     {
       "title": "Kan Tidöpartierna ta hem riksdagsvalet?",
       "link": "https://www.dagensarena.se/innehall/kan-tidopartierna-ta-hem-riksdagsvalet/",
@@ -406,30 +420,6 @@
         "S",
         "V",
         "MP"
-      ]
-    },
-    {
-      "title": "En relation höjd över all kritisk granskning",
-      "link": "https://ledarsidorna.se/en-relation-hojd-over-all-kritik/",
-      "description": "Relationerna mellan främst Socialdemokraterna och Fatah med sitt vidhängande kluster av terrororienterade organisationer har överlevt några av de mest omvälvande händelserna under efterkrigstiden, bland annat Sovjetunionens upplösning. En relation som visat sig vara så pass stark att den inte ens kunnat eller tillåtits att granskas eller kritiseras. Relationen mellan främst Socialdemokraterna och det palestinska politiska [&#8230;]",
-      "pubDate": "2026-08-28T03:21:00Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 483 – Rösta på svennehoran.",
-      "link": "https://jensganman.substack.com/p/brev-483-rosta-pa-svennehoran",
-      "description": "Kvartoft serverade Liberalerna 4% p&#229; ett silverfat / De Iran-v&#228;nliga tj&#228;nstem&#228;nnen m&#229;ste bort / S utopiska midsommardr&#246;m / Ebba f&#246;rsa sig i SVT / Bolunds osynliga monokel&#246;ga M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "L"
       ]
     }
   ],
