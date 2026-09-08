@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T01:41:57.939395Z",
+  "updated_at": "2026-09-08T06:39:02.166355Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,90 @@
   ],
   "news": [
     {
+      "title": "V bjöd in terrorhyllande politik till riksdagen",
+      "link": "https://www.expressen.se/nyheter/sverige/v-bjod-in-terrorhyllande-politik-till-riksdagen/",
+      "description": "Vänsterpartiet har bjudit in palestinska politiker som hyllat terrorism och spritt antisemitism, visar en granskning från GP .&nbsp; På mötet fanns partiledare Nooshi Dadgostar och partisekreterare Maria Forsberg.&nbsp; ”Vi träffar ofta personer [...] utan att dela alla värderingar eller åsikter med dessa och utan att i detalj utreda deras bakgrund ”, skriver Forsberg i en kommentar.&nbsp;",
+      "pubDate": "2026-09-08T06:25:42Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Robert Weil: Mina kollegors allians med högernationalismen är skamlig",
+      "link": "https://www.dn.se/kultur/robert-weil-mina-kollegors-allians-med-hogernationalismen-ar-skamlig/",
+      "description": "Tongivande företagsledare varnar för Socialdemokraterna och Centerpartiet, men blundar för det verkliga hotet mot svensk tillväxt. Att näringslivet gör gemensam sak med högernationalismen är både kortsiktigt och farligt för demokratin, skriver finansmannen Robert Weil.",
+      "pubDate": "2026-09-08T06:17:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Uttryckte hat mot judar och hyllade terrorism – bjöds in av V till riksdagen",
+      "link": "https://www.svt.se/nyheter/inrikes/uttryckte-hat-mot-judar-och-hyllade-terrorism-bjods-in-av-v-till-riksdagen",
+      "description": "Vänsterpartiet bjöd in två palestinska politiker från Fatahs revolutionära råd som tidigare uttryckt hat mot judar och hyllat terrorism till riksdagen, enligt en granskning som Göteborgs-Posten har gjort. Med på mötet fanns partiledaren Nooshi Dadgostar.",
+      "pubDate": "2026-09-08T05:40:41Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kritik mot att klimatanpassning dröjer: ”Dyrare att vänta”",
+      "link": "https://www.sverigesradio.se/artikel/9292176",
+      "description": "Efter regnkaoset i Västernorrland för ett år sedan efterlyser länsstyrelsen förebyggande insatser för att klara nästa extremväder. Regeringen har ännu inte klubbat de centrala förslagen i sin klimatanpassningsutredning – bland annat skyddsvallar mot översvämning. Miljöpartiet vill lägga över fyra miljarder kronor extra per år på klimatanpassning, medan Sverigedemokraterna motsätter sig stora satsningar och varnar för kostnaderna.",
+      "pubDate": "2026-09-08T04:55:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "MP"
+      ]
+    },
+    {
+      "title": "Fakta i frågan: Har svenskarna blivit rikare eller fattigare under mandatperioden?",
+      "link": "https://www.dn.se/sverige/fakta-i-fragan-har-svenskarna-blivit-rikare-eller-fattigare-under-mandatperioden/",
+      "description": "Mer eller mindre pengar i plånboken? Regeringen och oppositionen ger helt olika bilder av svenskarnas vardagsekonomi. Vem har egentligen rätt? DN:s Kristoffer Örstadius fortsätter att undersöka viktiga samhällsfrågor i Fakta i frågan.",
+      "pubDate": "2026-09-08T03:53:55Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Fouad Youcefi: Här är kommunen som kan avslöja Centerns valresultat",
+      "link": "https://www.svt.se/nyheter/inrikes/fouad-youcefi-har-ar-kommunen-som-kan-avsloja-centerns-valresultat",
+      "description": "Centerpartiet var förra valets stora förlorare – de backade i samtliga kommuner i hela Sverige. Men på valnatten kan partiet få glädjebesked, och det finns en plats som Fouad Youcefi håller extra koll på för att se om det sker.",
+      "pubDate": "2026-09-08T03:40:06Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "”Liberalerna leker med mitt psyke”",
+      "link": "https://www.dn.se/podd/armstrong-sokolnicki/liberalerna-leker-med-mitt-psyke/",
+      "description": "Med en vecka kvar till valet undrar Amanda Sokolnicki om det finns något liberalt kvar med Liberalerna. Kirsty Armstrong har en oväntad lösning på hoten mot rikets säkerhet.",
+      "pubDate": "2026-09-08T00:00:55Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
       "title": "S-konto la ut bild på gangsterrappare på Tiktok",
       "link": "https://www.expressen.se/nyheter/sverige/s-konto-la-ut-bild-pa-gangsterrappare-pa-tiktok/",
       "description": "Här poserar gangsterrapparna Dree Low och Adel – på en bild Socialdemokraterna i Stockholm har använt i ett Tiktok-inlägg. Efter frågor från TV4 är inlägget borttaget. ”Ingenting vi står bakom”, skriver kommunsekreteraren Andrea Törnestam till kanalen.",
@@ -152,57 +236,6 @@
       ]
     },
     {
-      "title": "Liberalerna närmar sig spärren i ny mätning",
-      "link": "https://www.sverigesradio.se/artikel/9294119",
-      "description": "Liberalerna närmar sig riksdagsspärren, enligt en ny mätning från DN/Ipsos, där partiet får 3,5 procent av rösterna. Enligt mätningen fortsätter Socialdemokraterna att tappa stöd och är nu nere på 27,1 procent. Oppositionen har dock fortsatt ett övertag med 52,7 procent mot 44,9 procent för Tidöpartierna.",
-      "pubDate": "2026-09-07T17:14:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
-      "title": "Baudin: Vänsterpartiet allt längre ifrån att sitta i S-regering",
-      "link": "https://www.sverigesradio.se/artikel/9294093",
-      "description": "Åtta kandidater från Vänsterpartiet har spridit antisemitiska konspirationsteorier, och hyllat bland annat Putin och Hamas på sociala medier. Vänsterpartiets vice partiledare Ida Gabrielsson säger att man inte har något att göra i Vänsterpartiet om man delar antisemitiska konspirationsteorier. Socialdemokraterna säger nu att Vänsterpartiet tar ytterligare steg ifrån att sitta i en framtida regering.",
-      "pubDate": "2026-09-07T16:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "L-toppar vill inte ge staten huvudmannaskapet föra vården",
-      "link": "https://www.sverigesradio.se/artikel/9288050",
-      "description": "Liberalernas toppkandidater i regionvalen gör tummen ned för att låta staten ta över huvudmannaskapet för vården, vilket partiledaren Simona Mohamsson öppnat för om partiet skulle få igenom sitt önskemål om en statlig skola. I Ekots enkät svarar 17 av 20 svarande Liberaler nej på frågan om staten bör ta över huvudmannaskapet för vården. ”Man kan inte byta det ena mot det andra”, säger Gunnar Nordmark (L) i Kronoberg.",
-      "pubDate": "2026-09-07T16:34:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Liberalerna närmar sig spärren i ny mätning",
-      "link": "https://www.expressen.se/nyheter/sverige/liberalerna-narmar-sig-sparren-i-ny-matning/",
-      "description": "Trenden håller i sig. I ännu en mätning, från DN/Ipsos , gör Liberalerna ett kraftigt lyft – och närmar sig riksdagsspärren. Samtidigt tappar Socialdemokraterna stort, men oppositionen leder fortfarande. Osäker inför valet? Gör Expressens valkompass här !",
-      "pubDate": "2026-09-07T16:21:20Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
       "title": "Ny mätning: Kan Åkesson tappa sin ledartröja?",
       "link": "https://www.dn.se/podd/alskade-politik/ny-matning-kan-akesson-tappa-sin-ledartroja/",
       "description": "SD backar och Liberalerna närmar sig spärren, enligt DN/Ipsos nya mätning. Men vilket parti har gjort bäst valrörelse?",
@@ -226,44 +259,22 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Liberalerna har riksdagsspärren inom räckhåll",
-      "link": "https://www.dn.se/sverige/liberalerna-har-riksdagssparren-inom-rackhall/",
-      "description": "Liberalerna närmar sig riksdagsspärren i DN/Ipsos näst sista mätning före valet. Samtidigt fortsätter Socialdemokraterna att tappa stöd. Ändå är oppositionspartierna alltjämt i klar ledning med sex dagar kvar.",
-      "pubDate": "2026-09-07T16:01:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
-      "title": "SD vill ha EU:s lägsta bränslepriser: ”Stort till ytan”",
-      "link": "https://www.sverigesradio.se/artikel/9294078",
-      "description": "Sverigedemokraterna går till val på att Sverige ska ha de lägsta bränslepriserna vid pump i hela EU. Även migrationen ska vara EU:s lägsta. När partiet presenterade sitt valmanifest i Nyköping på måndagen fanns ytterligare förslag, som att dra in försörjningsstödet för invandrare som inte vill lära sig svenska. Bränslepriserna kommer enligt valmanifestet ha högsta prioritet för SD i alla budgetförhandlingar framöver.",
-      "pubDate": "2026-09-07T15:58:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Joyce Thomas utvisas efter 22 år i Sverige – oppositionen lovar att brexitbritterna ska få stanna",
-      "link": "https://www.dn.se/sverige/joyce-thomas-utvisas-efter-22-ar-i-sverige-oppositionen-lovar-att-brexitbritterna-ska-fa-stanna/",
-      "description": "Vinner oppositionen valet kommer partierna att verka för att brexitdrabbade britter får stanna i Sverige. – När vi inom kort har regeringsmakten behöver vi snabbt rätta till ett antal allvarliga brister som leder till orimliga utvisningar. Det här är en sådan, säger Annika Hirvonen (MP).",
-      "pubDate": "2026-09-07T14:19:55Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "Att välja tåget ska inte vara en lyx",
+      "link": "https://blog.zaramis.se/2026/09/08/att-valja-taget-ska-inte-vara-en-lyx/",
+      "description": "Tåg är det klimatvänligaste alternativet när det gäller transporter. Därför måste det satsas ordentligt på tågtrafik. Både när det gäller persontransporter och när det gäller gods. Regeringen har gjort det motsatta. Subventionerat flyget och dragit bort investeringar och finansiering av järnvägen. De bedriver en direkt klimat- och människofientlig politik på transport och trafikområdet. För den som vill ha en bra politik finns det framförallt två partier att välja på. Dels Vänsterpartiet som jag anser är bäst och dels Miljöpartiet. Läs mer … Inlägget Att välja tåget ska inte vara en lyx dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-08T06:10:06Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V",
+        "MP"
+      ]
+    },
     {
       "title": "Hur Ibn Rushd byggdes in i folkbildningen med hjälp av Kristdemokraterna",
       "link": "https://ledarsidorna.se/hur-ibn-rushd-byggdes-in-i-folkbildningen-med-hjalp-av-kristdemokraterna/",
@@ -274,18 +285,6 @@
       "sourceType": "blog",
       "topics": [
         "KD"
-      ]
-    },
-    {
-      "title": "Sverigedemokraternas rysskontakter utsätter oss alla för fara",
-      "link": "https://www.dagensarena.se/opinion/sverigedemokraternas-rysskontakter-utsatter-oss-alla-fara/",
-      "description": "I förra veckan avslöjade Expo att en SD-tjänsteperson i riksdagen vid upprepade tillfällen haft olämpliga kontakter med ryska intressen. SD-tjänstemannen... Inlägget Sverigedemokraternas rysskontakter utsätter oss alla för fara dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-07T14:11:14Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
       ]
     },
     {
@@ -311,28 +310,6 @@
       "topics": [
         "S",
         "C"
-      ]
-    },
-    {
-      "title": "Kan Tidöpartierna ta hem riksdagsvalet?",
-      "link": "https://www.dagensarena.se/innehall/kan-tidopartierna-ta-hem-riksdagsvalet/",
-      "description": "Vi frågade Torbjörn Sjöström, vd på Novus. Inlägget Kan Tidöpartierna ta hem riksdagsvalet? dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-06T23:30:42Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
-    },
-    {
-      "title": "”Det ska bli roligt att byta regering”",
-      "link": "https://www.dagensarena.se/innehall/det-ska-bli-roligt-att-byta-regering/",
-      "description": "Miljöpartiet hoppas på sitt bästa valresultat. Inlägget ”Det ska bli roligt att byta regering” dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-06T16:33:31Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
       ]
     },
     {
@@ -370,18 +347,6 @@
       ]
     },
     {
-      "title": "Partiet som satsar på folket i förorterna",
-      "link": "https://blog.zaramis.se/2026/09/05/partiet-som-satsar-pa-folket-i-fororterna/",
-      "description": "När andra partier pratar om förorten som ett problem, ser Vänsterpartiet människorna som bor där. Människor som går till jobbet, tar hand om våra äldre, arbetar i vården, kollektivtrafiken och skolan. Men samtidigt ser vi hur växande klyftor, bostadsbrist och arbetslöshet slår hårt mot många av Sveriges förorter. Läs mer … Inlägget Partiet som satsar på folket i förorterna dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-05T05:51:27Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Vad ville Centern ha ut av muslimerna?",
       "link": "https://ledarsidorna.se/vad-ville-centern-ha-ut-av-muslimerna/",
       "description": "Fem år innan Socialdemokraternas sidoorganisation Broderskapsrörelsen började diskutera hur många muslimer som borde finnas på socialdemokratiska listor hade ett annat riksdagsparti redan genomfört ett omfattande samarbetsprojekt med muslimska organisationer. Centerpartiet. I en process där företrädare för samma muslimska kluster som Socialdemokraterna senare inledde dialog med. Allt finansierat med skattemedel. Mellan 1990 och 1994 drev Centern [&#8230;]",
@@ -392,18 +357,6 @@
       "topics": [
         "S",
         "C"
-      ]
-    },
-    {
-      "title": "Slående tysk parallell till Sverigedemokraterna",
-      "link": "https://www.dagensarena.se/opinion/slaende-tysk-parallell-till-sverigedemokraterna/",
-      "description": "Skillnaden mellan SD och tyska AfD är en grad- snarare än artskillnad. Inlägget Slående tysk parallell till Sverigedemokraterna dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-04T23:58:19Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
       ]
     },
     {
@@ -439,6 +392,32 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
+    },
+    {
+      "title": "Miljöpartiet och Palestinarörelsen: Fridolin, Göteborg och ISM 2000-2006",
+      "link": "https://ledarsidorna.se/miljopartiet-och-palestinarorelsen-fridolin-goteborg-och-ism-2000-2006/",
+      "description": "I del 2 i serien av artiklar om Miljöpartiet, utlandsbiståndet och Palestinarörelsen täcks perioden då Gustav Fridolin blir Grön Ungdoms språkrör, grips på Västbanken samt Mehmet Kaplan gör entré i partiet. Perioden visar tre parallella spår som förenas i tid men inte nödvändigtvis passar formellt in i organisationen. Men rörelsen är obeveklig. Partiet rör sig [&#8230;]",
+      "pubDate": "2026-08-31T20:48:11Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Miljöpartiets apologetiska inställning till politiskt våld inbyggt i partikulturen",
+      "link": "https://ledarsidorna.se/miljopartiets-apologetiska-installning-till-politiskt-vald-inbyggt-i-partikulturen/",
+      "description": "Miljöpartiets relation till Palestina-rörelsen och vilket inflytande partiet har både skiljer sig från och visar upp stora likheter med både Socialdemokraterna och Vänsterpartiet. Men med en viktig skillnad. Några av partiets främsta företrädare har aldrig hymlat med sin bakgrund och sina sympatier med den våldsbejakande yttervänstern. Något som även kommit att få genomslag i partiets [&#8230;]",
+      "pubDate": "2026-08-31T03:30:03Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "V",
+        "MP"
+      ]
     }
   ],
   "podcasts": [
