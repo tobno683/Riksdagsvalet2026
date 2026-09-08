@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T21:30:20.235634Z",
+  "updated_at": "2026-09-08T23:32:54.976517Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,20 @@
   ],
   "news": [
     {
+      "title": "Magdalena Andersson: SD infiltrerat av Putinvänner",
+      "link": "https://www.sverigesradio.se/artikel/9294955",
+      "description": "Socialdemokraternas partiledare Magdalena Andersson anklagar Sverigedemokraterna för att vara infiltrerade av rysslandsvänliga personer. Det sa hon i SVT när hon mötte SD-ledaren Jimmie Åkesson i en duell. ”Det här är otroligt allvarligt att det nått hela vägen upp till statsministerns kansli”, säger S-ledaren.",
+      "pubDate": "2026-09-08T21:28:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Åkesson: ”Har ägnat hela valrörelsen åt att hata mig”",
       "link": "https://www.svt.se/nyheter/inrikes/akesson-har-agnat-hela-valrorelsen-at-att-hata-mig",
       "description": "Magdalena Andersson kritiserar SD efter att det blivit känt att en av partiets tjänstemän spridit proryska budskap. Men SD-ledaren Jimmie Åkesson slår tillbaka i Aktuellts debatt. – Magdalena Andersson har ägnat hela den här valrörelsen åt att hata mig och mitt parti, säger han.",
@@ -105,7 +119,7 @@
       ]
     },
     {
-      "title": "S anklagar SD för Putininfiltration: ”Inga ryssvänner i mitt parti”",
+      "title": "S-ledarens attack: SD är infiltrerat av Putinvänner",
       "link": "https://www.dn.se/sverige/s-anklagar-sd-for-putininfiltration-inga-ryssvanner-i-mitt-parti/",
       "description": "Magdalena Andersson (S) anklagar, i en debatt i SVT:s Aktuellt, SD för att ha infiltrerats av Putinvänner. – Det här är otroligt allvarligt att det nått hela vägen till statsministerns kansli, säger Andersson. Jimmie Åkesson säger att det inte finns något utrymme för Putinvänner i SD.",
       "pubDate": "2026-09-08T20:13:28Z",
@@ -258,22 +272,29 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "DN Debatt. ”Därför är Magdalena Andersson olämplig som statsminister”",
-      "link": "https://www.dn.se/debatt/darfor-ar-magdalena-andersson-olamplig-som-statsminister/",
-      "description": "DN DEBATT Magdalena Andersson (S) vill framstå som Sveriges trygga val och målar ut Tidöpartierna som rena demokratihot. Det är inte bara ett cyniskt sätt att vinna makt, det är ett direkt ansvarslöst sätt att ropa varg och förgifta det offentliga samtalet. Gå inte på hennes bluff, skriver Adam Danieli, idéchef på marknadsliberala tankesmedjan Timbro.",
-      "pubDate": "2026-09-08T18:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Vem står upp för freden i riksdagsvalet?",
+      "link": "https://www.dagensarena.se/opinion/vem-star-upp-freden-riksdagsvalet/",
+      "description": "Nato-medlemskap och DCA-avtal - men vilket parti står för fred? Inlägget Vem står upp för freden i riksdagsvalet? dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-08T23:30:48Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
+    {
+      "title": "Stora skillnader i hur olika bostadsområden röstar i Stockholm",
+      "link": "https://www.dagensarena.se/innehall/stora-skillnader-hur-olika-bostadsomraden-rostar-stockholm/",
+      "description": "Dagens Arena åkte ut till rödgröna Aspudden och det mer borgerliga Mälarhöjden. Inlägget Stora skillnader i hur olika bostadsområden röstar i Stockholm dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-08T23:30:32Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Intressant rapport om lokala journalisters arbetsvillkor",
       "link": "https://blog.zaramis.se/2026/09/08/intressant-rapport-om-lokala-journalisters-arbetsvillkor/",
@@ -367,18 +388,6 @@
       "topics": []
     },
     {
-      "title": "”Det ska bli roligt att byta regering”",
-      "link": "https://www.dagensarena.se/innehall/det-ska-bli-roligt-att-byta-regering/",
-      "description": "Miljöpartiet hoppas på sitt bästa valresultat. Inlägget ”Det ska bli roligt att byta regering” dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-06T16:33:31Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "Unga i Sverige röstar vänster",
       "link": "https://blog.zaramis.se/2026/09/06/unga-i-sverige-rostar-vanster/",
       "description": "Enligt en undersökning som SVT låtit Verian göra är ungdomarna i Sverige klart och tydligt vänster. Starkast är stödet för oppositionen bland unga kvinnor. 74,2 procent av dem uppger i augusti att de skulle rösta på något av oppositionspartierna, medan 25,6 procent uppger att de skulle rösta på Tidöpartierna. Läs mer … Inlägget Unga i Sverige röstar vänster dök först upp på Svenssons Nyheter .",
@@ -423,18 +432,6 @@
       "topics": [
         "S",
         "C"
-      ]
-    },
-    {
-      "title": "Slående tysk parallell till Sverigedemokraterna",
-      "link": "https://www.dagensarena.se/opinion/slaende-tysk-parallell-till-sverigedemokraterna/",
-      "description": "Skillnaden mellan SD och tyska AfD är en grad- snarare än artskillnad. Inlägget Slående tysk parallell till Sverigedemokraterna dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-04T23:58:19Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
       ]
     },
     {
