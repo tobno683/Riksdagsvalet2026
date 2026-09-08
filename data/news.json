@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T06:39:02.166355Z",
+  "updated_at": "2026-09-08T11:49:49.862037Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,117 @@
   ],
   "news": [
     {
+      "title": "V: Avslöjandet om Fatah-inbjudan ett ”lågvattenmärke”",
+      "link": "https://www.dn.se/sverige/v-avslojandet-om-fatah-inbjudan-ett-lagvattenmarke/",
+      "description": "Vänsterpartiet tycker inte att det gjordes något fel i samband med att Fatahmedlemmar bjöds in till ett möte. – Vi ville höra om deras bild av konflikten på Västbanken, säger Vänsterpartiets Ida Gabrielsson om att två personer som ska ha hyllat martyrskap och terrorism bjudits in till riksdagen.",
+      "pubDate": "2026-09-08T11:45:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "”Skärmpandemi” förklaring till Pisa-resultat enligt Mohamsson",
+      "link": "https://www.sverigesradio.se/artikel/9294525",
+      "description": "Utbildningsminister Simona Mohamsson (L) förklarar det stora tappet i Pisa-mätningen med att barn tittar alldeles för mycket på skärmar, en såkallad ”skärmpandemi” enligt henne. ”Det enda sättet vi kan vända det är ju att ha en vaccinkur, som fokuserar på att barn inte har skärmar i låg och mellstadiet, att man ökar läsningen och att man har riktiga böcker” säger hon. Resultatet i läsförståelse och matematik är det sämsta för svensk del sedan Pisa-mätningen började.",
+      "pubDate": "2026-09-08T11:40:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "V lovar högre pensioner för de som arbetat",
+      "link": "https://www.sverigesradio.se/artikel/9294521",
+      "description": "Vänsterpartiet presenterade idag sitt valmanifest och nytt är löften om höjda pensioner för de som jobbat. ”Det är dags nu”, säger Ida Gabrielsson, Vänsterpartiets ekonomisk-politiska talesperson. Vänsterpartiet kräver att pensionsavgiften höjs till det som ursprungligen var planerat men ej genomförts, till 18,5 procent, och att det införs en ”gas” i systemet som kan ge högre pension när ekonomin går upp.",
+      "pubDate": "2026-09-08T11:34:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Liberalerna: Vi lever i en skärmpandemi",
+      "link": "https://www.dn.se/sverige/skarmarna-pekas-ut-efter-svenska-pisaraset/",
+      "description": "Liberalernas partiledare Simona Mohamsson vill göra skärmanvändningen i skolan till en politisk stridsfråga inför valet.",
+      "pubDate": "2026-09-08T11:17:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Busch: Inte givet med SD-ministrar",
+      "link": "https://www.expressen.se/nyheter/politik/busch-inte-givet-med-sd-ministrar/",
+      "description": "Det är inte självklart med SD-ministrar om Tidöpartierna vinner valet. Det menar nu KD-ledaren Ebba Busch – och går emot sina samarbetspartier M och SD.",
+      "pubDate": "2026-09-08T11:00:46Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Andersson (S) om Pisaresultatet: ”Nationellt nödläge”",
+      "link": "https://www.svt.se/nyheter/inrikes/andersson-s-om-pisaresultatet-nationellt-nodlage",
+      "description": "Sveriges rekordlåga resultat i senaste Pisaundersökningen beror främst på ökad skärmanvändning, enligt utbildnings- och integrationsminister Simona Mohamsson (L). Oppositionen pekar i stället på regeringens politik. – De har svikit svensk skola och svenska elever, säger Magdalena Andersson.",
+      "pubDate": "2026-09-08T10:24:33Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L"
+      ]
+    },
+    {
+      "title": "Insändare. Mer logiskt att återinföra fastighetsskatten",
+      "link": "https://www.dn.se/insandare/mer-logiskt-att-aterinfora-fastighetsskatten/",
+      "description": "INSÄNDARE. Kristdemokraternas tal om att nu även avskaffa det partiet kallar ”flyttskatten” saknar logik. Om man nu vill öka rörligheten på bostadsmarknaden vore det mer logiskt att återinföra fastighetsskatten, skriver Kent Sahlin.",
+      "pubDate": "2026-09-08T08:53:52Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Mohamsson: Befinner oss i skärmpandemi",
+      "link": "https://www.expressen.se/nyheter/sverige/mohamsson-kommenterar-pisa-resultat/",
+      "description": "Sveriges elever är historiskt dåliga i matematik, läsförståelse och naturvetenskap, enligt nya Pisa-undersökningen. Skolminister och L-ledaren Simona Mohamsson skyller på skärmarna.&nbsp; ”Simona har fel”, svarar SD:s Jimmie Åkesson.&nbsp;",
+      "pubDate": "2026-09-08T08:34:26Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "Strömmer: Stoppa olämpliga ministrar",
+      "link": "https://www.expressen.se/nyheter/politik/strommer-stoppa-olampliga-ministrar/",
+      "description": "Moderaterna vill att olämpliga personer stoppas från ministerposter.&nbsp; Det efter avslöjanden om Vänsterpartiets kandidater och SD-tjänstemannen.&nbsp; – När Expressen i går avslöjade att V strukit ytterligare åtta personer blev jag inte bara beklämd utan också faktiskt rädd, säger utrikesminister Maria Malmer Stenergard (M).",
+      "pubDate": "2026-09-08T06:42:11Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
+      ]
+    },
+    {
       "title": "V bjöd in terrorhyllande politik till riksdagen",
       "link": "https://www.expressen.se/nyheter/sverige/v-bjod-in-terrorhyllande-politik-till-riksdagen/",
       "description": "Vänsterpartiet har bjudit in palestinska politiker som hyllat terrorism och spritt antisemitism, visar en granskning från GP .&nbsp; På mötet fanns partiledare Nooshi Dadgostar och partisekreterare Maria Forsberg.&nbsp; ”Vi träffar ofta personer [...] utan att dela alla värderingar eller åsikter med dessa och utan att i detalj utreda deras bakgrund ”, skriver Forsberg i en kommentar.&nbsp;",
@@ -149,119 +260,19 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "”Liberalerna leker med mitt psyke”",
-      "link": "https://www.dn.se/podd/armstrong-sokolnicki/liberalerna-leker-med-mitt-psyke/",
-      "description": "Med en vecka kvar till valet undrar Amanda Sokolnicki om det finns något liberalt kvar med Liberalerna. Kirsty Armstrong har en oväntad lösning på hoten mot rikets säkerhet.",
-      "pubDate": "2026-09-08T00:00:55Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "S-konto la ut bild på gangsterrappare på Tiktok",
-      "link": "https://www.expressen.se/nyheter/sverige/s-konto-la-ut-bild-pa-gangsterrappare-pa-tiktok/",
-      "description": "Här poserar gangsterrapparna Dree Low och Adel – på en bild Socialdemokraterna i Stockholm har använt i ett Tiktok-inlägg. Efter frågor från TV4 är inlägget borttaget. ”Ingenting vi står bakom”, skriver kommunsekreteraren Andrea Törnestam till kanalen.",
-      "pubDate": "2026-09-07T20:54:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "SD-toppens sambo sökte jobb på flera departement",
-      "link": "https://www.dn.se/sverige/sd-toppens-sambo-sokte-jobb-pa-flera-departement/",
-      "description": "SD-toppen Gustav Gellerbrants sambo sökte fyra jobb på Regeringskansliet innan hon blev anställd hos Sverigedemokraterna, rapporterar TV4:s Kalla Fakta.",
-      "pubDate": "2026-09-07T20:46:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "7 september: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/7-september-missa-inte-dagens-nyheter/",
-      "description": "Liberalerna närmar sig riksdagsspärren, Gängkriminalitet vid idrottsplatser i var femte kommun och nya larmtestet nådde inte alla – här är dagens nyheter.",
-      "pubDate": "2026-09-07T18:58:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "”Sverige behöver ett maktskifte – men också ett systemskifte”",
-      "link": "https://www.dn.se/kultur/sverige-behover-ett-maktskifte-men-ocksa-ett-systemskifte/",
-      "description": "Om Magdalena Andersson blir statsminister måste hon våga göra upp med ett samhälle där pengar och vinst har fått styra på bekostnad av jämlikhet, kunskap och gemensam välfärd. Det skriver professorerna Sven-Eric Liedman och Mikael Stigendal.",
-      "pubDate": "2026-09-07T18:23:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S-profilen ströks  – spelet bakom:  ”Ser mig som hot”",
-      "link": "https://www.expressen.se/nyheter/sverige/s-profilen-stroks-spelet-bakom--ser-mig-som-hot/",
-      "description": "Med sex dagar kvar till valet ströks socialdemokraten Tamam Abou Hamidan, 38, från riksdagslistan i Blekinge. &nbsp; Här är hennes egen berättelse om maktkampen bakom. – Det är allvarligt att man offrar mig, säger hon till Expressen.&nbsp;",
-      "pubDate": "2026-09-07T18:19:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Politikbyrån sänder live – häng med i chatten",
-      "link": "https://www.svt.se/nyheter/inrikes/politikbyran-sander-live-hang-med-i-chatten",
-      "description": "Hur låter det inom Socialdemokraterna efter opinionsraset? Annika Strandhäll (S), den före detta S-riksdagsledamoten Jan Emanuel och Expressens inrikespolitiska kommentator Viktor Barth-Kron gästar kvällens Politikbyrån live.",
-      "pubDate": "2026-09-07T17:57:45Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Ny mätning: Kan Åkesson tappa sin ledartröja?",
-      "link": "https://www.dn.se/podd/alskade-politik/ny-matning-kan-akesson-tappa-sin-ledartroja/",
-      "description": "SD backar och Liberalerna närmar sig spärren, enligt DN/Ipsos nya mätning. Men vilket parti har gjort bäst valrörelse?",
-      "pubDate": "2026-09-07T16:10:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Hur S än vänder sig är ändan bak",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-hur-s-an-vander-sig-ar-andan-bak/",
-      "description": "Om oppositionen förlorar valet beror det på Socialdemokraternas genomklappning. De andra oppositionspartierna ser alla ut att göra succéval. Det gör det svårare för Magdalena Andersson att vifta undan frågor om vilket inflytande hon ska ge till V, C och MP.",
-      "pubDate": "2026-09-07T16:02:01Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Förorterna i Sverige röstar vänster",
+      "link": "https://blog.zaramis.se/2026/09/08/fororterna-i-sverige-rostar-vanster/",
+      "description": "Det visas tydligt i inlägg på Tobias Hübinettes blogg. I årets val tyder dock allt på att valdeltagandet kommer att gå upp rejält bland invånarna med utomeuropeisk bakgrund. Förtidsröstandet har exploderat i i landets miljonprogramsområden vilket är ett tecken på ett rejält ökat valdeltagande jämfört med tidigare. Läs mer … Inlägget Förorterna i Sverige röstar vänster dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-08T08:47:36Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Att välja tåget ska inte vara en lyx",
       "link": "https://blog.zaramis.se/2026/09/08/att-valja-taget-ska-inte-vara-en-lyx/",
@@ -288,6 +299,18 @@
       ]
     },
     {
+      "title": "Sverigedemokraternas rysskontakter utsätter oss alla för fara",
+      "link": "https://www.dagensarena.se/opinion/sverigedemokraternas-rysskontakter-utsatter-oss-alla-fara/",
+      "description": "I förra veckan avslöjade Expo att en SD-tjänsteperson i riksdagen vid upprepade tillfällen haft olämpliga kontakter med ryska intressen. SD-tjänstemannen... Inlägget Sverigedemokraternas rysskontakter utsätter oss alla för fara dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-07T14:11:14Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Miljardärsskatt drabbar ingen fattig",
       "link": "https://blog.zaramis.se/2026/09/07/miljardarsskatt-drabbar-ingen-fattig/",
       "description": "Är du trött på att lönen känns mindre och mindre medan priset på mat, hyra och el bara ökar? Vill du också att unga ska kunna få jobb och hitta en bostad så att de kan bygga sin framtid? Tycker du att sjukvården ska vara till för patienterna, inte för vårdföretagens vinster? Då står Vänsterpartiet på samma sida, Läs mer … Inlägget Miljardärsskatt drabbar ingen fattig dök först upp på Svenssons Nyheter .",
@@ -310,6 +333,28 @@
       "topics": [
         "S",
         "C"
+      ]
+    },
+    {
+      "title": "Kan Tidöpartierna ta hem riksdagsvalet?",
+      "link": "https://www.dagensarena.se/innehall/kan-tidopartierna-ta-hem-riksdagsvalet/",
+      "description": "Vi frågade Torbjörn Sjöström, vd på Novus. Inlägget Kan Tidöpartierna ta hem riksdagsvalet? dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-06T23:30:42Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
+    {
+      "title": "”Det ska bli roligt att byta regering”",
+      "link": "https://www.dagensarena.se/innehall/det-ska-bli-roligt-att-byta-regering/",
+      "description": "Miljöpartiet hoppas på sitt bästa valresultat. Inlägget ”Det ska bli roligt att byta regering” dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-06T16:33:31Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
       ]
     },
     {
@@ -360,6 +405,18 @@
       ]
     },
     {
+      "title": "Slående tysk parallell till Sverigedemokraterna",
+      "link": "https://www.dagensarena.se/opinion/slaende-tysk-parallell-till-sverigedemokraterna/",
+      "description": "Skillnaden mellan SD och tyska AfD är en grad- snarare än artskillnad. Inlägget Slående tysk parallell till Sverigedemokraterna dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-04T23:58:19Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Sopade under mattan",
       "link": "https://ledarsidorna.se/sopade-under-mattan/",
       "description": "I praktiken samtliga svenska riksdagspartier, med något undantag, har haft positiva och mer eller mindre långtgående relationer med radikal politisk islam på något sätt. Med samma motivbild. Moderaterna är ett parti som inte på något sätt är förskonade. I det partiet tog sig en medlem av det Muslimska brödraskapet ända fram till riksdagens försvarsutskott. Fyra [&#8230;]",
@@ -382,45 +439,23 @@
       "topics": [
         "MP"
       ]
-    },
-    {
-      "title": "Kan israeliska teknikföretag påverka det svenska valet?",
-      "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
-      "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
-      "pubDate": "2026-09-01T08:58:35Z",
-      "source": "Parabol",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
-      "sourceType": "blog",
-      "topics": []
-    },
-    {
-      "title": "Miljöpartiet och Palestinarörelsen: Fridolin, Göteborg och ISM 2000-2006",
-      "link": "https://ledarsidorna.se/miljopartiet-och-palestinarorelsen-fridolin-goteborg-och-ism-2000-2006/",
-      "description": "I del 2 i serien av artiklar om Miljöpartiet, utlandsbiståndet och Palestinarörelsen täcks perioden då Gustav Fridolin blir Grön Ungdoms språkrör, grips på Västbanken samt Mehmet Kaplan gör entré i partiet. Perioden visar tre parallella spår som förenas i tid men inte nödvändigtvis passar formellt in i organisationen. Men rörelsen är obeveklig. Partiet rör sig [&#8230;]",
-      "pubDate": "2026-08-31T20:48:11Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Miljöpartiets apologetiska inställning till politiskt våld inbyggt i partikulturen",
-      "link": "https://ledarsidorna.se/miljopartiets-apologetiska-installning-till-politiskt-vald-inbyggt-i-partikulturen/",
-      "description": "Miljöpartiets relation till Palestina-rörelsen och vilket inflytande partiet har både skiljer sig från och visar upp stora likheter med både Socialdemokraterna och Vänsterpartiet. Men med en viktig skillnad. Några av partiets främsta företrädare har aldrig hymlat med sin bakgrund och sina sympatier med den våldsbejakande yttervänstern. Något som även kommit att få genomslag i partiets [&#8230;]",
-      "pubDate": "2026-08-31T03:30:03Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V",
-        "MP"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "309. Busch och skandalerna",
+      "link": "https://pod.space/politikrummet/309-busch-och-skandalerna",
+      "description": "Med fem dagar till valet skakas båda sidor i politiken av skandaler. Hur ska Andersson och Kristersson förhålla sig till V och SD? Och vad har Ebba Busch för sig egentligen? I studion: Filippa Rogvall, Anette Holmqvist och Viktor Barth-Kron.",
+      "pubDate": "2026-09-08T11:21:58Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "KD"
+      ]
+    },
     {
       "title": "Ny mätning: Kan Åkesson tappa sin ledartröja?",
       "link": "https://pod.space/alskadepolitik/ny-matning-kan-akesson-tappa-sina-ledartroja",
@@ -596,20 +631,6 @@
       "sourceType": "podcast",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Inläst: Ni är principlösa hycklare",
-      "link": "https://pod.space/kvartal/inlast-ni-ar-principlosa-hycklare",
-      "description": "När Richard Jomshof kallade Anders Lindberg quisling kom Magdalena Andersson, Svenska PEN och Reportrar utan gränser på att det fanns något som heter principer. Var fanns de principerna när rikspolitiker och ministrar på vänsterkanten anklagade högerskribenter för att hota demokratin och förespråka etnisk rensning? Av Ivar Arpi Inläsare: Staffan Dopping",
-      "pubDate": "2026-08-28T04:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "SD",
-        "MP"
       ]
     }
   ]
