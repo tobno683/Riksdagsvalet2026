@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T18:52:33.798106Z",
+  "updated_at": "2026-09-08T21:30:20.235634Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,165 @@
   ],
   "news": [
     {
+      "title": "Åkesson: ”Har ägnat hela valrörelsen åt att hata mig”",
+      "link": "https://www.svt.se/nyheter/inrikes/akesson-har-agnat-hela-valrorelsen-at-att-hata-mig",
+      "description": "Magdalena Andersson kritiserar SD efter att det blivit känt att en av partiets tjänstemän spridit proryska budskap. Men SD-ledaren Jimmie Åkesson slår tillbaka i Aktuellts debatt. – Magdalena Andersson har ägnat hela den här valrörelsen åt att hata mig och mitt parti, säger han.",
+      "pubDate": "2026-09-08T20:28:27Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Nu är det mitten som leder i valet",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/nu-ar-det-mitten-som-leder-i-valet/",
+      "description": "Elisabeth Thand Ringqvist och Ebba Busch är valrörelsens osannolika radarpar, skriver Viktor Barth-Kron.",
+      "pubDate": "2026-09-08T20:15:18Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "KD"
+      ]
+    },
+    {
+      "title": "S anklagar SD för Putininfiltration: ”Inga ryssvänner i mitt parti”",
+      "link": "https://www.dn.se/sverige/s-anklagar-sd-for-putininfiltration-inga-ryssvanner-i-mitt-parti/",
+      "description": "Magdalena Andersson (S) anklagar, i en debatt i SVT:s Aktuellt, SD för att ha infiltrerats av Putinvänner. – Det här är otroligt allvarligt att det nått hela vägen till statsministerns kansli, säger Andersson. Jimmie Åkesson säger att det inte finns något utrymme för Putinvänner i SD.",
+      "pubDate": "2026-09-08T20:13:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Åkessons bandpolare säljer nazistmusik",
+      "link": "https://www.dn.se/sverige/akessons-bandpolare-saljer-nazistmusik/",
+      "description": "Sångaren Marcus Öhrn frontar dansbandet ”Åkezzonz” och valturnerar med Sverigedemokraterna. Samtidigt säljer han antisemitisk vit makt-musik via sitt skivbolag, rapporterar Dagens ETC. ”Ett enormt hyckleri från ett parti som säger sig ha gjort upp med sitt nazistiska förflutna”, skriver Socialdemokraternas partisekreterare Tobias Baudin till TT.",
+      "pubDate": "2026-09-08T20:01:42Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "C: Hellre extraval än regering med V",
+      "link": "https://www.sverigesradio.se/artikel/9294940",
+      "description": "I SVT:s partiledarutfrågning sa centerledaren Elisabeth Thand Ringqvist att hon hellre går till extraval än bildar regering med Vänsterpartiet, om den rödgröna sidan vinner valet. Hon ser istället en blocköverskridande mittenregering framför sig där Socialdemokraterna, Miljöpartiet och Kristdemokraterna ingår. Samtidigt har KD-ledaren Ebba Busch de senaste dagarna gett beskedet att hennes parti inte kommer att släppa fram Magdalena Andersson som statsminister.",
+      "pubDate": "2026-09-08T19:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "KD",
+        "MP",
+        "Regeringsbildning",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Andersson och Åkesson rök ihop i SVT: ”Papegojtaktik”",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-och-akesson-rok-ihop-i-svt-papegojtaktik/",
+      "description": "Magdalena Andersson (S) och Jimmie Åkesson (SD) drabbade samman under en debatt i kvällens ”Aktuellt” i SVT. Särskilt hett blev det när den dagsaktuella Pisaundersökningen debatterades. &nbsp; Osäker inför valet? Gör Expressens valkompass här !",
+      "pubDate": "2026-09-08T19:44:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist: Hellre nyval än V i regering",
+      "link": "https://www.expressen.se/nyheter/sverige/thand-ringqvist-hellre-nyval-an-v-i-regering/",
+      "description": "Dörren för att ge V-ledaren Nooshi Dadgostar en ministerpost är stängd och låst – slår C-ledaren Elisabeth Thand Ringqvist i SVT:s ”Utfrågningen”.&nbsp; – Vi har ett tydligt nej till Vänsterpartiet, säger hon.&nbsp;",
+      "pubDate": "2026-09-08T19:42:38Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist: Hellre extraval än V i regering",
+      "link": "https://www.svt.se/nyheter/inrikes/thand-ringqvist-hellre-extraval-an-v-i-regering",
+      "description": "Centerpartiet går hellre till extraval än att släppa fram en regering där Vänsterpartiet ingår. – Vi tror att det finns ett mittenalternativ bestående av S, C, KD och MP, säger partiledaren Elisabeth Thand Ringqvist i SVT:s Utfrågningen.",
+      "pubDate": "2026-09-08T19:41:44Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Regeringsfrågan omöjlig ekvation för de rödgröna",
+      "link": "https://www.svt.se/nyheter/inrikes/regeringsfragan-omojlig-ekvation-for-de-rodgrona",
+      "description": "Regeringsfrågan framstår som en omöjlig ekvation på den rödgröna sidan. Elisabeth Thand Ringqvists besked i SVT är oförenligt med V-ledaren Nooshi Dadgostars krav att sitta i en regering.",
+      "pubDate": "2026-09-08T19:39:53Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Så kuppades Tamam Abou  Hamidan bort från S-listan",
+      "link": "https://www.expressen.se/nyheter/sverige/sa-kuppades-tamam-abou--hamidan-bort-fran-s-listan/",
+      "description": "Den populära S-profilen Tamam Abou Hamidan, 38, från Olofström kuppades bort från riksdagslistan med sex dagar kvar till valet.&nbsp; Mötet där beslutet fattades utlystes på eftermiddagen med 40 minuters varsel.&nbsp; – Jag undrade om det var demokratiskt rimligt, säger Christoffer Danielsson (S), kommunalråd, till BLT .&nbsp;",
+      "pubDate": "2026-09-08T19:32:11Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Pisa-raset: ”Man har vägrat att lyssna”",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e1df9d7c-813e-4111-a667-636941c1bbfa",
+      "description": "Andersson och Åkesson drabbar samman i SVT",
+      "pubDate": "2026-09-08T19:26:33Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "\"Inget som helst utrymme för Putinvänner\"",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=5a1b1835-738e-4cae-b030-542a2fd3c480",
+      "description": "Andersson och Åkesson i ”Aktuellt”",
+      "pubDate": "2026-09-08T19:13:29Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
       "title": "Ändringen på SVT:s valvaka – ska förutspå valvinnaren",
       "link": "https://www.expressen.se/nyheter/politik/andringen-pa-svts-valvaka-ska-forutspa-valvinnaren/",
       "description": "En matematiker som förutspådde förra valets Tidöseger när SVT fortfarande pekade mot rödgrön regering, det är SVT:s nya vapen på valsöndagens kväll. – Vi kommer ganska snabbt att se ner på några få tiondelar var vi landar, säger Gustav Karreskog Rehbinder, hjärnan bakom algoritmen.",
@@ -111,156 +270,6 @@
       "topics": [
         "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Strömmer om relationsvåldet, populism, infernot och oron",
-      "link": "https://www.expressen.se/kronikorer/fredrik-sjoshult/strommer-om-relationsvaldet-populism-infernot-och-oron/",
-      "description": "Fyra år som justitieminister för Gunnar Strömmer – och dags att utvärdera. Han började i ett ”inferno” – men vad är han mest stolt över? Har han numera hamnat i populisternas galna tunna? Och vad betyder ett mord i Ånge för hans försök att stoppa mäns våld mot kvinnor? Här kommer svar på allt detta och mer – och en oväntad varning för Växjö.",
-      "pubDate": "2026-09-08T17:46:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Valmyndigheten: Tre orsaker till felregistrerade förtidsröster",
-      "link": "https://www.dn.se/sverige/valmyndigheten-tre-orsaker-till-felregistrerade-fortidsroster/",
-      "description": "Den första uppskattningen var att 4 000 förtidsröster hade registrerats felaktigt. Nu uppger Valmyndigheten att max 500 väljare är berörda. – Vi fortsätter att se om det går att få ner siffran ännu mer, men det är ingenting som jag vågar säga någonting om just nu, säger pressekreteraren Jany Plevnik.",
-      "pubDate": "2026-09-08T17:08:13Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "C och L pressar varandra om ytterkantssamarbeten i Stockholm",
-      "link": "https://www.dn.se/sverige/c-och-l-pressar-varandra-om-ytterkantssamarbeten-i-stockholm/",
-      "description": "Tonen mellan Centerpartiet och Liberalerna i Stockholms stad hårdnar med dagar kvar till valet. C ifrågasätter om L verkligen kommer att hålla SD ute, medan L efterlyser tydlighet från C om ett eventuellt samarbete med V. – Jag tänker inte tillåta mig att snubbla in på hypotetiska frågeställningar, säger Liberalernas Gulan Avci.",
-      "pubDate": "2026-09-08T16:41:54Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "Insändare. Granska Tidö 2.0 i stället för enskilda sakfrågor",
-      "link": "https://www.dn.se/insandare/granska-tido-2-0-i-stallet-for-enskilda-sakfragor/",
-      "description": "INSÄNDARE. En röst på Tidöpartierna är en röst på ett repressivt program som syftar till att radikalt stöpa om svensk demokrati. Väljarna förtjänar bevakning och analys av hur ”Tidö 2.0” kommer att påverka våra demokratiska institutioner och vårt samhälle innan de lägger sin röst, skriver Marcel Mangold.",
-      "pubDate": "2026-09-08T16:22:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Pisamätningen: Historiskt dåligt resultat för svenska elever",
-      "link": "https://www.sverigesradio.se/artikel/9294816",
-      "description": "Utbildningsminister Simona Mohamsson (L) ser användningen av skärmar som en viktig orsak till att svenska elever tappar rekordmycket i matematik och läsförståelse i Pisamätningen och varnar för oppositionens skolpolitik vid ett eventuellt maktskifte. Flera oppositionspartier är kritiska till att regeringen inte genomfört förändringar när det gäller friskolornas vinster och finansiering och Centerpartiet anser att det behövs fler behöriga lärare. Sverigedemokraternas partiledare Jimmie Åkesson anser att det är invandringen som är den främsta orsaken till nedgången.",
-      "pubDate": "2026-09-08T15:30:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "Gissén: Politikerna duckar frågan om priset på drivmedel",
-      "link": "https://www.sverigesradio.se/artikel/9294827",
-      "description": "Priset på bensin och diesel kommer höjas rejält nästa mandatperiod – oavsett vilken sida som vinner valet. Det har experter upprepat flera gånger under den här valrörelsen. Det sa även Miljöpartiets språkrör Daniel Helldén i Ekots partiledardebatt i fredags. Han menar att andra politiker dessutom duckat frågan. Ekots inrikespolitiska kommentator Helena Gissen ger honom rätt i den frågan. ”Att det mumlas om detta hänger väldigt mycket samman med att det snart är val”, säger hon.",
-      "pubDate": "2026-09-08T15:19:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "S-kravet på SD  inför SVT-debatten",
-      "link": "https://www.expressen.se/nyheter/politik/s-kravet-pa-sd--infor-svt-debatten/",
-      "description": "SD måste säga exakt var gränsen går för hur ryssvänlig man får vara i partiet.&nbsp; Det säger Tobias Baudin (S) inför kvällens debatt i Aktuellt. – Det ser ju alla, att Jimmie Åkesson styr Ulf Kristersson, säger han.",
-      "pubDate": "2026-09-08T15:15:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD"
-      ]
-    },
-    {
-      "title": "Vem vinner på Pisafiasko och bensinrea?",
-      "link": "https://www.dn.se/podd/alskade-politik/vem-vinner-pa-pisafiasko-och-bensinrea/",
-      "description": "Svenska 15-åringar får sämst resultat någonsin i Pisamätningen. Vem vinner på en Pisadebatt? Och hur mycket kommer bensinpriset höjas efter valet?",
-      "pubDate": "2026-09-08T14:45:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Forssmed om gängkriminella på idrottsplatser: ”Försöker äta sig in”",
-      "link": "https://www.dn.se/sport/forssmed-om-gangkriminella-pa-idrottsplatser-forsoker-ata-sig-in/",
-      "description": "Den organiserade brottslighet försöker äta sig in i idrotten. Det säger Sveriges idrottsminister Jakob Forssmed (KD) apropå DN:s granskning av gängkriminalitet vid idrottsplatser. I augusti tillsatte regeringen en nationell samordnare i syfte att öka samverkan kring frågan. På tiden, menar Socialdemokraterna.",
-      "pubDate": "2026-09-08T14:33:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Flera partier vill ta bort fri prissättning av tandvård",
-      "link": "https://www.sverigesradio.se/artikel/9293786",
-      "description": "Flera partier vill att priserna på tandvård görs om men de är oense om hur. Moderaterna och Centerpartiet är de som förespråkar de minsta förändringarna. Kristdemokraterna vill att fler grupper ska omfattas av den så kallade tiotandvården där patienten betalar tio procent av kostnaden och staten resten. Sverigedemokraterna och Socialdemokraterna vill att tiotandvården ska gälla för hela den vuxna befolkningen. Vänsterpartiet, Miljöpartiet och Liberalerna vill att tandvården ska bli mer lik sjukvården. Vänsterpartiet vill dessutom ha högkostnadsskydd på 1 450 kronor.",
-      "pubDate": "2026-09-08T14:27:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "V",
-        "C",
-        "KD",
-        "L",
-        "MP"
-      ]
-    },
-    {
-      "title": "Insändare. Liberalernas skolpolitik får underkända F i betyg",
-      "link": "https://www.dn.se/insandare/liberalernas-skolpolitik-far-underkanda-f-i-betyg/",
-      "description": "INSÄNDARE. Liberalerna har haft skolpolitiken som huvuduppgift och uppvisar ett totalt misslyckande. Nu måste stora statliga medel satsas samtidigt som de orimliga vinsterna från våra skattepengar måste bort, skriver Nils Werner.",
-      "pubDate": "2026-09-08T13:48:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "”Pisaundersökningen är dåliga nyheter för regeringen”",
-      "link": "https://www.svt.se/nyheter/inrikes/pisaundersokningen-ar-daliga-nyheter-for-regeringen",
-      "description": "Med fem dagar kvar till valet är Pisaundersökningen dåliga nyheter för Tidöpartierna, och framför allt för Liberalerna. De rödgröna partierna får nu en gyllene möjlighet att tvåla till regeringen i en av väljarnas absolut viktigaste frågor.",
-      "pubDate": "2026-09-08T13:09:57Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
       ]
     }
   ],
