@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T15:29:37.646167Z",
+  "updated_at": "2026-09-08T18:52:33.798106Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,100 @@
   ],
   "news": [
     {
+      "title": "Ändringen på SVT:s valvaka – ska förutspå valvinnaren",
+      "link": "https://www.expressen.se/nyheter/politik/andringen-pa-svts-valvaka-ska-forutspa-valvinnaren/",
+      "description": "En matematiker som förutspådde förra valets Tidöseger när SVT fortfarande pekade mot rödgrön regering, det är SVT:s nya vapen på valsöndagens kväll. – Vi kommer ganska snabbt att se ner på några få tiondelar var vi landar, säger Gustav Karreskog Rehbinder, hjärnan bakom algoritmen.",
+      "pubDate": "2026-09-08T18:43:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Kommer röst rött för V-regering",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=96535ef1-d0c6-4080-a063-93834ea44d00",
+      "description": "Thand Ringqvists besked i SVT",
+      "pubDate": "2026-09-08T18:33:42Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "DN Debatt. ”Därför är Magdalena Andersson olämplig som statsminister”",
+      "link": "https://www.dn.se/debatt/darfor-ar-magdalena-andersson-olamplig-som-statsminister/",
+      "description": "DN DEBATT Magdalena Andersson (S) vill framstå som Sveriges trygga val och målar ut Tidöpartierna som rena demokratihot. Det är inte bara ett cyniskt sätt att vinna makt, det är ett direkt ansvarslöst sätt att ropa varg och förgifta det offentliga samtalet. Gå inte på hennes bluff, skriver Adam Danieli, idéchef på marknadsliberala tankesmedjan Timbro.",
+      "pubDate": "2026-09-08T18:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Strömmer om relationsvåldet, populism, infernot och oron",
+      "link": "https://www.expressen.se/kronikorer/fredrik-sjoshult/strommer-om-relationsvaldet-populism-infernot-och-oron/",
+      "description": "Fyra år som justitieminister för Gunnar Strömmer – och dags att utvärdera. Han började i ett ”inferno” – men vad är han mest stolt över? Har han numera hamnat i populisternas galna tunna? Och vad betyder ett mord i Ånge för hans försök att stoppa mäns våld mot kvinnor? Här kommer svar på allt detta och mer – och en oväntad varning för Växjö.",
+      "pubDate": "2026-09-08T17:46:47Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Valmyndigheten: Tre orsaker till felregistrerade förtidsröster",
+      "link": "https://www.dn.se/sverige/valmyndigheten-tre-orsaker-till-felregistrerade-fortidsroster/",
+      "description": "Den första uppskattningen var att 4 000 förtidsröster hade registrerats felaktigt. Nu uppger Valmyndigheten att max 500 väljare är berörda. – Vi fortsätter att se om det går att få ner siffran ännu mer, men det är ingenting som jag vågar säga någonting om just nu, säger pressekreteraren Jany Plevnik.",
+      "pubDate": "2026-09-08T17:08:13Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "C och L pressar varandra om ytterkantssamarbeten i Stockholm",
+      "link": "https://www.dn.se/sverige/c-och-l-pressar-varandra-om-ytterkantssamarbeten-i-stockholm/",
+      "description": "Tonen mellan Centerpartiet och Liberalerna i Stockholms stad hårdnar med dagar kvar till valet. C ifrågasätter om L verkligen kommer att hålla SD ute, medan L efterlyser tydlighet från C om ett eventuellt samarbete med V. – Jag tänker inte tillåta mig att snubbla in på hypotetiska frågeställningar, säger Liberalernas Gulan Avci.",
+      "pubDate": "2026-09-08T16:41:54Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "L"
+      ]
+    },
+    {
+      "title": "Insändare. Granska Tidö 2.0 i stället för enskilda sakfrågor",
+      "link": "https://www.dn.se/insandare/granska-tido-2-0-i-stallet-for-enskilda-sakfragor/",
+      "description": "INSÄNDARE. En röst på Tidöpartierna är en röst på ett repressivt program som syftar till att radikalt stöpa om svensk demokrati. Väljarna förtjänar bevakning och analys av hur ”Tidö 2.0” kommer att påverka våra demokratiska institutioner och vårt samhälle innan de lägger sin röst, skriver Marcel Mangold.",
+      "pubDate": "2026-09-08T16:22:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Pisamätningen: Historiskt dåligt resultat för svenska elever",
+      "link": "https://www.sverigesradio.se/artikel/9294816",
+      "description": "Utbildningsminister Simona Mohamsson (L) ser användningen av skärmar som en viktig orsak till att svenska elever tappar rekordmycket i matematik och läsförståelse i Pisamätningen och varnar för oppositionens skolpolitik vid ett eventuellt maktskifte. Flera oppositionspartier är kritiska till att regeringen inte genomfört förändringar när det gäller friskolornas vinster och finansiering och Centerpartiet anser att det behövs fler behöriga lärare. Sverigedemokraternas partiledare Jimmie Åkesson anser att det är invandringen som är den främsta orsaken till nedgången.",
+      "pubDate": "2026-09-08T15:30:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C",
+        "L"
+      ]
+    },
+    {
       "title": "Gissén: Politikerna duckar frågan om priset på drivmedel",
       "link": "https://www.sverigesradio.se/artikel/9294827",
       "description": "Priset på bensin och diesel kommer höjas rejält nästa mandatperiod – oavsett vilken sida som vinner valet. Det har experter upprepat flera gånger under den här valrörelsen. Det sa även Miljöpartiets språkrör Daniel Helldén i Ekots partiledardebatt i fredags. Han menar att andra politiker dessutom duckat frågan. Ekots inrikespolitiska kommentator Helena Gissen ger honom rätt i den frågan. ”Att det mumlas om detta hänger väldigt mycket samman med att det snart är val”, säger hon.",
@@ -115,18 +209,6 @@
       "topics": []
     },
     {
-      "title": "Åkessons bandkompis sålde vit makt-musik",
-      "link": "https://www.expressen.se/nyheter/politik/akessons-bandkompis-salde-vit-makt-musik/",
-      "description": "Marcus Öhrn har spelat i band med SD-ledaren Jimmie Åkesson. Samtidigt har han via sin webbshop sålt vit makt-musik, enligt Dagens ETC. ”Jag är varken rasist, fascist eller nazist”, skriver han själv till tidningen.",
-      "pubDate": "2026-09-08T14:33:19Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "Forssmed om gängkriminella på idrottsplatser: ”Försöker äta sig in”",
       "link": "https://www.dn.se/sport/forssmed-om-gangkriminella-pa-idrottsplatser-forsoker-ata-sig-in/",
       "description": "Den organiserade brottslighet försöker äta sig in i idrotten. Det säger Sveriges idrottsminister Jakob Forssmed (KD) apropå DN:s granskning av gängkriminalitet vid idrottsplatser. I augusti tillsatte regeringen en nationell samordnare i syfte att öka samverkan kring frågan. På tiden, menar Socialdemokraterna.",
@@ -158,19 +240,6 @@
       ]
     },
     {
-      "title": "Moderaternas invit – lovar C ännu mer",
-      "link": "https://www.expressen.se/nyheter/politik/moderaternas-invit-lovar-c-annu-mer/",
-      "description": "Moderaterna vill möta Elisabeth Thand Ringqvists sex regeringskrav.&nbsp; Nu lovar justitieminister Gunnar Strömmer ännu mer – om Centerpartiet är redo att samarbeta med Tidöpartierna.&nbsp; ”Jag vill med detta brev sträcka ut en hand till dig”, skriver moderaten på Facebook.&nbsp;",
-      "pubDate": "2026-09-08T14:07:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
       "title": "Insändare. Liberalernas skolpolitik får underkända F i betyg",
       "link": "https://www.dn.se/insandare/liberalernas-skolpolitik-far-underkanda-f-i-betyg/",
       "description": "INSÄNDARE. Liberalerna har haft skolpolitiken som huvuduppgift och uppvisar ett totalt misslyckande. Nu måste stora statliga medel satsas samtidigt som de orimliga vinsterna från våra skattepengar måste bort, skriver Nils Werner.",
@@ -183,19 +252,6 @@
       ]
     },
     {
-      "title": "Jimmie Åkessons svar på Ebba Buschs utspel",
-      "link": "https://www.expressen.se/nyheter/politik/jimmie-akessons-svar-pa-ebba-buschs-utspel/",
-      "description": "Jimmie Åkesson svarar nu Ebba Busch – efter hennes inlägg om att det inte är självklart med SD-ministrar. Indirekt pekar han ut hennes S-flört som ett hot mot en Tidöseger. &nbsp; Osäker inför valet? Gör Expressens valkompass här !",
-      "pubDate": "2026-09-08T13:17:19Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
       "title": "”Pisaundersökningen är dåliga nyheter för regeringen”",
       "link": "https://www.svt.se/nyheter/inrikes/pisaundersokningen-ar-daliga-nyheter-for-regeringen",
       "description": "Med fem dagar kvar till valet är Pisaundersökningen dåliga nyheter för Tidöpartierna, och framför allt för Liberalerna. De rödgröna partierna får nu en gyllene möjlighet att tvåla till regeringen i en av väljarnas absolut viktigaste frågor.",
@@ -205,71 +261,6 @@
       "sourceType": "news",
       "topics": [
         "L"
-      ]
-    },
-    {
-      "title": "Åkesson svarar Busch: \"Håller med\"",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=c384b8c7-1727-48f7-b32c-a46a7656ec25",
-      "description": "\"Jag håller med Ebba – sakpolitik i fokus”",
-      "pubDate": "2026-09-08T12:50:07Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Regionerna där sjukhusstrider kan få betydelse i valet",
-      "link": "https://www.sverigesradio.se/artikel/9290962",
-      "description": "Sjukhusstrider kan påverka regionvalet, bland annat i Västernorrland där flyttad vård från Sollefteå sjukhus väckt starka protester. Flera oppositionspartier vill riva upp beslut om nedlagd eller flyttad vård i bland annat Västernorrland, Västmanland, Örebro och Kronoberg. Samtidigt försvarar Socialdemokraterna förändringarna i Västernorrland och menar att brist på personal och patienter gör omflyttning nödvändig för att klara av att ge vård åt alla invånare i länet.",
-      "pubDate": "2026-09-08T12:29:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Ulf Kristersson sågar C i jakten på borgerliga väljare",
-      "link": "https://www.svt.se/nyheter/inrikes/ulf-kristersson-sagar-c-i-jakten-pa-borgerliga-valjare",
-      "description": "Rutiga skjortor har plötsligt hamnat i centrum av valrörelsen. I jakten på borgerligt sinnade väljare varnar nu Ulf Kristersson (M) för att en röst på flanellklädda centerpartister kan sluta i vänsterpolitik. – Alla fantasier om mittens rike, helst med Annie Lööf som statsminister, de är borta, säger han.",
-      "pubDate": "2026-09-08T12:18:01Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Hyllade terror – bjöds in till riksdagen av V",
-      "link": "https://www.sverigesradio.se/artikel/9294552",
-      "description": "Två palestinska politiker i Fatahs revolutionära råd, som uppmärksammats för att ha hyllat terrorism och uttryckt hat mot judar, bjöds förra året in till riksdagen av Vänsterpartiet, rapporterar Göteborgs-Posten . Med på mötet fanns både partiledaren Nooshi Dadgostar och partisekreteraren Maria Forsberg. Vänsterpartiets vice ordförande, Ida Gabrielsson säger att man inte kände till Fatah-företrädarnas terrorhyllningar.",
-      "pubDate": "2026-09-08T12:05:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ebba Buschs plan  – taktiken mot SD",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/ebba-buschs-plan-taktiken-mot-sd/",
-      "description": "Med fem dagar till valet skakas båda sidor i politiken av skandaler.&nbsp; Hur ska Andersson och Kristersson förhålla sig till V och SD? Och vad har Ebba Busch för sig egentligen? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-09-08T11:54:39Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "KD"
       ]
     }
   ],
