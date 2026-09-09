@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T01:49:12.315412Z",
+  "updated_at": "2026-09-09T06:49:14.853365Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,91 @@
   ],
   "news": [
     {
+      "title": "Skarpa MP-kravet:  De ska bli ministrar",
+      "link": "https://www.expressen.se/nyheter/politik/skarpa-mp-kravet--de-ska-bli-ministrar/",
+      "description": "Miljöpartiet har passerat 20 000 medlemmar och är större än någonsin. Nu tänker språkrören bli ministrar – men inte i en mittenregering. – Det faller på sin egen orimlighet att försöka få ihop det här med KD, säger Amanda Lind. &nbsp; Osäker inför valet? Gör Expressens valkompass!",
+      "pubDate": "2026-09-09T06:20:07Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Ulf Kristerssons okända notor för privata festerna",
+      "link": "https://www.expressen.se/nyheter/sverige/ulf-kristerssons-okanda-notor-for-privata-festerna/",
+      "description": "Ulf Kristersson går till val med ett löfte om att stoppa slöseriet med skattepengar.&nbsp; Samtidigt har statsministern vid två tillfällen ordnat privata födelsedagsfiranden där myndighetens personal lagat mat och serverat. När han fyllde 59 år spenderade myndigheten 36 arbetstimmar på att ta hand om gäster som han bjudit in på privat middag och frukost på Harpsund –&nbsp;ett halvår senare sattes det upp som en löneförmån.&nbsp;",
+      "pubDate": "2026-09-09T05:08:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "S vill tillsätta kriskommission efter Pisa-raset",
+      "link": "https://www.expressen.se/nyheter/politik/s-vill-tillsatta-kriskommission-efter-pisa-raset/",
+      "description": "Det dåliga svenska resultatet i Pisa-mätningen har skakat om Sverige. Nu vill Socialdemokraterna tillsätta en kriskommission.",
+      "pubDate": "2026-09-09T05:07:56Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Tomas Nordenskiöld: ”Vinna eller försvinna för Andersson och Kristersson”",
+      "link": "https://www.svt.se/nyheter/inrikes/tomas-nordenskiold-vinna-eller-forsvinna-for-andersson-och-kristersson",
+      "description": "På onsdagskvällen möts Ulf Kristersson (M) och Magdalena Andersson (S) i statsministerduellen på SVT. Och det är då allt kan avgöras. – Att väljarna ställer frågorna i större utsträckning gör de här klassiska duellerna svårare, säger SVT:s politikreporter Tomas Nordenskiöld.",
+      "pubDate": "2026-09-09T04:09:48Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Expert: Då är det ett problem att pr-byråer skriver åt politiker",
+      "link": "https://www.sverigesradio.se/artikel/9293937",
+      "description": "Experter på lobbying och PR reagerar starkt på Ekots avslöjande om att Tobias Andersson (SD), ordförande i riksdagens näringsutskott, skrev en debattartikel där Skatteverket anklagas för politisk aktivism, ihop med en pr-byrå som anlitats av ett tobaksföretag som låg i konflikt med Skatteverket. Det är inte unikt att politiker får hjälp av pr-byråer och olika intressegrupper när de formulerar sin politik, men det här fallet sticker ändå ut, enligt Alexander Katsaitis docent som forskar på PR och lobbying på Stockholms universitet. ”Vad som är lite ovanligt är att ordföranden för ett riksdagsutskott går ut så aggressivt mot en statlig myndighet” säger han.",
+      "pubDate": "2026-09-09T04:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Snusbolags pr-byrå bakom politikerns anklagelse",
+      "link": "https://www.sverigesradio.se/artikel/9293755",
+      "description": "En debattartikel, där Tobias Andersson (SD), ordförande i riksdagens näringsutskott anklagar Skatteverket för politisk aktivism, skrevs ihop med en pr-byrå som anlitats av ett tobaksföretag som låg i konflikt med Skatteverket. Det visar Ekots fortsatta granskning av tobakslobbyns försök att påverka den svenska politiken. ”Jag tycker att det här fallet är anmärkningsvärt och kanske rent av stötande” säger docent Anna Tyllström, som forskar om lobbying på Uppsala universitet.",
+      "pubDate": "2026-09-09T04:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Valinformatören: ”Det största är att få de som tvekar att rösta”",
+      "link": "https://www.sverigesradio.se/artikel/9294290",
+      "description": "Botkyrka hade en av landets största nedgångar i valdeltagandet 2022, från 78 till 71 procent. I Hallunda centrum möter valinformatören Lamia Uganalp Botkyrkabor som inte känner till förtidsröstningen eller tvivlar på att deras röst gör skillnad. Samtidigt minskar budgeten för demokratiinsatser jämfört med förra valet. Demokratiutvecklarna pekar på bland annat utbildning, politiskt intresse och tillit som faktorer till det låga valdeltagandet.",
+      "pubDate": "2026-09-09T03:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Magdalena Andersson: SD infiltrerat av Putinvänner",
       "link": "https://www.sverigesradio.se/artikel/9294955",
       "description": "Socialdemokraternas partiledare Magdalena Andersson anklagar Sverigedemokraterna för att vara infiltrerade av rysslandsvänliga personer. Det sa hon i SVT när hon mötte SD-ledaren Jimmie Åkesson i en duell. ”Det här är otroligt allvarligt att det nått hela vägen upp till statsministerns kansli”, säger S-ledaren.",
@@ -103,19 +188,6 @@
       "topics": [
         "S",
         "SD"
-      ]
-    },
-    {
-      "title": "Nu är det mitten som leder i valet",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/nu-ar-det-mitten-som-leder-i-valet/",
-      "description": "Elisabeth Thand Ringqvist och Ebba Busch är valrörelsens osannolika radarpar, skriver Viktor Barth-Kron.",
-      "pubDate": "2026-09-08T20:15:18Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD"
       ]
     },
     {
@@ -164,32 +236,6 @@
       ]
     },
     {
-      "title": "Andersson och Åkesson rök ihop i SVT: ”Papegojtaktik”",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-och-akesson-rok-ihop-i-svt-papegojtaktik/",
-      "description": "Magdalena Andersson (S) och Jimmie Åkesson (SD) drabbade samman under en debatt i kvällens ”Aktuellt” i SVT. Särskilt hett blev det när den dagsaktuella Pisaundersökningen debatterades. &nbsp; Osäker inför valet? Gör Expressens valkompass här !",
-      "pubDate": "2026-09-08T19:44:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist: Hellre nyval än V i regering",
-      "link": "https://www.expressen.se/nyheter/sverige/thand-ringqvist-hellre-nyval-an-v-i-regering/",
-      "description": "Dörren för att ge V-ledaren Nooshi Dadgostar en ministerpost är stängd och låst – slår C-ledaren Elisabeth Thand Ringqvist i SVT:s ”Utfrågningen”.&nbsp; – Vi har ett tydligt nej till Vänsterpartiet, säger hon.&nbsp;",
-      "pubDate": "2026-09-08T19:42:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Thand Ringqvist: Hellre extraval än V i regering",
       "link": "https://www.svt.se/nyheter/inrikes/thand-ringqvist-hellre-extraval-an-v-i-regering",
       "description": "Centerpartiet går hellre till extraval än att släppa fram en regering där Vänsterpartiet ingår. – Vi tror att det finns ett mittenalternativ bestående av S, C, KD och MP, säger partiledaren Elisabeth Thand Ringqvist i SVT:s Utfrågningen.",
@@ -216,65 +262,44 @@
       ]
     },
     {
-      "title": "Så kuppades Tamam Abou  Hamidan bort från S-listan",
-      "link": "https://www.expressen.se/nyheter/sverige/sa-kuppades-tamam-abou--hamidan-bort-fran-s-listan/",
-      "description": "Den populära S-profilen Tamam Abou Hamidan, 38, från Olofström kuppades bort från riksdagslistan med sex dagar kvar till valet.&nbsp; Mötet där beslutet fattades utlystes på eftermiddagen med 40 minuters varsel.&nbsp; – Jag undrade om det var demokratiskt rimligt, säger Christoffer Danielsson (S), kommunalråd, till BLT .&nbsp;",
-      "pubDate": "2026-09-08T19:32:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Pisa-raset: ”Man har vägrat att lyssna”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=e1df9d7c-813e-4111-a667-636941c1bbfa",
-      "description": "Andersson och Åkesson drabbar samman i SVT",
-      "pubDate": "2026-09-08T19:26:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "DN Debatt. ”Därför är Magdalena Andersson olämplig som statsminister”",
+      "link": "https://www.dn.se/debatt/darfor-ar-magdalena-andersson-olamplig-som-statsminister/",
+      "description": "DN DEBATT Magdalena Andersson (S) vill framstå som Sveriges trygga val och målar ut Tidöpartierna som rena demokratihot. Det är inte bara ett cyniskt sätt att vinna makt, det är ett direkt ansvarslöst sätt att ropa varg och förgifta det offentliga samtalet. Gå inte på hennes bluff, skriver Adam Danieli, idéchef på marknadsliberala tankesmedjan Timbro.",
+      "pubDate": "2026-09-08T18:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "\"Inget som helst utrymme för Putinvänner\"",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=5a1b1835-738e-4cae-b030-542a2fd3c480",
-      "description": "Andersson och Åkesson i ”Aktuellt”",
-      "pubDate": "2026-09-08T19:13:29Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Ändringen på SVT:s valvaka – ska förutspå valvinnaren",
-      "link": "https://www.expressen.se/nyheter/politik/andringen-pa-svts-valvaka-ska-forutspa-valvinnaren/",
-      "description": "En matematiker som förutspådde förra valets Tidöseger när SVT fortfarande pekade mot rödgrön regering, det är SVT:s nya vapen på valsöndagens kväll. – Vi kommer ganska snabbt att se ner på några få tiondelar var vi landar, säger Gustav Karreskog Rehbinder, hjärnan bakom algoritmen.",
-      "pubDate": "2026-09-08T18:43:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kommer röst rött för V-regering",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=96535ef1-d0c6-4080-a063-93834ea44d00",
-      "description": "Thand Ringqvists besked i SVT",
-      "pubDate": "2026-09-08T18:33:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
+        "Regeringsbildning"
       ]
     }
   ],
   "blogs": [
+    {
+      "title": "Höj pensionerna",
+      "link": "https://blog.zaramis.se/2026/09/09/hoj-pensionerna/",
+      "description": "Vänsterpartiet går till val på att rusta upp välfärden, stärka vanligt folks ekonomi och investera i jobben och klimatomställningen. Efter fyra år med högerregeringen behöver Sverige både en ny regering och en ny politisk inriktning. Vänsterpartiets valmanifest samlar partiets viktigaste förslag för att rusta upp välfärden, stärka hushållens ekonomi och investera i jobb, bostäder och klimatomställning. Läs mer … Inlägget Höj pensionerna dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-09T05:04:15Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Så fick Brödraskapet allierade på bägge sidor den politiska blockgränsen",
+      "link": "https://ledarsidorna.se/sa-fick-brodraskapet-allierade-pa-bagge-sidor-den-politiska-blockgransen/",
+      "description": "Under Sensus mentorskap av studieförbundet Ibn Rushd (2003–2007) drevs det gemensamma projektet Fredsagenterna finansierat av Ungdomsstyrelsen. Projektet ledde till bildandet av Svenska muslimer för fred och rättvisa (SMFR) som utvecklades till en av Muslimska brödraskapets nätverksorganisationer. Genom projektet och det efterföljande arbetet upprätthöll kristdemokratiska riksdagsledamöter samt ett statsråd organisationens legitimitet genom återkommande kontakter samt aktiviteter [&#8230;]",
+      "pubDate": "2026-09-09T03:24:34Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "KD"
+      ]
+    },
     {
       "title": "Vem står upp för freden i riksdagsvalet?",
       "link": "https://www.dagensarena.se/opinion/vem-star-upp-freden-riksdagsvalet/",
@@ -398,18 +423,6 @@
       "topics": []
     },
     {
-      "title": "Partiet som vill att folk ska kunna leva på lönen",
-      "link": "https://blog.zaramis.se/2026/09/06/partiet-som-vill-att-folk-ska-kunna-leva-pa-lonen/",
-      "description": "Kortare arbetsvecka, rätt till heltid och stopp för hyvling. Det är tre reformer som Vänsterpartiet vill genomföra för att fler ska kunna leva på sin lön och orka med ett helt arbetsliv. I ett tal på lördagen lyfte Nooshi Dadgostar särskilt kvinnors villkor på arbetsmarknaden. Läs mer … Inlägget Partiet som vill att folk ska kunna leva på lönen dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-06T05:22:24Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Muslimska brödraskapet når organisatorisk mognad med stöd från Centerpartiet",
       "link": "https://ledarsidorna.se/muslimska-brodraskapet-nar-organisatorisk-mognad-med-stod-fran-centerpartiet/",
       "description": "I den andra av tre artiklar om Centerpartiets muslimprojekt 1990–1994 beskrivs hur projektet når en organisatorisk mognad och utgör basen för etableringen av politisk islam i samtliga riksdagspartier. Där många av de politiska krav som formulerats med partiets hjälp nu etableras som allmängiltiga . Fyra månader före riksdagsvalet 1994 skickade Mahmoud Aldebe ett öppet brev [&#8230;]",
@@ -433,21 +446,22 @@
         "S",
         "C"
       ]
-    },
-    {
-      "title": "Sopade under mattan",
-      "link": "https://ledarsidorna.se/sopade-under-mattan/",
-      "description": "I praktiken samtliga svenska riksdagspartier, med något undantag, har haft positiva och mer eller mindre långtgående relationer med radikal politisk islam på något sätt. Med samma motivbild. Moderaterna är ett parti som inte på något sätt är förskonade. I det partiet tog sig en medlem av det Muslimska brödraskapet ända fram till riksdagens försvarsutskott. Fyra [&#8230;]",
-      "pubDate": "2026-09-04T03:41:58Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Inläst: Kritik mot S valrörelse i Malmö",
+      "link": "https://pod.space/kvartal/inlast-kritik-mot-s-valrorelse-i-malmo",
+      "description": "Inför förra valet delade en S-politiker ut förkryssade valsedlar i ett miljonprogram i Malmö. Trots det sitter politikern på förtroendeuppdrag för Socialdemokraterna – och kandiderar nu på nytt. På torsdagen fick S frågor i fullmäktige efter min granskning av partiets valkampanj i stadens utsatta områden. – Det är inte en bugg, det är en funktion, säger Centerpartiet. Av Federico Moreno Inläsare: Ella Öfwerman",
+      "pubDate": "2026-09-09T04:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
     {
       "title": "Vem vinner på Pisafiasko och bensinrea?",
       "link": "https://pod.space/alskadepolitik/vem-vinner-pa-pisafiasko-och-bensinrea",
@@ -616,19 +630,6 @@
       "pubDate": "2026-08-31T14:31:06Z",
       "source": "Älskade politik",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "305. Har Åkesson gett upp?",
-      "link": "https://pod.space/politikrummet/305-har-akesson-gett-upp",
-      "description": "Jimmie Åkesson kräver svar av Ebba Busch. Har Sverigedemokraterna gett upp om Tidö? I studion: Filippa Rogvall, Max V Karlsson och Viktor Barth-Kron Producent: Anna Westman Swantesson Ljudklipp från SVT Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-08-31T11:43:49Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "podcast",
       "topics": [
         "SD",
