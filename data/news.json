@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T16:47:10.039676Z",
+  "updated_at": "2026-09-09T19:32:47.942950Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,153 @@
   ],
   "news": [
     {
+      "title": "C och KD: Beredda att samarbeta vid regeringsskifte",
+      "link": "https://www.sverigesradio.se/artikel/9295781",
+      "description": "De två borgerliga partierna – Centerpartiet och Kristdemokraterna – stödjer olika statsministerkandidater. Men om det sker ett regeringsskifte kan de samarbeta. ”Om vi hamnar i opposition så kommer jag inte att sitta och tjura i ett hörn och driva Magdalena Andersson (S) i famnen på Miljöpartiet och Vänsterpartiet”, säger KD:s partiledare Ebba Busch till Ekot.",
+      "pubDate": "2026-09-09T18:54:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "KD",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Efter år av droger och hemlöshet: ”Ett nytt liv”",
+      "link": "https://www.dn.se/sverige/efter-ar-av-droger-och-hemloshet-ett-nytt-liv/",
+      "description": "Amfetaminet hade greppet om Torbjörn, 75, som levde hemlös under många år. – Jag har lurat mig själv hela livet, säger han. Vändningen blev boendet Gamlebo som tar emot äldre med missbruksproblem. Nu vill Socialdemokraterna utöka verksamheten – och lovar en nollvision för hemlöshet i Stockholm.",
+      "pubDate": "2026-09-09T18:44:24Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Piken till Kristersson: ”Det är så dumt, Ulf”",
+      "link": "https://www.expressen.se/nyheter/politik/piken-till-kristersson-det-ar-sa-dumt-ulf/",
+      "description": "Ulf Kristersson (M) och Magdalena Andersson (S) debatterar i SVT:s ”Satsministermötet”.&nbsp; Under en diskussion om säkerhetspolitiken vill S-ledaren tona ner konflikten.&nbsp; – Det är så dumt, Ulf. Vi är överens om det här.&nbsp;",
+      "pubDate": "2026-09-09T18:40:48Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Bråk om mängdrabatten: ”Sprider lögner”",
+      "link": "https://www.svt.se/nyheter/inrikes/brak-om-mangdrabatten-sprider-logner",
+      "description": "Statsminister Ulf Kristersson går till hård attack mot Magdalena Andersson inför kvällens statsministerduell. I ett brev uppmanar han Andersson att ”tala klarspråk om mängdrabatten och stå upp för brottsoffer”. – I dag sprider Kristersson lögner, medvetet, svarar Magdalena Andersson",
+      "pubDate": "2026-09-09T18:21:45Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "S: Orättvist att stoppa svensk-iranier från arbeten",
+      "link": "https://www.dn.se/sverige/s-orattvist-att-stoppa-svensk-iranier-fran-arbeten/",
+      "description": "Svenskar som inte kan säga upp sitt andra medborgarskap ska inte stängas ute från jobb. Det säger Socialdemokraterna, som vill utreda hur personer med ofrivilliga dubbla medborgarskap kan få starkare skydd. – Vi kan inte ha ett kollektivt missgynnande av människor som inte kan avsäga sig medborgarskapet, säger Ardalan Shekarabi (S)",
+      "pubDate": "2026-09-09T17:55:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Ny C-invit till KD: ”Vi kan komma överens”",
+      "link": "https://www.expressen.se/nyheter/politik/ny-c-invit-till-kd-vi-kan-komma-overens/",
+      "description": "Centerpartiet och Kristdemokraterna har flörtat med varandra under valrörelsen.&nbsp; På onsdagskvällen möttes partiledarna Elisabeth Thand Ringqvist och Ebba Busch i en egen debatt.&nbsp; – Jag tror att vi kan komma överens om en hel del saker, säger C-ledaren till Expressen.&nbsp;",
+      "pubDate": "2026-09-09T17:51:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "KD"
+      ]
+    },
+    {
+      "title": "Hon tvångsstänger flest vårdcentraler – och jämförs med Magdalena Andersson",
+      "link": "https://www.dn.se/sverige/hon-tvangsstanger-flest-vardcentraler-och-jamfors-med-magdalena-andersson/",
+      "description": "My Alnebratt lämnade en karriär i finansbranschen. Nu har hon drivit igenom fler tvångsstängningar av vårdcentraler än någon annan. Åtgärden lyfts i valkampanjen med målet att få leda Västra Götalandsregionen, Sveriges största arbetsgivare. Missar hon den fajten finns hon på listan över framtidsnamn för en S-regering.",
+      "pubDate": "2026-09-09T17:27:49Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "L når 5,8 procent i ny mätning",
+      "link": "https://www.expressen.se/nyheter/politik/l-nar-58-procent-i-ny-matning/",
+      "description": "Med bara fyra dagar kvar till valet får Liberalerna ett rejält lyft i TV4/Novus nya opinionsmätning. Partiet får 5,8 procent. Miljöpartiet får samtidigt sin högsta notering på tolv år. – Vi ser en medvind för vår sida, säger Simona Mohamsson till Expressen.",
+      "pubDate": "2026-09-09T17:16:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "MP",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "S-topparnas svar – efter nobben från C",
+      "link": "https://www.expressen.se/nyheter/politik/s-topparnas-svar--efter-nobben-fran-c/",
+      "description": "Socialdemokraterna driver ett totalförbud mot vinster i skolan, medan Centerpartiet vill behålla aktiebolagen. Anders Ygeman (S) medger att man kommer behöva kompromissa. – Det här är en av våra absolut främsta prioriteringar, säger han.",
+      "pubDate": "2026-09-09T17:15:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Statsministerkandidaterna möts i SVT-duell inför valet",
+      "link": "https://www.dn.se/sverige/statsministerkandidaterna-mots-i-svt-duell-infor-valet/",
+      "description": "Statsministerkandidaterna Ulf Kristersson (M) och Magdalena Andersson (S) debatterar och svarar på väljarnas frågor i SVT från Gasklockorna i Gävle. Följ DN:s direktrapport med politikreportrarna Hans Rosén och Pia Gripenberg samt politiska kommentatorn Tomas Ramberg.",
+      "pubDate": "2026-09-09T17:07:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "M-källa: ”Kan inte låta SD definiera högerpositionen”",
+      "link": "https://www.dn.se/sverige/m-kalla-kan-inte-lata-sd-definiera-hogerpositionen/",
+      "description": "Moderaterna öppnade dörren för Sverigedemokraterna. Nu står de likt flera av sina systerpartier i Europa inför en avgörande fråga: Hur ska de undgå att slukas av SD – oavsett om de vinner eller förlorar valet?",
+      "pubDate": "2026-09-09T17:00:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
+    {
       "title": "Furtenbach: ”Visar återigen att rödgröna sidan inte går ihop”",
       "link": "https://www.sverigesradio.se/artikel/9295641",
       "description": "Centerpartiet går hellre till extraval än att sitta i en regering med Vänsterpartiet , sa partiledaren Elisabeth Thand Ringqvist i SVT:s partiledarutfrågning. ”Det visar återigen att den rödgröna sidan inte går ihop” säger Ekots inrikespolitiska kommentator Fredrik Furtenbach, som tror på en lång regeringsbildning om oppositionen vinner valet. Men det skaver även på Tidösidan, menar Furtenbach: ”Tonläget har försämrats mellan Kristdemokraterna och Sverigedemokraterna”.",
@@ -128,146 +275,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Kristerssons attack på Andersson",
-      "link": "https://www.expressen.se/nyheter/politik/kristerssons-attack-pa-andersson/",
-      "description": "I kväll möts Ulf Kristersson och Magdalena Andersson i debatt i SVT. Innan debatten går statsministern till attack mot S-ledaren. ”Då vill jag ha svar på varför du inte vill stå upp för brottsoffren”, skriver Kristersson.",
-      "pubDate": "2026-09-09T15:39:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Nooshi Dadgostar frisk igen",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=1a52b1d0-b812-42ff-8e9d-944722fa8c0e",
-      "description": "V-ledaren med i debatt, enligt TV4",
-      "pubDate": "2026-09-09T15:35:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "L ligger över riksdagsspärren i ny opinionsundersökning",
-      "link": "https://www.sverigesradio.se/artikel/9295685",
-      "description": "Liberalerna får 5,8 procent av rösterna I en ny opinionsundersökning gjord av Novus publicerad i TV4 och Göteborgsposten. &nbsp; Det är första gången under den här mandatperioden som partiet ligger över riksdagsspärren på 4 procent. Under senare delen av mandatperioden har Liberalerna legat runt 2 procent i opinionen. Ökningen är statistiskt säkerställd. Enligt Novus vinner partiet framför allt väljare från Sverigedemokraterna, men också från Moderaterna.",
-      "pubDate": "2026-09-09T15:30:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: För klimatet är Liberalernas facit en katastrof",
-      "link": "https://www.dn.se/insandare/svar-for-klimatet-ar-liberalernas-facit-en-katastrof/",
-      "description": "SVAR PÅ INSÄNDARE. Tidöregeringens klimatpolitik har resulterat i ökade utsläpp, mer biltrafik och långsammare elektrifiering. Utifrån dessa faktum är det svårt att beskriva mandatperioden som en framgång för Sveriges klimatarbete, skriver Anders Isaksson.",
-      "pubDate": "2026-09-09T15:22:44Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "L når 5,8 procent i ny mätning",
-      "link": "https://www.expressen.se/nyheter/politik/l-nar-58-procent-i-ny-matning/",
-      "description": "Med bara fyra dagar kvar till valet får Liberalerna ett rejält lyft i TV4/Novus nya opinionsmätning. &nbsp; Partiet får 5,8 procent. Miljöpartiet får samtidigt sin högsta notering på tolv år. – Vi ser en medvind för vår sida, säger Simona Mohamsson till Expressen.",
-      "pubDate": "2026-09-09T14:16:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
-        "MP",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "S-toppen: Deras röda linjer faller efter valet",
-      "link": "https://www.expressen.se/nyheter/politik/s-toppen-deras-roda-linjer-faller-efter-valet/",
-      "description": "Socialdemokraternas regeringsunderlag präglas av motsättningar. Men efter valdagen kommer partiernas olika röda linjer att falla. Det hävdar partisekreteraren Tobias Baudin. – Vi är ansvarstagande partier som sätter Sverige främst, säger han.",
-      "pubDate": "2026-09-09T13:46:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Tronskifte i förtroendeligan",
-      "link": "https://www.svt.se/nyheter/inrikes/tronskifte-i-fortroendeligan",
-      "description": "Ett tronskifte i förtroendeligan. I SVT/Verians undersökning petar KD-ledaren Ebba Busch ner S-ledaren Magdalena Andersson från förstaplatsen. Undersökningen kan tolkas som en spegelbild av Socialdemokraternas nedgång i opinionen, medan KD-ledarens nya samförståndsanda tycks gå hem bland väljarna. Också L-ledaren Simona Mohamsson går starkt i valrörelsen.",
-      "pubDate": "2026-09-09T13:41:55Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "KD",
-        "L"
-      ]
-    },
-    {
-      "title": "Begravning för Harald V – kronprinsessan Victoria talade",
-      "link": "https://www.sverigesradio.se/artikel/9295481",
-      "description": "Under onsdagen hölls begravningsgudstjänst för Norges förre kung Harald V. I Oslo domkyrka samlades kungligheter, politiker och många andra inbjudna för att ta farväl av den tidigare monarken. På talarlistan stod bland andra norske statsministern Jonas Gahr Störe och svenska kronprinsessan Victoria.",
-      "pubDate": "2026-09-09T13:26:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Nya beskedet om röstfelet – de berörs inte",
-      "link": "https://www.expressen.se/nyheter/politik/nya-beskedet-om-rostfelet-de-berors-inte/",
-      "description": "Upp till 500 röster har felregistrerats under förtidsröstningen. Nu kommer Valmyndigheten med ett nytt besked om felsökningen – och listar 114 kommuner som inte berörs.",
-      "pubDate": "2026-09-09T13:06:40Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Insändare. Inse vad som hotar om SD kommer in i regeringen",
-      "link": "https://www.dn.se/insandare/inse-vad-som-hotar-om-sd-kommer-in-i-regeringen/",
-      "description": "INSÄNDARE. Som främlingar räknar Sverigedemokraterna inte bara invandrare, utan även inhemska minoriteter som samer och tornedalingar. Jag hoppas att tillräckligt många inser vad som hotar och röstar på partier som vill ha kvar ett fritt och mångkulturellt Sverige, skriver tornedalingen Henry Kallioniemi.",
-      "pubDate": "2026-09-09T12:45:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Förvirrande siffror om vårdköer i valdebatten",
-      "link": "https://www.dn.se/sverige/forvirrande-siffror-om-vardkoer-i-valdebatten/",
-      "description": "Har vårdköerna minskat i Sverige? Enligt Vänsterpartiet ”nej”. Enligt Kristdemokraterna ”ja”. Ingen ljuger. Hur kan det hänga ihop?",
-      "pubDate": "2026-09-09T12:42:28Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD"
-      ]
     }
   ],
   "blogs": [
