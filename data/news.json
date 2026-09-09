@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T19:32:47.942950Z",
+  "updated_at": "2026-09-09T22:03:23.569481Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,114 @@
     }
   ],
   "news": [
+    {
+      "title": "Tomas Ramberg: En ska bort – Kristersson eller Andersson",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-en-ska-bort-kristersson-eller-andersson/",
+      "description": "Både Ulf Kristerssons och Magdalena Anderssons öden avgörs i valet på söndag, ingen av dem överlever som partiledare om de inte vinner statsministerposten. Ändå var det Magdalena Andersson som hade mest att bevisa i onsdagens statsministermöte. Hon är hotande nära att tappa det som länge sett ut som en solklar seger.",
+      "pubDate": "2026-09-09T20:41:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Arbetslösa Torbjörn: ”Hur ska vi i träsket överleva?”",
+      "link": "https://www.svt.se/nyheter/inrikes/arbetslosa-torbjorn-hur-ska-vi-i-trasket-overleva",
+      "description": "Torbjörn Wikström lever på försörjningsstöd och undrar hur han ska överleva ekonomiskt. Samtidigt har Tidöregeringen stramat åt socialförsäkringen. – Det kan inte vara så att man ska kunna leva på bidrag och ha det bättre ställt än den som går till jobbet varje dag, säger statsminister Ulf Kristersson.",
+      "pubDate": "2026-09-09T20:34:17Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "9 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/9-september-missa-inte-dagens-nyheter/",
+      "description": "Liberalernas nya lyft, den nya norska kungen på slottsbalkongen och den 30-åriga domen som kan fria lotsen vid Tjörnolyckan – missa inte dagens nyheter.",
+      "pubDate": "2026-09-09T20:28:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Irriterat tonläge – pressen ökar inför valspurten",
+      "link": "https://www.svt.se/nyheter/inrikes/irriterat-tonlage-pressen-okar-infor-valspurten",
+      "description": "Det var stundtals irriterat och lite tjafsigt mellan statsminister Ulf Kristersson och S-ledaren Magdalena Andersson i SVT:s statministerduell. Förklaringen är enkel: Endast några dagar återstår till valet, båda partiledarna är satta under hård press och regeringsmakten står på spel.",
+      "pubDate": "2026-09-09T20:23:09Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "S-nej till slopad mängdrabatt präglade debatten",
+      "link": "https://www.sverigesradio.se/artikel/9295813",
+      "description": "De två statsministerkandidaterna Moderaternas Ulf Kristersson och och Socialdemokraternas Magdalena Andersson möttes ikväll i en duell i SVT. \"Det som följde hela debatten var den pågående konflikten mellan Moderaterna och Socialdemokraterna om varför Socialdemokraterna röstade nej i en omröstning i riksdagen om den så kallade mängdrabatten\", säger Ekots reporter Katarina Helmerson. Under debatten fick väljarna ställa frågor till partiledarna. En fråga som berörde fler var vad statsministerkandidaterna vill göra för människor som går på försörjningsstöd.",
+      "pubDate": "2026-09-09T20:19:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Hård duell om slopade straffrabatter: ”Tappat all trovärdighet”",
+      "link": "https://www.dn.se/sverige/hard-duell-infor-publik-om-slopade-straffrabatter/",
+      "description": "GÄVLE. Den hårdaste konflikten i onsdagskvällens statsministermöte i SVT handlade om straffrabatten. Moderatledaren anklagade Socialdemokraterna för att inte stå upp för brottsoffren. – Det Ulf Kristersson säger är inte korrekt, replikerade Magdalena Andersson.",
+      "pubDate": "2026-09-09T20:09:16Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Hetsig debatt mellan Andersson och Kristersson",
+      "link": "https://www.expressen.se/nyheter/politik/hetsig-debatt-mellan-andersson-och-kristersson/",
+      "description": "Ulf Kristersson (M) och Magdalena Andersson (S) bråkade om kriminalpolitiken i SVT:s ”Statsministermötet”.&nbsp; – Ni sviker landets brottsoffer! röt Kristersson.&nbsp; – Jag kommer inte att leda en regering som är soft on crime, lovade Andersson.&nbsp; Känslorna var heta även efter debatten. &nbsp;",
+      "pubDate": "2026-09-09T19:47:02Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Att valet alls lever är en framgång för Kristersson",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/att-valet-alls-lever-ar-en-framgang-for-kristersson/",
+      "description": "Valet avgjordes sannolikt inte i SVT:s statsministerduell. Men att frågan ens är aktuell gör Ulf Kristersson till dagens vinnare.",
+      "pubDate": "2026-09-09T19:45:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "C och KD: Beredda att samarbeta vid regeringsskifte",
       "link": "https://www.sverigesradio.se/artikel/9295781",
@@ -170,111 +278,6 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "L når 5,8 procent i ny mätning",
-      "link": "https://www.expressen.se/nyheter/politik/l-nar-58-procent-i-ny-matning/",
-      "description": "Med bara fyra dagar kvar till valet får Liberalerna ett rejält lyft i TV4/Novus nya opinionsmätning. Partiet får 5,8 procent. Miljöpartiet får samtidigt sin högsta notering på tolv år. – Vi ser en medvind för vår sida, säger Simona Mohamsson till Expressen.",
-      "pubDate": "2026-09-09T17:16:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
-        "MP",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "S-topparnas svar – efter nobben från C",
-      "link": "https://www.expressen.se/nyheter/politik/s-topparnas-svar--efter-nobben-fran-c/",
-      "description": "Socialdemokraterna driver ett totalförbud mot vinster i skolan, medan Centerpartiet vill behålla aktiebolagen. Anders Ygeman (S) medger att man kommer behöva kompromissa. – Det här är en av våra absolut främsta prioriteringar, säger han.",
-      "pubDate": "2026-09-09T17:15:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Statsministerkandidaterna möts i SVT-duell inför valet",
-      "link": "https://www.dn.se/sverige/statsministerkandidaterna-mots-i-svt-duell-infor-valet/",
-      "description": "Statsministerkandidaterna Ulf Kristersson (M) och Magdalena Andersson (S) debatterar och svarar på väljarnas frågor i SVT från Gasklockorna i Gävle. Följ DN:s direktrapport med politikreportrarna Hans Rosén och Pia Gripenberg samt politiska kommentatorn Tomas Ramberg.",
-      "pubDate": "2026-09-09T17:07:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "M-källa: ”Kan inte låta SD definiera högerpositionen”",
-      "link": "https://www.dn.se/sverige/m-kalla-kan-inte-lata-sd-definiera-hogerpositionen/",
-      "description": "Moderaterna öppnade dörren för Sverigedemokraterna. Nu står de likt flera av sina systerpartier i Europa inför en avgörande fråga: Hur ska de undgå att slukas av SD – oavsett om de vinner eller förlorar valet?",
-      "pubDate": "2026-09-09T17:00:58Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD"
-      ]
-    },
-    {
-      "title": "Furtenbach: ”Visar återigen att rödgröna sidan inte går ihop”",
-      "link": "https://www.sverigesradio.se/artikel/9295641",
-      "description": "Centerpartiet går hellre till extraval än att sitta i en regering med Vänsterpartiet , sa partiledaren Elisabeth Thand Ringqvist i SVT:s partiledarutfrågning. ”Det visar återigen att den rödgröna sidan inte går ihop” säger Ekots inrikespolitiska kommentator Fredrik Furtenbach, som tror på en lång regeringsbildning om oppositionen vinner valet. Men det skaver även på Tidösidan, menar Furtenbach: ”Tonläget har försämrats mellan Kristdemokraterna och Sverigedemokraterna”.",
-      "pubDate": "2026-09-09T16:35:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V",
-        "C",
-        "KD",
-        "Regeringsbildning",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Expert om L:s lyft: Troligen stödröster från M",
-      "link": "https://www.dn.se/sverige/expert-om-ls-lyft-troligen-stodroster-fran-m/",
-      "description": "Liberalerna ligger klart över fyraprocentsspärren i en ny mätning av TV4/Novus. Partiet får 5,8 procent, men det är svårt att dra slutsatser eftersom mätningen bara gjordes under tre dagar. – Det enda man kan göra nu är att vänta på nästa mätning och se om tendenserna bekräftas, säger statsvetaren Henrik Ekengren Oscarsson.",
-      "pubDate": "2026-09-09T15:59:51Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Mammans straffrabatt  efter dödsbranden: 80 år",
-      "link": "https://www.expressen.se/kronikorer/fredrik-sjoshult/mammans-straffrabatt--efter-dodsbranden-80-ar/",
-      "description": "På Göteborgs centralstation påstår Moderaterna felaktigt: ”Ingen straffrabatt när någon begår många brott.” I en annan del av staden rannsakas mamman som spärrade in sitt barn ett 40-tal gånger – en seriebrottslighet som slutade med att flickans omkom i en dödsbrand. Hon fick 80 års mängdrabatt i tingsrätten och det ska nu prövas i hovrätten. Fallet visar hur komplex frågan om straffrabatter är.",
-      "pubDate": "2026-09-09T15:56:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Valmyndighetens felsökning fortsätter",
-      "link": "https://www.sverigesradio.se/artikel/9295691",
-      "description": "Valmyndighetens analys av fel som uppstått under förtidsröstningen pågår. På Valmyndighetens hemsida finns nu en lista på 114 kommuner där inga fel har upptäckts, en lista som kommer att fyllas på efterhand som analysen blir klar, enligt Anna Nykvist på Valmyndigheten. Felet har uppstått när två väljare har registrerats på samma röstlängdsnummer är nu åtgärdat och kan inte inträffa igen, enligt Valmyndigheten.",
-      "pubDate": "2026-09-09T15:54:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
