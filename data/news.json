@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T12:01:00.601530Z",
+  "updated_at": "2026-09-09T16:47:10.039676Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,121 +79,75 @@
   ],
   "news": [
     {
-      "title": "Estland kritiserar svenskt skärmförbud i skolan",
-      "link": "https://www.sverigesradio.se/artikel/9295374",
-      "description": "I Estland, där elever presterar bäst i Europa, väcker svenska politikers krav på skärmförbud i grundskolan förvåning. Liberalerna vill förbjuda personliga surfplattor och datorer, medan Estlands utbildningsminister anser att lärare själva ska avgöra vilka verktyg som används. Där används i stället en blandning av böcker, skärmar och AI i klassrummet.",
-      "pubDate": "2026-09-09T11:47:00Z",
+      "title": "Furtenbach: ”Visar återigen att rödgröna sidan inte går ihop”",
+      "link": "https://www.sverigesradio.se/artikel/9295641",
+      "description": "Centerpartiet går hellre till extraval än att sitta i en regering med Vänsterpartiet , sa partiledaren Elisabeth Thand Ringqvist i SVT:s partiledarutfrågning. ”Det visar återigen att den rödgröna sidan inte går ihop” säger Ekots inrikespolitiska kommentator Fredrik Furtenbach, som tror på en lång regeringsbildning om oppositionen vinner valet. Men det skaver även på Tidösidan, menar Furtenbach: ”Tonläget har försämrats mellan Kristdemokraterna och Sverigedemokraterna”.",
+      "pubDate": "2026-09-09T16:35:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V",
+        "C",
+        "KD",
+        "Regeringsbildning",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Expert om L:s lyft: Troligen stödröster från M",
+      "link": "https://www.dn.se/sverige/expert-om-ls-lyft-troligen-stodroster-fran-m/",
+      "description": "Liberalerna ligger klart över fyraprocentsspärren i en ny mätning av TV4/Novus. Partiet får 5,8 procent, men det är svårt att dra slutsatser eftersom mätningen bara gjordes under tre dagar. – Det enda man kan göra nu är att vänta på nästa mätning och se om tendenserna bekräftas, säger statsvetaren Henrik Ekengren Oscarsson.",
+      "pubDate": "2026-09-09T15:59:51Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "L"
       ]
     },
     {
-      "title": "Valmyndigheten: Kommunerna som inte berörs av felet",
-      "link": "https://www.dn.se/sverige/valmyndigheten-kommunerna-som-inte-berors-av-felet/",
-      "description": "Knappt 500 förtidsröster riskerar att ogiltigförklaras på grund av tekniska problem. Nu listar Valmyndigheten 114 kommuner som inte berörs av felet.",
-      "pubDate": "2026-09-09T11:25:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Bara S vill styra var tandläkare får öppna klinik",
-      "link": "https://www.sverigesradio.se/artikel/9294328",
-      "description": "Alla partier vill att tillgången på tandvård ska vara jämt fördelad över landet men få vill styra var tandläkare ska få etablera sig. ”Vi ser inte att problemet är att vi har för många kliniker i Stockholm utan att vi har för få kliniker i våra landsbygder.” säger Christofer Bergenblock (C). Socialdemokraterna är det enda partiet som vill se en mer behovsstyrd tandvård. ”Vi vill ju helt enkelt att det ska finnas tillgång till tandvård i hela landet.” säger Lena Hallengren (S).",
-      "pubDate": "2026-09-09T11:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "”Korrupt Kristerssonkultur”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=4ae2c6e5-5cce-411d-b71d-a882fb69ea1e",
-      "description": "S till attack mot statsministern efter Expressens avslöjande",
-      "pubDate": "2026-09-09T10:25:59Z",
+      "title": "Mammans straffrabatt  efter dödsbranden: 80 år",
+      "link": "https://www.expressen.se/kronikorer/fredrik-sjoshult/mammans-straffrabatt--efter-dodsbranden-80-ar/",
+      "description": "På Göteborgs centralstation påstår Moderaterna felaktigt: ”Ingen straffrabatt när någon begår många brott.” I en annan del av staden rannsakas mamman som spärrade in sitt barn ett 40-tal gånger – en seriebrottslighet som slutade med att flickans omkom i en dödsbrand. Hon fick 80 års mängdrabatt i tingsrätten och det ska nu prövas i hovrätten. Fallet visar hur komplex frågan om straffrabatter är.",
+      "pubDate": "2026-09-09T15:56:47Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "Regeringsbildning"
+        "M"
       ]
     },
     {
-      "title": "Väljarnas förtroende för Andersson minskar – Busch i topp",
-      "link": "https://www.svt.se/nyheter/inrikes/valjarnas-fortroende-for-andersson-minskar-busch-i-topp",
-      "description": "Väljarnas förtroende för Magdalena Andersson minskar, enligt en ny mätning från SVT/Verian. Väljarna har nu lika högt förtroende för statsminister Ulf Kristersson som för Socialdemokraternas partiledare. Samtidigt ökar Ebba Busch kraftigt – och leder nu förtroendeligan.",
-      "pubDate": "2026-09-09T09:59:56Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "Valmyndighetens felsökning fortsätter",
+      "link": "https://www.sverigesradio.se/artikel/9295691",
+      "description": "Valmyndighetens analys av fel som uppstått under förtidsröstningen pågår. På Valmyndighetens hemsida finns nu en lista på 114 kommuner där inga fel har upptäckts, en lista som kommer att fyllas på efterhand som analysen blir klar, enligt Anna Nykvist på Valmyndigheten. Felet har uppstått när två väljare har registrerats på samma röstlängdsnummer är nu åtgärdat och kan inte inträffa igen, enligt Valmyndigheten.",
+      "pubDate": "2026-09-09T15:54:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Kristerssons attack på Andersson",
+      "link": "https://www.expressen.se/nyheter/politik/kristerssons-attack-pa-andersson/",
+      "description": "I kväll möts Ulf Kristersson och Magdalena Andersson i debatt i SVT. Innan debatten går statsministern till attack mot S-ledaren. ”Då vill jag ha svar på varför du inte vill stå upp för brottsoffren”, skriver Kristersson.",
+      "pubDate": "2026-09-09T15:39:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
         "M",
-        "KD",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "Gabriel Zetterström: Martin Lorentzon kan dra – rädda musiken i stället",
-      "link": "https://www.dn.se/kultur/gabriel-zetterstrom-martin-lorentzon-kan-dra-radda-musiken-i-stallet/",
-      "description": "Spotifygrundaren hotar att lämna landet om de rödgröna vinner. Men det är högerregeringens nedskärningar – inte en skatt på miljardärer – som hotar svenskt kulturliv, skriver DN:s Gabriel Zetterström.",
-      "pubDate": "2026-09-09T09:30:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Insändare. Därför bör S- och C-väljare stödrösta på L",
-      "link": "https://www.dn.se/insandare/darfor-bor-s-och-c-valjare-stodrosta-pa-l/",
-      "description": "INSÄNDARE. Liberalerna har åstadkommit en rad viktiga saker under den gångna mandatperioden. Centerpartister och mittenorienterade sossar som inte gillar Vänsterpartiet eller Miljöpartiet bör stödrösta på Liberalerna för att hålla extremister och aktivister borta från regeringen, skriver småföretagaren Staffan Eriksson.",
-      "pubDate": "2026-09-09T09:13:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "L",
-        "MP"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Mohamsson förminskar sitt parti med stödkorv",
-      "link": "https://www.dn.se/insandare/svar-mohamsson-forminskar-sitt-parti-med-stodkorv/",
-      "description": "SVAR PÅ INSÄNDARE. Liberalerna har ett historiskt arv som de borde kunna vara stolta över. Men när partiledaren står och delar ut varmkorv för att vinna stödröster har Liberalerna själva förminskat sitt parti till en fråga om stödröster. skriver Per Amundsson.",
-      "pubDate": "2026-09-09T08:46:04Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "L vill stoppa personliga skärmar i skolan",
-      "link": "https://www.expressen.se/nyheter/politik/l-vill-stoppa-personliga-skarmar-i-skolan/",
-      "description": "Efter Pisa-raset för svenska elever vill Liberalerna helt stoppa personliga skärmar i skolan.",
-      "pubDate": "2026-09-09T08:45:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Dadgostar sjuk – ställer in",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d4051b21-2fe5-417a-bd00-c5eef04a998e",
-      "description": "Magproblem mitt i valspurten",
-      "pubDate": "2026-09-09T08:09:58Z",
+      "title": "Nooshi Dadgostar frisk igen",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=1a52b1d0-b812-42ff-8e9d-944722fa8c0e",
+      "description": "V-ledaren med i debatt, enligt TV4",
+      "pubDate": "2026-09-09T15:35:21Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -202,10 +156,24 @@
       ]
     },
     {
-      "title": "Efter Pisaraset: L vill dra tillbaka elevernas datorer",
-      "link": "https://www.dn.se/sverige/efter-pisaraset-l-vill-dra-tillbaka-elevernas-datorer/",
-      "description": "I valrörelsens slutspurt går Liberalerna till nytt angrepp mot skärmarna i skolan. Efter de svaga Pisaresultaten vill partiet stoppa elevernas egna datorer och surfplattor.",
-      "pubDate": "2026-09-09T07:00:27Z",
+      "title": "L ligger över riksdagsspärren i ny opinionsundersökning",
+      "link": "https://www.sverigesradio.se/artikel/9295685",
+      "description": "Liberalerna får 5,8 procent av rösterna I en ny opinionsundersökning gjord av Novus publicerad i TV4 och Göteborgsposten. &nbsp; Det är första gången under den här mandatperioden som partiet ligger över riksdagsspärren på 4 procent. Under senare delen av mandatperioden har Liberalerna legat runt 2 procent i opinionen. Ökningen är statistiskt säkerställd. Enligt Novus vinner partiet framför allt väljare från Sverigedemokraterna, men också från Moderaterna.",
+      "pubDate": "2026-09-09T15:30:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: För klimatet är Liberalernas facit en katastrof",
+      "link": "https://www.dn.se/insandare/svar-for-klimatet-ar-liberalernas-facit-en-katastrof/",
+      "description": "SVAR PÅ INSÄNDARE. Tidöregeringens klimatpolitik har resulterat i ökade utsläpp, mer biltrafik och långsammare elektrifiering. Utifrån dessa faktum är det svårt att beskriva mandatperioden som en framgång för Sveriges klimatarbete, skriver Anders Isaksson.",
+      "pubDate": "2026-09-09T15:22:44Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -214,53 +182,91 @@
       ]
     },
     {
-      "title": "Skarpa MP-kravet:  De ska bli ministrar",
-      "link": "https://www.expressen.se/nyheter/politik/skarpa-mp-kravet--de-ska-bli-ministrar/",
-      "description": "Miljöpartiet har passerat 20 000 medlemmar och är större än någonsin. Nu tänker språkrören bli ministrar – men inte i en mittenregering. – Det faller på sin egen orimlighet att försöka få ihop det här med KD, säger Amanda Lind. &nbsp; Osäker inför valet? Gör Expressens valkompass!",
-      "pubDate": "2026-09-09T06:20:06Z",
+      "title": "L når 5,8 procent i ny mätning",
+      "link": "https://www.expressen.se/nyheter/politik/l-nar-58-procent-i-ny-matning/",
+      "description": "Med bara fyra dagar kvar till valet får Liberalerna ett rejält lyft i TV4/Novus nya opinionsmätning. &nbsp; Partiet får 5,8 procent. Miljöpartiet får samtidigt sin högsta notering på tolv år. – Vi ser en medvind för vår sida, säger Simona Mohamsson till Expressen.",
+      "pubDate": "2026-09-09T14:16:15Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "MP"
+        "L",
+        "MP",
+        "Opinion"
       ]
     },
     {
-      "title": "Tomas Nordenskiöld: ”Vinna eller försvinna för Andersson och Kristersson”",
-      "link": "https://www.svt.se/nyheter/inrikes/tomas-nordenskiold-vinna-eller-forsvinna-for-andersson-och-kristersson",
-      "description": "På onsdagskvällen möts Ulf Kristersson (M) och Magdalena Andersson (S) i statsministerduellen på SVT. Och det är då allt kan avgöras. – Att väljarna ställer frågorna i större utsträckning gör de här klassiska duellerna svårare, säger SVT:s politikreporter Tomas Nordenskiöld.",
-      "pubDate": "2026-09-09T04:09:48Z",
+      "title": "S-toppen: Deras röda linjer faller efter valet",
+      "link": "https://www.expressen.se/nyheter/politik/s-toppen-deras-roda-linjer-faller-efter-valet/",
+      "description": "Socialdemokraternas regeringsunderlag präglas av motsättningar. Men efter valdagen kommer partiernas olika röda linjer att falla. Det hävdar partisekreteraren Tobias Baudin. – Vi är ansvarstagande partier som sätter Sverige främst, säger han.",
+      "pubDate": "2026-09-09T13:46:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Tronskifte i förtroendeligan",
+      "link": "https://www.svt.se/nyheter/inrikes/tronskifte-i-fortroendeligan",
+      "description": "Ett tronskifte i förtroendeligan. I SVT/Verians undersökning petar KD-ledaren Ebba Busch ner S-ledaren Magdalena Andersson från förstaplatsen. Undersökningen kan tolkas som en spegelbild av Socialdemokraternas nedgång i opinionen, medan KD-ledarens nya samförståndsanda tycks gå hem bland väljarna. Också L-ledaren Simona Mohamsson går starkt i valrörelsen.",
+      "pubDate": "2026-09-09T13:41:55Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "M",
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Begravning för Harald V – kronprinsessan Victoria talade",
+      "link": "https://www.sverigesradio.se/artikel/9295481",
+      "description": "Under onsdagen hölls begravningsgudstjänst för Norges förre kung Harald V. I Oslo domkyrka samlades kungligheter, politiker och många andra inbjudna för att ta farväl av den tidigare monarken. På talarlistan stod bland andra norske statsministern Jonas Gahr Störe och svenska kronprinsessan Victoria.",
+      "pubDate": "2026-09-09T13:26:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
         "Regeringsbildning"
       ]
     },
     {
-      "title": "Expert: Då är det ett problem att pr-byråer skriver åt politiker",
-      "link": "https://www.sverigesradio.se/artikel/9293937",
-      "description": "Experter på lobbying och PR reagerar starkt på Ekots avslöjande om att Tobias Andersson (SD), ordförande i riksdagens näringsutskott, skrev en debattartikel där Skatteverket anklagas för politisk aktivism, ihop med en pr-byrå som anlitats av ett tobaksföretag som låg i konflikt med Skatteverket. Det är inte unikt att politiker får hjälp av pr-byråer och olika intressegrupper när de formulerar sin politik, men det här fallet sticker ändå ut, enligt Alexander Katsaitis docent som forskar på PR och lobbying på Stockholms universitet. ”Vad som är lite ovanligt är att ordföranden för ett riksdagsutskott går ut så aggressivt mot en statlig myndighet” säger han.",
-      "pubDate": "2026-09-09T04:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Nya beskedet om röstfelet – de berörs inte",
+      "link": "https://www.expressen.se/nyheter/politik/nya-beskedet-om-rostfelet-de-berors-inte/",
+      "description": "Upp till 500 röster har felregistrerats under förtidsröstningen. Nu kommer Valmyndigheten med ett nytt besked om felsökningen – och listar 114 kommuner som inte berörs.",
+      "pubDate": "2026-09-09T13:06:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Inse vad som hotar om SD kommer in i regeringen",
+      "link": "https://www.dn.se/insandare/inse-vad-som-hotar-om-sd-kommer-in-i-regeringen/",
+      "description": "INSÄNDARE. Som främlingar räknar Sverigedemokraterna inte bara invandrare, utan även inhemska minoriteter som samer och tornedalingar. Jag hoppas att tillräckligt många inser vad som hotar och röstar på partier som vill ha kvar ett fritt och mångkulturellt Sverige, skriver tornedalingen Henry Kallioniemi.",
+      "pubDate": "2026-09-09T12:45:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S"
+        "SD"
       ]
     },
     {
-      "title": "Snusbolags pr-byrå bakom politikerns anklagelse",
-      "link": "https://www.sverigesradio.se/artikel/9293755",
-      "description": "En debattartikel, där Tobias Andersson (SD), ordförande i riksdagens näringsutskott anklagar Skatteverket för politisk aktivism, skrevs ihop med en pr-byrå som anlitats av ett tobaksföretag som låg i konflikt med Skatteverket. Det visar Ekots fortsatta granskning av tobakslobbyns försök att påverka den svenska politiken. ”Jag tycker att det här fallet är anmärkningsvärt och kanske rent av stötande” säger docent Anna Tyllström, som forskar om lobbying på Uppsala universitet.",
-      "pubDate": "2026-09-09T04:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Förvirrande siffror om vårdköer i valdebatten",
+      "link": "https://www.dn.se/sverige/forvirrande-siffror-om-vardkoer-i-valdebatten/",
+      "description": "Har vårdköerna minskat i Sverige? Enligt Vänsterpartiet ”nej”. Enligt Kristdemokraterna ”ja”. Ingen ljuger. Hur kan det hänga ihop?",
+      "pubDate": "2026-09-09T12:42:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S"
+        "V",
+        "KD"
       ]
     }
   ],
@@ -441,6 +447,20 @@
   ],
   "podcasts": [
     {
+      "title": "Kvartal Idag: Förtroendet för Andersson rasar",
+      "link": "https://pod.space/kvartal/kvartal-idag-fortroendet-for-andersson-rasar",
+      "description": "Omsprungen av både Busch och Kristersson. Noll dödsskjutningar i Göteborg på ett år. Kulturfrågorna har försvunnit i valspurten. Och vad visste Netanyahu innan 7 oktober? Programledare: Cassandra Alm.&nbsp;",
+      "pubDate": "2026-09-09T13:57:43Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "KD"
+      ]
+    },
+    {
       "title": "Inläst: Kritik mot S valrörelse i Malmö",
       "link": "https://pod.space/kvartal/inlast-kritik-mot-s-valrorelse-i-malmo",
       "description": "Inför förra valet delade en S-politiker ut förkryssade valsedlar i ett miljonprogram i Malmö. Trots det sitter politikern på förtroendeuppdrag för Socialdemokraterna – och kandiderar nu på nytt. På torsdagen fick S frågor i fullmäktige efter min granskning av partiets valkampanj i stadens utsatta områden. – Det är inte en bugg, det är en funktion, säger Centerpartiet. Av Federico Moreno Inläsare: Ella Öfwerman",
@@ -613,19 +633,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": []
-    },
-    {
-      "title": "”Ebba Busch blir den man ska bekämpa”",
-      "link": "https://pod.space/alskadepolitik/ebba-busch-blir-den-man-ska-bekampa",
-      "description": "Åkesson attackerar Busch – och Busch avvärjer med en fika. Men det räcker inte för SD-ledaren. Är det full kannibalism i Tidöpartierna?",
-      "pubDate": "2026-08-31T14:31:06Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "KD"
-      ]
     }
   ]
 }
