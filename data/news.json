@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T06:49:14.853365Z",
+  "updated_at": "2026-09-09T12:01:00.601530Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,22 +79,44 @@
   ],
   "news": [
     {
-      "title": "Skarpa MP-kravet:  De ska bli ministrar",
-      "link": "https://www.expressen.se/nyheter/politik/skarpa-mp-kravet--de-ska-bli-ministrar/",
-      "description": "Miljöpartiet har passerat 20 000 medlemmar och är större än någonsin. Nu tänker språkrören bli ministrar – men inte i en mittenregering. – Det faller på sin egen orimlighet att försöka få ihop det här med KD, säger Amanda Lind. &nbsp; Osäker inför valet? Gör Expressens valkompass!",
-      "pubDate": "2026-09-09T06:20:07Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Estland kritiserar svenskt skärmförbud i skolan",
+      "link": "https://www.sverigesradio.se/artikel/9295374",
+      "description": "I Estland, där elever presterar bäst i Europa, väcker svenska politikers krav på skärmförbud i grundskolan förvåning. Liberalerna vill förbjuda personliga surfplattor och datorer, medan Estlands utbildningsminister anser att lärare själva ska avgöra vilka verktyg som används. Där används i stället en blandning av böcker, skärmar och AI i klassrummet.",
+      "pubDate": "2026-09-09T11:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "MP"
+        "L"
       ]
     },
     {
-      "title": "Ulf Kristerssons okända notor för privata festerna",
-      "link": "https://www.expressen.se/nyheter/sverige/ulf-kristerssons-okanda-notor-for-privata-festerna/",
-      "description": "Ulf Kristersson går till val med ett löfte om att stoppa slöseriet med skattepengar.&nbsp; Samtidigt har statsministern vid två tillfällen ordnat privata födelsedagsfiranden där myndighetens personal lagat mat och serverat. När han fyllde 59 år spenderade myndigheten 36 arbetstimmar på att ta hand om gäster som han bjudit in på privat middag och frukost på Harpsund –&nbsp;ett halvår senare sattes det upp som en löneförmån.&nbsp;",
-      "pubDate": "2026-09-09T05:08:17Z",
+      "title": "Valmyndigheten: Kommunerna som inte berörs av felet",
+      "link": "https://www.dn.se/sverige/valmyndigheten-kommunerna-som-inte-berors-av-felet/",
+      "description": "Knappt 500 förtidsröster riskerar att ogiltigförklaras på grund av tekniska problem. Nu listar Valmyndigheten 114 kommuner som inte berörs av felet.",
+      "pubDate": "2026-09-09T11:25:16Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Bara S vill styra var tandläkare får öppna klinik",
+      "link": "https://www.sverigesradio.se/artikel/9294328",
+      "description": "Alla partier vill att tillgången på tandvård ska vara jämt fördelad över landet men få vill styra var tandläkare ska få etablera sig. ”Vi ser inte att problemet är att vi har för många kliniker i Stockholm utan att vi har för få kliniker i våra landsbygder.” säger Christofer Bergenblock (C). Socialdemokraterna är det enda partiet som vill se en mer behovsstyrd tandvård. ”Vi vill ju helt enkelt att det ska finnas tillgång till tandvård i hela landet.” säger Lena Hallengren (S).",
+      "pubDate": "2026-09-09T11:22:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "”Korrupt Kristerssonkultur”",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=4ae2c6e5-5cce-411d-b71d-a882fb69ea1e",
+      "description": "S till attack mot statsministern efter Expressens avslöjande",
+      "pubDate": "2026-09-09T10:25:59Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -104,15 +126,103 @@
       ]
     },
     {
-      "title": "S vill tillsätta kriskommission efter Pisa-raset",
-      "link": "https://www.expressen.se/nyheter/politik/s-vill-tillsatta-kriskommission-efter-pisa-raset/",
-      "description": "Det dåliga svenska resultatet i Pisa-mätningen har skakat om Sverige. Nu vill Socialdemokraterna tillsätta en kriskommission.",
-      "pubDate": "2026-09-09T05:07:56Z",
+      "title": "Väljarnas förtroende för Andersson minskar – Busch i topp",
+      "link": "https://www.svt.se/nyheter/inrikes/valjarnas-fortroende-for-andersson-minskar-busch-i-topp",
+      "description": "Väljarnas förtroende för Magdalena Andersson minskar, enligt en ny mätning från SVT/Verian. Väljarna har nu lika högt förtroende för statsminister Ulf Kristersson som för Socialdemokraternas partiledare. Samtidigt ökar Ebba Busch kraftigt – och leder nu förtroendeligan.",
+      "pubDate": "2026-09-09T09:59:56Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Gabriel Zetterström: Martin Lorentzon kan dra – rädda musiken i stället",
+      "link": "https://www.dn.se/kultur/gabriel-zetterstrom-martin-lorentzon-kan-dra-radda-musiken-i-stallet/",
+      "description": "Spotifygrundaren hotar att lämna landet om de rödgröna vinner. Men det är högerregeringens nedskärningar – inte en skatt på miljardärer – som hotar svenskt kulturliv, skriver DN:s Gabriel Zetterström.",
+      "pubDate": "2026-09-09T09:30:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Därför bör S- och C-väljare stödrösta på L",
+      "link": "https://www.dn.se/insandare/darfor-bor-s-och-c-valjare-stodrosta-pa-l/",
+      "description": "INSÄNDARE. Liberalerna har åstadkommit en rad viktiga saker under den gångna mandatperioden. Centerpartister och mittenorienterade sossar som inte gillar Vänsterpartiet eller Miljöpartiet bör stödrösta på Liberalerna för att hålla extremister och aktivister borta från regeringen, skriver småföretagaren Staffan Eriksson.",
+      "pubDate": "2026-09-09T09:13:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "L",
+        "MP"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Mohamsson förminskar sitt parti med stödkorv",
+      "link": "https://www.dn.se/insandare/svar-mohamsson-forminskar-sitt-parti-med-stodkorv/",
+      "description": "SVAR PÅ INSÄNDARE. Liberalerna har ett historiskt arv som de borde kunna vara stolta över. Men när partiledaren står och delar ut varmkorv för att vinna stödröster har Liberalerna själva förminskat sitt parti till en fråga om stödröster. skriver Per Amundsson.",
+      "pubDate": "2026-09-09T08:46:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "L vill stoppa personliga skärmar i skolan",
+      "link": "https://www.expressen.se/nyheter/politik/l-vill-stoppa-personliga-skarmar-i-skolan/",
+      "description": "Efter Pisa-raset för svenska elever vill Liberalerna helt stoppa personliga skärmar i skolan.",
+      "pubDate": "2026-09-09T08:45:58Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S"
+        "L"
+      ]
+    },
+    {
+      "title": "Dadgostar sjuk – ställer in",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=d4051b21-2fe5-417a-bd00-c5eef04a998e",
+      "description": "Magproblem mitt i valspurten",
+      "pubDate": "2026-09-09T08:09:58Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Efter Pisaraset: L vill dra tillbaka elevernas datorer",
+      "link": "https://www.dn.se/sverige/efter-pisaraset-l-vill-dra-tillbaka-elevernas-datorer/",
+      "description": "I valrörelsens slutspurt går Liberalerna till nytt angrepp mot skärmarna i skolan. Efter de svaga Pisaresultaten vill partiet stoppa elevernas egna datorer och surfplattor.",
+      "pubDate": "2026-09-09T07:00:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Skarpa MP-kravet:  De ska bli ministrar",
+      "link": "https://www.expressen.se/nyheter/politik/skarpa-mp-kravet--de-ska-bli-ministrar/",
+      "description": "Miljöpartiet har passerat 20 000 medlemmar och är större än någonsin. Nu tänker språkrören bli ministrar – men inte i en mittenregering. – Det faller på sin egen orimlighet att försöka få ihop det här med KD, säger Amanda Lind. &nbsp; Osäker inför valet? Gör Expressens valkompass!",
+      "pubDate": "2026-09-09T06:20:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
       ]
     },
     {
@@ -151,127 +261,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Valinformatören: ”Det största är att få de som tvekar att rösta”",
-      "link": "https://www.sverigesradio.se/artikel/9294290",
-      "description": "Botkyrka hade en av landets största nedgångar i valdeltagandet 2022, från 78 till 71 procent. I Hallunda centrum möter valinformatören Lamia Uganalp Botkyrkabor som inte känner till förtidsröstningen eller tvivlar på att deras röst gör skillnad. Samtidigt minskar budgeten för demokratiinsatser jämfört med förra valet. Demokratiutvecklarna pekar på bland annat utbildning, politiskt intresse och tillit som faktorer till det låga valdeltagandet.",
-      "pubDate": "2026-09-09T03:50:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Magdalena Andersson: SD infiltrerat av Putinvänner",
-      "link": "https://www.sverigesradio.se/artikel/9294955",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson anklagar Sverigedemokraterna för att vara infiltrerade av rysslandsvänliga personer. Det sa hon i SVT när hon mötte SD-ledaren Jimmie Åkesson i en duell. ”Det här är otroligt allvarligt att det nått hela vägen upp till statsministerns kansli”, säger S-ledaren.",
-      "pubDate": "2026-09-08T21:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Åkesson: ”Har ägnat hela valrörelsen åt att hata mig”",
-      "link": "https://www.svt.se/nyheter/inrikes/akesson-har-agnat-hela-valrorelsen-at-att-hata-mig",
-      "description": "Magdalena Andersson kritiserar SD efter att det blivit känt att en av partiets tjänstemän spridit proryska budskap. Men SD-ledaren Jimmie Åkesson slår tillbaka i Aktuellts debatt. – Magdalena Andersson har ägnat hela den här valrörelsen åt att hata mig och mitt parti, säger han.",
-      "pubDate": "2026-09-08T20:28:27Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "S-ledarens attack: SD är infiltrerat av Putinvänner",
-      "link": "https://www.dn.se/sverige/s-anklagar-sd-for-putininfiltration-inga-ryssvanner-i-mitt-parti/",
-      "description": "Magdalena Andersson (S) anklagar, i en debatt i SVT:s Aktuellt, SD för att ha infiltrerats av Putinvänner. – Det här är otroligt allvarligt att det nått hela vägen till statsministerns kansli, säger Andersson. Jimmie Åkesson säger att det inte finns något utrymme för Putinvänner i SD.",
-      "pubDate": "2026-09-08T20:13:28Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Åkessons bandpolare säljer nazistmusik",
-      "link": "https://www.dn.se/sverige/akessons-bandpolare-saljer-nazistmusik/",
-      "description": "Sångaren Marcus Öhrn frontar dansbandet ”Åkezzonz” och valturnerar med Sverigedemokraterna. Samtidigt säljer han antisemitisk vit makt-musik via sitt skivbolag, rapporterar Dagens ETC. ”Ett enormt hyckleri från ett parti som säger sig ha gjort upp med sitt nazistiska förflutna”, skriver Socialdemokraternas partisekreterare Tobias Baudin till TT.",
-      "pubDate": "2026-09-08T20:01:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "C: Hellre extraval än regering med V",
-      "link": "https://www.sverigesradio.se/artikel/9294940",
-      "description": "I SVT:s partiledarutfrågning sa centerledaren Elisabeth Thand Ringqvist att hon hellre går till extraval än bildar regering med Vänsterpartiet, om den rödgröna sidan vinner valet. Hon ser istället en blocköverskridande mittenregering framför sig där Socialdemokraterna, Miljöpartiet och Kristdemokraterna ingår. Samtidigt har KD-ledaren Ebba Busch de senaste dagarna gett beskedet att hennes parti inte kommer att släppa fram Magdalena Andersson som statsminister.",
-      "pubDate": "2026-09-08T19:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "KD",
-        "MP",
-        "Regeringsbildning",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist: Hellre extraval än V i regering",
-      "link": "https://www.svt.se/nyheter/inrikes/thand-ringqvist-hellre-extraval-an-v-i-regering",
-      "description": "Centerpartiet går hellre till extraval än att släppa fram en regering där Vänsterpartiet ingår. – Vi tror att det finns ett mittenalternativ bestående av S, C, KD och MP, säger partiledaren Elisabeth Thand Ringqvist i SVT:s Utfrågningen.",
-      "pubDate": "2026-09-08T19:41:44Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Regeringsfrågan omöjlig ekvation för de rödgröna",
-      "link": "https://www.svt.se/nyheter/inrikes/regeringsfragan-omojlig-ekvation-for-de-rodgrona",
-      "description": "Regeringsfrågan framstår som en omöjlig ekvation på den rödgröna sidan. Elisabeth Thand Ringqvists besked i SVT är oförenligt med V-ledaren Nooshi Dadgostars krav att sitta i en regering.",
-      "pubDate": "2026-09-08T19:39:53Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "DN Debatt. ”Därför är Magdalena Andersson olämplig som statsminister”",
-      "link": "https://www.dn.se/debatt/darfor-ar-magdalena-andersson-olamplig-som-statsminister/",
-      "description": "DN DEBATT Magdalena Andersson (S) vill framstå som Sveriges trygga val och målar ut Tidöpartierna som rena demokratihot. Det är inte bara ett cyniskt sätt att vinna makt, det är ett direkt ansvarslöst sätt att ropa varg och förgifta det offentliga samtalet. Gå inte på hennes bluff, skriver Adam Danieli, idéchef på marknadsliberala tankesmedjan Timbro.",
-      "pubDate": "2026-09-08T18:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     }
   ],
@@ -413,16 +402,6 @@
       "topics": []
     },
     {
-      "title": "Unga i Sverige röstar vänster",
-      "link": "https://blog.zaramis.se/2026/09/06/unga-i-sverige-rostar-vanster/",
-      "description": "Enligt en undersökning som SVT låtit Verian göra är ungdomarna i Sverige klart och tydligt vänster. Starkast är stödet för oppositionen bland unga kvinnor. 74,2 procent av dem uppger i augusti att de skulle rösta på något av oppositionspartierna, medan 25,6 procent uppger att de skulle rösta på Tidöpartierna. Läs mer … Inlägget Unga i Sverige röstar vänster dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-06T07:40:04Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
-    },
-    {
       "title": "Muslimska brödraskapet når organisatorisk mognad med stöd från Centerpartiet",
       "link": "https://ledarsidorna.se/muslimska-brodraskapet-nar-organisatorisk-mognad-med-stod-fran-centerpartiet/",
       "description": "I den andra av tre artiklar om Centerpartiets muslimprojekt 1990–1994 beskrivs hur projektet når en organisatorisk mognad och utgör basen för etableringen av politisk islam i samtliga riksdagspartier. Där många av de politiska krav som formulerats med partiets hjälp nu etableras som allmängiltiga . Fyra månader före riksdagsvalet 1994 skickade Mahmoud Aldebe ett öppet brev [&#8230;]",
@@ -445,6 +424,18 @@
       "topics": [
         "S",
         "C"
+      ]
+    },
+    {
+      "title": "Sopade under mattan",
+      "link": "https://ledarsidorna.se/sopade-under-mattan/",
+      "description": "I praktiken samtliga svenska riksdagspartier, med något undantag, har haft positiva och mer eller mindre långtgående relationer med radikal politisk islam på något sätt. Med samma motivbild. Moderaterna är ett parti som inte på något sätt är förskonade. I det partiet tog sig en medlem av det Muslimska brödraskapet ända fram till riksdagens försvarsutskott. Fyra [&#8230;]",
+      "pubDate": "2026-09-04T03:41:58Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
       ]
     }
   ],
