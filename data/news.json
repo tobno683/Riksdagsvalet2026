@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T17:21:44.173794Z",
+  "updated_at": "2026-09-10T19:52:33.061496Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,82 @@
   ],
   "news": [
     {
+      "title": "Insändare. Miljöpartiet står för klassisk folkpartistisk politik",
+      "link": "https://www.dn.se/insandare/miljopartiet-star-for-klassisk-folkpartistisk-politik/",
+      "description": "INSÄNDARE. För de väljare som saknar ett socialliberalt parti att rösta på kan Miljöpartiet vara ett alternativ. Genom sin moderna gröna socialliberalism är det numera Miljöpartiet som står för den klassiska folkpartistiska sloganen ”sociala reformer utan socialism”, skriver Jenny Granberg Ahlmark, dotter till den tidigare folkpartiledaren Per Ahlmark.",
+      "pubDate": "2026-09-10T19:49:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Åkesson till Andersson: ”Varför är du så sur?”",
+      "link": "https://www.expressen.se/nyheter/politik/akesson-till-andersson-varfor-ar-du-sa-sur/",
+      "description": "Ulf Kristersson (M) anklagade Magdalena Andersson (S) för att fara med osanningar om svensk ekonomi.&nbsp; – Ni borde skämmas, sade han.&nbsp; Jimmie Åkesson (SD) gav sig in i ordbråket och frågade henne:&nbsp; – Varför är du så sur?",
+      "pubDate": "2026-09-10T19:40:22Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Heta känslorna i skoldebatten: ”Ta ansvar!”",
+      "link": "https://www.expressen.se/nyheter/politik/heta-kanslorna-i-skoldebatten-ta-ansvar/",
+      "description": "En ny Pisa-mätning visar att svenska elever lär sig allt mindre.&nbsp; Det hettade till när partiledarna debatterade skolan.&nbsp; Magdalena Andersson (S) kritiserade regeringen för nedskärningar i skolan och pikade Ulf Kristersson (M).&nbsp; – Här har vi resultatet med fyra år med Tidöpartiernas politik. Ta ansvar!",
+      "pubDate": "2026-09-10T19:13:55Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Jacob Lundström: Svensk kulturpolitik krisar – men kan Beyoncé rycka ut?",
+      "link": "https://www.dn.se/kultur/jacob-lundstrom-svensk-kulturpolitik-krisar-men-kan-beyonce-rycka-ut/",
+      "description": "Vad ska vi med kulturen till? Inför valet presenterar Folkteatern i Göteborg ”en kulturell big bang”, som inkluderar näringslivstoppar, politiker och kändisar. Men det är bara en feberdröm, skriver Jacob Lundström.",
+      "pubDate": "2026-09-10T17:28:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Så blev mängdrabatten den stora stridsfrågan i valspurten",
+      "link": "https://www.svt.se/nyheter/inrikes/sa-blev-mangdrabatten-den-stora-stridsfragan-i-valspurten",
+      "description": "Ulf Kristersson anklagar S-ledaren för att inte stå upp för våldtaga kvinnor – medan Magdalena Andersson anklagar M-ledaren för att använda mäns våld mot kvinnor som politiskt slagträ. Mängdrabatten har blivit en av valrörelsens mest infekterade konflikter. – Ulf Kristersson vill köra den här frågan i botten, säger SVT:s politikreporter Kristoffer Törnmalm.",
+      "pubDate": "2026-09-10T17:25:56Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Mohamsson antyder att Dadgostar inte var sjuk – svaret",
+      "link": "https://www.expressen.se/nyheter/politik/mohamsson-att-dadgostar-inte-var-sjuk-svaret-far-hyfsa-till-sig/",
+      "description": "V-toppen Ilona Szatmári Waldau går till angrepp mot Simona Mohamsson. Hon reagerar starkt på den lista på V-politiker som L-ledaren hade med sig till TV4:s partiledardebatt. ” Det gjorde mig oerhört upprörd att se mitt namn längst upp på den här listan ”, skriver hon till Expressen.",
+      "pubDate": "2026-09-10T17:22:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "L",
+        "Debatt"
+      ]
+    },
+    {
       "title": "Löftet om 5 000 dollar är en seger för Trump",
       "link": "https://www.sverigesradio.se/artikel/9296588",
       "description": "Donald Trump förvånade många när han på onsdagen utlovade 5 000 dollar till varje vuxen amerikansk medborgare, om Republikanerna behåller kontrollen över kongressen efter mellanårsvalet. ”Det har skapat uppmärksamhet kring Trumps och Republikanernas pågående partikonvent som hålls just nu här i Dallas. På det sättet är det en seger för Trump”, säger Sveriges Radios USAkorrespondent Simon Isaksson. Men beskedet har även mötts av kritik, där experter frågar sig varifrån pengarna ska komma.",
@@ -124,7 +200,7 @@
     {
       "title": "Busch anklagar M och SD: Smutskastning",
       "link": "https://www.expressen.se/nyheter/politik/busch-anklagar-m-och-sd-smutskastning/",
-      "description": "Ebba Busch (KD) anklagar Moderaterna och Sverigedemokraterna för ”smutskastning och struntprat”.&nbsp; – Jag vill se fyra år till för det blågula laget men jag accepterar inte dåligt beteende, säger hon i en video på sociala medier.&nbsp;",
+      "description": "Ebba Busch (KD) anklagar Moderaterna och Sverigedemokraterna för ”smutskastning och struntprat”.&nbsp; – Jag vill se fyra år till för det blågula laget men jag accepterar inte dåligt beteende, säger hon i en video på sociala medier.",
       "pubDate": "2026-09-10T14:34:21Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -183,79 +259,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ola Andersson: Så kan bostadskrisen i storstäderna lösas",
-      "link": "https://www.dn.se/kultur/ola-andersson-sa-kan-bostadskrisen-i-storstaderna-losas/",
-      "description": "Grunden för din välfärd är ett hem. Därför är din rätt till bostad till och med inskriven i grundlagen – ändå är bostadskrisen frånvarande i valrörelsen. Om storstäderna stagnerar är det ett problem för hela Sverige, skriver Ola Andersson.",
-      "pubDate": "2026-09-10T13:33:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Är Åkesson Liberalernas bästa valarbetare?",
-      "link": "https://www.dn.se/podd/alskade-politik/ar-akesson-liberalernas-basta-valarbetare/",
-      "description": "Liberalerna rusar i opinionen enligt vissa mätningar. Men har Jimmie Åkesson surnat till på riktigt på Romina Pourmokhtari med dagar kvar till valet?",
-      "pubDate": "2026-09-10T13:17:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "Så kunde röstmissen ske – upptäcktes av en slump",
-      "link": "https://www.dn.se/sverige/sa-kunde-rostmissen-ske-upptacktes-av-en-slump/",
-      "description": "Valmyndighetens röstningsmiss upptäcktes av en slump, när ett it-system i Nynäshamn började bete sig märkligt. Kommunen slog larm men det dröjde flera dagar innan Valmyndigheten kunde se att betydligt fler röster hade felregistrerats. It-systemet som hanterar förtidsröster fick byggas om omedelbart.",
-      "pubDate": "2026-09-10T13:08:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Piken till C efter M-nobben: Som en fågel Fenix",
-      "link": "https://www.expressen.se/nyheter/politik/piken-till-c-efter-m-nobben-som-en-fagel-fenix/",
-      "description": "Moderaterna har skickat flera trevare till Centern – men mötts av kalla handen. Nu sågar Gunnar Strömmer Centerpartiets idé om en mittenregering. – Då ska det här uppstå som en fågel Fenix. Jag tror inte det är en särskilt realistisk kalkyl, säger han i Expressens debatt.",
-      "pubDate": "2026-09-10T13:07:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Erik Anderssons västgötska framtidsskildring är en glädjande nischprodukt",
-      "link": "https://www.dn.se/kultur/erik-anderssons-vastgotska-framtidsskildring-ar-en-gladjande-nischprodukt/",
-      "description": "”Allt är förbjudet” är ett egensinnigt unikum på den svenska bokmarknaden. Malin Ullgren blir glad av Erik Anderssons nya roman.",
-      "pubDate": "2026-09-10T12:41:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Insändare. Moderaterna måste ge besked till Stockholms hyresgäster",
-      "link": "https://www.dn.se/insandare/moderaterna-maste-ge-besked-till-stockholms-hyresgaster/",
-      "description": "INSÄNDARE. Moderaterna öppnar åter för både ombildningar och så kallade beståndsförsäljningar ur allmännyttan. Nästa mandatperiod borde handla om hur Stockholm bygger upp allmännyttan – inte om hur mycket mer av den som går att sälja, skriver bland andra Mats Hulth, tidigare socialdemokratiskt finansborgarråd i Stockholms stad, och Barbro Engman, tidigare ordförande för Hyresgästföreningen.",
-      "pubDate": "2026-09-10T12:27:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
       ]
     }
   ],
