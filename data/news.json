@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T04:57:13.406323Z",
+  "updated_at": "2026-09-10T09:18:54.750611Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,88 @@
   ],
   "news": [
     {
+      "title": "Pourmokhtari: Skulle inte krama Åkesson",
+      "link": "https://www.expressen.se/nyheter/politik/pourmokhtari-skulle-inte-krama-akesson/",
+      "description": "Hon tycker att SD driver en rasistisk politik och skulle inte krama Jimmie Åkesson. Ändå kampanjar Romina Pourmokhtari (L) in i det sista för det ”blågula laget” och utesluter inte att bli minister igen i en regering med sverigedemokrater.",
+      "pubDate": "2026-09-10T08:48:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Insändare. Bilda en bred regering i mitten efter valet",
+      "link": "https://www.dn.se/insandare/bilda-en-bred-regering-i-mitten-efter-valet/",
+      "description": "INSÄNDARE. I Danmark har de två senaste regeringarna som bildats efter val varit blocköverskridande. Mitt förslag är att Moderaterna och Socialdemokraterna bildar regering med Centerpartiet i mitten, skriver Göte Gunnarsson.",
+      "pubDate": "2026-09-10T08:30:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Stadsmissionen agerar när färre röstar i utsatta områden",
+      "link": "https://www.sverigesradio.se/artikel/9295911",
+      "description": "I områden med stora socioekonomiska utmaningar röstade bara omkring sex av tio väljare i det senaste valet – betydligt färre än i landet som helhet. Sveriges Stadsmissioner möter människor som upplever att politiken befinner sig långt från deras vardag, men också personer som tycker att själva röstningen är svår och krånglig. Nu arbetar organisationen för att sänka trösklarna inför valet.",
+      "pubDate": "2026-09-10T08:28:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Debattör om S-nedgång: Dumpa skrämselpropagandan mot SD",
+      "link": "https://www.dn.se/sverige/debattor-om-s-nedgang-dumpa-skramselpropagandan-mot-sd/",
+      "description": "Socialdemokraterna tappar i opinionsmätningarna i valspurten. Daniel Swedin, politisk redaktör på LO-ägda tidningen Arbetet, vill att S slutar att försöka skrämmas med SD och i stället pratar mer om den egna politiken.",
+      "pubDate": "2026-09-10T07:49:21Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "S krav på talmannen efter SD-avslöjandet",
+      "link": "https://www.expressen.se/nyheter/politik/s-krav-pa-talmannen-efter-sd-avslojandet/",
+      "description": "Avslöjandet att en SD-tjänsteman har kopplingar till Ryssland och rysk underrättelsetjänst är en allvarlig säkerhetskris, anser Lena Hallengren (S).&nbsp; Nu har hon vänt sig till riksdagens talman i ett ovanligt brev. Osäker inför valet? Gör Expressens valkompass! &nbsp;",
+      "pubDate": "2026-09-10T07:34:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "L och V oense om miljardärsskatt: ”Handlar om avundsjuka”",
+      "link": "https://www.sverigesradio.se/artikel/9295899",
+      "description": "Liberalerna och Vänsterpartiet debatterade fördelningspolitiken och en möjlig miljardärsskatt. Vänsterpartiet vill att de allra rikaste ska bidra mer till bland annat pensionärer, sjuka och arbetslösa, medan Liberalerna varnar för att högre skatt kan få företagare att lämna Sverige och vill sänka den statliga inkomstskatten. I P1 Morgon blev tonläget skarpt när Johan Britz ifrågasatte om Vänsterpartiet förstår hur ekonomin fungerar.",
+      "pubDate": "2026-09-10T07:07:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "L"
+      ]
+    },
+    {
+      "title": "Efter fyra år med Tidö – det här efterfrågar Kultursverige",
+      "link": "https://www.dn.se/kultur/efter-fyra-ar-med-tido-det-har-efterfragar-kultursverige/",
+      "description": "Den senaste mandatperioden har kulturbudgetens andel av statsbudgeten sjunkit. Folkbildningen har drabbats av nedskärningar och delar av kultursektorn larmar om problem med att gå runt. Samtidigt har flera stöd, satsningar och stora renoveringar fått se dagens ljus. DN har frågat sju personer i kulturbranschen vad för slags politik de vill se de kommande fyra åren.",
+      "pubDate": "2026-09-10T05:04:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Ledare: Wallenbergs varning för vänstern kan bara betyda en sak",
       "link": "https://www.dn.se/ledare/wallenbergs-varning-for-vanstern-kan-bara-betyda-en-sak/",
       "description": "Näringslivstopparna ställer sig på rad efter den förre moderate finansministern Anders Borg, för att uttrycka sin oro för att Tidöpartierna ska förlora. Det är tydligt vad de håller på med.",
@@ -111,31 +193,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Kristersson sågar Anderssons idé om styret: ”Vore farligt”",
-      "link": "https://www.expressen.se/nyheter/politik/kristersson-sagar-anderssons-ide-om-styret-vore-farligt/",
-      "description": "Magdalena Andersson (S) kan tänka sig att bilda en minoritetsregering som styr landet med hoppande majoriteter.&nbsp; Ulf Kristersson (M) är mycket kritisk.&nbsp; – Det är en riktigt farlig lösning, säger han.&nbsp;",
-      "pubDate": "2026-09-10T04:03:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "SD:s krav på talmannen: Agera mot V",
-      "link": "https://www.expressen.se/nyheter/politik/sds-krav-pa-talmannen-agera-mot-v/",
-      "description": "Vänsterpartiet tog in palestinska politiker från Fatah som hyllat terrorism och spridit antisemitism i riksdagen. Nu kräver två SD-ledamöter i brev att talmannen agerar. ” För oss som riksdagsledamöter med judisk bakgrund väcker händelsen både oro och allvarliga frågor om säkerheten ”, skriver de. Osäker inför valet? Gör Expressens valkompass! &nbsp;",
-      "pubDate": "2026-09-10T04:02:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -202,77 +259,6 @@
       "sourceType": "news",
       "topics": [
         "L"
-      ]
-    },
-    {
-      "title": "Irriterat tonläge – pressen ökar inför valspurten",
-      "link": "https://www.svt.se/nyheter/inrikes/irriterat-tonlage-pressen-okar-infor-valspurten",
-      "description": "Det var stundtals irriterat och lite tjafsigt mellan statsminister Ulf Kristersson och S-ledaren Magdalena Andersson i SVT:s statministerduell. Förklaringen är enkel: Endast några dagar återstår till valet, båda partiledarna är satta under hård press och regeringsmakten står på spel.",
-      "pubDate": "2026-09-09T20:23:09Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Hettade till om mängdrabatt i SVT:s duell: ”Sviker brottsoffer",
-      "link": "https://www.sverigesradio.se/artikel/9295813",
-      "description": "De två statsministerkandidaterna Moderaternas Ulf Kristersson och och Socialdemokraternas Magdalena Andersson möttes ikväll i en duell i SVT. Den fråga som de framförallt bråkade om var varför Socialdemokraterna tidigare i somras röstade nej till att avskaffa den så kallade mängdrabatten för personer som döms för flera brott. ”Ni sviker landets brottsoffer”, säger Kristersson. Andersson menar att förslaget i somras var ett ”luftslott”.",
-      "pubDate": "2026-09-09T20:19:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Hård duell om slopade straffrabatter: ”Tappat all trovärdighet”",
-      "link": "https://www.dn.se/sverige/hard-duell-infor-publik-om-slopade-straffrabatter/",
-      "description": "GÄVLE. Den hårdaste konflikten i onsdagskvällens statsministermöte i SVT handlade om straffrabatten. Moderatledaren anklagade Socialdemokraterna för att inte stå upp för brottsoffren. – Det Ulf Kristersson säger är inte korrekt, replikerade Magdalena Andersson.",
-      "pubDate": "2026-09-09T20:09:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C och KD: Beredda att samarbeta vid regeringsskifte",
-      "link": "https://www.sverigesradio.se/artikel/9295781",
-      "description": "De två borgerliga partierna – Centerpartiet och Kristdemokraterna – stödjer olika statsministerkandidater. Men om det sker ett regeringsskifte kan de samarbeta. ”Om vi hamnar i opposition så kommer jag inte att sitta och tjura i ett hörn och driva Magdalena Andersson (S) i famnen på Miljöpartiet och Vänsterpartiet”, säger KD:s partiledare Ebba Busch till Ekot.",
-      "pubDate": "2026-09-09T18:54:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "KD",
-        "MP",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Efter år av droger och hemlöshet: ”Ett nytt liv”",
-      "link": "https://www.dn.se/sverige/efter-ar-av-droger-och-hemloshet-ett-nytt-liv/",
-      "description": "Amfetaminet hade greppet om Torbjörn, 75, som levde hemlös under många år. – Jag har lurat mig själv hela livet, säger han. Vändningen blev boendet Gamlebo som tar emot äldre med missbruksproblem. Nu vill Socialdemokraterna utöka verksamheten – och lovar en nollvision för hemlöshet i Stockholm.",
-      "pubDate": "2026-09-09T18:44:24Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     }
   ],
