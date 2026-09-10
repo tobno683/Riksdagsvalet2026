@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T13:42:38.593204Z",
+  "updated_at": "2026-09-10T17:21:44.173794Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,113 @@
   ],
   "news": [
     {
+      "title": "Löftet om 5 000 dollar är en seger för Trump",
+      "link": "https://www.sverigesradio.se/artikel/9296588",
+      "description": "Donald Trump förvånade många när han på onsdagen utlovade 5 000 dollar till varje vuxen amerikansk medborgare, om Republikanerna behåller kontrollen över kongressen efter mellanårsvalet. ”Det har skapat uppmärksamhet kring Trumps och Republikanernas pågående partikonvent som hålls just nu här i Dallas. På det sättet är det en seger för Trump”, säger Sveriges Radios USAkorrespondent Simon Isaksson. Men beskedet har även mötts av kritik, där experter frågar sig varifrån pengarna ska komma.",
+      "pubDate": "2026-09-10T16:09:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Efter röstfelet: Lista över berörda vallokaler publiceras",
+      "link": "https://www.sverigesradio.se/artikel/9296532",
+      "description": "Valmyndigheten kommer innan valdagen att gå ut med en lista över de vallokaler som berörts av det tekniska felet vid förtidsröstning . Det berättar Valmyndighetens kanslichef Anna Nyqvist i en intervju med Studio Ett på torsdagen. Felet ledde till att väljare som förtidsröstat antingen prickats av två gånger eller fått rösterna registrerade på en annan väljare. Från början var det 4000, men nu är det max 500 väljare som berörs av felet. Om ens vallokal och rösttid finns med på listan så uppmanas man att rösta igen på valdagen, säger Anna Nyqvist.",
+      "pubDate": "2026-09-10T15:39:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Förtidsröstningen kan gå mot rekord: ”Stor ökning”",
+      "link": "https://www.dn.se/sverige/fortidsrostningen-kan-ga-mot-rekord-stor-okning/",
+      "description": "Med fyra dagar kvar till valet har förtidsröstningen ökat med 25 procent jämfört med förra valrörelsen. Fortsätter ökningen kan det bli rekord. Och det kan gynna vissa partier. – De mindre intresserade väljarna kommer igång sist under valrörelsen, säger statsvetaren Jakob Ahlbom.",
+      "pubDate": "2026-09-10T15:30:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Glädjesiffra skapar panik i Liberalerna",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/gladjesiffraskapar-panik-i-liberalerna/",
+      "description": "Liberalernas höga siffror skapar oro – inte minst för liberalerna själva.&nbsp; Och kommer statsministerduellen avgöra valet även i år?&nbsp; Lyssna på ”Politikrummet”.&nbsp;",
+      "pubDate": "2026-09-10T14:49:49Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Busch anklagar M och SD: Smutskastning",
+      "link": "https://www.expressen.se/nyheter/politik/busch-anklagar-m-och-sd-smutskastning/",
+      "description": "Ebba Busch (KD) anklagar Moderaterna och Sverigedemokraterna för ”smutskastning och struntprat”.&nbsp; – Jag vill se fyra år till för det blågula laget men jag accepterar inte dåligt beteende, säger hon i en video på sociala medier.&nbsp;",
+      "pubDate": "2026-09-10T14:34:21Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Kampen om mittenväljarna hårdnar – osäkert stöd för C och L",
+      "link": "https://www.dn.se/sverige/kampen-om-mittenvaljarna-hardnar-osakert-stod-for-c-och-l/",
+      "description": "De väljare som fortfarande vacklar finns i första hand hos Centerpartiet och Liberalerna. Det visar en undersökning från DN/Ipsos. Färre än var tredje bland dem är säker på sitt partival.",
+      "pubDate": "2026-09-10T14:31:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "L"
+      ]
+    },
+    {
+      "title": "Sex stridsfrågor som en högerregering måste lösa",
+      "link": "https://www.dn.se/sverige/sex-stridsfragor-som-en-hogerregering-maste-losa/",
+      "description": "Om Tidöpartierna behåller makten väntar hårda strider om en rad sakfrågor. Partierna har var för sig dragit upp röda linjer som bäddar för uppslitande konflikter. DN listar några av de svåraste frågorna för partierna att komma överens om.",
+      "pubDate": "2026-09-10T14:31:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "V-toppens nya regeringskrav",
+      "link": "https://www.expressen.se/nyheter/politik/v-toppens-nya-regeringskrav/",
+      "description": "Att S och MP rundade Vänsterpartiets budgetseger är en förklaring till det nu så stenhårda regeringskravet. Det säger V-toppen Ida Gabrielsson, som varnar för en högersväng om S vinner på söndag. –&nbsp;Rödgröna väljare kommer bli besvikna om de vaknar upp och Ebba Busch fortfarande ska vara vice statsminister.",
+      "pubDate": "2026-09-10T14:23:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kristersson avfärdar kritiken mot Bohlin: ”Prinsessan på ärten”",
+      "link": "https://www.sverigesradio.se/artikel/9296325",
+      "description": "Statsminister Ulf Kristersson försvarar att ministrar filmar journalister och publicerar intervjuer själva, efter att civilförsvarsminister Carl-Oskar Bohlin (M) lagt ut en oklippt SVT-intervju. Frågan har väckt kritik inför valet: filosofiprofessorn Åsa Wikforss kallar agerandet ”extremt farligt”. ”Det är lite prinsessan på ärten, det är legitimt för den som blev intervjuad att ge hela bilden av hur samtalet gick till”, säger Ulf Kristersson (M).",
+      "pubDate": "2026-09-10T13:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Ola Andersson: Så kan bostadskrisen i storstäderna lösas",
       "link": "https://www.dn.se/kultur/ola-andersson-sa-kan-bostadskrisen-i-storstaderna-losas/",
       "description": "Grunden för din välfärd är ett hem. Därför är din rätt till bostad till och med inskriven i grundlagen – ändå är bostadskrisen frånvarande i valrörelsen. Om storstäderna stagnerar är det ett problem för hela Sverige, skriver Ola Andersson.",
@@ -88,6 +195,19 @@
       "sourceType": "news",
       "topics": [
         "S"
+      ]
+    },
+    {
+      "title": "Är Åkesson Liberalernas bästa valarbetare?",
+      "link": "https://www.dn.se/podd/alskade-politik/ar-akesson-liberalernas-basta-valarbetare/",
+      "description": "Liberalerna rusar i opinionen enligt vissa mätningar. Men har Jimmie Åkesson surnat till på riktigt på Romina Pourmokhtari med dagar kvar till valet?",
+      "pubDate": "2026-09-10T13:17:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
       ]
     },
     {
@@ -136,124 +256,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "Pourmokhtari: Inte ändrat mina åsikter om SD",
-      "link": "https://www.dn.se/sverige/pourmokhtari-inte-andrat-mina-asikter-om-sd/",
-      "description": "Hon tycker att SD driver en rasistisk politik och skulle inte krama Jimmie Åkesson. Ändå kampanjar Romina Pourmokhtari (L) in i det sista för det ”blågula laget” och utesluter inte att bli minister igen i en regering med sverigedemokrater. ”Det går att ångra sin förtidsröst på valdagen”, slår Åkesson tillbaka.",
-      "pubDate": "2026-09-10T12:09:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Här är ämnena i SVT:s slutdebatt",
-      "link": "https://www.svt.se/nyheter/inrikes/har-ar-amnena-i-svts-slutdebatt",
-      "description": "Ekonomi, skola, klimat, kriminalitet, integration och sjukvård – det är ämnena i SVT:s slutdebatt med alla åtta partiledarna inför riksdagsvalet 2026.",
-      "pubDate": "2026-09-10T10:58:37Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Röstkaoset: Monica kan tvingas resa 100 mil för att rösta igen",
-      "link": "https://www.expressen.se/nyheter/politik/rostkaoset-monica-kan-tvingas-resa-100-mil-for-att-rosta-igen/",
-      "description": "Monica Sundvall, 79, förtidsröstade innan hon reste bort. Nu misstänker hon att hennes röst kan ha felregistrerats. Valmyndighetens nuvarande råd är att rösta igen på valdagen. – Vi kan inte åka tur och retur nästan 100 mil på valdagen, säger Monica. Osäker inför valet? Gör Expressens valkompass!",
-      "pubDate": "2026-09-10T10:26:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Pourmokhtari: Inte ändrat mina åsikter om SD",
-      "link": "https://www.expressen.se/nyheter/politik/pourmokhtari-skulle-inte-krama-akesson/",
-      "description": "Hon tycker att SD driver en rasistisk politik och skulle inte krama Jimmie Åkesson. Ändå kampanjar Romina Pourmokhtari (L) in i det sista för det ”blågula laget” och utesluter inte att bli minister igen i en regering med sverigedemokrater. Jimmie Åkesson reagerar starkt på Pourmokhtaris ord. ” Om någon undrar varför sverigedemokrater inte ska stödrösta på Liberalerna, så ska man läsa den här artikeln ”, skriver han på Facebook.",
-      "pubDate": "2026-09-10T10:09:07Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "JUST NU: C och  M möts i debatt",
-      "link": "https://www.expressen.se/tv/politik/just-nu-c-och-m-i-debatt-om-hur-sverige-ska-styras",
-      "description": "Gunnar Strömmer (M) och Hannes Hervieu (C) i samtal med Viktor Barth-Kron",
-      "pubDate": "2026-09-10T09:54:18Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "KD-politikern Håkan Ekman död – dagar före valet",
-      "link": "https://www.expressen.se/nyheter/politik/kd-politikern-hakan-ekman-dod-dagar-fore-valet/",
-      "description": "Den kristdemokratiske lokalpolitikern Håkan Ekman har gått bort. Med bara några få dagar kvar till valet är KD i Älmhult i sorg. – Politiken blir sekundär i såna här sammanhang, säger ordförande Catarina Claesson. Osäker inför valet? Gör Expressens valkompass!",
-      "pubDate": "2026-09-10T09:27:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "MP:s krav: Låna miljarder för att satsa på järnväg",
-      "link": "https://www.sverigesradio.se/artikel/9296013",
-      "description": "Miljöpartiet vill att staten lånar 100 miljarder om året i tio år för att bland annat snabbare kunna göra investeringar i järnvägen. Den här särskilda klimatfonden är ett av tre krav från MP för att en framtida regering ska kunna skynda på klimatomställningen. ”Vi behöver få till en snabb kickstart av klimatomställningen igen”, säger språkröret Amanda Lind.",
-      "pubDate": "2026-09-10T09:17:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Insändare. Bilda en bred regering i mitten efter valet",
-      "link": "https://www.dn.se/insandare/bilda-en-bred-regering-i-mitten-efter-valet/",
-      "description": "INSÄNDARE. I Danmark har de två senaste regeringarna som bildats efter val varit blocköverskridande. Mitt förslag är att Moderaterna och Socialdemokraterna bildar regering med Centerpartiet i mitten, skriver Göte Gunnarsson.",
-      "pubDate": "2026-09-10T08:30:35Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Stadsmissionen agerar när färre röstar i utsatta områden",
-      "link": "https://www.sverigesradio.se/artikel/9295911",
-      "description": "I områden med stora socioekonomiska utmaningar röstade bara omkring sex av tio väljare i det senaste valet – betydligt färre än i landet som helhet. Sveriges Stadsmissioner möter människor som upplever att politiken befinner sig långt från deras vardag, men också personer som tycker att själva röstningen är svår och krånglig. Nu arbetar organisationen för att sänka trösklarna inför valet.",
-      "pubDate": "2026-09-10T08:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Debattör om S-nedgång: Dumpa skrämselpropagandan mot SD",
-      "link": "https://www.dn.se/sverige/debattor-om-s-nedgang-dumpa-skramselpropagandan-mot-sd/",
-      "description": "Socialdemokraterna tappar i opinionsmätningarna i valspurten. Daniel Swedin, politisk redaktör på LO-ägda tidningen Arbetet, vill att S slutar att försöka skrämmas med SD och i stället pratar mer om den egna politiken.",
-      "pubDate": "2026-09-10T07:49:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Opinion"
       ]
     }
   ],
@@ -436,6 +438,32 @@
   ],
   "podcasts": [
     {
+      "title": "311. Mohamssons paniksiffra",
+      "link": "https://pod.space/politikrummet/311-mohamssons-paniksiffra",
+      "description": "Liberalernas höga siffror skapar oro – inte minst för liberalerna själva. Och kommer statsministerduellen avgöra valet även i år?&nbsp; I studion: Filippa Rogvall, Viktor Barth-Kron och Max V Karlsson Producent: Anna Westman Swantesson Ljudklipp från SR Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-09-10T14:43:22Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "L",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kvartal Idag: Småpartierna tar över i opinionen",
+      "link": "https://pod.space/kvartal/kvartal-idag-smapartierna-tar-over-i-opinionen",
+      "description": "De stora har blivit för lika, enligt Jenny Madestam. Busch om Åkesson: ”Hårresande”. Får man inte träffa Fatah? Och MP-politikern drömmer om ”Bulgurbyn”. Programledare: Cassandra Alm.&nbsp;",
+      "pubDate": "2026-09-10T13:53:30Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
       "title": "Är Åkesson Liberalernas bästa valarbetare?",
       "link": "https://pod.space/alskadepolitik/ar-akesson-liberalernas-basta-valarbetare",
       "description": "Liberalerna rusar i opinionen enligt vissa mätningar. Men har Jimmie Åkesson surnat till på riktigt på Romina Pourmokhtari med dagar kvar till valet?",
@@ -599,32 +627,6 @@
       "sourceType": "podcast",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "307. Socialdemokrater i fritt fall",
-      "link": "https://pod.space/politikrummet/307-socialdemokrater-i-fritt-fall",
-      "description": "Fritt fall i opinionen för Socialdemokraterna. Hur ska Magdalena Andersson hantera den ökade pressen? I studion: Filippa Rogvall, Anette Holmqvist och Viktor Barth-Kron. Producent: Fredrik Johansson.",
-      "pubDate": "2026-09-03T13:25:34Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "306. Viktor möter: Ulf Kristersson",
-      "link": "https://pod.space/politikrummet/306-viktor-moter-ulf-kristersson",
-      "description": "Med elva dagar till valet är statsministern gäst hos Viktor Barth-Kron i Expressens intervjustudio. Hur långt behöver Ryssland gå innan vi får en samlingsregering? Har Sverige pratat kärnvapen med Marine Le Pen? Och finns det en hemlig plan om att locka över Centerpartiet till högern igen?",
-      "pubDate": "2026-09-02T09:29:29Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
       ]
     }
   ]
