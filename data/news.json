@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T09:18:54.750611Z",
+  "updated_at": "2026-09-10T13:42:38.593204Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,144 @@
   ],
   "news": [
     {
-      "title": "Pourmokhtari: Skulle inte krama Åkesson",
-      "link": "https://www.expressen.se/nyheter/politik/pourmokhtari-skulle-inte-krama-akesson/",
-      "description": "Hon tycker att SD driver en rasistisk politik och skulle inte krama Jimmie Åkesson. Ändå kampanjar Romina Pourmokhtari (L) in i det sista för det ”blågula laget” och utesluter inte att bli minister igen i en regering med sverigedemokrater.",
-      "pubDate": "2026-09-10T08:48:44Z",
+      "title": "Ola Andersson: Så kan bostadskrisen i storstäderna lösas",
+      "link": "https://www.dn.se/kultur/ola-andersson-sa-kan-bostadskrisen-i-storstaderna-losas/",
+      "description": "Grunden för din välfärd är ett hem. Därför är din rätt till bostad till och med inskriven i grundlagen – ändå är bostadskrisen frånvarande i valrörelsen. Om storstäderna stagnerar är det ett problem för hela Sverige, skriver Ola Andersson.",
+      "pubDate": "2026-09-10T13:33:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Så kunde röstmissen ske – upptäcktes av en slump",
+      "link": "https://www.dn.se/sverige/sa-kunde-rostmissen-ske-upptacktes-av-en-slump/",
+      "description": "Valmyndighetens röstningsmiss upptäcktes av en slump, när ett it-system i Nynäshamn började bete sig märkligt. Kommunen slog larm men det dröjde flera dagar innan Valmyndigheten kunde se att betydligt fler röster hade felregistrerats. It-systemet som hanterar förtidsröster fick byggas om omedelbart.",
+      "pubDate": "2026-09-10T13:08:16Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Piken till C efter M-nobben: Som en fågel Fenix",
+      "link": "https://www.expressen.se/nyheter/politik/piken-till-c-efter-m-nobben-som-en-fagel-fenix/",
+      "description": "Moderaterna har skickat flera trevare till Centern – men mötts av kalla handen. Nu sågar Gunnar Strömmer Centerpartiets idé om en mittenregering. – Då ska det här uppstå som en fågel Fenix. Jag tror inte det är en särskilt realistisk kalkyl, säger han i Expressens debatt.",
+      "pubDate": "2026-09-10T13:07:11Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Erik Anderssons västgötska framtidsskildring är en glädjande nischprodukt",
+      "link": "https://www.dn.se/kultur/erik-anderssons-vastgotska-framtidsskildring-ar-en-gladjande-nischprodukt/",
+      "description": "”Allt är förbjudet” är ett egensinnigt unikum på den svenska bokmarknaden. Malin Ullgren blir glad av Erik Anderssons nya roman.",
+      "pubDate": "2026-09-10T12:41:57Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Insändare. Moderaterna måste ge besked till Stockholms hyresgäster",
+      "link": "https://www.dn.se/insandare/moderaterna-maste-ge-besked-till-stockholms-hyresgaster/",
+      "description": "INSÄNDARE. Moderaterna öppnar åter för både ombildningar och så kallade beståndsförsäljningar ur allmännyttan. Nästa mandatperiod borde handla om hur Stockholm bygger upp allmännyttan – inte om hur mycket mer av den som går att sälja, skriver bland andra Mats Hulth, tidigare socialdemokratiskt finansborgarråd i Stockholms stad, och Barbro Engman, tidigare ordförande för Hyresgästföreningen.",
+      "pubDate": "2026-09-10T12:27:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Pourmokhtari: Inte ändrat mina åsikter om SD",
+      "link": "https://www.dn.se/sverige/pourmokhtari-inte-andrat-mina-asikter-om-sd/",
+      "description": "Hon tycker att SD driver en rasistisk politik och skulle inte krama Jimmie Åkesson. Ändå kampanjar Romina Pourmokhtari (L) in i det sista för det ”blågula laget” och utesluter inte att bli minister igen i en regering med sverigedemokrater. ”Det går att ångra sin förtidsröst på valdagen”, slår Åkesson tillbaka.",
+      "pubDate": "2026-09-10T12:09:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
         "SD"
+      ]
+    },
+    {
+      "title": "Här är ämnena i SVT:s slutdebatt",
+      "link": "https://www.svt.se/nyheter/inrikes/har-ar-amnena-i-svts-slutdebatt",
+      "description": "Ekonomi, skola, klimat, kriminalitet, integration och sjukvård – det är ämnena i SVT:s slutdebatt med alla åtta partiledarna inför riksdagsvalet 2026.",
+      "pubDate": "2026-09-10T10:58:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Röstkaoset: Monica kan tvingas resa 100 mil för att rösta igen",
+      "link": "https://www.expressen.se/nyheter/politik/rostkaoset-monica-kan-tvingas-resa-100-mil-for-att-rosta-igen/",
+      "description": "Monica Sundvall, 79, förtidsröstade innan hon reste bort. Nu misstänker hon att hennes röst kan ha felregistrerats. Valmyndighetens nuvarande råd är att rösta igen på valdagen. – Vi kan inte åka tur och retur nästan 100 mil på valdagen, säger Monica. Osäker inför valet? Gör Expressens valkompass!",
+      "pubDate": "2026-09-10T10:26:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Pourmokhtari: Inte ändrat mina åsikter om SD",
+      "link": "https://www.expressen.se/nyheter/politik/pourmokhtari-skulle-inte-krama-akesson/",
+      "description": "Hon tycker att SD driver en rasistisk politik och skulle inte krama Jimmie Åkesson. Ändå kampanjar Romina Pourmokhtari (L) in i det sista för det ”blågula laget” och utesluter inte att bli minister igen i en regering med sverigedemokrater. Jimmie Åkesson reagerar starkt på Pourmokhtaris ord. ” Om någon undrar varför sverigedemokrater inte ska stödrösta på Liberalerna, så ska man läsa den här artikeln ”, skriver han på Facebook.",
+      "pubDate": "2026-09-10T10:09:07Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "JUST NU: C och  M möts i debatt",
+      "link": "https://www.expressen.se/tv/politik/just-nu-c-och-m-i-debatt-om-hur-sverige-ska-styras",
+      "description": "Gunnar Strömmer (M) och Hannes Hervieu (C) i samtal med Viktor Barth-Kron",
+      "pubDate": "2026-09-10T09:54:18Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "KD-politikern Håkan Ekman död – dagar före valet",
+      "link": "https://www.expressen.se/nyheter/politik/kd-politikern-hakan-ekman-dod-dagar-fore-valet/",
+      "description": "Den kristdemokratiske lokalpolitikern Håkan Ekman har gått bort. Med bara några få dagar kvar till valet är KD i Älmhult i sorg. – Politiken blir sekundär i såna här sammanhang, säger ordförande Catarina Claesson. Osäker inför valet? Gör Expressens valkompass!",
+      "pubDate": "2026-09-10T09:27:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "MP:s krav: Låna miljarder för att satsa på järnväg",
+      "link": "https://www.sverigesradio.se/artikel/9296013",
+      "description": "Miljöpartiet vill att staten lånar 100 miljarder om året i tio år för att bland annat snabbare kunna göra investeringar i järnvägen. Den här särskilda klimatfonden är ett av tre krav från MP för att en framtida regering ska kunna skynda på klimatomställningen. ”Vi behöver få till en snabb kickstart av klimatomställningen igen”, säger språkröret Amanda Lind.",
+      "pubDate": "2026-09-10T09:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
       ]
     },
     {
@@ -126,143 +255,21 @@
         "S",
         "Opinion"
       ]
-    },
-    {
-      "title": "S krav på talmannen efter SD-avslöjandet",
-      "link": "https://www.expressen.se/nyheter/politik/s-krav-pa-talmannen-efter-sd-avslojandet/",
-      "description": "Avslöjandet att en SD-tjänsteman har kopplingar till Ryssland och rysk underrättelsetjänst är en allvarlig säkerhetskris, anser Lena Hallengren (S).&nbsp; Nu har hon vänt sig till riksdagens talman i ett ovanligt brev. Osäker inför valet? Gör Expressens valkompass! &nbsp;",
-      "pubDate": "2026-09-10T07:34:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "L och V oense om miljardärsskatt: ”Handlar om avundsjuka”",
-      "link": "https://www.sverigesradio.se/artikel/9295899",
-      "description": "Liberalerna och Vänsterpartiet debatterade fördelningspolitiken och en möjlig miljardärsskatt. Vänsterpartiet vill att de allra rikaste ska bidra mer till bland annat pensionärer, sjuka och arbetslösa, medan Liberalerna varnar för att högre skatt kan få företagare att lämna Sverige och vill sänka den statliga inkomstskatten. I P1 Morgon blev tonläget skarpt när Johan Britz ifrågasatte om Vänsterpartiet förstår hur ekonomin fungerar.",
-      "pubDate": "2026-09-10T07:07:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "L"
-      ]
-    },
-    {
-      "title": "Efter fyra år med Tidö – det här efterfrågar Kultursverige",
-      "link": "https://www.dn.se/kultur/efter-fyra-ar-med-tido-det-har-efterfragar-kultursverige/",
-      "description": "Den senaste mandatperioden har kulturbudgetens andel av statsbudgeten sjunkit. Folkbildningen har drabbats av nedskärningar och delar av kultursektorn larmar om problem med att gå runt. Samtidigt har flera stöd, satsningar och stora renoveringar fått se dagens ljus. DN har frågat sju personer i kulturbranschen vad för slags politik de vill se de kommande fyra åren.",
-      "pubDate": "2026-09-10T05:04:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Ledare: Wallenbergs varning för vänstern kan bara betyda en sak",
-      "link": "https://www.dn.se/ledare/wallenbergs-varning-for-vanstern-kan-bara-betyda-en-sak/",
-      "description": "Näringslivstopparna ställer sig på rad efter den förre moderate finansministern Anders Borg, för att uttrycka sin oro för att Tidöpartierna ska förlora. Det är tydligt vad de håller på med.",
-      "pubDate": "2026-09-10T04:17:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "De rödgrönas vinster i fyra punkter",
-      "link": "https://www.expressen.se/nyheter/sverige/de-rodgronas-vinster-i-fyra-punkter/",
-      "description": "Socialdemokraterna, vänstern och Miljöpartiet vill se ett stopp för vinsterna i välfärden. Samtidigt visar Expressens granskning hur partiföreträdare tagit ut miljonvinster ur aktiebolag inom skattefinansierad skola, vård och omsorg. Här är allt du behöver veta om granskningen.",
-      "pubDate": "2026-09-10T04:13:56Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "MP"
-      ]
-    },
-    {
-      "title": "Miljöpartisten som tagit ut miljoner",
-      "link": "https://www.expressen.se/nyheter/sverige/miljopartisten-som-tagit-ut-miljoner/",
-      "description": "Assistansbolaget Togethercare Samoma AB har gjort utdelningar på nio miljoner kronor de senaste fem åren. VD är miljöpartisten Salih Sabah som också är en av delägarna. – Man måste ju inte tycka allting som ens parti tycker.",
-      "pubDate": "2026-09-10T04:13:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Susanne Nyström: Ska vi verkligen ha statsministerdueller mellan S och M?",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-ska-vi-verkligen-ha-statsministerdueller-mellan-s-och-m/",
-      "description": "Alla vet vem som bestämmer på Ulf Kristerssons sida i politiken. Men det är det bekvämast att inte låtsas om.",
-      "pubDate": "2026-09-10T03:42:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kommer bråken stoppa en Andersson-regering?",
-      "link": "https://www.dn.se/podd/spotlight/kommer-braken-stoppa-en-andersson-regering/",
-      "description": "Dramatiken ökar inför valdagen, men alltjämt tycks oppositionen leda i mätningarna. Om Magdalena Andersson får bilda regering, hur ska det fungera tillsammans med två partier som bråkar så mycket med varandra? Vänsterpartiet kräver att för första gången få plats i en regering – Centerpartiet säger att de hellre går till extraval än tillåter just det. Är det verkligen en klok strategi att försöka formera sig först efter valdagen? Programledare: Måns Mosesson. Med Hans Rosén, politikreporter på DN.",
-      "pubDate": "2026-09-09T23:00:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: En ska bort – Kristersson eller Andersson",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-en-ska-bort-kristersson-eller-andersson/",
-      "description": "Både Ulf Kristerssons och Magdalena Anderssons öden avgörs i valet på söndag, ingen av dem överlever som partiledare om de inte vinner statsministerposten. Ändå var det Magdalena Andersson som hade mest att bevisa i onsdagens statsministermöte. Hon är hotande nära att tappa det som länge sett ut som en solklar seger.",
-      "pubDate": "2026-09-09T20:41:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Arbetslösa Torbjörn: ”Hur ska vi i träsket överleva?”",
-      "link": "https://www.svt.se/nyheter/inrikes/arbetslosa-torbjorn-hur-ska-vi-i-trasket-overleva",
-      "description": "Torbjörn Wikström lever på försörjningsstöd och undrar hur han ska överleva ekonomiskt. Samtidigt har Tidöregeringen stramat åt socialförsäkringen. – Det kan inte vara så att man ska kunna leva på bidrag och ha det bättre ställt än den som går till jobbet varje dag, säger statsminister Ulf Kristersson.",
-      "pubDate": "2026-09-09T20:34:17Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "9 september: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/9-september-missa-inte-dagens-nyheter/",
-      "description": "Liberalernas nya lyft, den nya norska kungen på slottsbalkongen och den 30-åriga domen som kan fria lotsen vid Tjörnolyckan – missa inte dagens nyheter.",
-      "pubDate": "2026-09-09T20:28:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Avprivatisera välfärden",
+      "link": "https://blog.zaramis.se/2026/09/10/avprivatisera-valfarden-2/",
+      "description": "Vänsterpartiet menar att resurser som i dag försvinner till vinster och marknadsstyrning istället behövs för att stärka välfärden. Svensk välfärd befinner sig i kris. Personal på äldreboenden går på knäna, äldre får inte alltid den omsorg de behöver och samtidigt försvinner miljarder skattekronor till privata vinster. Detsamma gäller inom skolan såväl som i sjukvården. Läs mer … Inlägget Avprivatisera välfärden dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-10T09:25:53Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "KD:s relationer med Brödraskapet 2022-2026",
       "link": "https://ledarsidorna.se/kds-relationer-med-brodraskapet-2022-2026/",
@@ -365,18 +372,6 @@
       ]
     },
     {
-      "title": "Miljardärsskatt drabbar ingen fattig",
-      "link": "https://blog.zaramis.se/2026/09/07/miljardarsskatt-drabbar-ingen-fattig/",
-      "description": "Är du trött på att lönen känns mindre och mindre medan priset på mat, hyra och el bara ökar? Vill du också att unga ska kunna få jobb och hitta en bostad så att de kan bygga sin framtid? Tycker du att sjukvården ska vara till för patienterna, inte för vårdföretagens vinster? Då står Vänsterpartiet på samma sida, Läs mer … Inlägget Miljardärsskatt drabbar ingen fattig dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-07T08:25:32Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Vitboken som saknades",
       "link": "https://ledarsidorna.se/vitboken-som-saknades/",
       "description": "Muslimska brödraskapets etablering i svensk politik brukar tillskrivas samarbetet med Socialdemokraterna. Men detta är en delvis missvisande beskrivning. Centerpartiets partiprojekt i syfte att engagera muslimer startades långt tidigare och vars samhällseffekter fortfarande är märkbara och omfattande in i våra dagar på alla politiska nivåer. I oktober 2009 blev Mahmoud Aldebe medlem i Centerpartiet och deltog [&#8230;]",
@@ -440,6 +435,32 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Är Åkesson Liberalernas bästa valarbetare?",
+      "link": "https://pod.space/alskadepolitik/ar-akesson-liberalernas-basta-valarbetare",
+      "description": "Liberalerna rusar i opinionen enligt vissa mätningar. Men har Jimmie Åkesson surnat till på riktigt på Romina Pourmokhtari med dagar kvar till valet?",
+      "pubDate": "2026-09-10T13:17:41Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "310. Högerut eller mittenåt?",
+      "link": "https://pod.space/politikrummet/310-hogerut-eller-mittenat",
+      "description": "Gunnar Strömmer (M) har försökt bjuda Centerpartiet på kaffe – men fått nej varje gång. Nu möter justitieministern partisekreterare Hannes Hervieu (C) i debatt om vägen till en ny regering efter valet – och för svensk borgerlighet i framtiden. Moderator är Viktor Barth-Kron.",
+      "pubDate": "2026-09-10T12:06:03Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
     {
       "title": "Kvartal Idag: Förtroendet för Andersson rasar",
       "link": "https://pod.space/kvartal/kvartal-idag-fortroendet-for-andersson-rasar",
@@ -605,28 +626,6 @@
         "C",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Därför är det svårt att vara Ulf Kristersson",
-      "link": "https://pod.space/alskadepolitik/darfor-ar-det-svart-att-vara-ulf-kristersson",
-      "description": "Vad handlar egentligen det här valet om? Kanske kom svaret 12 dagar innan valdagen – när både S och M presenterade vad de går till val på.",
-      "pubDate": "2026-09-01T14:35:16Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Under all kritik: Invandringen ritar om valkartan i det tysta",
-      "link": "https://pod.space/kvartal/under-all-kritik-invandringen-ritar-om-valkartan-i-det-tysta",
-      "description": "Kung Harald och Dolly Parton blev symboler för kontinuitet i en splittrad tid. Anna-Karin och Ivar minns två enande gestalter och frågar varför könsgapet i valet studeras in i minsta detalj, medan klyftan mellan väljare med svensk och utländsk bakgrund förbises.",
-      "pubDate": "2026-09-01T04:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
     }
   ]
 }
