@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T00:21:25.844340Z",
+  "updated_at": "2026-09-10T04:57:13.406323Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,93 @@
     }
   ],
   "news": [
+    {
+      "title": "Ledare: Wallenbergs varning för vänstern kan bara betyda en sak",
+      "link": "https://www.dn.se/ledare/wallenbergs-varning-for-vanstern-kan-bara-betyda-en-sak/",
+      "description": "Näringslivstopparna ställer sig på rad efter den förre moderate finansministern Anders Borg, för att uttrycka sin oro för att Tidöpartierna ska förlora. Det är tydligt vad de håller på med.",
+      "pubDate": "2026-09-10T04:17:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "De rödgrönas vinster i fyra punkter",
+      "link": "https://www.expressen.se/nyheter/sverige/de-rodgronas-vinster-i-fyra-punkter/",
+      "description": "Socialdemokraterna, vänstern och Miljöpartiet vill se ett stopp för vinsterna i välfärden. Samtidigt visar Expressens granskning hur partiföreträdare tagit ut miljonvinster ur aktiebolag inom skattefinansierad skola, vård och omsorg. Här är allt du behöver veta om granskningen.",
+      "pubDate": "2026-09-10T04:13:56Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "Miljöpartisten som tagit ut miljoner",
+      "link": "https://www.expressen.se/nyheter/sverige/miljopartisten-som-tagit-ut-miljoner/",
+      "description": "Assistansbolaget Togethercare Samoma AB har gjort utdelningar på nio miljoner kronor de senaste fem åren. VD är miljöpartisten Salih Sabah som också är en av delägarna. – Man måste ju inte tycka allting som ens parti tycker.",
+      "pubDate": "2026-09-10T04:13:36Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Kristersson sågar Anderssons idé om styret: ”Vore farligt”",
+      "link": "https://www.expressen.se/nyheter/politik/kristersson-sagar-anderssons-ide-om-styret-vore-farligt/",
+      "description": "Magdalena Andersson (S) kan tänka sig att bilda en minoritetsregering som styr landet med hoppande majoriteter.&nbsp; Ulf Kristersson (M) är mycket kritisk.&nbsp; – Det är en riktigt farlig lösning, säger han.&nbsp;",
+      "pubDate": "2026-09-10T04:03:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "SD:s krav på talmannen: Agera mot V",
+      "link": "https://www.expressen.se/nyheter/politik/sds-krav-pa-talmannen-agera-mot-v/",
+      "description": "Vänsterpartiet tog in palestinska politiker från Fatah som hyllat terrorism och spridit antisemitism i riksdagen. Nu kräver två SD-ledamöter i brev att talmannen agerar. ” För oss som riksdagsledamöter med judisk bakgrund väcker händelsen både oro och allvarliga frågor om säkerheten ”, skriver de. Osäker inför valet? Gör Expressens valkompass! &nbsp;",
+      "pubDate": "2026-09-10T04:02:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Susanne Nyström: Ska vi verkligen ha statsministerdueller mellan S och M?",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-ska-vi-verkligen-ha-statsministerdueller-mellan-s-och-m/",
+      "description": "Alla vet vem som bestämmer på Ulf Kristerssons sida i politiken. Men det är det bekvämast att inte låtsas om.",
+      "pubDate": "2026-09-10T03:42:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kommer bråken stoppa en Andersson-regering?",
+      "link": "https://www.dn.se/podd/spotlight/kommer-braken-stoppa-en-andersson-regering/",
+      "description": "Dramatiken ökar inför valdagen, men alltjämt tycks oppositionen leda i mätningarna. Om Magdalena Andersson får bilda regering, hur ska det fungera tillsammans med två partier som bråkar så mycket med varandra? Vänsterpartiet kräver att för första gången få plats i en regering – Centerpartiet säger att de hellre går till extraval än tillåter just det. Är det verkligen en klok strategi att försöka formera sig först efter valdagen? Programledare: Måns Mosesson. Med Hans Rosén, politikreporter på DN.",
+      "pubDate": "2026-09-09T23:00:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
     {
       "title": "Tomas Ramberg: En ska bort – Kristersson eller Andersson",
       "link": "https://www.dn.se/sverige/tomas-ramberg-en-ska-bort-kristersson-eller-andersson/",
@@ -160,33 +247,6 @@
       ]
     },
     {
-      "title": "Hetsig debatt mellan Andersson och Kristersson",
-      "link": "https://www.expressen.se/nyheter/politik/hetsig-debatt-mellan-andersson-och-kristersson/",
-      "description": "Ulf Kristersson (M) och Magdalena Andersson (S) bråkade om kriminalpolitiken i SVT:s ”Statsministermötet”.&nbsp; – Ni sviker landets brottsoffer! röt Kristersson.&nbsp; – Jag kommer inte att leda en regering som är soft on crime, lovade Andersson.&nbsp; Känslorna var heta även efter debatten. &nbsp;",
-      "pubDate": "2026-09-09T19:47:02Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Att valet alls lever är en framgång för Kristersson",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/att-valet-alls-lever-ar-en-framgang-for-kristersson/",
-      "description": "Valet avgjordes sannolikt inte i SVT:s statsministerduell. Men att frågan ens är aktuell gör Ulf Kristersson till dagens vinnare.",
-      "pubDate": "2026-09-09T19:45:40Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "C och KD: Beredda att samarbeta vid regeringsskifte",
       "link": "https://www.sverigesradio.se/artikel/9295781",
       "description": "De två borgerliga partierna – Centerpartiet och Kristdemokraterna – stödjer olika statsministerkandidater. Men om det sker ett regeringsskifte kan de samarbeta. ”Om vi hamnar i opposition så kommer jag inte att sitta och tjura i ett hörn och driva Magdalena Andersson (S) i famnen på Miljöpartiet och Vänsterpartiet”, säger KD:s partiledare Ebba Busch till Ekot.",
@@ -214,73 +274,21 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Piken till Kristersson: ”Det är så dumt, Ulf”",
-      "link": "https://www.expressen.se/nyheter/politik/piken-till-kristersson-det-ar-sa-dumt-ulf/",
-      "description": "Ulf Kristersson (M) och Magdalena Andersson (S) debatterar i SVT:s ”Satsministermötet”.&nbsp; Under en diskussion om säkerhetspolitiken vill S-ledaren tona ner konflikten.&nbsp; – Det är så dumt, Ulf. Vi är överens om det här.&nbsp;",
-      "pubDate": "2026-09-09T18:40:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Bråk om mängdrabatten: ”Sprider lögner”",
-      "link": "https://www.svt.se/nyheter/inrikes/brak-om-mangdrabatten-sprider-logner",
-      "description": "Statsminister Ulf Kristersson går till hård attack mot Magdalena Andersson inför kvällens statsministerduell. I ett brev uppmanar han Andersson att ”tala klarspråk om mängdrabatten och stå upp för brottsoffer”. – I dag sprider Kristersson lögner, medvetet, svarar Magdalena Andersson",
-      "pubDate": "2026-09-09T18:21:45Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S: Orättvist att stoppa svensk-iranier från arbeten",
-      "link": "https://www.dn.se/sverige/s-orattvist-att-stoppa-svensk-iranier-fran-arbeten/",
-      "description": "Svenskar som inte kan säga upp sitt andra medborgarskap ska inte stängas ute från jobb. Det säger Socialdemokraterna, som vill utreda hur personer med ofrivilliga dubbla medborgarskap kan få starkare skydd. – Vi kan inte ha ett kollektivt missgynnande av människor som inte kan avsäga sig medborgarskapet, säger Ardalan Shekarabi (S)",
-      "pubDate": "2026-09-09T17:55:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Ny C-invit till KD: ”Vi kan komma överens”",
-      "link": "https://www.expressen.se/nyheter/politik/ny-c-invit-till-kd-vi-kan-komma-overens/",
-      "description": "Centerpartiet och Kristdemokraterna har flörtat med varandra under valrörelsen.&nbsp; På onsdagskvällen möttes partiledarna Elisabeth Thand Ringqvist och Ebba Busch i en egen debatt.&nbsp; – Jag tror att vi kan komma överens om en hel del saker, säger C-ledaren till Expressen.&nbsp;",
-      "pubDate": "2026-09-09T17:51:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD"
-      ]
-    },
-    {
-      "title": "Hon tvångsstänger flest vårdcentraler – och jämförs med Magdalena Andersson",
-      "link": "https://www.dn.se/sverige/hon-tvangsstanger-flest-vardcentraler-och-jamfors-med-magdalena-andersson/",
-      "description": "My Alnebratt lämnade en karriär i finansbranschen. Nu har hon drivit igenom fler tvångsstängningar av vårdcentraler än någon annan. Åtgärden lyfts i valkampanjen med målet att få leda Västra Götalandsregionen, Sveriges största arbetsgivare. Missar hon den fajten finns hon på listan över framtidsnamn för en S-regering.",
-      "pubDate": "2026-09-09T17:27:49Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "KD:s relationer med Brödraskapet 2022-2026",
+      "link": "https://ledarsidorna.se/kds-relationer-med-brodraskapet-2022-2026/",
+      "description": "Kristdemokraterna medverkade i november 2022 till att regeringen drog tillbaka en proposition som skulle ha infört demokrativillkor för statligt stöd till trossamfund och civilsamhälle. Under de två år som följde fortsatte kommunala medel att gå till Ibn Rushd, samtidigt som KD-företrädare offentligt kritiserade just dessa beslut. Studieförbundet Ibn Rushd avvecklade sin verksamhet under hösten 2022, [&#8230;]",
+      "pubDate": "2026-09-10T02:57:49Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "KD"
+      ]
+    },
     {
       "title": "Höj pensionerna",
       "link": "https://blog.zaramis.se/2026/09/09/hoj-pensionerna/",
@@ -443,16 +451,6 @@
       "topics": [
         "MP"
       ]
-    },
-    {
-      "title": "Kan israeliska teknikföretag påverka det svenska valet?",
-      "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
-      "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
-      "pubDate": "2026-09-01T08:58:35Z",
-      "source": "Parabol",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
-      "sourceType": "blog",
-      "topics": []
     }
   ],
   "podcasts": [
