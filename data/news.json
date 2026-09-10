@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T19:52:33.061496Z",
+  "updated_at": "2026-09-10T22:01:18.096593Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,21 +79,116 @@
   ],
   "news": [
     {
+      "title": "S-ledaren: ”Inte ovanligt att män kallar bestämda kvinnor för sura”",
+      "link": "https://www.dn.se/sverige/s-ledaren-inte-ovanligt-att-man-kallar-bestamda-kvinnor-for-sura/",
+      "description": "Varför är Magdalena Andersson så sur hela tiden, undrade Jimmie Åkesson när TV4 samlade partiledarna till debatt på torsdagskvällen. – Vet du varför jag är sur? Det är för att jag möter ungdomar som får börja sitt vuxna liv i arbetslöshet, svarade S-ledaren.",
+      "pubDate": "2026-09-10T21:06:22Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Tidöpartierna hoppas att surast förlorar",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-tidopartierna-hoppas-att-surast-forlorar/",
+      "description": "Stundtals lät partiledardebatten i TV4 som en övning i positivt tänkande. Statsministern anklagade Magdalena Andersson för att tala illa om Sverige och Jimmie Åkesson angrep S-ledaren för att hon ”alltid är så sur”. Att anklaga oppositionen för att vara dysterkvistar är ett urgammalt politiskt knep.",
+      "pubDate": "2026-09-10T20:42:13Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "Regeringsbildning",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "V-planen för försvaret: Miljardärerna betalar",
+      "link": "https://www.expressen.se/nyheter/politik/v-planen-for-forsvaret-miljardarerna-betalar/",
+      "description": "Upprustningen av det svenska försvaret är mycket dyr.&nbsp; Nooshi Dadgostar (V) har en plan för finansieringen – och vilka som ska betala.&nbsp; – Nu måste Sveriges miljardärer och andra steppa upp.&nbsp;",
+      "pubDate": "2026-09-10T20:25:18Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Politikreportern: ”Var och en höll ett valtal”",
+      "link": "https://www.sverigesradio.se/artikel/9296687",
+      "description": "Valet är tre dagar bort och det märktes i allra högsta grad under TV4:s partiledardebatt på torsdagen. Det säger Ekots politikreporter Pontus Mattsson. Partiledarna var fyllda av energi, men formatet på debatten begränsade dem något. \"Var och en höll ett valtal\", säger han. Men det hettade även till, särskilt mellan Jimmie Åkesson (SD), Magdalena Andersson (S) och Ulf Kristersson (M) när det ekonomiska läget i Sverige debatterades.",
+      "pubDate": "2026-09-10T20:20:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "TV4:s partiledardebatt: Getingbetyg – de var bäst och sämst",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/tv4s-partiledardebatt-getingbetyg-de-var-bast-och-samst/",
+      "description": "Vilka var bäst och sämst i TV4:s partiledardebatt? Expressens politikkommentator Viktor Barth-Kron sätter getingbetyg. ✓ Åkessons självmål.&nbsp; ✓ Kunde knäckt vem som helst – hon var oberörd. ✓ Så vinner man en tv-debatt 2026.",
+      "pubDate": "2026-09-10T20:05:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Så var TV4:s partiledardebatt – ämne för ämne",
+      "link": "https://www.expressen.se/nyheter/politik/sa-var-tv4s-partiledardebatt-amne-for-amne/",
+      "description": "Bostäderna, skolan, arbetslösheten och klimatet var ämnena i TV4:s partiledardebatt. &nbsp; Missade du den?&nbsp; Så här var debatten – ämne för ämne.&nbsp;",
+      "pubDate": "2026-09-10T20:02:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Utpekade V-toppen: ”Kan man anmäla Mohamsson för förtal?”",
+      "link": "https://www.svt.se/nyheter/inrikes/utpekade-v-toppen-kan-man-anmala-mohamsson-for-fortal",
+      "description": "V-toppen Ilona Szatmari Waldau reagerar kraftigt på den lista som Liberalernas partiledare Simona Mohamsson hade med sig till partiledardebatten i TV4. – Det är olyckligt att Simona Mohamsson nu använder sig av judars utsatthet som ett politiskt slagträ, skriver hon till SVT.",
+      "pubDate": "2026-09-10T19:56:53Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "Debatt"
+      ]
+    },
+    {
       "title": "Insändare. Miljöpartiet står för klassisk folkpartistisk politik",
       "link": "https://www.dn.se/insandare/miljopartiet-star-for-klassisk-folkpartistisk-politik/",
-      "description": "INSÄNDARE. För de väljare som saknar ett socialliberalt parti att rösta på kan Miljöpartiet vara ett alternativ. Genom sin moderna gröna socialliberalism är det numera Miljöpartiet som står för den klassiska folkpartistiska sloganen ”sociala reformer utan socialism”, skriver Jenny Granberg Ahlmark, dotter till den tidigare folkpartiledaren Per Ahlmark.",
+      "description": "INSÄNDARE. För väljare som saknar ett socialliberalt parti ligger Miljöpartiet närmare än Centerpartiet och Liberalerna. Genom sin moderna gröna socialliberalism är det numera MP som står för den klassiska folkpartistiska sloganen ”sociala reformer utan socialism”, skriver Jenny Granberg Ahlmark, dotter till den tidigare folkpartiledaren Per Ahlmark.",
       "pubDate": "2026-09-10T19:49:26Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "C",
+        "L",
         "MP"
       ]
     },
     {
       "title": "Åkesson till Andersson: ”Varför är du så sur?”",
       "link": "https://www.expressen.se/nyheter/politik/akesson-till-andersson-varfor-ar-du-sa-sur/",
-      "description": "Ulf Kristersson (M) anklagade Magdalena Andersson (S) för att fara med osanningar om svensk ekonomi.&nbsp; – Ni borde skämmas, sade han.&nbsp; Jimmie Åkesson (SD) gav sig in i ordbråket och frågade henne:&nbsp; – Varför är du så sur?",
+      "description": "Ulf Kristersson (M) anklagade Magdalena Andersson (S) för att fara med osanningar om svensk ekonomi.&nbsp; – Ni borde skämmas, sade han.&nbsp; Jimmie Åkesson (SD) gav sig in i ordbråket och frågade henne:&nbsp; – Varför är du så sur? Ebba Busch (KD) säger efter debatten att hon ogillade ”sur”-frågan.&nbsp;",
       "pubDate": "2026-09-10T19:40:22Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -101,13 +196,14 @@
       "topics": [
         "S",
         "M",
-        "SD"
+        "SD",
+        "KD"
       ]
     },
     {
       "title": "Heta känslorna i skoldebatten: ”Ta ansvar!”",
       "link": "https://www.expressen.se/nyheter/politik/heta-kanslorna-i-skoldebatten-ta-ansvar/",
-      "description": "En ny Pisa-mätning visar att svenska elever lär sig allt mindre.&nbsp; Det hettade till när partiledarna debatterade skolan.&nbsp; Magdalena Andersson (S) kritiserade regeringen för nedskärningar i skolan och pikade Ulf Kristersson (M).&nbsp; – Här har vi resultatet med fyra år med Tidöpartiernas politik. Ta ansvar!",
+      "description": "En ny Pisa-mätning visar att svenska elever lär sig allt mindre.&nbsp; Det hettade till när partiledarna debatterade skolan.&nbsp; Magdalena Andersson (S) kritiserade regeringen för nedskärningar i skolan och pikade Ulf Kristersson (M).&nbsp; – Här har vi resultatet av fyra år med Tidöpartiernas politik. Ta ansvar!",
       "pubDate": "2026-09-10T19:13:55Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -141,17 +237,15 @@
       ]
     },
     {
-      "title": "Mohamsson antyder att Dadgostar inte var sjuk – svaret",
+      "title": "V-toppens svar efter Mohamssons listkupp",
       "link": "https://www.expressen.se/nyheter/politik/mohamsson-att-dadgostar-inte-var-sjuk-svaret-far-hyfsa-till-sig/",
-      "description": "V-toppen Ilona Szatmári Waldau går till angrepp mot Simona Mohamsson. Hon reagerar starkt på den lista på V-politiker som L-ledaren hade med sig till TV4:s partiledardebatt. ” Det gjorde mig oerhört upprörd att se mitt namn längst upp på den här listan ”, skriver hon till Expressen.",
+      "description": "V-toppen Ilona Szatmári Waldau reagerar starkt på kritiken från Simona Mohamsson inför TV4-debatten. ”Kan jag anmäla henne för förtal?” skriver hon på Instagram. – Det kan hon få göra, svarar L-ledaren.",
       "pubDate": "2026-09-10T17:22:17Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V",
-        "L",
-        "Debatt"
+        "L"
       ]
     },
     {
@@ -173,93 +267,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Förtidsröstningen kan gå mot rekord: ”Stor ökning”",
-      "link": "https://www.dn.se/sverige/fortidsrostningen-kan-ga-mot-rekord-stor-okning/",
-      "description": "Med fyra dagar kvar till valet har förtidsröstningen ökat med 25 procent jämfört med förra valrörelsen. Fortsätter ökningen kan det bli rekord. Och det kan gynna vissa partier. – De mindre intresserade väljarna kommer igång sist under valrörelsen, säger statsvetaren Jakob Ahlbom.",
-      "pubDate": "2026-09-10T15:30:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Glädjesiffra skapar panik i Liberalerna",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/gladjesiffraskapar-panik-i-liberalerna/",
-      "description": "Liberalernas höga siffror skapar oro – inte minst för liberalerna själva.&nbsp; Och kommer statsministerduellen avgöra valet även i år?&nbsp; Lyssna på ”Politikrummet”.&nbsp;",
-      "pubDate": "2026-09-10T14:49:49Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Busch anklagar M och SD: Smutskastning",
-      "link": "https://www.expressen.se/nyheter/politik/busch-anklagar-m-och-sd-smutskastning/",
-      "description": "Ebba Busch (KD) anklagar Moderaterna och Sverigedemokraterna för ”smutskastning och struntprat”.&nbsp; – Jag vill se fyra år till för det blågula laget men jag accepterar inte dåligt beteende, säger hon i en video på sociala medier.",
-      "pubDate": "2026-09-10T14:34:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Kampen om mittenväljarna hårdnar – osäkert stöd för C och L",
-      "link": "https://www.dn.se/sverige/kampen-om-mittenvaljarna-hardnar-osakert-stod-for-c-och-l/",
-      "description": "De väljare som fortfarande vacklar finns i första hand hos Centerpartiet och Liberalerna. Det visar en undersökning från DN/Ipsos. Färre än var tredje bland dem är säker på sitt partival.",
-      "pubDate": "2026-09-10T14:31:18Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "Sex stridsfrågor som en högerregering måste lösa",
-      "link": "https://www.dn.se/sverige/sex-stridsfragor-som-en-hogerregering-maste-losa/",
-      "description": "Om Tidöpartierna behåller makten väntar hårda strider om en rad sakfrågor. Partierna har var för sig dragit upp röda linjer som bäddar för uppslitande konflikter. DN listar några av de svåraste frågorna för partierna att komma överens om.",
-      "pubDate": "2026-09-10T14:31:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "V-toppens nya regeringskrav",
-      "link": "https://www.expressen.se/nyheter/politik/v-toppens-nya-regeringskrav/",
-      "description": "Att S och MP rundade Vänsterpartiets budgetseger är en förklaring till det nu så stenhårda regeringskravet. Det säger V-toppen Ida Gabrielsson, som varnar för en högersväng om S vinner på söndag. –&nbsp;Rödgröna väljare kommer bli besvikna om de vaknar upp och Ebba Busch fortfarande ska vara vice statsminister.",
-      "pubDate": "2026-09-10T14:23:19Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson avfärdar kritiken mot Bohlin: ”Prinsessan på ärten”",
-      "link": "https://www.sverigesradio.se/artikel/9296325",
-      "description": "Statsminister Ulf Kristersson försvarar att ministrar filmar journalister och publicerar intervjuer själva, efter att civilförsvarsminister Carl-Oskar Bohlin (M) lagt ut en oklippt SVT-intervju. Frågan har väckt kritik inför valet: filosofiprofessorn Åsa Wikforss kallar agerandet ”extremt farligt”. ”Det är lite prinsessan på ärten, det är legitimt för den som blev intervjuad att ge hela bilden av hur samtalet gick till”, säger Ulf Kristersson (M).",
-      "pubDate": "2026-09-10T13:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
