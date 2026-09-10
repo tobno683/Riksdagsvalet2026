@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:03:23.569481Z",
+  "updated_at": "2026-09-10T00:21:25.844340Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -132,9 +132,9 @@
       ]
     },
     {
-      "title": "S-nej till slopad mängdrabatt präglade debatten",
+      "title": "Hettade till om mängdrabatt i SVT:s duell: ”Sviker brottsoffer",
       "link": "https://www.sverigesradio.se/artikel/9295813",
-      "description": "De två statsministerkandidaterna Moderaternas Ulf Kristersson och och Socialdemokraternas Magdalena Andersson möttes ikväll i en duell i SVT. \"Det som följde hela debatten var den pågående konflikten mellan Moderaterna och Socialdemokraterna om varför Socialdemokraterna röstade nej i en omröstning i riksdagen om den så kallade mängdrabatten\", säger Ekots reporter Katarina Helmerson. Under debatten fick väljarna ställa frågor till partiledarna. En fråga som berörde fler var vad statsministerkandidaterna vill göra för människor som går på försörjningsstöd.",
+      "description": "De två statsministerkandidaterna Moderaternas Ulf Kristersson och och Socialdemokraternas Magdalena Andersson möttes ikväll i en duell i SVT. Den fråga som de framförallt bråkade om var varför Socialdemokraterna tidigare i somras röstade nej till att avskaffa den så kallade mängdrabatten för personer som döms för flera brott. ”Ni sviker landets brottsoffer”, säger Kristersson. Andersson menar att förslaget i somras var ett ”luftslott”.",
       "pubDate": "2026-09-09T20:19:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -371,18 +371,6 @@
       ]
     },
     {
-      "title": "Sverigedemokraternas rysskontakter utsätter oss alla för fara",
-      "link": "https://www.dagensarena.se/opinion/sverigedemokraternas-rysskontakter-utsatter-oss-alla-fara/",
-      "description": "I förra veckan avslöjade Expo att en SD-tjänsteperson i riksdagen vid upprepade tillfällen haft olämpliga kontakter med ryska intressen. SD-tjänstemannen... Inlägget Sverigedemokraternas rysskontakter utsätter oss alla för fara dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-07T14:11:14Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "Miljardärsskatt drabbar ingen fattig",
       "link": "https://blog.zaramis.se/2026/09/07/miljardarsskatt-drabbar-ingen-fattig/",
       "description": "Är du trött på att lönen känns mindre och mindre medan priset på mat, hyra och el bara ökar? Vill du också att unga ska kunna få jobb och hitta en bostad så att de kan bygga sin framtid? Tycker du att sjukvården ska vara till för patienterna, inte för vårdföretagens vinster? Då står Vänsterpartiet på samma sida, Läs mer … Inlägget Miljardärsskatt drabbar ingen fattig dök först upp på Svenssons Nyheter .",
@@ -406,16 +394,6 @@
         "S",
         "C"
       ]
-    },
-    {
-      "title": "Kan Tidöpartierna ta hem riksdagsvalet?",
-      "link": "https://www.dagensarena.se/innehall/kan-tidopartierna-ta-hem-riksdagsvalet/",
-      "description": "Vi frågade Torbjörn Sjöström, vd på Novus. Inlägget Kan Tidöpartierna ta hem riksdagsvalet? dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-06T23:30:42Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
     },
     {
       "title": "Muslimska brödraskapet når organisatorisk mognad med stöd från Centerpartiet",
@@ -453,6 +431,28 @@
       "topics": [
         "M"
       ]
+    },
+    {
+      "title": "Regeringsåren – Aktivismen och stödet till terror institutionaliseras",
+      "link": "https://ledarsidorna.se/regeringsaren-aktivismen-och-stodet-till-terror-institutionaliseras/",
+      "description": "Under regeringsåren 2014-2022 tar Miljöpartiet tydliga kliv in i politikens finrum genom att ingå i regeringen Löfvén. Under denna period formaliseras aktivismen i partiet som samtidigt mutar in biståndsområdet som sitt. Vilket gav en plattform för fortsatt internationell aktivism. Föreningen Charta 2008 bildades i mars 2008 mot terrorlagstiftning, med journalisten Gösta Hultén som en av [&#8230;]",
+      "pubDate": "2026-09-02T03:32:57Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Kan israeliska teknikföretag påverka det svenska valet?",
+      "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
+      "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
+      "pubDate": "2026-09-01T08:58:35Z",
+      "source": "Parabol",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
+      "sourceType": "blog",
+      "topics": []
     }
   ],
   "podcasts": [
