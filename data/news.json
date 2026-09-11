@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:01:18.096593Z",
+  "updated_at": "2026-09-11T00:17:00.276079Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,21 @@
     }
   ],
   "news": [
+    {
+      "title": "Anklagelser om lögn fick debatten att hetta till",
+      "link": "https://www.sverigesradio.se/artikel/9296696",
+      "description": "Tre dagar före valet möttes partiledarna i debatt i TV4 under torsdagskvällen. Det blev en stark replikväxling mellan statsministern, moderaten Ulf Kristersson, oppositionsledaren Magdalena Anderssons och SD:s Jimmie Åkesson om den svenska ekonomin. Även det dåliga Pisa-resultatet för svenska elever debatterades, men även hade partiledarna olika diagnoser.",
+      "pubDate": "2026-09-10T22:48:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "S-ledaren: ”Inte ovanligt att män kallar bestämda kvinnor för sura”",
       "link": "https://www.dn.se/sverige/s-ledaren-inte-ovanligt-att-man-kallar-bestamda-kvinnor-for-sura/",
@@ -203,7 +218,7 @@
     {
       "title": "Heta känslorna i skoldebatten: ”Ta ansvar!”",
       "link": "https://www.expressen.se/nyheter/politik/heta-kanslorna-i-skoldebatten-ta-ansvar/",
-      "description": "En ny Pisa-mätning visar att svenska elever lär sig allt mindre.&nbsp; Det hettade till när partiledarna debatterade skolan.&nbsp; Magdalena Andersson (S) kritiserade regeringen för nedskärningar i skolan och pikade Ulf Kristersson (M).&nbsp; – Här har vi resultatet av fyra år med Tidöpartiernas politik. Ta ansvar!",
+      "description": "En ny Pisa-mätning visar att svenska elever lär sig allt mindre.&nbsp; Det hettade till när partiledarna debatterade skolan.&nbsp; Magdalena Andersson (S) kritiserade regeringen för nedskärningar och pikade Ulf Kristersson (M).&nbsp; – Här har vi resultatet av fyra år med Tidöpartiernas politik. Ta ansvar!",
       "pubDate": "2026-09-10T19:13:55Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -257,19 +272,21 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Efter röstfelet: Lista över berörda vallokaler publiceras",
-      "link": "https://www.sverigesradio.se/artikel/9296532",
-      "description": "Valmyndigheten kommer innan valdagen att gå ut med en lista över de vallokaler som berörts av det tekniska felet vid förtidsröstning . Det berättar Valmyndighetens kanslichef Anna Nyqvist i en intervju med Studio Ett på torsdagen. Felet ledde till att väljare som förtidsröstat antingen prickats av två gånger eller fått rösterna registrerade på en annan väljare. Från början var det 4000, men nu är det max 500 väljare som berörs av felet. Om ens vallokal och rösttid finns med på listan så uppmanas man att rösta igen på valdagen, säger Anna Nyqvist.",
-      "pubDate": "2026-09-10T15:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "Vi inför en biljett för bussar och regionaltåg i hela landet",
+      "link": "https://www.dagensarena.se/opinion/vi-infor-en-biljett-bussar-och-regionaltag-hela-landet/",
+      "description": "Med Vänsterpartiet i regering minskar utsläppen. Inlägget Vi inför en biljett för bussar och regionaltåg i hela landet dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-10T23:30:02Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Avprivatisera välfärden",
       "link": "https://blog.zaramis.se/2026/09/10/avprivatisera-valfarden-2/",
@@ -317,26 +334,6 @@
       "topics": [
         "KD"
       ]
-    },
-    {
-      "title": "Vem står upp för freden i riksdagsvalet?",
-      "link": "https://www.dagensarena.se/opinion/vem-star-upp-freden-riksdagsvalet/",
-      "description": "Nato-medlemskap och DCA-avtal - men vilket parti står för fred? Inlägget Vem står upp för freden i riksdagsvalet? dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-08T23:30:48Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
-    },
-    {
-      "title": "Stora skillnader i hur olika bostadsområden röstar i Stockholm",
-      "link": "https://www.dagensarena.se/innehall/stora-skillnader-hur-olika-bostadsomraden-rostar-stockholm/",
-      "description": "Dagens Arena åkte ut till rödgröna Aspudden och det mer borgerliga Mälarhöjden. Inlägget Stora skillnader i hur olika bostadsområden röstar i Stockholm dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-08T23:30:32Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
     },
     {
       "title": "Intressant rapport om lokala journalisters arbetsvillkor",
@@ -444,6 +441,16 @@
       "topics": [
         "MP"
       ]
+    },
+    {
+      "title": "Kan israeliska teknikföretag påverka det svenska valet?",
+      "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
+      "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
+      "pubDate": "2026-09-01T08:58:35Z",
+      "source": "Parabol",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
+      "sourceType": "blog",
+      "topics": []
     }
   ],
   "podcasts": [
