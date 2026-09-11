@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T13:40:36.486506Z",
+  "updated_at": "2026-09-11T17:23:13.418201Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,14 +79,182 @@
   ],
   "news": [
     {
-      "title": "Nya mätningen: Rysarval väntar",
-      "link": "https://www.expressen.se/nyheter/sverige/nya-matningen-rysarval-vantar/",
-      "description": "I DN/Ipsos nya mätning ser söndagens val ut att bli en superrysare, med 0,3 procentenheter som skiljer oppositionen och Tidöpartierna åt. – Just nu är det en öppen fråga om det blir regeringsskifte, säger Nicklas Källebring, opinionsanalytiker på Ipsos, till DN.",
-      "pubDate": "2026-09-11T13:38:15Z",
+      "title": "M och S bråkar om straffrabatterna – vad gäller?",
+      "link": "https://www.dn.se/sverige/m-och-s-brakar-om-straffrabatterna-vad-galler/",
+      "description": "Straffrabatterna har blivit en av valrörelsens hetaste frågor. Från Moderaterna och Socialdemokraterna kommer motstridiga påståenden. Vad handlar konflikten om?",
+      "pubDate": "2026-09-11T16:21:16Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "L:s starke man valmyser med gott självförtroende",
+      "link": "https://www.dn.se/sverige/ls-starke-man-valmyser-med-gott-sjalvfortroende/",
+      "description": "Det vänder för Liberalerna. I Landskrona är Torkild Strandberg inte förvånad. På 20 år har han gjort staden till ett av partiets starkaste fästen. Nu valmyser han med gott självförtroende. – Jag är ett big, big fan. Stort tack för allt du gör, ropar pensionären Pia Aaseby.",
+      "pubDate": "2026-09-11T16:18:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "C-ledaren har ny vågmästarchans i Göteborg",
+      "link": "https://www.dn.se/sverige/c-ledaren-har-ny-vagmastarchans-i-goteborg/",
+      "description": "Loppet för högerpartierna har sett kört ut i Göteborg. Men efter en ny mätning har deras hopp tänts – för att Emmyly Bönfors som vågmästare ska tippa åt deras håll. – Det blir lite upp till Moderaterna att presentera hur ett annat styre skulle kunna se ut, svarar Centerledaren.",
+      "pubDate": "2026-09-11T16:18:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Taktikröster viktig förklaring bakom L:s rusning",
+      "link": "https://www.svt.se/nyheter/inrikes/taktikroster-viktig-forklaring-bakom-ls-rusning",
+      "description": "Simona Mohamssons valstrategi ser ut att ha lyckats. Liberalernas rusning i opinionen fortsätter i SVT/Verians sista väljarbarometer innan valet. En viktig förklaring är sannolikt taktikröstande moderater.",
+      "pubDate": "2026-09-11T15:45:53Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "L",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Emilia, 27, kan vara drabbad av röstkaoset",
+      "link": "https://www.expressen.se/nyheter/politik/emilia-27-kan-vara-drabbad-av-rostkaoset/",
+      "description": "500 väljares röster kan ha felregistrerats under förtidsröstningen. 27-åriga Emilia Adler är en av de som sannolikt drabbats.&nbsp; Nu är hon orolig för att hennes röst inte ska räknas. På valdagen är hon nämligen bortrest.&nbsp; – Det känns inte alls bra i magen, säger hon.&nbsp;",
+      "pubDate": "2026-09-11T15:28:03Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "S och M valspurtar med två dagar kvar till valet",
+      "link": "https://www.sverigesradio.se/artikel/9298397",
+      "description": "Två dagar kvar till valet och partierna valspurtar. Den ena statsministerkandidaten Socialdemokraternas Magdalena Andersson var bland annat i sin hemkommun Nacka och träffade valarbetare. Det andra partiet som gör anspråk på statsministerposten, Moderaterna, presenterade sina prioriteringar om Tidöpartierna får behålla makten. Socialdemokraterna fokuserade på uppgörelser över blockgränsen, om till exempel energi. Moderaternas budskap handlade om att stärka ekonomin.",
+      "pubDate": "2026-09-11T15:27:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Baudin: ”Många har tagit för givet att det redan är klart”",
+      "link": "https://www.sverigesradio.se/artikel/9298398",
+      "description": "Moderaterna och Sverigedemokraterna backar i den senaste opinionsmätningen från Indikator. Samtidigt ökar Liberalerna kraftigt. Den rödgröna oppositionen leder fortsatt men gapet krymper. ”Många har tagit för givet att det redan är klart, Magdalena Andersson kommer bli statsminister”, säger Socialdemokraternas partisekreterare Tobias Baudin.",
+      "pubDate": "2026-09-11T15:05:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "L",
+        "Opinion",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Liberalernas lyft sker på Moderaternas bekostnad",
+      "link": "https://www.sverigesradio.se/artikel/9298100",
+      "description": "Tidöpartierna har lyckats mobilisera soffliggare – och det är en viktig förklaring till Liberalernas återhämtning i opinionen. Det säger mätinstitutet Indikators opinionschef Per Oleskog Tryggvarsson. Han konstaterar också att det framförallt är moderata väljare som lockats att stödrösta.",
+      "pubDate": "2026-09-11T15:05:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "L"
+      ]
+    },
+    {
+      "title": "Här blev det fel med förtidsröstningen",
+      "link": "https://www.sverigesradio.se/artikel/9298386",
+      "description": "Valmyndigheten har nu publicerat en lista där det framgår i vilka vallokaler i ett 50-tal kommuner och vid vilka tidpunkter det har blivit fel vid registreringen av förtidsröster. Det gäller enbart de som har förtidsröstat till och med den 3 september, enligt Anna Nyqvist, kanslichef på Valmyndigheten. De uppemot 500 personer som det kan gälla kan rösta i en vallokal på söndag för att vara säkra på att deras röster räknas.",
+      "pubDate": "2026-09-11T14:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Följ med Fouad Youcefi och Elisabeth Marmorstein bakom kulisserna i Gasklockorna",
+      "link": "https://www.svt.se/nyheter/inrikes/folj-med-fouad-youcefi-bakom-kulisserna-i-gasklockorna",
+      "description": "Stora tv-produktioner kräver mycket förberedelser. Fouad Youcefi och Elisabeth Marmorstein är duon som leder både statsministermötet och slutdebatten i SVT. Följ med dem från sminket till repet inför utfrågningen av Sveriges toppolitiker.",
+      "pubDate": "2026-09-11T14:43:26Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "SVT/Verian: Liberalerna fortsätter rusa – tar väljare från Moderaterna",
+      "link": "https://www.svt.se/nyheter/inrikes/svtverian-liberalerna-fortsatter-rusa-tar-valjare-fran-moderaterna",
+      "description": "Liberalerna ligger långt över spärren enligt den sista opinionsmätningen från SVT/Verian innan valdagen. Simona Mohamssons parti kannibaliserar på Moderaterna – som inte har haft så dåliga opinionssiffror sedan Bo Lundgren var partiledare 2003. – En stor del av Liberalernas uppgång beror på moderata väljare har bytt parti, säger Per Söderpalm på Verian.",
+      "pubDate": "2026-09-11T14:30:05Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "L",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Nya SD-attacken: Busch gör allt för makt",
+      "link": "https://www.expressen.se/nyheter/politik/nya-sd-attacken-busch-gor-allt-for-makt/",
+      "description": "Ebba Busch kan hoppa över till S och ”den rödgröna röran”. Det säger SD-toppen Denice Westerberg – och får medhåll av Jimmie Åkesson. – Alla har nog tänkt den tanken, säger han.",
+      "pubDate": "2026-09-11T14:01:51Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Anders Borgs varning inför valet: ”Taktikrösta”",
+      "link": "https://www.expressen.se/nyheter/politik/anders-borgs-varning-infor-valet-taktikrosta/",
+      "description": "Anders Borg ger draghjälp till Moderaterna i valspurten. På ett torgmöte uppmanar den tidigare finansministern till taktikröster – på Moderaterna. Och han stänger inte dörren till en framtid i politiken. – Jag gör ju en comeback nu, säger Borg.",
+      "pubDate": "2026-09-11T13:40:42Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Nya mätningen: Rysarval väntar",
+      "link": "https://www.expressen.se/nyheter/sverige/nya-matningen-rysarval-vantar/",
+      "description": "Söndagens val ser ut att bli en superrysare. I DN/Ipsos nya mätning skiljer det bara 0,3 procentenheter mellan blocken. Samtidigt rasar Moderaterna till sin lägsta nivå på över 20 år i SVT/Verian.",
+      "pubDate": "2026-09-11T13:38:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
     },
     {
       "title": "Försvaret i valet 2026 – här går partierna isär",
@@ -97,162 +265,21 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Kristdemokraterna anmäler Sveriges Radio",
-      "link": "https://www.sverigesradio.se/artikel/9298250",
-      "description": "Kristdemokraterna anmäler Sveriges Radio till granskningsnämnden. Anmälan gäller siffror som SR presenterade i samband med Ekots utfrågning av Ebba Busch, som enligt partiet är felaktiga. KD menar att SR inte levt upp till kravet om opartiskhet och skalighet, och skriver i anmälan att det kan påverka på valet.",
-      "pubDate": "2026-09-11T13:05:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "”Vi försökte springa därifrån” – Maja knackade dörr med valarbetare som misshandlades",
-      "link": "https://www.dn.se/sverige/vi-forsokte-springa-darifran-maja-knackade-dorr-med-valarbetare-som-misshandlades/",
-      "description": "En valarbetare för Socialdemokraterna blev grovt misshandlad när han var ute och knackade dörr i Bromölla på torsdagen. – Vi försökte springa därifrån, säger partikamraten Maja Rubin som var med när attacken inträffade.",
-      "pubDate": "2026-09-11T13:03:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "DN/Ipsos: Dött lopp mellan blocken – valrysare väntar på söndag",
-      "link": "https://www.dn.se/sverige/dn-ipsos-dott-lopp-mellan-blocken-valrysare-vantar-pa-sondag/",
-      "description": "Det är i stort sett dött lopp mellan högerblocket och oppositionspartierna inför valet på söndag. Samtidigt ser Liberalerna ut att kunna hänga sig kvar i riksdagen, enligt DN/Ipsos sista mätning före valdagen. – Just nu är det en öppen fråga om det blir regeringsskifte, säger Nicklas Källebring på Ipsos.",
-      "pubDate": "2026-09-11T12:52:49Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Insändare. Väljarna förtjänar debatt utan manlig härskarteknik",
-      "link": "https://www.dn.se/insandare/valjarna-fortjanar-debatt-utan-manlig-harskarteknik/",
-      "description": "INSÄNDARE. När en man är konfrontativ uppfattas han som stark, men när en kvinna visar samma skärpa kallas hon ”sur”. Ulf Kristersson (M) och Jimmie Åkesson (SD) borde bemöta S-ledaren Magdalena Anderssons argument i sak, skriver den tidigare S-riksdagsledamoten Juan Fonsceca.",
-      "pubDate": "2026-09-11T12:46:31Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD"
-      ]
-    },
-    {
-      "title": "Valarbetare misshandlad vid dörrknackning",
-      "link": "https://www.dn.se/sverige/valarbetare-misshandlad-vid-dorrknackning/",
-      "description": "En valarbetare som var ute och knackade dörr för Socialdemokraterna har blivit grovt misshandlad i Bromölla. – Det var helt oprovocerat, säger Maja Rubin, som var med när det hände.",
-      "pubDate": "2026-09-11T11:58:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Statsvetaren: Så tolkar du siffrorna – och därför kan resultatet dröja",
-      "link": "https://www.sverigesradio.se/artikel/9296887",
-      "description": "Söndag 13 september är det val i Sverige och vilka som ska styra landet de kommande fyra åren avgörs. Statsvetarprofessorn Jan Teorell berättar hur man egentligen ska tolka sifforna som räknas samman under kvällen, och hur väl vallokalsundersökningen som SVT presenteras klockan 20 stämmer med det faktiska valresultatet. Teorell berättar att om det är väldigt jämnt i valet så kan man inte vara säker på att resultatet som räknas fram på söndagskvällen, är det som kommer att hålla i regeringsfrågan.",
-      "pubDate": "2026-09-11T11:49:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Magdalena Andersson: Det är nationellt nödläge i svensk skola",
-      "link": "https://www.dn.se/sverige/magdalena-andersson-det-ar-nationellt-nodlage-i-svensk-skola/",
-      "description": "Skolan och energin står högst upp på agendan om S får möjlighet att bilda regering efter valet på söndag enligt S-ledaren Magdalena Andersson. – Vi behöver en rivstart för att byta riktning i vårt land, säger hon.",
-      "pubDate": "2026-09-11T11:30:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Andersson: Ringer alla – utom Åkesson",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=42fe0ffa-c1e4-4f9f-af6a-174470dc9f83",
-      "description": "Anderssons drag på valdagskvällen",
-      "pubDate": "2026-09-11T11:06:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Nya serier lockar barn att läsa – kan de lindra läskrisen?",
-      "link": "https://www.dn.se/kultur/nya-serier-lockar-barn-att-lasa-kan-de-lindra-laskrisen/",
-      "description": "Kris för läsningen bland svenska elever. Kan den nya seriebokstrenden få barn och unga att läsa mer? ”Böcker i det mindre formatet och med inspiration från asiatiska serier verkar vara bra på att engagera”, säger forskaren Fredrik Strömberg.",
-      "pubDate": "2026-09-11T10:59:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Listan: Dessa vallokaler kan ha påverkats av röstningsfelet",
-      "link": "https://www.expressen.se/nyheter/politik/listan-dessa-vallokaler-kan-ha-paverkats-av-rostningsfelet/",
-      "description": "Valmyndigheten har nu publicerat en lista över de röstningslokaler och tidpunkter som kan ha påverkats av felet i förtidsröstningen. Det handlar om väljare som har förtidsröstat i 50 kommuner. Ytterligare 13 kommuner utreds fortfarande. Väljare som kan vara berörda uppmanas att rösta igen i sin vallokal på valdagen – annars riskerar rösten att inte räknas alls.",
-      "pubDate": "2026-09-11T10:52:51Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Fredrik Furtenbach: ”Det brukar partier ha svårt att erkänna”",
-      "link": "https://www.sverigesradio.se/artikel/9298002",
-      "description": "Gapet mellan Tidöpartierna och de rödgröna minskar i Indikator Opinions senaste mätning. Nu skiljer det 3,2 procentenheter till fördel för oppositionspartierna. ”Det handlar till stor del om taktikröster, men det här brukar partier ha svårt att erkänna”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach om Liberalernas uppgång. Hör analysen här.",
-      "pubDate": "2026-09-11T10:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Så skyddas valet från cyberangrepp",
-      "link": "https://www.dn.se/sverige/sa-skyddas-valet-fran-cyberangrepp/",
-      "description": "Det svenska valet kommer med stor säkerhet att utsättas för cyberangrepp, med potential till störningar för både valarbetare och väljare. Men även om hemsidor skulle slockna och intrång ske är valets integritet ohotad. – Valsedlar, rösträkning – allt finns på papper, säger John Billow, chef för Nationellt cybersäkerhetscenter.",
-      "pubDate": "2026-09-11T10:35:24Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Mohamssons skräcksiffror: Valet blir en rysare för L",
-      "link": "https://www.expressen.se/nyheter/politik/mohamssons-skracksiffror-valet-blir-en-rysare-for-l/",
-      "description": "Faran är långt ifrån över – Liberalernas egna siffror visar att valet på söndag kan bli en riktig rysare. Jämförelser av opinionen strax före valet 2022 tyder på att L fortfarande riskerar att åka ur riksdagen. –&nbsp;Det kan vara så att vi ligger strax under spärren, säger Johan Britz (L). Osäker inför valet? Gör Expressens valkompass!",
-      "pubDate": "2026-09-11T10:31:03Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Statsvetare: ”Oavsett hur det går för L kommer man behöva en omstart”",
+      "link": "https://www.dagensarena.se/innehall/statsvetare-oavsett-hur-det-gar-l-kommer-man-behova-en-omstart/",
+      "description": "Vad skulle fortsatt Tidöstyre betyda och vilken roll skulle Liberalerna få? Inlägget Statsvetare: ”Oavsett hur det går för L kommer man behöva en omstart” dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-11T14:15:57Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "L"
+      ]
+    },
     {
       "title": "Förbättra sjukförsäkringen",
       "link": "https://blog.zaramis.se/2026/09/11/forbattra-sjukforsakringen/",
