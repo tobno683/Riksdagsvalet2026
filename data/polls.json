@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-11T23:00:45.085472Z",
-  "poll_date_label": "Verian, september 2026",
-  "source": "Verians väljarbarometer för september 2026, publicerad i samarbete med SVT. Cirka 3 000 intervjuer, riksrepresentativt urval vägt efter kön, ålder, utbildning och partival vid senaste valet. Källa: Verian/SVT.",
-  "source_url": "https://www.veriangroup.com/sv/news-and-insights/valjarbarometer-september-2026",
+  "updated_at": "2026-09-10T00:00:00Z",
+  "poll_date_label": "snitt av Indikator (10 sep), Novus (8 sep) och Verian (4\u201310 sep)",
+  "source": "Ovägt snitt av de tre senaste opinionsmätningarna (samtliga med fältarbete/publicering inom valets sista vecka): Indikator Opinion (publ. 10 sep 2026), Novus (publ. 8 sep 2026) och Verian/SVT (fältarbete 4\u201310 sep, publ. 11 sep 2026). Tre oberoende institut bekräftar samstämmigt Liberalernas kraftiga uppgång till drygt 5 % \u2014 äldre septembermätningar (1\u20132 sep) exkluderade medvetet eftersom de föregick den snabba förändringen i valrörelsens sista vecka.",
+  "source_url": "https://politpro.eu/en/sweden",
   "parties": {
-    "S": 29.2,
+    "S": 27.6,
     "M": 16.4,
-    "SD": 18.9,
-    "V": 8.1,
-    "C": 7.4,
-    "KD": 6.3,
-    "L": 3.0,
-    "MP": 8.0
+    "SD": 18.57,
+    "V": 7.67,
+    "C": 7.63,
+    "KD": 6.67,
+    "L": 5.57,
+    "MP": 7.9
   }
 }
