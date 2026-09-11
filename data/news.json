@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T17:23:13.418201Z",
+  "updated_at": "2026-09-11T19:52:23.004918Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,122 @@
   ],
   "news": [
     {
+      "title": "Har vårdköerna ökat eller minskat?",
+      "link": "https://www.svt.se/nyheter/inrikes/har-vardkoerna-okat-eller-minskat",
+      "description": "Vårdköerna har minskat med 40 procent, enligt Ebba Busch (KD). Enligt Nooshi Dadgostar (V) har de tvärtom ökat med 30 procent. Vem har rätt?",
+      "pubDate": "2026-09-11T19:48:22Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD"
+      ]
+    },
+    {
+      "title": "Utbrottet: ”Nån jävla ordning får det vara”",
+      "link": "https://www.expressen.se/nyheter/politik/utbrottet-nan-javla-ordning-far-det-vara/",
+      "description": "Magdalena Andersson (S) ilsknade till på Simona Mohamsson (L) när straffrabatten debatterades.&nbsp; – Hon kan inte få avbryta mig så att jag inte får tala till punkt. Någon jävla ordning får det vara, fräste Andersson.&nbsp;",
+      "pubDate": "2026-09-11T19:45:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L"
+      ]
+    },
+    {
+      "title": "Storbråk om skatterna: ”Det här är inte seriöst”",
+      "link": "https://www.expressen.se/nyheter/politik/storbrak-om-skatterna-det-har-ar-inte-seriost/",
+      "description": "Jimmie Åkesson (SD) och Nooshi Dadgostar (V) hade en het ordväxling om skatter.&nbsp; – Allt ska finansieras med höjda skatter. Det är inte seriöst, sade han.&nbsp; – Du har sänkt skatterna med 120 miljarder. Men det finns aldrig pengar för att höja vårdbiträdenas löner, svarade hon.&nbsp; Programledarna fick avbryta ordväxlingen.&nbsp;",
+      "pubDate": "2026-09-11T19:37:48Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Andersson (S): ”Någon jävla ordning får det vara”",
+      "link": "https://www.sverigesradio.se/artikel/9298514",
+      "description": "Återigen hettar det till under partiledardebatten i SVT. Den här gången är det Magdalena Andersson (S) och Simona Mohamsson (L) som talar i mun på varandra. Den slopade mängdrabatten har varit omdiskuterad i flera debatter och var det även ikväll. När Simona Mohamsson avbryter Magdalena Andersson, ryter Andersson ifrån. ”Någon jävla ordning får det vara”, säger hon.",
+      "pubDate": "2026-09-11T19:31:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Förvirringen: Kristersson backar om klimatmål i SVT:s slutdebatt",
+      "link": "https://www.svt.se/nyheter/inrikes/forvirringen-kristersson-backar-om-klimatmal-i-svts-slutdebatt",
+      "description": "I SVT:s valkompass uppger Moderaterna att de vill att Sverige ska ha mer ambitiösa klimatmål än övriga EU. Men när frågan ställs igen i SVT:s slutdebatt har Ulf Kristersson (M) ändrat sig. – EU är hela basen för klimatpolitiken, det är där vi gör skillnad.",
+      "pubDate": "2026-09-11T19:29:01Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Åkesson (SD) och Dadgostar (V) drabbar samman om skatterna",
+      "link": "https://www.sverigesradio.se/artikel/9298496",
+      "description": "Det hettade till mellan Jimmie Åkesson (SD) och Nooshi Dadgostar (V) i SVT:s partiledardebatt när skatterna kom på tal. Programledarna fick gå emellan partiledarna, men även de blev överröstade. ”Det är inte seriöst att strö pengar på det här viset”, sa Åkesson, vilket Dadgostar bemötte med att säga att han sänkt skatten med 120 miljarder kronor.",
+      "pubDate": "2026-09-11T18:45:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Åkesson om angreppen på KD: ”Ingen stridsyxa”",
+      "link": "https://www.expressen.se/nyheter/politik/akesson-om-angreppen-pa-kd-ingen-stridsyxa/",
+      "description": "Ebba Busch (KD) har anklagat M och SD för ”smutskastning” under valrörelsen.&nbsp; Samtidigt har Jimmie Åkesson (SD) kritiserat KD:s vänsterflörtande.&nbsp; Inför SVT:s slutdebatt säger han att det inte finns någon stridsyxa.&nbsp; – Det är lite dynamik inom laget. Det är väl aldrig fel.&nbsp;",
+      "pubDate": "2026-09-11T18:19:24Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "Svarar om röda linjerna: ”Förvånad”",
+      "link": "https://www.expressen.se/nyheter/politik/svarar-om-roda-linjerna-forvanad/",
+      "description": "Partierna måste vara redo att överge sina röda linjer, menar talmannen. Det får V-ledaren Nooshi Dadgostar att sätta press på C – som hon menar har en orimlig hållning. – Risken är att man framkallar ett nyval, säger hon.",
+      "pubDate": "2026-09-11T18:15:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Efter KD-anmälan – Ekot försvarar publicering",
+      "link": "https://www.sverigesradio.se/artikel/9298485",
+      "description": "Tidigare i dag har Ekot berättat att Kristdemokraterna har anmält Sveriges Radio till Granskningsnämnden efter Ekots utfrågning av partiledaren Ebba Busch där KD menar att Ekot använt felaktiga siffror som gällde uppgifter om väntetiden i vården. Men SKR, Sveriges kommuner och regioner, där Ekot hämtat siffrorna bekräftar i dag att Ekot har använt korrekta siffror. ”Ekot kommer inte att rätta något och kommer att försvara publiceringen i Granskningsnämnden”, säger publiceringschef Sofia Söderholm om KD:s anmälan.",
+      "pubDate": "2026-09-11T17:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
       "title": "M och S bråkar om straffrabatterna – vad gäller?",
       "link": "https://www.dn.se/sverige/m-och-s-brakar-om-straffrabatterna-vad-galler/",
       "description": "Straffrabatterna har blivit en av valrörelsens hetaste frågor. Från Moderaterna och Socialdemokraterna kommer motstridiga påståenden. Vad handlar konflikten om?",
@@ -152,119 +268,6 @@
         "M",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Baudin: ”Många har tagit för givet att det redan är klart”",
-      "link": "https://www.sverigesradio.se/artikel/9298398",
-      "description": "Moderaterna och Sverigedemokraterna backar i den senaste opinionsmätningen från Indikator. Samtidigt ökar Liberalerna kraftigt. Den rödgröna oppositionen leder fortsatt men gapet krymper. ”Många har tagit för givet att det redan är klart, Magdalena Andersson kommer bli statsminister”, säger Socialdemokraternas partisekreterare Tobias Baudin.",
-      "pubDate": "2026-09-11T15:05:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "L",
-        "Opinion",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Liberalernas lyft sker på Moderaternas bekostnad",
-      "link": "https://www.sverigesradio.se/artikel/9298100",
-      "description": "Tidöpartierna har lyckats mobilisera soffliggare – och det är en viktig förklaring till Liberalernas återhämtning i opinionen. Det säger mätinstitutet Indikators opinionschef Per Oleskog Tryggvarsson. Han konstaterar också att det framförallt är moderata väljare som lockats att stödrösta.",
-      "pubDate": "2026-09-11T15:05:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "L"
-      ]
-    },
-    {
-      "title": "Här blev det fel med förtidsröstningen",
-      "link": "https://www.sverigesradio.se/artikel/9298386",
-      "description": "Valmyndigheten har nu publicerat en lista där det framgår i vilka vallokaler i ett 50-tal kommuner och vid vilka tidpunkter det har blivit fel vid registreringen av förtidsröster. Det gäller enbart de som har förtidsröstat till och med den 3 september, enligt Anna Nyqvist, kanslichef på Valmyndigheten. De uppemot 500 personer som det kan gälla kan rösta i en vallokal på söndag för att vara säkra på att deras röster räknas.",
-      "pubDate": "2026-09-11T14:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Följ med Fouad Youcefi och Elisabeth Marmorstein bakom kulisserna i Gasklockorna",
-      "link": "https://www.svt.se/nyheter/inrikes/folj-med-fouad-youcefi-bakom-kulisserna-i-gasklockorna",
-      "description": "Stora tv-produktioner kräver mycket förberedelser. Fouad Youcefi och Elisabeth Marmorstein är duon som leder både statsministermötet och slutdebatten i SVT. Följ med dem från sminket till repet inför utfrågningen av Sveriges toppolitiker.",
-      "pubDate": "2026-09-11T14:43:26Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "SVT/Verian: Liberalerna fortsätter rusa – tar väljare från Moderaterna",
-      "link": "https://www.svt.se/nyheter/inrikes/svtverian-liberalerna-fortsatter-rusa-tar-valjare-fran-moderaterna",
-      "description": "Liberalerna ligger långt över spärren enligt den sista opinionsmätningen från SVT/Verian innan valdagen. Simona Mohamssons parti kannibaliserar på Moderaterna – som inte har haft så dåliga opinionssiffror sedan Bo Lundgren var partiledare 2003. – En stor del av Liberalernas uppgång beror på moderata väljare har bytt parti, säger Per Söderpalm på Verian.",
-      "pubDate": "2026-09-11T14:30:05Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "L",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Nya SD-attacken: Busch gör allt för makt",
-      "link": "https://www.expressen.se/nyheter/politik/nya-sd-attacken-busch-gor-allt-for-makt/",
-      "description": "Ebba Busch kan hoppa över till S och ”den rödgröna röran”. Det säger SD-toppen Denice Westerberg – och får medhåll av Jimmie Åkesson. – Alla har nog tänkt den tanken, säger han.",
-      "pubDate": "2026-09-11T14:01:51Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Anders Borgs varning inför valet: ”Taktikrösta”",
-      "link": "https://www.expressen.se/nyheter/politik/anders-borgs-varning-infor-valet-taktikrosta/",
-      "description": "Anders Borg ger draghjälp till Moderaterna i valspurten. På ett torgmöte uppmanar den tidigare finansministern till taktikröster – på Moderaterna. Och han stänger inte dörren till en framtid i politiken. – Jag gör ju en comeback nu, säger Borg.",
-      "pubDate": "2026-09-11T13:40:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Nya mätningen: Rysarval väntar",
-      "link": "https://www.expressen.se/nyheter/sverige/nya-matningen-rysarval-vantar/",
-      "description": "Söndagens val ser ut att bli en superrysare. I DN/Ipsos nya mätning skiljer det bara 0,3 procentenheter mellan blocken. Samtidigt rasar Moderaterna till sin lägsta nivå på över 20 år i SVT/Verian.",
-      "pubDate": "2026-09-11T13:38:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Försvaret i valet 2026 – här går partierna isär",
-      "link": "https://www.svt.se/nyheter/inrikes/forsvaret-i-valet-2026-har-gar-partierna-isar",
-      "description": "Sveriges upprustning har fått hundratals miljarder kronor de senaste åren. Ändå är försvaret osynligt i valkampanjen. Vi har tagit reda på vad partierna är överens om – och var det skiljer sig.",
-      "pubDate": "2026-09-11T13:29:33Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
