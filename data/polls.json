@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-12T09:00:00Z",
-  "poll_date_label": "11 sep. 2026",
-  "source": "PolitPro.eu:s viktade sammanvägning (Election Trend) av samtliga svenska opinionsinstitut, hämtad manuellt den 12 september 2026 efter att upptäckt att den automatiska uppdateringen inte körts sedan augusti — se konversationen för diagnos. Source: PolitPro.eu.",
-  "source_url": "https://politpro.eu/en/sweden",
+  "updated_at": "2026-09-11T00:00:00Z",
+  "poll_date_label": "11 sep. 2026 (Verian, fältarbete 4\u201310 sep.)",
+  "source": "Verians väljarbarometer, publicerad i samarbete med SVT den 11 september 2026 \u2014 uttryckligen deras sista opinionsmätning före valdagen. Cirka 3\u00a0063 intervjuer, fältarbete 4\u201310 september 2026, riksrepresentativt urval vägt efter kön, ålder, utbildning och partival 2022. Bytt ut från PolitPro.eu:s sammanvägning efter att ha uppmärksammats på att den vägde in mätningar ända från maj \u2014 den här enskilda, mycket färska mätningen bedöms ge en mer aktuell bild dagarna före valet. Källa: Verian/SVT.",
+  "source_url": "https://www.veriangroup.com/sv/news-and-insights/valjarbarometer-11-september-2026",
   "parties": {
-    "S": 28.3,
-    "M": 17.4,
-    "SD": 19.3,
-    "V": 8.0,
-    "C": 7.5,
-    "KD": 6.6,
-    "L": 3.5,
-    "MP": 7.4
+    "S": 27.6,
+    "M": 15.8,
+    "SD": 18.1,
+    "V": 7.7,
+    "C": 8.2,
+    "KD": 6.5,
+    "L": 5.5,
+    "MP": 8.0
   }
 }
