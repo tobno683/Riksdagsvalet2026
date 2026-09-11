@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T04:54:04.217800Z",
+  "updated_at": "2026-09-11T09:13:31.768818Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,139 @@
   ],
   "news": [
     {
+      "title": "Opinionschefen: Historien upprepar sig från förra valet",
+      "link": "https://www.sverigesradio.se/artikel/9296908",
+      "description": "Gapet mellan blocken minskar i indikator opinions senaste mätning - och nu skiljer det 3,2 procentenheter till fördel för oppositionspartierna. Liberalerna ökar tydligt, på bekostnad av Moderaterna. ”Gapet minskar för att Tidöpartierna varit duktiga på att mobilisera från soffan”, säger Per Oleskog Tryggvason, opinionschef på Indikator.",
+      "pubDate": "2026-09-11T09:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "L"
+      ]
+    },
+    {
+      "title": "Insändare. Vinster i skolan sannolik orsak till Pisafiaskot",
+      "link": "https://www.dn.se/insandare/vinster-i-skolan-sannolik-orsak-till-pisafiaskot/",
+      "description": "INSÄNDARE. Utbildningsminister Simona Mohamssons förklaring till de sjunkande resultaten i skolan saknar trovärdighet. Skärmarna har blivit en bekväm syndabock för skolans misslyckande när förklaringen finns att finna på annat håll, skriver Anders Malmquist, pensionerad grundskoledirektör i Malmö stad.",
+      "pubDate": "2026-09-11T09:04:52Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Så reagerade politikerna och kommentatorerna på Åkessons sur-attack",
+      "link": "https://www.svt.se/nyheter/inrikes/sa-reagerade-politikerna-och-kommentatorerna-pa-akessons-sur-attack",
+      "description": "”Varför är du så sur?” frågade Jimmie Åkesson på bästa sändningstid – nu kan SD-ledaren ha gett Magdalena Andersson en ny slogan enligt de politiska kommentatorerna. Samtidigt har flera partiledare reagerat på attacken. – Vi kvinnor får ofta höra att vi ska le lite oftare, säger KD:s partiledare Ebba Busch.",
+      "pubDate": "2026-09-11T08:59:00Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "KD"
+      ]
+    },
+    {
+      "title": "S KU-anmäler Kristersson",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a28f694f-2119-447f-8c8c-b010f83c3f80",
+      "description": "S: Utsatts för ryskt infiltrationsförsök",
+      "pubDate": "2026-09-11T08:31:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Förtidsröstning: 64 kommuner kan ännu inte uteslutas från fel",
+      "link": "https://www.svt.se/nyheter/inrikes/fortidsrostning-64-kommuner-kan-annu-inte-uteslutas-fran-fel",
+      "description": "Med drygt två dagar kvar till val kan 64 kommuner fortfarande inte uteslutas från att ha drabbats av fel i förtidsröstningen. ”Analysen pågår fortfarande”, skriver valmyndigheten i ett pressmeddelande.",
+      "pubDate": "2026-09-11T08:13:56Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "DN Debatt. ”Opinionsmätningar kan avgöra valet – ändå tar ingen ansvar”",
+      "link": "https://www.dn.se/debatt/opinionsmatningar-kan-avgora-valet-anda-tar-ingen-ansvar/",
+      "description": "DN DEBATT. Var ligger Liberalerna i opinionen? Det beror på vem du frågar, siffran pendlar mellan 1,9 och 5,8 procent just nu. Samtidigt saknas transparens i hur många undersökningar görs, och hur folk har svarat. Ändå framställs resultaten som närmast sanningar av både medier och partier. Det är ett demokratiskt problem, skriver demokratiforskaren Edvin Skaghammar.",
+      "pubDate": "2026-09-11T08:13:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Miljöpartiet är inget för en socialliberal",
+      "link": "https://www.dn.se/insandare/svar-miljopartiet-ar-inget-for-en-socialliberal/",
+      "description": "SVAR PÅ INSÄNDARE. Vare sig Liberalerna, Centerpartiet eller Miljöpartiet passar väljare som uppskattar klassisk folkpartistisk politik. Att MP:s ledning heller inte verkar ha några problem med att dela regeringskansli med Vänsterpartiet gör att den liberala titeln känns ännu längre bort, skriver studenten Simon Nyberg.",
+      "pubDate": "2026-09-11T07:34:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "L",
+        "MP"
+      ]
+    },
+    {
+      "title": "Så följer du valet 2026 i Sveriges Radio",
+      "link": "https://www.sverigesradio.se/artikel/9294673",
+      "description": "Söndagen den 13 september avgörs valet 2026. I Sveriges radios valsändningar får du veta allt inför, under och efter Sverige gått till valurnorna. Under dagen rapporterar vi direkt från olika platser i landet, och under kvällen kan du följa valvakan och rösträkningen i Sveriges Radios app och i P1. Här kan du följa Ekots direktrapport om valet 2026 . Här är några hålltider att hålla koll på: Så bevakar Sveriges Radio valet söndag 13 september 8.05-19.00: Sverige går till val, lyssna i appen Sveriges radio Programledare: Marcus Nilsson och Ida Svansbo. 19.03 till sent: Valvaka i P1 och i appen Sveriges radio Programledare: Monica Sarinen och Parisa Höglund. Så bevakar Sveriges Radio valet måndag 14 september 05.29 – 09.30: Valvakna i P1 och appen Sveriges radio Programledare: Mikel Kulle och Pia Fridén. 10.03-12.28: Livesändning med senaste nytt från valet i P1 och appen Sveriges radio Programledare: Marcus Nilsson.",
+      "pubDate": "2026-09-11T06:27:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "L klart över spärren i ny mätning – gapet minskar",
+      "link": "https://www.expressen.se/nyheter/politik/l-klart-over-sparren-i-ny-matning-gapet-minskar-/",
+      "description": "Två dagar återstår till valet. Då knappar Tidöpartierna in på oppositionen i en ny mätning från Ekot/Indikator. &nbsp; Samtidigt hamnar L klart över spärren. Osäker inför valet? Gör Expressens valkompass!&nbsp; &nbsp;",
+      "pubDate": "2026-09-11T06:20:32Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Försprånget minskar för de rödgröna i ny mätning",
+      "link": "https://www.sverigesradio.se/artikel/9296716",
+      "description": "Gapet mellan Tidöpartierna och de rödgröna minskar i Indikator opinions senaste väljarbarometer. Tidö får tillsammans 47,6 procent och de rödgröna 50,8 – en skillnad på 3,2 procentenheter. Liberalerna går fram kraftigt och hamnar över riksdagsspärren, på 5,4 procent. Det framgår av mätningen att en stor del av de nya rösterna är taktikröster från personer som föredrar andra Tidöpartier. Socialdemokraterna tappar inte längre i opinionen, partiet får 28,6 procent vilket är lägre än det senaste valresultatet. Liberalernas uppgång är statistiskt säkerställd, likaså att de rödgröna leder över Tidöpartierna.",
+      "pubDate": "2026-09-11T05:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Talmannen: Partier bör vara redo överge röda linjer",
+      "link": "https://www.expressen.se/nyheter/sverige/talmannen-partier-bor-vara-redo-overge-roda-linjer/",
+      "description": "Årets valrörelse ger riksdagens talman Andreas Norlén ”lite vibbar av 2018”, då det tog 134 dagar till Sverige fick en ny regering efter valet. – Om det ska bli en snabbare och bättre process den här gången så behöver partierna helt enkelt vara mycket mer redo att överge sina röda linjer, säger Norlén i en intervju med TT.",
+      "pubDate": "2026-09-11T05:03:02Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Åkessons känga mot Lind: ”Har gett barn klimatångest”",
       "link": "https://www.expressen.se/nyheter/politik/akessons-kanga-mot-lind-har-gett-barn-klimatangest/",
       "description": "Amanda Lind (MP) och Jimmie Åkesson (SD) tjafsade om klimatet och bränslepriserna i TV4:s partiledardebatt. &nbsp; Känslorna var heta även efter debatten.&nbsp; – Det fossila behöver bli dyrare och kommer bli dyrare, säger Lind.&nbsp; – Miljöpartiet har skrämt upp svenska folket och gett små barn klimatångest, svarar Åkesson. Osäker inför valet? Gör Expressens valkompass!&nbsp; &nbsp;",
@@ -119,165 +252,25 @@
     {
       "title": "Utrikesfödda i riksdagen kvar på samma nivå som 2010",
       "link": "https://www.sverigesradio.se/artikel/9295459",
-      "description": "Andelen utrikesfödda riksdagsledamöter ligger kvar på samma nivå – åtta procent – som efter valet 2010, trots att andelen utrikes födda med rösträtt i riksdagsval har ökat under samma period till 16 procent. Det är ofta en lång väg via lokalpolitiken innan en person väljs in i riksdagen. Men även rädslan för hat och hot kan avskräcka, säger statsvetaren Cecilia Josefsson. ”Jag hoppas att det kommer att bli fler”, säger Sharifa Zahar, som gärna skulle rösta på en person som delar både hennes värderingar och bakgrund.",
+      "description": "Andelen utrikesfödda riksdagsledamöter ligger kvar på samma nivå – åtta procent – som efter valet 2010, trots att andelen utrikes födda med rösträtt i riksdagsval har ökat under samma period till 16 procent. Det är ofta en lång väg via lokalpolitiken innan en person väljs in i riksdagen. Men även rädslan för hat och hot kan avskräcka, säger statsvetaren Cecilia Josefsson. ”Jag hoppas att det kommer att bli fler”, säger Sharifa Sahar, som gärna skulle rösta på en person som delar både hennes värderingar och bakgrund.",
       "pubDate": "2026-09-11T01:00:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Anklagelser om lögn fick debatten att hetta till",
-      "link": "https://www.sverigesradio.se/artikel/9296696",
-      "description": "Tre dagar före valet möttes partiledarna i debatt i TV4 under torsdagskvällen. Det blev en stark replikväxling mellan statsministern, moderaten Ulf Kristersson, oppositionsledaren Magdalena Anderssons och SD:s Jimmie Åkesson om den svenska ekonomin. Även det dåliga Pisa-resultatet för svenska elever debatterades, men även hade partiledarna olika diagnoser.",
-      "pubDate": "2026-09-10T22:48:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S-ledaren: ”Inte ovanligt att män kallar bestämda kvinnor för sura”",
-      "link": "https://www.dn.se/sverige/s-ledaren-inte-ovanligt-att-man-kallar-bestamda-kvinnor-for-sura/",
-      "description": "Varför är Magdalena Andersson så sur hela tiden, undrade Jimmie Åkesson när TV4 samlade partiledarna till debatt på torsdagskvällen. – Vet du varför jag är sur? Det är för att jag möter ungdomar som får börja sitt vuxna liv i arbetslöshet, svarade S-ledaren.",
-      "pubDate": "2026-09-10T21:06:22Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Tidöpartierna hoppas att surast förlorar",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-tidopartierna-hoppas-att-surast-forlorar/",
-      "description": "Stundtals lät partiledardebatten i TV4 som en övning i positivt tänkande. Statsministern anklagade Magdalena Andersson för att tala illa om Sverige och Jimmie Åkesson angrep S-ledaren för att hon ”alltid är så sur”. Att anklaga oppositionen för att vara dysterkvistar är ett urgammalt politiskt knep.",
-      "pubDate": "2026-09-10T20:42:13Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "Regeringsbildning",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "V-planen för försvaret: Miljardärerna betalar",
-      "link": "https://www.expressen.se/nyheter/politik/v-planen-for-forsvaret-miljardarerna-betalar/",
-      "description": "Upprustningen av det svenska försvaret är mycket dyr.&nbsp; Nooshi Dadgostar (V) har en plan för finansieringen – och vilka som ska betala.&nbsp; – Nu måste Sveriges miljardärer och andra steppa upp.&nbsp;",
-      "pubDate": "2026-09-10T20:25:18Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Politikreportern: ”Var och en höll ett valtal”",
-      "link": "https://www.sverigesradio.se/artikel/9296687",
-      "description": "Valet är tre dagar bort och det märktes i allra högsta grad under TV4:s partiledardebatt på torsdagen. Det säger Ekots politikreporter Pontus Mattsson. Partiledarna var fyllda av energi, men formatet på debatten begränsade dem något. \"Var och en höll ett valtal\", säger han. Men det hettade även till, särskilt mellan Jimmie Åkesson (SD), Magdalena Andersson (S) och Ulf Kristersson (M) när det ekonomiska läget i Sverige debatterades.",
-      "pubDate": "2026-09-10T20:20:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "TV4:s partiledardebatt: Getingbetyg – de var bäst och sämst",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/tv4s-partiledardebatt-getingbetyg-de-var-bast-och-samst/",
-      "description": "Vilka var bäst och sämst i TV4:s partiledardebatt? Expressens politikkommentator Viktor Barth-Kron sätter getingbetyg. ✓ Åkessons självmål.&nbsp; ✓ Kunde knäckt vem som helst – hon var oberörd. ✓ Så vinner man en tv-debatt 2026.",
-      "pubDate": "2026-09-10T20:05:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Så var TV4:s partiledardebatt – ämne för ämne",
-      "link": "https://www.expressen.se/nyheter/politik/sa-var-tv4s-partiledardebatt-amne-for-amne/",
-      "description": "Bostäderna, skolan, arbetslösheten och klimatet var ämnena i TV4:s partiledardebatt. &nbsp; Missade du den?&nbsp; Så här var debatten – ämne för ämne.&nbsp;",
-      "pubDate": "2026-09-10T20:02:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Utpekade V-toppen: ”Kan man anmäla Mohamsson för förtal?”",
-      "link": "https://www.svt.se/nyheter/inrikes/utpekade-v-toppen-kan-man-anmala-mohamsson-for-fortal",
-      "description": "V-toppen Ilona Szatmari Waldau reagerar kraftigt på den lista som Liberalernas partiledare Simona Mohamsson hade med sig till partiledardebatten i TV4. – Det är olyckligt att Simona Mohamsson nu använder sig av judars utsatthet som ett politiskt slagträ, skriver hon till SVT.",
-      "pubDate": "2026-09-10T19:56:53Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Insändare. Miljöpartiet står för klassisk folkpartistisk politik",
-      "link": "https://www.dn.se/insandare/miljopartiet-star-for-klassisk-folkpartistisk-politik/",
-      "description": "INSÄNDARE. För väljare som saknar ett socialliberalt parti ligger Miljöpartiet närmare än Centerpartiet och Liberalerna. Genom sin moderna gröna socialliberalism är det numera MP som står för den klassiska folkpartistiska sloganen ”sociala reformer utan socialism”, skriver Jenny Granberg Ahlmark, dotter till den tidigare folkpartiledaren Per Ahlmark.",
-      "pubDate": "2026-09-10T19:49:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "L",
-        "MP"
-      ]
-    },
-    {
-      "title": "Åkesson till Andersson: ”Varför är du så sur?”",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-till-andersson-varfor-ar-du-sa-sur/",
-      "description": "Ulf Kristersson (M) anklagade Magdalena Andersson (S) för att fara med osanningar om svensk ekonomi.&nbsp; – Ni borde skämmas, sade han.&nbsp; Jimmie Åkesson (SD) gav sig in i ordbråket och frågade henne:&nbsp; – Varför är du så sur? Ebba Busch (KD) säger efter debatten att hon ogillade ”sur”-frågan.&nbsp;",
-      "pubDate": "2026-09-10T19:40:22Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Heta känslorna i skoldebatten: ”Ta ansvar!”",
-      "link": "https://www.expressen.se/nyheter/politik/heta-kanslorna-i-skoldebatten-ta-ansvar/",
-      "description": "En ny Pisa-mätning visar att svenska elever lär sig allt mindre.&nbsp; Det hettade till när partiledarna debatterade skolan.&nbsp; Magdalena Andersson (S) kritiserade regeringen för nedskärningar och pikade Ulf Kristersson (M).&nbsp; – Här har vi resultatet av fyra år med Tidöpartiernas politik. Ta ansvar!",
-      "pubDate": "2026-09-10T19:13:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Rättvisare Sverige med mer pengar i plånboken",
+      "link": "https://blog.zaramis.se/2026/09/11/rattvisare-sverige-med-mer-pengar-i-planboken/",
+      "description": "Hushållen har drabbats hårt under den gånga mandatperioden. De senaste årens snabba prisökningar på basvaror såsom el, boende, mat och drivmedel gör att fler har haft svårt att klara sin grundläggande försörjning. Läs mer … Inlägget Rättvisare Sverige med mer pengar i plånboken dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-11T05:19:07Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Vi inför en biljett för bussar och regionaltåg i hela landet",
       "link": "https://www.dagensarena.se/opinion/vi-infor-en-biljett-bussar-och-regionaltag-hela-landet/",
@@ -357,19 +350,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "Att välja tåget ska inte vara en lyx",
-      "link": "https://blog.zaramis.se/2026/09/08/att-valja-taget-ska-inte-vara-en-lyx/",
-      "description": "Tåg är det klimatvänligaste alternativet när det gäller transporter. Därför måste det satsas ordentligt på tågtrafik. Både när det gäller persontransporter och när det gäller gods. Regeringen har gjort det motsatta. Subventionerat flyget och dragit bort investeringar och finansiering av järnvägen. De bedriver en direkt klimat- och människofientlig politik på transport och trafikområdet. För den som vill ha en bra politik finns det framförallt två partier att välja på. Dels Vänsterpartiet som jag anser är bäst och dels Miljöpartiet. Läs mer … Inlägget Att välja tåget ska inte vara en lyx dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-08T06:10:06Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V",
-        "MP"
-      ]
     },
     {
       "title": "Hur Ibn Rushd byggdes in i folkbildningen med hjälp av Kristdemokraterna",
