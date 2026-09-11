@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-11T00:00:00Z",
-  "poll_date_label": "11 sep. 2026 (Verian, fältarbete 4\u201310 sep.)",
-  "source": "Verians väljarbarometer, publicerad i samarbete med SVT den 11 september 2026 \u2014 uttryckligen deras sista opinionsmätning före valdagen. Cirka 3\u00a0063 intervjuer, fältarbete 4\u201310 september 2026, riksrepresentativt urval vägt efter kön, ålder, utbildning och partival 2022. Bytt ut från PolitPro.eu:s sammanvägning efter att ha uppmärksammats på att den vägde in mätningar ända från maj \u2014 den här enskilda, mycket färska mätningen bedöms ge en mer aktuell bild dagarna före valet. Källa: Verian/SVT.",
-  "source_url": "https://www.veriangroup.com/sv/news-and-insights/valjarbarometer-11-september-2026",
+  "updated_at": "2026-09-11T23:00:45.085472Z",
+  "poll_date_label": "Verian, september 2026",
+  "source": "Verians väljarbarometer för september 2026, publicerad i samarbete med SVT. Cirka 3 000 intervjuer, riksrepresentativt urval vägt efter kön, ålder, utbildning och partival vid senaste valet. Källa: Verian/SVT.",
+  "source_url": "https://www.veriangroup.com/sv/news-and-insights/valjarbarometer-september-2026",
   "parties": {
-    "S": 27.6,
-    "M": 15.8,
-    "SD": 18.1,
-    "V": 7.7,
-    "C": 8.2,
-    "KD": 6.5,
-    "L": 5.5,
+    "S": 29.2,
+    "M": 16.4,
+    "SD": 18.9,
+    "V": 8.1,
+    "C": 7.4,
+    "KD": 6.3,
+    "L": 3.0,
     "MP": 8.0
   }
 }
