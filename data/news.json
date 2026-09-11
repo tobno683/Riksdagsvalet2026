@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T19:52:23.004918Z",
+  "updated_at": "2026-09-11T22:03:30.558123Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,104 @@
     }
   ],
   "news": [
+    {
+      "title": "Jimmie Åkessons oro: Muslimer kan avgöra valet",
+      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akessons-oro-muslimer-kan-avgora-valet",
+      "description": "Sverigedemokraternas partiledare Jimmie Åkesson varnar under SVT:s slutdebatt för att muslimsk invandring kan komma att avgöra det svenska riksdagsvalet. – Det oroar mig, säger Åkesson till SVT efter debatten.",
+      "pubDate": "2026-09-11T21:33:27Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "SD-ilska mot Kristerssons svar om svenska värderingar",
+      "link": "https://www.svt.se/nyheter/inrikes/sd-ilska-mot-kristerssons-svar-om-svenska-varderingar",
+      "description": "På frågan om svenska värderingar ska krävas för att få stanna i Sverige röstade samtliga Tidöledare ”ja”. Förutom Ulf Kristersson (M). – Jag tror alla förstår att man inte kan skriva in i lagen om vad som är en svensk värdering, säger han efter debatten.",
+      "pubDate": "2026-09-11T21:28:27Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Hårda orden efter debatten: ”Världsrekord i att skylla ifrån sig”",
+      "link": "https://www.dn.se/sverige/harda-orden-efter-debatten-varldsrekord-i-att-skylla-ifran-sig/",
+      "description": "Attackerna haglade i SVT:s slutdebatt. Partiledarna anklagade varandra för propaganda och respektlöshet, och V-ledaren Nooshi Dadgostar menade att Tidöpartierna ”släppt in hatet i landet”. – Det är hårresande, säger Ulf Kristersson till DN.",
+      "pubDate": "2026-09-11T21:10:13Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Kritiken mot debatten i SVT: ”Respektlöst”",
+      "link": "https://www.expressen.se/nyheter/politik/kritiken-mot-debatten-i-svt-respektlost/",
+      "description": "Programledarna hade fullt upp med att försöka kontrollera partiledarna i slutdebatten.&nbsp; Efteråt riktar flera av dem kritik mot varandra – och programledarna.&nbsp; – Det var respektlöst mot tittarna, säger Elisabeth Thand Ringqvist (C).",
+      "pubDate": "2026-09-11T21:05:41Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Så var SVT:s partiledardebatt – ämne för ämne",
+      "link": "https://www.expressen.se/nyheter/politik/sa-var-svts-partiledardebatt-amne-for-amne-/",
+      "description": "Ekonomi, skola, klimat, kriminalitet, integration och sjukvård var ämnena i SVT:s partiledardebatt . Missade du den? Så här var debatten – ämne för ämne.",
+      "pubDate": "2026-09-11T20:29:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Plötsligt beror valresultatet på muslimerna",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-plotsligt-beror-valresultatet-pa-muslimerna/",
+      "description": "Jimmie Åkesson har redan sin förklaring klar om Tidöpartierna förlorar valet på söndag. SD-ledaren gjorde slutdebattens mest kontroversiella utspel när han hävdade att riksdagsvalet håller på att avgöras av muslimska väljare. Samtidigt visade diskussionen att invandringsdebattens vindar inte längre blåser Åkessons väg.",
+      "pubDate": "2026-09-11T20:27:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Lind rasar mot Åkessons ord om muslimer: ”Hemskt”",
+      "link": "https://www.expressen.se/nyheter/politik/lind-rasar-mot-akessons-ord-om-muslimer-hemskt/",
+      "description": "Amanda Lind (MP) röt ifrån mot Jimmie Åkesson (SD) efter att han varnat för att muslimer kan avgöra det svenska valet.&nbsp; – Jag tycker att det är ett hemskt uttalande, säger hon.&nbsp;",
+      "pubDate": "2026-09-11T20:23:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "MP"
+      ]
+    },
+    {
+      "title": "SVT:s partiledardebatt: Getingbetyg – de var bäst och sämst",
+      "link": "https://www.expressen.se/nyheter/politik/svts-partiledardebatt-getingbetyg-de-var-bast-och-samst/",
+      "description": "Vilka var SVT-debattens vinnare och förlorare? Expressens politikkommentator Viktor Barth-Kron sätter getingbetyg. ✓ Halkade tillbaka i gamla synder. ✓ Nästan för skojfrisk. ✓ Vad hände här? ✓ Som en förvirrad isbjörn på prärien.",
+      "pubDate": "2026-09-11T20:16:26Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Debatt"
+      ]
+    },
     {
       "title": "Har vårdköerna ökat eller minskat?",
       "link": "https://www.svt.se/nyheter/inrikes/har-vardkoerna-okat-eller-minskat",
@@ -168,105 +266,6 @@
       "topics": [
         "SD",
         "KD"
-      ]
-    },
-    {
-      "title": "Svarar om röda linjerna: ”Förvånad”",
-      "link": "https://www.expressen.se/nyheter/politik/svarar-om-roda-linjerna-forvanad/",
-      "description": "Partierna måste vara redo att överge sina röda linjer, menar talmannen. Det får V-ledaren Nooshi Dadgostar att sätta press på C – som hon menar har en orimlig hållning. – Risken är att man framkallar ett nyval, säger hon.",
-      "pubDate": "2026-09-11T18:15:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Efter KD-anmälan – Ekot försvarar publicering",
-      "link": "https://www.sverigesradio.se/artikel/9298485",
-      "description": "Tidigare i dag har Ekot berättat att Kristdemokraterna har anmält Sveriges Radio till Granskningsnämnden efter Ekots utfrågning av partiledaren Ebba Busch där KD menar att Ekot använt felaktiga siffror som gällde uppgifter om väntetiden i vården. Men SKR, Sveriges kommuner och regioner, där Ekot hämtat siffrorna bekräftar i dag att Ekot har använt korrekta siffror. ”Ekot kommer inte att rätta något och kommer att försvara publiceringen i Granskningsnämnden”, säger publiceringschef Sofia Söderholm om KD:s anmälan.",
-      "pubDate": "2026-09-11T17:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "M och S bråkar om straffrabatterna – vad gäller?",
-      "link": "https://www.dn.se/sverige/m-och-s-brakar-om-straffrabatterna-vad-galler/",
-      "description": "Straffrabatterna har blivit en av valrörelsens hetaste frågor. Från Moderaterna och Socialdemokraterna kommer motstridiga påståenden. Vad handlar konflikten om?",
-      "pubDate": "2026-09-11T16:21:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "L:s starke man valmyser med gott självförtroende",
-      "link": "https://www.dn.se/sverige/ls-starke-man-valmyser-med-gott-sjalvfortroende/",
-      "description": "Det vänder för Liberalerna. I Landskrona är Torkild Strandberg inte förvånad. På 20 år har han gjort staden till ett av partiets starkaste fästen. Nu valmyser han med gott självförtroende. – Jag är ett big, big fan. Stort tack för allt du gör, ropar pensionären Pia Aaseby.",
-      "pubDate": "2026-09-11T16:18:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "C-ledaren har ny vågmästarchans i Göteborg",
-      "link": "https://www.dn.se/sverige/c-ledaren-har-ny-vagmastarchans-i-goteborg/",
-      "description": "Loppet för högerpartierna har sett kört ut i Göteborg. Men efter en ny mätning har deras hopp tänts – för att Emmyly Bönfors som vågmästare ska tippa åt deras håll. – Det blir lite upp till Moderaterna att presentera hur ett annat styre skulle kunna se ut, svarar Centerledaren.",
-      "pubDate": "2026-09-11T16:18:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Taktikröster viktig förklaring bakom L:s rusning",
-      "link": "https://www.svt.se/nyheter/inrikes/taktikroster-viktig-forklaring-bakom-ls-rusning",
-      "description": "Simona Mohamssons valstrategi ser ut att ha lyckats. Liberalernas rusning i opinionen fortsätter i SVT/Verians sista väljarbarometer innan valet. En viktig förklaring är sannolikt taktikröstande moderater.",
-      "pubDate": "2026-09-11T15:45:53Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "L",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Emilia, 27, kan vara drabbad av röstkaoset",
-      "link": "https://www.expressen.se/nyheter/politik/emilia-27-kan-vara-drabbad-av-rostkaoset/",
-      "description": "500 väljares röster kan ha felregistrerats under förtidsröstningen. 27-åriga Emilia Adler är en av de som sannolikt drabbats.&nbsp; Nu är hon orolig för att hennes röst inte ska räknas. På valdagen är hon nämligen bortrest.&nbsp; – Det känns inte alls bra i magen, säger hon.&nbsp;",
-      "pubDate": "2026-09-11T15:28:03Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "S och M valspurtar med två dagar kvar till valet",
-      "link": "https://www.sverigesradio.se/artikel/9298397",
-      "description": "Två dagar kvar till valet och partierna valspurtar. Den ena statsministerkandidaten Socialdemokraternas Magdalena Andersson var bland annat i sin hemkommun Nacka och träffade valarbetare. Det andra partiet som gör anspråk på statsministerposten, Moderaterna, presenterade sina prioriteringar om Tidöpartierna får behålla makten. Socialdemokraterna fokuserade på uppgörelser över blockgränsen, om till exempel energi. Moderaternas budskap handlade om att stärka ekonomin.",
-      "pubDate": "2026-09-11T15:27:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
       ]
     }
   ],
