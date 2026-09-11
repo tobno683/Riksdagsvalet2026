@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T00:17:00.276079Z",
+  "updated_at": "2026-09-11T04:54:04.217800Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,54 @@
     }
   ],
   "news": [
+    {
+      "title": "Åkessons känga mot Lind: ”Har gett barn klimatångest”",
+      "link": "https://www.expressen.se/nyheter/politik/akessons-kanga-mot-lind-har-gett-barn-klimatangest/",
+      "description": "Amanda Lind (MP) och Jimmie Åkesson (SD) tjafsade om klimatet och bränslepriserna i TV4:s partiledardebatt. &nbsp; Känslorna var heta även efter debatten.&nbsp; – Det fossila behöver bli dyrare och kommer bli dyrare, säger Lind.&nbsp; – Miljöpartiet har skrämt upp svenska folket och gett små barn klimatångest, svarar Åkesson. Osäker inför valet? Gör Expressens valkompass!&nbsp; &nbsp;",
+      "pubDate": "2026-09-11T04:04:07Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "MP",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Max Hjelm: I TV4-debatten uppmanades villasvenskar att vara rädda för hyresrättssvenskar",
+      "link": "https://www.dn.se/ledare/max-hjelm-i-tv4-debatten-uppmanades-villasvenskar-att-vara-radda-for-hyresrattssvenskar/",
+      "description": "I TV4:s partiledardebatt skröt Moderaterna med att ha räddat hyreshaveriet i svensk politik. Och tillsammans med Sverigedemokraterna fortsatte Ulf Kristersson med den falska skrämselkampanjen om ”tvångsblandning”.",
+      "pubDate": "2026-09-11T03:57:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Ledare: Det här väntar om Tidöpartierna vinner valet",
+      "link": "https://www.dn.se/ledare/det-har-vantar-om-tidopartierna-vinner-valet/",
+      "description": "Om Tidöpartierna får förnyat förtroende kommer de, med statsråd från SD, fortsätta på inslagen väg. Riskerna är betydliga, på en rad områden.",
+      "pubDate": "2026-09-11T03:32:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Utrikesfödda i riksdagen kvar på samma nivå som 2010",
+      "link": "https://www.sverigesradio.se/artikel/9295459",
+      "description": "Andelen utrikesfödda riksdagsledamöter ligger kvar på samma nivå – åtta procent – som efter valet 2010, trots att andelen utrikes födda med rösträtt i riksdagsval har ökat under samma period till 16 procent. Det är ofta en lång väg via lokalpolitiken innan en person väljs in i riksdagen. Men även rädslan för hat och hot kan avskräcka, säger statsvetaren Cecilia Josefsson. ”Jag hoppas att det kommer att bli fler”, säger Sharifa Zahar, som gärna skulle rösta på en person som delar både hennes värderingar och bakgrund.",
+      "pubDate": "2026-09-11T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "Anklagelser om lögn fick debatten att hetta till",
       "link": "https://www.sverigesradio.se/artikel/9296696",
@@ -227,51 +275,6 @@
         "S",
         "M"
       ]
-    },
-    {
-      "title": "Jacob Lundström: Svensk kulturpolitik krisar – men kan Beyoncé rycka ut?",
-      "link": "https://www.dn.se/kultur/jacob-lundstrom-svensk-kulturpolitik-krisar-men-kan-beyonce-rycka-ut/",
-      "description": "Vad ska vi med kulturen till? Inför valet presenterar Folkteatern i Göteborg ”en kulturell big bang”, som inkluderar näringslivstoppar, politiker och kändisar. Men det är bara en feberdröm, skriver Jacob Lundström.",
-      "pubDate": "2026-09-10T17:28:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Så blev mängdrabatten den stora stridsfrågan i valspurten",
-      "link": "https://www.svt.se/nyheter/inrikes/sa-blev-mangdrabatten-den-stora-stridsfragan-i-valspurten",
-      "description": "Ulf Kristersson anklagar S-ledaren för att inte stå upp för våldtaga kvinnor – medan Magdalena Andersson anklagar M-ledaren för att använda mäns våld mot kvinnor som politiskt slagträ. Mängdrabatten har blivit en av valrörelsens mest infekterade konflikter. – Ulf Kristersson vill köra den här frågan i botten, säger SVT:s politikreporter Kristoffer Törnmalm.",
-      "pubDate": "2026-09-10T17:25:56Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "V-toppens svar efter Mohamssons listkupp",
-      "link": "https://www.expressen.se/nyheter/politik/mohamsson-att-dadgostar-inte-var-sjuk-svaret-far-hyfsa-till-sig/",
-      "description": "V-toppen Ilona Szatmári Waldau reagerar starkt på kritiken från Simona Mohamsson inför TV4-debatten. ”Kan jag anmäla henne för förtal?” skriver hon på Instagram. – Det kan hon få göra, svarar L-ledaren.",
-      "pubDate": "2026-09-10T17:22:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Löftet om 5 000 dollar är en seger för Trump",
-      "link": "https://www.sverigesradio.se/artikel/9296588",
-      "description": "Donald Trump förvånade många när han på onsdagen utlovade 5 000 dollar till varje vuxen amerikansk medborgare, om Republikanerna behåller kontrollen över kongressen efter mellanårsvalet. ”Det har skapat uppmärksamhet kring Trumps och Republikanernas pågående partikonvent som hålls just nu här i Dallas. På det sättet är det en seger för Trump”, säger Sveriges Radios USAkorrespondent Simon Isaksson. Men beskedet har även mötts av kritik, där experter frågar sig varifrån pengarna ska komma.",
-      "pubDate": "2026-09-10T16:09:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
@@ -455,6 +458,18 @@
   ],
   "podcasts": [
     {
+      "title": "Inläst: Vart är vi på väg? Vänsterut",
+      "link": "https://pod.space/kvartal/inlast-vart-ar-vi-pa-vag-vansterut",
+      "description": "SVT:s nya deltagarlista till På spåret förvånar inte. Den rymmer en veteran med åtta år på Vänsterpartiets kansli och flera andra vänsterprofiler. Antal konservativa: noll. Av Pelle Zackrisson Inläsare: Nathalie Rothschild",
+      "pubDate": "2026-09-11T04:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "311. Mohamssons paniksiffra",
       "link": "https://pod.space/politikrummet/311-mohamssons-paniksiffra",
       "description": "Liberalernas höga siffror skapar oro – inte minst för liberalerna själva. Och kommer statsministerduellen avgöra valet även i år?&nbsp; I studion: Filippa Rogvall, Viktor Barth-Kron och Max V Karlsson Producent: Anna Westman Swantesson Ljudklipp från SR Ansvarig utgivare: Klas Granström, Expressen AB",
@@ -632,18 +647,6 @@
       "sourceType": "podcast",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Är det här Magdalena Anderssons mardröm?",
-      "link": "https://pod.space/alskadepolitik/ar-det-har-magdalena-anderssons-mardrom",
-      "description": "Med elva dagar kvar till valet tappar Socialdemokraterna kraftigt. Hur \"pissed off\" är egentligen Magdalena Andersson?",
-      "pubDate": "2026-09-03T13:43:25Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S"
       ]
     }
   ]
