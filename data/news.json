@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T08:55:15.158859Z",
+  "updated_at": "2026-09-12T12:27:54.470988Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,104 @@
   ],
   "news": [
     {
+      "title": "Experter kritiska mot partiernas vallöften",
+      "link": "https://www.expressen.se/nyheter/politik/experter-kritiska-mot-partiernas-valloften/",
+      "description": "De politiska löftena haglar i valspurten. Nu varnar experter för en ökande statsskuld. Finansminister Elisabeth Svantesson (M) slår tillbaka – och riktar udden mot Magdalena Andersson (S). – Antingen är hon okunnig eller så spelar hon okunnig.",
+      "pubDate": "2026-09-12T12:02:49Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Nytt besked om strulet – högst 300 väljare kan ha drabbats",
+      "link": "https://www.sverigesradio.se/artikel/9298623",
+      "description": "Max 300 personer kan ha drabbats av strulet med förtidsrösterna, det uppger Valmyndigheten för Ekot. Det är färre än vad man tidigare sagt, i veckan uppgav myndigheten att det rörde sig om max 500. Valmyndigheten har på sin hemsida publicerat en lista över vilka röstningslokaler och tidpunkter då man som väljare kan ha drabbats av strulet. ”I vissa fall kan man höra av sig till sin kommun och få mer information. Vi uppmuntrar alla väljare som röstat under de tidpunkterna att rösta igen på valdagen”, säger Anna Nyqvist, kanslichef på Valmyndigheten.",
+      "pubDate": "2026-09-12T11:30:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "S skickade kryptobedrägeri: ”Hackat”",
+      "link": "https://www.expressen.se/nyheter/politik/s-skickade-kryptobedrageri-hackat-685c8/",
+      "description": "Socialdemokraterna skickade ut ett kryptobedrägeri till sina följare på Tiktok. Användare uppmanades att sätta in pengar på en bedragares konto. – Så snart vi fick kännedom om det agerade vi för att återta kontrollen, säger Tobias Baudin.",
+      "pubDate": "2026-09-12T10:58:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Enkät: Bara SD vill hårdare migrationslagar",
+      "link": "https://www.sverigesradio.se/artikel/9291153",
+      "description": "I en enkät till riksdagspartierna svarar bara Sverigedemokraterna att de vill fortsätta att driva en mer restriktiv migrationspolitik efter valet och partiet prioriterar utvisningar av personer utan uppehållstillstånd. ”Ur vår synvinkel så finns fortfarande mycket att göra”, säger partiets migrationspolitiske talesperson Ludvig Aspling. Oppositionspartierna svarar att reglerna för anhöriginvandring blivit för restriktiv och en prioriterad fråga för dem är att familjer inte ska splittras av utvisningar.",
+      "pubDate": "2026-09-12T10:40:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "S ilska över SD-sms: ”Följer inte lagen”",
+      "link": "https://www.sverigesradio.se/artikel/9298601",
+      "description": "Sverigedemokraterna skickade ut sms till flera medborgare under lördagen, där de skriver att partiet och Socialdemokraterna är överens om att stänga alla muslimska friskolor. Exakt hur många som fått sms:et är i nuläget oklart, men enligt SD:s presstjänst har smset gått ut till en bred grupp väljare och journalister. De skriver också i en skriftlig kommentar till Ekot att det är viktigt att visa att partierna står enade i kampen mot islamism och att S delar deras uppfattning. Men Socialdemokraterna skriver i en mejlkommentar att Sverigedemokraterna bryter mot lagen då de använder telemarketingföretag för att påverka valet och att citat ”ett parti som söker regeringsmakten måste klara något så grundläggande som att följa lagen” Ekot söker respektive partiledare, SD:s Jimmie Åkesson och S:s Magdalena Andersson för intervju.",
+      "pubDate": "2026-09-12T10:26:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Stockholms skuldberg – ”Slowmotion-krasch” eller goda investeringar?",
+      "link": "https://www.dn.se/sverige/stockholms-skuldberg-slowmotion-krasch-eller-goda-investeringar/",
+      "description": "Hur problematisk är Stockholms skuldnivå, och varför har Spybar hamnat i diskussionens centrum? Moderaterna ser utvecklingen som stadens största problem, medan Socialdemokraterna ser att alternativet vore förödande. – En bra princip är: Ju mindre lån vi kan ha, desto bättre, säger Christofer Fjellner, gruppledare för M i staden.",
+      "pubDate": "2026-09-12T10:22:49Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Ledare: Vill du ha borgerlig politik? Då ska du inte rösta på Tidö",
+      "link": "https://www.dn.se/ledare/vill-du-ha-borgerlig-politik-da-ska-du-inte-rosta-pa-tido/",
+      "description": "Tidöprojektet har varit ett stort misslyckande för Moderaterna och borgerligheten.",
+      "pubDate": "2026-09-12T09:25:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "SD:s sms-kupp: ”Överens med Socialdemokraterna”",
+      "link": "https://www.expressen.se/nyheter/politik/sds-sms-kupp-overens-med-socialdemokraterna/",
+      "description": "Ett sms från Sverigedemokraterna har gått ut till flera människor under morgonen. ”Socialdemokraterna och Sverigedemokraterna är överens om att alla muslimska friskolor ska stängas”, står det i sms:et.&nbsp; S kallar kuppen för ett bevis på ”vilken smutsig valrörelse SD bedriver”.&nbsp;",
+      "pubDate": "2026-09-12T09:10:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
       "title": "Fler valbussar ska göra det enklare att förtidsrösta",
       "link": "https://www.sverigesradio.se/artikel/9298163",
       "description": "Inför valet har valbussar dykt upp i fler kommuner för att göra förtidsröstningen enklare, särskilt på landsbygden. I Uppsala stannar valbussen på 16 platser och enligt valchefen Peter Dacke ökar den tillgängligheten. Däremot påverkas valdeltagandet troligen bara på marginalen enligt statsvetarprofessorn Karl-Oskar Lindgren. Vid stoppet mellan bensinpumparna och pizzerian i Ramstalund berättar en väljare hur bussen kan avgöra om hans pappa hinner rösta.",
@@ -88,19 +186,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "SD:s sms-kupp: ”Överens med Socialdemokraterna”",
-      "link": "https://www.expressen.se/nyheter/politik/sds-sms-kupp-overens-med-socialdemokraterna/",
-      "description": "Ett sms från Sverigedemokraterna har gått ut till flera människor under morgonen. ”Socialdemokraterna och Sverigedemokraterna är överens om att alla muslimska friskolor ska stängas”, står det i sms:et.&nbsp; S kallar kuppen för ett bevis på ”vilken smutsig valrörelse SD bedriver”.&nbsp;",
-      "pubDate": "2026-09-12T08:24:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
       ]
     },
     {
@@ -144,9 +229,9 @@
       ]
     },
     {
-      "title": "Nooshi Dadgostar drabbad av röstkaoset: ”Oacceptabelt”",
+      "title": "Nooshi Dadgostar inte drabbad av röstkaoset",
       "link": "https://www.expressen.se/nyheter/politik/nooshi-dadgostar-drabbad-av-rostkaoset-oacceptabelt/",
-      "description": "V-ledaren Nooshi Dadgostar tvingas rösta om. Hon är en av dem som drabbats av strulet med förtidsrösterna. – Det är helt oacceptabelt att ens röst riskerar att inte räknas med fast man de facto gått och röstat, säger hon till Aftonbladet. &nbsp; Osäker inför valet? Gör Expressens valkompass!",
+      "description": "V-ledaren Nooshi Dadgostar tvingas inte rösta om. Hon var en av dem som trodde sig ha drabbats av strulet med förtidsrösterna – men det visade sig att hennes röst var giltig.&nbsp; – Det är utrett och hennes röst är registrerad, säger Olof Klingvall på stadsledningskontoret i Rinkeby.&nbsp; Osäker inför valet? Gör Expressens valkompass!",
       "pubDate": "2026-09-12T07:00:36Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -174,87 +259,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Allt fler förtidsröstar: ”Partierna borde tänka om”",
-      "link": "https://www.sverigesradio.se/artikel/9296474",
-      "description": "Förtidsröstningen har ökat markant i årets val jämfört med förra. På lördagsmorgonen hade närmare 3,4 miljoner väljare röstat, enligt Valmyndigheten. Om trenden står sig kan viktiga delar av valrörelsen tidigareläggas i framtiden, enligt personer som jobbar med valrörelser. ”Jag tycker att partierna borde tänka om, särskilt när det gäller hur sent man presenterar sina sista förslag i sina valmanifest”, säger statsvetaren Jan Teorell.",
-      "pubDate": "2026-09-12T05:50:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Varför röstar så många i Lomma och så få i Haparanda?",
-      "link": "https://www.dn.se/sverige/varfor-rostar-sa-manga-i-lomma-och-sa-fa-i-haparanda/",
-      "description": "Medan röstmottagarna i Haparanda hoppas på ett uppsving i valdeltagande – köar Lommaborna till förtidsröstningen. Här är kommunerna där klyftan mellan soffliggare och aktiva väljare är störst.",
-      "pubDate": "2026-09-12T05:05:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Hård debatt när partiledarna möttes sista gången före valet",
-      "link": "https://www.sverigesradio.se/artikel/9298535",
-      "description": "SVT:s slutdebatt var tidvis högljudd när partiledarna möttes för att debattera frågor som ekonomi, klimat och integration. Tidöpartierna som anlände till debatten tillsammans kritiserade delar av oppositionen för sin skattepolitik, ifrågasatte vad som skulle hända med kärnkraften vid ett maktskifte och arbetet mot gängkriminalitet. Oppositionspartierna kritiserade tidöpartierna bland annat för att inte ta klimatfrågan på allvar och för att ställa människor mot varandra.",
-      "pubDate": "2026-09-12T04:05:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Ilskan efter sändning – bråket fortsätter",
-      "link": "https://www.expressen.se/nyheter/politik/ilskan-efter-sandning-braket-fortsatter/",
-      "description": "Simona Mohamsson (L) och Magdalena Andersson (S) rasade mot varandra flera gånger under SVT:s partiledardebatt. Bråket fortsatte även efter sändning.&nbsp; – Jag tycker att hon ska skämmas för den lilla klappen på huvudet hon gav mig framför hela svenska folket, säger Mohamsson. Osäker inför valet? Gör Expressens valkompass! &nbsp;&nbsp;",
-      "pubDate": "2026-09-12T04:01:07Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Skarpt tonläge under sista partiledardebatten",
-      "link": "https://www.sverigesradio.se/artikel/9298533",
-      "description": "Slutdebatten inför valet blev stundtals högljudd och bråkig, men tydliggjorde också skillnaderna mellan partierna, enligt Sveriges Radios politiska kommentator Helena Gissén. Partiledarna drabbade samman om skatter, bostadspolitik, kriminalitet och integration, där både regeringssidan och oppositionen riktade hård kritik mot varandra. ”Någon jävla ordning får det vara”, sa Magdalena Andersson (S) i sändning.",
-      "pubDate": "2026-09-11T22:16:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Jimmie Åkessons oro: Muslimer kan avgöra valet",
-      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akessons-oro-muslimer-kan-avgora-valet",
-      "description": "Sverigedemokraternas partiledare Jimmie Åkesson varnar under SVT:s slutdebatt för att muslimsk invandring kan komma att avgöra det svenska riksdagsvalet. – Det oroar mig, säger Åkesson till SVT efter debatten.",
-      "pubDate": "2026-09-11T21:33:27Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "SD-ilska mot Kristerssons svar om svenska värderingar",
-      "link": "https://www.svt.se/nyheter/inrikes/sd-ilska-mot-kristerssons-svar-om-svenska-varderingar",
-      "description": "På frågan om svenska värderingar ska krävas för att få stanna i Sverige röstade samtliga Tidöledare ”ja”. Förutom Ulf Kristersson (M). – Jag tror alla förstår att man inte kan skriva in i lagen om vad som är en svensk värdering, säger han efter debatten.",
-      "pubDate": "2026-09-11T21:28:27Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
     }
   ],
   "blogs": [
