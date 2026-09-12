@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T12:27:54.470988Z",
+  "updated_at": "2026-09-12T15:42:18.971535Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,67 @@
   ],
   "news": [
     {
+      "title": "Så mycket har de lägre bränslepriserna kostat staten",
+      "link": "https://www.dn.se/sverige/sa-mycket-har-de-lagre-branslepriserna-kostat-staten/",
+      "description": "De senaste årens skattesänkningar på drivmedel har resulterat i drygt 67 miljarder kronor i uteblivna skatteintäkter, visar DN:s genomgång. Därutöver tillkommer miljardkostnader för att kompensera för de högre utsläppen under mandatperioden. – Jag skäms inte för den politik som jag har genomfört och tänker fortsätta bedriva, säger finansminister Elisabeth Svantesson (M).",
+      "pubDate": "2026-09-12T15:26:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Expertpanelen: Valrörelsen fastnade i stödröster",
+      "link": "https://www.sverigesradio.se/artikel/9298661",
+      "description": "Inför valdagen kritiserar expertpanelen i Ekots Lördagsintervjuns valspecial att valrörelsen handlat mer om stödröster och taktik än om sakfrågor. Enligt panelen har fokus legat på privatekonomi, regeringsfrågan och om Liberalerna klarar spärren, medan frågor som vård och försvar hamnat i skymundan. Samtidigt talas det om möjlig rekordnivå för taktiska röster, efter en stödröstarfeber som flera menar har förstärkts under slutspurten.",
+      "pubDate": "2026-09-12T15:21:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Valrörelsen går mot sitt slut – rekordmånga har förtidsröstat",
+      "link": "https://www.sverigesradio.se/artikel/9298678",
+      "description": "Valrörelsen går mot sitt slut och partierna spurtar in i det sista, men samtidigt är det många som redan har förtidsröstat. Idag har partiledarna varit runt på många plaster bland annat i Stockholmsförorten Rinkeby, där både SD:s partiledare Jimmie Åkesson och MP:s språkrör Amanda Lind varit under dagen. Rinkeby har historiskt sett haft ett lägre valdeltagande än resten av landet, men i år är känslan att valdeltagandet kommer att vara högre, säger röstmottagarna Kadra Khalid Mohamed och Göran Jakobsson.",
+      "pubDate": "2026-09-12T15:16:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "MP"
+      ]
+    },
+    {
+      "title": "Paniken i MP – haft dubbla  krismöten: ”Skarpt läge”",
+      "link": "https://www.expressen.se/nyheter/politik/paniken-i-mp-haft-dubbla--krismoten-skarpt-lage/",
+      "description": "Paniken sprider sig i Miljöpartiet efter opinionstappet i veckan. Efter dubbla krismöten på lördagen gör MP analysen att det är bråken mellan V och C som skadat. –&nbsp;Det är skarpt läge nu, säger Alice Bah Kuhnke, EU-parlamentariker som deltog i ett av mötena.",
+      "pubDate": "2026-09-12T15:14:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "S om SD:s vallöfte: ”Är ett rent luftslott”",
+      "link": "https://www.expressen.se/nyheter/politik/s-om-sds-vallofte-ar-ett-rent-luftslott/",
+      "description": "Svantessons ord om att SD kan behöva tänka om kring sitt främsta vallöfte – tandvårdsreformen – får S att reagera. &nbsp; – Det är ett väldigt anmärkningsvärt besked, säger partisekreterare Tobias Baudin.",
+      "pubDate": "2026-09-12T14:19:21Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "Experter kritiska mot partiernas vallöften",
       "link": "https://www.expressen.se/nyheter/politik/experter-kritiska-mot-partiernas-valloften/",
       "description": "De politiska löftena haglar i valspurten. Nu varnar experter för en ökande statsskuld. Finansminister Elisabeth Svantesson (M) slår tillbaka – och riktar udden mot Magdalena Andersson (S). – Antingen är hon okunnig eller så spelar hon okunnig.",
@@ -114,7 +175,7 @@
       ]
     },
     {
-      "title": "Enkät: Bara SD vill hårdare migrationslagar",
+      "title": "Enkät: Bara SD vill se hårdare migrationslagar",
       "link": "https://www.sverigesradio.se/artikel/9291153",
       "description": "I en enkät till riksdagspartierna svarar bara Sverigedemokraterna att de vill fortsätta att driva en mer restriktiv migrationspolitik efter valet och partiet prioriterar utvisningar av personer utan uppehållstillstånd. ”Ur vår synvinkel så finns fortfarande mycket att göra”, säger partiets migrationspolitiske talesperson Ludvig Aspling. Oppositionspartierna svarar att reglerna för anhöriginvandring blivit för restriktiv och en prioriterad fråga för dem är att familjer inte ska splittras av utvisningar.",
       "pubDate": "2026-09-12T10:40:00Z",
@@ -202,63 +263,6 @@
         "C",
         "MP"
       ]
-    },
-    {
-      "title": "Hårda attacken efter debatten: ”Sprängt barn”",
-      "link": "https://www.expressen.se/nyheter/politik/harda-attacken-efter-debatten-sprangt-barn/",
-      "description": "Tidöpartierna har ”släppt in hatet” i Sverige, hävdar V-ledaren Nooshi Dadgostar. Nej, kontrar Ebba Busch – det är Dadgostar själv som har gjort det. – Bokstavligt talat i Sveriges riksdag när hon låter riksdagsledamöter skicka hyllningsbrev till terrorister som sprängt barn, säger KD-ledaren efter slutdebatten i SVT.",
-      "pubDate": "2026-09-12T07:29:08Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD"
-      ]
-    },
-    {
-      "title": "Stora skillnader i sista mätningarna inför valet 2026",
-      "link": "https://www.svt.se/nyheter/inrikes/stora-skillnader-i-sista-matningarna-infor-valet-2026",
-      "description": "Det rasslade in opinionsundersökningar under fredagen, och mätningarna visar på olika avstånd mellan blocken. I samtliga mätningar ligger Liberalerna över spärren. – Det är upplagt för en spännande valhelg, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
-      "pubDate": "2026-09-12T07:05:53Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Nooshi Dadgostar inte drabbad av röstkaoset",
-      "link": "https://www.expressen.se/nyheter/politik/nooshi-dadgostar-drabbad-av-rostkaoset-oacceptabelt/",
-      "description": "V-ledaren Nooshi Dadgostar tvingas inte rösta om. Hon var en av dem som trodde sig ha drabbats av strulet med förtidsrösterna – men det visade sig att hennes röst var giltig.&nbsp; – Det är utrett och hennes röst är registrerad, säger Olof Klingvall på stadsledningskontoret i Rinkeby.&nbsp; Osäker inför valet? Gör Expressens valkompass!",
-      "pubDate": "2026-09-12T07:00:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Afrikanska trollkonton blickar mot Sverige",
-      "link": "https://www.expressen.se/nyheter/politik/afrikanska-trollkonton-blickar-mot-sverige/",
-      "description": "Ett nätverk med tusentals konton från Afrika riktar in sig på svenska användare inför valet, skriver SVT Nyheter.&nbsp; Kontona misstänks kunna användas för att påverka vilka politiska frågor som får spridning på sociala medier.&nbsp;",
-      "pubDate": "2026-09-12T06:24:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Insändare. Jag vill göra Sverige till Sverige igen",
-      "link": "https://www.dn.se/insandare/jag-vill-gora-sverige-till-sverige-igen/",
-      "description": "INSÄNDARE. Varje röst i valet på söndag kan bli avgörande för vilket Sverige vi ska bo i under de kommande åren. Jag längtar tillbaka till det Sverige som värderade humanism, medmänsklighet och solidaritet mot vår omvärld, skriver Stephan Serenius.",
-      "pubDate": "2026-09-12T05:53:43Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
