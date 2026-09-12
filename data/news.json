@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T17:56:12.943520Z",
+  "updated_at": "2026-09-12T19:49:29.565541Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,97 @@
   ],
   "news": [
     {
+      "title": "Ulf och Magda – hur orkar ni?",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/ulf-och-magda-hur-orkar-ni/",
+      "description": "En valrörelse som partiledare är en mental och fysisk prestation i elitklass. Men Ulf Kristersson och Magdalena Andersson är långt ifrån ensamma, skriver Viktor Barth-Kron.",
+      "pubDate": "2026-09-12T19:41:51Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Så var TV4:s statsministerduell – ämne för ämne",
+      "link": "https://www.expressen.se/nyheter/politik/sa-var-tv4s-statsministerduell-amne-for-amne/",
+      "description": "Ekonomi, kriminalitet, Sverige 2024 och regeringsfrågan var ämnena i TV4:s statsministerduell. &nbsp; Missade du den? Så här var duellen – ämne för ämne. Osäker inför valet? Gör Expressens valkompass!",
+      "pubDate": "2026-09-12T19:37:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Bråk om klimatet: ”Är bäst i hela EU”",
+      "link": "https://www.expressen.se/nyheter/politik/brak-om-klimatet-ar-bast-i-hela-eu/",
+      "description": "Det hettade till när Ulf Kristersson (M) och Magdalena Andersson (S) debatterade klimatet i TV4:s statsministerduell. – Ett haveri, sa Andersson om regeringens klimatpolitik. – Systematisk svartmålning, svarade Kristersson.",
+      "pubDate": "2026-09-12T19:29:12Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ebba Busch och Simona Mohamsson serverar öl på bar",
+      "link": "https://www.expressen.se/nyheter/politik/ebba-busch-och-simona-mohamsson-serverar-ol-pa-bar/",
+      "description": "Lördag kväll och Simona Mohamsson (L) och Ebba Busch (KD) är kungar i baren. – Såklart jag vill slutspurta med&nbsp;Simona, säger Ebba Busch som hivar ölsejdlar med Mohamsson på en fullsatt bar i centrala Stockholm.",
+      "pubDate": "2026-09-12T18:57:21Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Jonas Attenius (S) hotad i Göteborg",
+      "link": "https://www.expressen.se/nyheter/politik/jonas-attenius-s-hotad-i-goteborg/",
+      "description": "Jonas Attenius, socialdemokratisk kommunstyrelseordförande i Göteborg har utsatts för ett misstänkt olaga hot, rapporterar Göteborgs-Posten . – Han skriker ”din jävla landsförrädare”, säger Attenius till GP.",
+      "pubDate": "2026-09-12T18:37:38Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Stora oron i Vänsterpartiet – flera krismöten",
+      "link": "https://www.expressen.se/nyheter/politik/stora-oron-i-vansterpartiet-flera-krismoten/",
+      "description": "Vänsterpartiets ledning har suttit i möten flera gånger under lördagen. Internt är oron utbredd för att man ska tappa till S och C sista dygnet. –&nbsp;För oss är det viktigt att bli större än Centerpartiet, säger Maria Forsberg, partisekreterare.",
+      "pubDate": "2026-09-12T18:21:03Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Magdalena Anderssons löfte: ”Kommer aldrig låta mig styras av extrema krafter”",
+      "link": "https://www.svt.se/nyheter/inrikes/magdalena-anderssons-lofte-kommer-aldrig-lata-mig-styras-av-extrema-krafter",
+      "description": "S-ledaren Magdalena Andersson lovar att aldrig låta sig ”styras av extrema krafter” om hon blir statsminister. – Vänsterpartiet har en resa kvar att göra, men jag är ju väldigt tydlig, jag kommer inte låta mig styras av extrema krafter, det är ett löfte till svenska folket.",
+      "pubDate": "2026-09-12T18:02:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Magnus Ranstorp om nya V-avslöjandena: ”Extremt olämpligt”",
       "link": "https://www.expressen.se/nyheter/sverige/magnus-ranstorp-om-nya-v-avslojandena-extremt-olampligt/",
       "description": "Terrorexperten Magnus Ranstorp har just börjat med regeringens utredning av politisk islam. Från New York följer han nu de nya avslöjandena om Vänsterpartiet. – Det finns en invävd terrorromantik där – och Vänsterpartiet har inte tagit det på allvar, säger han.&nbsp;",
@@ -105,7 +196,7 @@
     {
       "title": "Sista duellen mellan Kristersson och Andersson",
       "link": "https://www.dn.se/sverige/sista-duellen-mellan-andersson-och-kristersson/",
-      "description": "Klockan 20.00 på lördagen möts Ulf Kristersson (M) och Magdalena Andersson (S) i en sista duell inför valdagen i TV4. Under sändningen ska ekonomi, kriminalitet, Sverige 2040 och regeringsfrågan debatteras. Följ DN:s direktrapportering.",
+      "description": "På lördagen möttes Ulf Kristersson (M) och Magdalena Andersson (S) i TV4 i en sista duell inför valdagen. Under sändningen ska ekonomi, kriminalitet, Sverige 2040 och regeringsfrågan debatterades. Läs DN:s direktrapportering.",
       "pubDate": "2026-09-12T16:31:44Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -173,90 +264,6 @@
       "sourceType": "news",
       "topics": [
         "L"
-      ]
-    },
-    {
-      "title": "Valrörelsen går mot sitt slut – rekordmånga har förtidsröstat",
-      "link": "https://www.sverigesradio.se/artikel/9298678",
-      "description": "Valrörelsen går mot sitt slut och partierna spurtar in i det sista, men samtidigt är det många som redan har förtidsröstat. Idag har partiledarna varit runt på många plaster bland annat i Stockholmsförorten Rinkeby, där både SD:s partiledare Jimmie Åkesson och MP:s språkrör Amanda Lind varit under dagen. Rinkeby har historiskt sett haft ett lägre valdeltagande än resten av landet, men i år är känslan att valdeltagandet kommer att vara högre, säger röstmottagarna Kadra Khalid Mohamed och Göran Jakobsson.",
-      "pubDate": "2026-09-12T15:16:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "MP"
-      ]
-    },
-    {
-      "title": "Paniken i MP – haft dubbla  krismöten: ”Skarpt läge”",
-      "link": "https://www.expressen.se/nyheter/politik/paniken-i-mp-haft-dubbla--krismoten-skarpt-lage/",
-      "description": "Paniken sprider sig i Miljöpartiet efter opinionstappet i veckan. Efter dubbla krismöten på lördagen gör MP analysen att det är bråken mellan V och C som skadat. –&nbsp;Det är skarpt läge nu, säger Alice Bah Kuhnke, EU-parlamentariker som deltog i ett av mötena.",
-      "pubDate": "2026-09-12T15:14:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "S om SD:s vallöfte: ”Är ett rent luftslott”",
-      "link": "https://www.expressen.se/nyheter/politik/s-om-sds-vallofte-ar-ett-rent-luftslott/",
-      "description": "Svantessons ord om att SD kan behöva tänka om kring sitt främsta vallöfte – tandvårdsreformen – får S att reagera. &nbsp; – Det är ett väldigt anmärkningsvärt besked, säger partisekreterare Tobias Baudin.",
-      "pubDate": "2026-09-12T14:19:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Experter kritiska mot partiernas vallöften",
-      "link": "https://www.expressen.se/nyheter/politik/experter-kritiska-mot-partiernas-valloften/",
-      "description": "De politiska löftena haglar i valspurten. Nu varnar experter för en ökande statsskuld. Finansminister Elisabeth Svantesson (M) slår tillbaka – och riktar udden mot Magdalena Andersson (S). – Antingen är hon okunnig eller så spelar hon okunnig.",
-      "pubDate": "2026-09-12T12:02:49Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Nytt besked om strulet – högst 300 väljare kan ha drabbats",
-      "link": "https://www.sverigesradio.se/artikel/9298623",
-      "description": "Max 300 personer kan ha drabbats av strulet med förtidsrösterna, det uppger Valmyndigheten för Ekot. Det är färre än vad man tidigare sagt, i veckan uppgav myndigheten att det rörde sig om max 500. Valmyndigheten har på sin hemsida publicerat en lista över vilka röstningslokaler och tidpunkter då man som väljare kan ha drabbats av strulet. ”I vissa fall kan man höra av sig till sin kommun och få mer information. Vi uppmuntrar alla väljare som röstat under de tidpunkterna att rösta igen på valdagen”, säger Anna Nyqvist, kanslichef på Valmyndigheten.",
-      "pubDate": "2026-09-12T11:30:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "S skickade kryptobedrägeri: ”Hackat”",
-      "link": "https://www.expressen.se/nyheter/politik/s-skickade-kryptobedrageri-hackat-685c8/",
-      "description": "Socialdemokraterna skickade ut ett kryptobedrägeri till sina följare på Tiktok. Användare uppmanades att sätta in pengar på en bedragares konto. – Så snart vi fick kännedom om det agerade vi för att återta kontrollen, säger Tobias Baudin.",
-      "pubDate": "2026-09-12T10:58:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Enkät: Bara SD vill se hårdare migrationslagar",
-      "link": "https://www.sverigesradio.se/artikel/9291153",
-      "description": "I en enkät till riksdagspartierna svarar bara Sverigedemokraterna att de vill fortsätta att driva en mer restriktiv migrationspolitik efter valet och partiet prioriterar utvisningar av personer utan uppehållstillstånd. ”Ur vår synvinkel så finns fortfarande mycket att göra”, säger partiets migrationspolitiske talesperson Ludvig Aspling. Oppositionspartierna svarar att reglerna för anhöriginvandring blivit för restriktiv och en prioriterad fråga för dem är att familjer inte ska splittras av utvisningar.",
-      "pubDate": "2026-09-12T10:40:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
