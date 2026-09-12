@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T15:42:18.971535Z",
+  "updated_at": "2026-09-12T17:56:12.943520Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,79 @@
     }
   ],
   "news": [
+    {
+      "title": "Magnus Ranstorp om nya V-avslöjandena: ”Extremt olämpligt”",
+      "link": "https://www.expressen.se/nyheter/sverige/magnus-ranstorp-om-nya-v-avslojandena-extremt-olampligt/",
+      "description": "Terrorexperten Magnus Ranstorp har just börjat med regeringens utredning av politisk islam. Från New York följer han nu de nya avslöjandena om Vänsterpartiet. – Det finns en invävd terrorromantik där – och Vänsterpartiet har inte tagit det på allvar, säger han.&nbsp;",
+      "pubDate": "2026-09-12T17:35:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Max Hjelm: Jimmie Åkessons ord under slutdebatten visar vad som står på spel",
+      "link": "https://www.dn.se/ledare/max-hjelm-jimmie-akessons-ord-under-slutdebatten-visar-vad-som-star-pa-spel/",
+      "description": "Jimmie Åkesson ifrågasatte i SVT:s slutdebatt muslimers rösters legitimitet. Att Sverigedemokraterna har intolerans som idé är ingenting nytt. Men vill vi verkligen ha ministrar som inte tycker att allas röst är lika mycket värd?",
+      "pubDate": "2026-09-12T16:37:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Sista duellen mellan Kristersson och Andersson",
+      "link": "https://www.dn.se/sverige/sista-duellen-mellan-andersson-och-kristersson/",
+      "description": "Klockan 20.00 på lördagen möts Ulf Kristersson (M) och Magdalena Andersson (S) i en sista duell inför valdagen i TV4. Under sändningen ska ekonomi, kriminalitet, Sverige 2040 och regeringsfrågan debatteras. Följ DN:s direktrapportering.",
+      "pubDate": "2026-09-12T16:31:44Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Amanda Linds (MP) oro med ett dygn kvar: ”Är lite rädda”",
+      "link": "https://www.svt.se/nyheter/inrikes/amanda-linds-mp-oro-med-ett-dygn-kvar-ar-lite-radda",
+      "description": "Miljöpartiet backar i flera mätningar i valspurten. Språkröret Amanda Lind pekar ut Centerpartiet och Vänsterpartiet som en orsak. – I den här taktiska striden så kanske vi har fallit bort lite.",
+      "pubDate": "2026-09-12T16:14:11Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Över 2 800 valincidenter – saknade valsedlar kallas valfusk",
+      "link": "https://www.svt.se/nyheter/inrikes/over-2-800-valincidenter-saknade-valsedlar-kallas-valfusk",
+      "description": "Över 2 800 incidentrapporter har hittills kommit in till Valmyndigheten. Majoriteten rör valsedlar som flyttats, dolts eller tagits bort. Samtidigt sprids filmer på sociala medier där saknade valsedlar beskrivs som valfusk.",
+      "pubDate": "2026-09-12T16:02:23Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Partiledarna om deras skämmigaste valstunt: ”Kändes ovärdigt”",
+      "link": "https://www.svt.se/nyheter/inrikes/partiledarna-om-deras-skammigaste-valstunt-kandes-ovardigt",
+      "description": "Efter lördagens slutdebatt är en påfrestande period över för partiledarna. Men vad har varit jobbigast? Och vilka knep för att fiska röster skäms de mest över? – Det kändes lite ovärdigt faktiskt, säger Jimmie Åkesson (SD).",
+      "pubDate": "2026-09-12T15:46:35Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Så mycket har de lägre bränslepriserna kostat staten",
       "link": "https://www.dn.se/sverige/sa-mycket-har-de-lagre-branslepriserna-kostat-staten/",
@@ -184,84 +257,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "S ilska över SD-sms: ”Följer inte lagen”",
-      "link": "https://www.sverigesradio.se/artikel/9298601",
-      "description": "Sverigedemokraterna skickade ut sms till flera medborgare under lördagen, där de skriver att partiet och Socialdemokraterna är överens om att stänga alla muslimska friskolor. Exakt hur många som fått sms:et är i nuläget oklart, men enligt SD:s presstjänst har smset gått ut till en bred grupp väljare och journalister. De skriver också i en skriftlig kommentar till Ekot att det är viktigt att visa att partierna står enade i kampen mot islamism och att S delar deras uppfattning. Men Socialdemokraterna skriver i en mejlkommentar att Sverigedemokraterna bryter mot lagen då de använder telemarketingföretag för att påverka valet och att citat ”ett parti som söker regeringsmakten måste klara något så grundläggande som att följa lagen” Ekot söker respektive partiledare, SD:s Jimmie Åkesson och S:s Magdalena Andersson för intervju.",
-      "pubDate": "2026-09-12T10:26:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Stockholms skuldberg – ”Slowmotion-krasch” eller goda investeringar?",
-      "link": "https://www.dn.se/sverige/stockholms-skuldberg-slowmotion-krasch-eller-goda-investeringar/",
-      "description": "Hur problematisk är Stockholms skuldnivå, och varför har Spybar hamnat i diskussionens centrum? Moderaterna ser utvecklingen som stadens största problem, medan Socialdemokraterna ser att alternativet vore förödande. – En bra princip är: Ju mindre lån vi kan ha, desto bättre, säger Christofer Fjellner, gruppledare för M i staden.",
-      "pubDate": "2026-09-12T10:22:49Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Ledare: Vill du ha borgerlig politik? Då ska du inte rösta på Tidö",
-      "link": "https://www.dn.se/ledare/vill-du-ha-borgerlig-politik-da-ska-du-inte-rosta-pa-tido/",
-      "description": "Tidöprojektet har varit ett stort misslyckande för Moderaterna och borgerligheten.",
-      "pubDate": "2026-09-12T09:25:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "SD:s sms-kupp: ”Överens med Socialdemokraterna”",
-      "link": "https://www.expressen.se/nyheter/politik/sds-sms-kupp-overens-med-socialdemokraterna/",
-      "description": "Ett sms från Sverigedemokraterna har gått ut till flera människor under morgonen. ”Socialdemokraterna och Sverigedemokraterna är överens om att alla muslimska friskolor ska stängas”, står det i sms:et.&nbsp; S kallar kuppen för ett bevis på ”vilken smutsig valrörelse SD bedriver”.&nbsp;",
-      "pubDate": "2026-09-12T09:10:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Fler valbussar ska göra det enklare att förtidsrösta",
-      "link": "https://www.sverigesradio.se/artikel/9298163",
-      "description": "Inför valet har valbussar dykt upp i fler kommuner för att göra förtidsröstningen enklare, särskilt på landsbygden. I Uppsala stannar valbussen på 16 platser och enligt valchefen Peter Dacke ökar den tillgängligheten. Däremot påverkas valdeltagandet troligen bara på marginalen enligt statsvetarprofessorn Karl-Oskar Lindgren. Vid stoppet mellan bensinpumparna och pizzerian i Ramstalund berättar en väljare hur bussen kan avgöra om hans pappa hinner rösta.",
-      "pubDate": "2026-09-12T08:52:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Franska kärnvapen splittrar de rödgröna",
-      "link": "https://www.dn.se/sverige/franska-karnvapen-splittrar-de-rodgrona/",
-      "description": "De rödgröna partierna är oeniga om kärnvapensamtalen med Frankrike. Socialdemokraterna och Centerpartiet tycker att de ska fortsätta. Men Miljöpartiet har sagt nej till diskussionen och Vänsterpartiet vill lämna den.",
-      "pubDate": "2026-09-12T07:55:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
       ]
     }
   ],
