@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T22:03:30.558123Z",
+  "updated_at": "2026-09-12T00:24:22.582786Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,19 @@
     }
   ],
   "news": [
+    {
+      "title": "Skarpt tonläge under sista partiledardebatten",
+      "link": "https://www.sverigesradio.se/artikel/9298533",
+      "description": "Slutdebatten inför valet blev stundtals högljudd och bråkig, men tydliggjorde också skillnaderna mellan partierna, enligt Sveriges Radios politiska kommentator Helena Gissén. Partiledarna drabbade samman om skatter, bostadspolitik, kriminalitet och integration, där både regeringssidan och oppositionen riktade hård kritik mot varandra. ”Någon jävla ordning får det vara”, sa Magdalena Andersson (S) i sändning.",
+      "pubDate": "2026-09-11T22:16:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Debatt"
+      ]
+    },
     {
       "title": "Jimmie Åkessons oro: Muslimer kan avgöra valet",
       "link": "https://www.svt.se/nyheter/inrikes/jimmie-akessons-oro-muslimer-kan-avgora-valet",
@@ -254,22 +267,31 @@
         "V",
         "Debatt"
       ]
-    },
-    {
-      "title": "Åkesson om angreppen på KD: ”Ingen stridsyxa”",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-om-angreppen-pa-kd-ingen-stridsyxa/",
-      "description": "Ebba Busch (KD) har anklagat M och SD för ”smutskastning” under valrörelsen.&nbsp; Samtidigt har Jimmie Åkesson (SD) kritiserat KD:s vänsterflörtande.&nbsp; Inför SVT:s slutdebatt säger han att det inte finns någon stridsyxa.&nbsp; – Det är lite dynamik inom laget. Det är väl aldrig fel.&nbsp;",
-      "pubDate": "2026-09-11T18:19:24Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Kristerssons dröm om den brittiska aristokratin",
+      "link": "https://www.dagensarena.se/opinion/kristerssons-drom-om-den-brittiska-aristokratin/",
+      "description": "Klädda tweed reste Landerholm och Kristersson till Oxford. Inlägget Kristerssons dröm om den brittiska aristokratin dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-11T23:54:47Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Funktionsrätt Sverige: “Har gått bakåt senaste mandatperioden”",
+      "link": "https://www.dagensarena.se/innehall/funktionsratt-sverige-har-gatt-bakat-senaste-mandatperioden/",
+      "description": "Inför valet hoppas organisationen på höjt lönebidrag och fler flexibla jobb. Inlägget Funktionsrätt Sverige: “Har gått bakåt senaste mandatperioden” dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-11T23:30:40Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Statsvetare: ”Oavsett hur det går för L kommer man behöva en omstart”",
       "link": "https://www.dagensarena.se/innehall/statsvetare-oavsett-hur-det-gar-l-kommer-man-behova-en-omstart/",
@@ -425,28 +447,6 @@
       "topics": [
         "M"
       ]
-    },
-    {
-      "title": "Regeringsåren – Aktivismen och stödet till terror institutionaliseras",
-      "link": "https://ledarsidorna.se/regeringsaren-aktivismen-och-stodet-till-terror-institutionaliseras/",
-      "description": "Under regeringsåren 2014-2022 tar Miljöpartiet tydliga kliv in i politikens finrum genom att ingå i regeringen Löfvén. Under denna period formaliseras aktivismen i partiet som samtidigt mutar in biståndsområdet som sitt. Vilket gav en plattform för fortsatt internationell aktivism. Föreningen Charta 2008 bildades i mars 2008 mot terrorlagstiftning, med journalisten Gösta Hultén som en av [&#8230;]",
-      "pubDate": "2026-09-02T03:32:57Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Kan israeliska teknikföretag påverka det svenska valet?",
-      "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
-      "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
-      "pubDate": "2026-09-01T08:58:35Z",
-      "source": "Parabol",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
-      "sourceType": "blog",
-      "topics": []
     }
   ],
   "podcasts": [
