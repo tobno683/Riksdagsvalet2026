@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T04:46:23.788461Z",
+  "updated_at": "2026-09-12T08:55:15.158859Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,123 @@
   ],
   "news": [
     {
+      "title": "Fler valbussar ska göra det enklare att förtidsrösta",
+      "link": "https://www.sverigesradio.se/artikel/9298163",
+      "description": "Inför valet har valbussar dykt upp i fler kommuner för att göra förtidsröstningen enklare, särskilt på landsbygden. I Uppsala stannar valbussen på 16 platser och enligt valchefen Peter Dacke ökar den tillgängligheten. Däremot påverkas valdeltagandet troligen bara på marginalen enligt statsvetarprofessorn Karl-Oskar Lindgren. Vid stoppet mellan bensinpumparna och pizzerian i Ramstalund berättar en väljare hur bussen kan avgöra om hans pappa hinner rösta.",
+      "pubDate": "2026-09-12T08:52:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "SD:s sms-kupp: ”Överens med Socialdemokraterna”",
+      "link": "https://www.expressen.se/nyheter/politik/sds-sms-kupp-overens-med-socialdemokraterna/",
+      "description": "Ett sms från Sverigedemokraterna har gått ut till flera människor under morgonen. ”Socialdemokraterna och Sverigedemokraterna är överens om att alla muslimska friskolor ska stängas”, står det i sms:et.&nbsp; S kallar kuppen för ett bevis på ”vilken smutsig valrörelse SD bedriver”.&nbsp;",
+      "pubDate": "2026-09-12T08:24:27Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Franska kärnvapen splittrar de rödgröna",
+      "link": "https://www.dn.se/sverige/franska-karnvapen-splittrar-de-rodgrona/",
+      "description": "De rödgröna partierna är oeniga om kärnvapensamtalen med Frankrike. Socialdemokraterna och Centerpartiet tycker att de ska fortsätta. Men Miljöpartiet har sagt nej till diskussionen och Vänsterpartiet vill lämna den.",
+      "pubDate": "2026-09-12T07:55:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Hårda attacken efter debatten: ”Sprängt barn”",
+      "link": "https://www.expressen.se/nyheter/politik/harda-attacken-efter-debatten-sprangt-barn/",
+      "description": "Tidöpartierna har ”släppt in hatet” i Sverige, hävdar V-ledaren Nooshi Dadgostar. Nej, kontrar Ebba Busch – det är Dadgostar själv som har gjort det. – Bokstavligt talat i Sveriges riksdag när hon låter riksdagsledamöter skicka hyllningsbrev till terrorister som sprängt barn, säger KD-ledaren efter slutdebatten i SVT.",
+      "pubDate": "2026-09-12T07:29:08Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD"
+      ]
+    },
+    {
+      "title": "Stora skillnader i sista mätningarna inför valet 2026",
+      "link": "https://www.svt.se/nyheter/inrikes/stora-skillnader-i-sista-matningarna-infor-valet-2026",
+      "description": "Det rasslade in opinionsundersökningar under fredagen, och mätningarna visar på olika avstånd mellan blocken. I samtliga mätningar ligger Liberalerna över spärren. – Det är upplagt för en spännande valhelg, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
+      "pubDate": "2026-09-12T07:05:53Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Nooshi Dadgostar drabbad av röstkaoset: ”Oacceptabelt”",
+      "link": "https://www.expressen.se/nyheter/politik/nooshi-dadgostar-drabbad-av-rostkaoset-oacceptabelt/",
+      "description": "V-ledaren Nooshi Dadgostar tvingas rösta om. Hon är en av dem som drabbats av strulet med förtidsrösterna. – Det är helt oacceptabelt att ens röst riskerar att inte räknas med fast man de facto gått och röstat, säger hon till Aftonbladet. &nbsp; Osäker inför valet? Gör Expressens valkompass!",
+      "pubDate": "2026-09-12T07:00:36Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Afrikanska trollkonton blickar mot Sverige",
+      "link": "https://www.expressen.se/nyheter/politik/afrikanska-trollkonton-blickar-mot-sverige/",
+      "description": "Ett nätverk med tusentals konton från Afrika riktar in sig på svenska användare inför valet, skriver SVT Nyheter.&nbsp; Kontona misstänks kunna användas för att påverka vilka politiska frågor som får spridning på sociala medier.&nbsp;",
+      "pubDate": "2026-09-12T06:24:42Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Jag vill göra Sverige till Sverige igen",
+      "link": "https://www.dn.se/insandare/jag-vill-gora-sverige-till-sverige-igen/",
+      "description": "INSÄNDARE. Varje röst i valet på söndag kan bli avgörande för vilket Sverige vi ska bo i under de kommande åren. Jag längtar tillbaka till det Sverige som värderade humanism, medmänsklighet och solidaritet mot vår omvärld, skriver Stephan Serenius.",
+      "pubDate": "2026-09-12T05:53:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Allt fler förtidsröstar: ”Partierna borde tänka om”",
+      "link": "https://www.sverigesradio.se/artikel/9296474",
+      "description": "Förtidsröstningen har ökat markant i årets val jämfört med förra. På lördagsmorgonen hade närmare 3,4 miljoner väljare röstat, enligt Valmyndigheten. Om trenden står sig kan viktiga delar av valrörelsen tidigareläggas i framtiden, enligt personer som jobbar med valrörelser. ”Jag tycker att partierna borde tänka om, särskilt när det gäller hur sent man presenterar sina sista förslag i sina valmanifest”, säger statsvetaren Jan Teorell.",
+      "pubDate": "2026-09-12T05:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Varför röstar så många i Lomma och så få i Haparanda?",
+      "link": "https://www.dn.se/sverige/varfor-rostar-sa-manga-i-lomma-och-sa-fa-i-haparanda/",
+      "description": "Medan röstmottagarna i Haparanda hoppas på ett uppsving i valdeltagande – köar Lommaborna till förtidsröstningen. Här är kommunerna där klyftan mellan soffliggare och aktiva väljare är störst.",
+      "pubDate": "2026-09-12T05:05:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Hård debatt när partiledarna möttes sista gången före valet",
       "link": "https://www.sverigesradio.se/artikel/9298535",
       "description": "SVT:s slutdebatt var tidvis högljudd när partiledarna möttes för att debattera frågor som ekonomi, klimat och integration. Tidöpartierna som anlände till debatten tillsammans kritiserade delar av oppositionen för sin skattepolitik, ifrågasatte vad som skulle hända med kärnkraften vid ett maktskifte och arbetet mot gängkriminalitet. Oppositionspartierna kritiserade tidöpartierna bland annat för att inte ta klimatfrågan på allvar och för att ställa människor mot varandra.",
@@ -138,140 +255,13 @@
       "topics": [
         "M"
       ]
-    },
-    {
-      "title": "Hårda orden efter debatten: ”Världsrekord i att skylla ifrån sig”",
-      "link": "https://www.dn.se/sverige/harda-orden-efter-debatten-varldsrekord-i-att-skylla-ifran-sig/",
-      "description": "Attackerna haglade i SVT:s slutdebatt. Partiledarna anklagade varandra för propaganda och respektlöshet, och V-ledaren Nooshi Dadgostar menade att Tidöpartierna ”släppt in hatet i landet”. – Det är hårresande, säger Ulf Kristersson till DN.",
-      "pubDate": "2026-09-11T21:10:13Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V"
-      ]
-    },
-    {
-      "title": "Kritiken mot debatten i SVT: ”Respektlöst”",
-      "link": "https://www.expressen.se/nyheter/politik/kritiken-mot-debatten-i-svt-respektlost/",
-      "description": "Programledarna hade fullt upp med att försöka kontrollera partiledarna i slutdebatten.&nbsp; Efteråt riktar flera av dem kritik mot varandra – och programledarna.&nbsp; – Det var respektlöst mot tittarna, säger Elisabeth Thand Ringqvist (C).",
-      "pubDate": "2026-09-11T21:05:41Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Så var SVT:s partiledardebatt – ämne för ämne",
-      "link": "https://www.expressen.se/nyheter/politik/sa-var-svts-partiledardebatt-amne-for-amne-/",
-      "description": "Ekonomi, skola, klimat, kriminalitet, integration och sjukvård var ämnena i SVT:s partiledardebatt . Missade du den? Så här var debatten – ämne för ämne.",
-      "pubDate": "2026-09-11T20:29:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Plötsligt beror valresultatet på muslimerna",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-plotsligt-beror-valresultatet-pa-muslimerna/",
-      "description": "Jimmie Åkesson har redan sin förklaring klar om Tidöpartierna förlorar valet på söndag. SD-ledaren gjorde slutdebattens mest kontroversiella utspel när han hävdade att riksdagsvalet håller på att avgöras av muslimska väljare. Samtidigt visade diskussionen att invandringsdebattens vindar inte längre blåser Åkessons väg.",
-      "pubDate": "2026-09-11T20:27:29Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Lind rasar mot Åkessons ord om muslimer: ”Hemskt”",
-      "link": "https://www.expressen.se/nyheter/politik/lind-rasar-mot-akessons-ord-om-muslimer-hemskt/",
-      "description": "Amanda Lind (MP) röt ifrån mot Jimmie Åkesson (SD) efter att han varnat för att muslimer kan avgöra det svenska valet.&nbsp; – Jag tycker att det är ett hemskt uttalande, säger hon.&nbsp;",
-      "pubDate": "2026-09-11T20:23:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "MP"
-      ]
-    },
-    {
-      "title": "SVT:s partiledardebatt: Getingbetyg – de var bäst och sämst",
-      "link": "https://www.expressen.se/nyheter/politik/svts-partiledardebatt-getingbetyg-de-var-bast-och-samst/",
-      "description": "Vilka var SVT-debattens vinnare och förlorare? Expressens politikkommentator Viktor Barth-Kron sätter getingbetyg. ✓ Halkade tillbaka i gamla synder. ✓ Nästan för skojfrisk. ✓ Vad hände här? ✓ Som en förvirrad isbjörn på prärien.",
-      "pubDate": "2026-09-11T20:16:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Har vårdköerna ökat eller minskat?",
-      "link": "https://www.svt.se/nyheter/inrikes/har-vardkoerna-okat-eller-minskat",
-      "description": "Vårdköerna har minskat med 40 procent, enligt Ebba Busch (KD). Enligt Nooshi Dadgostar (V) har de tvärtom ökat med 30 procent. Vem har rätt?",
-      "pubDate": "2026-09-11T19:48:22Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD"
-      ]
-    },
-    {
-      "title": "Utbrottet: ”Nån jävla ordning får det vara”",
-      "link": "https://www.expressen.se/nyheter/politik/utbrottet-nan-javla-ordning-far-det-vara/",
-      "description": "Magdalena Andersson (S) ilsknade till på Simona Mohamsson (L) när straffrabatten debatterades.&nbsp; – Hon kan inte få avbryta mig så att jag inte får tala till punkt. Någon jävla ordning får det vara, fräste Andersson.&nbsp;",
-      "pubDate": "2026-09-11T19:45:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
-      "title": "Storbråk om skatterna: ”Det här är inte seriöst”",
-      "link": "https://www.expressen.se/nyheter/politik/storbrak-om-skatterna-det-har-ar-inte-seriost/",
-      "description": "Jimmie Åkesson (SD) och Nooshi Dadgostar (V) hade en het ordväxling om skatter.&nbsp; – Allt ska finansieras med höjda skatter. Det är inte seriöst, sade han.&nbsp; – Du har sänkt skatterna med 120 miljarder. Men det finns aldrig pengar för att höja vårdbiträdenas löner, svarade hon.&nbsp; Programledarna fick avbryta ordväxlingen.&nbsp;",
-      "pubDate": "2026-09-11T19:37:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Andersson (S): ”Någon jävla ordning får det vara”",
-      "link": "https://www.sverigesradio.se/artikel/9298514",
-      "description": "Återigen hettar det till under partiledardebatten i SVT. Den här gången är det Magdalena Andersson (S) och Simona Mohamsson (L) som talar i mun på varandra. Den slopade mängdrabatten har varit omdiskuterad i flera debatter och var det även ikväll. När Simona Mohamsson avbryter Magdalena Andersson, ryter Andersson ifrån. ”Någon jävla ordning får det vara”, säger hon.",
-      "pubDate": "2026-09-11T19:31:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L",
-        "Debatt"
-      ]
     }
   ],
   "blogs": [
     {
       "title": "Kristerssons dröm om den brittiska aristokratin",
       "link": "https://www.dagensarena.se/opinion/kristerssons-drom-om-den-brittiska-aristokratin/",
-      "description": "Klädda tweed reste Landerholm och Kristersson till Oxford. Inlägget Kristerssons dröm om den brittiska aristokratin dök först upp på Dagens Arena .",
+      "description": "Klädda i tweed reste Landerholm och Kristersson till Oxford. Inlägget Kristerssons dröm om den brittiska aristokratin dök först upp på Dagens Arena .",
       "pubDate": "2026-09-11T23:54:47Z",
       "source": "Dagens Arena",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
@@ -361,18 +351,6 @@
       ]
     },
     {
-      "title": "Höj pensionerna",
-      "link": "https://blog.zaramis.se/2026/09/09/hoj-pensionerna/",
-      "description": "Vänsterpartiet går till val på att rusta upp välfärden, stärka vanligt folks ekonomi och investera i jobben och klimatomställningen. Efter fyra år med högerregeringen behöver Sverige både en ny regering och en ny politisk inriktning. Vänsterpartiets valmanifest samlar partiets viktigaste förslag för att rusta upp välfärden, stärka hushållens ekonomi och investera i jobb, bostäder och klimatomställning. Läs mer … Inlägget Höj pensionerna dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-09T05:04:15Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Så fick Brödraskapet allierade på bägge sidor den politiska blockgränsen",
       "link": "https://ledarsidorna.se/sa-fick-brodraskapet-allierade-pa-bagge-sidor-den-politiska-blockgransen/",
       "description": "Under Sensus mentorskap av studieförbundet Ibn Rushd (2003–2007) drevs det gemensamma projektet Fredsagenterna finansierat av Ungdomsstyrelsen. Projektet ledde till bildandet av Svenska muslimer för fred och rättvisa (SMFR) som utvecklades till en av Muslimska brödraskapets nätverksorganisationer. Genom projektet och det efterföljande arbetet upprätthöll kristdemokratiska riksdagsledamöter samt ett statsråd organisationens legitimitet genom återkommande kontakter samt aktiviteter [&#8230;]",
@@ -444,6 +422,18 @@
       "sourceType": "blog",
       "topics": [
         "M"
+      ]
+    },
+    {
+      "title": "Regeringsåren – Aktivismen och stödet till terror institutionaliseras",
+      "link": "https://ledarsidorna.se/regeringsaren-aktivismen-och-stodet-till-terror-institutionaliseras/",
+      "description": "Under regeringsåren 2014-2022 tar Miljöpartiet tydliga kliv in i politikens finrum genom att ingå i regeringen Löfvén. Under denna period formaliseras aktivismen i partiet som samtidigt mutar in biståndsområdet som sitt. Vilket gav en plattform för fortsatt internationell aktivism. Föreningen Charta 2008 bildades i mars 2008 mot terrorlagstiftning, med journalisten Gösta Hultén som en av [&#8230;]",
+      "pubDate": "2026-09-02T03:32:57Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
       ]
     }
   ],
