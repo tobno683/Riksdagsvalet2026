@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:49:29.565541Z",
+  "updated_at": "2026-09-12T21:45:28.957241Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,47 @@
   ],
   "news": [
     {
+      "title": "Arbetslösheten och ekonomin hettade upp statsministerduellen",
+      "link": "https://www.sverigesradio.se/artikel/9298734",
+      "description": "Magdalena Andersson (S) och statsminister Ulf Kristersson (M) möttes i TV4:s statsministerduell inför valdagen. Magdalena Andersson började med att berättade om ett Socialdemokratiskt kommunalråd som blivit attackerat och kallad landsförrädare. ”Inte första gången i valrörelsen som det här sättet att utrycka sig på har använts,” säger hon. Ulf Kristersson invände att sådana attacker kommer även från vänster. ”Den sortens tendenser ska vi starkt motarbeta,” säger han.",
+      "pubDate": "2026-09-12T20:42:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Regeringsfrågan fick det att bränna till i slutduellen",
+      "link": "https://www.dn.se/sverige/regeringsfragan-fick-det-att-branna-till-i-slutduellen/",
+      "description": "Statsminister Ulf Kristersson, M, kallar sitt regeringsalternativ är ”kristallklart”, trots frågetecken om SD-ministrar, och S-ledaren Magdalena Andersson vill inte avslöja vilken partiledare hon ringer först vid en valvinst. I sista statsministerduellen i TV4 hettade det återigen till om regeringsfrågan.",
+      "pubDate": "2026-09-12T20:26:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Drabbade samman om havsvind och kärnkraft: ”Mig ni borde samarbeta med”",
+      "link": "https://www.svt.se/nyheter/inrikes/drabbade-samman-om-havsvind-och-karnkraft-mig-ni-borde-samarbeta-med",
+      "description": "Kristersson pekar ut MP och V – och Andersson SD – för att stå i vägen för Sveriges elproduktion framöver. I centrum står kärnkraft och havsbaserad vindkraft. – Det är ju mig ni borde samarbeta med, säger S-ledaren under ”Duellen” i TV4.",
+      "pubDate": "2026-09-12T20:13:12Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "Ulf och Magda – hur orkar ni?",
       "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/ulf-och-magda-hur-orkar-ni/",
       "description": "En valrörelse som partiledare är en mental och fysisk prestation i elitklass. Men Ulf Kristersson och Magdalena Andersson är långt ifrån ensamma, skriver Viktor Barth-Kron.",
@@ -133,13 +174,14 @@
     {
       "title": "Jonas Attenius (S) hotad i Göteborg",
       "link": "https://www.expressen.se/nyheter/politik/jonas-attenius-s-hotad-i-goteborg/",
-      "description": "Jonas Attenius, socialdemokratisk kommunstyrelseordförande i Göteborg har utsatts för ett misstänkt olaga hot, rapporterar Göteborgs-Posten . – Han skriker ”din jävla landsförrädare”, säger Attenius till GP.",
+      "description": "Jonas Attenius, socialdemokratisk kommunstyrelseordförande i Göteborg har utsatts för ett misstänkt olaga hot, rapporterar Göteborgs-Posten . – Han skriker ”din jävla landsförrädare”, säger Attenius till GP. Nu får SD-toppen Richard Jomshof kritik för att tidigare under dagen ha kallat Attenius kampanjarbete ”landsförräderi i sin renaste form”.",
       "pubDate": "2026-09-12T18:37:38Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S"
+        "S",
+        "SD"
       ]
     },
     {
@@ -229,42 +271,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Partiledarna om deras skämmigaste valstunt: ”Kändes ovärdigt”",
-      "link": "https://www.svt.se/nyheter/inrikes/partiledarna-om-deras-skammigaste-valstunt-kandes-ovardigt",
-      "description": "Efter lördagens slutdebatt är en påfrestande period över för partiledarna. Men vad har varit jobbigast? Och vilka knep för att fiska röster skäms de mest över? – Det kändes lite ovärdigt faktiskt, säger Jimmie Åkesson (SD).",
-      "pubDate": "2026-09-12T15:46:35Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Så mycket har de lägre bränslepriserna kostat staten",
-      "link": "https://www.dn.se/sverige/sa-mycket-har-de-lagre-branslepriserna-kostat-staten/",
-      "description": "De senaste årens skattesänkningar på drivmedel har resulterat i drygt 67 miljarder kronor i uteblivna skatteintäkter, visar DN:s genomgång. Därutöver tillkommer miljardkostnader för att kompensera för de högre utsläppen under mandatperioden. – Jag skäms inte för den politik som jag har genomfört och tänker fortsätta bedriva, säger finansminister Elisabeth Svantesson (M).",
-      "pubDate": "2026-09-12T15:26:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Expertpanelen: Valrörelsen fastnade i stödröster",
-      "link": "https://www.sverigesradio.se/artikel/9298661",
-      "description": "Inför valdagen kritiserar expertpanelen i Ekots Lördagsintervjuns valspecial att valrörelsen handlat mer om stödröster och taktik än om sakfrågor. Enligt panelen har fokus legat på privatekonomi, regeringsfrågan och om Liberalerna klarar spärren, medan frågor som vård och försvar hamnat i skymundan. Samtidigt talas det om möjlig rekordnivå för taktiska röster, efter en stödröstarfeber som flera menar har förstärkts under slutspurten.",
-      "pubDate": "2026-09-12T15:21:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
     }
   ],
   "blogs": [
