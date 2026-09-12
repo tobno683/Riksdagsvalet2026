@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T21:45:28.957241Z",
+  "updated_at": "2026-09-12T23:30:42.472592Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Håkan Juholt (S) om partiledarna: ”För mycket tramsande”",
+      "link": "https://www.svt.se/nyheter/inrikes/hakan-juholt-s-om-partiledarna-for-mycket-tramsande",
+      "description": "Socialdemokraternas före detta partiledare Håkan Juholt (S) är kritisk till hur partiledarna beter sig på sociala medier i valrörelsen. Enligt honom är det för mycket trams. – Uppträd mer vuxet, säger han i Skavlan & Sverige – uppesittarkväll.",
+      "pubDate": "2026-09-12T23:26:58Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Arbetslösheten och ekonomin hettade upp statsministerduellen",
       "link": "https://www.sverigesradio.se/artikel/9298734",
@@ -261,16 +273,6 @@
         "C",
         "MP"
       ]
-    },
-    {
-      "title": "Över 2 800 valincidenter – saknade valsedlar kallas valfusk",
-      "link": "https://www.svt.se/nyheter/inrikes/over-2-800-valincidenter-saknade-valsedlar-kallas-valfusk",
-      "description": "Över 2 800 incidentrapporter har hittills kommit in till Valmyndigheten. Majoriteten rör valsedlar som flyttats, dolts eller tagits bort. Samtidigt sprids filmer på sociala medier där saknade valsedlar beskrivs som valfusk.",
-      "pubDate": "2026-09-12T16:02:23Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
