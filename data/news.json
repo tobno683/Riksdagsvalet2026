@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T00:24:22.582786Z",
+  "updated_at": "2026-09-12T04:46:23.788461Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Hård debatt när partiledarna möttes sista gången före valet",
+      "link": "https://www.sverigesradio.se/artikel/9298535",
+      "description": "SVT:s slutdebatt var tidvis högljudd när partiledarna möttes för att debattera frågor som ekonomi, klimat och integration. Tidöpartierna som anlände till debatten tillsammans kritiserade delar av oppositionen för sin skattepolitik, ifrågasatte vad som skulle hända med kärnkraften vid ett maktskifte och arbetet mot gängkriminalitet. Oppositionspartierna kritiserade tidöpartierna bland annat för att inte ta klimatfrågan på allvar och för att ställa människor mot varandra.",
+      "pubDate": "2026-09-12T04:05:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ilskan efter sändning – bråket fortsätter",
+      "link": "https://www.expressen.se/nyheter/politik/ilskan-efter-sandning-braket-fortsatter/",
+      "description": "Simona Mohamsson (L) och Magdalena Andersson (S) rasade mot varandra flera gånger under SVT:s partiledardebatt. Bråket fortsatte även efter sändning.&nbsp; – Jag tycker att hon ska skämmas för den lilla klappen på huvudet hon gav mig framför hela svenska folket, säger Mohamsson. Osäker inför valet? Gör Expressens valkompass! &nbsp;&nbsp;",
+      "pubDate": "2026-09-12T04:01:07Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L",
+        "Debatt"
+      ]
+    },
     {
       "title": "Skarpt tonläge under sista partiledardebatten",
       "link": "https://www.sverigesradio.se/artikel/9298533",
@@ -239,32 +263,6 @@
       "topics": [
         "S",
         "L",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Förvirringen: Kristersson backar om klimatmål i SVT:s slutdebatt",
-      "link": "https://www.svt.se/nyheter/inrikes/forvirringen-kristersson-backar-om-klimatmal-i-svts-slutdebatt",
-      "description": "I SVT:s valkompass uppger Moderaterna att de vill att Sverige ska ha mer ambitiösa klimatmål än övriga EU. Men när frågan ställs igen i SVT:s slutdebatt har Ulf Kristersson (M) ändrat sig. – EU är hela basen för klimatpolitiken, det är där vi gör skillnad.",
-      "pubDate": "2026-09-11T19:29:01Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Åkesson (SD) och Dadgostar (V) drabbar samman om skatterna",
-      "link": "https://www.sverigesradio.se/artikel/9298496",
-      "description": "Det hettade till mellan Jimmie Åkesson (SD) och Nooshi Dadgostar (V) i SVT:s partiledardebatt när skatterna kom på tal. Programledarna fick gå emellan partiledarna, men även de blev överröstade. ”Det är inte seriöst att strö pengar på det här viset”, sa Åkesson, vilket Dadgostar bemötte med att säga att han sänkt skatten med 120 miljarder kronor.",
-      "pubDate": "2026-09-11T18:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V",
         "Debatt"
       ]
     }
@@ -451,6 +449,19 @@
   ],
   "podcasts": [
     {
+      "title": "Veckopanelen: Vad får politiker använda som slagträ?",
+      "link": "https://pod.space/kvartal/veckopanelen-vad-far-politiker-anvanda-som-slagtra",
+      "description": "Partiledarna sliter som djur för att pressa fram röster i sista stund. Panelisterna dissekerar insatserna i TV4-debatten i Gasklockorna i Gävle. Om begripligheten i ordväxlingen om avskaffande av straffrabatt och Magdalena Anderssons ras i partiledarnas förtroendeliga. Opinionsmätningarna är färre än i förra valet, men borde de vara fler? Smygtagna bilden i riksdagens plenisal och kritiken mot civilförsvarsminister Carl-Oskar Bohlin för hans agerande mot intervjuande journalister. Och vem är Veckans partiledare?",
+      "pubDate": "2026-09-12T03:40:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "Opinion"
+      ]
+    },
+    {
       "title": "Inläst: Vart är vi på väg? Vänsterut",
       "link": "https://pod.space/kvartal/inlast-vart-ar-vi-pa-vag-vansterut",
       "description": "SVT:s nya deltagarlista till På spåret förvånar inte. Den rymmer en veteran med åtta år på Vänsterpartiets kansli och flera andra vänsterprofiler. Antal konservativa: noll. Av Pelle Zackrisson Inläsare: Nathalie Rothschild",
@@ -628,18 +639,6 @@
         "SD",
         "L",
         "Opinion"
-      ]
-    },
-    {
-      "title": "Partiet och sakfrågan: Sd och rättspolitiken",
-      "link": "https://pod.space/kvartal/partiet-och-sakfragan-sd-och-rattspolitiken",
-      "description": "De största straffskärpningarna på 400 år är på väg att rullas ut i den svenska rättspolitiken, något som i stora delar drivits på av Henrik Vinge och Sverigedemokraterna. Hur kommer det att påverka kriminaliteten framåt? Ser han en risk att vägen tillbaka till samhället för en del dömda som vill leva hederligt blir för svår om repressionen går för långt? Och var går gränsen för vilka sexualbrottslingar och dömda pedofiler som ska kunna hängas ut?",
-      "pubDate": "2026-09-04T10:50:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD"
       ]
     }
   ]
