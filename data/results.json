@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T23:51:50.950079Z",
-  "counted_pct": 91.8,
+  "updated_at": "2026-09-13T23:53:26.428125Z",
+  "counted_pct": 91.9,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -67,9 +67,9 @@
       "M": 20.4,
       "C": 6.4,
       "L": 4.5,
-      "KD": 8.1,
+      "KD": 8.2,
       "S": 28.0,
-      "V": 7.4,
+      "V": 7.5,
       "MP": 4.5,
       "SD": 20.7
     },
@@ -226,7 +226,7 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1356,
+      "reported": 1359,
       "total": 1460
     },
     "Uppsala län": {
@@ -246,7 +246,7 @@
       "total": 215
     },
     "Kronobergs län": {
-      "reported": 118,
+      "reported": 119,
       "total": 127
     },
     "Kalmar län": {
@@ -262,7 +262,7 @@
       "total": 102
     },
     "Skåne län": {
-      "reported": 806,
+      "reported": 807,
       "total": 872
     },
     "Hallands län": {
