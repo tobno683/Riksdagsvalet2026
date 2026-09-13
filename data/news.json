@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T06:22:10.776477Z",
+  "updated_at": "2026-09-13T12:08:50.508075Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,198 +79,165 @@
   ],
   "news": [
     {
-      "title": "Rekordmånga har förtidsröstat",
-      "link": "https://www.sverigesradio.se/artikel/9298753",
-      "description": "Rekordmånga har förtidsröstat inför dagens val, enligt Valmyndigheten. Det handlar om drygt 3,6 miljoner personer hittills. Samtidigt säger Anna Nyqvist, kanslichef på Valmyndigheten, att det är för tidigt att säga vad siffran betyder för det totala valdeltagandet.",
-      "pubDate": "2026-09-13T05:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Hundratals larm från vallokalerna",
+      "link": "https://www.expressen.se/nyheter/politik/hundratals-larm-fran-vallokalerna/",
+      "description": "Stulna, försvunna eller oordnade valsedlar – så är läget i ett stort antal vallokaler runtom i landet.&nbsp; Vid lunchtid på söndagen hade över 200 incidenter anmälts till Valmyndigheten. I Falkenberg drabbades KD.&nbsp; Osäker inför valet? Gör Expressens valkompass! &nbsp;",
+      "pubDate": "2026-09-13T11:35:59Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
     {
-      "title": "Experter: Därför syns inte Helldén i spurten",
-      "link": "https://www.expressen.se/nyheter/politik/experter-darfor-syns-inte-hellden-i-spurten/",
-      "description": "Fram med Amanda Lind, bort med Daniel Helldén.&nbsp; I valrörelsens slutspurt väljer Miljöpartiet att lyfta fram sitt kvinnliga språkrör.&nbsp; – Man gör som alla andra och toppar laget, säger Andreas Johansson Heinö, doktor i statsvetenskap och förläggare på Timbro.&nbsp;",
-      "pubDate": "2026-09-13T05:31:40Z",
+      "title": "Rekordmånga småpartier anmälda till valet – bara ett har chans att komma in",
+      "link": "https://www.dn.se/sverige/rekordmanga-smapartier-anmalda-till-valet-bara-ett-har-chans-att-komma-in/",
+      "description": "Rekordmånga 416 partier har anmält sig till årets svenska val. 165 av dem ställer upp till riksdagen – ett är Örebropartiet med ledaren Markus Allard som kan ha god chans komma in på ett historiskt vis. Bland övriga småpartier är det många som är uppenbara försök till skämt. – Ett ganska destruktivt sätt att visa politiskt missnöje, säger statsvetarprofessorn Tommy Möller.",
+      "pubDate": "2026-09-13T11:14:45Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Lars, 84, gav upp i kökaoset: ”Får gå tillbaka”",
+      "link": "https://www.expressen.se/nyheter/politik/lars-84-gav-upp-i-kokaoset-far-ga-tillbaka/",
+      "description": "Valmyndigheten varnar för långa köer till vallokaler på flera håll i landet. Kerstin Granström, 84, i Umeå väntade i nästan två timmar. Hennes sambo, Lars A Grahn, 84, gav till slut upp och gick hem. – Jag får gå tillbaka klockan 15 och se hur det är då, säger han. Osäker inför valet? Gör Expressens valkompass! &nbsp;",
+      "pubDate": "2026-09-13T10:58:27Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Tidigare MP-ledaren om valdagskänslan: ”Som att få tillbaka en tenta gånger hundra”",
+      "link": "https://www.sverigesradio.se/artikel/9298833",
+      "description": "Mona Sahlin, Maria Wetterstrand och Alf Svensson gästar Ekots valsändning och berättar om sina erfarenheter av valdagen som före detta partiledare. Mona Sahlin, tidigare partiledare för Socialdemokraterna, säger att man måste förbereda sig på två sätt. Dels för att vinna och dels att förlora. ”Det är lite som att få tillbaka en tenta fast gångrat med hundra”, säger Miljöpartiets tidigare språkrör, Maria Wetterstrand, om nervositeten inför valresultatet.",
+      "pubDate": "2026-09-13T10:49:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
       "topics": [
+        "S",
         "MP"
       ]
     },
     {
-      "title": "Anderssons hot mot  V: Alternativet är SD",
-      "link": "https://www.expressen.se/nyheter/politik/anderssons-hot-mot--v-alternativet-ar-sd/",
-      "description": "Magdalena Andersson lovar att bilda regering utan inflytande av ”extrema krafter”. Och hon ökar nu pressen på Vänsterpartiet i regeringsfrågan. – Givet vad alternativet är så borde det finnas ett visst intresse av att komma överens, säger S-ledaren.",
-      "pubDate": "2026-09-13T04:43:45Z",
+      "title": "Håkan Juholt: För mycket larv i valrörelsen",
+      "link": "https://www.expressen.se/nyheter/politik/hakan-juholt-for-mycket-larv-i-valrorelsen/",
+      "description": "Politikerna borde stäva efter att vara beundransvärda och inte som nu – agera narrar.&nbsp; Det tycker Socialdemokraternas före detta partiledare Håkan Juholt. – Det har gått för långt, säger Juholt i ”Skavlan &amp; Sverige – uppesittarkväll” på SVT.",
+      "pubDate": "2026-09-13T10:01:55Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: En valrörelse som ägdes av det minsta partiet",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-en-valrorelse-som-agdes-av-det-minsta-partiet/",
-      "description": "Mot alla odds har Liberalerna lyckats dominera valrörelsen 2026. Trots att partiet försvagats av splittring, ideologiska U-svängar och förskingrat förtroende, har Simona Mohamsson fått det mesta att handla om det egna partiets ödeskamp. Även om det dröjer till kvällen innan vi har ett valresultat kan en förlorare skönjas redan nu: Opinionsmätningarna.",
-      "pubDate": "2026-09-13T04:07:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Kan dröja innan en vinnare utses – utlandsröster påverkar",
-      "link": "https://www.sverigesradio.se/artikel/9296857",
-      "description": "När vallokalerna stänger vid åtta på söndagskvällen börjar rösträkningen. Ett preliminärt resultat väntas samma kväll. Men vid jämnt resultat kan det dröja till onsdag innan en vinnare utses, då sent inkomna förtids- och utlandsröster räknas. Onsdagsräkningen i valet 2018 flyttade exempelvis tre riksdagsmandat mellan partierna.",
-      "pubDate": "2026-09-13T03:52:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Liberale nestorn Hadar Cars äldst av riksdagskandidaterna",
-      "link": "https://www.sverigesradio.se/artikel/9298384",
-      "description": "Den mångårige liberale politikern Hadar Cars, född 1933 är den äldste av alla som kandiderar till riksdagen i årets val. Han har bland många, tunga uppdrag varit EU-parlamentariker och anser att Liberalerna borde ha drivit euro-frågan i valet. Han är starkt kritisk till Liberalernas vägval att kunna samarbeta och sitta i regering med Sverigedemokraterna, men har ändå valt att stå på riksdagslistan, om än på sista plats.",
-      "pubDate": "2026-09-13T03:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "”När dammet lagt sig är det läge att gräva ner stridsyxan”",
-      "link": "https://www.svt.se/nyheter/inrikes/nar-dammet-lagt-sig-ar-det-lage-att-grava-ner-stridsyxan",
-      "description": "Valrörelsen har stundtals haft ett högt tonläge med hårda angrepp och hätska attacker. Jimmie Åkesson har angripit både Ebba Busch och Liberalerna. Ebba Busch har i sin tur attackerat både Moderaterna och Sverigedemokraterna. På den rödgröna sidan har Centerpartiet och Vänsterpartiet bråkat, Magdalena Andersson har mer eller mindre uttryckligt underkänt V som regeringsparti. Men när väljarna har lagt sin röst kan det vara läge att gräva ner stridsyxan.",
-      "pubDate": "2026-09-13T03:37:17Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "V",
-        "C",
-        "KD",
-        "L"
-      ]
-    },
-    {
-      "title": "Håkan Juholt (S) om partiledarna: ”För mycket tramsande”",
-      "link": "https://www.svt.se/nyheter/inrikes/hakan-juholt-s-om-partiledarna-for-mycket-tramsande",
-      "description": "Socialdemokraternas före detta partiledare Håkan Juholt (S) är kritisk till hur partiledarna beter sig på sociala medier i valrörelsen. Enligt honom är det för mycket trams. – Uppträd mer vuxet, säger han i Skavlan & Sverige – uppesittarkväll.",
-      "pubDate": "2026-09-12T23:26:58Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
       ]
     },
     {
-      "title": "Arbetslösheten och ekonomin hettade upp statsministerduellen",
-      "link": "https://www.sverigesradio.se/artikel/9298734",
-      "description": "Magdalena Andersson (S) och statsminister Ulf Kristersson (M) möttes i TV4:s statsministerduell inför valdagen. Magdalena Andersson började med att berättade om ett Socialdemokratiskt kommunalråd som blivit attackerat och kallad landsförrädare. ”Inte första gången i valrörelsen som det här sättet att utrycka sig på har använts,” säger hon. Ulf Kristersson invände att sådana attacker kommer även från vänster. ”Den sortens tendenser ska vi starkt motarbeta,” säger han.",
-      "pubDate": "2026-09-12T20:42:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Regeringsfrågan fick det att bränna till i slutduellen",
-      "link": "https://www.dn.se/sverige/regeringsfragan-fick-det-att-branna-till-i-slutduellen/",
-      "description": "Statsminister Ulf Kristersson, M, kallar sitt regeringsalternativ ”kristallklart”, trots frågetecken om SD-ministrar, och S-ledaren Magdalena Andersson vill inte avslöja vilken partiledare hon ringer först vid en valvinst. I sista statsministerduellen i TV4 hettade det återigen till om regeringsfrågan.",
-      "pubDate": "2026-09-12T20:26:18Z",
+      "title": "Valresultat 2026 – alla senaste siffrorna",
+      "link": "https://www.dn.se/sverige/valresultat-2026-alla-senaste-siffrorna/",
+      "description": "Vilka vinner valet och har chans att bilda regering? Hur går det i kommunal- och regionvalen? Här samlar vi resultaten i valet 2026 – uppdaterade minut för minut. • Alla senaste resultat: I riksdagen, kommuner och regioner. • Mandaten – vilka kan bilda regering? • Valresultatet där du bor. • Här blev partierna störst.",
+      "pubDate": "2026-09-13T10:00:56Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
+      "topics": []
     },
     {
-      "title": "Drabbade samman om havsvind och kärnkraft: ”Mig ni borde samarbeta med”",
-      "link": "https://www.svt.se/nyheter/inrikes/drabbade-samman-om-havsvind-och-karnkraft-mig-ni-borde-samarbeta-med",
-      "description": "Kristersson pekar ut MP och V – och Andersson SD – för att stå i vägen för Sveriges elproduktion framöver. I centrum står kärnkraft och havsbaserad vindkraft. – Det är ju mig ni borde samarbeta med, säger S-ledaren under ”Duellen” i TV4.",
-      "pubDate": "2026-09-12T20:13:12Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "Så blir vädret under valdagen",
+      "link": "https://www.expressen.se/nyheter/politik/sa-blir-vadret-under-valdagen/",
+      "description": "Valmyndigheten flaggar för långa köer till vallokalerna.&nbsp; Samtidigt varslar SMHI för regn på flera håll i landet.&nbsp; Ska du ta med paraply eller solglasögon tillsammans med röstkortet?&nbsp; Osäker inför valet? Gör Expressens valkompass!&nbsp; &nbsp;",
+      "pubDate": "2026-09-13T09:53:09Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
+      "topics": []
     },
     {
-      "title": "Ulf och Magda – hur orkar ni?",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/ulf-och-magda-hur-orkar-ni/",
-      "description": "En valrörelse som partiledare är en mental och fysisk prestation i elitklass. Men Ulf Kristersson och Magdalena Andersson är långt ifrån ensamma, skriver Viktor Barth-Kron.",
-      "pubDate": "2026-09-12T19:41:51Z",
+      "title": "Kö till vallokalerna: ”Det är viktigt att rösta”",
+      "link": "https://www.dn.se/sverige/ko-till-vallokalerna-det-ar-viktigt-att-rosta/",
+      "description": "Runt om i landet har vallokalerna slagit upp portarna och köerna ringlar långa på många håll. Under dagen kommer valet till kommuner, regioner och riksdagen att avgöras.",
+      "pubDate": "2026-09-13T09:35:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Benny Anderssons stöd till Magdalena Andersson",
+      "link": "https://www.expressen.se/nyheter/politik/benny-anderssons-stod-till-magdalena-andersson/",
+      "description": "Abba-legendaren Benny Andersson dök upp på Socialdemokraternas slutspurt – med allsång till ”Mamma Mia”.",
+      "pubDate": "2026-09-13T08:49:13Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "M"
+        "S"
       ]
     },
     {
-      "title": "Magdalena Anderssons löfte: ”Kommer aldrig låta mig styras av extrema krafter”",
-      "link": "https://www.svt.se/nyheter/inrikes/magdalena-anderssons-lofte-kommer-aldrig-lata-mig-styras-av-extrema-krafter",
-      "description": "S-ledaren Magdalena Andersson lovar att aldrig låta sig ”styras av extrema krafter” om hon blir statsminister. – Vänsterpartiet har en resa kvar att göra, men jag är ju väldigt tydlig, jag kommer inte låta mig styras av extrema krafter, det är ett löfte till svenska folket.",
-      "pubDate": "2026-09-12T18:02:04Z",
+      "title": "Rusning för att rösta efter Botkyrkas turbulenta år",
+      "link": "https://www.dn.se/sverige/rusning-for-att-rosta-efter-botkyrkas-turbulenta-ar/",
+      "description": "Turbulens i fullmäktige har gjort Botkyrka till ett politiskt tittskåp för hela Sverige. Men hur påverkas väljarna av de senaste årens oreda, svartmålning och käbbel? – Absolut mer polariserat nu. Antingen är det Hitler eller så är det Nooshi Dadgostar, säger Henrik Jonsson i Tumba.",
+      "pubDate": "2026-09-13T08:25:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Postnord försenade med förtidsröster",
+      "link": "https://www.svt.se/nyheter/inrikes/postnord-forsenade-med-fortidsrosterna",
+      "description": "Det stora antalet förtidsröster har gjort att leveranserna i Stockholmsområdet blev flera timmar försenade. Enligt Valmyndigheten kan det i sin tur göra att rösträkningen drar ut på tiden. – Det är förstås inte bra, säger Jenny Stad, pressansvarig på myndigheten.",
+      "pubDate": "2026-09-13T08:25:32Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Röstakuten – skicka in dina frågor här",
+      "link": "https://www.svt.se/nyheter/inrikes/rostakuten-skicka-in-dina-fragor-har",
+      "description": "Har du en fråga du vill ha svar på innan du lägger din röst i valet? Skicka in din fråga till Röstakuten! Under valdagen 13 september är riksdagspartierna på plats i Valstudion för att svara på sista minuten-frågor från väljare.",
+      "pubDate": "2026-09-13T07:54:45Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Helena Gissén: Det har varit den stora nagelbitaren",
+      "link": "https://www.sverigesradio.se/artikel/9298784",
+      "description": "Klockan 20:00 på söndagen stänger vallokalerna i Sverige och då börjar rösträkningen. Ekots inrikespolitiska kommentator Helena Gissén kommer framför allt ha koll på två saker. ”Vilken sida blir störst? Och hur går det för Liberalerna? För det har varit den stora nagelbitaren och det vill alla veta”, säger Helena Gissén.",
+      "pubDate": "2026-09-13T07:54:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
       "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
+        "L"
       ]
     },
     {
-      "title": "Max Hjelm: Jimmie Åkessons ord under slutdebatten visar vad som står på spel",
-      "link": "https://www.dn.se/ledare/max-hjelm-jimmie-akessons-ord-under-slutdebatten-visar-vad-som-star-pa-spel/",
-      "description": "Jimmie Åkesson ifrågasatte i SVT:s slutdebatt muslimers rösters legitimitet. Att Sverigedemokraterna har intolerans som idé är ingenting nytt. Men vill vi verkligen ha ministrar som inte tycker att allas röst är lika mycket värd?",
-      "pubDate": "2026-09-12T16:37:35Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Postnord timmar försenade med förtidsrösterna",
+      "link": "https://www.expressen.se/nyheter/politik/postnord-timmar-forsenade-med-fortidsrosterna/",
+      "description": "Rekordmånga har förtidsröstat.&nbsp; I Storstockholm ställer rekordet till det för Postnord – som är flera timmar försenade med röstkuverten till rösträkningen.&nbsp; Osäker inför valet? Gör Expressens valkompass! &nbsp;",
+      "pubDate": "2026-09-13T07:30:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
+      "topics": []
     },
     {
-      "title": "Sista duellen mellan Kristersson och Andersson",
-      "link": "https://www.dn.se/sverige/sista-duellen-mellan-andersson-och-kristersson/",
-      "description": "På lördagen möttes Ulf Kristersson (M) och Magdalena Andersson (S) i TV4 i en sista duell inför valdagen. Under sändningen ska ekonomi, kriminalitet, Sverige 2040 och regeringsfrågan debatterades. Läs DN:s direktrapportering.",
-      "pubDate": "2026-09-12T16:31:44Z",
+      "title": "Rekord för förtidsröster – det här gäller om du ångrar dig",
+      "link": "https://www.dn.se/sverige/rekord-for-fortidsroster-det-har-galler-om-du-angrar-dig-2/",
+      "description": "Intresset för att förtidsrösta har varit rekordstort i årets val. Men vad händer om man ångrar sin röst? DN reder ut vad som gäller i årets val.",
+      "pubDate": "2026-09-13T07:13:50Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
+      "topics": []
     }
   ],
   "blogs": [
@@ -368,18 +335,6 @@
       ]
     },
     {
-      "title": "Avprivatisera välfärden",
-      "link": "https://blog.zaramis.se/2026/09/10/avprivatisera-valfarden-2/",
-      "description": "Vänsterpartiet menar att resurser som i dag försvinner till vinster och marknadsstyrning istället behövs för att stärka välfärden. Svensk välfärd befinner sig i kris. Personal på äldreboenden går på knäna, äldre får inte alltid den omsorg de behöver och samtidigt försvinner miljarder skattekronor till privata vinster. Detsamma gäller inom skolan såväl som i sjukvården. Läs mer … Inlägget Avprivatisera välfärden dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-10T09:25:53Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "KD:s relationer med Brödraskapet 2022-2026",
       "link": "https://ledarsidorna.se/kds-relationer-med-brodraskapet-2022-2026/",
       "description": "Kristdemokraterna medverkade i november 2022 till att regeringen drog tillbaka en proposition som skulle ha infört demokrativillkor för statligt stöd till trossamfund och civilsamhälle. Under de två år som följde fortsatte kommunala medel att gå till Ibn Rushd, samtidigt som KD-företrädare offentligt kritiserade just dessa beslut. Studieförbundet Ibn Rushd avvecklade sin verksamhet under hösten 2022, [&#8230;]",
@@ -451,6 +406,18 @@
       "topics": [
         "S",
         "C"
+      ]
+    },
+    {
+      "title": "Sopade under mattan",
+      "link": "https://ledarsidorna.se/sopade-under-mattan/",
+      "description": "I praktiken samtliga svenska riksdagspartier, med något undantag, har haft positiva och mer eller mindre långtgående relationer med radikal politisk islam på något sätt. Med samma motivbild. Moderaterna är ett parti som inte på något sätt är förskonade. I det partiet tog sig en medlem av det Muslimska brödraskapet ända fram till riksdagens försvarsutskott. Fyra [&#8230;]",
+      "pubDate": "2026-09-04T03:41:58Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
       ]
     }
   ],
