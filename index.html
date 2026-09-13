@@ -2401,6 +2401,19 @@ function initDebateToggle(){
 function renderLiveBanner(){
   const el = document.getElementById('liveDebateBanner');
   if (!el) return;
+
+  // On election night, the new horizontal broadcast row (see
+  // activateElectionNightLayout) already shows exactly this same
+  // information — showing both would just be the same "live now" fact
+  // twice. This function runs on a 60-second interval, so a one-time
+  // hide elsewhere wouldn't stick; checking the mode here every time is
+  // what actually keeps it off.
+  if (document.body.classList.contains('election-night-active')){
+    el.style.display = "none";
+    el.innerHTML = "";
+    return;
+  }
+
   const now = new Date();
 
   // find a debate that's live, or the soonest one starting within 2h
