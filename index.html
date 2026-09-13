@@ -204,13 +204,12 @@
     0%, 100%{ opacity:1; }
     50%{ opacity:0.75; }
   }
-  .election-countdown-time.final-countdown{
-    padding:6px 16px; border-radius:12px;
-    animation:countdownPulse 2s ease-in-out infinite, finalCountdownRing 0.6s ease-in-out infinite;
+  .election-countdown.final-countdown{
+    animation:finalCountdownRing 0.6s ease-in-out infinite;
   }
   @keyframes finalCountdownRing{
-    0%, 100%{ box-shadow:0 0 0 0 rgba(255,65,54,0.7); }
-    50%{ box-shadow:0 0 0 14px rgba(255,65,54,0); }
+    0%, 100%{ box-shadow:0 0 0 4px rgba(156,122,46,0.15), 0 8px 24px rgba(0,0,0,0.25), 0 0 0 0 rgba(255,65,54,0.7); }
+    50%{ box-shadow:0 0 0 4px rgba(156,122,46,0.15), 0 8px 24px rgba(0,0,0,0.25), 0 0 0 18px rgba(255,65,54,0); }
   }
   @media (max-width:640px){
     .election-countdown{padding:18px 20px;}
@@ -3119,11 +3118,16 @@ function initElectionDayCountdown(){
     }
 
     let remainingMs;
+    let frozenAtZero = false;
     if (isPreview){
-      remainingMs = Math.max(0, previewDurationMs - (Date.now() - previewStartedAt));
+      remainingMs = previewDurationMs - (Date.now() - previewStartedAt);
       if (remainingMs <= 0){
-        el.style.display = 'none'; // mirrors the real countdown's disappear-at-zero behavior
-        return;
+        // Stays visible and frozen at 00:00:00 in preview, glow still on —
+        // easier to inspect the end state than have it vanish the moment
+        // it's reached. The real (non-preview) countdown still disappears
+        // at zero exactly as before; this freeze is preview-only.
+        remainingMs = 0;
+        frozenAtZero = true;
       }
     } else {
       remainingMs = Math.max(0, dayEnd - now);
@@ -3136,11 +3140,13 @@ function initElectionDayCountdown(){
     const s = String(totalSeconds % 60).padStart(2, '0');
     timeEl.textContent = `${h}:${m}:${s}`;
 
-    // Extra dramatic pulsing red ring around the timer itself specifically
-    // in the final 10 seconds, on top of the existing subtle opacity pulse
-    // that runs the whole time.
-    const isFinalCountdown = remainingMs > 0 && remainingMs <= 10000;
-    timeEl.classList.toggle('final-countdown', isFinalCountdown);
+    // Extra dramatic pulsing red ring around the WHOLE box (not just the
+    // number) specifically in the final 10 seconds, on top of the
+    // existing subtle opacity pulse on the number that runs the whole
+    // time. Preview keeps this glow on even once frozen at zero, so it
+    // stays there to look at instead of disappearing along with the rest.
+    const isFinalCountdown = frozenAtZero || (remainingMs > 0 && remainingMs <= 10000);
+    el.classList.toggle('final-countdown', isFinalCountdown);
   }
 
   tick();
@@ -3213,7 +3219,13 @@ function revealFullResultsLayout(){
 function initPreResultsTeaser(){
   const params = new URLSearchParams(window.location.search);
   if (params.get('preview') === 'results') return; // full-results preview takes priority
-  const isPreviewTeaser = params.get('preview') === 'teaser';
+  // Both ?preview=teaser and ?preview=countdown show this same reduced
+  // layout — countdown specifically also runs its own fast demo timer
+  // (see initElectionDayCountdown), but the surrounding page should look
+  // exactly like the real 19:45–20:00 window either way, not just the
+  // countdown banner floating alone with everything else still showing.
+  const previewParam = params.get('preview');
+  const isPreviewTeaser = previewParam === 'teaser' || previewParam === 'countdown';
   const teaserStart = new Date('2026-09-13T17:45:00Z'); // 19:45 CEST
   const fullActivation = new Date('2026-09-13T18:00:00Z'); // 20:00 CEST
   const now = new Date();
