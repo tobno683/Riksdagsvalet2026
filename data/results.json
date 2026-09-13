@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T23:31:13.153103Z",
-  "counted_pct": 90.8,
+  "updated_at": "2026-09-13T23:32:48.785836Z",
+  "counted_pct": 90.9,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -18,7 +18,7 @@
       "C": 8.9,
       "L": 7.1,
       "KD": 5.1,
-      "S": 26.2,
+      "S": 26.3,
       "V": 10.0,
       "MP": 8.2,
       "SD": 12.3
@@ -120,7 +120,7 @@
       "KD": 7.2,
       "S": 26.0,
       "V": 5.1,
-      "MP": 4.3,
+      "MP": 4.4,
       "SD": 20.2
     },
     "Västra Götalands län": {
@@ -174,24 +174,24 @@
       "SD": 22.6
     },
     "Gävleborgs län": {
-      "M": 18.2,
+      "M": 18.1,
       "C": 6.2,
       "L": 4.1,
       "KD": 6.3,
       "S": 32.3,
-      "V": 6.8,
+      "V": 6.7,
       "MP": 4.3,
       "SD": 21.9
     },
     "Västernorrlands län": {
-      "M": 16.5,
-      "C": 7.1,
+      "M": 16.4,
+      "C": 7.0,
       "L": 3.8,
       "KD": 7.2,
       "S": 34.9,
-      "V": 6.3,
+      "V": 6.4,
       "MP": 4.7,
-      "SD": 19.6
+      "SD": 19.5
     },
     "Jämtlands län": {
       "M": 17.8,
@@ -200,8 +200,8 @@
       "KD": 5.6,
       "S": 32.4,
       "V": 6.1,
-      "MP": 6.5,
-      "SD": 17.8
+      "MP": 6.6,
+      "SD": 17.6
     },
     "Västerbottens län": {
       "M": 15.7,
@@ -209,8 +209,8 @@
       "L": 3.5,
       "KD": 6.1,
       "S": 37.8,
-      "V": 9.3,
-      "MP": 7.5,
+      "V": 9.2,
+      "MP": 7.4,
       "SD": 12.9
     },
     "Norrbottens län": {
@@ -226,7 +226,7 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1329,
+      "reported": 1333,
       "total": 1460
     },
     "Uppsala län": {
@@ -266,7 +266,7 @@
       "total": 872
     },
     "Hallands län": {
-      "reported": 187,
+      "reported": 188,
       "total": 211
     },
     "Västra Götalands län": {
@@ -290,19 +290,19 @@
       "total": 182
     },
     "Gävleborgs län": {
-      "reported": 143,
+      "reported": 144,
       "total": 162
     },
     "Västernorrlands län": {
-      "reported": 150,
+      "reported": 151,
       "total": 167
     },
     "Jämtlands län": {
-      "reported": 82,
+      "reported": 83,
       "total": 93
     },
     "Västerbottens län": {
-      "reported": 164,
+      "reported": 165,
       "total": 191
     },
     "Norrbottens län": {
