@@ -204,6 +204,14 @@
     0%, 100%{ opacity:1; }
     50%{ opacity:0.75; }
   }
+  .election-countdown-time.final-countdown{
+    padding:6px 16px; border-radius:12px;
+    animation:countdownPulse 2s ease-in-out infinite, finalCountdownRing 0.6s ease-in-out infinite;
+  }
+  @keyframes finalCountdownRing{
+    0%, 100%{ box-shadow:0 0 0 0 rgba(255,65,54,0.7); }
+    50%{ box-shadow:0 0 0 14px rgba(255,65,54,0); }
+  }
   @media (max-width:640px){
     .election-countdown{padding:18px 20px;}
     .election-countdown-time{font-size:60px;}
@@ -3093,6 +3101,15 @@ function initElectionDayCountdown(){
   const dayStart = new Date('2026-09-12T22:00:00Z'); // 00:00 CEST on election day (Sep 13)
   const dayEnd = new Date('2026-09-13T18:00:00Z');   // 20:00 CEST — election night takes over at this point
 
+  // Preview mode counts down for real, from a short demo duration, rather
+  // than showing a frozen fake value — that way the whole lifecycle (the
+  // final-10-seconds red ring, and disappearing at zero exactly like the
+  // real countdown does) can actually be watched end to end, not just
+  // reasoned about. 20s gives a few normal seconds before the final-10s
+  // effect kicks in.
+  const previewDurationMs = 20 * 1000;
+  const previewStartedAt = Date.now();
+
   function tick(){
     const now = new Date();
     const inWindow = now >= dayStart && now < dayEnd;
@@ -3100,13 +3117,30 @@ function initElectionDayCountdown(){
       el.style.display = 'none';
       return;
     }
+
+    let remainingMs;
+    if (isPreview){
+      remainingMs = Math.max(0, previewDurationMs - (Date.now() - previewStartedAt));
+      if (remainingMs <= 0){
+        el.style.display = 'none'; // mirrors the real countdown's disappear-at-zero behavior
+        return;
+      }
+    } else {
+      remainingMs = Math.max(0, dayEnd - now);
+    }
+
     el.style.display = 'flex';
-    const remainingMs = isPreview ? (2 * 3600 + 17 * 60 + 5) * 1000 : Math.max(0, dayEnd - now);
     const totalSeconds = Math.floor(remainingMs / 1000);
     const h = String(Math.floor(totalSeconds / 3600)).padStart(2, '0');
     const m = String(Math.floor((totalSeconds % 3600) / 60)).padStart(2, '0');
     const s = String(totalSeconds % 60).padStart(2, '0');
     timeEl.textContent = `${h}:${m}:${s}`;
+
+    // Extra dramatic pulsing red ring around the timer itself specifically
+    // in the final 10 seconds, on top of the existing subtle opacity pulse
+    // that runs the whole time.
+    const isFinalCountdown = remainingMs > 0 && remainingMs <= 10000;
+    timeEl.classList.toggle('final-countdown', isFinalCountdown);
   }
 
   tick();
