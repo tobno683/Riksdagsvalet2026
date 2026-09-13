@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T22:19:50.060596Z",
-  "counted_pct": 85.8,
+  "updated_at": "2026-09-13T22:21:25.455958Z",
+  "counted_pct": 86.0,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -19,7 +19,7 @@
       "L": 7.1,
       "KD": 5.0,
       "S": 26.2,
-      "V": 10.1,
+      "V": 10.2,
       "MP": 8.4,
       "SD": 12.0
     },
@@ -84,12 +84,12 @@
       "SD": 22.1
     },
     "Gotlands län": {
-      "M": 18.3,
+      "M": 18.4,
       "C": 11.0,
       "L": 5.2,
-      "KD": 5.2,
-      "S": 31.6,
-      "V": 6.9,
+      "KD": 5.3,
+      "S": 31.5,
+      "V": 6.8,
       "MP": 7.9,
       "SD": 13.9
     },
@@ -185,21 +185,21 @@
     },
     "Västernorrlands län": {
       "M": 16.5,
-      "C": 7.0,
+      "C": 7.1,
       "L": 3.8,
       "KD": 7.2,
       "S": 35.0,
       "V": 6.3,
       "MP": 4.6,
-      "SD": 19.6
+      "SD": 19.5
     },
     "Jämtlands län": {
       "M": 17.7,
       "C": 10.2,
       "L": 3.6,
-      "KD": 5.6,
+      "KD": 5.7,
       "S": 32.6,
-      "V": 6.0,
+      "V": 5.9,
       "MP": 6.4,
       "SD": 17.9
     },
@@ -226,7 +226,7 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1220,
+      "reported": 1223,
       "total": 1460
     },
     "Uppsala län": {
@@ -238,7 +238,7 @@
       "total": 193
     },
     "Östergötlands län": {
-      "reported": 263,
+      "reported": 265,
       "total": 300
     },
     "Jönköpings län": {
@@ -254,7 +254,7 @@
       "total": 175
     },
     "Gotlands län": {
-      "reported": 37,
+      "reported": 38,
       "total": 41
     },
     "Blekinge län": {
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 989,
+      "reported": 991,
       "total": 1134
     },
     "Värmlands län": {
@@ -294,11 +294,11 @@
       "total": 162
     },
     "Västernorrlands län": {
-      "reported": 142,
+      "reported": 143,
       "total": 167
     },
     "Jämtlands län": {
-      "reported": 75,
+      "reported": 76,
       "total": 93
     },
     "Västerbottens län": {
