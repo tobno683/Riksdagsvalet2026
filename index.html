@@ -3113,6 +3113,78 @@ function initElectionDayCountdown(){
   setInterval(tick, 1000);
 }
 
+function hideNonEssentialContentForElectionNight(){
+  // Shared by both the new 19:45 teaser (countdown + broadcasts only) and
+  // the 20:00 full reveal — idempotent, safe to call from either or both
+  // without side effects from running twice.
+  document.body.classList.add('election-night-active');
+  activateElectionNightLayout();
+  renderLiveBanner();
+
+  const summaryPanel = document.getElementById('summaryPanel');
+  const blockFilter = document.getElementById('blockFilterGroup');
+  if (summaryPanel) summaryPanel.style.display = 'none';
+  if (blockFilter) blockFilter.style.display = 'none';
+
+  const subText = document.querySelector('header.site .sub');
+  const neutralityBox = document.querySelector('.neutrality-box');
+  if (subText) subText.style.display = 'none';
+  if (neutralityBox) neutralityBox.style.display = 'none';
+
+  ['.bloc-strip', '.compass-strip', '.topics-strip', '.budget-strip'].forEach(sel => {
+    const el = document.querySelector(sel);
+    if (el) el.style.display = 'none';
+  });
+
+  // Party grid and "Vägen till en ny regering" are hidden here too now —
+  // both reappear specifically at 20:00 (see revealFullResultsLayout),
+  // not during the 19:45 teaser, which shows only the countdown and the
+  // broadcast row and nothing else.
+  const partyGridLabel = document.getElementById('partyGridLabel');
+  const grid = document.getElementById('grid');
+  const govformStrip = document.querySelector('.govform-strip');
+  if (partyGridLabel) partyGridLabel.style.display = 'none';
+  if (grid) grid.style.display = 'none';
+  if (govformStrip) govformStrip.style.display = 'none';
+}
+
+function revealFullResultsLayout(){
+  // The 20:00-specific reveal, layered on top of whatever
+  // hideNonEssentialContentForElectionNight() already did — whether that
+  // ran a few minutes ago at 19:45, or is running for the first time
+  // right now (e.g. someone loading the page for the first time at 20:05).
+  const partyGridLabel = document.getElementById('partyGridLabel');
+  const grid = document.getElementById('grid');
+  const govformStrip = document.querySelector('.govform-strip');
+  if (partyGridLabel) partyGridLabel.style.display = '';
+  if (grid) grid.style.display = '';
+  if (govformStrip){
+    govformStrip.style.display = '';
+    if (partyGridLabel && partyGridLabel.parentNode){
+      partyGridLabel.parentNode.insertBefore(govformStrip, partyGridLabel);
+    }
+  }
+}
+
+// New: a 15-minute "teaser" window before the full 20:00 reveal. Shows
+// only the countdown banner and the live/soon broadcast row — everything
+// else on the page (party grid, bloc bar, valkompasser, etc.) is hidden,
+// same as at 20:00, just without the results section itself appearing
+// yet. Uses its own ?preview=teaser flag, distinct from ?preview=results,
+// so the two preview states can't both fire at once and fight each other.
+function initPreResultsTeaser(){
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('preview') === 'results') return; // full-results preview takes priority
+  const isPreviewTeaser = params.get('preview') === 'teaser';
+  const teaserStart = new Date('2026-09-13T17:45:00Z'); // 19:45 CEST
+  const fullActivation = new Date('2026-09-13T18:00:00Z'); // 20:00 CEST
+  const now = new Date();
+  const shouldShowTeaser = isPreviewTeaser || (now >= teaserStart && now < fullActivation);
+  if (!shouldShowTeaser) return;
+
+  hideNonEssentialContentForElectionNight();
+}
+
 async function initResultsSection(){
   const strip = document.getElementById('resultsStrip');
   if (!strip) return;
@@ -3124,45 +3196,8 @@ async function initResultsSection(){
   if (!shouldShow) return; // stays in its normal position — default state before election day
 
   strip.style.display = 'block';
-  document.body.classList.add('election-night-active');
-  activateElectionNightLayout();
-  // renderLiveBanner() may have already run once before this class was
-  // added (it's called earlier in the page's synchronous init sequence,
-  // while this function is async) — call it again right here so it
-  // re-checks the class immediately, rather than waiting for its own
-  // 60-second interval to catch up.
-  renderLiveBanner();
-
-  // "Läget just nu" and the party filter controls are pre-election
-  // context that's redundant once live results take over the page.
-  const summaryPanel = document.getElementById('summaryPanel');
-  const blockFilter = document.getElementById('blockFilterGroup');
-  if (summaryPanel) summaryPanel.style.display = 'none';
-  if (blockFilter) blockFilter.style.display = 'none';
-
-  // The intro subtitle and "Om den här sidan" box explain the site's
-  // pre-election framing — not needed once live results are the focus.
-  const subText = document.querySelector('header.site .sub');
-  const neutralityBox = document.querySelector('.neutrality-box');
-  if (subText) subText.style.display = 'none';
-  if (neutralityBox) neutralityBox.style.display = 'none';
-
-  // Below the party grid, hide the pre-election context that's less
-  // relevant once the page is showing live results (bloc bar, valkompasser,
-  // topic spectrum, shadow-budget comparisons). "Vägen till en ny
-  // regering" is moved to sit above the party grid instead — exactly the
-  // question people have once results start coming in. (debate-strip is
-  // already relocated to #topWrap by activateElectionNightLayout().)
-  ['.bloc-strip', '.compass-strip', '.topics-strip', '.budget-strip'].forEach(sel => {
-    const el = document.querySelector(sel);
-    if (el) el.style.display = 'none';
-  });
-
-  const govformStrip = document.querySelector('.govform-strip');
-  const partyGridLabel = document.getElementById('partyGridLabel');
-  if (govformStrip && partyGridLabel && partyGridLabel.parentNode){
-    partyGridLabel.parentNode.insertBefore(govformStrip, partyGridLabel);
-  }
+  hideNonEssentialContentForElectionNight(); // idempotent — harmless if the 19:45 teaser already ran this
+  revealFullResultsLayout();
 
   if (isPreview){
     document.getElementById('resultsIntroNote').innerHTML =
@@ -3347,6 +3382,7 @@ initChatWidget();
 initBuilderPresets();
 initDaysCountdown();
 initElectionDayCountdown();
+initPreResultsTeaser();
 initResultsSection();
 loadLivePollData();
 
