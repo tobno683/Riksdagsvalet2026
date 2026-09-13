@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T23:20:05.503243Z",
-  "counted_pct": 90.2,
+  "updated_at": "2026-09-13T23:21:40.790335Z",
+  "counted_pct": 90.3,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -19,7 +19,7 @@
       "L": 7.1,
       "KD": 5.0,
       "S": 26.3,
-      "V": 10.1,
+      "V": 10.0,
       "MP": 8.2,
       "SD": 12.2
     },
@@ -61,7 +61,7 @@
       "S": 27.1,
       "V": 6.0,
       "MP": 3.7,
-      "SD": 21.0
+      "SD": 21.1
     },
     "Kronobergs län": {
       "M": 20.4,
@@ -114,11 +114,11 @@
       "SD": 21.5
     },
     "Hallands län": {
-      "M": 23.6,
+      "M": 23.5,
       "C": 7.7,
       "L": 6.0,
       "KD": 7.2,
-      "S": 26.0,
+      "S": 25.9,
       "V": 5.0,
       "MP": 4.3,
       "SD": 20.2
@@ -129,7 +129,7 @@
       "L": 5.6,
       "KD": 6.8,
       "S": 27.5,
-      "V": 9.3,
+      "V": 9.2,
       "MP": 6.4,
       "SD": 17.8
     },
@@ -144,12 +144,12 @@
       "SD": 19.9
     },
     "Örebro län": {
-      "M": 18.6,
+      "M": 18.7,
       "C": 6.0,
       "L": 4.7,
       "KD": 6.6,
       "S": 32.0,
-      "V": 8.2,
+      "V": 8.1,
       "MP": 5.1,
       "SD": 18.9
     },
@@ -215,18 +215,18 @@
     },
     "Norrbottens län": {
       "M": 16.6,
-      "C": 5.2,
+      "C": 5.3,
       "L": 3.4,
       "KD": 6.6,
-      "S": 38.4,
-      "V": 6.9,
+      "S": 38.5,
+      "V": 6.8,
       "MP": 4.5,
       "SD": 18.3
     }
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1317,
+      "reported": 1321,
       "total": 1460
     },
     "Uppsala län": {
@@ -242,7 +242,7 @@
       "total": 300
     },
     "Jönköpings län": {
-      "reported": 191,
+      "reported": 192,
       "total": 215
     },
     "Kronobergs län": {
@@ -262,15 +262,15 @@
       "total": 102
     },
     "Skåne län": {
-      "reported": 798,
+      "reported": 799,
       "total": 872
     },
     "Hallands län": {
-      "reported": 185,
+      "reported": 186,
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 1027,
+      "reported": 1028,
       "total": 1134
     },
     "Värmlands län": {
@@ -278,7 +278,7 @@
       "total": 194
     },
     "Örebro län": {
-      "reported": 194,
+      "reported": 195,
       "total": 217
     },
     "Västmanlands län": {
@@ -306,7 +306,7 @@
       "total": 191
     },
     "Norrbottens län": {
-      "reported": 149,
+      "reported": 150,
       "total": 171
     }
   }
