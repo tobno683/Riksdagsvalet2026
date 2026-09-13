@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T12:08:50.508075Z",
+  "updated_at": "2026-09-13T16:30:00.434277Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,14 +79,80 @@
   ],
   "news": [
     {
+      "title": "Rekordmånga har röstat tidigt i utsatta områden: ”En gåva från Allah”",
+      "link": "https://www.dn.se/sverige/rekordmanga-har-rostat-tidigt-i-utsatta-omraden-en-gava-fran-allah/",
+      "description": "Rekordmånga har förtidsröstat i årets val. Ökningen är störst i särskilt utsatta områden. 71 procent fler hade på söndagen förtidsröstat jämfört med föregående val, enligt DN:s sammanställning. I Angereds moské slår man fast att rösträtten är ”en gåva från Allah”. – Det kan gynna Socialdemokraterna, säger Zeth Isaksson, forskare vid Stockholms universitet.",
+      "pubDate": "2026-09-13T15:51:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Det avgör vilket parti man röstar på",
+      "link": "https://www.sverigesradio.se/artikel/9298865",
+      "description": "Söndagen den 13:e september går Sverige till val. ”Svenska väljare är kända för att vara åsiktsröstare och ideologi spelar roll”, säger Maria Solevid är forskare i statsvetenskap vid Göteborgs universitet. Vilket syns i flera undersökningar där väljare får ta ställning till olika påståenden om vad som låg bakom partivalet, berättar hon.",
+      "pubDate": "2026-09-13T15:51:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Tåg i Ukraina har träffats av rysk drönare – var på väg till Warszawa",
+      "link": "https://www.sverigesradio.se/artikel/9298900",
+      "description": "Ett passagerartåg i Ukraina har träffats av en rysk drönare. Tåget var på väg från Kiev till Warszawa, vilket är en av de mest trafikerade tågsträckorna. Tågsträckorna används dagligen av tusentals ukrainare, men också av internationella gäster och politiker. Bara minuter tidigare hade den tidigare svenske statsministern och utrikesministern Carl Bildt passerat samma gränsövergång, skriver han själv på sociala medier.",
+      "pubDate": "2026-09-13T15:18:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Valet 2026: Sverige röstar – se grafiken",
+      "link": "https://www.expressen.se/nyheter/politik/valet-2026-sverige-rostar-se-grafiken/",
+      "description": "Vem får makten över Sverige?&nbsp; Följ valet 2026 i grafiken nedan.&nbsp;",
+      "pubDate": "2026-09-13T15:00:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Efter valet börjar nästa drama – så får Sverige en regering",
+      "link": "https://www.dn.se/sverige/efter-valet-borjar-nasta-drama-sa-far-sverige-en-regering-2/",
+      "description": "Förra gången tog det 37 dagar. Även denna gång kommer det att krävas hårda förhandlingar om makten, oavsett vem som vinner. Det här är vad som händer efter att vallokalerna stängt och fram till att Sverige har en ny regering.",
+      "pubDate": "2026-09-13T12:19:55Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Hundratals larm från vallokalerna",
       "link": "https://www.expressen.se/nyheter/politik/hundratals-larm-fran-vallokalerna/",
-      "description": "Stulna, försvunna eller oordnade valsedlar – så är läget i ett stort antal vallokaler runtom i landet.&nbsp; Vid lunchtid på söndagen hade över 200 incidenter anmälts till Valmyndigheten. I Falkenberg drabbades KD.&nbsp; Osäker inför valet? Gör Expressens valkompass! &nbsp;",
+      "description": "Stulna, försvunna eller oordnade valsedlar – så är läget i ett stort antal vallokaler runtom i landet.&nbsp; På söndagseftermiddagen hade 956 incidenter anmälts till Valmyndigheten. I Falkenberg drabbades KD.&nbsp; Osäker inför valet? Gör Expressens valkompass! &nbsp;",
       "pubDate": "2026-09-13T11:35:59Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "Här röstar statsministern i riksdagsvalet",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=2d47d548-2113-459a-bac5-85c0a4d75e61",
+      "description": "Går till vallokalen med Birgitta Ed",
+      "pubDate": "2026-09-13T11:23:32Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
     },
     {
       "title": "Rekordmånga småpartier anmälda till valet – bara ett har chans att komma in",
@@ -136,7 +202,7 @@
     {
       "title": "Valresultat 2026 – alla senaste siffrorna",
       "link": "https://www.dn.se/sverige/valresultat-2026-alla-senaste-siffrorna/",
-      "description": "Vilka vinner valet och har chans att bilda regering? Hur går det i kommunal- och regionvalen? Här samlar vi resultaten i valet 2026 – uppdaterade minut för minut. • Alla senaste resultat: I riksdagen, kommuner och regioner. • Mandaten – vilka kan bilda regering? • Valresultatet där du bor. • Här blev partierna störst.",
+      "description": "Vilka vinner valet och har chans att bilda regering? Hur går det i kommunal- och regionvalen? Här samlar vi resultaten i valet 2026 – uppdaterade minut för minut. • Alla senaste resultat: I riksdagen, kommuner och regioner. • Mandaten – vilka kan bilda regering? • Valresultatet där du bor. • Här blev partierna störst. Rösterna börjar räknas klockan 20.",
       "pubDate": "2026-09-13T10:00:56Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -174,70 +240,6 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Rusning för att rösta efter Botkyrkas turbulenta år",
-      "link": "https://www.dn.se/sverige/rusning-for-att-rosta-efter-botkyrkas-turbulenta-ar/",
-      "description": "Turbulens i fullmäktige har gjort Botkyrka till ett politiskt tittskåp för hela Sverige. Men hur påverkas väljarna av de senaste årens oreda, svartmålning och käbbel? – Absolut mer polariserat nu. Antingen är det Hitler eller så är det Nooshi Dadgostar, säger Henrik Jonsson i Tumba.",
-      "pubDate": "2026-09-13T08:25:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Postnord försenade med förtidsröster",
-      "link": "https://www.svt.se/nyheter/inrikes/postnord-forsenade-med-fortidsrosterna",
-      "description": "Det stora antalet förtidsröster har gjort att leveranserna i Stockholmsområdet blev flera timmar försenade. Enligt Valmyndigheten kan det i sin tur göra att rösträkningen drar ut på tiden. – Det är förstås inte bra, säger Jenny Stad, pressansvarig på myndigheten.",
-      "pubDate": "2026-09-13T08:25:32Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Röstakuten – skicka in dina frågor här",
-      "link": "https://www.svt.se/nyheter/inrikes/rostakuten-skicka-in-dina-fragor-har",
-      "description": "Har du en fråga du vill ha svar på innan du lägger din röst i valet? Skicka in din fråga till Röstakuten! Under valdagen 13 september är riksdagspartierna på plats i Valstudion för att svara på sista minuten-frågor från väljare.",
-      "pubDate": "2026-09-13T07:54:45Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Helena Gissén: Det har varit den stora nagelbitaren",
-      "link": "https://www.sverigesradio.se/artikel/9298784",
-      "description": "Klockan 20:00 på söndagen stänger vallokalerna i Sverige och då börjar rösträkningen. Ekots inrikespolitiska kommentator Helena Gissén kommer framför allt ha koll på två saker. ”Vilken sida blir störst? Och hur går det för Liberalerna? För det har varit den stora nagelbitaren och det vill alla veta”, säger Helena Gissén.",
-      "pubDate": "2026-09-13T07:54:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Postnord timmar försenade med förtidsrösterna",
-      "link": "https://www.expressen.se/nyheter/politik/postnord-timmar-forsenade-med-fortidsrosterna/",
-      "description": "Rekordmånga har förtidsröstat.&nbsp; I Storstockholm ställer rekordet till det för Postnord – som är flera timmar försenade med röstkuverten till rösträkningen.&nbsp; Osäker inför valet? Gör Expressens valkompass! &nbsp;",
-      "pubDate": "2026-09-13T07:30:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Rekord för förtidsröster – det här gäller om du ångrar dig",
-      "link": "https://www.dn.se/sverige/rekord-for-fortidsroster-det-har-galler-om-du-angrar-dig-2/",
-      "description": "Intresset för att förtidsrösta har varit rekordstort i årets val. Men vad händer om man ångrar sin röst? DN reder ut vad som gäller i årets val.",
-      "pubDate": "2026-09-13T07:13:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
