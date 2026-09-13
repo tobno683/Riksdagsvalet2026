@@ -175,12 +175,21 @@ def aggregate(data: dict):
 
     national_counts = {}
     regional_counts = {}  # lan_name -> {party: count}
+    regional_district_counts = {}  # lan_name -> {"reported": X, "total": Y} - additive, doesn't touch the existing regions shape
 
     for kommun in kommuner:
         if not kommun:
             continue  # defensive: skip any null entries in the kommuner array itself
         lankod = kommun.get("lankod")
         lan_name = LAN_NAMES.get(lankod)
+
+        if lan_name:
+            kommun_reported = kommun.get("antalValdistriktRaknade") or 0
+            kommun_total = kommun.get("antalValdistriktSomSkaRaknas") or 0
+            entry = regional_district_counts.setdefault(lan_name, {"reported": 0, "total": 0})
+            entry["reported"] += kommun_reported
+            entry["total"] += kommun_total
+
         # Defensive at every level: real data from an in-progress count
         # apparently represents a not-yet-reported kommun as an explicit
         # "rostfordelning": null rather than omitting the key or giving an
@@ -214,16 +223,21 @@ def aggregate(data: dict):
     regional_pct = {lan: counts_to_pct(counts) for lan, counts in regional_counts.items()}
     counted_pct = round(100 * counted / total_districts, 1) if total_districts else None
 
-    return national_pct, regional_pct, counted_pct
+    return national_pct, regional_pct, counted_pct, regional_district_counts
 
 
-def write_results(national: dict, regions: dict, counted_pct):
+def write_results(national: dict, regions: dict, counted_pct, region_districts: dict):
     output = {
         "status": "live",
         "updated_at": datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z"),
         "counted_pct": counted_pct,
         "national": national,
         "regions": regions,
+        # Additive - a separate field, not folded into "regions", so the
+        # existing {lan_name: {party: pct}} shape that the frontend
+        # already reads for the bar chart / seat comparisons stays
+        # completely unchanged. Only the new per-län caption reads this.
+        "region_districts": region_districts,
     }
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
@@ -237,8 +251,8 @@ def run_once() -> bool:
         index_text = fetch_index()
         zip_path = find_zip_relative_path(index_text)
         data = fetch_summering_json(zip_path)
-        national, regions, counted_pct = aggregate(data)
-        write_results(national, regions, counted_pct)
+        national, regions, counted_pct, region_districts = aggregate(data)
+        write_results(national, regions, counted_pct, region_districts)
         print(f"Updated data/results.json — {counted_pct}% of districts counted. National: {national}")
         return True
     except Exception as exc:  # noqa: BLE001 - see module docstring: never crash, never write garbage
