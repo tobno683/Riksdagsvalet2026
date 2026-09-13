@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:30:00.434277Z",
+  "updated_at": "2026-09-13T18:53:19.501909Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,157 @@
   ],
   "news": [
     {
+      "title": "Statsvetaren: ”Osannolikt att det jämnar ut sig”",
+      "link": "https://www.sverigesradio.se/artikel/9298994",
+      "description": "Efter att vallokalerna stängde under söndagskvällen presenterade SVT sin vallokalsundersökning. Som bland annat visade att de rödgröna får övertag och landar på 51,3 procent, medan Tidöpartierna landar på 46,8 procent. ”Osannolikt att det jämnar ut sig”, säger Jan Teorell, professor i statsvetenskap vid Stockholms universitet.",
+      "pubDate": "2026-09-13T18:34:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "SVT:s Valu: Liberalerna klarar riksdagsspärren",
+      "link": "https://www.dn.se/sverige/svts-valu-liberalerna-klarar-riksdagssparren/",
+      "description": "Liberalerna verkar klara riksdagsspärren. Enligt SVT:s vallokalsundersökning får partiet 5,4 procent av rösterna i riksdagsvalet. – Det är väldigt stor glädje och lättnad här, säger klimat- och miljöminister Romina Pourmokhtari.",
+      "pubDate": "2026-09-13T18:32:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Annika köade i två timmar för att rösta: ”Övervägde att låta bli”",
+      "link": "https://www.sverigesradio.se/artikel/9299032",
+      "description": "I Umeå har vallokalerna drabbats av långa köer under valdagen. Valmyndigheten har gått ut med att det kan bli långa köer, särskilt i storstäderna. Annika Båtsman fick vänta i en timme och 50 minuter innan hon fick lägga sin röst. Hon har också försökt förtidsrösta flera gånger, men även då möttes hon av långa köer som fick henne att vända om. ”Jag övervägde för första gången i mitt liv att låta bli”, säger hon.",
+      "pubDate": "2026-09-13T18:29:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "KD och L ut ur riksdagen – om Sveriges elever får bestämma",
+      "link": "https://www.dn.se/sverige/kd-och-l-ut-ur-riksdagen-om-sveriges-elever-far-bestamma/",
+      "description": "När generation alfa röstar i skolvalet för första gången är de mer vänsterorienterade än eleverna för fyra år sedan. – Det är rekordmånga som röstat i år, 23 000 fler än 2022. Vi är väldigt glada för det eftersom vi vet att skolval har en positiv inverkan på intresset för demokratin, säger Magnus Jägerskog, generaldirektör på Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF).",
+      "pubDate": "2026-09-13T18:14:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "L över riksdagsspärren enligt SVT:s vallokalsundersökning",
+      "link": "https://www.sverigesradio.se/artikel/9299018",
+      "description": "Samtidigt som vallokalerna stängde klockan åtta kom SVT:s vallokalsunderssökning, den så kallade Valun, som ger en preliminär bild av valresultatet. Liberalerna ser ut att klara riksdagsspärren, men oppositionen går mot en valseger med 51,3 procent av rösterna, 4,5 procentenheter mer än Tidöpartierna. Allt detta enligt SVT:s vallokalsundersökning – alltså inte det färdiga valresultatet.",
+      "pubDate": "2026-09-13T18:14:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "”Tydlig vänstersväng” i Riksdagsskolvalet – men ändå högerseger",
+      "link": "https://www.sverigesradio.se/artikel/9298374",
+      "description": "Ifall Sveriges högstadie- och gymnasieelever fick bestämma skulle Liberalerna och Kristdemokraterna åka ur riksdagen men högersidan hade ändå vunnit valet. Det visar resultatet i Riksdagsskolvalet, som anordnas av Myndigheten för ungdoms- och civilsamhällesfrågor, MUCF, där Magnus Jägerskog är generaldirektör. ”Vi ser en tydlig vänstersväng i Riksdagsskolvalet”, säger han.",
+      "pubDate": "2026-09-13T18:14:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Fiasko för Tidöpartierna – enligt SVT:s rekordstora Valu",
+      "link": "https://www.expressen.se/nyheter/politik/fiasko-for-tidopartierna-enligt-svts-rekordstora-valu/",
+      "description": "Sverigedemokraterna backar stort, enligt SVT:s Valu.&nbsp; Vallokalsundersökningen pekar på stort fiasko för Tidöpartierna – och en stor ledning för den rödgröna sidan.&nbsp; – Jag blev ganska chockad, säger Björn Söder (SD) i SVT.&nbsp; Samtidigt klarar Liberalerna riksdagsspärren.&nbsp;",
+      "pubDate": "2026-09-13T18:13:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "Kristerssons krav efter förtidskaoset",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=2ec39b26-dd1a-48cc-a865-9e6493952660",
+      "description": "Orden efter köerna i vallokalerna",
+      "pubDate": "2026-09-13T17:40:14Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "AI under valrörelsen – en utmaning för väljare",
+      "link": "https://www.sverigesradio.se/artikel/9298974",
+      "description": "Mer än någonsin tidigare har årets valrörelse&nbsp;utspelat sig på sociala medier där AI sedan det förra riksdagsvalet blivit ett allt vanligare verktyg. Det handlar bland annat om AI-genererade bilder, fejkade valaffischer och inlägg om politiska debatter som påstås ha ägt rum men som aldrig gjort det. Den ökande användningen av AI ställer också väljarna inför nya utmaningar, enligt Åsa Larsson från Källkritikbyrån.",
+      "pubDate": "2026-09-13T17:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Oppositionen störst i SVT:s Valu – L klarar sig över spärren",
+      "link": "https://www.dn.se/sverige/nu-avgors-valet-2026/",
+      "description": "Oppositionen blir störst med 51,3 procent i SVT:s valundersökning. Liberalerna klarar samtidigt spärren med god marginal och landar på 5,4 procent.",
+      "pubDate": "2026-09-13T17:07:31Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Därför dissar Åkesson SVT:s valvaka: ”Tråkigt”",
+      "link": "https://www.expressen.se/nyheter/politik/darfor-dissar-akesson-svts-valvaka-trakigt/",
+      "description": "Av tradition brukar partiledarna gästa SVT:s vaka sent på valkvällen. Nu får statstelevisionen nobben av Jimmie Åkesson, för andra gången på två dagar. – Det är tråkigt att sitta i deras studio, säger presschefen Oskar Cavalli-Björkman.",
+      "pubDate": "2026-09-13T17:03:14Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "C håller igen med  champagne: ”Inte bakis”",
+      "link": "https://www.expressen.se/nyheter/politik/c-haller-igen-med--champagneinte-bakis/",
+      "description": "Mästerkocksgodkänd M-meny, en köttmiss hos Miljöpartiet och kändiscaterad buffé till KD.&nbsp; Här är detaljerna inifrån partiernas valvakor.&nbsp; – Jag kör helt utan alkohol i kväll, säger Elisabeth Thand Ringqvist (C) –&nbsp;vars parti har infört bakisförbud på vakan.&nbsp;",
+      "pubDate": "2026-09-13T16:51:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Viktor Barth-Kron: Det håller jag ögonen på i valet",
+      "link": "https://www.expressen.se/nyheter/politik/viktor-barth-kron-det-haller-jag-ogonen-pa-i-valet/",
+      "description": "Vilket block blir störst?&nbsp; Och åker Liberalerna ut?&nbsp; Följande tre saker håller Expressens politiske kommentator Viktor Barth-Kron ögonen lite extra på i kväll.",
+      "pubDate": "2026-09-13T16:49:18Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
       "title": "Rekordmånga har röstat tidigt i utsatta områden: ”En gåva från Allah”",
       "link": "https://www.dn.se/sverige/rekordmanga-har-rostat-tidigt-i-utsatta-omraden-en-gava-fran-allah/",
       "description": "Rekordmånga har förtidsröstat i årets val. Ökningen är störst i särskilt utsatta områden. 71 procent fler hade på söndagen förtidsröstat jämfört med föregående val, enligt DN:s sammanställning. I Angereds moské slår man fast att rösträtten är ”en gåva från Allah”. – Det kan gynna Socialdemokraterna, säger Zeth Isaksson, forskare vid Stockholms universitet.",
@@ -99,147 +250,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Tåg i Ukraina har träffats av rysk drönare – var på väg till Warszawa",
-      "link": "https://www.sverigesradio.se/artikel/9298900",
-      "description": "Ett passagerartåg i Ukraina har träffats av en rysk drönare. Tåget var på väg från Kiev till Warszawa, vilket är en av de mest trafikerade tågsträckorna. Tågsträckorna används dagligen av tusentals ukrainare, men också av internationella gäster och politiker. Bara minuter tidigare hade den tidigare svenske statsministern och utrikesministern Carl Bildt passerat samma gränsövergång, skriver han själv på sociala medier.",
-      "pubDate": "2026-09-13T15:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Valet 2026: Sverige röstar – se grafiken",
-      "link": "https://www.expressen.se/nyheter/politik/valet-2026-sverige-rostar-se-grafiken/",
-      "description": "Vem får makten över Sverige?&nbsp; Följ valet 2026 i grafiken nedan.&nbsp;",
-      "pubDate": "2026-09-13T15:00:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Efter valet börjar nästa drama – så får Sverige en regering",
-      "link": "https://www.dn.se/sverige/efter-valet-borjar-nasta-drama-sa-far-sverige-en-regering-2/",
-      "description": "Förra gången tog det 37 dagar. Även denna gång kommer det att krävas hårda förhandlingar om makten, oavsett vem som vinner. Det här är vad som händer efter att vallokalerna stängt och fram till att Sverige har en ny regering.",
-      "pubDate": "2026-09-13T12:19:55Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Hundratals larm från vallokalerna",
-      "link": "https://www.expressen.se/nyheter/politik/hundratals-larm-fran-vallokalerna/",
-      "description": "Stulna, försvunna eller oordnade valsedlar – så är läget i ett stort antal vallokaler runtom i landet.&nbsp; På söndagseftermiddagen hade 956 incidenter anmälts till Valmyndigheten. I Falkenberg drabbades KD.&nbsp; Osäker inför valet? Gör Expressens valkompass! &nbsp;",
-      "pubDate": "2026-09-13T11:35:59Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Här röstar statsministern i riksdagsvalet",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=2d47d548-2113-459a-bac5-85c0a4d75e61",
-      "description": "Går till vallokalen med Birgitta Ed",
-      "pubDate": "2026-09-13T11:23:32Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Rekordmånga småpartier anmälda till valet – bara ett har chans att komma in",
-      "link": "https://www.dn.se/sverige/rekordmanga-smapartier-anmalda-till-valet-bara-ett-har-chans-att-komma-in/",
-      "description": "Rekordmånga 416 partier har anmält sig till årets svenska val. 165 av dem ställer upp till riksdagen – ett är Örebropartiet med ledaren Markus Allard som kan ha god chans komma in på ett historiskt vis. Bland övriga småpartier är det många som är uppenbara försök till skämt. – Ett ganska destruktivt sätt att visa politiskt missnöje, säger statsvetarprofessorn Tommy Möller.",
-      "pubDate": "2026-09-13T11:14:45Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Lars, 84, gav upp i kökaoset: ”Får gå tillbaka”",
-      "link": "https://www.expressen.se/nyheter/politik/lars-84-gav-upp-i-kokaoset-far-ga-tillbaka/",
-      "description": "Valmyndigheten varnar för långa köer till vallokaler på flera håll i landet. Kerstin Granström, 84, i Umeå väntade i nästan två timmar. Hennes sambo, Lars A Grahn, 84, gav till slut upp och gick hem. – Jag får gå tillbaka klockan 15 och se hur det är då, säger han. Osäker inför valet? Gör Expressens valkompass! &nbsp;",
-      "pubDate": "2026-09-13T10:58:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Tidigare MP-ledaren om valdagskänslan: ”Som att få tillbaka en tenta gånger hundra”",
-      "link": "https://www.sverigesradio.se/artikel/9298833",
-      "description": "Mona Sahlin, Maria Wetterstrand och Alf Svensson gästar Ekots valsändning och berättar om sina erfarenheter av valdagen som före detta partiledare. Mona Sahlin, tidigare partiledare för Socialdemokraterna, säger att man måste förbereda sig på två sätt. Dels för att vinna och dels att förlora. ”Det är lite som att få tillbaka en tenta fast gångrat med hundra”, säger Miljöpartiets tidigare språkrör, Maria Wetterstrand, om nervositeten inför valresultatet.",
-      "pubDate": "2026-09-13T10:49:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "MP"
-      ]
-    },
-    {
-      "title": "Håkan Juholt: För mycket larv i valrörelsen",
-      "link": "https://www.expressen.se/nyheter/politik/hakan-juholt-for-mycket-larv-i-valrorelsen/",
-      "description": "Politikerna borde stäva efter att vara beundransvärda och inte som nu – agera narrar.&nbsp; Det tycker Socialdemokraternas före detta partiledare Håkan Juholt. – Det har gått för långt, säger Juholt i ”Skavlan &amp; Sverige – uppesittarkväll” på SVT.",
-      "pubDate": "2026-09-13T10:01:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Valresultat 2026 – alla senaste siffrorna",
-      "link": "https://www.dn.se/sverige/valresultat-2026-alla-senaste-siffrorna/",
-      "description": "Vilka vinner valet och har chans att bilda regering? Hur går det i kommunal- och regionvalen? Här samlar vi resultaten i valet 2026 – uppdaterade minut för minut. • Alla senaste resultat: I riksdagen, kommuner och regioner. • Mandaten – vilka kan bilda regering? • Valresultatet där du bor. • Här blev partierna störst. Rösterna börjar räknas klockan 20.",
-      "pubDate": "2026-09-13T10:00:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Så blir vädret under valdagen",
-      "link": "https://www.expressen.se/nyheter/politik/sa-blir-vadret-under-valdagen/",
-      "description": "Valmyndigheten flaggar för långa köer till vallokalerna.&nbsp; Samtidigt varslar SMHI för regn på flera håll i landet.&nbsp; Ska du ta med paraply eller solglasögon tillsammans med röstkortet?&nbsp; Osäker inför valet? Gör Expressens valkompass!&nbsp; &nbsp;",
-      "pubDate": "2026-09-13T09:53:09Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kö till vallokalerna: ”Det är viktigt att rösta”",
-      "link": "https://www.dn.se/sverige/ko-till-vallokalerna-det-ar-viktigt-att-rosta/",
-      "description": "Runt om i landet har vallokalerna slagit upp portarna och köerna ringlar långa på många håll. Under dagen kommer valet till kommuner, regioner och riksdagen att avgöras.",
-      "pubDate": "2026-09-13T09:35:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Benny Anderssons stöd till Magdalena Andersson",
-      "link": "https://www.expressen.se/nyheter/politik/benny-anderssons-stod-till-magdalena-andersson/",
-      "description": "Abba-legendaren Benny Andersson dök upp på Socialdemokraternas slutspurt – med allsång till ”Mamma Mia”.",
-      "pubDate": "2026-09-13T08:49:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
     }
   ],
   "blogs": [
