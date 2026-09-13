@@ -3100,11 +3100,11 @@ async function initResultsSection(){
 
   // Below the party grid, hide the pre-election context that's less
   // relevant once the page is showing live results (bloc bar, valkompasser,
-  // topic spectrum). "Vägen till en ny regering" is moved to sit above the
-  // party grid instead — exactly the question people have once results
-  // start coming in. (debate-strip is already relocated to #topWrap by
-  // activateElectionNightLayout().)
-  ['.bloc-strip', '.compass-strip', '.topics-strip'].forEach(sel => {
+  // topic spectrum, shadow-budget comparisons). "Vägen till en ny
+  // regering" is moved to sit above the party grid instead — exactly the
+  // question people have once results start coming in. (debate-strip is
+  // already relocated to #topWrap by activateElectionNightLayout().)
+  ['.bloc-strip', '.compass-strip', '.topics-strip', '.budget-strip'].forEach(sel => {
     const el = document.querySelector(sel);
     if (el) el.style.display = 'none';
   });
