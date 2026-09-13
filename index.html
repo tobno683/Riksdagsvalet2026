@@ -195,9 +195,9 @@
   }
   .election-countdown-label{font-size:15.5px; font-weight:700; line-height:1.3; white-space:nowrap;}
   .election-countdown-time{
-    font-family:'IBM Plex Mono',monospace; font-size:46px; font-weight:700;
+    font-family:'IBM Plex Mono',monospace; font-size:88px; font-weight:700;
     letter-spacing:.03em; color:#FF4136;
-    text-shadow:0 0 24px rgba(255,65,54,0.65);
+    text-shadow:0 0 32px rgba(255,65,54,0.7);
     animation:countdownPulse 2s ease-in-out infinite;
   }
   @keyframes countdownPulse{
@@ -206,7 +206,7 @@
   }
   @media (max-width:640px){
     .election-countdown{padding:18px 20px;}
-    .election-countdown-time{font-size:36px;}
+    .election-countdown-time{font-size:60px;}
     .election-countdown-label{font-size:12.5px; white-space:normal;}
   }
   .summary-panel{margin-top:32px;}
@@ -3136,16 +3136,18 @@ function hideNonEssentialContentForElectionNight(){
     if (el) el.style.display = 'none';
   });
 
-  // Party grid and "Vägen till en ny regering" are hidden here too now —
-  // both reappear specifically at 20:00 (see revealFullResultsLayout),
-  // not during the 19:45 teaser, which shows only the countdown and the
-  // broadcast row and nothing else.
+  // Party grid, "Vägen till en ny regering", and the news/blogs/podcasts
+  // section are hidden here too now — all reappear specifically at 20:00
+  // (see revealFullResultsLayout), not during the 19:45 teaser, which
+  // shows only the countdown and the broadcast row and nothing else.
   const partyGridLabel = document.getElementById('partyGridLabel');
   const grid = document.getElementById('grid');
   const govformStrip = document.querySelector('.govform-strip');
+  const newsStrip = document.querySelector('.news-strip');
   if (partyGridLabel) partyGridLabel.style.display = 'none';
   if (grid) grid.style.display = 'none';
   if (govformStrip) govformStrip.style.display = 'none';
+  if (newsStrip) newsStrip.style.display = 'none';
 }
 
 function revealFullResultsLayout(){
@@ -3156,8 +3158,10 @@ function revealFullResultsLayout(){
   const partyGridLabel = document.getElementById('partyGridLabel');
   const grid = document.getElementById('grid');
   const govformStrip = document.querySelector('.govform-strip');
+  const newsStrip = document.querySelector('.news-strip');
   if (partyGridLabel) partyGridLabel.style.display = '';
   if (grid) grid.style.display = '';
+  if (newsStrip) newsStrip.style.display = '';
   if (govformStrip){
     govformStrip.style.display = '';
     if (partyGridLabel && partyGridLabel.parentNode){
