@@ -3126,6 +3126,12 @@ async function initResultsSection(){
   strip.style.display = 'block';
   document.body.classList.add('election-night-active');
   activateElectionNightLayout();
+  // renderLiveBanner() may have already run once before this class was
+  // added (it's called earlier in the page's synchronous init sequence,
+  // while this function is async) — call it again right here so it
+  // re-checks the class immediately, rather than waiting for its own
+  // 60-second interval to catch up.
+  renderLiveBanner();
 
   // "Läget just nu" and the party filter controls are pre-election
   // context that's redundant once live results take over the page.
