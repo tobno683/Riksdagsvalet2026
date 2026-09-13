@@ -912,8 +912,8 @@
           <div class="counted-track"><div class="counted-fill" id="countedFill"></div></div>
           <span class="counted-pct" id="countedPct">—</span>
           <span class="counted-caption" id="countedCaption"></span>
-          <span class="counted-caption" id="countedRegionCaption" style="display:none;"></span>
         </div>
+        <p class="counted-caption" id="countedRegionCaption" style="display:none; margin:-12px 0 18px;"></p>
 
         <div class="results-grid-3">
           <div class="results-col">
@@ -3055,7 +3055,7 @@ function selectResultsView(regionName){
     if (regionName && districts && districts.total > 0){
       const pct = (100 * districts.reported / districts.total).toFixed(0);
       regionCaptionEl.textContent = `${districts.reported.toLocaleString('sv-SE')} av ${districts.total.toLocaleString('sv-SE')} valdistrikt rapporterade i ${regionName} (${pct}%)`;
-      regionCaptionEl.style.display = 'inline';
+      regionCaptionEl.style.display = 'block';
     } else {
       regionCaptionEl.style.display = 'none';
       regionCaptionEl.textContent = '';
