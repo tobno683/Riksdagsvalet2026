@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T21:49:48.246186Z",
-  "counted_pct": 81.8,
+  "updated_at": "2026-09-13T21:51:20.593068Z",
+  "counted_pct": 81.9,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -54,7 +54,7 @@
       "SD": 18.6
     },
     "Jönköpings län": {
-      "M": 20.0,
+      "M": 20.1,
       "C": 7.1,
       "L": 4.7,
       "KD": 10.5,
@@ -129,7 +129,7 @@
       "L": 5.6,
       "KD": 6.8,
       "S": 27.5,
-      "V": 9.1,
+      "V": 9.0,
       "MP": 6.4,
       "SD": 18.0
     },
@@ -187,18 +187,18 @@
       "M": 16.4,
       "C": 7.0,
       "L": 3.8,
-      "KD": 7.3,
+      "KD": 7.2,
       "S": 35.0,
       "V": 6.3,
       "MP": 4.6,
       "SD": 19.7
     },
     "Jämtlands län": {
-      "M": 17.8,
-      "C": 10.7,
+      "M": 17.9,
+      "C": 10.6,
       "L": 3.7,
       "KD": 5.6,
-      "S": 32.0,
+      "S": 31.9,
       "V": 6.0,
       "MP": 6.8,
       "SD": 17.5
@@ -242,7 +242,7 @@
       "total": 300
     },
     "Jönköpings län": {
-      "reported": 177,
+      "reported": 178,
       "total": 215
     },
     "Kronobergs län": {
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 955,
+      "reported": 956,
       "total": 1134
     },
     "Värmlands län": {
@@ -290,19 +290,19 @@
       "total": 182
     },
     "Gävleborgs län": {
-      "reported": 132,
+      "reported": 133,
       "total": 162
     },
     "Västernorrlands län": {
-      "reported": 135,
+      "reported": 136,
       "total": 167
     },
     "Jämtlands län": {
-      "reported": 65,
+      "reported": 66,
       "total": 93
     },
     "Västerbottens län": {
-      "reported": 136,
+      "reported": 137,
       "total": 191
     },
     "Norrbottens län": {
