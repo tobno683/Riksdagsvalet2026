@@ -3052,6 +3052,29 @@ function buildSwedenHexMap(regions){
     });
   }
 
+  // Counted-progress mode: each län's remaining (uncounted) district
+  // count, compared to how much is left NATIONALLY - not each län's own
+  // local percentage counted. With most läns already mostly counted, raw
+  // per-län percentages all cluster near 100% and look nearly identical;
+  // showing each län's SHARE of the total remaining work instead makes
+  // the few läns where counting still lags stand out clearly, since
+  // that's what's actually useful to see.
+  let totalRemainingNational = 0;
+  let maxShare = 0;
+  const lanRemaining = {};
+  if (showCountedProgress){
+    Object.entries(lastRegionDistricts).forEach(([name, d]) => {
+      const remaining = Math.max(0, (d.total || 0) - (d.reported || 0));
+      lanRemaining[name] = remaining;
+      totalRemainingNational += remaining;
+    });
+    if (totalRemainingNational > 0){
+      Object.values(lanRemaining).forEach(r => {
+        maxShare = Math.max(maxShare, r / totalRemainingNational);
+      });
+    }
+  }
+
   Object.entries(REGION_PATHS).forEach(([name, d]) => {
     const data = regions[name];
     const hasData = !!data;
@@ -3059,19 +3082,15 @@ function buildSwedenHexMap(regions){
     let baseFill, opacity, tooltipExtra;
 
     if (showCountedProgress){
-      // Same white-to-color technique as party spread mode, but using the
-      // existing "Rösträkning" progress bar's own accent color, and
-      // scaled 0-100% directly (not min-max normalized against itself,
-      // since "% counted" already has a meaningful fixed 0-100 scale -
-      // unlike party support, where a party's own min/max range is what
-      // matters for showing contrast).
       const districts = lastRegionDistricts[name];
-      const pct = (districts && districts.total > 0) ? (100 * districts.reported / districts.total) : 0;
       const hasDistrictData = !!(districts && districts.total > 0);
-      const blendRatio = hasDistrictData ? (0.08 + 0.92 * (pct / 100)) : 0.04;
+      const remaining = lanRemaining[name] || 0;
+      const share = (hasDistrictData && totalRemainingNational > 0) ? remaining / totalRemainingNational : 0;
+      const blendRatio = hasDistrictData ? (0.08 + 0.92 * (maxShare > 0 ? share / maxShare : 0)) : 0.04;
       baseFill = blendWithWhite('#FF8B6B', blendRatio);
       opacity = 1;
-      tooltipExtra = hasDistrictData ? ` — ${pct.toFixed(0)}% räknat` : ' — väntar på data';
+      const sharePct = (share * 100).toFixed(0);
+      tooltipExtra = hasDistrictData ? ` — ${remaining} distrikt kvar (${sharePct}% av allt återstående)` : ' — väntar på data';
     } else if (spreadModeParty){
       const pct = (hasData && data[spreadModeParty] !== undefined) ? data[spreadModeParty] : 0;
       // White-to-color blend instead of opacity: keeps the map fully
