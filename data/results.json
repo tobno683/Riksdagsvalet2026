@@ -1,11 +1,11 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T22:46:44.994205Z",
-  "counted_pct": 88.0,
+  "updated_at": "2026-09-13T22:48:18.124619Z",
+  "counted_pct": 88.1,
   "national": {
     "M": 20.2,
     "C": 7.2,
-    "L": 5.4,
+    "L": 5.5,
     "KD": 6.3,
     "S": 28.5,
     "V": 8.3,
@@ -125,7 +125,7 @@
     },
     "Västra Götalands län": {
       "M": 19.8,
-      "C": 6.7,
+      "C": 6.8,
       "L": 5.6,
       "KD": 6.8,
       "S": 27.5,
@@ -164,9 +164,9 @@
       "SD": 21.0
     },
     "Dalarnas län": {
-      "M": 18.5,
+      "M": 18.6,
       "C": 6.6,
-      "L": 4.1,
+      "L": 4.0,
       "KD": 7.3,
       "S": 30.1,
       "V": 5.8,
@@ -226,7 +226,7 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1266,
+      "reported": 1268,
       "total": 1460
     },
     "Uppsala län": {
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 1008,
+      "reported": 1009,
       "total": 1134
     },
     "Värmlands län": {
@@ -286,7 +286,7 @@
       "total": 176
     },
     "Dalarnas län": {
-      "reported": 158,
+      "reported": 159,
       "total": 182
     },
     "Gävleborgs län": {
