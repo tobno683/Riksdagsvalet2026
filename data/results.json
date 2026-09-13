@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T22:40:25.829622Z",
-  "counted_pct": 87.5,
+  "updated_at": "2026-09-13T22:41:58.664622Z",
+  "counted_pct": 87.6,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -45,22 +45,22 @@
     },
     "Östergötlands län": {
       "M": 21.0,
-      "C": 6.9,
+      "C": 7.0,
       "L": 5.0,
-      "KD": 6.7,
+      "KD": 6.8,
       "S": 28.9,
       "V": 7.0,
       "MP": 5.7,
-      "SD": 18.7
+      "SD": 18.8
     },
     "Jönköpings län": {
       "M": 20.0,
-      "C": 7.2,
+      "C": 7.1,
       "L": 4.7,
       "KD": 10.5,
-      "S": 26.9,
+      "S": 27.0,
       "V": 5.9,
-      "MP": 3.8,
+      "MP": 3.7,
       "SD": 21.1
     },
     "Kronobergs län": {
@@ -238,11 +238,11 @@
       "total": 193
     },
     "Östergötlands län": {
-      "reported": 269,
+      "reported": 271,
       "total": 300
     },
     "Jönköpings län": {
-      "reported": 188,
+      "reported": 189,
       "total": 215
     },
     "Kronobergs län": {
@@ -262,7 +262,7 @@
       "total": 102
     },
     "Skåne län": {
-      "reported": 787,
+      "reported": 788,
       "total": 872
     },
     "Hallands län": {
