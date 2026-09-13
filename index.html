@@ -931,7 +931,7 @@
                 <option value="">Välj län…</option>
               </select>
             </div>
-            <p class="counted-caption" id="countedRegionCaption" style="display:none; margin:-6px 0 8px; font-size:10px; text-align:right;"></p>
+            <p class="counted-caption" id="countedRegionCaption" style="display:none; margin:6px 0 8px; font-size:10px; text-align:right;"></p>
             <div class="region-grid" id="regionGrid"></div>
           </div>
         </div>
@@ -3053,8 +3053,7 @@ function selectResultsView(regionName){
   if (regionCaptionEl){
     const districts = regionName ? lastRegionDistricts[regionName] : null;
     if (regionName && districts && districts.total > 0){
-      const pct = (100 * districts.reported / districts.total).toFixed(0);
-      regionCaptionEl.textContent = `${districts.reported.toLocaleString('sv-SE')} av ${districts.total.toLocaleString('sv-SE')} valdistrikt rapporterade i ${regionName} (${pct}%)`;
+      regionCaptionEl.textContent = `${districts.reported.toLocaleString('sv-SE')} av ${districts.total.toLocaleString('sv-SE')} valdistrikt`;
       regionCaptionEl.style.display = 'block';
     } else {
       regionCaptionEl.style.display = 'none';
