@@ -574,12 +574,14 @@
     font-family:'IBM Plex Mono',monospace; font-size:14px; color:var(--ink-soft);
     padding:30px; text-align:center; border:1px dashed var(--line); background:var(--card);
   }
-  .results-grid-3{display:grid; grid-template-columns:0.8fr 1.3fr 1fr; gap:24px; margin-bottom:24px;}
+  .results-grid-3{display:grid; grid-template-columns:0.8fr 1.6fr 0.75fr auto; gap:16px; margin-bottom:24px;}
   @media (max-width:980px){ .results-grid-3{grid-template-columns:1fr 1fr;} }
   @media (max-width:640px){ .results-grid-3{grid-template-columns:1fr;} }
   .results-grid-2{display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-bottom:20px;}
   @media (max-width:760px){ .results-grid-2{grid-template-columns:1fr;} }
-  .results-bar-row{display:flex; align-items:center; gap:10px; margin-bottom:8px;}
+  .results-bar-row{display:flex; align-items:center; gap:10px; margin-bottom:8px; padding:3px 4px; border-radius:4px; transition:background .15s ease;}
+  .results-bar-row:hover{background:var(--card);}
+  .results-bar-row.is-spread-active{background:var(--card); box-shadow:0 0 0 1.5px var(--focus);}
   .results-bar-label{
     width:34px; flex-shrink:0; font-family:'IBM Plex Mono',monospace; font-size:12px; font-weight:700; text-align:right;
   }
@@ -678,7 +680,7 @@
   .coalition-seats b{font-size:15px;}
 
   .region-grid{display:grid; grid-template-columns:repeat(auto-fill, minmax(160px, 1fr)); gap:10px;}
-  .region-map-wrap{max-width:230px; margin:0 -20px 0 auto;}
+  .region-map-wrap{max-width:230px; margin:0 10px 0 auto;}
   .region-map-note{
     font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--ink-soft); text-align:center;
     margin-top:10px; font-style:italic;
@@ -925,14 +927,19 @@
             <p class="hemicycle-caption">175 mandat krävs för majoritet</p>
           </div>
           <div class="results-col">
-            <div class="region-col-header">
-              <p class="compass-subhead" style="margin:0;">Resultat per län</p>
-              <select class="region-dropdown" id="regionDropdown">
-                <option value="">Välj län…</option>
-              </select>
+            <div style="max-width:230px; margin:0 10px 0 auto; position:relative; height:20px;">
+              <p class="compass-subhead" style="position:absolute; left:49.9%; transform:translateX(-50%); white-space:nowrap; margin:0;">Resultat per län</p>
             </div>
-            <p class="counted-caption" id="countedRegionCaption" style="margin:6px 0 8px; font-size:10px; text-align:right; min-height:13px;">&nbsp;</p>
             <div class="region-grid" id="regionGrid"></div>
+          </div>
+          <div class="results-col" style="min-width:130px;">
+            <select class="region-dropdown" id="regionDropdown" style="width:100%; margin-bottom:6px;">
+              <option value="">Välj län…</option>
+            </select>
+            <p class="counted-caption" id="countedRegionCaption" style="margin:0 0 14px; font-size:10px; text-align:left; min-height:13px;">&nbsp;</p>
+            <select class="region-dropdown" id="partySpreadDropdown" style="width:100%;">
+              <option value="">Välj parti</option>
+            </select>
           </div>
         </div>
 
@@ -2728,6 +2735,17 @@ function buildHemicycleSVG(seats, order){
   return svg;
 }
 
+// Shared by both ways to trigger spread mode (clicking a bar-chart row,
+// or the dedicated dropdown) - keeps them in sync regardless of which
+// one the user touches, and does all three re-renders needed either way.
+function setSpreadModeParty(pid, national){
+  spreadModeParty = (spreadModeParty === pid) ? null : pid; // toggle off if clicking/re-selecting the same one
+  renderResultsBarChart(national);
+  renderRegionGrid(lastRegionsResults);
+  const dropdown = document.getElementById('partySpreadDropdown');
+  if (dropdown) dropdown.value = spreadModeParty || '';
+}
+
 function renderResultsBarChart(national){
   const el = document.getElementById('resultsBarChart');
   if (!el) return;
@@ -2735,8 +2753,9 @@ function renderResultsBarChart(national){
   const sorted = Object.entries(national).sort((a, b) => b[1] - a[1]);
   el.innerHTML = sorted.map(([pid, pct]) => {
     const w = (pct / maxPct * 100).toFixed(1);
+    const isActive = spreadModeParty === pid;
     return `
-      <div class="results-bar-row">
+      <div class="results-bar-row ${isActive ? 'is-spread-active' : ''}" data-pid="${pid}" title="Klicka för att se ${pid}s spridning på kartan">
         <span class="results-bar-label" style="color:${partyColor(pid)}">${pid}</span>
         <div class="results-bar-track">
           <div class="results-bar-fill" style="width:${w}%; background:${partyColor(pid)};">
@@ -2745,6 +2764,20 @@ function renderResultsBarChart(national){
         </div>
       </div>`;
   }).join('');
+
+  el.querySelectorAll('.results-bar-row').forEach(row => {
+    row.addEventListener('click', () => setSpreadModeParty(row.dataset.pid, national));
+  });
+
+  // Populate/wire the party-spread dropdown here too, since this function
+  // already has the party list and re-runs whenever results update.
+  const dropdown = document.getElementById('partySpreadDropdown');
+  if (dropdown){
+    dropdown.innerHTML = `<option value="">Välj parti</option>` +
+      sorted.map(([pid]) => `<option value="${pid}">${pid}</option>`).join('');
+    dropdown.value = spreadModeParty || '';
+    dropdown.onchange = () => setSpreadModeParty(dropdown.value || null, national);
+  }
 }
 
 // --- Interactive coalition builder ---
@@ -2976,22 +3009,48 @@ const REGION_SHORT = {
   "Kronobergs län": "G", "Blekinge län": "K", "Skåne län": "M"
 };
 
+let spreadModeParty = null; // when set, the map shows this party's support intensity everywhere, instead of each län's winner
+
 function buildSwedenHexMap(regions){
   let svg = `<svg viewBox="${REGION_VIEWBOX}" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Mono, monospace">`;
+
+  // Spread mode: find this party's strongest län first, so opacity always
+  // scales meaningfully (0 -> that party's own best area), regardless of
+  // whether the party is generally strong or weak nationally.
+  let spreadMax = 0;
+  if (spreadModeParty){
+    Object.values(regions).forEach(data => {
+      if (data && data[spreadModeParty] !== undefined){
+        spreadMax = Math.max(spreadMax, data[spreadModeParty]);
+      }
+    });
+  }
 
   Object.entries(REGION_PATHS).forEach(([name, d]) => {
     const data = regions[name];
     const hasData = !!data;
-    const winner = hasData ? Object.entries(data).sort((a, b) => b[1] - a[1])[0][0] : null;
-    const baseFill = hasData ? partyColor(winner) : 'var(--card)';
     const isSelected = selectedRegion === name;
-    const isDimmed = selectedRegion && !isSelected;
+    let baseFill, opacity, tooltipExtra;
 
-    const opacity = isDimmed ? 0.28 : 1;
+    if (spreadModeParty){
+      const pct = (hasData && data[spreadModeParty] !== undefined) ? data[spreadModeParty] : 0;
+      baseFill = partyColor(spreadModeParty);
+      // 0.08 floor so even a län with 0% support still shows a faint
+      // outline of the country, rather than looking blank/missing.
+      opacity = hasData ? (0.08 + 0.92 * (spreadMax > 0 ? pct / spreadMax : 0)) : 0.05;
+      tooltipExtra = hasData ? ` — ${spreadModeParty} ${pct.toFixed(1)}%` : ' — väntar på data';
+    } else {
+      const winner = hasData ? Object.entries(data).sort((a, b) => b[1] - a[1])[0][0] : null;
+      baseFill = hasData ? partyColor(winner) : 'var(--card)';
+      const isDimmed = selectedRegion && !isSelected;
+      opacity = isDimmed ? 0.28 : 1;
+      tooltipExtra = winner ? ' — ' + winner + ' störst' : ' — väntar på data';
+    }
+
     const strokeWidth = isSelected ? 2 : 0.75;
     const stroke = isSelected ? '#FF8B6B' : 'var(--line)';
 
-    svg += `<path class="hex-region ${hasData ? 'hex-clickable' : 'hex-disabled'}" data-region="${name}" style="opacity:${opacity}; cursor:${hasData ? 'pointer' : 'default'};" d="${d}" fill="${baseFill}" stroke="${stroke}" stroke-width="${strokeWidth}" stroke-linejoin="round"><title>${name}${winner ? ' — ' + winner + ' störst' : ' — väntar på data'}</title></path>`;
+    svg += `<path class="hex-region ${hasData ? 'hex-clickable' : 'hex-disabled'}" data-region="${name}" style="opacity:${opacity}; cursor:${hasData ? 'pointer' : 'default'};" d="${d}" fill="${baseFill}" stroke="${stroke}" stroke-width="${strokeWidth}" stroke-linejoin="round"><title>${name}${tooltipExtra}</title></path>`;
   });
 
   svg += `</svg>`;
