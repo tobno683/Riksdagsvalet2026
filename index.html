@@ -3014,13 +3014,17 @@ let spreadModeParty = null; // when set, the map shows this party's support inte
 function buildSwedenHexMap(regions){
   let svg = `<svg viewBox="${REGION_VIEWBOX}" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Mono, monospace">`;
 
-  // Spread mode: find this party's strongest län first, so opacity always
-  // scales meaningfully (0 -> that party's own best area), regardless of
-  // whether the party is generally strong or weak nationally.
-  let spreadMax = 0;
+  // Spread mode: min-max normalize against THIS party's own weakest and
+  // strongest reporting län, so the full opacity range (near-transparent
+  // to fully opaque) always spans the party's actual spread - not just
+  // "how close to 0% is this county", which compresses the visible
+  // contrast when a party's whole range sits within a narrow band
+  // (e.g. 18-35% everywhere) rather than truly going from 0.
+  let spreadMin = Infinity, spreadMax = -Infinity;
   if (spreadModeParty){
     Object.values(regions).forEach(data => {
       if (data && data[spreadModeParty] !== undefined){
+        spreadMin = Math.min(spreadMin, data[spreadModeParty]);
         spreadMax = Math.max(spreadMax, data[spreadModeParty]);
       }
     });
@@ -3035,9 +3039,11 @@ function buildSwedenHexMap(regions){
     if (spreadModeParty){
       const pct = (hasData && data[spreadModeParty] !== undefined) ? data[spreadModeParty] : 0;
       baseFill = partyColor(spreadModeParty);
-      // 0.08 floor so even a län with 0% support still shows a faint
+      // 0.08 floor so even the party's weakest län still shows a faint
       // outline of the country, rather than looking blank/missing.
-      opacity = hasData ? (0.08 + 0.92 * (spreadMax > 0 ? pct / spreadMax : 0)) : 0.05;
+      const range = spreadMax - spreadMin;
+      const ratio = hasData && range > 0 ? (pct - spreadMin) / range : (hasData ? 1 : 0);
+      opacity = hasData ? (0.08 + 0.92 * ratio) : 0.05;
       tooltipExtra = hasData ? ` — ${spreadModeParty} ${pct.toFixed(1)}%` : ' — väntar på data';
     } else {
       const winner = hasData ? Object.entries(data).sort((a, b) => b[1] - a[1])[0][0] : null;
