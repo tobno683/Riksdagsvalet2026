@@ -1190,6 +1190,22 @@
 </div>
 
 <script>
+// Lets the real election-night logic below be tested against a fake
+// clock via ?simTime=2026-09-13T19:50:00+02:00 in the URL — without this,
+// there's no way to actually exercise the real countdown/teaser/results
+// transition code before the real moments happen tonight. Falls back to
+// the real current time whenever the parameter is absent or unparseable,
+// so this has zero effect on normal (non-simulated) visits.
+function getSimulatedNow(){
+  const params = new URLSearchParams(window.location.search);
+  const simTime = params.get('simTime');
+  if (simTime){
+    const parsed = new Date(simTime);
+    if (!isNaN(parsed.getTime())) return parsed;
+  }
+  return new Date();
+}
+
 // Short label shown on party cards/detail pages next to the poll number
 // (e.g. "sep. 2026"). Kept as a single shared variable, updated both here
 // (baked-in default) and by loadLivePollData() below when live data
@@ -2340,7 +2356,7 @@ function renderDebates(){
   const pastBtn = document.getElementById('debateExpandPast');
   const futureBtn = document.getElementById('debateExpandFuture');
   if (!el) return;
-  const now = new Date();
+  const now = getSimulatedNow();
 
   if (electionNightDebateMode){
     // Election night: show only whatever's live right now, collapse
@@ -2421,7 +2437,7 @@ function renderLiveBanner(){
     return;
   }
 
-  const now = new Date();
+  const now = getSimulatedNow();
 
   // find a debate that's live, or the soonest one starting within 2h
   const candidates = DEBATES
@@ -3041,7 +3057,7 @@ function activateElectionNightLayout(){
   debateStrip.style.display = 'none';
 
   const broadcasts = DEBATES.filter(d => d.title.includes('🗳️'));
-  const now = new Date();
+  const now = getSimulatedNow();
   topWrap.innerHTML = `<div class="broadcast-row">${broadcasts.map(b => {
     const status = getDebateStatus(b, now);
     const isLive = status === 'live';
@@ -3067,7 +3083,7 @@ function initDaysCountdown(){
   if (!banner || !numberEl || !labelEl) return;
 
   const electionDay = new Date('2026-09-13T00:00:00');
-  const now = new Date();
+  const now = getSimulatedNow();
   const todayMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const diffDays = Math.round((electionDay - todayMidnight) / (1000 * 60 * 60 * 24));
 
@@ -3110,7 +3126,7 @@ function initElectionDayCountdown(){
   const previewStartedAt = Date.now();
 
   function tick(){
-    const now = new Date();
+    const now = getSimulatedNow();
     const inWindow = now >= dayStart && now < dayEnd;
     if (!isPreview && !inWindow){
       el.style.display = 'none';
@@ -3216,23 +3232,45 @@ function revealFullResultsLayout(){
 // same as at 20:00, just without the results section itself appearing
 // yet. Uses its own ?preview=teaser flag, distinct from ?preview=results,
 // so the two preview states can't both fire at once and fight each other.
-function initPreResultsTeaser(){
+// Note: the previous one-shot initPreResultsTeaser() was replaced by
+// checkElectionNightPhase() below (called on an interval, not just once)
+// — its logic now lives there directly.
+
+// initPreResultsTeaser() and initResultsSection() only ever checked the
+// time ONCE, at page load — meaning a tab left open from, say, 19:30
+// would never transition into the teaser at 19:45 or into full results
+// at 20:00 on its own; it would just sit there until someone manually
+// reloaded it. This wrapper re-checks periodically instead, so an
+// already-open page transitions on its own at the right moments.
+//
+// electionNightPhase tracks which phase has already been applied, so the
+// heavier one-time setup inside initResultsSection() (which fetches
+// results.json and starts its own 2-minute polling loop) only ever runs
+// once per phase change — not on every 5-second recheck.
+let electionNightPhase = 'none'; // 'none' | 'teaser' | 'full'
+
+function checkElectionNightPhase(){
   const params = new URLSearchParams(window.location.search);
-  if (params.get('preview') === 'results') return; // full-results preview takes priority
-  // Both ?preview=teaser and ?preview=countdown show this same reduced
-  // layout — countdown specifically also runs its own fast demo timer
-  // (see initElectionDayCountdown), but the surrounding page should look
-  // exactly like the real 19:45–20:00 window either way, not just the
-  // countdown banner floating alone with everything else still showing.
   const previewParam = params.get('preview');
-  const isPreviewTeaser = previewParam === 'teaser' || previewParam === 'countdown';
+  const now = getSimulatedNow();
   const teaserStart = new Date('2026-09-13T17:45:00Z'); // 19:45 CEST
   const fullActivation = new Date('2026-09-13T18:00:00Z'); // 20:00 CEST
-  const now = new Date();
-  const shouldShowTeaser = isPreviewTeaser || (now >= teaserStart && now < fullActivation);
-  if (!shouldShowTeaser) return;
 
-  hideNonEssentialContentForElectionNight();
+  let targetPhase = 'none';
+  if (previewParam === 'results' || now >= fullActivation){
+    targetPhase = 'full';
+  } else if (previewParam === 'teaser' || previewParam === 'countdown' || (now >= teaserStart && now < fullActivation)){
+    targetPhase = 'teaser';
+  }
+
+  if (targetPhase === electionNightPhase) return; // no change since the last check
+  electionNightPhase = targetPhase;
+
+  if (targetPhase === 'teaser'){
+    hideNonEssentialContentForElectionNight();
+  } else if (targetPhase === 'full'){
+    initResultsSection(); // its own one-time setup: reveal, fetch real data, start 2-min polling
+  }
 }
 
 async function initResultsSection(){
@@ -3242,7 +3280,7 @@ async function initResultsSection(){
   const params = new URLSearchParams(window.location.search);
   const isPreview = params.get('preview') === 'results';
   const target = new Date('2026-09-13T18:00:00Z'); // 20:00 CEST on election day
-  const shouldShow = isPreview || new Date() >= target;
+  const shouldShow = isPreview || getSimulatedNow() >= target;
   if (!shouldShow) return; // stays in its normal position — default state before election day
 
   strip.style.display = 'block';
@@ -3436,8 +3474,12 @@ initChatWidget();
 initBuilderPresets();
 initDaysCountdown();
 initElectionDayCountdown();
-initPreResultsTeaser();
-initResultsSection();
+// Runs the check immediately (so a page loaded fresh after any of the
+// thresholds shows the right state right away), then every 5 seconds —
+// so a tab left open across 19:45 or 20:00 transitions on its own
+// without needing a manual reload.
+checkElectionNightPhase();
+setInterval(checkElectionNightPhase, 5000);
 loadLivePollData();
 
 function initChatWidget(){
