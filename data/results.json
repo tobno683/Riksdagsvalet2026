@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T22:59:25.833418Z",
+  "updated_at": "2026-09-13T23:01:00.928586Z",
   "counted_pct": 89.0,
   "national": {
     "M": 20.2,
@@ -226,7 +226,7 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1291,
+      "reported": 1292,
       "total": 1460
     },
     "Uppsala län": {
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 1014,
+      "reported": 1015,
       "total": 1134
     },
     "Värmlands län": {
