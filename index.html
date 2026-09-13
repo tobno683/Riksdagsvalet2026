@@ -3164,6 +3164,19 @@ async function initResultsSection(){
     renderResultsContent(nationalPreview, regionsPreview, 47); // demo counted% for preview only
   }
 
+  if (!gotRealData && !isPreview){
+    // Real election night, but data/results.json isn't ready yet (or the
+    // scraper hasn't found any counted districts). Show every party at
+    // 0% through the same real chart/hemicycle UI real results use,
+    // rather than a plain "waiting" text message — so the page reads as
+    // "counting hasn't started yet" rather than looking broken or empty.
+    // The moment loadRealResults() succeeds (checked again below, and
+    // every 2 minutes after), this gets replaced by genuine numbers.
+    const nationalZero = {};
+    PARTIES.forEach(p => nationalZero[p.id] = 0);
+    renderResultsContent(nationalZero, {}, 0);
+  }
+
   if (!isPreview){
     // Keep checking for fresh results every 2 minutes on election night.
     setInterval(loadRealResults, 2 * 60 * 1000);
