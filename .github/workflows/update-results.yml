@@ -1,0 +1,100 @@
+name: Update election-night results
+
+# This is deliberately different from update-polls.yml and update-news.yml,
+# which are simple "run once on a schedule" workflows. Election results
+# need much tighter polling than GitHub Actions cron reliably supports on
+# its own (cron here has practical real-world latency well beyond its
+# stated interval, especially the closer you get to a 5-minute minimum).
+# So instead this workflow starts ONE job a little before polls close and
+# has it loop internally — checking for fresh results and committing
+# roughly every 90 seconds — for up to 6 hours, rather than relying on
+# many separately-scheduled runs.
+
+on:
+  schedule:
+    # 17:55 UTC = 19:55 CEST on election day (13 Sep 2026), 5 minutes
+    # before polling stations close at 20:00 CEST. Cron only supports a
+    # fixed date/time, not "this specific date" — the job itself checks
+    # the date and exits immediately if run on any other day, so this
+    # schedule is safe to leave in place after the election without
+    # doing anything on future Sundays.
+    - cron: '55 17 13 9 *'
+  workflow_dispatch:
+    # Manual trigger — the safety net if the scheduled run doesn't fire,
+    # or to keep it going past its automatic 6-hour cutoff. Also how
+    # this gets tested ahead of time against real infrastructure (the
+    # actual 2026 result files don't exist before election night itself,
+    # but this at least confirms the workflow runs, authenticates, and
+    # commits correctly against a "no districts counted yet" response).
+
+permissions:
+  contents: write
+
+jobs:
+  poll-results:
+    runs-on: ubuntu-latest
+    timeout-minutes: 370  # ~6 hours plus a little slack over the loop's own 6h budget
+    steps:
+      - name: Check this is actually election day
+        id: gate
+        run: |
+          TODAY=$(date -u +%Y-%m-%d)
+          if [ "$TODAY" != "2026-09-13" ] && [ "${{ github.event_name }}" == "schedule" ]; then
+            echo "Not election day (today is $TODAY) — skipping scheduled run."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        if: steps.gate.outputs.skip != 'true'
+        run: pip install requests
+
+      - name: Poll for results every ~90 seconds for up to 6 hours
+        if: steps.gate.outputs.skip != 'true'
+        env:
+          TZ: UTC
+        run: |
+          git config user.name "election-results-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          END=$((SECONDS + 6*3600))
+          ITERATION=0
+          while [ $SECONDS -lt $END ]; do
+            ITERATION=$((ITERATION + 1))
+            echo "=== poll #$ITERATION at $(date -u +%H:%M:%S) UTC ==="
+
+            python scripts/update_results.py
+
+            if ! git diff --quiet -- data/results.json; then
+              git add data/results.json
+              git commit -m "Election results update (poll #$ITERATION, $(date -u +%H:%M:%S) UTC)"
+              # Rebase-pull first in case another push landed in between
+              # (shouldn't happen with a single workflow instance, but
+              # cheap insurance) and retry the push once on conflict.
+              # Bare push/pull (no explicit remote/branch) to match the
+              # same pattern as update-polls.yml / update-news.yml and
+              # avoid assuming this repo's default branch is named
+              # "main" specifically.
+              git pull --rebase || true
+              git push || {
+                echo "::warning::Push failed this cycle, will retry next poll."
+              }
+            else
+              echo "No change in data/results.json this cycle."
+            fi
+
+            sleep 90
+          done
+
+          echo "Reached the 6-hour polling window, exiting. Re-run manually (workflow_dispatch) if counting is still ongoing and updates are still needed."
