@@ -328,6 +328,27 @@
   /* ---------- Bloc comparison strip ---------- */
   .bloc-strip{margin:28px 0 10px;}
   .debate-strip{margin:56px 0 48px;}
+  .broadcast-row{
+    display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:12px;
+    max-width:1080px; margin:0 auto; padding:0 28px 32px;
+  }
+  .broadcast-card{
+    background:var(--card); border:1px solid var(--line); border-radius:8px;
+    padding:16px 18px; display:flex; flex-direction:column; gap:8px; text-decoration:none; color:inherit;
+    transition:border-color .15s ease;
+  }
+  .broadcast-card:hover{border-color:var(--focus);}
+  .broadcast-live-tag{
+    display:inline-flex; align-items:center; gap:5px; width:fit-content;
+    font-family:'IBM Plex Mono',monospace; font-size:10.5px; font-weight:700; text-transform:uppercase;
+    letter-spacing:.04em; color:#fff; background:#c0392b; padding:2px 8px; border-radius:100px;
+  }
+  .broadcast-live-tag .dot{width:6px; height:6px; border-radius:50%; background:#fff; animation:pulse 1.6s infinite;}
+  .broadcast-title{font-weight:600; font-size:14.5px; line-height:1.35;}
+  .broadcast-host{font-size:12px; color:var(--ink-soft); line-height:1.5;}
+  @media (max-width:640px){
+    .broadcast-row{grid-template-columns:1fr; padding:0 20px 24px;}
+  }
 
   /* Topic spectrum chart — compact */
   .topics-strip{margin:56px 0 10px;}
@@ -2984,25 +3005,34 @@ async function loadRealResults(){
 }
 
 function activateElectionNightLayout(){
-  // Move the debate strip into the dedicated top container — but only
-  // called once the election-day trigger has actually fired, never by
-  // default. resultsStrip itself doesn't need to move: it's already
-  // positioned right after #topWrap in the HTML, and it has its own wider
-  // max-width so the charts get more room than the rest of the page.
+  // On election night there are essentially no "upcoming" debates left
+  // to show — the whole debate-feed UI (waiting/expand-behind-a-button
+  // logic) is built for the pre-election period, not for tonight. So
+  // rather than moving debateStrip into topWrap, this hides it entirely
+  // and replaces it with a simple horizontal row of the valvaka
+  // broadcasts (SVT/TV4/SR) — all of which are genuinely live or about
+  // to be by the time this activates, tagged directly from DEBATES
+  // (matched by the 🗳️ marker already on those three specific entries).
   const topWrap = document.getElementById('topWrap');
   const debateStrip = document.getElementById('debateStrip');
   const resultsStrip = document.getElementById('resultsStrip');
   if (!topWrap || !debateStrip || !resultsStrip) return;
 
-  topWrap.appendChild(debateStrip);
+  debateStrip.style.display = 'none';
 
-  const debateNote = document.getElementById('debateNoteText');
-  if (debateNote) debateNote.style.display = 'none';
-
-  // Switch the debate list into "live-only" mode: show whatever's
-  // currently live, collapse everything else behind one expand button.
-  electionNightDebateMode = true;
-  renderDebates();
+  const broadcasts = DEBATES.filter(d => d.title.includes('🗳️'));
+  const now = new Date();
+  topWrap.innerHTML = `<div class="broadcast-row">${broadcasts.map(b => {
+    const status = getDebateStatus(b, now);
+    const isLive = status === 'live';
+    return `
+      <a class="broadcast-card" href="${b.url}" target="_blank" rel="noopener">
+        ${isLive ? '<span class="broadcast-live-tag"><span class="dot"></span>Sänds nu</span>' : ''}
+        <span class="broadcast-title">${b.title}</span>
+        <span class="broadcast-host">${b.host}</span>
+      </a>
+    `;
+  }).join('')}</div>`;
 }
 
 // Big "X dagar kvar" banner at the very top of the page, visible from now
