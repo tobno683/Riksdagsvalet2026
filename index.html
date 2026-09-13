@@ -940,6 +940,10 @@
             <select class="region-dropdown" id="partySpreadDropdown" style="width:100%;">
               <option value="">Välj parti</option>
             </select>
+            <label style="display:flex; align-items:center; gap:6px; margin-top:14px; font-size:11px; color:var(--ink-soft); cursor:pointer;">
+              <input type="checkbox" id="countedProgressToggle">
+              Visa räknade distrikt
+            </label>
           </div>
         </div>
 
@@ -2752,6 +2756,11 @@ function buildHemicycleSVG(seats, order){
 // one the user touches, and does all three re-renders needed either way.
 function setSpreadModeParty(pid, national){
   spreadModeParty = (spreadModeParty === pid) ? null : pid; // toggle off if clicking/re-selecting the same one
+  if (spreadModeParty){
+    showCountedProgress = false; // mutually exclusive map modes
+    const toggle = document.getElementById('countedProgressToggle');
+    if (toggle) toggle.checked = false;
+  }
   renderResultsBarChart(national);
   renderRegionGrid(lastRegionsResults);
   const dropdown = document.getElementById('partySpreadDropdown');
@@ -3022,6 +3031,7 @@ const REGION_SHORT = {
 };
 
 let spreadModeParty = null; // when set, the map shows this party's support intensity everywhere, instead of each län's winner
+let showCountedProgress = false; // when true, the map shows % of districts counted per län instead of party data
 
 function buildSwedenHexMap(regions){
   let svg = `<svg viewBox="${REGION_VIEWBOX}" width="100%" height="auto" xmlns="http://www.w3.org/2000/svg" font-family="IBM Plex Mono, monospace">`;
@@ -3048,7 +3058,21 @@ function buildSwedenHexMap(regions){
     const isSelected = selectedRegion === name;
     let baseFill, opacity, tooltipExtra;
 
-    if (spreadModeParty){
+    if (showCountedProgress){
+      // Same white-to-color technique as party spread mode, but using the
+      // existing "Rösträkning" progress bar's own accent color, and
+      // scaled 0-100% directly (not min-max normalized against itself,
+      // since "% counted" already has a meaningful fixed 0-100 scale -
+      // unlike party support, where a party's own min/max range is what
+      // matters for showing contrast).
+      const districts = lastRegionDistricts[name];
+      const pct = (districts && districts.total > 0) ? (100 * districts.reported / districts.total) : 0;
+      const hasDistrictData = !!(districts && districts.total > 0);
+      const blendRatio = hasDistrictData ? (0.08 + 0.92 * (pct / 100)) : 0.04;
+      baseFill = blendWithWhite('#FF8B6B', blendRatio);
+      opacity = 1;
+      tooltipExtra = hasDistrictData ? ` — ${pct.toFixed(0)}% räknat` : ' — väntar på data';
+    } else if (spreadModeParty){
       const pct = (hasData && data[spreadModeParty] !== undefined) ? data[spreadModeParty] : 0;
       // White-to-color blend instead of opacity: keeps the map fully
       // opaque throughout (no fading into the dark background, which is
@@ -3616,6 +3640,20 @@ initElectionDayCountdown();
 // thresholds shows the right state right away), then every 5 seconds —
 // so a tab left open across 19:45 or 20:00 transitions on its own
 // without needing a manual reload.
+const countedProgressToggle = document.getElementById('countedProgressToggle');
+if (countedProgressToggle){
+  countedProgressToggle.addEventListener('change', () => {
+    showCountedProgress = countedProgressToggle.checked;
+    if (showCountedProgress){
+      spreadModeParty = null; // mutually exclusive map modes
+      const partyDropdown = document.getElementById('partySpreadDropdown');
+      if (partyDropdown) partyDropdown.value = '';
+      if (lastNationalResults) renderResultsBarChart(lastNationalResults); // clear the active-row highlight too
+    }
+    renderRegionGrid(lastRegionsResults);
+  });
+}
+
 checkElectionNightPhase();
 setInterval(checkElectionNightPhase, 5000);
 loadLivePollData();
