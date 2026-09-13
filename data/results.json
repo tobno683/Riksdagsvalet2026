@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T23:36:00.098571Z",
-  "counted_pct": 91.0,
+  "updated_at": "2026-09-13T23:37:35.199535Z",
+  "counted_pct": 91.1,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -26,7 +26,7 @@
     "Uppsala län": {
       "M": 18.8,
       "C": 7.9,
-      "L": 5.0,
+      "L": 5.1,
       "KD": 6.9,
       "S": 27.3,
       "V": 9.4,
@@ -56,12 +56,12 @@
     "Jönköpings län": {
       "M": 19.9,
       "C": 7.1,
-      "L": 4.7,
+      "L": 4.6,
       "KD": 10.5,
       "S": 27.1,
       "V": 6.0,
-      "MP": 3.7,
-      "SD": 21.1
+      "MP": 3.8,
+      "SD": 21.0
     },
     "Kronobergs län": {
       "M": 20.4,
@@ -230,7 +230,7 @@
       "total": 1460
     },
     "Uppsala län": {
-      "reported": 221,
+      "reported": 222,
       "total": 243
     },
     "Södermanlands län": {
@@ -242,7 +242,7 @@
       "total": 300
     },
     "Jönköpings län": {
-      "reported": 192,
+      "reported": 193,
       "total": 215
     },
     "Kronobergs län": {
@@ -262,7 +262,7 @@
       "total": 102
     },
     "Skåne län": {
-      "reported": 803,
+      "reported": 804,
       "total": 872
     },
     "Hallands län": {
