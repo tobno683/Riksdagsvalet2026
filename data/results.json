@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T19:14:59.781447Z",
+  "updated_at": "2026-09-13T19:15:43.897781Z",
   "counted_pct": 1.2,
   "national": {
     "M": 18.8,
@@ -212,6 +212,92 @@
       "V": 3.3,
       "MP": 3.8,
       "SD": 24.7
+    }
+  },
+  "region_districts": {
+    "Stockholms län": {
+      "reported": 12,
+      "total": 1460
+    },
+    "Uppsala län": {
+      "reported": 2,
+      "total": 243
+    },
+    "Södermanlands län": {
+      "reported": 2,
+      "total": 193
+    },
+    "Östergötlands län": {
+      "reported": 1,
+      "total": 300
+    },
+    "Jönköpings län": {
+      "reported": 4,
+      "total": 215
+    },
+    "Kronobergs län": {
+      "reported": 0,
+      "total": 127
+    },
+    "Kalmar län": {
+      "reported": 12,
+      "total": 175
+    },
+    "Gotlands län": {
+      "reported": 1,
+      "total": 41
+    },
+    "Blekinge län": {
+      "reported": 1,
+      "total": 102
+    },
+    "Skåne län": {
+      "reported": 7,
+      "total": 872
+    },
+    "Hallands län": {
+      "reported": 3,
+      "total": 211
+    },
+    "Västra Götalands län": {
+      "reported": 7,
+      "total": 1134
+    },
+    "Värmlands län": {
+      "reported": 5,
+      "total": 194
+    },
+    "Örebro län": {
+      "reported": 1,
+      "total": 217
+    },
+    "Västmanlands län": {
+      "reported": 2,
+      "total": 176
+    },
+    "Dalarnas län": {
+      "reported": 1,
+      "total": 182
+    },
+    "Gävleborgs län": {
+      "reported": 1,
+      "total": 162
+    },
+    "Västernorrlands län": {
+      "reported": 5,
+      "total": 167
+    },
+    "Jämtlands län": {
+      "reported": 2,
+      "total": 93
+    },
+    "Västerbottens län": {
+      "reported": 4,
+      "total": 191
+    },
+    "Norrbottens län": {
+      "reported": 5,
+      "total": 171
     }
   }
 }
