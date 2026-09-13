@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T01:18:11.789842Z",
+  "updated_at": "2026-09-13T06:22:10.776477Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,95 @@
   ],
   "news": [
     {
+      "title": "Rekordmånga har förtidsröstat",
+      "link": "https://www.sverigesradio.se/artikel/9298753",
+      "description": "Rekordmånga har förtidsröstat inför dagens val, enligt Valmyndigheten. Det handlar om drygt 3,6 miljoner personer hittills. Samtidigt säger Anna Nyqvist, kanslichef på Valmyndigheten, att det är för tidigt att säga vad siffran betyder för det totala valdeltagandet.",
+      "pubDate": "2026-09-13T05:45:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Experter: Därför syns inte Helldén i spurten",
+      "link": "https://www.expressen.se/nyheter/politik/experter-darfor-syns-inte-hellden-i-spurten/",
+      "description": "Fram med Amanda Lind, bort med Daniel Helldén.&nbsp; I valrörelsens slutspurt väljer Miljöpartiet att lyfta fram sitt kvinnliga språkrör.&nbsp; – Man gör som alla andra och toppar laget, säger Andreas Johansson Heinö, doktor i statsvetenskap och förläggare på Timbro.&nbsp;",
+      "pubDate": "2026-09-13T05:31:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Anderssons hot mot  V: Alternativet är SD",
+      "link": "https://www.expressen.se/nyheter/politik/anderssons-hot-mot--v-alternativet-ar-sd/",
+      "description": "Magdalena Andersson lovar att bilda regering utan inflytande av ”extrema krafter”. Och hon ökar nu pressen på Vänsterpartiet i regeringsfrågan. – Givet vad alternativet är så borde det finnas ett visst intresse av att komma överens, säger S-ledaren.",
+      "pubDate": "2026-09-13T04:43:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: En valrörelse som ägdes av det minsta partiet",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-en-valrorelse-som-agdes-av-det-minsta-partiet/",
+      "description": "Mot alla odds har Liberalerna lyckats dominera valrörelsen 2026. Trots att partiet försvagats av splittring, ideologiska U-svängar och förskingrat förtroende, har Simona Mohamsson fått det mesta att handla om det egna partiets ödeskamp. Även om det dröjer till kvällen innan vi har ett valresultat kan en förlorare skönjas redan nu: Opinionsmätningarna.",
+      "pubDate": "2026-09-13T04:07:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Kan dröja innan en vinnare utses – utlandsröster påverkar",
+      "link": "https://www.sverigesradio.se/artikel/9296857",
+      "description": "När vallokalerna stänger vid åtta på söndagskvällen börjar rösträkningen. Ett preliminärt resultat väntas samma kväll. Men vid jämnt resultat kan det dröja till onsdag innan en vinnare utses, då sent inkomna förtids- och utlandsröster räknas. Onsdagsräkningen i valet 2018 flyttade exempelvis tre riksdagsmandat mellan partierna.",
+      "pubDate": "2026-09-13T03:52:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Liberale nestorn Hadar Cars äldst av riksdagskandidaterna",
+      "link": "https://www.sverigesradio.se/artikel/9298384",
+      "description": "Den mångårige liberale politikern Hadar Cars, född 1933 är den äldste av alla som kandiderar till riksdagen i årets val. Han har bland många, tunga uppdrag varit EU-parlamentariker och anser att Liberalerna borde ha drivit euro-frågan i valet. Han är starkt kritisk till Liberalernas vägval att kunna samarbeta och sitta i regering med Sverigedemokraterna, men har ändå valt att stå på riksdagslistan, om än på sista plats.",
+      "pubDate": "2026-09-13T03:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "”När dammet lagt sig är det läge att gräva ner stridsyxan”",
+      "link": "https://www.svt.se/nyheter/inrikes/nar-dammet-lagt-sig-ar-det-lage-att-grava-ner-stridsyxan",
+      "description": "Valrörelsen har stundtals haft ett högt tonläge med hårda angrepp och hätska attacker. Jimmie Åkesson har angripit både Ebba Busch och Liberalerna. Ebba Busch har i sin tur attackerat både Moderaterna och Sverigedemokraterna. På den rödgröna sidan har Centerpartiet och Vänsterpartiet bråkat, Magdalena Andersson har mer eller mindre uttryckligt underkänt V som regeringsparti. Men när väljarna har lagt sin röst kan det vara läge att gräva ner stridsyxan.",
+      "pubDate": "2026-09-13T03:37:17Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "V",
+        "C",
+        "KD",
+        "L"
+      ]
+    },
+    {
       "title": "Håkan Juholt (S) om partiledarna: ”För mycket tramsande”",
       "link": "https://www.svt.se/nyheter/inrikes/hakan-juholt-s-om-partiledarna-for-mycket-tramsande",
       "description": "Socialdemokraternas före detta partiledare Håkan Juholt (S) är kritisk till hur partiledarna beter sig på sociala medier i valrörelsen. Enligt honom är det för mycket trams. – Uppträd mer vuxet, säger han i Skavlan & Sverige – uppesittarkväll.",
@@ -107,7 +196,7 @@
     {
       "title": "Regeringsfrågan fick det att bränna till i slutduellen",
       "link": "https://www.dn.se/sverige/regeringsfragan-fick-det-att-branna-till-i-slutduellen/",
-      "description": "Statsminister Ulf Kristersson, M, kallar sitt regeringsalternativ är ”kristallklart”, trots frågetecken om SD-ministrar, och S-ledaren Magdalena Andersson vill inte avslöja vilken partiledare hon ringer först vid en valvinst. I sista statsministerduellen i TV4 hettade det återigen till om regeringsfrågan.",
+      "description": "Statsminister Ulf Kristersson, M, kallar sitt regeringsalternativ ”kristallklart”, trots frågetecken om SD-ministrar, och S-ledaren Magdalena Andersson vill inte avslöja vilken partiledare hon ringer först vid en valvinst. I sista statsministerduellen i TV4 hettade det återigen till om regeringsfrågan.",
       "pubDate": "2026-09-12T20:26:18Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -145,71 +234,6 @@
       ]
     },
     {
-      "title": "Så var TV4:s statsministerduell – ämne för ämne",
-      "link": "https://www.expressen.se/nyheter/politik/sa-var-tv4s-statsministerduell-amne-for-amne/",
-      "description": "Ekonomi, kriminalitet, Sverige 2024 och regeringsfrågan var ämnena i TV4:s statsministerduell. &nbsp; Missade du den? Så här var duellen – ämne för ämne. Osäker inför valet? Gör Expressens valkompass!",
-      "pubDate": "2026-09-12T19:37:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Bråk om klimatet: ”Är bäst i hela EU”",
-      "link": "https://www.expressen.se/nyheter/politik/brak-om-klimatet-ar-bast-i-hela-eu/",
-      "description": "Det hettade till när Ulf Kristersson (M) och Magdalena Andersson (S) debatterade klimatet i TV4:s statsministerduell. – Ett haveri, sa Andersson om regeringens klimatpolitik. – Systematisk svartmålning, svarade Kristersson.",
-      "pubDate": "2026-09-12T19:29:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ebba Busch och Simona Mohamsson serverar öl på bar",
-      "link": "https://www.expressen.se/nyheter/politik/ebba-busch-och-simona-mohamsson-serverar-ol-pa-bar/",
-      "description": "Lördag kväll och Simona Mohamsson (L) och Ebba Busch (KD) är kungar i baren. – Såklart jag vill slutspurta med&nbsp;Simona, säger Ebba Busch som hivar ölsejdlar med Mohamsson på en fullsatt bar i centrala Stockholm.",
-      "pubDate": "2026-09-12T18:57:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD",
-        "L"
-      ]
-    },
-    {
-      "title": "Jonas Attenius (S) hotad i Göteborg",
-      "link": "https://www.expressen.se/nyheter/politik/jonas-attenius-s-hotad-i-goteborg/",
-      "description": "Jonas Attenius, socialdemokratisk kommunstyrelseordförande i Göteborg har utsatts för ett misstänkt olaga hot, rapporterar Göteborgs-Posten . – Han skriker ”din jävla landsförrädare”, säger Attenius till GP. Nu får SD-toppen Richard Jomshof kritik för att tidigare under dagen ha kallat Attenius kampanjarbete ”landsförräderi i sin renaste form”.",
-      "pubDate": "2026-09-12T18:37:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Stora oron i Vänsterpartiet – flera krismöten",
-      "link": "https://www.expressen.se/nyheter/politik/stora-oron-i-vansterpartiet-flera-krismoten/",
-      "description": "Vänsterpartiets ledning har suttit i möten flera gånger under lördagen. Internt är oron utbredd för att man ska tappa till S och C sista dygnet. –&nbsp;För oss är det viktigt att bli större än Centerpartiet, säger Maria Forsberg, partisekreterare.",
-      "pubDate": "2026-09-12T18:21:03Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Magdalena Anderssons löfte: ”Kommer aldrig låta mig styras av extrema krafter”",
       "link": "https://www.svt.se/nyheter/inrikes/magdalena-anderssons-lofte-kommer-aldrig-lata-mig-styras-av-extrema-krafter",
       "description": "S-ledaren Magdalena Andersson lovar att aldrig låta sig ”styras av extrema krafter” om hon blir statsminister. – Vänsterpartiet har en resa kvar att göra, men jag är ju väldigt tydlig, jag kommer inte låta mig styras av extrema krafter, det är ett löfte till svenska folket.",
@@ -221,18 +245,6 @@
         "S",
         "V",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Magnus Ranstorp om nya V-avslöjandena: ”Extremt olämpligt”",
-      "link": "https://www.expressen.se/nyheter/sverige/magnus-ranstorp-om-nya-v-avslojandena-extremt-olampligt/",
-      "description": "Terrorexperten Magnus Ranstorp har just börjat med regeringens utredning av politisk islam. Från New York följer han nu de nya avslöjandena om Vänsterpartiet. – Det finns en invävd terrorromantik där – och Vänsterpartiet har inte tagit det på allvar, säger han.&nbsp;",
-      "pubDate": "2026-09-12T17:35:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -259,23 +271,34 @@
         "S",
         "M"
       ]
-    },
-    {
-      "title": "Amanda Linds (MP) oro med ett dygn kvar: ”Är lite rädda”",
-      "link": "https://www.svt.se/nyheter/inrikes/amanda-linds-mp-oro-med-ett-dygn-kvar-ar-lite-radda",
-      "description": "Miljöpartiet backar i flera mätningar i valspurten. Språkröret Amanda Lind pekar ut Centerpartiet och Vänsterpartiet som en orsak. – I den här taktiska striden så kanske vi har fallit bort lite.",
-      "pubDate": "2026-09-12T16:14:11Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "MP"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "En jobbpolitik för vanligt folk",
+      "link": "https://blog.zaramis.se/2026/09/13/en-jobbpolitik-for-vanligt-folk/",
+      "description": "Sveriges arbetslöshet är skyhög samtidigt som stora investeringar behövs. Industrin måste ställa om, fler billiga hyresrätter byggas och järnvägen rustas upp. I stället för att skapa jobb väljer Tidöregeringen att straffa människor för att de blivit arbetslösa, genom sänkt a-kassa och sänkta bidrag. Vänsterpartiet vill se en regering som investerar i klimat, bostäder och ett hållbart energisystem. Läs mer … Inlägget En jobbpolitik för vanligt folk dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-13T05:22:47Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Sex partier och det Muslimska brödraskapet – For Dummies",
+      "link": "https://ledarsidorna.se/sex-partier-och-det-muslimska-brodraskapet-for-dummies/",
+      "description": "Under sommaren och början av hösten har Ledarsidorna kunnat publicera en bild av hur sex av riksdagens åtta partier, på olika sätt och under olika decennier, bidragit till att etablera Muslimska brödraskapets nätverk i Sverige. Endast två partier, Liberalerna och Sverigedemokraterna, har kunnat stå utanför Brödraskapets etableringssträvanden av sinsemellan olika skäl. I Liberalerna, som är [&#8230;]",
+      "pubDate": "2026-09-13T03:40:58Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
     {
       "title": "Kristerssons dröm om den brittiska aristokratin",
       "link": "https://www.dagensarena.se/opinion/kristerssons-drom-om-den-brittiska-aristokratin/",
@@ -428,30 +451,6 @@
       "topics": [
         "S",
         "C"
-      ]
-    },
-    {
-      "title": "Sopade under mattan",
-      "link": "https://ledarsidorna.se/sopade-under-mattan/",
-      "description": "I praktiken samtliga svenska riksdagspartier, med något undantag, har haft positiva och mer eller mindre långtgående relationer med radikal politisk islam på något sätt. Med samma motivbild. Moderaterna är ett parti som inte på något sätt är förskonade. I det partiet tog sig en medlem av det Muslimska brödraskapet ända fram till riksdagens försvarsutskott. Fyra [&#8230;]",
-      "pubDate": "2026-09-04T03:41:58Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Regeringsåren – Aktivismen och stödet till terror institutionaliseras",
-      "link": "https://ledarsidorna.se/regeringsaren-aktivismen-och-stodet-till-terror-institutionaliseras/",
-      "description": "Under regeringsåren 2014-2022 tar Miljöpartiet tydliga kliv in i politikens finrum genom att ingå i regeringen Löfvén. Under denna period formaliseras aktivismen i partiet som samtidigt mutar in biståndsområdet som sitt. Vilket gav en plattform för fortsatt internationell aktivism. Föreningen Charta 2008 bildades i mars 2008 mot terrorlagstiftning, med journalisten Gösta Hultén som en av [&#8230;]",
-      "pubDate": "2026-09-02T03:32:57Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
       ]
     }
   ],
