@@ -701,6 +701,13 @@
   }
   .live-debate-title{font-family:'Fraunces',serif; font-weight:600; font-size:17px; color:#fff;}
   .live-debate-host{font-size:12.5px; color:#fff; opacity:0.85;}
+  .live-debate-multi{display:flex; flex-direction:column; gap:10px; width:100%;}
+  .live-debate-item{
+    display:flex; align-items:center; justify-content:space-between; gap:14px; flex-wrap:wrap;
+    padding-top:8px; border-top:1px solid rgba(255,255,255,0.2);
+  }
+  .live-debate-item:first-child{padding-top:0; border-top:none;}
+  .live-debate-item .live-debate-title{font-size:15px;}
   .live-debate-link{
     font-family:'IBM Plex Sans',sans-serif; font-size:13px; font-weight:700;
     background:#fff; color:var(--ink); padding:9px 18px; border-radius:100px;
@@ -969,7 +976,7 @@
       </div>
     </div>
 
-    <div class="debate-strip" id="debateStrip">
+    <div class="debate-strip" id="debateStrip" style="display:none;">
       <p class="section-label">Debattflöde — se debatterna gratis</p>
       <p class="note" id="debateNoteText" style="margin-bottom:18px; max-width:640px;">Visar debatter från senaste veckan och kommande vecka. Samtliga går att se helt utan betalvägg — SVT och Sveriges Radio är avgiftsfri public service, och TV4 sänder sina partiledardebatter fritt på tv4.se/TV4 Play. Där en arrangör (t.ex. en tidning) också skriver betalartiklar om debatten anges det separat — själva sändningen är ändå fri att titta på.</p>
       <button class="debate-expand-btn" id="debateExpandPast" style="display:none;"></button>
@@ -2293,21 +2300,21 @@ const DEBATES = [
     linkText: "Se på TV4 Play"
   },
   {
-    start: "2026-09-13T18:00:00", end: "2026-09-14T01:00:00", label: "13 sep, kl. 18.00–sent", approxTime: true,
+    start: "2026-09-13T16:00:00Z", end: "2026-09-13T23:00:00Z", label: "13 sep, kl. 18.00–sent", approxTime: true,
     title: "🗳️ SVT:s stora Valvaka",
     host: "SVT — följer rösträkningen minut för minut, med Anders Holmberg, Camilla Kvartoft och Fouad Youcefi. Sänder från kl. 18.00 och långt in på natten (exakt sluttid ej angiven).",
     url: "https://www.svtplay.se/val-2026-valvakan",
     linkText: "Se på SVT Play"
   },
   {
-    start: "2026-09-13T19:30:00", end: "2026-09-14T01:00:00", label: "13 sep, kl. 19.30–01.00",
+    start: "2026-09-13T17:30:00Z", end: "2026-09-13T23:00:00Z", label: "13 sep, kl. 19.30–01.00",
     title: "🗳️ TV4:s Valvaka",
     host: "TV4 — med Jenny Strömstedt och Martin Järborg. Valdagsundersökningen (exit poll) presenteras kl. 19.45.",
     url: "https://www.tv4play.se/",
     linkText: "Se på TV4 Play"
   },
   {
-    start: "2026-09-13T19:00:00", end: "2026-09-14T08:00:00", label: "13 sep kväll–14 sep morgon", approxTime: true,
+    start: "2026-09-13T17:00:00Z", end: "2026-09-14T06:00:00Z", label: "13 sep kväll–14 sep morgon", approxTime: true,
     title: "🗳️ Valvaka i P1 + Valvakna i P1 Morgon",
     host: "Sveriges Radio — valvaka i P1 på kvällen 13 sep, följt av resultaträkning och analyser i Valvakna i P1 Morgon 14 sep med Pia Fridén och Mikael Kulle.",
     url: "https://www.sverigesradio.se/amne/val-2026",
@@ -2439,32 +2446,52 @@ function renderLiveBanner(){
 
   const now = getSimulatedNow();
 
-  // find a debate that's live, or the soonest one starting within 2h
-  const candidates = DEBATES
+  // Find debates/broadcasts that are live right now, or (if none are
+  // live yet) the soonest one starting within 2h.
+  const withStatus = DEBATES
     .map(d => ({ d, status: getDebateStatus(d, now) }))
-    .filter(x => x.status === "live" || x.status === "soon")
     .sort((a,b) => new Date(a.d.start) - new Date(b.d.start));
 
-  if (candidates.length === 0){
+  const liveOnes = withStatus.filter(x => x.status === "live");
+  const soonOnes = withStatus.filter(x => x.status === "soon");
+
+  if (liveOnes.length === 0 && soonOnes.length === 0){
     el.style.display = "none";
     el.innerHTML = "";
     return;
   }
 
-  const { d, status } = candidates[0];
+  el.style.display = "block";
+
+  if (liveOnes.length > 0){
+    // When several broadcasts are live at once (e.g. all three valvakor
+    // between 19:30–20:00), name all of them here instead of picking just
+    // the earliest-starting one — otherwise this banner would misleadingly
+    // suggest only one thing is happening.
+    el.className = "live-debate-banner is-live";
+    const items = liveOnes.map(({d}) => `
+      <div class="live-debate-item">
+        <span class="live-debate-title">${d.title}</span>
+        <a class="live-debate-link" href="${d.url}" target="_blank" rel="noopener">${d.linkText} ↗</a>
+      </div>
+    `).join('');
+    el.innerHTML = `
+      <div class="live-debate-inner">
+        <span class="live-debate-tag">🔴 Sänds nu</span>
+        <div class="live-debate-multi">${items}</div>
+      </div>
+    `;
+    return;
+  }
+
+  const { d } = soonOnes[0];
   const start = new Date(d.start);
   const timeStr = start.toLocaleTimeString('sv-SE', {hour:'2-digit', minute:'2-digit'});
-
-  const headline = status === "live"
-    ? "🔴 Sänds nu"
-    : "Snart: sänds kl. " + timeStr;
-
-  el.style.display = "block";
-  el.className = "live-debate-banner " + (status === "live" ? "is-live" : "is-soon");
+  el.className = "live-debate-banner is-soon";
   el.innerHTML = `
     <div class="live-debate-inner">
       <div class="live-debate-text">
-        <span class="live-debate-tag">${headline}</span>
+        <span class="live-debate-tag">Snart: sänds kl. ${timeStr}</span>
         <span class="live-debate-title">${d.title}</span>
         <span class="live-debate-host">${d.host}</span>
       </div>
