@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T21:10:16.438804Z",
-  "counted_pct": 72.6,
+  "updated_at": "2026-09-13T21:11:51.750181Z",
+  "counted_pct": 73.2,
   "national": {
     "M": 20.1,
     "C": 7.2,
@@ -19,29 +19,29 @@
       "L": 7.2,
       "KD": 4.8,
       "S": 26.2,
-      "V": 10.6,
-      "MP": 8.9,
-      "SD": 11.4
+      "V": 10.5,
+      "MP": 8.8,
+      "SD": 11.5
     },
     "Uppsala län": {
       "M": 18.9,
       "C": 8.0,
       "L": 5.1,
       "KD": 7.0,
-      "S": 26.9,
-      "V": 9.2,
-      "MP": 8.8,
+      "S": 27.1,
+      "V": 9.3,
+      "MP": 8.6,
       "SD": 16.1
     },
     "Södermanlands län": {
       "M": 19.9,
-      "C": 5.7,
+      "C": 5.8,
       "L": 4.6,
       "KD": 5.9,
-      "S": 31.3,
-      "V": 7.3,
-      "MP": 4.8,
-      "SD": 20.5
+      "S": 31.2,
+      "V": 7.2,
+      "MP": 4.9,
+      "SD": 20.4
     },
     "Östergötlands län": {
       "M": 20.9,
@@ -69,18 +69,18 @@
       "L": 4.6,
       "KD": 8.3,
       "S": 27.8,
-      "V": 7.1,
+      "V": 7.2,
       "MP": 4.5,
       "SD": 20.7
     },
     "Kalmar län": {
       "M": 18.9,
-      "C": 6.6,
+      "C": 6.7,
       "L": 4.3,
       "KD": 9.0,
       "S": 29.3,
       "V": 5.5,
-      "MP": 4.0,
+      "MP": 4.1,
       "SD": 22.3
     },
     "Gotlands län": {
@@ -96,9 +96,9 @@
     "Blekinge län": {
       "M": 18.2,
       "C": 5.5,
-      "L": 4.9,
+      "L": 4.8,
       "KD": 7.6,
-      "S": 28.3,
+      "S": 28.4,
       "V": 5.8,
       "MP": 3.7,
       "SD": 26.1
@@ -111,7 +111,7 @@
       "S": 25.2,
       "V": 8.9,
       "MP": 6.3,
-      "SD": 21.7
+      "SD": 21.6
     },
     "Hallands län": {
       "M": 23.5,
@@ -125,7 +125,7 @@
     },
     "Västra Götalands län": {
       "M": 19.8,
-      "C": 6.7,
+      "C": 6.8,
       "L": 5.6,
       "KD": 6.8,
       "S": 27.4,
@@ -147,21 +147,21 @@
       "M": 18.8,
       "C": 6.3,
       "L": 4.9,
-      "KD": 6.9,
-      "S": 31.3,
+      "KD": 6.8,
+      "S": 31.4,
       "V": 7.6,
       "MP": 5.2,
       "SD": 19.1
     },
     "Västmanlands län": {
-      "M": 19.7,
+      "M": 20.0,
       "C": 5.4,
       "L": 5.2,
       "KD": 5.7,
-      "S": 31.3,
-      "V": 8.0,
-      "MP": 3.8,
-      "SD": 20.9
+      "S": 31.1,
+      "V": 7.9,
+      "MP": 3.9,
+      "SD": 20.7
     },
     "Dalarnas län": {
       "M": 18.5,
@@ -179,19 +179,19 @@
       "L": 4.1,
       "KD": 6.3,
       "S": 32.2,
-      "V": 6.6,
+      "V": 6.7,
       "MP": 4.3,
-      "SD": 22.2
+      "SD": 22.1
     },
     "Västernorrlands län": {
       "M": 16.4,
       "C": 7.1,
       "L": 3.8,
-      "KD": 7.5,
-      "S": 34.9,
+      "KD": 7.4,
+      "S": 34.8,
       "V": 6.0,
       "MP": 4.5,
-      "SD": 19.8
+      "SD": 19.9
     },
     "Jämtlands län": {
       "M": 17.8,
@@ -226,15 +226,15 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1000,
+      "reported": 1011,
       "total": 1460
     },
     "Uppsala län": {
-      "reported": 160,
+      "reported": 164,
       "total": 243
     },
     "Södermanlands län": {
-      "reported": 155,
+      "reported": 156,
       "total": 193
     },
     "Östergötlands län": {
@@ -246,11 +246,11 @@
       "total": 215
     },
     "Kronobergs län": {
-      "reported": 90,
+      "reported": 93,
       "total": 127
     },
     "Kalmar län": {
-      "reported": 132,
+      "reported": 134,
       "total": 175
     },
     "Gotlands län": {
@@ -258,11 +258,11 @@
       "total": 41
     },
     "Blekinge län": {
-      "reported": 71,
+      "reported": 72,
       "total": 102
     },
     "Skåne län": {
-      "reported": 677,
+      "reported": 680,
       "total": 872
     },
     "Hallands län": {
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 862,
+      "reported": 871,
       "total": 1134
     },
     "Värmlands län": {
@@ -278,11 +278,11 @@
       "total": 194
     },
     "Örebro län": {
-      "reported": 158,
+      "reported": 159,
       "total": 217
     },
     "Västmanlands län": {
-      "reported": 118,
+      "reported": 122,
       "total": 176
     },
     "Dalarnas län": {
@@ -290,11 +290,11 @@
       "total": 182
     },
     "Gävleborgs län": {
-      "reported": 120,
+      "reported": 125,
       "total": 162
     },
     "Västernorrlands län": {
-      "reported": 123,
+      "reported": 124,
       "total": 167
     },
     "Jämtlands län": {
