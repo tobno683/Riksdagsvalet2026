@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T23:05:46.848672Z",
+  "updated_at": "2026-09-13T23:07:22.401686Z",
   "counted_pct": 89.4,
   "national": {
     "M": 20.2,
@@ -75,13 +75,13 @@
     },
     "Kalmar län": {
       "M": 18.8,
-      "C": 6.5,
+      "C": 6.6,
       "L": 4.3,
       "KD": 8.6,
       "S": 29.6,
       "V": 6.0,
       "MP": 4.1,
-      "SD": 22.0
+      "SD": 21.9
     },
     "Gotlands län": {
       "M": 18.5,
@@ -125,7 +125,7 @@
     },
     "Västra Götalands län": {
       "M": 19.8,
-      "C": 6.7,
+      "C": 6.8,
       "L": 5.6,
       "KD": 6.8,
       "S": 27.5,
@@ -211,7 +211,7 @@
       "S": 37.8,
       "V": 9.2,
       "MP": 7.5,
-      "SD": 12.8
+      "SD": 12.9
     },
     "Norrbottens län": {
       "M": 16.6,
@@ -250,7 +250,7 @@
       "total": 127
     },
     "Kalmar län": {
-      "reported": 153,
+      "reported": 154,
       "total": 175
     },
     "Gotlands län": {
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 1016,
+      "reported": 1018,
       "total": 1134
     },
     "Värmlands län": {
@@ -302,7 +302,7 @@
       "total": 93
     },
     "Västerbottens län": {
-      "reported": 158,
+      "reported": 159,
       "total": 191
     },
     "Norrbottens län": {
