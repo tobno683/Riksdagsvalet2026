@@ -2869,7 +2869,7 @@ function renderCountedProgress(countedPct){
     captionEl.textContent = 'Väntar på data om rösträkningens status.';
     return;
   }
-  const TOTAL_DISTRICTS = 6900; // approx. number of Swedish voting districts (valdistrikt)
+  const TOTAL_DISTRICTS = 6312; // confirmed exact figure, per Valmyndighetens own documentation
   const districtsReported = Math.round(TOTAL_DISTRICTS * countedPct / 100);
   pctEl.textContent = countedPct.toFixed(0) + '%';
   fillEl.style.width = countedPct + '%';
@@ -3263,20 +3263,24 @@ async function initResultsSection(){
   const gotRealData = await loadRealResults();
 
   if (!gotRealData && isPreview){
-    // results.json isn't ready yet — fall back to a fully generated demo
-    // (current polling numbers + illustrative regional leans) purely so
-    // the preview view has something to show.
+    // results.json isn't ready yet — fall back to a generated demo so the
+    // preview view has something to show. Deliberately only a SUBSET of
+    // counties get a fake lean assigned here (matching the illustrative
+    // "47% counted" figure below reasonably well) — the rest are left
+    // out of regionsPreview entirely, so they correctly render as gray
+    // via buildSwedenHexMap's existing hasData check, the same way real
+    // not-yet-reported counties will. Giving every county a result here
+    // would make the map look fully counted even while the number next
+    // to it says 47%, which is exactly the mismatch that was reported.
     const nationalPreview = {};
     PARTIES.forEach(p => nationalPreview[p.id] = p.poll2026.pct);
 
     const REGION_DEMO_LEAN = {
       "Norrbottens län": ["S", 15], "Västerbottens län": ["S", 12], "Jämtlands län": ["S", 10],
       "Västernorrlands län": ["S", 12], "Gävleborgs län": ["S", 10], "Dalarnas län": ["S", 8],
-      "Uppsala län": ["MP", 8], "Värmlands län": ["S", 8], "Västmanlands län": ["S", 6],
-      "Stockholms län": ["M", 8], "Örebro län": ["S", 8], "Södermanlands län": ["S", 6],
-      "Västra Götalands län": ["M", 6], "Östergötlands län": ["S", 6], "Gotlands län": ["C", 8],
-      "Jönköpings län": ["KD", 10], "Kalmar län": ["S", 6], "Hallands län": ["M", 8],
-      "Kronobergs län": ["SD", 6], "Blekinge län": ["SD", 8], "Skåne län": ["SD", 10]
+      "Uppsala län": ["MP", 8], "Värmlands län": ["S", 8], "Gotlands län": ["C", 8]
+      // The remaining 12 counties are deliberately left out — they'll
+      // show as gray/"väntar på data", matching real partial-count state.
     };
     function makeDemoRegionalData(national, leaningParty, boost){
       const result = {};
