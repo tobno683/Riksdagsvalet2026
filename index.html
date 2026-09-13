@@ -931,7 +931,7 @@
                 <option value="">Välj län…</option>
               </select>
             </div>
-            <p class="counted-caption" id="countedRegionCaption" style="display:none; margin:6px 0 8px; font-size:10px; text-align:right;"></p>
+            <p class="counted-caption" id="countedRegionCaption" style="margin:6px 0 8px; font-size:10px; text-align:right; min-height:13px;">&nbsp;</p>
             <div class="region-grid" id="regionGrid"></div>
           </div>
         </div>
@@ -3049,15 +3049,16 @@ function selectResultsView(regionName){
 
   // Additive district-count line for the selected län specifically —
   // sits alongside the national counted-progress bar, doesn't replace it.
+  // Never toggles display:none/block - the element always occupies the
+  // same reserved space (min-height + a non-breaking space when empty),
+  // so selecting/deselecting a region doesn't shift the map below it.
   const regionCaptionEl = document.getElementById('countedRegionCaption');
   if (regionCaptionEl){
     const districts = regionName ? lastRegionDistricts[regionName] : null;
     if (regionName && districts && districts.total > 0){
       regionCaptionEl.textContent = `${districts.reported.toLocaleString('sv-SE')} av ${districts.total.toLocaleString('sv-SE')} valdistrikt`;
-      regionCaptionEl.style.display = 'block';
     } else {
-      regionCaptionEl.style.display = 'none';
-      regionCaptionEl.textContent = '';
+      regionCaptionEl.innerHTML = '&nbsp;';
     }
   }
 }
@@ -3406,8 +3407,12 @@ async function initResultsSection(){
   }
 
   if (!isPreview){
-    // Keep checking for fresh results every 2 minutes on election night.
-    setInterval(loadRealResults, 2 * 60 * 1000);
+    // Keep checking for fresh results every 90 seconds on election night -
+    // matches the backend scraper's own polling cadence. This is just a
+    // static-file fetch from Cloudflare's CDN, not a request to
+    // Valmyndigheten directly, so there's no rate-limit concern here the
+    // way there was for the backend - safe to poll this frequently.
+    setInterval(loadRealResults, 90 * 1000);
   }
 }
 
