@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T23:26:27.280543Z",
+  "updated_at": "2026-09-13T23:28:02.924780Z",
   "counted_pct": 90.6,
   "national": {
     "M": 20.2,
@@ -130,7 +130,7 @@
       "KD": 6.8,
       "S": 27.5,
       "V": 9.2,
-      "MP": 6.5,
+      "MP": 6.4,
       "SD": 17.8
     },
     "Värmlands län": {
@@ -262,7 +262,7 @@
       "total": 102
     },
     "Skåne län": {
-      "reported": 802,
+      "reported": 803,
       "total": 872
     },
     "Hallands län": {
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 1033,
+      "reported": 1034,
       "total": 1134
     },
     "Värmlands län": {
