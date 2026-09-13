@@ -2752,9 +2752,17 @@ let selectedParties = new Set();
 function renderBuilderToggles(seats){
   const el = document.getElementById('builderToggles');
   if (!el) return;
-  el.innerHTML = AGREEMENT_ORDER.filter(pid => seats[pid] > 0).map(pid => `
+  // Show every party as a toggle unconditionally, not just ones with
+  // seats > 0. A party can legitimately show 0 (below the 4% threshold,
+  // real and correct) - that's fine, it should still be clickable and
+  // just show 0. But if EVERY party has 0 (e.g. no real results have
+  // arrived yet, so the page is showing the all-zero waiting state),
+  // filtering by seats>0 would previously hide the whole toggle row
+  // entirely, which read as "the parties disappeared" rather than
+  // "waiting for real numbers."
+  el.innerHTML = AGREEMENT_ORDER.map(pid => `
     <button class="party-toggle ${selectedParties.has(pid) ? 'selected' : ''}" style="background:${partyColor(pid)}" data-pid="${pid}">
-      ${pid}<span class="seats-count">${seats[pid]}</span>
+      ${pid}<span class="seats-count">${seats[pid] || 0}</span>
     </button>
   `).join('');
   el.querySelectorAll('.party-toggle').forEach(btn => {
