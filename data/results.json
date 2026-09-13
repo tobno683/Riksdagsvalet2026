@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-13T21:56:06.672603Z",
-  "counted_pct": 82.5,
+  "updated_at": "2026-09-13T21:57:42.184403Z",
+  "counted_pct": 82.8,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -14,9 +14,9 @@
   },
   "regions": {
     "Stockholms län": {
-      "M": 22.1,
+      "M": 22.0,
       "C": 9.1,
-      "L": 7.2,
+      "L": 7.1,
       "KD": 4.9,
       "S": 26.2,
       "V": 10.2,
@@ -31,10 +31,10 @@
       "S": 27.2,
       "V": 9.4,
       "MP": 8.7,
-      "SD": 16.1
+      "SD": 16.0
     },
     "Södermanlands län": {
-      "M": 19.9,
+      "M": 20.0,
       "C": 5.7,
       "L": 4.6,
       "KD": 5.9,
@@ -54,14 +54,14 @@
       "SD": 18.7
     },
     "Jönköpings län": {
-      "M": 20.1,
+      "M": 20.0,
       "C": 7.1,
       "L": 4.7,
       "KD": 10.5,
       "S": 26.9,
       "V": 5.9,
       "MP": 3.8,
-      "SD": 21.1
+      "SD": 21.0
     },
     "Kronobergs län": {
       "M": 20.4,
@@ -75,11 +75,11 @@
     },
     "Kalmar län": {
       "M": 18.7,
-      "C": 6.6,
+      "C": 6.5,
       "L": 4.3,
-      "KD": 8.8,
-      "S": 29.5,
-      "V": 5.8,
+      "KD": 8.7,
+      "S": 29.6,
+      "V": 5.9,
       "MP": 4.0,
       "SD": 22.2
     },
@@ -114,14 +114,14 @@
       "SD": 21.6
     },
     "Hallands län": {
-      "M": 23.5,
-      "C": 7.8,
+      "M": 23.4,
+      "C": 7.7,
       "L": 5.9,
       "KD": 7.2,
-      "S": 26.0,
+      "S": 26.1,
       "V": 5.0,
       "MP": 4.3,
-      "SD": 20.3
+      "SD": 20.2
     },
     "Västra Götalands län": {
       "M": 19.9,
@@ -141,10 +141,10 @@
       "S": 31.7,
       "V": 5.7,
       "MP": 4.5,
-      "SD": 19.8
+      "SD": 19.7
     },
     "Örebro län": {
-      "M": 18.7,
+      "M": 18.6,
       "C": 6.1,
       "L": 4.7,
       "KD": 6.7,
@@ -164,11 +164,11 @@
       "SD": 20.9
     },
     "Dalarnas län": {
-      "M": 18.6,
+      "M": 18.7,
       "C": 6.6,
       "L": 4.1,
       "KD": 7.1,
-      "S": 30.4,
+      "S": 30.3,
       "V": 5.8,
       "MP": 4.8,
       "SD": 22.7
@@ -208,9 +208,9 @@
       "C": 7.4,
       "L": 3.6,
       "KD": 6.2,
-      "S": 37.7,
+      "S": 37.8,
       "V": 8.7,
-      "MP": 7.3,
+      "MP": 7.2,
       "SD": 13.2
     },
     "Norrbottens län": {
@@ -226,23 +226,23 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1163,
+      "reported": 1166,
       "total": 1460
     },
     "Uppsala län": {
-      "reported": 202,
+      "reported": 204,
       "total": 243
     },
     "Södermanlands län": {
-      "reported": 173,
+      "reported": 174,
       "total": 193
     },
     "Östergötlands län": {
-      "reported": 250,
+      "reported": 252,
       "total": 300
     },
     "Jönköpings län": {
-      "reported": 179,
+      "reported": 180,
       "total": 215
     },
     "Kronobergs län": {
@@ -250,7 +250,7 @@
       "total": 127
     },
     "Kalmar län": {
-      "reported": 148,
+      "reported": 149,
       "total": 175
     },
     "Gotlands län": {
@@ -266,19 +266,19 @@
       "total": 872
     },
     "Hallands län": {
-      "reported": 172,
+      "reported": 174,
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 958,
+      "reported": 960,
       "total": 1134
     },
     "Värmlands län": {
-      "reported": 170,
+      "reported": 171,
       "total": 194
     },
     "Örebro län": {
-      "reported": 183,
+      "reported": 184,
       "total": 217
     },
     "Västmanlands län": {
@@ -286,7 +286,7 @@
       "total": 176
     },
     "Dalarnas län": {
-      "reported": 138,
+      "reported": 139,
       "total": 182
     },
     "Gävleborgs län": {
@@ -294,7 +294,7 @@
       "total": 162
     },
     "Västernorrlands län": {
-      "reported": 138,
+      "reported": 139,
       "total": 167
     },
     "Jämtlands län": {
@@ -302,7 +302,7 @@
       "total": 93
     },
     "Västerbottens län": {
-      "reported": 140,
+      "reported": 141,
       "total": 191
     },
     "Norrbottens län": {
