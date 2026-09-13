@@ -177,11 +177,24 @@ def aggregate(data: dict):
     regional_counts = {}  # lan_name -> {party: count}
 
     for kommun in kommuner:
+        if not kommun:
+            continue  # defensive: skip any null entries in the kommuner array itself
         lankod = kommun.get("lankod")
         lan_name = LAN_NAMES.get(lankod)
-        rf = kommun.get("rostfordelning", {}).get("rosterPaverkaMandat", {})
-        parti_roster = rf.get("partiRoster", [])
+        # Defensive at every level: real data from an in-progress count
+        # apparently represents a not-yet-reported kommun as an explicit
+        # "rostfordelning": null rather than omitting the key or giving an
+        # empty object - dict.get(key, default) only falls back to
+        # default when the KEY is missing, not when it's present with a
+        # None value, so a plain chained .get().get() crashes on exactly
+        # this real-world shape. Checking for None explicitly at each
+        # step instead of trusting the default parameter avoids that.
+        rostfordelning = kommun.get("rostfordelning") or {}
+        roster_paverka_mandat = rostfordelning.get("rosterPaverkaMandat") or {}
+        parti_roster = roster_paverka_mandat.get("partiRoster") or []
         for p in parti_roster:
+            if not p:
+                continue
             party = p.get("partiforkortning")
             count = p.get("antalRoster")
             if not party or count is None:
