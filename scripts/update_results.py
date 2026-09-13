@@ -89,7 +89,15 @@ OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "results.jso
 INDEX_URL = "https://resultat.val.se/resultatfiler/val2026/index.md5"
 RESULTS_ROOT = "https://resultat.val.se/resultatfiler/val2026/"
 ZIP_NAME = "Val_2026_preliminar_00_RD.zip"
-JSON_NAME_IN_ZIP = "Val_2026_preliminar_summering_00_RD.json"
+JSON_NAME_IN_ZIP = "Val_2026_preliminar_summering_RD.json"
+# Confirmed directly from a live production zip's actual contents on
+# election night (13 Sep 2026) - this specific file omits the "_00_"
+# valområdeskod segment that the OTHER two files in the same zip
+# (rostfordelning, mandatfordelning) DO include, and that Valmyndighetens
+# own documentation's worked example showed for this file too. Real
+# behavior differs from the documented example for this one file - fixed
+# after seeing the exact zip contents in the scraper's own error log
+# rather than guessing.
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
