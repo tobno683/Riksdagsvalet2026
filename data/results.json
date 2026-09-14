@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T01:48:18.597327Z",
+  "updated_at": "2026-09-14T01:49:51.286213Z",
   "counted_pct": 94.1,
   "national": {
     "M": 20.2,
@@ -48,7 +48,7 @@
       "C": 6.9,
       "L": 5.0,
       "KD": 6.7,
-      "S": 29.0,
+      "S": 28.9,
       "V": 7.0,
       "MP": 5.7,
       "SD": 18.8
@@ -238,7 +238,7 @@
       "total": 193
     },
     "Östergötlands län": {
-      "reported": 283,
+      "reported": 284,
       "total": 300
     },
     "Jönköpings län": {
