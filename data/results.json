@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T01:12:46.029956Z",
+  "updated_at": "2026-09-14T01:14:18.553875Z",
   "counted_pct": 93.8,
   "national": {
     "M": 20.2,
@@ -306,7 +306,7 @@
       "total": 191
     },
     "Norrbottens län": {
-      "reported": 156,
+      "reported": 157,
       "total": 171
     }
   }
