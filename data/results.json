@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T01:40:33.970639Z",
+  "updated_at": "2026-09-14T01:42:06.515998Z",
   "counted_pct": 94.0,
   "national": {
     "M": 20.2,
@@ -21,7 +21,7 @@
       "S": 26.3,
       "V": 10.0,
       "MP": 8.1,
-      "SD": 12.3
+      "SD": 12.4
     },
     "Uppsala län": {
       "M": 18.8,
@@ -121,7 +121,7 @@
       "S": 26.1,
       "V": 5.3,
       "MP": 4.4,
-      "SD": 20.0
+      "SD": 19.9
     },
     "Västra Götalands län": {
       "M": 19.8,
@@ -226,7 +226,7 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1396,
+      "reported": 1397,
       "total": 1460
     },
     "Uppsala län": {
@@ -266,7 +266,7 @@
       "total": 872
     },
     "Hallands län": {
-      "reported": 203,
+      "reported": 204,
       "total": 211
     },
     "Västra Götalands län": {
