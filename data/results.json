@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T00:01:23.557338Z",
-  "counted_pct": 92.1,
+  "updated_at": "2026-09-14T00:02:56.389350Z",
+  "counted_pct": 92.2,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -97,7 +97,7 @@
       "M": 18.7,
       "C": 5.6,
       "L": 5.0,
-      "KD": 7.5,
+      "KD": 7.4,
       "S": 28.9,
       "V": 5.7,
       "MP": 3.8,
@@ -174,13 +174,13 @@
       "SD": 22.6
     },
     "Gävleborgs län": {
-      "M": 18.1,
-      "C": 6.2,
+      "M": 18.2,
+      "C": 6.3,
       "L": 4.1,
       "KD": 6.4,
       "S": 32.3,
       "V": 6.7,
-      "MP": 4.2,
+      "MP": 4.3,
       "SD": 21.9
     },
     "Västernorrlands län": {
@@ -258,11 +258,11 @@
       "total": 41
     },
     "Blekinge län": {
-      "reported": 93,
+      "reported": 94,
       "total": 102
     },
     "Skåne län": {
-      "reported": 809,
+      "reported": 811,
       "total": 872
     },
     "Hallands län": {
@@ -290,7 +290,7 @@
       "total": 182
     },
     "Gävleborgs län": {
-      "reported": 146,
+      "reported": 147,
       "total": 162
     },
     "Västernorrlands län": {
@@ -302,7 +302,7 @@
       "total": 93
     },
     "Västerbottens län": {
-      "reported": 166,
+      "reported": 167,
       "total": 191
     },
     "Norrbottens län": {
