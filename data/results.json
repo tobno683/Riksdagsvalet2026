@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T02:47:06.637519Z",
+  "updated_at": "2026-09-14T02:48:38.996837Z",
   "counted_pct": 94.6,
   "national": {
     "M": 20.2,
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 1077,
+      "reported": 1078,
       "total": 1134
     },
     "Värmlands län": {
