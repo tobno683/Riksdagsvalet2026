@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T05:41:42.188684Z",
+  "updated_at": "2026-09-14T08:05:16.436119Z",
   "counted_pct": 94.7,
   "national": {
     "M": 20.2,
@@ -27,9 +27,9 @@
       "M": 18.8,
       "C": 7.8,
       "L": 5.1,
-      "KD": 6.9,
+      "KD": 6.8,
       "S": 27.4,
-      "V": 9.5,
+      "V": 9.6,
       "MP": 8.4,
       "SD": 16.1
     },
@@ -230,7 +230,7 @@
       "total": 1460
     },
     "Uppsala län": {
-      "reported": 234,
+      "reported": 235,
       "total": 243
     },
     "Södermanlands län": {
