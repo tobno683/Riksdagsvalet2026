@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T01:15:51.177519Z",
+  "updated_at": "2026-09-14T01:17:24.077407Z",
   "counted_pct": 93.8,
   "national": {
     "M": 20.2,
@@ -226,7 +226,7 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1394,
+      "reported": 1395,
       "total": 1460
     },
     "Uppsala län": {
