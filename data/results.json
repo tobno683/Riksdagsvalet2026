@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T01:35:55.987419Z",
-  "counted_pct": 93.9,
+  "updated_at": "2026-09-14T01:37:28.727188Z",
+  "counted_pct": 94.0,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -38,7 +38,7 @@
       "C": 5.7,
       "L": 4.6,
       "KD": 5.9,
-      "S": 31.2,
+      "S": 31.1,
       "V": 7.3,
       "MP": 4.9,
       "SD": 20.6
@@ -108,9 +108,9 @@
       "C": 6.3,
       "L": 5.8,
       "KD": 5.3,
-      "S": 25.3,
-      "V": 8.9,
-      "MP": 6.3,
+      "S": 25.4,
+      "V": 9.0,
+      "MP": 6.2,
       "SD": 21.4
     },
     "Hallands län": {
@@ -234,7 +234,7 @@
       "total": 243
     },
     "Södermanlands län": {
-      "reported": 183,
+      "reported": 184,
       "total": 193
     },
     "Östergötlands län": {
@@ -262,7 +262,7 @@
       "total": 102
     },
     "Skåne län": {
-      "reported": 822,
+      "reported": 823,
       "total": 872
     },
     "Hallands län": {
