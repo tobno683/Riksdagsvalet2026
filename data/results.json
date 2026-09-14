@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T02:23:54.112860Z",
-  "counted_pct": 94.5,
+  "updated_at": "2026-09-14T02:25:26.137901Z",
+  "counted_pct": 94.6,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -106,7 +106,7 @@
     "Skåne län": {
       "M": 20.6,
       "C": 6.3,
-      "L": 5.8,
+      "L": 5.7,
       "KD": 5.3,
       "S": 25.4,
       "V": 9.1,
@@ -262,7 +262,7 @@
       "total": 102
     },
     "Skåne län": {
-      "reported": 833,
+      "reported": 834,
       "total": 872
     },
     "Hallands län": {
