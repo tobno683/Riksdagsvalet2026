@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T00:45:55.427301Z",
-  "counted_pct": 93.4,
+  "updated_at": "2026-09-14T00:47:30.543026Z",
+  "counted_pct": 93.5,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -58,10 +58,10 @@
       "C": 7.2,
       "L": 4.7,
       "KD": 10.5,
-      "S": 27.0,
+      "S": 27.1,
       "V": 5.9,
       "MP": 3.8,
-      "SD": 21.0
+      "SD": 20.9
     },
     "Kronobergs län": {
       "M": 20.4,
@@ -242,7 +242,7 @@
       "total": 300
     },
     "Jönköpings län": {
-      "reported": 198,
+      "reported": 200,
       "total": 215
     },
     "Kronobergs län": {
