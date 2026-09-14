@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T00:07:43.367007Z",
-  "counted_pct": 92.3,
+  "updated_at": "2026-09-14T00:09:18.986211Z",
+  "counted_pct": 92.4,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -206,11 +206,11 @@
     "Västerbottens län": {
       "M": 15.7,
       "C": 7.3,
-      "L": 3.5,
-      "KD": 6.1,
-      "S": 37.8,
+      "L": 3.6,
+      "KD": 6.0,
+      "S": 37.9,
       "V": 9.2,
-      "MP": 7.4,
+      "MP": 7.5,
       "SD": 12.9
     },
     "Norrbottens län": {
@@ -218,15 +218,15 @@
       "C": 5.2,
       "L": 3.4,
       "KD": 6.6,
-      "S": 38.5,
+      "S": 38.4,
       "V": 6.9,
-      "MP": 4.5,
+      "MP": 4.6,
       "SD": 18.4
     }
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1368,
+      "reported": 1369,
       "total": 1460
     },
     "Uppsala län": {
@@ -250,7 +250,7 @@
       "total": 127
     },
     "Kalmar län": {
-      "reported": 157,
+      "reported": 158,
       "total": 175
     },
     "Gotlands län": {
@@ -302,11 +302,11 @@
       "total": 93
     },
     "Västerbottens län": {
-      "reported": 167,
+      "reported": 168,
       "total": 191
     },
     "Norrbottens län": {
-      "reported": 153,
+      "reported": 154,
       "total": 171
     }
   }
