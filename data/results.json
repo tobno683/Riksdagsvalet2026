@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T01:57:33.771029Z",
+  "updated_at": "2026-09-14T01:59:06.406441Z",
   "counted_pct": 94.3,
   "national": {
     "M": 20.2,
@@ -10,7 +10,7 @@
     "S": 28.5,
     "V": 8.3,
     "MP": 6.2,
-    "SD": 17.9
+    "SD": 17.8
   },
   "regions": {
     "Stockholms län": {
@@ -111,7 +111,7 @@
       "S": 25.4,
       "V": 9.0,
       "MP": 6.2,
-      "SD": 21.4
+      "SD": 21.3
     },
     "Hallands län": {
       "M": 23.5,
@@ -262,7 +262,7 @@
       "total": 102
     },
     "Skåne län": {
-      "reported": 824,
+      "reported": 825,
       "total": 872
     },
     "Hallands län": {
