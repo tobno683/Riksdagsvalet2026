@@ -239,6 +239,26 @@ def write_results(national: dict, regions: dict, counted_pct, region_districts: 
         # completely unchanged. Only the new per-län caption reads this.
         "region_districts": region_districts,
     }
+
+    # Skip the write entirely when nothing but the timestamp would change.
+    # Without this, every poll rewrites updated_at even when the count has
+    # stalled (e.g. once election-night counting finishes and the
+    # preliminär file stops moving), producing a commit and a full
+    # Cloudflare Pages rebuild every 90 seconds for no actual new data -
+    # hundreds of wasted builds per day against a limited monthly quota.
+    # Real new numbers still write and commit immediately, as before.
+    if os.path.exists(OUTPUT_PATH):
+        try:
+            with open(OUTPUT_PATH, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+            comparable_keys = ("counted_pct", "national", "regions", "region_districts", "status")
+            unchanged = all(existing.get(k) == output.get(k) for k in comparable_keys)
+            if unchanged:
+                print("No change in the actual numbers since last poll - leaving data/results.json untouched (skipping a pointless commit/rebuild).")
+                return None
+        except Exception as exc:  # noqa: BLE001 - a corrupt/unreadable existing file shouldn't block a fresh write
+            print(f"Could not compare against existing results.json ({exc}) - writing anyway.")
+
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
@@ -252,8 +272,9 @@ def run_once() -> bool:
         zip_path = find_zip_relative_path(index_text)
         data = fetch_summering_json(zip_path)
         national, regions, counted_pct, region_districts = aggregate(data)
-        write_results(national, regions, counted_pct, region_districts)
-        print(f"Updated data/results.json — {counted_pct}% of districts counted. National: {national}")
+        written = write_results(national, regions, counted_pct, region_districts)
+        if written is not None:
+            print(f"Updated data/results.json — {counted_pct}% of districts counted. National: {national}")
         return True
     except Exception as exc:  # noqa: BLE001 - see module docstring: never crash, never write garbage
         print(f"::warning::Results fetch/parse failed this cycle, leaving data/results.json untouched: {exc}")
