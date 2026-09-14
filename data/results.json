@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T10:23:28.575879Z",
-  "counted_pct": 94.7,
+  "updated_at": "2026-09-14T10:28:10.117945Z",
+  "counted_pct": 94.8,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -157,7 +157,7 @@
       "M": 20.0,
       "C": 5.4,
       "L": 5.1,
-      "KD": 5.7,
+      "KD": 5.6,
       "S": 31.3,
       "V": 7.9,
       "MP": 3.8,
@@ -282,7 +282,7 @@
       "total": 217
     },
     "Västmanlands län": {
-      "reported": 157,
+      "reported": 158,
       "total": 176
     },
     "Dalarnas län": {
