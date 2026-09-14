@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T02:03:44.800253Z",
+  "updated_at": "2026-09-14T02:05:17.384122Z",
   "counted_pct": 94.3,
   "national": {
     "M": 20.2,
@@ -10,7 +10,7 @@
     "S": 28.5,
     "V": 8.3,
     "MP": 6.2,
-    "SD": 17.8
+    "SD": 17.9
   },
   "regions": {
     "Stockholms län": {
@@ -130,7 +130,7 @@
       "KD": 6.7,
       "S": 27.5,
       "V": 9.4,
-      "MP": 6.5,
+      "MP": 6.4,
       "SD": 17.7
     },
     "Värmlands län": {
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 1070,
+      "reported": 1071,
       "total": 1134
     },
     "Värmlands län": {
