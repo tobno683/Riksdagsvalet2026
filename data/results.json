@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T01:09:39.747914Z",
+  "updated_at": "2026-09-14T01:11:13.511918Z",
   "counted_pct": 93.8,
   "national": {
     "M": 20.2,
@@ -124,11 +124,11 @@
       "SD": 20.0
     },
     "Västra Götalands län": {
-      "M": 19.9,
+      "M": 19.8,
       "C": 6.8,
       "L": 5.6,
-      "KD": 6.8,
-      "S": 27.5,
+      "KD": 6.7,
+      "S": 27.6,
       "V": 9.3,
       "MP": 6.4,
       "SD": 17.7
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 1064,
+      "reported": 1065,
       "total": 1134
     },
     "Värmlands län": {
