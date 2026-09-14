@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T11:33:30.582054Z",
+  "updated_at": "2026-09-14T11:35:05.499907Z",
   "counted_pct": 94.9,
   "national": {
     "M": 20.2,
@@ -187,7 +187,7 @@
       "M": 16.5,
       "C": 7.0,
       "L": 3.8,
-      "KD": 7.1,
+      "KD": 7.2,
       "S": 35.0,
       "V": 6.4,
       "MP": 4.7,
@@ -294,7 +294,7 @@
       "total": 162
     },
     "Västernorrlands län": {
-      "reported": 157,
+      "reported": 158,
       "total": 167
     },
     "Jämtlands län": {
