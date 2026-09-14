@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T00:49:33.483470Z",
+  "updated_at": "2026-09-14T00:51:06.386279Z",
   "counted_pct": 93.5,
   "national": {
     "M": 20.2,
@@ -58,7 +58,7 @@
       "C": 7.2,
       "L": 4.7,
       "KD": 10.5,
-      "S": 27.1,
+      "S": 27.0,
       "V": 5.9,
       "MP": 3.8,
       "SD": 20.9
@@ -226,7 +226,7 @@
   },
   "region_districts": {
     "Stockholms län": {
-      "reported": 1389,
+      "reported": 1390,
       "total": 1460
     },
     "Uppsala län": {
@@ -242,7 +242,7 @@
       "total": 300
     },
     "Jönköpings län": {
-      "reported": 200,
+      "reported": 201,
       "total": 215
     },
     "Kronobergs län": {
