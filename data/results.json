@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T02:17:41.943525Z",
+  "updated_at": "2026-09-14T02:19:15.812148Z",
   "counted_pct": 94.5,
   "national": {
     "M": 20.2,
@@ -145,7 +145,7 @@
     },
     "Örebro län": {
       "M": 18.6,
-      "C": 6.0,
+      "C": 6.1,
       "L": 4.7,
       "KD": 6.6,
       "S": 32.0,
@@ -278,7 +278,7 @@
       "total": 194
     },
     "Örebro län": {
-      "reported": 203,
+      "reported": 204,
       "total": 217
     },
     "Västmanlands län": {
