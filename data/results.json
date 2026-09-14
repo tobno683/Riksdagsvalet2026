@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T02:06:51.964373Z",
-  "counted_pct": 94.3,
+  "updated_at": "2026-09-14T02:08:24.813621Z",
+  "counted_pct": 94.4,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -10,7 +10,7 @@
     "S": 28.5,
     "V": 8.3,
     "MP": 6.2,
-    "SD": 17.9
+    "SD": 17.8
   },
   "regions": {
     "Stockholms län": {
@@ -106,7 +106,7 @@
     "Skåne län": {
       "M": 20.7,
       "C": 6.3,
-      "L": 5.8,
+      "L": 5.7,
       "KD": 5.3,
       "S": 25.4,
       "V": 9.0,
@@ -262,7 +262,7 @@
       "total": 102
     },
     "Skåne län": {
-      "reported": 826,
+      "reported": 828,
       "total": 872
     },
     "Hallands län": {
@@ -302,7 +302,7 @@
       "total": 93
     },
     "Västerbottens län": {
-      "reported": 174,
+      "reported": 175,
       "total": 191
     },
     "Norrbottens län": {
