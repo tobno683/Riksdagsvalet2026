@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T21:11:26.480293Z",
+  "updated_at": "2026-09-14T06:31:04.225221Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,34 +79,48 @@
   ],
   "news": [
     {
-      "title": "Edholm (L): ”Kanske blir ett glas champagne”",
-      "link": "https://www.sverigesradio.se/artikel/9299153",
-      "description": "Lotta Edholm (L), gymnasie-, högskole- och forskningsminister var märkbart rörd efter att SVT:s vallokalundersökning presenterats, som visade på att hennes parti verkar klara riksdagsspärren. Hon hyllar nu partiledare Simona Mohamsson för uppsvinget under valspurten, som ser ut att ha räddat partiet kvar i riksdagen.",
-      "pubDate": "2026-09-13T21:01:00Z",
+      "title": "Valet 2026: Så röstade dina grannar",
+      "link": "https://www.svt.se/nyheter/inrikes/valet-2026-sa-rostade-dina-grannar",
+      "description": "Sök efter valresultatet där du bor i riksdagsvalet, regionvalet och kommunvalet.",
+      "pubDate": "2026-09-14T05:26:03Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Vinnarna och förlorarna: ”Rödgrönt övertag”",
+      "link": "https://www.sverigesradio.se/artikel/9299375",
+      "description": "Sverige vaknar upp till ett rödgrönt övertag, så säger Fredrik Furtenbach, Ekots inrikespolitiska kommentator, om läget i rösträkningen tidigt måndag morgon. Samtidigt ser Socialdemokraterna ut att göra sitt sämsta val sen allmän rösträtt infördes 1921. Tillsammans med Sverigedemokraterna, som ser ut at tappa tre procentenheter, är det valets förlorare enligt kommentatorn. ”Det här är det första riksdagsvalet som Sverigedemokraterna minskar. Nu minskar de rejält. Man vet inte exakt vad det beror på, men jag kan tänka mig att det delvis beror på sakfrågorna” säger Fredrik Furtenbach som ser två tydliga vinnare när 94 procent av rösterna är räknade.",
+      "pubDate": "2026-09-14T04:45:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "L"
+        "S",
+        "SD"
       ]
     },
     {
-      "title": "Deppigt hos S – går mot sitt sämsta val hittills",
-      "link": "https://www.expressen.se/nyheter/sverige/deppigt-hos-s-gar-mot-sitt-samsta-val-hittills-/",
-      "description": "Socialdemokraterna ser ut att gå mot sitt sämsta val någonsin.&nbsp; Stämningen på valvakan är nu dämpad och partiledaren syns inte till någonstans.&nbsp;",
-      "pubDate": "2026-09-13T20:32:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Valet blev en rysare med övervikt för de rödgröna",
+      "link": "https://www.sverigesradio.se/artikel/9299349",
+      "description": "Först på onsdag får vi ett säkrare valresultat, men som det nu ser ut får dom rödgröna 176 mandat mot Tidöpartiernas 173. Socialdemokraterna får 28,1 procent, Vänsterpartiet 8,2, Centerpartiet 7,1 och Miljöpartiet 6,1. För Socialdemokraterna är det det sämsta resultatet sedan den allmänna rösträtten infördes, men blocket är alltså störst eftersom de andra rödgröna partierna gjorde bra resultat.",
+      "pubDate": "2026-09-14T04:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S"
+        "S",
+        "V",
+        "C",
+        "MP"
       ]
     },
     {
-      "title": "Märkliga missen – M fick 0 procent",
-      "link": "https://www.expressen.se/nyheter/politik/markliga-resultatet-har-far-moderaterna-noll-procent-/",
-      "description": "Moderaterna såg ut att få noll röster i ett distrikt i Stockholm.&nbsp; Men resultatet åtgärdades under kvällen.&nbsp;",
-      "pubDate": "2026-09-13T20:27:43Z",
+      "title": "Kristerssons plan: Press på C och SD",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/kristerssons-plan-press-pa-c-och-sd/",
+      "description": "Oppositionen ser ut att bli störst – men Ulf Kristersson tänker inte ge upp. Moderaterna har planerat länge för just det här läget.",
+      "pubDate": "2026-09-14T04:30:51Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -115,92 +129,109 @@
       ]
     },
     {
-      "title": "Sahlin (S) : Chansen kommer inte sjabblas bort",
-      "link": "https://www.sverigesradio.se/artikel/9299127",
-      "description": "Efter SVT:s stora vallokalundersökning publicerades under söndagskvällen, så såg chanserna för en socialdemokratisk ledd regering goda ut. Tidigare partiledare för Socialdemokraterna, Mona Sahlin tror på en lösning i diskussionerna mellan oppositionspartierna, i en ny eventuell regering ledd av Magdalena Andersson (S).",
-      "pubDate": "2026-09-13T20:18:00Z",
+      "title": "Tidöblocket gick starkt framåt jämfört med mätningarna",
+      "link": "https://www.sverigesradio.se/artikel/9299335",
+      "description": "På Tidö-partiernas valvakor i natt firade särskilt Liberalerna. Partiet såg på måndagsmorgonen ut att hamna klart över fyraprocentsspärren med 5,4 procent av rösterna. Kristdemokraterna ser ut att få 6,2 procent. Sverigedemokraterna backar och får troligen 17,6 procent. Moderaterna får sannolikt 19,9 procent och blir största borgerliga parti. Ulf Kristersson, M, pekade på sin valvaka på hur svårt det blir för de rödgröna att bilda regering.",
+      "pubDate": "2026-09-14T04:25:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Siffrorna visar: Magdalena Andersson behåller troligtvis ledningen",
+      "link": "https://www.dn.se/sverige/siffrorna-visar-magdalena-andersson-behaller-troligtvis-ledningen/",
+      "description": "Efter nattens valrysare leder de rödgröna med bara 28 600 röster. Nu återstår sena förtidsröster och röster från utlandet. Statistik från tidigare år talar för att S-ledaren Magdalena Andersson behåller ledningen, enligt DN:s dataanalys.",
+      "pubDate": "2026-09-14T04:09:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
       ]
     },
     {
-      "title": "Furtenbach om SVT:s nya prognos: ”Osäkert hur träffsäker den är”",
-      "link": "https://www.sverigesradio.se/artikel/9299121",
-      "description": "SVT presenterade en ny prognos för riksdagsvalet under söndagskvällen. Prognosen visar att ett mandat skiljer mellan blocken. ”Känns som man inte vet vad man ska hålla sig till”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. ”Lite chockerande. Nu är det plötsligt jämnt igen,” säger Jan Teorell, professor i statsvetenskap vid Stockholms universitet.",
-      "pubDate": "2026-09-13T20:15:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Dött lopp mellan blocken i SVT:s prognos",
-      "link": "https://www.svt.se/nyheter/inrikes/dott-lopp-mellan-blocken-i-svts-prognos",
-      "description": "Det är helt jämnt mellan blocken i SVT:s valprognos. – Det är gastkramande, säger valforskaren Henrik Ekengren Oscarsson. S ser ut att gå mot sitt sämsta riksdagsval i modern tid, enligt prognosen. SD ser samtidigt ut att backa för första gången i ett riksdagsval.",
-      "pubDate": "2026-09-13T19:46:32Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "SD-ledamoten Josef Fransson: ”Mentalhandikappade”",
-      "link": "https://www.expressen.se/nyheter/politik/sd-ledamoten-josef-fransson-mentalhandikappade/",
-      "description": "Sverigedemokraterna backade klart i SVT:s vallokalsundersökning.&nbsp; ” Grattis, alla mentalhandikappade småpartiröstare! Kul !”, skriver riksdagsledamoten Josef Fransson på X. – Jag har ingenting att utveckla. Jag skrev det till dem som det berör, säger han.",
-      "pubDate": "2026-09-13T19:43:42Z",
+      "title": "Stor vänstersväng i skolvalet",
+      "link": "https://www.expressen.se/nyheter/politik/stor-vanstersvang-i-skolvalet/",
+      "description": "Moderaterna befäster sin plats som klart största parti i riksdagsskolvalet. Trots det syns en stor vänstersväng. Tidöpartiernas tidigare övertag på 25 procentenheter minskar till endast ett fåtal.",
+      "pubDate": "2026-09-14T04:09:20Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "SD"
+        "M"
       ]
     },
     {
-      "title": "V går starkt i jämnt läge mellan blocken: ”Lite mer nervöst nu”",
-      "link": "https://www.dn.se/sverige/vansterpartiet-gar-starkt-i-valun-adjo-tido/",
-      "description": "Vänsterpartiet får 8,2 procent i SVT:s valprognos strax före klockan 21 – en ökning från förra valet om resultatet står sig. Detta trots en rad avslöjanden om antisemitism. – När jag har knackat dörr så har ingen pratat om de frågorna, säger partisekreteraren Maria Forsberg.",
-      "pubDate": "2026-09-13T19:33:18Z",
+      "title": "Ledare: Ulf Kristersson har fått en andra chans – tar han den?",
+      "link": "https://www.dn.se/ledare/ulf-kristersson-har-fatt-en-andra-chans-tar-han-den/",
+      "description": "Sverigedemokraterna backar och Tidöpartierna hade på valnatten förlorat sin majoritet. Moderaterna har möjlighet att staka ut en ny väg.",
+      "pubDate": "2026-09-14T04:02:01Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Liberalernas jubel – klart över spärren i SVT:s valu",
-      "link": "https://www.svt.se/nyheter/inrikes/liberalernas-jubel-klart-over-sparren-i-svts-valu",
-      "description": "Liberalerna är klart över spärren i SVT:s valu – något få trodde var möjligt för bara några veckor sedan. – Nu kan vi verkligen andas ut och njuta av allt hårt arbete, säger Romina Pourmokhtari (L) och hyllar partiledaren Simona Mohamsson.",
-      "pubDate": "2026-09-13T19:11:23Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "SD-toppens besvikelse efter tappet i Valu: ”Vill inte tro det”",
-      "link": "https://www.dn.se/sverige/sd-toppens-besvikelse-efter-tappet-i-valu-vill-inte-tro-det/",
-      "description": "Stämningen dämpades rejält på Sverigedemokraternas valvaka när SVT:s valundersökning visade att de kan backa för första gången i ett riksdagsval. – Otroligt deppigt. Det är väl så man kan sammanfatta det, säger SD-toppen Richard Jomshof till DN. Efter SVT:s nya undersökning, där partiet steg något, jublar de.",
-      "pubDate": "2026-09-13T19:08:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
+        "M",
         "SD"
       ]
     },
     {
-      "title": "Rejält tapp för Sverigedemokraterna: ”Är en besvikelse”",
-      "link": "https://www.expressen.se/nyheter/politik/rejalt-tapp-for-sverigedemokraterna-ar-en-besvikelse/",
-      "description": "Liberalerna ser ut att klara riksdagsspärren med marginal.&nbsp; Men de rödgröna partierna blev klart större än de blågula i SVT:s vallokalsundersökning.&nbsp; Sverigedemokraterna blev tredje största parti. &nbsp; – Det var en besvikelse så klart, säger riksdagsledamoten Martin Kinnunen till Expressen. &nbsp;&nbsp;",
-      "pubDate": "2026-09-13T19:08:46Z",
+      "title": "Mandatpingis under natten",
+      "link": "https://www.expressen.se/nyheter/politik/mandatpingis-under-morgonen/",
+      "description": "Det pågår just nu en riktig mandatpingis när de sista rösterna trillar in.&nbsp; Mandatfördelningen har under natten hoppat fram och tillbaka.&nbsp; De rödgröna leder nu med tre mandat.&nbsp;",
+      "pubDate": "2026-09-14T03:30:13Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "”Detta blir kaos” – så reagerar omvärlden på valrysaren",
+      "link": "https://www.dn.se/varlden/detta-blir-kaos-sa-reagerar-omvarlden-pa-valrysaren/",
+      "description": "WASHINGTON. ”En nagelbitare”, skriver New York Times om det svenska riksdagsvalet. Brittiska The Guardian bjöd på liverapportering. Däremot har få utländska kolumnister och opinionsbildare uttalat sig om valet – kanske på grund av att slutresultatet kan dröja.",
+      "pubDate": "2026-09-14T03:22:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Amanda Sokolnicki: Kristersson förlorar – men har makten i sina händer",
+      "link": "https://www.dn.se/ledare/amanda-sokolnicki-kristersson-forlorar-men-har-makten-i-sina-hander/",
+      "description": "Nu måste näringslivet sätta press på Ulf Kristersson.",
+      "pubDate": "2026-09-14T03:12:45Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Maktkamp – efter jätterysaren i natt: ”Osäkert resultat”",
+      "link": "https://www.expressen.se/nyheter/politik/maktkamp-efter-jatterysaren-i-natt-osakert-resultat/",
+      "description": "Tre riksdagsmandat skiljer blocken åt. Nu börjar en intensiv maktkamp.&nbsp; Magdalena Andersson (S) och Ulf Kristersson (M) kommer att ha samtal med sina samarbetspartier omgående.&nbsp; Andersson tror att vi får en ny regering om valresultatet står sig. &nbsp; Kristersson öppnar för att regera vidare, eventuellt i en ny konstellation. &nbsp;",
+      "pubDate": "2026-09-14T03:03:48Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Historiska valnatten – vad hände egentligen?",
+      "link": "https://www.dn.se/podd/alskade-politik/historiska-valnatten-vad-hande-egentligen/",
+      "description": "Heter Liberalernas hjärtstartare Jimmie Åkesson – och vem blir valets största förlorare? En historisk valnatt är till ända med ett mycket oklart resultat.",
+      "pubDate": "2026-09-14T03:00:45Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD",
@@ -208,58 +239,67 @@
       ]
     },
     {
-      "title": "Oppositionen tydligt större än Tidöpartierna – enligt SVT:s Valu",
-      "link": "https://www.svt.se/nyheter/inrikes/oppositionen-tydligt-storre-an-tidopartierna-enligt-svts-valu",
-      "description": "Det ser ut att skilja flera procentenheter mellan blocken enligt SVT:s stora vallokalsundersökning Valu. Liberalerna verkar tydligt klara spärren och resultatet möttes av jubel på partiets valvaka. – Man ska inte dra för tidiga slutsatser men det här ser ut att vara väldigt svårt för Tidöpartierna att hämta in, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
-      "pubDate": "2026-09-13T19:04:58Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "Inget maktskifte i landets tre största kommuner",
+      "link": "https://www.expressen.se/nyheter/politik/inget-maktskifte-i-landets-tre-storsta-kommuner/",
+      "description": "Maktfördelningen ser ut att stå sig i landets tre största kommuner, som alla styrs av rödgröna koalitioner.",
+      "pubDate": "2026-09-14T02:51:22Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
-      "topics": [
-        "L"
-      ]
+      "topics": []
     },
     {
-      "title": "Socialdemokraternas motplan för att ta över",
-      "link": "https://www.expressen.se/nyheter/politik/socialdemokraternas-motplan-for-att-ta-over/",
-      "description": "Ulf Kristersson kommer inte erkänna sig besegrad om Tidö hamnar i minoritet.&nbsp; Det uppger flera medier, bland annat Ekot.&nbsp; Men Socialdemokraterna står redo med ett motdrag, enligt Expressens uppgifter.&nbsp;",
-      "pubDate": "2026-09-13T19:03:43Z",
+      "title": "SD:s diss mot Fjällräven: ”Inte särskilt unikt”",
+      "link": "https://www.expressen.se/nyheter/politik/sds-diss-mot-fjallraven-inte-sarskilt-unikt/",
+      "description": "Fjällräven hotar Sverigedemokraterna med rättsliga åtgärder om partiet inte byter typsnitt på sitt kampanjmaterial. Men SD tänker inte ändra något. – Vi har inte stoppat vår valkampanj för det. Vi får se om de skickar fler arga brev, säger SD:s kampanjstrateg Joakim Wallerstein.",
+      "pubDate": "2026-09-14T02:38:14Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Självsäkerhet hos S – trots tappet",
-      "link": "https://www.expressen.se/nyheter/sverige/sjalvsakerhet-hos-s-trots-tappet-/",
-      "description": "Socialdemokraterna backar med 1,9 procentenheter i Valun.&nbsp; Partiet är icke desto mindre säkert på ett maktskifte.&nbsp; – Om det här blir valresultatet kommer Sverige att få en ny regering, säger partisekreteraren Tobias Baudin.&nbsp;",
-      "pubDate": "2026-09-13T18:59:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Uppgifter: Kristersson erkänner inte sig besegrad",
-      "link": "https://www.sverigesradio.se/artikel/9299067",
-      "description": "De rödgröna tar täten enligt SVT:s vallokalsundersökning, men även om det skulle stå sig så kommer Ulf Kristersson inte erkänna sig besegrad enligt källor till Ekot. Anledningen är att man vill vänta och se om Magdalena Andersson lyckas bilda en regering.&nbsp; ”Teorin är att man ska locka över Centerpartiet på något sätt och bilda regering med hjälp av dem. Man betraktar alltså de som vågmästare tillsvidare,” säger Helena Gissén, inrikespolitiska kommentator.",
-      "pubDate": "2026-09-13T18:57:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
+        "SD"
       ]
     }
   ],
   "blogs": [
+    {
+      "title": "Den stora valvinnaren är Vänsterpartiet",
+      "link": "https://blog.zaramis.se/2026/09/14/den-stora-valvinnaren-ar-vansterpartiet/",
+      "description": "Det råder ingen tvekan om det. Borgerlig media har drivit en rabiat smutskastningskampanj gentemot Vänsterpartiet men ändå är partiet de som ökat antalet röster mest jämfört med förra valet. Samtidigt har Socialdemokraterna gjort ett av sina sämsta val någonsin men de är trots allt ändå inet de största förlorarna utan det är Sverigedemokraterna. Läs mer … Inlägget Den stora valvinnaren är Vänsterpartiet dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-14T05:25:42Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Alla mätningar missade Moderaterna",
+      "link": "https://ledarsidorna.se/alla-matningar-missade-moderaterna/",
+      "description": "Det preliminära valresultatet i riksdagsvalet kom att överraska många. Inte minst mätinstituten där ingen lyckades fånga valrörelserna till Moderaterna i valrörelsens slutskede. Frågan instituten och valforskarna nu bör ställa sig är inte om de missade Moderaterna utan varför de gjorde det tillsammans. Om än i olika mån. Med 93 procent av rösterna räknade stod bilden [&#8230;]",
+      "pubDate": "2026-09-14T03:27:40Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "”Vi socialdemokrater är redo att ta ansvar för valresultatet”",
+      "link": "https://www.dagensarena.se/innehall/vi-socialdemokrater-ar-redo-att-ta-ansvar-for-valresultatet/",
+      "description": "Magdalena Andersson redo att söka breda samarbeten om hon får bilda regering. Inlägget ”Vi socialdemokrater är redo att ta ansvar för valresultatet” dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-14T01:12:49Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Liberalerna ser ut att klara riksdagsspärren – ”En väldig lättnad”",
       "link": "https://www.dagensarena.se/innehall/liberalerna-ser-ut-att-klara-riksdagssparren-en-valdig-lattnad/",
@@ -344,28 +384,6 @@
       ]
     },
     {
-      "title": "Rättvisare Sverige med mer pengar i plånboken",
-      "link": "https://blog.zaramis.se/2026/09/11/rattvisare-sverige-med-mer-pengar-i-planboken/",
-      "description": "Hushållen har drabbats hårt under den gånga mandatperioden. De senaste årens snabba prisökningar på basvaror såsom el, boende, mat och drivmedel gör att fler har haft svårt att klara sin grundläggande försörjning. Läs mer … Inlägget Rättvisare Sverige med mer pengar i plånboken dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-11T05:19:07Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
-    },
-    {
-      "title": "Vi inför en biljett för bussar och regionaltåg i hela landet",
-      "link": "https://www.dagensarena.se/opinion/vi-infor-en-biljett-bussar-och-regionaltag-hela-landet/",
-      "description": "Med Vänsterpartiet i regering minskar utsläppen. Inlägget Vi inför en biljett för bussar och regionaltåg i hela landet dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-10T23:30:02Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "KD:s relationer med Brödraskapet 2022-2026",
       "link": "https://ledarsidorna.se/kds-relationer-med-brodraskapet-2022-2026/",
       "description": "Kristdemokraterna medverkade i november 2022 till att regeringen drog tillbaka en proposition som skulle ha infört demokrativillkor för statligt stöd till trossamfund och civilsamhälle. Under de två år som följde fortsatte kommunala medel att gå till Ibn Rushd, samtidigt som KD-företrädare offentligt kritiserade just dessa beslut. Studieförbundet Ibn Rushd avvecklade sin verksamhet under hösten 2022, [&#8230;]",
@@ -425,22 +443,22 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "Vad ville Centern ha ut av muslimerna?",
-      "link": "https://ledarsidorna.se/vad-ville-centern-ha-ut-av-muslimerna/",
-      "description": "Fem år innan Socialdemokraternas sidoorganisation Broderskapsrörelsen började diskutera hur många muslimer som borde finnas på socialdemokratiska listor hade ett annat riksdagsparti redan genomfört ett omfattande samarbetsprojekt med muslimska organisationer. Centerpartiet. I en process där företrädare för samma muslimska kluster som Socialdemokraterna senare inledde dialog med. Allt finansierat med skattemedel. Mellan 1990 och 1994 drev Centern [&#8230;]",
-      "pubDate": "2026-09-05T03:33:38Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "C"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Historiska valnatten – vad hände egentligen?",
+      "link": "https://pod.space/alskadepolitik/historiska-valnatten-vad-hande-egentligen",
+      "description": "Heter Liberalernas hjärtstartare Jimmie Åkesson – och vem blir valets största förlorare? En historisk valnatt är till ända med ett mycket oklart resultat.",
+      "pubDate": "2026-09-14T03:00:45Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
     {
       "title": "Veckopanelen: Vad får politiker använda som slagträ?",
       "link": "https://pod.space/kvartal/veckopanelen-vad-far-politiker-anvanda-som-slagtra",
@@ -617,21 +635,6 @@
         "V",
         "KD",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Veckopanelen: Självklart är det här alldeles usla siffror",
-      "link": "https://pod.space/kvartal/veckopanelen-sjalvklart-ar-det-har-alldeles-usla-siffror",
-      "description": "Veckopanelen med Kajsa Dovstad, Håkan Juholt och Thomas Gür under ledning av Staffan Dopping. Serien med opinionsmätningar där Liberalerna går upp och Socialdemokraterna går ner höjer spänningen när valrörelsen går in på sista veckan. Tidöpartierna knappar in på de rödgröna och Magdalena Andersson varnar för ett Sverige där tolv SD-ministrar tar kontroll över regeringsmakten. Blev Aktuellt lurat av Mohamsson och Åkesson som kramades i tv på bästa sändningstid? Örebropartiets Markus Allard tror sig ha chans på riksdagsplats. Det ryska sabotageförsöket vid en flygplats i Tyskland diskuteras, liksom Sveriges köp av fyra franska fregatter. Vidare om jobbcoacher som hjälper långtidsarbetslösa att fuska och lura Arbetsförmedlingen.&nbsp;",
-      "pubDate": "2026-09-05T03:40:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "SD",
-        "L",
-        "Opinion"
       ]
     }
   ]
