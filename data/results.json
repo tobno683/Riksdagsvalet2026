@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T10:59:16.216105Z",
+  "updated_at": "2026-09-14T11:31:55.444522Z",
   "counted_pct": 94.9,
   "national": {
     "M": 20.2,
@@ -154,11 +154,11 @@
       "SD": 18.8
     },
     "Västmanlands län": {
-      "M": 20.0,
+      "M": 20.1,
       "C": 5.4,
-      "L": 5.1,
-      "KD": 5.6,
-      "S": 31.3,
+      "L": 5.2,
+      "KD": 5.7,
+      "S": 31.2,
       "V": 8.0,
       "MP": 3.8,
       "SD": 20.8
@@ -282,7 +282,7 @@
       "total": 217
     },
     "Västmanlands län": {
-      "reported": 163,
+      "reported": 164,
       "total": 176
     },
     "Dalarnas län": {
