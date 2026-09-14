@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T18:46:23.966256Z",
+  "updated_at": "2026-09-14T22:10:28.873544Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,57 @@
   ],
   "news": [
     {
+      "title": "SD-toppen om egen Tidö-majoritet: ”Ska till ett mirakel”",
+      "link": "https://www.expressen.se/nyheter/sverige/sd-toppen-om-egen-tido-majoritet-ska-till-ett-mirakel/",
+      "description": "Sverigedemokraterna vill inte svara på om de är beredda att ge upp ministerposter för att locka över Centerpartiet på Tidösidan.&nbsp; Och utan C krävs det ett ”mirakel” för att få egen majoritet.&nbsp; &nbsp;– Det ser inte ut att vara sannolikt, säger SD:s partisekreterare Mattias Bäckström.&nbsp;",
+      "pubDate": "2026-09-14T20:46:13Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "C: Vår uppgift är inte att göra Jimmie Åkesson till minister",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=8ddc7fa6-b433-427e-8d5f-f658638bb360",
+      "description": "”De förlorade”",
+      "pubDate": "2026-09-14T20:00:37Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "V och C möts i Valstudion: ”Vi måste sluta ses såhär”",
+      "link": "https://www.svt.se/nyheter/inrikes/v-och-c-mots-i-valstudion-vi-maste-sluta-ses-sahar",
+      "description": "Vänsterpartiets vice partiledare, Ida Gabrielsson, och Centerpartiets partisekreterare Hannes Hervieu möttes ikväll i SVT:s valstudio där regeringsbildningen diskuterades. De gratulerar varandra till valresultatet men de röda linjerna finns tydligt kvar. – Vi har tydligt sagt att Vänsterpartiet inte ska sitta i nästa regering, säger Hervieu inledningsvis.",
+      "pubDate": "2026-09-14T19:38:48Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Strömmers sarkastiska svar till Baudin: “Känns ju jättebra”",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=aaef1a7c-3dd0-419b-b095-1c3e29319e7c",
+      "description": "Strömmer och Baudin i studion: ”Jättebra!”",
+      "pubDate": "2026-09-14T19:30:48Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "Historiskt S-ras i norr – backar i 38 kommuner",
       "link": "https://www.dn.se/sverige/historiskt-s-ras-i-norr-backar-i-38-kommuner/",
       "description": "Socialdemokraterna backade i 38 av 44 kommunval i norra Sverige – där partiet historiskt varit starkt. Niclas Hökfors (S) i Överkalix får lämna över makten till Centerpartiet. – Det är bara att gratulera, säger han.",
@@ -101,18 +152,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Strömmers sarkastiska svar till Baudin: “Känns ju jättebra”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=aaef1a7c-3dd0-419b-b095-1c3e29319e7c",
-      "description": "Strömmer och Baudin i studion: ”Jättebra!”",
-      "pubDate": "2026-09-14T18:25:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     },
     {
@@ -175,7 +214,7 @@
     {
       "title": "1 100 anmälningar efter SD-kampanj – IMY kan inleda granskning",
       "link": "https://www.sverigesradio.se/artikel/9300153",
-      "description": "1 100 anmälningar har kommit in till Integritetsskyddsmyndigheten efter att Sverigedemokraterna skickade ut politisk reklam via sms under helgen. Nu kommenterar Integritetsskyddsmyndigheten klagomålen som kan kommer att titta närmare på. Om det blir fråga om en granskning, så&nbsp;handlar det främst om hur utskicket förhåller sig till dataskyddslagstiftningen GDPR&nbsp;och behandlingen av personuppgifter, enligt myndighetens rättschef David Törngren. Ekot har sökt Sverigedemokraterna som inte har återkommit.",
+      "description": "1 100 anmälningar har kommit in till Integritetsskyddsmyndigheten efter att Sverigedemokraterna skickade ut politisk reklam via sms under helgen. Nu kommenterar Integritetsskyddsmyndigheten klagomålen som kan kommer att titta närmare på. Om det blir fråga om en granskning, så&nbsp;handlar det främst om hur utskicket förhåller sig till dataskyddslagstiftningen GDPR&nbsp;och behandlingen av personuppgifter, enligt myndighetens rättschef David Törngren. Ekot har sökt Sverigedemokraterna som avböjer att kommentera.",
       "pubDate": "2026-09-14T17:06:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -222,46 +261,6 @@
         "S",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Tidö-ledarna samlas i Sagerska – Åkesson smet in",
-      "link": "https://www.expressen.se/nyheter/politik/tido-ledarna-samlas-i-sagerska-akesson-smet-in/",
-      "description": "Tidö-partiledarna har samlats hemma hos Ulf Kristersson i Sagerska palatset för att diskutera det preliminära valresultatet. Först dök Simona Mohamsson upp, sen Ebba Busch. Men inte Jimmie Åkesson.&nbsp; Och när middagen var avslutad smög SD-ledaren – igen.&nbsp;",
-      "pubDate": "2026-09-14T16:53:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "KD",
-        "L"
-      ]
-    },
-    {
-      "title": "Ledare: Glöm att Centerpartiet ska rädda dig, Ulf Kristersson",
-      "link": "https://www.dn.se/ledare/glom-att-centerpartiet-ska-radda-dig-ulf-kristersson/",
-      "description": "Ulf Kristersson fick en majoritet emot sig i söndagens val. Nu försöker han plocka fram en ny, ”icke-socialistisk”, ur bakfickan. Det kommer inte att gå.",
-      "pubDate": "2026-09-14T16:33:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson duckar media – smet in på Sagerska",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=fe716092-5095-48e5-83ee-c65ebab59ba5",
-      "description": "Jimmie Åkesson håller sig undan",
-      "pubDate": "2026-09-14T16:25:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
@@ -459,6 +458,18 @@
   ],
   "podcasts": [
     {
+      "title": "Eftervalspanelen: Hur blir nästa regering?",
+      "link": "https://pod.space/kvartal/eftervalspanelen",
+      "description": "Så kan valutgången förklaras och utgångsläget för en ny regering beskrivas. En rad röster kommenterar och analyserar riksdagsvalet: kända panelister, Kvartalprofiler och politiska kommentatorer. Från direktsändningen måndag eftermiddag på Kvartals Youtube. Medverkande: Patrik Kronqvist, Maria Wetterstrand, Arvid Hallén, Torbjörn Hållö, Stefan Stern, Maria Ferm, Lars Leijonborg, Kajsa Dovstad, Andreas Johansson Heinö, Vesna Prekopic, Thomas Mattsson och Widar Andersson. Programledare: Staffan Dopping.",
+      "pubDate": "2026-09-14T20:50:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Efter valrysaren: ”Hoppas på ett utnötningskrig”",
       "link": "https://pod.space/alskadepolitik/efter-valrysaren-hoppas-pa-ett-utnotningskrig",
       "description": "Centerledaren sitter i en rävsax av röda linjer och Tidöpartierna samlas för att vässa planen. Är SD-epoken över?",
@@ -629,19 +640,6 @@
         "S",
         "M",
         "KD"
-      ]
-    },
-    {
-      "title": "Ny mätning: Kan Åkesson tappa sin ledartröja?",
-      "link": "https://pod.space/alskadepolitik/ny-matning-kan-akesson-tappa-sina-ledartroja",
-      "description": "SD backar och Liberalerna närmar sig spärren, enligt DN/Ipsos nya mätning. Men vilket parti har gjort bäst valrörelse?",
-      "pubDate": "2026-09-07T16:10:41Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "L"
       ]
     }
   ]
