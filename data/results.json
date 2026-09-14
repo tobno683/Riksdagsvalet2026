@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T00:26:49.666149Z",
+  "updated_at": "2026-09-14T00:28:25.040486Z",
   "counted_pct": 92.9,
   "national": {
     "M": 20.2,
@@ -206,10 +206,10 @@
     "Västerbottens län": {
       "M": 15.7,
       "C": 7.3,
-      "L": 3.6,
-      "KD": 6.1,
-      "S": 37.9,
-      "V": 9.1,
+      "L": 3.5,
+      "KD": 6.0,
+      "S": 37.8,
+      "V": 9.3,
       "MP": 7.5,
       "SD": 12.8
     },
@@ -302,7 +302,7 @@
       "total": 93
     },
     "Västerbottens län": {
-      "reported": 169,
+      "reported": 170,
       "total": 191
     },
     "Norrbottens län": {
