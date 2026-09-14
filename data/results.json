@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T01:22:01.517999Z",
+  "updated_at": "2026-09-14T01:23:34.400042Z",
   "counted_pct": 93.9,
   "national": {
     "M": 20.2,
@@ -114,7 +114,7 @@
       "SD": 21.4
     },
     "Hallands län": {
-      "M": 23.4,
+      "M": 23.5,
       "C": 7.7,
       "L": 6.0,
       "KD": 7.2,
@@ -266,7 +266,7 @@
       "total": 872
     },
     "Hallands län": {
-      "reported": 202,
+      "reported": 203,
       "total": 211
     },
     "Västra Götalands län": {
