@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T00:39:33.855413Z",
+  "updated_at": "2026-09-14T00:41:09.199084Z",
   "counted_pct": 93.3,
   "national": {
     "M": 20.2,
@@ -178,8 +178,8 @@
       "C": 6.2,
       "L": 4.1,
       "KD": 6.3,
-      "S": 32.3,
-      "V": 6.7,
+      "S": 32.4,
+      "V": 6.8,
       "MP": 4.3,
       "SD": 21.9
     },
@@ -290,7 +290,7 @@
       "total": 182
     },
     "Gävleborgs län": {
-      "reported": 150,
+      "reported": 151,
       "total": 162
     },
     "Västernorrlands län": {
