@@ -1,7 +1,7 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T00:41:09.199084Z",
-  "counted_pct": 93.3,
+  "updated_at": "2026-09-14T00:42:44.545256Z",
+  "counted_pct": 93.4,
   "national": {
     "M": 20.2,
     "C": 7.2,
@@ -24,12 +24,12 @@
       "SD": 12.3
     },
     "Uppsala län": {
-      "M": 18.7,
+      "M": 18.8,
       "C": 7.8,
       "L": 5.0,
       "KD": 6.9,
-      "S": 27.5,
-      "V": 9.6,
+      "S": 27.4,
+      "V": 9.5,
       "MP": 8.4,
       "SD": 16.1
     },
@@ -55,10 +55,10 @@
     },
     "Jönköpings län": {
       "M": 20.0,
-      "C": 7.1,
+      "C": 7.2,
       "L": 4.7,
-      "KD": 10.4,
-      "S": 27.1,
+      "KD": 10.5,
+      "S": 27.0,
       "V": 5.9,
       "MP": 3.8,
       "SD": 21.0
@@ -74,14 +74,14 @@
       "SD": 20.7
     },
     "Kalmar län": {
-      "M": 18.8,
+      "M": 19.0,
       "C": 6.5,
       "L": 4.3,
       "KD": 8.6,
-      "S": 29.7,
+      "S": 29.6,
       "V": 6.1,
       "MP": 4.1,
-      "SD": 21.9
+      "SD": 21.8
     },
     "Gotlands län": {
       "M": 18.5,
@@ -124,11 +124,11 @@
       "SD": 20.0
     },
     "Västra Götalands län": {
-      "M": 19.9,
+      "M": 19.8,
       "C": 6.8,
       "L": 5.6,
       "KD": 6.8,
-      "S": 27.5,
+      "S": 27.6,
       "V": 9.3,
       "MP": 6.4,
       "SD": 17.8
@@ -230,7 +230,7 @@
       "total": 1460
     },
     "Uppsala län": {
-      "reported": 231,
+      "reported": 232,
       "total": 243
     },
     "Södermanlands län": {
@@ -238,11 +238,11 @@
       "total": 193
     },
     "Östergötlands län": {
-      "reported": 282,
+      "reported": 283,
       "total": 300
     },
     "Jönköpings län": {
-      "reported": 197,
+      "reported": 198,
       "total": 215
     },
     "Kronobergs län": {
@@ -250,7 +250,7 @@
       "total": 127
     },
     "Kalmar län": {
-      "reported": 158,
+      "reported": 159,
       "total": 175
     },
     "Gotlands län": {
@@ -270,7 +270,7 @@
       "total": 211
     },
     "Västra Götalands län": {
-      "reported": 1058,
+      "reported": 1059,
       "total": 1134
     },
     "Värmlands län": {
