@@ -1,6 +1,6 @@
 {
   "status": "live",
-  "updated_at": "2026-09-14T01:14:18.553875Z",
+  "updated_at": "2026-09-14T01:15:51.177519Z",
   "counted_pct": 93.8,
   "national": {
     "M": 20.2,
@@ -21,7 +21,7 @@
       "S": 26.3,
       "V": 10.0,
       "MP": 8.2,
-      "SD": 12.4
+      "SD": 12.3
     },
     "Uppsala län": {
       "M": 18.8,
@@ -194,14 +194,14 @@
       "SD": 19.5
     },
     "Jämtlands län": {
-      "M": 17.8,
+      "M": 17.7,
       "C": 10.3,
       "L": 3.6,
       "KD": 5.6,
       "S": 32.3,
       "V": 6.1,
       "MP": 6.7,
-      "SD": 17.6
+      "SD": 17.7
     },
     "Västerbottens län": {
       "M": 15.6,
@@ -266,7 +266,7 @@
       "total": 872
     },
     "Hallands län": {
-      "reported": 201,
+      "reported": 202,
       "total": 211
     },
     "Västra Götalands län": {
