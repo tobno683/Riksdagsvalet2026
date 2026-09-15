@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T19:06:47.272636Z",
+  "updated_at": "2026-09-15T22:21:54.080958Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,80 @@
     }
   ],
   "news": [
+    {
+      "title": "Hägglund (KD): Ett extraval kan straffa de rödgröna",
+      "link": "https://www.svt.se/nyheter/inrikes/hagglund-kd-ett-extraval-kan-straffa-de-rodgrona",
+      "description": "De preliminära resultaten visar en valvinst till oppositionen – men regeringsfrågan hänger över de rödgrönas huvuden. En verklighet med röda linjer där ingen vill vika sig och press från väljarna väntar, menar två tidigare partiledare. – Jag tror att Vänsterpartiet är mer bestämda än vad man föreställer sig, säger Göran Hägglund (KD).",
+      "pubDate": "2026-09-15T20:29:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "M-toppen: ”Skulle möjligen gjort  Saddam Hussein avundsjuk”",
+      "link": "https://www.expressen.se/nyheter/sverige/m-toppen-skulle-mojligen-gjort--saddam-hussein-avundsjuk/",
+      "description": "I vissa valdistrikt har Socialdemokraterna och Vänsterpartiet fått uppemot 95 procent av rösterna, enligt de preliminära siffrorna.&nbsp; Det får M-toppen Fredrik Kärrholm att reagera.&nbsp; ”Ett resultat som möjligen skulle ha gjort Saddam Hussein avundsjuk”, skriver han i The Spectator .&nbsp;",
+      "pubDate": "2026-09-15T19:59:37Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "SD-toppen Gustav Gellerbrant återgår i tjänst efter Expos avslöjande",
+      "link": "https://www.dn.se/sverige/sd-toppen-gustav-gellerbrant-atergar-i-tjanst-efter-expos-avslojande/",
+      "description": "Sverigedemokraten Gustav Gellerbrant kommer att återgå i tjänst, meddelar partiet. Gellerbrant tog föräldraledigt efter att Expo avslöjat att hans sambo, en SD-tjänsteman, spridit rysk propaganda. – Det här är nonchalant hantering från Kristerssons sida, säger tidigare försvarsministern Peter Hultqvist (S).",
+      "pubDate": "2026-09-15T19:40:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Insändare. Vi i Liberalerna har ingenting att fira",
+      "link": "https://www.dn.se/insandare/vi-i-liberalerna-har-ingenting-att-fira/",
+      "description": "INSÄNDARE. Det var som liberal partiföreträdare pinsamt att se partitopparna jubla över valresultatet. Partiet har sålt sin själ och smutsat ner lokala liberalers varumärke till den grad att Liberalerna ute i kommunerna har åkt ur kommunfullmäktige, skriver Mårten Hemström i västmanländska Sala.",
+      "pubDate": "2026-09-15T19:36:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Katastrofval för Centerpartiet  – tappar makten efter 41 år",
+      "link": "https://www.expressen.se/nyheter/politik/katastrofval-for-centerpartiet-tappar-makten-efter-41-ar/",
+      "description": "Centerpartiet har varit med och styrt i Mönsterås i 41 år. Men nu gör partiet ett historiskt dåligt valresultat – och kommunalrådet Anders Johansson väljer att avgå. – Jag har tappat i energi och känt mig väldigt sliten, säger han till Barometern. &nbsp;",
+      "pubDate": "2026-09-15T19:26:28Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "SD tappar stort bland de yngsta väljarna",
+      "link": "https://www.svt.se/nyheter/inrikes/sd-tappar-stort-bland-de-yngsta-valjarna",
+      "description": "Sverigedemokraterna backade enligt de preliminära siffrorna med 3,3 procentenheter i valet. Bland olika åldersgrupper så är tappet störst bland väljare mellan 18 och 21 år, där backar partiet hela sju procentenheter.",
+      "pubDate": "2026-09-15T19:25:42Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Max Hjelm: Vänsterpartiets egotripp kostade nästan oppositionen valvinsten",
       "link": "https://www.dn.se/ledare/max-hjelm-vansterpartiets-egotripp-kostade-nastan-oppositionen-valvinsten/",
@@ -186,79 +260,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "DN Debatt. ”Liberalerna är Sveriges mest framgångsrika parti – jo faktiskt”",
-      "link": "https://www.dn.se/debatt/liberalerna-ar-sveriges-mest-framgangsrika-parti-jo-faktiskt/",
-      "description": "DN DEBATT. Få kan ha missat jublet som steg upp från Liberalernas valvaka på söndagskvällen. En historisk upphämtning är i hamn. Men partiets triumf är faktiskt större än så. Liberalismen har segrat sig fram i över ett århundrade, och nutidens låga liberala resultat är ett bevis på just det. Frågan är: Vad gör man nu? skriver statsvetaren Leif Lewin.",
-      "pubDate": "2026-09-15T18:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Tidigare S-ledamot: ”Att skrämma med SD räcker inte”",
-      "link": "https://www.sverigesradio.se/artikel/9300973",
-      "description": "Socialdemokraterna ser ut att göra sitt sämsta riksdagsval på 100 år, med ca 28 procent i nuläget. Intern kritik växer mot att partiet i slutspurten varnade för Sverigedemokraterna och fokuserade på regeringsfrågan, medan andra menar att sakpolitik och ekonomi gav bättre gensvar lokalt. Veronica Palm, politisk redaktör på Norrländska Socialdemokraten och tidigare riksdagsledamot för S, pekar på ett återkommande misstag från valanalysen 2022. ”Väljarna vill ha politik”, säger hon.",
-      "pubDate": "2026-09-15T17:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Lisa Magnusson: Hoppsan! SD-toppen hade visst glömt att han var i direktsändning",
-      "link": "https://www.dn.se/ledare/lisa-magnusson-hoppsan-sd-toppen-hade-visst-glomt-att-han-var-i-direktsandning/",
-      "description": "Det har gått dåligt för Sverigedemokraterna på sistone. Är det ett tecken i tiden?",
-      "pubDate": "2026-09-15T16:51:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Åkesson: Konstruktivt möte om ”parlamentariska lägen”",
-      "link": "https://www.dn.se/sverige/akesson-konstruktivt-mote-om-parlamentariska-lagen/",
-      "description": "Sverigedemokraternas ledning har under tisdagen samlats för ett möte i riksdagen. Enligt TV4 Nyheterna var en av dem som deltog Gustav Gellerbrant, vars sambo anklagas för att sprida rysk propaganda.",
-      "pubDate": "2026-09-15T16:38:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Greider om V-beslutet: Så jävla dumt",
-      "link": "https://www.expressen.se/nyheter/politik/greider-om-v-beslutet-sa-javla-dumt/",
-      "description": "Vänsterpartiet bör riva upp sitt kongressbeslut om att få ministerposter och stödja en S+C+MP-regering. Det menar vänsterdebattören och S-profilen Göran Greider. – Nu hänger ju allting på att Vänsterpartiet backar på beslutet, och får något saftigt köttben i utbyte, säger han.",
-      "pubDate": "2026-09-15T16:28:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson efter  SD-mötet: ”Konstruktivt”",
-      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-efter--sd-motet-konstruktivt/",
-      "description": "Efter omkring fyra timmar lämnade Jimmie Åkesson SD:s krismöte om valfiaskot.&nbsp; – Vi har haft ett väldigt konstruktivt strategimöte, sa Jimmie Åkeson.&nbsp; Med på mötet fanns bland andra Gustav Gellerbrant – som tog föräldraledigt efter att Expo rapporterat om att hans sambo spridit prorysk propaganda.&nbsp;",
-      "pubDate": "2026-09-15T16:04:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
