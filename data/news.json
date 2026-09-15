@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T15:19:21.649117Z",
+  "updated_at": "2026-09-15T19:06:47.272636Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,23 +79,23 @@
   ],
   "news": [
     {
-      "title": "Intern kritik inom S – sågar snacket om tolv SD-ministrar",
-      "link": "https://www.sverigesradio.se/artikel/9300866",
-      "description": "Efter Socialdemokraternas historiskt svaga valresultat framkommer det nu att ledande företrädare under valrörelsen kontaktat ansvariga med uppmaningen att sluta varna för en Tidöregering med 12 sverigedemokratiska ministrar. Det erfar Ekot. Partiföreträdare som Ekot varit i kontakt med tror att det här är en förklaring till partiets nederlag, och påminner om att valanalysen efter 2022 bland annat tog upp just fokuseringen på Sverigedemokraterna - och vikten av i stället föra fram den egna politiken. De anser att vallöften om exempelvis billigare tandvård och slopat karensavdrag skymdes av budskapet om Sverigedemokratiska ministrar.",
-      "pubDate": "2026-09-15T15:16:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Max Hjelm: Vänsterpartiets egotripp kostade nästan oppositionen valvinsten",
+      "link": "https://www.dn.se/ledare/max-hjelm-vansterpartiets-egotripp-kostade-nastan-oppositionen-valvinsten/",
+      "description": "Socialdemokraterna satte laget framför jaget. Det motsatta kan sägas om Vänsterpartiet.",
+      "pubDate": "2026-09-15T19:04:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "SD"
+        "V"
       ]
     },
     {
-      "title": "SD-tappet i Skåne: ”Vi har varit bortskämda”",
-      "link": "https://www.dn.se/sverige/sd-tappet-i-skane-vi-har-varit-bortskamda/",
-      "description": "Sverigedemokraterna har tappat väljare i nästan hela Sverige. Nedgången är tydlig i partiets starka fästen i Skåne. I Bjuv tappar partiet 9,3 procentenheter i kommunvalet. – SD-hajpen är över, säger Bjuvsbon Martin Kirschner.",
-      "pubDate": "2026-09-15T15:11:43Z",
+      "title": "Ola Larsmo: Tog det stopp nu för SD-rallyt i svensk politik?",
+      "link": "https://www.dn.se/kultur/ola-larsmo-tog-det-stopp-nu-for-sd-rallyt-i-svensk-politik/",
+      "description": "Sverigedemokraterna backar i riksdagsvalet – och även den internationella högerpopulismen verkar ha stött på en vägbula. Men det finns en intressantare tanke att fånga upp.",
+      "pubDate": "2026-09-15T19:01:27Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -104,108 +104,83 @@
       ]
     },
     {
-      "title": "Stödröster räddade Liberalerna över riksdagsspärren",
-      "link": "https://www.sverigesradio.se/artikel/9300808",
-      "description": "Stödröster gjorde att Liberalerna klarade riksdagsspärren, enligt SVT:s vallokalsundersökning. Analysen visar att många väljare kom från Moderaterna, medan bara drygt en tredjedel av Liberalernas väljare från förra valet stannade kvar. ”Det är många allmänborgerliga väljare som valt att rösta på L. Ett tydligt tecken på stödröstning”, säger professor Henrik Ekengren Oscarsson.",
-      "pubDate": "2026-09-15T14:49:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "L"
-      ]
-    },
-    {
-      "title": "Sena väljare räddade Liberalerna",
-      "link": "https://www.dn.se/sverige/sena-valjare-raddade-liberalerna/",
-      "description": "Två tredjedelar av Liberalernas väljare bestämde sig den sista veckan före valet, eller på valdagen. Det är rekord, visar SVT:s vallokalsundersökning. – Det är en tydlig indikation på att det är lånade väljare eller väljare som kanske inte brinner i första hand för Liberalerna, säger statsvetaren Henrik Ekengren Oscarsson.",
-      "pubDate": "2026-09-15T14:33:32Z",
+      "title": "15 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/15-september-missa-inte-dagens-nyheter/",
+      "description": "Hetaste talmanskandidaterna, partiet som måste vika sig i regeringsdramat och ”bortskämda” sverigedemokrater – här är dagens nyheter.",
+      "pubDate": "2026-09-15T18:54:42Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "L"
+        "SD"
       ]
     },
     {
-      "title": "Här är regionerna där det kan bli maktskifte",
-      "link": "https://www.sverigesradio.se/artikel/9300736",
-      "description": "Ekots genomgång av det preliminära valresultatet under tisdagen visar att Socialdemokraterna kan ta över makten i Sörmland, Östergötland, Gävleborg och Blekinge, regioner som idag leds av antingen Moderaterna eller Sverigedemokraterna. I Region Kronoberg ser inte Socialdemokraterna och Moderaterna ut att få egen majoritet och i Västernorrland har Centerpartiet som ingår i styret idag sagt man inte vill fortsätta samarbetet på grund av besluten kring Sollefteå sjukhus. I Region Örebro där alla partier i det blocköverskridande minoritetsstyre med S, C och KD backar finns flera olika möjliga styren.",
-      "pubDate": "2026-09-15T14:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Styret av Region Stockholm kräver hårda förhandlingar",
+      "link": "https://www.dn.se/sverige/styret-av-region-stockholm-kraver-harda-forhandlingar/",
+      "description": "Enligt Socialdemokraterna kommer Region Stockholm att fortsätta styras av den sittande koalitionen i ytterligare fyra år. Men samarbetspartierna C och V drar åt olika håll och största oppositionspartiet Moderaterna känner medvind. – Det finns alla möjliga sätt att bygga majoriteter, säger oppositionsregionrådet Axel Conradi (M).",
+      "pubDate": "2026-09-15T18:36:44Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "M",
-        "SD",
-        "C"
+        "M"
       ]
     },
     {
-      "title": "Viktiga datumen: Så väljs en ny statsminister – och då blir det nyval",
-      "link": "https://www.expressen.se/nyheter/politik/viktiga-datumen-sa-valjs-en-ny-statsminister-och-da-blir-det-nyval/",
-      "description": "På torsdag väntas alla röster vara räknade. Men det kan dröja länge tills Sverige har en ny regering. Så här går det till att välja en ny statsminister – och det krävs för att det ska bli nyval.",
-      "pubDate": "2026-09-15T13:53:14Z",
+      "title": "V:s maktplan – har  förberett i över ett år",
+      "link": "https://www.expressen.se/nyheter/politik/vs-maktplan-har--forberett-i-over-ett-ar/",
+      "description": "Vänsterpartiet räknar med att Magdalena Andersson (S) vänder sig till C och MP först. Men några planer på att backa från regeringskravet finns inte – i själva verket har V förberett sig i över ett år. –&nbsp;Bottenplattan måste vara att alla fyra ska ha regeringsinflytande, säger V-toppen Ida Gabrielsson.",
+      "pubDate": "2026-09-15T18:26:33Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "Regeringsbildning"
+        "S",
+        "V"
       ]
     },
     {
-      "title": "Problem hos Postnord försenar kommuners rösträkning",
-      "link": "https://www.dn.se/sverige/problem-hos-postnord-forsenar-kommuners-rostrakning/",
-      "description": "Tusentals förtidsröster hann aldrig fram på valdagen efter förseningar hos Postnord. Nu ska flera kommuner hantera tusentals fler valsedlar än vanligt i uppsamlingsräkningen. – Om posten gjort det den skulle hade vi inte varit här, säger Marcus Vahlström, chef för valkansliet i Varberg.",
-      "pubDate": "2026-09-15T13:19:19Z",
+      "title": "Fysikernas teori: Därför blev valet så jämnt",
+      "link": "https://www.dn.se/sverige/fysikernas-teori-darfor-blev-valet-sa-jamnt/",
+      "description": "Trots att fler än sex miljoner svenskar gick till valurnorna och röstade blev det nästan jämnt skägg mellan de båda blocken. Hur kommer det sig? Forskare tror sig ha hittat en matematisk förklaring – och en tydlig orsak – till varför demokratiska val ofta blir så jämna.",
+      "pubDate": "2026-09-15T18:23:06Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
     {
-      "title": "Priset på bensin och diesel rusar – fler höjningar väntas",
-      "link": "https://www.sverigesradio.se/artikel/9300635",
-      "description": "Efter att priset på olja stigit den senaste tiden har bensin- och dieselpriset höjts både igår och idag, tisdag. Hittills i september har priset på diesel stigit med över 3 kronor. Men framöver väntas nya kraftiga höjningar när flera av Tidöregeringens tillfälliga skattesänkningar löper ut. ”Det är rimligt att räkna med över fyra kronor på bensin och mellan tre och fyra kronor kronor på diesel” säger Viktor Gunnarsson, på branschorganisationen Drivkraft Sverige.",
-      "pubDate": "2026-09-15T13:16:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Handelskammare: Långsiktighet viktigare än politisk färg",
-      "link": "https://www.sverigesradio.se/artikel/9300086",
-      "description": "Näringslivet behöver långsiktighet och blocköverskridande överenskommelser, det menar företrädare för flera av Sveriges regionala handelskammare. Största orosmolnet på den näringspolitiska himlen, enligt företrädarna, är osäkerheten som nu råder efter söndagens val. ”Näringslivet investerar och då måste staten kunna hålla jämna steg”, säger Linda Nilsson, vd för Norrbottens handelskammare.",
-      "pubDate": "2026-09-15T12:15:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Miljöpartiets starkaste fäste – får mer än var femte röst",
+      "link": "https://www.expressen.se/nyheter/politik/miljopartiets-starkaste-faste-far-mer-an-var-femte-rost/",
+      "description": "Här är Miljöpartiets starkaste fäste. I Jokkmokk får partiet 22,5 procent av rösterna i kommunvalet – en ökning med 7,2 procentenheter. Samtidigt rasar Socialdemokraterna i stora delar av Norrland.",
+      "pubDate": "2026-09-15T18:07:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
         "MP"
       ]
     },
     {
-      "title": "Baudin: Förväntar mig att Kristersson erkänner sig besegrad",
-      "link": "https://www.dn.se/sverige/baudin-forvantar-mig-att-kristersson-erkanner-sig-besegrad/",
-      "description": "Socialdemokraternas partisekreterare Tobias Baudin efterlyser två saker från Ulf Kristersson (M). Dels vill han att statsministern ringer Magdalena Andersson (S) och erkänner sig besegrad, dels att han lämnar posten som regeringschef.",
-      "pubDate": "2026-09-15T12:13:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Experterna: Därför backar Sverigedemokraterna i valet",
+      "link": "https://www.sverigesradio.se/artikel/9300977",
+      "description": "Sverigedemokraterna ser ut att backa med omkring tre procentenheter i riksdagsvalet, enligt det preliminära resultatet, vilket är störst tapp av alla partier. En förklaring kan vara att SD inte längre ses som ett renodlat protestparti, samtidigt som partiets ton i valrörelsen kan ha stött bort väljare, enligt PM Nilsson, vd för tankesmedjan Timbro. Men bedömningarna går isär. Medan PM Nilsson pekar på en för hård linje, varnar Richard Sörman, politisk redaktör på Riks, för att andra väljare istället kan ha tyckt att partiet varit för mjukt.",
+      "pubDate": "2026-09-15T18:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
+        "SD"
       ]
     },
     {
-      "title": "C-toppar i möte – här lämnar Thand Ringqvist",
-      "link": "https://www.expressen.se/nyheter/politik/c-toppar-i-mote-har-lamnar-thand-ringqvist/",
-      "description": "Centerpartiets ledning har samlats för möte på tisdagen. Partiledaren Elisabeth Thand Ringqvist lämnade mötet – utan att ge någon kommentar. – Det är klart att vi är beredda att förhandla om viktiga sakfrågor, säger partisekreterare Hannes Hervieu.",
-      "pubDate": "2026-09-15T11:54:18Z",
+      "title": "Thand Ringqvists ändring – bryter skjortsviten",
+      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvists-andring-bryter-skjortsviten/",
+      "description": "Valrörelsen är över och med den Elisabeth Thand Ringqvists skjortsvit. Efter löftet i början av året har Centerledaren bytt ut flanellen. – Det är så här företagaren Elisabeth har sett ut i många, många år, sa hon vid partiets kommundagar.",
+      "pubDate": "2026-09-15T18:00:11Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -214,54 +189,76 @@
       ]
     },
     {
-      "title": "”Jag tror att rasismen kommer att minska med V”",
-      "link": "https://www.dn.se/sverige/jag-tror-att-rasismen-kommer-att-minska-med-v/",
-      "description": "Vänsterpartiet ökar kraftigt i Stockholmsförorten Rinkeby. – Vår politik har gått hem hos vanliga människor, säger Rashid Mohammed (V), ordförande i Järva stadsdelsnämnd.",
-      "pubDate": "2026-09-15T11:37:03Z",
+      "title": "DN Debatt. ”Liberalerna är Sveriges mest framgångsrika parti – jo faktiskt”",
+      "link": "https://www.dn.se/debatt/liberalerna-ar-sveriges-mest-framgangsrika-parti-jo-faktiskt/",
+      "description": "DN DEBATT. Få kan ha missat jublet som steg upp från Liberalernas valvaka på söndagskvällen. En historisk upphämtning är i hamn. Men partiets triumf är faktiskt större än så. Liberalismen har segrat sig fram i över ett århundrade, och nutidens låga liberala resultat är ett bevis på just det. Frågan är: Vad gör man nu? skriver statsvetaren Leif Lewin.",
+      "pubDate": "2026-09-15T18:00:00Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Tidigare S-ledamot: ”Att skrämma med SD räcker inte”",
+      "link": "https://www.sverigesradio.se/artikel/9300973",
+      "description": "Socialdemokraterna ser ut att göra sitt sämsta riksdagsval på 100 år, med ca 28 procent i nuläget. Intern kritik växer mot att partiet i slutspurten varnade för Sverigedemokraterna och fokuserade på regeringsfrågan, medan andra menar att sakpolitik och ekonomi gav bättre gensvar lokalt. Veronica Palm, politisk redaktör på Norrländska Socialdemokraten och tidigare riksdagsledamot för S, pekar på ett återkommande misstag från valanalysen 2022. ”Väljarna vill ha politik”, säger hon.",
+      "pubDate": "2026-09-15T17:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Lisa Magnusson: Hoppsan! SD-toppen hade visst glömt att han var i direktsändning",
+      "link": "https://www.dn.se/ledare/lisa-magnusson-hoppsan-sd-toppen-hade-visst-glomt-att-han-var-i-direktsandning/",
+      "description": "Det har gått dåligt för Sverigedemokraterna på sistone. Är det ett tecken i tiden?",
+      "pubDate": "2026-09-15T16:51:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Åkesson: Konstruktivt möte om ”parlamentariska lägen”",
+      "link": "https://www.dn.se/sverige/akesson-konstruktivt-mote-om-parlamentariska-lagen/",
+      "description": "Sverigedemokraternas ledning har under tisdagen samlats för ett möte i riksdagen. Enligt TV4 Nyheterna var en av dem som deltog Gustav Gellerbrant, vars sambo anklagas för att sprida rysk propaganda.",
+      "pubDate": "2026-09-15T16:38:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Greider om V-beslutet: Så jävla dumt",
+      "link": "https://www.expressen.se/nyheter/politik/greider-om-v-beslutet-sa-javla-dumt/",
+      "description": "Vänsterpartiet bör riva upp sitt kongressbeslut om att få ministerposter och stödja en S+C+MP-regering. Det menar vänsterdebattören och S-profilen Göran Greider. – Nu hänger ju allting på att Vänsterpartiet backar på beslutet, och får något saftigt köttben i utbyte, säger han.",
+      "pubDate": "2026-09-15T16:28:10Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
       ]
     },
     {
-      "title": "Socialdemokraterna förväntar sig att Ulf Kristersson avgår",
-      "link": "https://www.sverigesradio.se/artikel/9300570",
-      "description": "Socialdemokraterna anklagar Moderatledaren och statsminister Ulf Kristersson för att klamra sig fast vid makten. Partisekreteraren Tobias Baudin (S) säger att Ulf Kristersson måste erkänna sig besegrad om det preliminära valresultatet står sig och att han ska lämna in sin avskedsansökan som statsminister. Moderaternas partisekreterare Karin Enström säger i en skriftlig kommentar att de inte tänker föregå Valmyndighetens rösträkning. ”Av respekt för väljarna hade vi önskat den inställningen från flera partier, ” skriver hon.",
-      "pubDate": "2026-09-15T11:30:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Baudins krav på Kristersson: Avgå",
-      "link": "https://www.expressen.se/nyheter/politik/baudins-krav-pa-kristersson-avga/",
-      "description": "Kristersson måste erkänna sig besegrad och avgå. Det är Socialdemokraternas krav om det preliminära valresultatet står sig. – Det är uppenbart att han vill klamra sig fast, säger partisekreterare Tobias Baudin.",
-      "pubDate": "2026-09-15T11:20:01Z",
+      "title": "Jimmie Åkesson efter  SD-mötet: ”Konstruktivt”",
+      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-efter--sd-motet-konstruktivt/",
+      "description": "Efter omkring fyra timmar lämnade Jimmie Åkesson SD:s krismöte om valfiaskot.&nbsp; – Vi har haft ett väldigt konstruktivt strategimöte, sa Jimmie Åkeson.&nbsp; Med på mötet fanns bland andra Gustav Gellerbrant – som tog föräldraledigt efter att Expo rapporterat om att hans sambo spridit prorysk propaganda.&nbsp;",
+      "pubDate": "2026-09-15T16:04:36Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "S-toppens krav",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=4996e552-cd65-4bc9-b258-47de630d9adb",
-      "description": "Förväntar sig två saker av Kristersson",
-      "pubDate": "2026-09-15T11:10:01Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
+        "SD"
       ]
     }
   ],
