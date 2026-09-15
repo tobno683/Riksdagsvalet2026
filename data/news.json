@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T05:32:35.046788Z",
+  "updated_at": "2026-09-15T10:34:35.907990Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,192 +79,197 @@
   ],
   "news": [
     {
-      "title": "Här är opinionsmätningar före val förbjudna",
-      "link": "https://www.dn.se/varlden/har-ar-opinionsmatningar-fore-val-forbjudna/",
-      "description": "I flera europeiska länder är det förbjudet att publicera opinionsmätningar dagar eller veckor före valdagen. Efter den svenska debatten om taktikröstande väcks frågan om Sverige borde införa liknande regler.",
-      "pubDate": "2026-09-15T05:27:35Z",
+      "title": "Så väljs en kulturminister: ”Krävs en politisk doer”",
+      "link": "https://www.dn.se/kultur/sa-valjs-en-kulturminister-kravs-en-politisk-doer/",
+      "description": "Efter fyra år med Parisa Liljestrand (M) pekar prognosen mot qatt Sverige efter valet får en ny kulturminister. Men vad förväntas av en kandidat till posten? Tidigare utnämningar visar att det varken krävs partibok eller erfarenhet av kulturpolitik. – Jag tror att partierna tänker att det är en post där man kan laborera lite, säger statsvetaren Jenny Madestam.",
+      "pubDate": "2026-09-15T10:28:26Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
-      "topics": [
-        "Opinion"
-      ]
+      "topics": []
     },
     {
-      "title": "Liberalerna tappar i 215 kommuner – och alla regioner",
-      "link": "https://www.expressen.se/nyheter/politik/liberalerna-tappar-i-215-kommuner-och-alla-regioner/",
-      "description": "Liberalerna klarade riksdagsspärren med råge – men ser samtidigt ut att tappa 148 mandat lokalt.&nbsp; Partiet backar i 215 av landets kommuner och i alla regioner.&nbsp; I 39 kommuner och i fem regioner åker de ut helt.&nbsp;",
-      "pubDate": "2026-09-15T05:11:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Björn af Kleen: Vad är mer berusande än att styra historien i en oväntad riktning?",
+      "link": "https://www.dn.se/kultur/bjorn-af-kleen-vad-ar-mer-berusande-an-att-styra-historien-i-en-ovantad-riktning/",
+      "description": "Den osannolika revanschen är en integrerad del av högerpopulismens lockelse i USA. Nu har Simona Mohamsson gjort sin comeback, skriver Björn af Kleen.",
+      "pubDate": "2026-09-15T10:25:55Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "L"
       ]
     },
     {
-      "title": "Sverigesdemokraterna tappar i 285 kommuner",
-      "link": "https://www.expressen.se/nyheter/politik/sverigesdemokraterna-tappar-i-285-kommuner/",
-      "description": "SD är det parti som tappar mest i riksdagsvalet. Partiet backar i 285 av Sveriges 290 kommuner. – Det är en överraskande stor tillbakagång, säger statsvetare Andreas Johansson Heinö.",
-      "pubDate": "2026-09-15T04:29:40Z",
+      "title": "Valmyndigheten: Resultat dröjer tills på torsdag",
+      "link": "https://www.sverigesradio.se/artikel/9300406",
+      "description": "Det preliminära valresultatet kommer inte kunna presenteras under onsdagen, utan dröjer tills på torsdag. Det meddelar Valmyndigheten, där Anna Nyqvist är kanslichef. ”Alla kommuner räknar ju imorgon onsdag sent anlända förtidsröster och utlandsröster, och vår bedömning är att det kanske snarare är klart på torsdag än på onsdag”, säger hon.",
+      "pubDate": "2026-09-15T09:53:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Medierna måste syna Centerpartiets prat",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/medierna-maste-syna-centerpartiets-prat/",
+      "description": "En spade är en spade och 30 vänsterpartistiska mandat är fler än 29 enhörningar i mitten, skriver Viktor Barth-Kron.",
+      "pubDate": "2026-09-15T09:21:46Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Insändare. Låt vanliga medlemmar utvärdera Liberalernas vägval",
+      "link": "https://www.dn.se/insandare/lat-vanliga-medlemmar-utvardera-liberalernas-vagval/",
+      "description": "INSÄNDARE. Ett parti kan inte långsiktigt bygga förtroende enbart genom regeringsinflytande, samarbeten eller taktiska positioner. Det måste finnas en liberal kärna som är begriplig, sammanhållen och tillräckligt stark för att människor ska kunna välja den av övertygelse, skriver L-medlemmen Stefan Jakab.",
+      "pubDate": "2026-09-15T08:42:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Statsvetare: Det här partiet måste vika sig i förhandlingarna",
+      "link": "https://www.dn.se/sverige/statsvetare-det-har-partiet-maste-vika-sig-i-forhandlingarna/",
+      "description": "Flera röda linjer står i vägen för ett maktskifte i Sverige – trots att S-sidan ser ut att ta hem valet med knapp majoritet. Statsvetaren Jonas Hinnfors ser att det är Vänsterpartiet som kommer att behöva vika sig i förhandlingarna. – Det är mycket troligare, säger han.",
+      "pubDate": "2026-09-15T08:19:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Magdalena Andersson inför förhandlingarna",
+      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-infor-forhandlingarna/",
+      "description": "Det har varit knäpptyst från Magdalena Andersson (S) sedan valnatten.&nbsp; Under tisdagen fångar Expressens reporter henne vid riksdagen.&nbsp; – Jag är sugen på att jobba, säger hon på väg in till ledamotshuset.&nbsp;",
+      "pubDate": "2026-09-15T08:05:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Antalet intagna i fängelse mer än fördubblats på tio år",
+      "link": "https://www.svt.se/nyheter/inrikes/antalet-intagna-i-fangelse-mer-an-fordubblats-pa-tio-ar",
+      "description": "Det totala antalet intagna i svenska fängelser har mer än fördubblats de senaste tio åren, enligt statistik från Brå. Antalet nyintagna i fängelser var under 2025 även det högsta på 30 år – där nästan hälften aldrig dömts till fängelsestraff förut. – Ökningen förklaras främst av de straffskärpningar som har genomförts de senaste åren, säger Charlotta Lindström, statistiker på Brå.",
+      "pubDate": "2026-09-15T08:04:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Valmyndigheten: Många röster kvar att räkna",
+      "link": "https://www.expressen.se/nyheter/politik/valmyndigheten-manga-roster-kvar-att-rakna/",
+      "description": "Rösträkningen drar ut och på tiden och väntas bli klar först på torsdag. Många sena förtidsröster och fler utlandsröster tar längre tid att behandla. – Vi förväntar oss ett större antal röster i år än vid tidigare val, säger Anna Nyqvist, kanslichef på Valmyndigheten.",
+      "pubDate": "2026-09-15T08:03:29Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
     {
-      "title": "Susanne Nyström: Mitt i blockbråket gör Centerpartiet ett lyft",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-mitt-i-blockbraket-gor-centerpartiet-ett-lyft/",
-      "description": "Centerpartiet behåller sin position som riksdagens näst största borgerliga parti.",
-      "pubDate": "2026-09-15T04:10:10Z",
+      "title": "Insändare. Ge V äran för att stoppa vinsterna i skolan",
+      "link": "https://www.dn.se/insandare/ge-v-aran-for-att-stoppa-vinsterna-i-skolan/",
+      "description": "INSÄNDARE. Socialdemokraterna tycks nu ha vunnit den första av två matcher i jakten på regeringsmakten. Den andra, att få ihop den samlade oppositionen, kan lösas genom att ge Vänsterpartiet äran för att stoppa vinsterna i skolan, skriver Markus Dalström, medlem i Socialdemokraterna.",
+      "pubDate": "2026-09-15T08:02:08Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "C"
+        "S",
+        "V"
       ]
     },
     {
-      "title": "Magdalena Anderssons nya kamp: Ringer alla utom en",
-      "link": "https://www.expressen.se/nyheter/politik/magdalena-anderssons-nya-kamp-ringer-alla-utom-en/",
-      "description": "Magdalena Andersson (S) blev historisk som Sveriges första kvinnliga statsminister 2021.&nbsp; Att återta den positionen har varit målet under hela den gångna mandatperioden.&nbsp; Nu ser hon ut att få chansen på nytt – men det är ingen enkel resa som väntar.",
-      "pubDate": "2026-09-15T03:53:20Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Könsgapet verkar minska – fler män rödgröna",
+      "link": "https://www.dn.se/sverige/konsgapet-verkar-minska-fler-man-rodgrona/",
+      "description": "Män och kvinnor röstar fortfarande väldigt olika. Men i årets val verkar män ha rört sig något åt ett rödgrönt håll, enligt SVT:s vallokalsundersökning. Jenny Thörnberg från Miljöpartiet i Vallentuna känner igen sig. – Vi har haft fler gubbar i valrörelsen. Det gör mig lycklig.",
+      "pubDate": "2026-09-15T07:53:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "Regeringsbildning"
+        "MP"
       ]
     },
     {
-      "title": "Fortsatta samtal och kontakter – när partierna inväntar resultatet",
-      "link": "https://www.sverigesradio.se/artikel/9300237",
-      "description": "Tidigast på onsdag kan rösterna bli färdigräknade efter valet i söndags, i nuläget leder oppositionen med 176 mot 173 mandat. Under tisdagen väntar ännu en dag med kontakter och samtal om hur det ovissa läget ska hanteras. Liberalernas ledare Simona Mohamsson vill locka Centerpartiet till att byta sida. Centerns partisekreterare Hannes Hervieu gav dock besked om att så inte kommer bli fallet, då partiet enbart stöder Magdalena Andersson som statsminister.",
-      "pubDate": "2026-09-15T03:49:00Z",
+      "title": "I Stockholms sydöstra förorter har MP sitt främsta fäste",
+      "link": "https://www.dn.se/sverige/i-stockholms-sydostra-fororter-har-mp-sitt-framsta-faste/",
+      "description": "Miljöpartiet har gått starkt fram i Stockholms stad, och säkrat ännu en mandatperiod för det rödgröna styret i huvudstaden. I stadsdelsområdet Skarpnäck har MP sitt tyngsta fäste. – Jag har ju godkänt dem en gång, så jag fortsätter, säger Sonja Winqvist, 86, i Bagarmossen.",
+      "pubDate": "2026-09-15T07:53:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "MP växer i storstäderna – verkar nästan fördubblas i Stockholm",
+      "link": "https://www.svt.se/nyheter/inrikes/mp-vaxer-i-storstaderna-verkar-nastan-fordubblas-i-stockholm",
+      "description": "Det ser ut att svepa en grön våg över Sveriges tre största städer. Miljöpartiet verkar öka i Stockholm, Göteborg och Malmö i kommunalvalet – och i Stockholm har man nästan fördubblat sitt förra resultat. ”Det känns fantastiskt att ha så många väljare i ryggen”, skriver Lars Strömgren (MP), förstanamn på kommunlistan i Stockholm.",
+      "pubDate": "2026-09-15T07:37:22Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Här är Magdalena Anderssons alternativ i regeringsbildningen",
+      "link": "https://www.sverigesradio.se/artikel/9300299",
+      "description": "Väljarna har sagt sitt och som valresultatet ser ut nu, innan de så kallade onsdagsrösterna har räknat, så kommer Magdalena Andersson med största sannolikhet få i uppdrag att bilda regering. Men vilka regeringsalternativ kan bli verklighet? Att Centerpartiet lär spela en helt avgörande roll är ingen hemlighet – hör Martina Jarminder, politisk redaktör på Skånska Dagbladet, och Olof Jonmyren, politisk redaktör på Sörmlands nyheter, om alternativen.",
+      "pubDate": "2026-09-15T07:26:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
         "C",
-        "L",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "SD-toppen om egen Tidö-majoritet: ”Ska till ett mirakel”",
-      "link": "https://www.expressen.se/nyheter/sverige/sd-toppen-om-egen-tido-majoritet-ska-till-ett-mirakel/",
-      "description": "Sverigedemokraterna vill inte svara på om de är beredda att ge upp ministerposter för att locka över Centerpartiet på Tidösidan.&nbsp; Och utan C krävs det ett ”mirakel” för att få egen majoritet.&nbsp; &nbsp;– Det ser inte ut att vara sannolikt, säger SD:s partisekreterare Mattias Bäckström.&nbsp;",
-      "pubDate": "2026-09-14T20:46:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "C: Vår uppgift är inte att göra Jimmie Åkesson till minister",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=8ddc7fa6-b433-427e-8d5f-f658638bb360",
-      "description": "”De förlorade”",
-      "pubDate": "2026-09-14T20:00:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "V och C möts i Valstudion: ”Vi måste sluta ses såhär”",
-      "link": "https://www.svt.se/nyheter/inrikes/v-och-c-mots-i-valstudion-vi-maste-sluta-ses-sahar",
-      "description": "Vänsterpartiets vice partiledare, Ida Gabrielsson, och Centerpartiets partisekreterare Hannes Hervieu möttes ikväll i SVT:s valstudio där regeringsbildningen diskuterades. De gratulerar varandra till valresultatet men de röda linjerna finns tydligt kvar. – Vi har tydligt sagt att Vänsterpartiet inte ska sitta i nästa regering, säger Hervieu inledningsvis.",
-      "pubDate": "2026-09-14T19:38:48Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Strömmers sarkastiska svar till Baudin: “Känns ju jättebra”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=aaef1a7c-3dd0-419b-b095-1c3e29319e7c",
-      "description": "Strömmer och Baudin i studion: ”Jättebra!”",
-      "pubDate": "2026-09-14T19:30:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Nationalekonomen: Plånbokspopulism lönade sig i valet",
+      "link": "https://www.sverigesradio.se/artikel/9300125",
+      "description": "Nationalekonomen Lars Calmfors ser risker med den förda ekonomiska politiken och alla vallöften riktade till hushållen. \"Man kan ju tolka valresultatet som att det har betalat sig för Moderaterna att ställa ut vad jag nog skulle beteckna som ganska populistiska löften om vad man ska göra framöver”, säger Lars Calmfors, professor emeritus i internationell ekonomi och forskare vid IFN. Handelsbankens chefsekonom Christina Nyman räknar med att mandatperioden kommer att inledas med en stram budget.",
+      "pubDate": "2026-09-15T06:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M"
       ]
-    },
-    {
-      "title": "Historiskt S-ras i norr – backar i 38 kommuner",
-      "link": "https://www.dn.se/sverige/historiskt-s-ras-i-norr-backar-i-38-kommuner/",
-      "description": "Socialdemokraterna backade i 38 av 44 kommunval i norra Sverige – där partiet historiskt varit starkt. Niclas Hökfors (S) i Överkalix får lämna över makten till Centerpartiet. – Det är bara att gratulera, säger han.",
-      "pubDate": "2026-09-14T18:30:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Kent Ekeroth i P4 Dalarna: ”Jag spelar in”",
-      "link": "https://www.expressen.se/nyheter/politik/kent-ekeroth-i-p4-dalarna-jag-spelar-in/",
-      "description": "En mobilisering av invandrare och ”röstboskap från utlandet”. Kent Ekeroth (SD) anser att det är anledningen till Sverigedemokraternas tapp. När han intervjuas i direktsändning i P4 Dalarna hotar han med att lägga ut intervjun ”i sin helhet” när han inte får prata till punkt.",
-      "pubDate": "2026-09-14T18:29:29Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Allt kändes så bra – då kom historiska tappet: ”Måste ta reda på varför det hände”",
-      "link": "https://www.dn.se/sverige/allt-kandes-sa-bra-da-kom-historiska-tappet-maste-ta-reda-pa-varfor-det-hande/",
-      "description": "Allt kändes ju så bra under valkampanjen – ändå tappade SD mest av alla partier. Nu vittnar sverigedemokrater om en stor förvåning. – Det som avgör vår framtid nu är att vi klarar av att faktiskt förlora i ett val och gå vidare, säger Carl Eos, senior fellow på tankesmedjan Oikos.",
-      "pubDate": "2026-09-14T18:18:29Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Här är statsminister Anderssons tre hinder",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/har-ar-statsminister-anderssons-tre-hinder/",
-      "description": "Om valresultatet står sig får Sverige en ny regering, sade Magdalena Andersson på valnatten. Så kanske det blir – men det finns några tydliga hinder på vägen.",
-      "pubDate": "2026-09-14T17:40:46Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Efter valrysaren – viktiga datum att hålla koll på",
-      "link": "https://www.dn.se/sverige/efter-valrysaren-viktiga-datum-att-halla-koll-pa/",
-      "description": "Alla röster till riksdagsvalet är ännu inte räknade. Det jämna läget mellan oppositionen och Tidöpartierna gör de sista procenten av rösterna ovanligt intressanta. Här är datumen att hålla koll på under hösten.",
-      "pubDate": "2026-09-14T17:07:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "Fiaskopartierna – SD, S och L",
+      "link": "https://blog.zaramis.se/2026/09/15/fiaskopartierna-sd-s-och-l/",
+      "description": "Tre partier har misslyckats kapitalt i valrörelsen. Det har gjort ett så uselt val att de kan kallas fiaskopartierna. Dessa tre partier är SD, S och L. Men Liberalerna lyckade ju hållas ig kvart i riksdagen kanske någon invänder. Men det lyckades de enbart med på grund av stödröster från M. Inte på grund av det finns nåt större stöd för Liberalerna i sig. Det är lätt att se när vi tittar på valen i regioner och kommuner. Läs mer … Inlägget Fiaskopartierna &#8211; SD, S och L dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-15T06:50:46Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "L"
+      ]
+    },
     {
       "title": "Forskare: Ekonomiska påfrestningar bakom V:s framgång i utsatta områden",
       "link": "https://www.dagensarena.se/innehall/forskare-ekonomiska-pafrestningar-bakom-vs-framgang-utsatta-omraden/",
@@ -440,19 +445,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
       "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Vad ville Centern ha ut av muslimerna?",
-      "link": "https://ledarsidorna.se/vad-ville-centern-ha-ut-av-muslimerna/",
-      "description": "Fem år innan Socialdemokraternas sidoorganisation Broderskapsrörelsen började diskutera hur många muslimer som borde finnas på socialdemokratiska listor hade ett annat riksdagsparti redan genomfört ett omfattande samarbetsprojekt med muslimska organisationer. Centerpartiet. I en process där företrädare för samma muslimska kluster som Socialdemokraterna senare inledde dialog med. Allt finansierat med skattemedel. Mellan 1990 och 1994 drev Centern [&#8230;]",
-      "pubDate": "2026-09-05T03:33:38Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
         "C"
       ]
     }
