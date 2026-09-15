@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T00:43:57.434519Z",
+  "updated_at": "2026-09-15T05:32:35.046788Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,80 @@
     }
   ],
   "news": [
+    {
+      "title": "Här är opinionsmätningar före val förbjudna",
+      "link": "https://www.dn.se/varlden/har-ar-opinionsmatningar-fore-val-forbjudna/",
+      "description": "I flera europeiska länder är det förbjudet att publicera opinionsmätningar dagar eller veckor före valdagen. Efter den svenska debatten om taktikröstande väcks frågan om Sverige borde införa liknande regler.",
+      "pubDate": "2026-09-15T05:27:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Liberalerna tappar i 215 kommuner – och alla regioner",
+      "link": "https://www.expressen.se/nyheter/politik/liberalerna-tappar-i-215-kommuner-och-alla-regioner/",
+      "description": "Liberalerna klarade riksdagsspärren med råge – men ser samtidigt ut att tappa 148 mandat lokalt.&nbsp; Partiet backar i 215 av landets kommuner och i alla regioner.&nbsp; I 39 kommuner och i fem regioner åker de ut helt.&nbsp;",
+      "pubDate": "2026-09-15T05:11:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Sverigesdemokraterna tappar i 285 kommuner",
+      "link": "https://www.expressen.se/nyheter/politik/sverigesdemokraterna-tappar-i-285-kommuner/",
+      "description": "SD är det parti som tappar mest i riksdagsvalet. Partiet backar i 285 av Sveriges 290 kommuner. – Det är en överraskande stor tillbakagång, säger statsvetare Andreas Johansson Heinö.",
+      "pubDate": "2026-09-15T04:29:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Susanne Nyström: Mitt i blockbråket gör Centerpartiet ett lyft",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-mitt-i-blockbraket-gor-centerpartiet-ett-lyft/",
+      "description": "Centerpartiet behåller sin position som riksdagens näst största borgerliga parti.",
+      "pubDate": "2026-09-15T04:10:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Magdalena Anderssons nya kamp: Ringer alla utom en",
+      "link": "https://www.expressen.se/nyheter/politik/magdalena-anderssons-nya-kamp-ringer-alla-utom-en/",
+      "description": "Magdalena Andersson (S) blev historisk som Sveriges första kvinnliga statsminister 2021.&nbsp; Att återta den positionen har varit målet under hela den gångna mandatperioden.&nbsp; Nu ser hon ut att få chansen på nytt – men det är ingen enkel resa som väntar.",
+      "pubDate": "2026-09-15T03:53:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Fortsatta samtal och kontakter – när partierna inväntar resultatet",
+      "link": "https://www.sverigesradio.se/artikel/9300237",
+      "description": "Tidigast på onsdag kan rösterna bli färdigräknade efter valet i söndags, i nuläget leder oppositionen med 176 mot 173 mandat. Under tisdagen väntar ännu en dag med kontakter och samtal om hur det ovissa läget ska hanteras. Liberalernas ledare Simona Mohamsson vill locka Centerpartiet till att byta sida. Centerns partisekreterare Hannes Hervieu gav dock besked om att så inte kommer bli fallet, då partiet enbart stöder Magdalena Andersson som statsminister.",
+      "pubDate": "2026-09-15T03:49:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "L",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "SD-toppen om egen Tidö-majoritet: ”Ska till ett mirakel”",
       "link": "https://www.expressen.se/nyheter/sverige/sd-toppen-om-egen-tido-majoritet-ska-till-ett-mirakel/",
@@ -180,28 +254,6 @@
       ]
     },
     {
-      "title": "Mohamssons mirakel: Så räddade hon Liberalerna",
-      "link": "https://www.expressen.se/nyheter/politik/mohamssons-mirakel-sa-raddade-hon-liberalerna/",
-      "description": "Simona Mohamsson var körd. Gravplundrare från den borgerliga mitten hade redan börjat cirkla runt resterna av Liberalerna. Då skedde ett smärre mirakel. – Jag ledde ett parti som var totalt uträknat för ett år sedan. Och nu har hela valrörelsen handlat om Liberalerna, säger Mohamsson. Anna Gullberg har följt partiet från insidan, från djup kris till Simonafeber.",
-      "pubDate": "2026-09-14T17:12:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Alla röster registrerade hos Valmyndigheten",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=cd521c7d-9d86-4249-9a91-78d7cc01aecf",
-      "description": "Men 314 distrikt återstår att räknas",
-      "pubDate": "2026-09-14T17:08:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Efter valrysaren – viktiga datum att hålla koll på",
       "link": "https://www.dn.se/sverige/efter-valrysaren-viktiga-datum-att-halla-koll-pa/",
       "description": "Alla röster till riksdagsvalet är ännu inte räknade. Det jämna läget mellan oppositionen och Tidöpartierna gör de sista procenten av rösterna ovanligt intressanta. Här är datumen att hålla koll på under hösten.",
@@ -210,58 +262,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "1 100 anmälningar efter SD-kampanj – IMY kan inleda granskning",
-      "link": "https://www.sverigesradio.se/artikel/9300153",
-      "description": "1 100 anmälningar har kommit in till Integritetsskyddsmyndigheten efter att Sverigedemokraterna skickade ut politisk reklam via sms under helgen. Nu kommenterar Integritetsskyddsmyndigheten klagomålen som kan kommer att titta närmare på. Om det blir fråga om en granskning, så&nbsp;handlar det främst om hur utskicket förhåller sig till dataskyddslagstiftningen GDPR&nbsp;och behandlingen av personuppgifter, enligt myndighetens rättschef David Törngren. Ekot har sökt Sverigedemokraterna som avböjer att kommentera.",
-      "pubDate": "2026-09-14T17:06:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Busch efter jämna valet: ”Långt ifrån kört”",
-      "link": "https://www.dn.se/sverige/busch-efter-jamna-valet-langt-ifran-kort/",
-      "description": "Efter ett rafflande val har Ulf Kristersson bjudit in Tidöledarna på middag. Statsministern säger sig vara öppen för olika regeringskonstellationer. – Det är långt ifrån kört, säger KD-ledaren Ebba Busch utanför Sagerska.",
-      "pubDate": "2026-09-14T17:03:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Dubblerat stöd för V i vissa utsatta områden: ”Motpol till SD”",
-      "link": "https://www.svt.se/nyheter/inrikes/dubblerat-stod-for-v-i-vissa-utsatta-omraden-motpol-till-sd",
-      "description": "Valnatten blev en succé för Vänsterpartiet som ser ut att ha ökat sitt stöd med 1,5 procentenheter i riksdagsvalet. Lokalt är förändringarna ännu större. I flera områden som klassas som utsatta eller särskilt utsatta går V starkt framåt jämfört med förra valet.",
-      "pubDate": "2026-09-14T16:53:39Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Centerpartiet mitt i det jämna valet: ”Ser inte politiken som två sidor”",
-      "link": "https://www.svt.se/nyheter/inrikes/centerpartiet-mitt-i-det-jamna-valet-ser-inte-politiken-som-tva-sidor",
-      "description": "Mitt i det jämna valresultatet står Centerpartiet som förespråkar en mittenregering med Magdalena Andersson statsministerkandidat. Samtidigt som de dragit en röd linje mot V i regering. Partisekreterare Hannes Hervieu står fast vid att C:s fokus kommer att ligga på förhandlingar med S. – Jag ser inte politiken som att det bara är två sidor, säger han till SVT.",
-      "pubDate": "2026-09-14T16:53:01Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
@@ -383,18 +383,6 @@
       ]
     },
     {
-      "title": "Förbättra sjukförsäkringen",
-      "link": "https://blog.zaramis.se/2026/09/11/forbattra-sjukforsakringen/",
-      "description": "Sjukförsäkringen ska försäkra dig – inte utförsäkra dig. Vänsterpartiet gör en upprustning av sjukförsäkringen till en politisk prioritering i regeringsförhandlingarna efter valet. Partiet vill bland annat slopa karensavdraget, förändra rehabiliteringskedjan och stärka ersättningarna. På torsdagen presenterade Vänsterpartiets vice ordförande Ida Gabrielsson partiets prioritering på en pressträff tillsammans med Kjell Rautio, tidigare välfärdsutredare på TCO och LO. Läs mer … Inlägget Förbättra sjukförsäkringen dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-11T12:43:58Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "KD:s relationer med Brödraskapet 2022-2026",
       "link": "https://ledarsidorna.se/kds-relationer-med-brodraskapet-2022-2026/",
       "description": "Kristdemokraterna medverkade i november 2022 till att regeringen drog tillbaka en proposition som skulle ha infört demokrativillkor för statligt stöd till trossamfund och civilsamhälle. Under de två år som följde fortsatte kommunala medel att gå till Ibn Rushd, samtidigt som KD-företrädare offentligt kritiserade just dessa beslut. Studieförbundet Ibn Rushd avvecklade sin verksamhet under hösten 2022, [&#8230;]",
@@ -452,6 +440,19 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
       "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Vad ville Centern ha ut av muslimerna?",
+      "link": "https://ledarsidorna.se/vad-ville-centern-ha-ut-av-muslimerna/",
+      "description": "Fem år innan Socialdemokraternas sidoorganisation Broderskapsrörelsen började diskutera hur många muslimer som borde finnas på socialdemokratiska listor hade ett annat riksdagsparti redan genomfört ett omfattande samarbetsprojekt med muslimska organisationer. Centerpartiet. I en process där företrädare för samma muslimska kluster som Socialdemokraterna senare inledde dialog med. Allt finansierat med skattemedel. Mellan 1990 och 1994 drev Centern [&#8230;]",
+      "pubDate": "2026-09-05T03:33:38Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
         "C"
       ]
     }
