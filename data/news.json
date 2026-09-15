@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T22:10:28.873544Z",
+  "updated_at": "2026-09-15T00:43:57.434519Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -383,18 +383,6 @@
       ]
     },
     {
-      "title": "Kristerssons dröm om den brittiska aristokratin",
-      "link": "https://www.dagensarena.se/opinion/kristerssons-drom-om-den-brittiska-aristokratin/",
-      "description": "Klädda i tweed reste Landerholm och Kristersson till Oxford. Inlägget Kristerssons dröm om den brittiska aristokratin dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-11T23:54:47Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Förbättra sjukförsäkringen",
       "link": "https://blog.zaramis.se/2026/09/11/forbattra-sjukforsakringen/",
       "description": "Sjukförsäkringen ska försäkra dig – inte utförsäkra dig. Vänsterpartiet gör en upprustning av sjukförsäkringen till en politisk prioritering i regeringsförhandlingarna efter valet. Partiet vill bland annat slopa karensavdraget, förändra rehabiliteringskedjan och stärka ersättningarna. På torsdagen presenterade Vänsterpartiets vice ordförande Ida Gabrielsson partiets prioritering på en pressträff tillsammans med Kjell Rautio, tidigare välfärdsutredare på TCO och LO. Läs mer … Inlägget Förbättra sjukförsäkringen dök först upp på Svenssons Nyheter .",
@@ -452,6 +440,18 @@
       "sourceType": "blog",
       "topics": [
         "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Muslimska brödraskapet når organisatorisk mognad med stöd från Centerpartiet",
+      "link": "https://ledarsidorna.se/muslimska-brodraskapet-nar-organisatorisk-mognad-med-stod-fran-centerpartiet/",
+      "description": "I den andra av tre artiklar om Centerpartiets muslimprojekt 1990–1994 beskrivs hur projektet når en organisatorisk mognad och utgör basen för etableringen av politisk islam i samtliga riksdagspartier. Där många av de politiska krav som formulerats med partiets hjälp nu etableras som allmängiltiga . Fyra månader före riksdagsvalet 1994 skickade Mahmoud Aldebe ett öppet brev [&#8230;]",
+      "pubDate": "2026-09-06T03:33:36Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
         "C"
       ]
     }
