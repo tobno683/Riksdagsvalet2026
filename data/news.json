@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T05:24:53.713729Z",
+  "updated_at": "2026-09-16T10:06:37.655323Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,62 @@
   ],
   "news": [
     {
+      "title": "Avgjorde 200 000 nya medborgare valet?",
+      "link": "https://www.svt.se/nyheter/inrikes/avgjorde-200-000-nya-medborgare-valet",
+      "description": "Efter valet har det spridits påståenden om att de personer som blivit svenska medborgare under de senaste fyra Tidö-åren skulle ha avgjort resultatet till de rödgrönas fördel. SVT Verifierar reder ut vad som går att slå fast och inte.",
+      "pubDate": "2026-09-16T09:17:39Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Riksdagsvalet: Nu avgörs allt – sista rösterna räknas",
+      "link": "https://www.expressen.se/nyheter/politik/riksdagsvalet-nu-avgors-/",
+      "description": "33 541 röster skiljer oppositionen från Tidösidan.&nbsp; Samtidigt har uppemot 300 000 röster börjat räknas under onsdagen – och nu är de första distrikten klara.&nbsp; – Sannolikheten är stor att det är så pass jämnt att kontrollräkningen kan spela roll, säger prognosgurun Gustav Karreskog Rehbinder.",
+      "pubDate": "2026-09-16T08:13:56Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ulf Kristersson kanske lärde sig av Stefan Löfven",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/ulf-kristersson-kanske-larde-sig-av-stefan-lofven/",
+      "description": "Att Socialdemokraterna kräver statsministerns avgång är komiskt för alla som minns valet 2018.",
+      "pubDate": "2026-09-16T08:05:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Så kan onsdagsrösterna påverka – fler än någonsin tidigare",
+      "link": "https://www.sverigesradio.se/artikel/9301136",
+      "description": "Under onsdagen börjar utlandsrösterna och de sena förtidsrösterna räknas. Det handlar om runt 300 000 röster, vilket enligt Valmyndigheten är fler än vid något tidigare val. Innan de sista rösterna räknas har oppositionen ett övertag på runt 33 000 röster. Men att de skulle vända resultatet till Tidöpartiernas fördel ses som osannolikt, enligt Maria Solevid, valforskare och statsvetare vid Göteborgs universitet.",
+      "pubDate": "2026-09-16T07:12:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Efter valfiaskot: Så säkert sitter Jimmie Åkesson nu",
+      "link": "https://www.expressen.se/nyheter/efter-valfiaskot-sa-sakert-sitter-jimmie-akesson-nu/",
+      "description": "Efter dåliga valsiffror surras det bland sverigedemokrater. Vad gick fel och varför? Och den ofrånkomliga frågan efter ett valnederlag: Hur säkert sitter partiledaren? – Jag tror den stora knäckfrågan fortfarande är: Vem ska ta över efter Jimmie, säger Paula Bieler, före detta riksdagsledamot i SD.",
+      "pubDate": "2026-09-16T05:47:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Tidigare MP-toppen: MP har sämst position",
       "link": "https://www.expressen.se/nyheter/politik/tidigare-mp-toppen-mp-har-samst-position-/",
       "description": "Miljöpartiet fick 6,1 procent och gick till val på noll röda linjer.&nbsp; En strategi som möjligen kan ligga dem i fatet, enligt tidigare språkröret Maria Wetterstrand. –&nbsp;Jag tror att Miljöpartiet har svagast kort i de här förhandlingarna, säger hon i tisdagens Aktuellt i SVT.&nbsp;",
@@ -156,18 +212,6 @@
       ]
     },
     {
-      "title": "Ledare: I en demokrati är muslimers röster lika mycket värda",
-      "link": "https://www.dn.se/ledare/i-en-demokrati-ar-muslimers-roster-lika-mycket-varda/",
-      "description": "Både sverigedemokrater och andra högerdebattörer misstänkliggör nu svenska muslimer som använt sin demokratiska rätt att rösta.",
-      "pubDate": "2026-09-16T03:10:01Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "Hägglund (KD): Ett extraval kan straffa de rödgröna",
       "link": "https://www.svt.se/nyheter/inrikes/hagglund-kd-ett-extraval-kan-straffa-de-rodgrona",
       "description": "De preliminära resultaten visar en valvinst till oppositionen – men regeringsfrågan hänger över de rödgrönas huvuden. En verklighet med röda linjer där ingen vill vika sig och press från väljarna väntar, menar två tidigare partiledare. – Jag tror att Vänsterpartiet är mer bestämda än vad man föreställer sig, säger Göran Hägglund (KD).",
@@ -176,19 +220,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "M-toppen: ”Skulle möjligen gjort  Saddam Hussein avundsjuk”",
-      "link": "https://www.expressen.se/nyheter/sverige/m-toppen-skulle-mojligen-gjort--saddam-hussein-avundsjuk/",
-      "description": "I vissa valdistrikt har Socialdemokraterna och Vänsterpartiet fått uppemot 95 procent av rösterna, enligt de preliminära siffrorna.&nbsp; Det får M-toppen Fredrik Kärrholm att reagera.&nbsp; ”Ett resultat som möjligen skulle ha gjort Saddam Hussein avundsjuk”, skriver han i The Spectator .&nbsp;",
-      "pubDate": "2026-09-15T19:59:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
         "V"
       ]
     },
@@ -218,18 +249,6 @@
       ]
     },
     {
-      "title": "Katastrofval för Centerpartiet  – tappar makten efter 41 år",
-      "link": "https://www.expressen.se/nyheter/politik/katastrofval-for-centerpartiet-tappar-makten-efter-41-ar/",
-      "description": "Centerpartiet har varit med och styrt i Mönsterås i 41 år. Men nu gör partiet ett historiskt dåligt valresultat – och kommunalrådet Anders Johansson väljer att avgå. – Jag har tappat i energi och känt mig väldigt sliten, säger han till Barometern. &nbsp;",
-      "pubDate": "2026-09-15T19:26:28Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "SD tappar stort bland de yngsta väljarna",
       "link": "https://www.svt.se/nyheter/inrikes/sd-tappar-stort-bland-de-yngsta-valjarna",
       "description": "Sverigedemokraterna backade enligt de preliminära siffrorna med 3,3 procentenheter i valet. Bland olika åldersgrupper så är tappet störst bland väljare mellan 18 och 21 år, där backar partiet hela sju procentenheter.",
@@ -240,34 +259,34 @@
       "topics": [
         "SD"
       ]
-    },
+    }
+  ],
+  "blogs": [
     {
-      "title": "Max Hjelm: Vänsterpartiets egotripp kostade nästan oppositionen valvinsten",
-      "link": "https://www.dn.se/ledare/max-hjelm-vansterpartiets-egotripp-kostade-nastan-oppositionen-valvinsten/",
-      "description": "Socialdemokraterna satte laget framför jaget. Det motsatta kan sägas om Vänsterpartiet.",
-      "pubDate": "2026-09-15T19:04:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
+      "title": "SD bakåt och V framåt",
+      "link": "https://blog.zaramis.se/2026/09/16/sd-bakat-och-v-framat/",
+      "description": "Åkesson stoppad som migrationsminister i en SD-ledd regering. Vänsterpartiet når rekordsiffror trots medias hatstorm om antisemitism och terrorromantik! Läs mer … Inlägget SD bakåt och V framåt dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-16T08:50:55Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
       "topics": [
-        "S",
+        "SD",
         "V"
       ]
     },
     {
-      "title": "Ola Larsmo: Tog det stopp nu för SD-rallyt i svensk politik?",
-      "link": "https://www.dn.se/kultur/ola-larsmo-tog-det-stopp-nu-for-sd-rallyt-i-svensk-politik/",
-      "description": "Sverigedemokraterna backar i riksdagsvalet – och även den internationella högerpopulismen verkar ha stött på en vägbula. Men det finns en intressantare tanke att fånga upp.",
-      "pubDate": "2026-09-15T19:01:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
+      "title": "Personfixerad valrörelse med ett undantag",
+      "link": "https://blog.zaramis.se/2026/09/16/personfixerad-valrorelse-med-ett-undantag/",
+      "description": "Att det varit en personfixerad valrörelse skriver Brit Stakston bra om på sajten Blankspot. Men hon missar att det finns ett tydligt undantag. Nämligen det parti som lyckades bäst i valet. Vänsterpartiet. I valet 2022 var Vänsterpartiets valrörelse extremt personfixerad. Det gick inget vidare. Läs mer … Inlägget Personfixerad valrörelse med ett undantag dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-16T05:41:34Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
       "topics": [
-        "SD"
+        "V"
       ]
-    }
-  ],
-  "blogs": [
+    },
     {
       "title": "Stefan Löfven om regeringsförhandlingar: ”Gäller att ha en gemensam målbild”",
       "link": "https://www.dagensarena.se/innehall/stefan-lofven-om-regeringsforhandlingar-galler-att-ha-en-gemensam-malbild/",
@@ -373,18 +392,6 @@
       ]
     },
     {
-      "title": "En jobbpolitik för vanligt folk",
-      "link": "https://blog.zaramis.se/2026/09/13/en-jobbpolitik-for-vanligt-folk/",
-      "description": "Sveriges arbetslöshet är skyhög samtidigt som stora investeringar behövs. Industrin måste ställa om, fler billiga hyresrätter byggas och järnvägen rustas upp. I stället för att skapa jobb väljer Tidöregeringen att straffa människor för att de blivit arbetslösa, genom sänkt a-kassa och sänkta bidrag. Vänsterpartiet vill se en regering som investerar i klimat, bostäder och ett hållbart energisystem. Läs mer … Inlägget En jobbpolitik för vanligt folk dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-13T05:22:47Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Sex partier och det Muslimska brödraskapet – For Dummies",
       "link": "https://ledarsidorna.se/sex-partier-och-det-muslimska-brodraskapet-for-dummies/",
       "description": "Under sommaren och början av hösten har Ledarsidorna kunnat publicera en bild av hur sex av riksdagens åtta partier, på olika sätt och under olika decennier, bidragit till att etablera Muslimska brödraskapets nätverk i Sverige. Endast två partier, Liberalerna och Sverigedemokraterna, har kunnat stå utanför Brödraskapets etableringssträvanden av sinsemellan olika skäl. I Liberalerna, som är [&#8230;]",
@@ -443,18 +450,6 @@
       "sourceType": "blog",
       "topics": [
         "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Muslimska brödraskapet når organisatorisk mognad med stöd från Centerpartiet",
-      "link": "https://ledarsidorna.se/muslimska-brodraskapet-nar-organisatorisk-mognad-med-stod-fran-centerpartiet/",
-      "description": "I den andra av tre artiklar om Centerpartiets muslimprojekt 1990–1994 beskrivs hur projektet når en organisatorisk mognad och utgör basen för etableringen av politisk islam i samtliga riksdagspartier. Där många av de politiska krav som formulerats med partiets hjälp nu etableras som allmängiltiga . Fyra månader före riksdagsvalet 1994 skickade Mahmoud Aldebe ett öppet brev [&#8230;]",
-      "pubDate": "2026-09-06T03:33:36Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
         "C"
       ]
     }
