@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T18:57:35.109095Z",
+  "updated_at": "2026-09-16T21:50:23.350931Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,17 +79,91 @@
   ],
   "news": [
     {
-      "title": "Moderaterna kallar till sig opinionsinstituten: ”Vi undervärderas”",
-      "link": "https://www.expressen.se/nyheter/politik/moderaterna-kallar-till-sig-opinionsinstituten-vi-undervarderas/",
-      "description": "Moderaterna anser att partiet har missgynnats av opinionsmätningarna. Nu kallar man till sig mätinstituten. – Man måste gå till botten med varför Moderaterna systematiskt undervärderas, säger biträdande partisekreterare Martin Borgs till SVT. &nbsp;",
-      "pubDate": "2026-09-16T18:05:55Z",
+      "title": "V-toppen om att släppa kraven:  ”Går inte på en sån blåsning”",
+      "link": "https://www.expressen.se/nyheter/sverige/v-toppen-om-att-slappa-kraven--gar-inte-pa-en-san-blasning/",
+      "description": "Gång på gång står Vänsterpartiet på sig om att de ska ingå i regering.&nbsp; Och de kommer inte luras av löften om att få igenom sakpolitik.&nbsp; – Vi kommer inte gå på en sån blåsning, säger V-toppen Ida Gabrielsson i SVT:s Aktuellt.&nbsp;",
+      "pubDate": "2026-09-16T21:03:58Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "Opinion"
+        "V"
       ]
+    },
+    {
+      "title": "Furtenbach: Blir svårt för Andersson att bilda regering",
+      "link": "https://www.sverigesradio.se/artikel/9301869",
+      "description": "Det kommer inte bli enkelt för Magdalena Andersson att bilda regering, trots att SVT:s prognos visar den rödgröna sidan som vinnare i valet. Problemet för Magdalena Andersson är att Vänsterpartiet kräver ministerposter samtidigt som Centerpartiet inte accepterar ministrar från Vänsterpartiet, säger Ekots inrikespolitiske kommentator Fredrik Furtenbach. ”Många som sysslar med politik spekulerar i att något av de här partierna kanske rör sig först när ett extraval hotar”, fortsätter han.",
+      "pubDate": "2026-09-16T20:53:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Gabrielsson (V): ”Då måste vi fyra börja säga ja till varandra”",
+      "link": "https://www.sverigesradio.se/artikel/9301852",
+      "description": "Vänsterpartiets vice partiledare Ida Gabrielson kommenterar nu i Aktuellt SVT:s valprognos, som visar att de rödgröna partierna vinner valet. Hon betonar att det är dags att släppa de röda linjerna, då Centerpartiet tidigare sagt att man inte vill ingå i en regering med V. ”Det som är viktigt nu när det här står klart, det är ändå att då finns det en chans att äntligen bilda en ny majoritet där Magdalena Andersson kan vara statsminister”, säger hon.",
+      "pubDate": "2026-09-16T20:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Till slut är det siffrorna i riksdagen som avgör",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/till-slut-ar-det-siffrorna-i-riksdagen-som-avgor/",
+      "description": "Hon vann sin folkomröstning mot de tolv SD-ministrarna, men nu börjar Magdalena Anderssons svåraste match.",
+      "pubDate": "2026-09-16T19:58:12Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Vänsterpartiets strategi i förorterna: ”Tittat intensivt”",
+      "link": "https://www.expressen.se/nyheter/politik/vansterpartiets-strategi-i-fororterna-tittat-intensivt/",
+      "description": "Vänsterpartiet rusar i flera förorter. Enligt partiet är det resultatet av en medveten strategi – inspirerat av New York. Samtidigt slår man tillbaka mot högerkritiken. – Det finns inga belägg, säger Rashid Mohammed (V), ordförande i Järva stadsdel.",
+      "pubDate": "2026-09-16T19:24:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Malin Ullgren: Först när SD backade förstod jag hur rädd jag varit",
+      "link": "https://www.dn.se/kultur/malin-ullgren-forst-nar-sd-backade-forstod-jag-hur-radd-jag-varit/",
+      "description": "I femton år har hoten och hatet varit tätt sammanflätade med Sverigedemokraternas framgångar. Först när partiet backade i valet blev det tydligt hur djupt rädslan har trängt in – inte bara i mig, utan i hela offentligheten, skriver DN:s Malin Ullgren.",
+      "pubDate": "2026-09-16T19:23:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Statsvetare: I stort sett kört för Tidöpartierna",
+      "link": "https://www.dn.se/sverige/statsvetare-i-stort-sett-kort-for-tidopartierna/",
+      "description": "Än är inte alla röster räknade, men oppositionens övertag ser ut att hålla. – Det är i stort sett kört för Tidöpartierna, säger Erik Wångmar, statsvetare vid Linnéuniversitetet.",
+      "pubDate": "2026-09-16T19:16:54Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     },
     {
       "title": "DN Debatt. ”Viktigast är inte vem som vann valet – utan vad de får offra”",
@@ -105,14 +179,15 @@
       ]
     },
     {
-      "title": "”Kristersson kommer vänta med att erkänna sig besegrad”",
+      "title": "Furtenbach: Kristersson kommer vänta med att erkänna sig besegrad",
       "link": "https://www.sverigesradio.se/artikel/9301778",
-      "description": "Enligt SVT:s prognos kommer de rödgröna partierna bli störst i riksdagsvalet.&nbsp;”Det är möjligt att partierna vill vänta med kommentarer tills imorgon”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. Han tror att trots prognosen kommer Ulf Kristersson (M) att vänta med att erkänna sig besegrad. \"Här finns det inslag av spel, det handlar om att sätta press på Centerpartiet,\" säger han. Däremot tror han att man inte kommer att lyckas med att pressa C.",
+      "description": "Enligt SVT:s prognos kommer de rödgröna partierna bli störst i riksdagsvalet. ”Ulf Kristersson tänker inte erkänna sig besegrad förens Magdalena Andersson har valts”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. Tanken är att sätta press på Centerpartiet, men att det skulle leda någonstans tror han inte. Men Tidöpartierna kan då visa upp att det är Centerpartiet som hindrar en blå regering, säger han.",
       "pubDate": "2026-09-16T17:42:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
         "M",
         "C"
       ]
@@ -153,7 +228,7 @@
     {
       "title": "SVT:s prognos: 99,9 procents sannolikhet att de rödgröna vinner",
       "link": "https://www.dn.se/sverige/valrysaren-fortsatter-mandatpingis-mellan-blocken/",
-      "description": "Valrysaren fortsätter. Under onsdagen hoppade ett riksdagsmandat fram och tillbaka mellan blocken. Men enligt SVT:s prognos är hoppet nu ute för Tidöpartierna. – Det skulle krävas något alldeles extra, säger Henrik Ekengren Oscarsson, professor i statsvetenskap.",
+      "description": "Valrysaren fortsätter. Under onsdagen hoppade ett riksdagsmandat fram och tillbaka mellan blocken. Men enligt SVT:s prognos är hoppet nu ute för Tidöpartierna.",
       "pubDate": "2026-09-16T16:09:59Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -181,77 +256,6 @@
       "topics": [
         "S",
         "SD"
-      ]
-    },
-    {
-      "title": "Här räknas onsdagsrösterna i Stockholms stadshus",
-      "link": "https://www.dn.se/sverige/har-raknas-onsdagsrosterna-i-stockholms-stadshus/",
-      "description": "På onsdagen efter valdagen gör kommunerna valnämndens preliminära rösträkning. Stockholm stads så kallade onsdagsräkning ägde rum i Blå hallen i Stockholms stadshus. Här granskades och räknades alla brev- och förtidsröster. – Jag skulle tro att det är bortåt 32 000 röster som ska räknas, men jag vet inte exakt, säger kanslichef Eva Debels.",
-      "pubDate": "2026-09-16T15:24:31Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Valrysaren fortsätter med frenetiskt rösträknande",
-      "link": "https://www.sverigesradio.se/artikel/9301681",
-      "description": "Det räknas frenetiskt – och samtidigt spekuleras det om hur de sista rösterna kan påverka det mycket jämna svenska valresultatet. Hundratusentals sent inkomna förtids- och utlandsröster återstår fortfarande innan valresultatet klarnar. Valmyndighetens kanslichef Anna Nyqvist bedömer att de rösterna kan vara färdigräknade senast i morgon. Men resultatet kommer fortfarande bara att vara preliminärt.",
-      "pubDate": "2026-09-16T15:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "C-politiker tror på kompromiss: ”Inte ett drömläge för någon”",
-      "link": "https://www.dn.se/sverige/c-politiker-tror-pa-kompromiss-inte-ett-dromlage-for-nagon/",
-      "description": "Om Magdalena Andersson ska kunna bilda en regering måste problemet med Vänsterpartiets och Centerns röda linjer lösas. C-företrädare ute i landet tror att kompromisser är möjliga. – Om vi får tillräckligt bra betalt, säger Anton Sauer, gruppledare för C i Malmö.",
-      "pubDate": "2026-09-16T14:56:23Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. S, C och M borde prata ihop sig",
-      "link": "https://www.dn.se/insandare/s-c-och-m-borde-prata-ihop-sig/",
-      "description": "INSÄNDARE. Eftersom valet blev så jämnt bör de två största riksdagspartierna göra gemensam sak med mittenpartiet Centern. Och låt gärna S-ledaren Magdalena Andersson bli statminister, skriver Kurt Franzén.",
-      "pubDate": "2026-09-16T14:55:33Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "SD tappade mest i valet – nu börjar självrannsakan",
-      "link": "https://www.sverigesradio.se/artikel/9301656",
-      "description": "Sverigedemokraterna backade mest av alla partier i riksdagsvalet, med omkring tre procentenheter, och tappade även i starka fästet Skåne. Enligt SVT:s vallokalsundersökning gick drygt 10 procent av SD:s tidigare väljare till Moderaterna eller Kristdemokraterna, samtidigt som partiföreträdare beskriver både besvikelse och behov av självkritik. ”Vi måste blir mer sofistikerade att lägga fram texten”, säger Niclas Nilsson, regionråd från Kristianstad.",
-      "pubDate": "2026-09-16T14:55:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Det talar för Vänsterpartiet i regeringen",
-      "link": "https://www.svt.se/nyheter/inrikes/det-talar-for-vansterpartiet-i-regeringen",
-      "description": "Nooshi Dadgostar (V) har förberett både sitt parti och sina väljare på att hon kommer driva kravet på ministerposter ända in i kaklet. Och när Vänsterpartiet nu är det parti som ökat mest i av alla valet ses det som ett kvitto på att hon har väljarna med sig. Men läget är låst och i slutändan kokar det ner till vem som har mest att förlora.",
-      "pubDate": "2026-09-16T14:37:42Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     }
   ],
