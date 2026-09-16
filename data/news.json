@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T00:33:27.929140Z",
+  "updated_at": "2026-09-16T05:24:53.713729Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,95 @@
     }
   ],
   "news": [
+    {
+      "title": "Tidigare MP-toppen: MP har sämst position",
+      "link": "https://www.expressen.se/nyheter/politik/tidigare-mp-toppen-mp-har-samst-position-/",
+      "description": "Miljöpartiet fick 6,1 procent och gick till val på noll röda linjer.&nbsp; En strategi som möjligen kan ligga dem i fatet, enligt tidigare språkröret Maria Wetterstrand. –&nbsp;Jag tror att Miljöpartiet har svagast kort i de här förhandlingarna, säger hon i tisdagens Aktuellt i SVT.&nbsp;",
+      "pubDate": "2026-09-16T04:44:48Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Susanne Nyström: Varför säger ingen ifrån när Jimmie Åkesson går till attack?",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-varfor-sager-ingen-ifran-nar-jimmie-akesson-gar-till-attack/",
+      "description": "Tidösamarbetet försvinner vid maktskiftet. Respektklausulen måste falla med den.",
+      "pubDate": "2026-09-16T04:33:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "S-plan för regeringsskifte: ”Jag är en stenhård förhandlare”",
+      "link": "https://www.dn.se/sverige/s-plan-for-regeringsskifte-jag-ar-en-stenhard-forhandlare/",
+      "description": "Socialdemokraterna har förberett sig i månader för ett regeringsskifte. Nu väntar partiet in valresultatet för att sjösätta planerna. S vill i ett första försök ta makten med hjälp av MP, C och V, enligt uppgift till DN. – Nu är det upp till Magdalena Andersson att lösa det här, säger en C-källa.",
+      "pubDate": "2026-09-16T04:06:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Då tvingas Kristersson avgå",
+      "link": "https://www.svt.se/nyheter/inrikes/da-tvingas-kristersson-avga",
+      "description": "Om inte något sensationellt inträffar när de sista rösterna räknas är Ulf Kristerssons dagar som statsminister räknade. I alla fall för den här gången. Han kan rycka av plåstret snabbt, eller förlänga pinan, men om valresultatet står sig kommer han inte att överleva en statsministeromröstning i riksdagen.",
+      "pubDate": "2026-09-16T03:49:05Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "V-toppen fortsätter pressa C: ”Välj sida”",
+      "link": "https://www.expressen.se/nyheter/sverige/v-toppen-fortsatter-pressa-c-valj-sida/",
+      "description": "Centerpartiet vägrar släppa in Vänsterpartiet i en regering.&nbsp; Nu fortsätter V att pressa dem.&nbsp; ”Var ska C gå?”, skriver V-toppen Ida Gabrielsson på X.&nbsp;",
+      "pubDate": "2026-09-16T03:45:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Många hinder för rödgrön regeringsbildning",
+      "link": "https://www.sverigesradio.se/artikel/9300886",
+      "description": "De rödgröna måste lösa en rad knäckfrågor om det ska kunna bli en rödgrön regering. Vänsterpartiet och Miljöpartiet är för en miljardärsskatt, Centern och Socialdemokraterna är emot. Kanske svårast är frågan om Vänsterpartiet ska sitta i regeringen. Socialdemokraternas Magdalena Andersson har sagt att Vänsterpartiet har ”en lång resa kvar innan de är regeringsdugliga”.",
+      "pubDate": "2026-09-16T03:40:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ledare: I en demokrati är muslimers röster lika mycket värda",
+      "link": "https://www.dn.se/ledare/i-en-demokrati-ar-muslimers-roster-lika-mycket-varda/",
+      "description": "Både sverigedemokrater och andra högerdebattörer misstänkliggör nu svenska muslimer som använt sin demokratiska rätt att rösta.",
+      "pubDate": "2026-09-16T03:10:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Hägglund (KD): Ett extraval kan straffa de rödgröna",
       "link": "https://www.svt.se/nyheter/inrikes/hagglund-kd-ett-extraval-kan-straffa-de-rodgrona",
@@ -175,91 +264,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "15 september: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/15-september-missa-inte-dagens-nyheter/",
-      "description": "Hetaste talmanskandidaterna, partiet som måste vika sig i regeringsdramat och ”bortskämda” sverigedemokrater – här är dagens nyheter.",
-      "pubDate": "2026-09-15T18:54:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Styret av Region Stockholm kräver hårda förhandlingar",
-      "link": "https://www.dn.se/sverige/styret-av-region-stockholm-kraver-harda-forhandlingar/",
-      "description": "Enligt Socialdemokraterna kommer Region Stockholm att fortsätta styras av den sittande koalitionen i ytterligare fyra år. Men samarbetspartierna C och V drar åt olika håll och största oppositionspartiet Moderaterna känner medvind. – Det finns alla möjliga sätt att bygga majoriteter, säger oppositionsregionrådet Axel Conradi (M).",
-      "pubDate": "2026-09-15T18:36:44Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "V:s maktplan – har  förberett i över ett år",
-      "link": "https://www.expressen.se/nyheter/politik/vs-maktplan-har--forberett-i-over-ett-ar/",
-      "description": "Vänsterpartiet räknar med att Magdalena Andersson (S) vänder sig till C och MP först. Men några planer på att backa från regeringskravet finns inte – i själva verket har V förberett sig i över ett år. –&nbsp;Bottenplattan måste vara att alla fyra ska ha regeringsinflytande, säger V-toppen Ida Gabrielsson.",
-      "pubDate": "2026-09-15T18:26:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Fysikernas teori: Därför blev valet så jämnt",
-      "link": "https://www.dn.se/sverige/fysikernas-teori-darfor-blev-valet-sa-jamnt/",
-      "description": "Trots att fler än sex miljoner svenskar gick till valurnorna och röstade blev det nästan jämnt skägg mellan de båda blocken. Hur kommer det sig? Forskare tror sig ha hittat en matematisk förklaring – och en tydlig orsak – till varför demokratiska val ofta blir så jämna.",
-      "pubDate": "2026-09-15T18:23:06Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Miljöpartiets starkaste fäste – får mer än var femte röst",
-      "link": "https://www.expressen.se/nyheter/politik/miljopartiets-starkaste-faste-far-mer-an-var-femte-rost/",
-      "description": "Här är Miljöpartiets starkaste fäste. I Jokkmokk får partiet 22,5 procent av rösterna i kommunvalet – en ökning med 7,2 procentenheter. Samtidigt rasar Socialdemokraterna i stora delar av Norrland.",
-      "pubDate": "2026-09-15T18:07:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "MP"
-      ]
-    },
-    {
-      "title": "Experterna: Därför backar Sverigedemokraterna i valet",
-      "link": "https://www.sverigesradio.se/artikel/9300977",
-      "description": "Sverigedemokraterna ser ut att backa med omkring tre procentenheter i riksdagsvalet, enligt det preliminära resultatet, vilket är störst tapp av alla partier. En förklaring kan vara att SD inte längre ses som ett renodlat protestparti, samtidigt som partiets ton i valrörelsen kan ha stött bort väljare, enligt PM Nilsson, vd för tankesmedjan Timbro. Men bedömningarna går isär. Medan PM Nilsson pekar på en för hård linje, varnar Richard Sörman, politisk redaktör på Riks, för att andra väljare istället kan ha tyckt att partiet varit för mjukt.",
-      "pubDate": "2026-09-15T18:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Thand Ringqvists ändring – bryter skjortsviten",
-      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvists-andring-bryter-skjortsviten/",
-      "description": "Valrörelsen är över och med den Elisabeth Thand Ringqvists skjortsvit. Efter löftet i början av året har Centerledaren bytt ut flanellen. – Det är så här företagaren Elisabeth har sett ut i många, många år, sa hon vid partiets kommundagar.",
-      "pubDate": "2026-09-15T18:00:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     }
   ],
