@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T21:50:23.350931Z",
+  "updated_at": "2026-09-16T23:56:37.501104Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Dadgostar efter SVT:s valprognos: ”Adjö Tidö”",
+      "link": "https://www.dn.se/sverige/dadgostar-efter-valprognosen-adjo-tido/",
+      "description": "Det är minst 99,9 procent säkert att oppositionen vinner valet, visar SVT:s prognos. På Instagram jublar Vänsterpartiets Nooshi Dadgostar. ”De rödgröna vinner valet och Vänsterpartiet ökar mest av alla partier! Adjö Tidö”, skriver hon.",
+      "pubDate": "2026-09-16T22:18:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "V-toppen om att släppa kraven:  ”Går inte på en sån blåsning”",
       "link": "https://www.expressen.se/nyheter/sverige/v-toppen-om-att-slappa-kraven--gar-inte-pa-en-san-blasning/",
@@ -244,22 +256,21 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Reportern: Därför hoppar mandatet mellan SD och S",
-      "link": "https://www.sverigesradio.se/artikel/9301729",
-      "description": "De så kallade onsdagsrösterna har skapat dramatik. Just nu hoppar ett mandat mellan de olika blocken. ”Det har varit lite pingis”, säger Ekots politikreporter Hîwa Abdelzadeh. Det är mellan Socialdemokraterna och Sverigedemokraterna som mandatet hoppar mellan.",
-      "pubDate": "2026-09-16T15:57:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Socialdemokratin måste vara större än rädslan för SD",
+      "link": "https://www.dagensarena.se/opinion/socialdemokratin-maste-vara-storre-radslan-sd/",
+      "description": "Taktiken är samma som 2022. Men var är S-politiken? Inlägget Socialdemokratin måste vara större än rädslan för SD dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-16T23:34:40Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "SD bakåt och V framåt",
       "link": "https://blog.zaramis.se/2026/09/16/sd-bakat-och-v-framat/",
@@ -307,18 +318,6 @@
       "sourceType": "blog",
       "topics": [
         "L"
-      ]
-    },
-    {
-      "title": "Forskare: Ekonomiska påfrestningar bakom V:s framgång i utsatta områden",
-      "link": "https://www.dagensarena.se/innehall/forskare-ekonomiska-pafrestningar-bakom-vs-framgang-utsatta-omraden/",
-      "description": "”Det är i huvudsak Vänsterpartiet som lyft boendefrågan som en central levnadsvillkorsfråga.” Inlägget Forskare: Ekonomiska påfrestningar bakom V:s framgång i utsatta områden dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-14T12:08:23Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
       ]
     },
     {
