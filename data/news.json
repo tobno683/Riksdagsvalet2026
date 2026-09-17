@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T12:50:34.752172Z",
+  "updated_at": "2026-09-17T17:21:03.268286Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,193 +79,194 @@
   ],
   "news": [
     {
-      "title": "Helena Gissén om statsministerns avgång: ”Inte förvånande”",
-      "link": "https://www.sverigesradio.se/artikel/9302369",
-      "description": "Statsminister Ulf Kristersson har under torsdagen lämnat in sin avskedsansökan. Ekots politikkommentator Helena Gissén kommenterar läget just nu.&nbsp; ”Inte förvånande”, säger hon.",
-      "pubDate": "2026-09-17T12:27:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. S kör i diket med sin högersväng",
-      "link": "https://www.dn.se/insandare/s-kor-i-diket-med-sin-hogersvang/",
-      "description": "INSÄNDARE. Det behövs tydliga alternativ i politiken, är nästan alla politiska kommentatorer eniga om. När nu Socialdemokraterna sakta rör sig närmare och närmare de borgerliga partierna upphör gradvis stommen i det som länge varit den vänstra sidan, skriver Oskar Palm.",
-      "pubDate": "2026-09-17T12:25:04Z",
+      "title": "”Bad apples” förvandlar skolbråk till farsartad feel bad",
+      "link": "https://www.dn.se/kultur/bad-apples-forvandlar-skolbrak-till-farsartad-feel-bad/",
+      "description": "Svensken Jonatan Etzlers engelskspråkiga debut är ett mörkt underhållande skoldrama. När Saoirse Ronans frustrerade mellanstadielärare tar till en makaber metod för att hantera klassens bråkstake ställs allt på ända. Svarthumoristiskt men spretigt, skriver Sebastian Lindvall.",
+      "pubDate": "2026-09-17T16:31:33Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S"
+        "MP"
       ]
     },
     {
-      "title": "Ulf Kristersson avgår – så låter det utanför S-högkvarter",
-      "link": "https://www.sverigesradio.se/artikel/9302360",
-      "description": "Strax innan uppgifterna om att Ulf Kristersson inom kort avgår som statsminister bars fyra tårtor in på Socialdemokraternas högkvarter på Sveavägen i Stockholm, enligt SVT . Utanför högkvarteret finns även Ekots reporter Ida Svansbo som har pratat med personer inom Socialdemokraterna. ”En person sa att det troligtvis kommer ett pressutskick om en presskonferens”, säger Svansbo.",
-      "pubDate": "2026-09-17T12:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Då får Andersson ge upp – direkt",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/da-far-andersson-ge-upp-direkt/",
-      "description": "Valet är färdigräknat och Ulf Kristersson har lämnat in avskedsansökan till talmannen. Därmed kan regeringsbildningen börja – och den kommer bli lång, säger folk som tror sig veta. Kanske det. Den kan också bli mycket kort.",
-      "pubDate": "2026-09-17T12:17:01Z",
+      "title": "De har löst hur Magdalena  Andersson bildar en regering",
+      "link": "https://www.expressen.se/nyheter/politik/de-har-lost-hur-magdalena--andersson-bildar-en-regering/",
+      "description": "Centerpartiets och Vänsterpartiets röda linjer stoppar just nu en socialdemokratisk regering. Lösningen finns i Kalmar – där har meningsmotståndarna hittat ett vinnande sätt att regera tillsammans.&nbsp; – Vi kan lita på varandra och vi har inte haft den typen av konflikter som varit på riksplan, säger Vänsterpartiets Liselotte Sandell Ross.",
+      "pubDate": "2026-09-17T16:21:26Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Andersson: Röstat för en ny riktning",
-      "link": "https://www.expressen.se/nyheter/politik/busch-jag-vill-tacka-ulf-kristersson/",
-      "description": "Ulf Kristersson avgår som statsminister.&nbsp; Samtidigt håller Socialdemokraternas partiledare ett segertal – Svenska folket har röstat fram en ny riktning för vårt land, säger hon.",
-      "pubDate": "2026-09-17T12:07:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ulf Kristersson avgår som statsminister",
-      "link": "https://www.sverigesradio.se/artikel/9302314",
-      "description": "Statsminister Ulf Kristersson har lämnat in sin avskedsansökan till talmannen, skriver han på X. Beskedet kommer efter att Valmyndigheten publicerat det preliminära valresultatet som visar att oppositionen får 176 mandat och Tidöpartierna får 173. ”Kristersson skriver i det brev han skrivit till talmannen att det måste bli en ny regeringsbildning, och att han vill göra det möjligt och därför avgår”, säger Ekots politikreporter Pontus Mattsson",
-      "pubDate": "2026-09-17T11:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Rösterna färdigräknade – oppositionen vinner",
-      "link": "https://www.sverigesradio.se/artikel/9302278",
-      "description": "Den rödgröna oppositionen vinner valet med 176 mandat mot Tidöpartiernas 173 mandat, visar Valmyndighetens preliminära rösträkning. Över 6,8 miljoner svenskar röstade i årets val. Det är ett valdeltagande på 84,8 procent. Hör Mats Eriksson, chef för politikgruppen på Ekot.",
-      "pubDate": "2026-09-17T11:43:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Ulf Kristersson avgår som statsminister",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-kristersson-avgar-inom-kort/",
-      "description": "Ulf Kristersson har erkänt sig besegrad och har begärt att få bli entledigad som statsminister.&nbsp; Han kommer att sitta kvar som partiledare för Moderaterna.&nbsp;",
-      "pubDate": "2026-09-17T11:37:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ulf Kristersson avgår som statsminister",
-      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-ulf-kristersson-vantas-avga-som-statsminister",
-      "description": "Statsminister Ulf Kristersson (M) avgår som statsminister. På torsdagen begärde han sig entledigad hos talmannen. ”Nu är det talmannen som ska leda de kommande stegen på väg mot en ny regeringsbildning”, skriver han i ett uttalande.",
-      "pubDate": "2026-09-17T11:26:27Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Nu kan vi inte tro på något de säger",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-nu-kan-vi-inte-tro-pa-nagot-de-sager/",
-      "description": "Nu går det politiska Sverige in i det tjuv- och rackarspel som kallas regeringsbildning. Det mesta som pyser ut från partierna den närmaste tiden är politiskt spinn avsett att gynna den egna förhandlingspositionen – och bör lyssnas på med skeptiska öron.",
-      "pubDate": "2026-09-17T11:18:43Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Har Kristersson bättre demokratiska insikter än Trump?",
-      "link": "https://www.dn.se/insandare/har-kristersson-battre-demokratiska-insikter-an-trump/",
-      "description": "INSÄNDARE. Det som så här långt sipprat ut efter valet ger anledning till oro över den demokratiska hälsan hos Moderaterna. Nog ska väl statsminister Ulf Kristersson ha bättre demokratiska instinkter än de som Donald Trump visade upp, skriver Olov Törnqvist.",
-      "pubDate": "2026-09-17T11:16:28Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Centerpartiet kan tänka sig ren S-regering",
-      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-kan-tanka-sig-ren-s-regering/",
-      "description": "Centerpartiet kommer att behöva acceptera att Vänsterpartiet får ett visst inflytande.&nbsp; Det säger en C-källa till Aftonbladet och öppnar samtidigt för en renodlad S-regering.&nbsp; – Alla centerpartister har räknat ut att V kommer att få ett visst inflytande.&nbsp;",
-      "pubDate": "2026-09-17T10:53:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "V",
         "C"
       ]
     },
     {
-      "title": "Valet klart – oppositionen får 176 mandat",
-      "link": "https://www.expressen.se/nyheter/politik/svt-slar-fast-oppositionen-far-176-mandat/",
-      "description": "Alla röster i riksdagsvalet har äntligen räknats klart.&nbsp; Oppositionen får tre mandat fler än Tidöpartierna. – Under den här räkningen har det gått bättre för vänstersidan, säger prognosgurun Gustav Karreskog Rehbinder, om onsdagsrösterna.",
-      "pubDate": "2026-09-17T10:39:01Z",
+      "title": "Statsvetarna om fem  regeringsalternativ",
+      "link": "https://www.expressen.se/nyheter/politik/statsvetarna-om-fem--regeringsalternativ/",
+      "description": "Valet är över – men regeringen fortfarande högst osäker. Magdalena Andersson kämpar med röda linjer och Ulf Kristersson hoppas på sidbyte. Här är fem alternativ och statsvetarnas bedömning av hur troliga de är. – Centerpartiet måste släppa sin mittenregering och försöka börja förhandla, säger Erik Wångmar, statsvetare vid Linnéuniversitetet.",
+      "pubDate": "2026-09-17T16:18:23Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
     },
     {
-      "title": "MP: S har bjudit in oppositionen till möte",
-      "link": "https://www.sverigesradio.se/artikel/9302212",
-      "description": "Miljöpartiets partisekreterare Katrin Wissing säger att Socialdemokraterna bjudit in Miljöpartiet till samtal med de andra i oppositionen. ”Vi har fått en inbjudan om att samtala med oppositionspartierna, säger hon men vill inte berätta när det skall äga rum.” Enligt Katrin Wissing kan svåra frågor i regeringsförhandlingar bli de som rör bland annat strandskydd och natur.",
-      "pubDate": "2026-09-17T10:37:00Z",
+      "title": "Furtenbach: Det vet vi om varför Tidö förlorade valet",
+      "link": "https://www.sverigesradio.se/artikel/9302654",
+      "description": "Oppositionen samlade 176 mandat och Tidöpartierna 173 mandat. Varför Tidösidan förlorade valet kommer att forskas på, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. ”De frågor som väljarna tyckte var viktiga i det här valet, de gick inte Tidöpartiernas väg.” Liberalerna klarade riksdagsspärren men Furtenbach menar att det inte var av egen kraft. ”Deras nya väljare kom framför allt från M och KD som då med all sannolikhet ville rädda sitt lag”, säger han.",
+      "pubDate": "2026-09-17T15:54:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Ledare: Nu har vi ett resultat – det här är regeringsalternativen",
+      "link": "https://www.dn.se/ledare/nu-har-vi-ett-resultat-det-har-ar-regeringsalternativen/",
+      "description": "Moderaterna och vännerna i näringslivet bör noggrant begrunda realiteterna. Föredrar man ett betydande inflytande över politiken genom att styra tillsammans med Magdalena Andersson (S) – eller föredrar man att hon löser uppgiften med C, MP och V?",
+      "pubDate": "2026-09-17T15:30:20Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Kristersson efter avgångsbeskedet: Ser inte Andersson som valvinnare",
+      "link": "https://www.dn.se/sverige/kristersson-efter-avgangsbeskedet-ser-inte-andersson-som-valvinnare/",
+      "description": "Den rödgröna oppositionen har fått majoritet i riksdagen – men Magdalena Andersson är inte valvinnare, enligt Ulf Kristersson (M). – Det skulle jag absolut inte säga, säger han i TV4.",
+      "pubDate": "2026-09-17T15:27:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "S bjuder in till ”kartellmöte” – ”ny era av samarbete”",
+      "link": "https://www.svt.se/nyheter/inrikes/s-bjuder-in-till-kartellmote-ny-era-av-samarbete",
+      "description": "När alla röster hade räknats stod det klart att de rödgröna fått majoritet. Kort därpå meddelade Ulf Kristersson (M) att han avgår som statsminister. Nu har Socialdemokraterna bjudit in oppositionens gruppledare till ett gemensamt möte, enligt uppgifter till SVT.",
+      "pubDate": "2026-09-17T15:04:49Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kristerssons första ord efter avgången",
+      "link": "https://www.sverigesradio.se/artikel/9302606",
+      "description": "Den avgående statsministern Ulf Kristersson kommenterar nu sin avgång i TV4:s Nyhetsdagen. ”Helt naturligt att det finns en riksdagsmajoritet som inte vill ha den blågula regeringen,” säger han. Den avgående statsministern kommer nu att leda en övergångsregering tills en ny regering finns på plats. Även om Kristersson avgår, så är han tydlig med att han inte ser Magdalena Andersson som Sveriges nya statsminister, än.",
+      "pubDate": "2026-09-17T14:55:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "MP"
+        "M",
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "Rödgröna blocket får majoritet i valet",
-      "link": "https://www.dn.se/sverige/rodgrona-blocket-far-majoritet-i-valet/",
-      "description": "Efter mandatpingisen står det nu klart. De rödgröna partierna får majoritet i valet. Statsminister Ulf Kristersson har meddelat sin avgång i ett brev till talmannen.",
-      "pubDate": "2026-09-17T10:28:06Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Ulf Kristersson avgår som statsminister",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-kristersson-avgar-inom-kort/",
+      "description": "Ulf Kristersson avgår som statsminister men sitter kvar som partiledare för Moderaterna. Och han ser det inte som att de rödgröna har vunnit. – Absolut inte, säger Kristersson i TV4. &nbsp; Samtidigt har talman Andreas Norlén påbörjat processen med att hitta en ny statsministerkandidat.",
+      "pubDate": "2026-09-17T14:54:58Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
         "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "S jublar – men Tidöpartierna har inte gett upp",
+      "link": "https://www.dn.se/podd/alskade-politik/s-jublar-men-tidopartierna-har-inte-gett-upp/",
+      "description": "Rösterna är räknade och nu inleds dramat med regeringsbildningen. Kommer Centerpartiet att bli ”nej-drottning” igen?",
+      "pubDate": "2026-09-17T14:54:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Det händer om statsministerkandidaten blir nedröstad",
+      "link": "https://www.sverigesradio.se/artikel/9302572",
+      "description": "Om en majoritet av riksdagen röstar nej, får talmannen presentera en ny kandidat. Totalt har talmannen fyra omröstningar på sig - annars väntar extra val inom tre månader. Men om mindre än hälften av riksdagen röstar nej till en kandidat, så finns en ny statsminister på plats. Så snart som möjligt efter det ska statsministern anmäla till riksdagen vilka personer som har utsetts till ministrar i regeringen.",
+      "pubDate": "2026-09-17T14:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Vägen till regering – riksdagen inleder nytt arbetsår",
+      "link": "https://www.sverigesradio.se/artikel/9302569",
+      "description": "Riksdagen inleder ett nytt arbetsår tisdagen 29 september och kan från och med nu rösta om den statsministerkandidat som föreslås av talmannen.",
+      "pubDate": "2026-09-17T14:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Vägen till regering – upprop i riksdagen",
+      "link": "https://www.sverigesradio.se/artikel/9302562",
+      "description": "Måndag 28 september är det upprop i riksdagen. Då väljs talman och vice talmän för nästa mandatperiod. Antingen väljs en ny talman, eller så får Andreas Norlén sitta kvar ytterligare fyra år.",
+      "pubDate": "2026-09-17T14:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Vägen till regering – det händer på fredag",
+      "link": "https://www.sverigesradio.se/artikel/9302560",
+      "description": "Nu har rösterna räknats klart och Ulf Kristersson har avgått som statsminister, eftersom Tidöpartierna inte längre har en majoritet i riksdagen. På fredag 18 september påbörjar talmannen Andreas Norlén samtal med partiledarna, för att se vem som kan samla tillräckligt stöd för att bilda regering. Den tidigare regeringen blir en så kallad övergångsregering.&nbsp;",
+      "pubDate": "2026-09-17T14:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kristerssons första ord: ”Har pratat med talmannen”",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=f97fbccf-0fc7-40dd-a5cf-e0b9e9ce2490",
+      "description": "”Har pratat med talmannen”",
+      "pubDate": "2026-09-17T14:39:08Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
       ]
     }
   ],
@@ -432,6 +433,45 @@
   ],
   "podcasts": [
     {
+      "title": "S jublar – men Tidöpartierna har inte gett upp",
+      "link": "https://pod.space/alskadepolitik/s-jublar-men-tidopartierna-har-inte-gett-upp",
+      "description": "Rösterna är räknade och nu inleds dramat med regeringsbildningen. Kommer Centerpartiet att bli ”nej-drottning” igen?",
+      "pubDate": "2026-09-17T14:54:26Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kvartal Idag: Andersson: Hej Sverige, Kristersson: Hej då",
+      "link": "https://pod.space/kvartal/kvartal-idag-andersson-hej-sverige-kristersson-hej-da",
+      "description": "Rösträkningen är klar. Därför är ”alliansen” omöjlig för C. Går AI-hotet att bromsa? Och möt hjärnan bakom Hälleforspartiet. Programledare: Nathalie Rothschild.&nbsp;",
+      "pubDate": "2026-09-17T13:53:21Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "314. Vem viker sig först?",
+      "link": "https://pod.space/politikrummet/314-vem-viker-sig-forst",
+      "description": "Rösterna är räknade och valet är avgjort. Men kommer Vänsterpartiet och Centerpartiet någonsin att sätta sig i samma rum? I studion: Filippa Rogvall, Max V Karlsson, Viktor Barth-Kron och Anette Holmqvist. Ljudklipp från SVT Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-09-17T13:02:26Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "Under all kritik: V:s framgång väcker en obehaglig fråga",
       "link": "https://pod.space/kvartal/under-all-kritik-v-s-framgang-vacker-en-obehaglig-fraga",
       "description": "Vänsterpartister avslöjas med judehat och Hamashyllningar. Ändå rusar partiet i förorten. Anna-Karin och Ivar om högerns jakt på syndabockar och vänsterns nya väljare. Men den verkligt obehagliga frågan är kanske inte vad partiets företrädare har sagt.",
@@ -478,7 +518,7 @@
     {
       "title": "313. De vann valet",
       "link": "https://pod.space/politikrummet/313-de-vann-valet",
-      "description": "Kommer centern byta sida? Vilken partiledare avgår först? Och vem är Sveriges nästa statsminister? Politikrummet går igenom sakernas tillstånd, dagen efter nagelbitarvalet. I studion: Max V Karlsson, Anette Holmqvist och Viktor Barth-Kron Producent: Anna Westman Swantesson. Ansvarig utgivare: Klas Granström.",
+      "description": "Kommer Centern byta sida? Vilken partiledare avgår först? Och vem är Sveriges nästa statsminister? Politikrummet går igenom sakernas tillstånd, dagen efter nagelbitarvalet. I studion: Max V Karlsson, Anette Holmqvist och Viktor Barth-Kron Producent: Anna Westman Swantesson. Ansvarig utgivare: Klas Granström.",
       "pubDate": "2026-09-14T13:24:49Z",
       "source": "Politikrummet",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -576,43 +616,6 @@
         "M",
         "C"
       ]
-    },
-    {
-      "title": "Kvartal Idag: Förtroendet för Andersson rasar",
-      "link": "https://pod.space/kvartal/kvartal-idag-fortroendet-for-andersson-rasar",
-      "description": "Omsprungen av både Busch och Kristersson. Noll dödsskjutningar i Göteborg på ett år. Kulturfrågorna har försvunnit i valspurten. Och vad visste Netanyahu innan 7 oktober? Programledare: Cassandra Alm.&nbsp;",
-      "pubDate": "2026-09-09T13:57:43Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M",
-        "KD"
-      ]
-    },
-    {
-      "title": "Inläst: Kritik mot S valrörelse i Malmö",
-      "link": "https://pod.space/kvartal/inlast-kritik-mot-s-valrorelse-i-malmo",
-      "description": "Inför förra valet delade en S-politiker ut förkryssade valsedlar i ett miljonprogram i Malmö. Trots det sitter politikern på förtroendeuppdrag för Socialdemokraterna – och kandiderar nu på nytt. På torsdagen fick S frågor i fullmäktige efter min granskning av partiets valkampanj i stadens utsatta områden. – Det är inte en bugg, det är en funktion, säger Centerpartiet. Av Federico Moreno Inläsare: Ella Öfwerman",
-      "pubDate": "2026-09-09T04:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Vem vinner på Pisafiasko och bensinrea?",
-      "link": "https://pod.space/alskadepolitik/vem-vinner-pa-pisafiasko-och-bensinrea",
-      "description": "Svenska 15-åringar får sämst resultat någonsin i Pisamätningen. Vem vinner på en Pisadebatt? Och hur mycket kommer bensinpriset höjas efter valet?",
-      "pubDate": "2026-09-08T14:45:10Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
     }
   ]
 }
