@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T20:25:40.783316Z",
+  "updated_at": "2026-09-17T22:56:40.005913Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,18 @@
   ],
   "news": [
     {
+      "title": "Kristersson reser till Riga",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=57c73416-71e9-45de-9b6b-09aff2cdf12d",
+      "description": "Åker till Riga, enligt Aftonbladet",
+      "pubDate": "2026-09-17T20:35:23Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "V-framgångar i Rinkeby:  ”Han är inte en Anders”",
       "link": "https://www.expressen.se/nyheter/sverige/v-framgangar-i-rinkeby--han-ar-inte-en-anders/",
       "description": "Vänsterpartiets segertåg i Järva har kritiserats från högerhåll. Och V:s posterboy i Rinkeby Ilyas Hassan har anklagats för att vid sidan av partiets officiella valrörelse bedriva annan kampanj – på annat språk och med delvis andra budskap. Men i Rinkeby dröjer det inte länge innan vi stöter på V-röstare som tror på Ilyas Hassan.&nbsp;",
@@ -88,18 +100,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Kristersson reser till Riga",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=57c73416-71e9-45de-9b6b-09aff2cdf12d",
-      "description": "Åker till Riga, enligt Aftonbladet",
-      "pubDate": "2026-09-17T19:34:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     },
     {
@@ -229,19 +229,6 @@
       ]
     },
     {
-      "title": "Ledare: Nu har vi ett resultat – det här är regeringsalternativen",
-      "link": "https://www.dn.se/ledare/nu-har-vi-ett-resultat-det-har-ar-regeringsalternativen/",
-      "description": "Moderaterna och vännerna i näringslivet bör noggrant begrunda realiteterna. Föredrar man ett betydande inflytande över politiken genom att styra tillsammans med Magdalena Andersson (S) – eller föredrar man att hon löser uppgiften med C, MP och V?",
-      "pubDate": "2026-09-17T15:30:20Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
       "title": "Kristersson efter avgångsbeskedet: Ser inte Andersson som valvinnare",
       "link": "https://www.dn.se/sverige/kristersson-efter-avgangsbeskedet-ser-inte-andersson-som-valvinnare/",
       "description": "Den rödgröna oppositionen har fått majoritet i riksdagen – men Magdalena Andersson är inte valvinnare, enligt Ulf Kristersson (M). – Det skulle jag absolut inte säga, säger han i TV4.",
@@ -261,6 +248,20 @@
       "pubDate": "2026-09-17T15:04:49Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kristerssons första ord efter avgången",
+      "link": "https://www.sverigesradio.se/artikel/9302606",
+      "description": "Den avgående statsministern Ulf Kristersson kommenterar nu sin avgång i TV4:s Nyhetsdagen. ”Helt naturligt att det finns en riksdagsmajoritet som inte vill ha den blågula regeringen,” säger han. Den avgående statsministern kommer nu att leda en övergångsregering tills en ny regering finns på plats. Även om Kristersson avgår, så är han tydlig med att han inte ser Magdalena Andersson som Sveriges nya statsminister, än.",
+      "pubDate": "2026-09-17T14:55:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
