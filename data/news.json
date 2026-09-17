@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T17:21:03.268286Z",
+  "updated_at": "2026-09-17T20:25:40.783316Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,104 @@
     }
   ],
   "news": [
+    {
+      "title": "V-framgångar i Rinkeby:  ”Han är inte en Anders”",
+      "link": "https://www.expressen.se/nyheter/sverige/v-framgangar-i-rinkeby--han-ar-inte-en-anders/",
+      "description": "Vänsterpartiets segertåg i Järva har kritiserats från högerhåll. Och V:s posterboy i Rinkeby Ilyas Hassan har anklagats för att vid sidan av partiets officiella valrörelse bedriva annan kampanj – på annat språk och med delvis andra budskap. Men i Rinkeby dröjer det inte länge innan vi stöter på V-röstare som tror på Ilyas Hassan.&nbsp;",
+      "pubDate": "2026-09-17T20:11:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kristersson reser till Riga",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=57c73416-71e9-45de-9b6b-09aff2cdf12d",
+      "description": "Åker till Riga, enligt Aftonbladet",
+      "pubDate": "2026-09-17T19:34:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "17 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/17-september-missa-inte-dagens-nyheter/",
+      "description": "Ulf Kristersson avgår som statsminister, fler till sjukhus efter explosionslarm på skjutfält och Trump rasar mot EU – här är dagens nyheter.",
+      "pubDate": "2026-09-17T19:06:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C nekar samtalsinbjudan – tills V släpper regeringskrav",
+      "link": "https://www.expressen.se/nyheter/sverige/c-nekar-samtalsinbjudan-tills-v-slapper-regeringskrav/",
+      "description": "Socialdemokraterna har bjudit in samtliga rödgröna partier för samtal. Men Centerpartiet tackar bestämt nej – tills Vänsterpartiet släpper sina regeringskrav. – Vi menar att det inte är ett regeringsdugligt parti, säger en källa till SvD . &nbsp;",
+      "pubDate": "2026-09-17T18:42:36Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Insändare. Valets segrare behöver förhandla fram ett eget avtal",
+      "link": "https://www.dn.se/insandare/valets-segrare-behover-forhandla-fram-ett-eget-avtal/",
+      "description": "INSÄNDARE. Socialdemokraterna, Vänsterpartiet, Centerpartiet och Miljöpartiet måste alla vara beredda att ge och ta. Oppositionen har nu chansen att visa att sammanhållning väger tyngre än prestige och att Sveriges framtid är viktigare än partiernas särintressen, skriver den tidigare S-riksdagsledamoten Juan Fonseca.",
+      "pubDate": "2026-09-17T18:27:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Insändare. Kristersson visar sig som dålig förlorare",
+      "link": "https://www.dn.se/insandare/kristersson-visar-sig-som-dalig-forlorare/",
+      "description": "INSÄNDARE. Att gratulera sin politiska huvudmotståndare om man förlorat ett val hör till vanligt hyfs. Men M-ledaren Ulf Kristersson har nu när alla röster i valet räknats visat att han är en dålig förlorare, skriver konstnären Åsa Pröjts.",
+      "pubDate": "2026-09-17T18:20:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "DN Debatt. ”Det sista Sverige får göra nu är att vända blicken inåt”",
+      "link": "https://www.dn.se/debatt/det-sista-sverige-far-gora-nu-ar-att-vanda-blicken-inat/",
+      "description": "DN DEBATT. Svenska valet har genomförts, och nästa regering måste flytta fokus från inrikespolitiken till vår tids ödesfrågor. Ukrainakriget pågår oförtrutet. Men efter fyra års krig är det också dags att vända på perspektivet: Ukraina är inte bara ett land vi ger allmosor. Det är en resurs, skriver fyra Östeuropaexperter vid Handelshögskolan.",
+      "pubDate": "2026-09-17T18:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ali Alabdallah: Det är mig ni talar om när ni talar om ”röstboskap”",
+      "link": "https://www.dn.se/kultur/ali-alabdallah-det-ar-mig-ni-talar-om-nar-ni-talar-om-rostboskap/",
+      "description": "Jag arbetar, betalar skatt och deltar i samhället. Därför reagerar jag när politiker som förlorat valet skyller på mig – och ifrågasätter min plats i Sveriges demokrati, skriver Ali Alabdallah.",
+      "pubDate": "2026-09-17T17:33:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "”Bad apples” förvandlar skolbråk till farsartad feel bad",
       "link": "https://www.dn.se/kultur/bad-apples-forvandlar-skolbrak-till-farsartad-feel-bad/",
@@ -168,105 +266,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristerssons första ord efter avgången",
-      "link": "https://www.sverigesradio.se/artikel/9302606",
-      "description": "Den avgående statsministern Ulf Kristersson kommenterar nu sin avgång i TV4:s Nyhetsdagen. ”Helt naturligt att det finns en riksdagsmajoritet som inte vill ha den blågula regeringen,” säger han. Den avgående statsministern kommer nu att leda en övergångsregering tills en ny regering finns på plats. Även om Kristersson avgår, så är han tydlig med att han inte ser Magdalena Andersson som Sveriges nya statsminister, än.",
-      "pubDate": "2026-09-17T14:55:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ulf Kristersson avgår som statsminister",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-kristersson-avgar-inom-kort/",
-      "description": "Ulf Kristersson avgår som statsminister men sitter kvar som partiledare för Moderaterna. Och han ser det inte som att de rödgröna har vunnit. – Absolut inte, säger Kristersson i TV4. &nbsp; Samtidigt har talman Andreas Norlén påbörjat processen med att hitta en ny statsministerkandidat.",
-      "pubDate": "2026-09-17T14:54:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S jublar – men Tidöpartierna har inte gett upp",
-      "link": "https://www.dn.se/podd/alskade-politik/s-jublar-men-tidopartierna-har-inte-gett-upp/",
-      "description": "Rösterna är räknade och nu inleds dramat med regeringsbildningen. Kommer Centerpartiet att bli ”nej-drottning” igen?",
-      "pubDate": "2026-09-17T14:54:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Det händer om statsministerkandidaten blir nedröstad",
-      "link": "https://www.sverigesradio.se/artikel/9302572",
-      "description": "Om en majoritet av riksdagen röstar nej, får talmannen presentera en ny kandidat. Totalt har talmannen fyra omröstningar på sig - annars väntar extra val inom tre månader. Men om mindre än hälften av riksdagen röstar nej till en kandidat, så finns en ny statsminister på plats. Så snart som möjligt efter det ska statsministern anmäla till riksdagen vilka personer som har utsetts till ministrar i regeringen.",
-      "pubDate": "2026-09-17T14:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Vägen till regering – riksdagen inleder nytt arbetsår",
-      "link": "https://www.sverigesradio.se/artikel/9302569",
-      "description": "Riksdagen inleder ett nytt arbetsår tisdagen 29 september och kan från och med nu rösta om den statsministerkandidat som föreslås av talmannen.",
-      "pubDate": "2026-09-17T14:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Vägen till regering – upprop i riksdagen",
-      "link": "https://www.sverigesradio.se/artikel/9302562",
-      "description": "Måndag 28 september är det upprop i riksdagen. Då väljs talman och vice talmän för nästa mandatperiod. Antingen väljs en ny talman, eller så får Andreas Norlén sitta kvar ytterligare fyra år.",
-      "pubDate": "2026-09-17T14:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Vägen till regering – det händer på fredag",
-      "link": "https://www.sverigesradio.se/artikel/9302560",
-      "description": "Nu har rösterna räknats klart och Ulf Kristersson har avgått som statsminister, eftersom Tidöpartierna inte längre har en majoritet i riksdagen. På fredag 18 september påbörjar talmannen Andreas Norlén samtal med partiledarna, för att se vem som kan samla tillräckligt stöd för att bilda regering. Den tidigare regeringen blir en så kallad övergångsregering.&nbsp;",
-      "pubDate": "2026-09-17T14:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristerssons första ord: ”Har pratat med talmannen”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=f97fbccf-0fc7-40dd-a5cf-e0b9e9ce2490",
-      "description": "”Har pratat med talmannen”",
-      "pubDate": "2026-09-17T14:39:08Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     }
   ],
