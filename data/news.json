@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T02:23:31.388658Z",
+  "updated_at": "2026-09-17T07:51:07.319912Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,24 +79,100 @@
   ],
   "news": [
     {
+      "title": "Andersson har haft kontakt med rödgröna partierna",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-har-haft-kontakt-med-rodgrona-partierna/",
+      "description": "Magdalena Andersson har varit i kontakt med de rödgröna ledarna, erfar Expressen. Enligt källor kommer pressen nu öka på V och C att kunna samlas för ett första möte mellan fyra partier. Miljöpartiet väntas få en nyckelroll i arbetet.",
+      "pubDate": "2026-09-17T07:46:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "MP:s regeringsstrategi – pekar ut ministerposten",
+      "link": "https://www.expressen.se/nyheter/politik/mps-regeringsstrategi-pekar-ut-ministerposten/",
+      "description": "Miljöpartiet kommer in med svagast kort i regeringsförhandlingar –&nbsp;men klimat och infrastruktur står på kravlistan, erfar Expressen. Dessutom att alla fyra partier ska sitta med. –&nbsp;Det måste vara tydligt att C, V och MP är de partier som säkrat en ny regering, säger ex-språkröret Gustav Fridolin.",
+      "pubDate": "2026-09-17T06:28:39Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Debatt om Vänsterpartiets valkampanj i förorten",
+      "link": "https://www.sverigesradio.se/artikel/9301947",
+      "description": "De stora framgångarna för Vänsterpartiet i en del invandrartäta förorter har skapat debatt och lett till anklagelser om desinformationskampanjer och oschyssta metoder. Elisabeth Hellström, ordförande för Moderaterna i stockholmsförorten Rinkeby anklagar Vänsterpartiet för att ha skrämt väljarna och varit påstridiga när partiet knackat dörr. Riksdagskandidaten Ilyas Hassan som kampanjat för Vänsterpartiet i Rinkeby avfärdar helt kritiken.",
+      "pubDate": "2026-09-17T06:22:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "SD-toppen Tobias Andersson: Magstarkt att tro det är helt fria val",
+      "link": "https://www.expressen.se/nyheter/politik/sd-toppen-tobias-andersson-magstarkt-att-tro-det-ar-helt-fria-val/",
+      "description": "SD backar för första gången i ett riksdagsval.&nbsp; Partitoppen Tobias Andersson tillhör dem som förklarar SD:s nedgång med de nya utfärdade medborgarskapen. – Det är lite magstarkt att tro att det råder helt fria val när vi kan ha en majoritet på över 90 procent i ett helt valdistrikt, säger han till SvD .&nbsp;",
+      "pubDate": "2026-09-17T05:26:07Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Ulla Andersson (V) om C: Kom ut ur lådan",
+      "link": "https://www.expressen.se/nyheter/politik/ulla-andersson-v-om-c-kom-ut-ur-ladan/",
+      "description": "Vänsterpartiet ska inte ge upp ministerposter.&nbsp; Det anser V-nestorn Ulla Andersson, tidigare ekonomisk-politisk talesperson för Vänsterpartiet. – Centern verkar ha stängt in sig i en låda, kom ut ur den och se verkligheten, uppmanar hon.",
+      "pubDate": "2026-09-17T04:04:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Här är frågorna som enar de rödgröna – och konflikterna som väntar",
+      "link": "https://www.sverigesradio.se/artikel/9301636",
+      "description": "Svåra förhandlingar väntar om Magdalena Andersson (S) får uppdraget att försöka bilda regering med de rödgröna partierna – bland annat kring skatter och kärnkraft. Samtidigt är partierna eniga i flera frågor, som kring satsningar på infrastruktur och klimatet, enligt Payam Moula chefredaktör på socialdemokratiska tankesmedjan Tiden. \"Väljarna har gett oss en riktning för Sverige. Nu är det partiernas ansvar att se till att lösa ut knutarna”, säger en högt uppsatt miljöpartist till Ekot.",
+      "pubDate": "2026-09-17T03:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "Furtenbach: Svettigt att styra riksdagen med väldigt liten övervikt",
+      "link": "https://www.sverigesradio.se/artikel/9301877",
+      "description": "Alla onsdagsröster hann inte räknas på onsdagen, men tillräckligt många för att SVT på kvällen prognosticerade att oppositionen, med 99.9 procents säkerhet, blir större än Tidöpartierna. Ekots inrikespolitiska kommentator Fredrik Furtenbach säger att det är troligt att Ulf Kristersson avgår om prognosen stämmer, när Valmyndigheten presenterar sitt preliminära resultat. Även om oppositionen får fler mandat, kan det bli svårt att styra med en så knapp majoritet, säger Fredrik Furtenbach.",
+      "pubDate": "2026-09-17T03:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "Dadgostar efter SVT:s valprognos: ”Adjö Tidö”",
       "link": "https://www.dn.se/sverige/dadgostar-efter-valprognosen-adjo-tido/",
       "description": "Det är minst 99,9 procent säkert att oppositionen vinner valet, visar SVT:s prognos. På Instagram jublar Vänsterpartiets Nooshi Dadgostar. ”De rödgröna vinner valet och Vänsterpartiet ökar mest av alla partier! Adjö Tidö”, skriver hon.",
       "pubDate": "2026-09-16T22:18:04Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "V-toppen om att släppa kraven:  ”Går inte på en sån blåsning”",
-      "link": "https://www.expressen.se/nyheter/sverige/v-toppen-om-att-slappa-kraven--gar-inte-pa-en-san-blasning/",
-      "description": "Gång på gång står Vänsterpartiet på sig om att de ska ingå i regering.&nbsp; Och de kommer inte luras av löften om att få igenom sakpolitik.&nbsp; – Vi kommer inte gå på en sån blåsning, säger V-toppen Ida Gabrielsson i SVT:s Aktuellt.&nbsp;",
-      "pubDate": "2026-09-16T21:03:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
@@ -129,30 +205,6 @@
         "V",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Till slut är det siffrorna i riksdagen som avgör",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/till-slut-ar-det-siffrorna-i-riksdagen-som-avgor/",
-      "description": "Hon vann sin folkomröstning mot de tolv SD-ministrarna, men nu börjar Magdalena Anderssons svåraste match.",
-      "pubDate": "2026-09-16T19:58:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Vänsterpartiets strategi i förorterna: ”Tittat intensivt”",
-      "link": "https://www.expressen.se/nyheter/politik/vansterpartiets-strategi-i-fororterna-tittat-intensivt/",
-      "description": "Vänsterpartiet rusar i flera förorter. Enligt partiet är det resultatet av en medveten strategi – inspirerat av New York. Samtidigt slår man tillbaka mot högerkritiken. – Det finns inga belägg, säger Rashid Mohammed (V), ordförande i Järva stadsdel.",
-      "pubDate": "2026-09-16T19:24:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -216,49 +268,22 @@
         "SD",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Prognosen: Hoppet ute för Tidösidan",
-      "link": "https://www.sverigesradio.se/artikel/9301769",
-      "description": "Hoppet är ute för Tidöpartierna att nå en majoritet i riksdagsvalet, uppger SVT:s valprognos. ”Matematiskt kan majoriteten inte skifta”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. Efter ett tag når man den punkten att ett försprång inte går att ta in och där är vi ju nu enligt prognosen, säger han.",
-      "pubDate": "2026-09-16T16:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "SVT:s prognos: Hoppet ute för Tidöpartierna",
-      "link": "https://www.svt.se/nyheter/inrikes/svts-prognos-hoppet-ute-for-tidopartierna",
-      "description": "Hoppet är ute för Tidöpartierna att nå majoritet i riksdagsvalet 2026. Det enligt SVT:s Valprognos. – Sannolikheten för en vändning i det här läget är så låg att vi vågar slå fast att oppositionen får flest mandat i det här valet, säger SVT:s reporter Fouad Youcefi.",
-      "pubDate": "2026-09-16T16:29:54Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "SVT:s prognos: 99,9 procents sannolikhet att de rödgröna vinner",
-      "link": "https://www.dn.se/sverige/valrysaren-fortsatter-mandatpingis-mellan-blocken/",
-      "description": "Valrysaren fortsätter. Under onsdagen hoppade ett riksdagsmandat fram och tillbaka mellan blocken. Men enligt SVT:s prognos är hoppet nu ute för Tidöpartierna.",
-      "pubDate": "2026-09-16T16:09:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Utlandsröstningen går mot rekord – kraftigt ökat valdeltagande i flera länder",
-      "link": "https://www.dn.se/sverige/utlandsrostningen-gar-mot-rekord-kraftigt-okat-valdeltagande-i-flera-lander/",
-      "description": "Regeringens och andras satsningar på att öka valdeltagandet bland utlandssvenskar verkar lyckas. Flera ambassader rapporterar kraftigt ökat intresse för svenska valet. Utlandsrösterna är bland de sista som räknas.",
-      "pubDate": "2026-09-16T15:59:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "Det spelar ingen roll hur olika grupper har röstat",
+      "link": "https://blog.zaramis.se/2026/09/17/det-spelar-ingen-roll-hur-olika-grupper-har-rostat/",
+      "description": "Det spelar ingen roll hur olika grupper har röstat för det är inte det som avgjort valet. Utan det som avgjort valet är i första hand minskat valdeltagande på landet. Det har framförallt drabbat SD. SD:s väljare har i huvudsak gått till sofflocket. Sen har de också förlorat till moderaterna i vissa kommuner. Men några stödröster till Liberalerna har de egentligen inte levererat. Utan detta minskade valdeltagande hade Tidögänget inte förlorat valet. Läs mer … Inlägget Det spelar ingen roll hur olika grupper har röstat dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-17T05:06:10Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M",
+        "L"
+      ]
+    },
     {
       "title": "Socialdemokratin måste vara större än rädslan för SD",
       "link": "https://www.dagensarena.se/opinion/socialdemokratin-maste-vara-storre-radslan-sd/",
@@ -331,37 +356,6 @@
       "topics": [
         "V",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Vänstermajoritet i Göteborg",
-      "link": "https://blog.zaramis.se/2026/09/14/vanstermajoritet-i-goteborg/",
-      "description": "När det gäller kommunvalet i Göteborg har Socialdemokraterna ökat andelen röster medan Vänsterpartiet inte ökat alls. Miljöpartiet har ökat dock ökat mer än S. Sammantaget verkar det kunna bli så att de tre partierna kan fortsätta styra Göteborg men utan behov av stöd från Centerpartiet. De stora förlorarna i kommunvalet i Göteborg är Liberalerna och Sverigedemokraterna. Valdeltagandet i Göteborg som helhet är oförändrat men i många förorter har det ökat kraftigt. Läs mer … Inlägget Vänstermajoritet i Göteborg dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-14T07:18:34Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "V",
-        "C",
-        "L",
-        "MP"
-      ]
-    },
-    {
-      "title": "Den stora valvinnaren är Vänsterpartiet",
-      "link": "https://blog.zaramis.se/2026/09/14/den-stora-valvinnaren-ar-vansterpartiet/",
-      "description": "Det råder ingen tvekan om det. Borgerlig media har drivit en rabiat smutskastningskampanj gentemot Vänsterpartiet men ändå är partiet de som ökat antalet röster mest jämfört med förra valet. Samtidigt har Socialdemokraterna gjort ett av sina sämsta val någonsin men de är trots allt ändå inet de största förlorarna utan det är Sverigedemokraterna. Läs mer … Inlägget Den stora valvinnaren är Vänsterpartiet dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-14T05:25:42Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "V"
       ]
     },
     {
@@ -439,16 +433,14 @@
       ]
     },
     {
-      "title": "Muslimska brödraskapet når organisatorisk mognad med stöd från Centerpartiet",
-      "link": "https://ledarsidorna.se/muslimska-brodraskapet-nar-organisatorisk-mognad-med-stod-fran-centerpartiet/",
-      "description": "I den andra av tre artiklar om Centerpartiets muslimprojekt 1990–1994 beskrivs hur projektet når en organisatorisk mognad och utgör basen för etableringen av politisk islam i samtliga riksdagspartier. Där många av de politiska krav som formulerats med partiets hjälp nu etableras som allmängiltiga . Fyra månader före riksdagsvalet 1994 skickade Mahmoud Aldebe ett öppet brev [&#8230;]",
-      "pubDate": "2026-09-06T03:33:36Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "title": "Kan israeliska teknikföretag påverka det svenska valet?",
+      "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
+      "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
+      "pubDate": "2026-09-01T08:56:35Z",
+      "source": "Parabol",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
+      "topics": []
     }
   ],
   "podcasts": [
