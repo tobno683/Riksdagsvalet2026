@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T07:51:07.319912Z",
+  "updated_at": "2026-09-17T12:50:34.752172Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,73 +79,174 @@
   ],
   "news": [
     {
-      "title": "Andersson har haft kontakt med rödgröna partierna",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-har-haft-kontakt-med-rodgrona-partierna/",
-      "description": "Magdalena Andersson har varit i kontakt med de rödgröna ledarna, erfar Expressen. Enligt källor kommer pressen nu öka på V och C att kunna samlas för ett första möte mellan fyra partier. Miljöpartiet väntas få en nyckelroll i arbetet.",
-      "pubDate": "2026-09-17T07:46:20Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "MP"
-      ]
-    },
-    {
-      "title": "MP:s regeringsstrategi – pekar ut ministerposten",
-      "link": "https://www.expressen.se/nyheter/politik/mps-regeringsstrategi-pekar-ut-ministerposten/",
-      "description": "Miljöpartiet kommer in med svagast kort i regeringsförhandlingar –&nbsp;men klimat och infrastruktur står på kravlistan, erfar Expressen. Dessutom att alla fyra partier ska sitta med. –&nbsp;Det måste vara tydligt att C, V och MP är de partier som säkrat en ny regering, säger ex-språkröret Gustav Fridolin.",
-      "pubDate": "2026-09-17T06:28:39Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Debatt om Vänsterpartiets valkampanj i förorten",
-      "link": "https://www.sverigesradio.se/artikel/9301947",
-      "description": "De stora framgångarna för Vänsterpartiet i en del invandrartäta förorter har skapat debatt och lett till anklagelser om desinformationskampanjer och oschyssta metoder. Elisabeth Hellström, ordförande för Moderaterna i stockholmsförorten Rinkeby anklagar Vänsterpartiet för att ha skrämt väljarna och varit påstridiga när partiet knackat dörr. Riksdagskandidaten Ilyas Hassan som kampanjat för Vänsterpartiet i Rinkeby avfärdar helt kritiken.",
-      "pubDate": "2026-09-17T06:22:00Z",
+      "title": "Helena Gissén om statsministerns avgång: ”Inte förvånande”",
+      "link": "https://www.sverigesradio.se/artikel/9302369",
+      "description": "Statsminister Ulf Kristersson har under torsdagen lämnat in sin avskedsansökan. Ekots politikkommentator Helena Gissén kommenterar läget just nu.&nbsp; ”Inte förvånande”, säger hon.",
+      "pubDate": "2026-09-17T12:27:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
-        "V"
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "SD-toppen Tobias Andersson: Magstarkt att tro det är helt fria val",
-      "link": "https://www.expressen.se/nyheter/politik/sd-toppen-tobias-andersson-magstarkt-att-tro-det-ar-helt-fria-val/",
-      "description": "SD backar för första gången i ett riksdagsval.&nbsp; Partitoppen Tobias Andersson tillhör dem som förklarar SD:s nedgång med de nya utfärdade medborgarskapen. – Det är lite magstarkt att tro att det råder helt fria val när vi kan ha en majoritet på över 90 procent i ett helt valdistrikt, säger han till SvD .&nbsp;",
-      "pubDate": "2026-09-17T05:26:07Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Insändare. S kör i diket med sin högersväng",
+      "link": "https://www.dn.se/insandare/s-kor-i-diket-med-sin-hogersvang/",
+      "description": "INSÄNDARE. Det behövs tydliga alternativ i politiken, är nästan alla politiska kommentatorer eniga om. När nu Socialdemokraterna sakta rör sig närmare och närmare de borgerliga partierna upphör gradvis stommen i det som länge varit den vänstra sidan, skriver Oskar Palm.",
+      "pubDate": "2026-09-17T12:25:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
       ]
     },
     {
-      "title": "Ulla Andersson (V) om C: Kom ut ur lådan",
-      "link": "https://www.expressen.se/nyheter/politik/ulla-andersson-v-om-c-kom-ut-ur-ladan/",
-      "description": "Vänsterpartiet ska inte ge upp ministerposter.&nbsp; Det anser V-nestorn Ulla Andersson, tidigare ekonomisk-politisk talesperson för Vänsterpartiet. – Centern verkar ha stängt in sig i en låda, kom ut ur den och se verkligheten, uppmanar hon.",
-      "pubDate": "2026-09-17T04:04:06Z",
+      "title": "Ulf Kristersson avgår – så låter det utanför S-högkvarter",
+      "link": "https://www.sverigesradio.se/artikel/9302360",
+      "description": "Strax innan uppgifterna om att Ulf Kristersson inom kort avgår som statsminister bars fyra tårtor in på Socialdemokraternas högkvarter på Sveavägen i Stockholm, enligt SVT . Utanför högkvarteret finns även Ekots reporter Ida Svansbo som har pratat med personer inom Socialdemokraterna. ”En person sa att det troligtvis kommer ett pressutskick om en presskonferens”, säger Svansbo.",
+      "pubDate": "2026-09-17T12:22:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Då får Andersson ge upp – direkt",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/da-far-andersson-ge-upp-direkt/",
+      "description": "Valet är färdigräknat och Ulf Kristersson har lämnat in avskedsansökan till talmannen. Därmed kan regeringsbildningen börja – och den kommer bli lång, säger folk som tror sig veta. Kanske det. Den kan också bli mycket kort.",
+      "pubDate": "2026-09-17T12:17:01Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "V"
+        "M",
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "Här är frågorna som enar de rödgröna – och konflikterna som väntar",
-      "link": "https://www.sverigesradio.se/artikel/9301636",
-      "description": "Svåra förhandlingar väntar om Magdalena Andersson (S) får uppdraget att försöka bilda regering med de rödgröna partierna – bland annat kring skatter och kärnkraft. Samtidigt är partierna eniga i flera frågor, som kring satsningar på infrastruktur och klimatet, enligt Payam Moula chefredaktör på socialdemokratiska tankesmedjan Tiden. \"Väljarna har gett oss en riktning för Sverige. Nu är det partiernas ansvar att se till att lösa ut knutarna”, säger en högt uppsatt miljöpartist till Ekot.",
-      "pubDate": "2026-09-17T03:47:00Z",
+      "title": "Andersson: Röstat för en ny riktning",
+      "link": "https://www.expressen.se/nyheter/politik/busch-jag-vill-tacka-ulf-kristersson/",
+      "description": "Ulf Kristersson avgår som statsminister.&nbsp; Samtidigt håller Socialdemokraternas partiledare ett segertal – Svenska folket har röstat fram en ny riktning för vårt land, säger hon.",
+      "pubDate": "2026-09-17T12:07:47Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ulf Kristersson avgår som statsminister",
+      "link": "https://www.sverigesradio.se/artikel/9302314",
+      "description": "Statsminister Ulf Kristersson har lämnat in sin avskedsansökan till talmannen, skriver han på X. Beskedet kommer efter att Valmyndigheten publicerat det preliminära valresultatet som visar att oppositionen får 176 mandat och Tidöpartierna får 173. ”Kristersson skriver i det brev han skrivit till talmannen att det måste bli en ny regeringsbildning, och att han vill göra det möjligt och därför avgår”, säger Ekots politikreporter Pontus Mattsson",
+      "pubDate": "2026-09-17T11:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Rösterna färdigräknade – oppositionen vinner",
+      "link": "https://www.sverigesradio.se/artikel/9302278",
+      "description": "Den rödgröna oppositionen vinner valet med 176 mandat mot Tidöpartiernas 173 mandat, visar Valmyndighetens preliminära rösträkning. Över 6,8 miljoner svenskar röstade i årets val. Det är ett valdeltagande på 84,8 procent. Hör Mats Eriksson, chef för politikgruppen på Ekot.",
+      "pubDate": "2026-09-17T11:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ulf Kristersson avgår som statsminister",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-kristersson-avgar-inom-kort/",
+      "description": "Ulf Kristersson har erkänt sig besegrad och har begärt att få bli entledigad som statsminister.&nbsp; Han kommer att sitta kvar som partiledare för Moderaterna.&nbsp;",
+      "pubDate": "2026-09-17T11:37:27Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ulf Kristersson avgår som statsminister",
+      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-ulf-kristersson-vantas-avga-som-statsminister",
+      "description": "Statsminister Ulf Kristersson (M) avgår som statsminister. På torsdagen begärde han sig entledigad hos talmannen. ”Nu är det talmannen som ska leda de kommande stegen på väg mot en ny regeringsbildning”, skriver han i ett uttalande.",
+      "pubDate": "2026-09-17T11:26:27Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Nu kan vi inte tro på något de säger",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-nu-kan-vi-inte-tro-pa-nagot-de-sager/",
+      "description": "Nu går det politiska Sverige in i det tjuv- och rackarspel som kallas regeringsbildning. Det mesta som pyser ut från partierna den närmaste tiden är politiskt spinn avsett att gynna den egna förhandlingspositionen – och bör lyssnas på med skeptiska öron.",
+      "pubDate": "2026-09-17T11:18:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Har Kristersson bättre demokratiska insikter än Trump?",
+      "link": "https://www.dn.se/insandare/har-kristersson-battre-demokratiska-insikter-an-trump/",
+      "description": "INSÄNDARE. Det som så här långt sipprat ut efter valet ger anledning till oro över den demokratiska hälsan hos Moderaterna. Nog ska väl statsminister Ulf Kristersson ha bättre demokratiska instinkter än de som Donald Trump visade upp, skriver Olov Törnqvist.",
+      "pubDate": "2026-09-17T11:16:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Centerpartiet kan tänka sig ren S-regering",
+      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-kan-tanka-sig-ren-s-regering/",
+      "description": "Centerpartiet kommer att behöva acceptera att Vänsterpartiet får ett visst inflytande.&nbsp; Det säger en C-källa till Aftonbladet och öppnar samtidigt för en renodlad S-regering.&nbsp; – Alla centerpartister har räknat ut att V kommer att få ett visst inflytande.&nbsp;",
+      "pubDate": "2026-09-17T10:53:48Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Valet klart – oppositionen får 176 mandat",
+      "link": "https://www.expressen.se/nyheter/politik/svt-slar-fast-oppositionen-far-176-mandat/",
+      "description": "Alla röster i riksdagsvalet har äntligen räknats klart.&nbsp; Oppositionen får tre mandat fler än Tidöpartierna. – Under den här räkningen har det gått bättre för vänstersidan, säger prognosgurun Gustav Karreskog Rehbinder, om onsdagsrösterna.",
+      "pubDate": "2026-09-17T10:39:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "MP: S har bjudit in oppositionen till möte",
+      "link": "https://www.sverigesradio.se/artikel/9302212",
+      "description": "Miljöpartiets partisekreterare Katrin Wissing säger att Socialdemokraterna bjudit in Miljöpartiet till samtal med de andra i oppositionen. ”Vi har fått en inbjudan om att samtala med oppositionspartierna, säger hon men vill inte berätta när det skall äga rum.” Enligt Katrin Wissing kan svåra frågor i regeringsförhandlingar bli de som rör bland annat strandskydd och natur.",
+      "pubDate": "2026-09-17T10:37:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
@@ -155,117 +256,15 @@
       ]
     },
     {
-      "title": "Furtenbach: Svettigt att styra riksdagen med väldigt liten övervikt",
-      "link": "https://www.sverigesradio.se/artikel/9301877",
-      "description": "Alla onsdagsröster hann inte räknas på onsdagen, men tillräckligt många för att SVT på kvällen prognosticerade att oppositionen, med 99.9 procents säkerhet, blir större än Tidöpartierna. Ekots inrikespolitiska kommentator Fredrik Furtenbach säger att det är troligt att Ulf Kristersson avgår om prognosen stämmer, när Valmyndigheten presenterar sitt preliminära resultat. Även om oppositionen får fler mandat, kan det bli svårt att styra med en så knapp majoritet, säger Fredrik Furtenbach.",
-      "pubDate": "2026-09-17T03:43:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Dadgostar efter SVT:s valprognos: ”Adjö Tidö”",
-      "link": "https://www.dn.se/sverige/dadgostar-efter-valprognosen-adjo-tido/",
-      "description": "Det är minst 99,9 procent säkert att oppositionen vinner valet, visar SVT:s prognos. På Instagram jublar Vänsterpartiets Nooshi Dadgostar. ”De rödgröna vinner valet och Vänsterpartiet ökar mest av alla partier! Adjö Tidö”, skriver hon.",
-      "pubDate": "2026-09-16T22:18:04Z",
+      "title": "Rödgröna blocket får majoritet i valet",
+      "link": "https://www.dn.se/sverige/rodgrona-blocket-far-majoritet-i-valet/",
+      "description": "Efter mandatpingisen står det nu klart. De rödgröna partierna får majoritet i valet. Statsminister Ulf Kristersson har meddelat sin avgång i ett brev till talmannen.",
+      "pubDate": "2026-09-17T10:28:06Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Furtenbach: Blir svårt för Andersson att bilda regering",
-      "link": "https://www.sverigesradio.se/artikel/9301869",
-      "description": "Det kommer inte bli enkelt för Magdalena Andersson att bilda regering, trots att SVT:s prognos visar den rödgröna sidan som vinnare i valet. Problemet för Magdalena Andersson är att Vänsterpartiet kräver ministerposter samtidigt som Centerpartiet inte accepterar ministrar från Vänsterpartiet, säger Ekots inrikespolitiske kommentator Fredrik Furtenbach. ”Många som sysslar med politik spekulerar i att något av de här partierna kanske rör sig först när ett extraval hotar”, fortsätter han.",
-      "pubDate": "2026-09-16T20:53:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Gabrielsson (V): ”Då måste vi fyra börja säga ja till varandra”",
-      "link": "https://www.sverigesradio.se/artikel/9301852",
-      "description": "Vänsterpartiets vice partiledare Ida Gabrielson kommenterar nu i Aktuellt SVT:s valprognos, som visar att de rödgröna partierna vinner valet. Hon betonar att det är dags att släppa de röda linjerna, då Centerpartiet tidigare sagt att man inte vill ingå i en regering med V. ”Det som är viktigt nu när det här står klart, det är ändå att då finns det en chans att äntligen bilda en ny majoritet där Magdalena Andersson kan vara statsminister”, säger hon.",
-      "pubDate": "2026-09-16T20:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Malin Ullgren: Först när SD backade förstod jag hur rädd jag varit",
-      "link": "https://www.dn.se/kultur/malin-ullgren-forst-nar-sd-backade-forstod-jag-hur-radd-jag-varit/",
-      "description": "I femton år har hoten och hatet varit tätt sammanflätade med Sverigedemokraternas framgångar. Först när partiet backade i valet blev det tydligt hur djupt rädslan har trängt in – inte bara i mig, utan i hela offentligheten, skriver DN:s Malin Ullgren.",
-      "pubDate": "2026-09-16T19:23:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Statsvetare: I stort sett kört för Tidöpartierna",
-      "link": "https://www.dn.se/sverige/statsvetare-i-stort-sett-kort-for-tidopartierna/",
-      "description": "Än är inte alla röster räknade, men oppositionens övertag ser ut att hålla. – Det är i stort sett kört för Tidöpartierna, säger Erik Wångmar, statsvetare vid Linnéuniversitetet.",
-      "pubDate": "2026-09-16T19:16:54Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "DN Debatt. ”Viktigast är inte vem som vann valet – utan vad de får offra”",
-      "link": "https://www.dn.se/debatt/viktigast-ar-inte-vem-som-vann-valet-utan-vad-de-far-offra/",
-      "description": "DN DEBATT. I måndags vaknade vi till ett läge där både Magdalena Andersson (S) och Ulf Kristersson (M) gjorde sig redo för förhandlingar. Visst lockar det att snabbt få veta vem som ”vann”, men risken med att stressa är att partierna börjar köpslå för att vinna rubriker snarare än politiska framgångar, skriver Lars-Johan Åge, professor i förhandling och medling.",
-      "pubDate": "2026-09-16T18:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Furtenbach: Kristersson kommer vänta med att erkänna sig besegrad",
-      "link": "https://www.sverigesradio.se/artikel/9301778",
-      "description": "Enligt SVT:s prognos kommer de rödgröna partierna bli störst i riksdagsvalet. ”Ulf Kristersson tänker inte erkänna sig besegrad förens Magdalena Andersson har valts”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. Tanken är att sätta press på Centerpartiet, men att det skulle leda någonstans tror han inte. Men Tidöpartierna kan då visa upp att det är Centerpartiet som hindrar en blå regering, säger han.",
-      "pubDate": "2026-09-16T17:42:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
         "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Max Hjelm: Veronica Maggio har rätt om vad valet handlade om",
-      "link": "https://www.dn.se/ledare/max-hjelm-veronica-maggio-har-ratt-om-vad-valet-handlade-om/",
-      "description": "Regeringsbildningen kan bli svår. Under tiden är det viktigt att inte glömma varför principen om att hålla Sverigedemokraterna utanför politisk makt är viktig.",
-      "pubDate": "2026-09-16T17:23:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
         "Regeringsbildning"
       ]
     }
@@ -319,18 +318,6 @@
       "sourceType": "blog",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Stefan Löfven om regeringsförhandlingar: ”Gäller att ha en gemensam målbild”",
-      "link": "https://www.dagensarena.se/innehall/stefan-lofven-om-regeringsforhandlingar-galler-att-ha-en-gemensam-malbild/",
-      "description": "Stefan Löfven och Maria Wetterstrand om hur man förhandlar fram ett regeringsunderlag Inlägget Stefan Löfven om regeringsförhandlingar: ”Gäller att ha en gemensam målbild” dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-15T11:13:42Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "Regeringsbildning"
       ]
     },
     {
