@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T13:57:44.247044Z",
+  "updated_at": "2026-09-18T17:24:51.441968Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,95 @@
   ],
   "news": [
     {
+      "title": "Magdalena Andersson (S) får sonderingsuppdrag: ”Stor ödmjukhet”",
+      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-far-sonderingsuppdrag-stor-odmjukhet",
+      "description": "Magdalena Andersson (S) får i uppdrag att sondera förutsättningarna för att bilda regering. S-ledaren skriver i ett uttalande att hon tar sig an uppdraget med stor ödmjukhet, och att hon kommer agera konstruktivt. ”Alla politiska krafter behöver nu lägga partitaktiken åt sidan och sätta Sverige och svenska folket främst”, skriver hon.",
+      "pubDate": "2026-09-18T16:03:56Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Andersson först ut – men regeringsunderlaget är splittrat",
+      "link": "https://www.sverigesradio.se/artikel/9303451",
+      "description": "Magdalena Andersson får första försöket att bilda regering och säger att arbetet redan har börjat. Men den svårlösta knuten mellan Vänsterpartiet och Centerpartiet finns kvar. Vänsterpartiet kräver att få ingå i regeringen – samtidigt säger Centerpartiet nej till en regering där Vänsterpartiet ingår. Miljöpartiet drar inte upp några röda linjer, men säger att det är ett krav att nästa regering tar Sverige ur beroendet av fossila bränslen.",
+      "pubDate": "2026-09-18T14:58:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Vanligare att politiker ger viktiga besked på egna kanaler",
+      "link": "https://www.sverigesradio.se/artikel/9303328",
+      "description": "Det blir allt vanligare att politiker väljer att publicera avgörande besked i egna kanaler på sociala medier, det säger Marie Grusell, medieforskare på Göteborgs universitet. Det senaste dygnet meddelade Ulf Kristersson sin avgång på plattformen X och Socialdemokraterna publicerade Magdalena Anderssons segertal på Youtube. ”Man bestämmer själv hur man vill säga det och när det ska publiceras”, säger Grusell som studerat politikernas kommunikation på sociala medier sedan 2009.",
+      "pubDate": "2026-09-18T14:55:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Gissén: Allting kan falla samman för Andersson",
+      "link": "https://www.sverigesradio.se/artikel/9303406",
+      "description": "S-ledaren Magdalena Andersson har på fredagen fått uppdraget att bilda regering. Men allt kan falla samman för Magdalena Andersson, menar Ekots inrikespolitiska kommentator Helena Gissén. Centerpartiets röda linje mot Vänsterpartiet står kvar. Det gör även Vänsterpartiets krav på ministerposter – ett krav som kan göra det svårt för partiet att vika ner sig, säger Gissén. Misslyckas Magdalena Andersson med att bilda regering inom tre månader, går Sverige till extraval.",
+      "pubDate": "2026-09-18T14:52:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "V-veteranen: Norlén borde få sitta kvar",
+      "link": "https://www.dn.se/sverige/v-veteranen-norlen-borde-fa-sitta-kvar/",
+      "description": "Flera socialdemokratiska toppnamn lyfts inför det kommande talmansvalet. V-veteranen Ulla Andersson tycker att moderaten Andreas Norlén borde få sitta kvar, som en signal i dagens splittrade politiska landskap. – Jag tänker att man kan börja bygga på något annat, säger hon.",
+      "pubDate": "2026-09-18T14:43:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Rekordmånga förtidsröstade i valet – över 3 700 000 väljare",
+      "link": "https://www.sverigesradio.se/artikel/9303305",
+      "description": "Fler än någonsin valde att förtidsrösta i årets val till riksdagen, region- och kommunfullmäktige, enligt Valmyndigheten. Totalt handlar det om drygt 3,7 miljoner väljare, vilket motsvarar cirka 55 procent av alla väljare. Anna Nyqvist, kanslichef på Valmyndigheten, tror att det kan bero på att man kunnat förtidsrösta i vilken förtidsröstningslokal som helst i Sverige, till skillnad från på valdagen då man bara kan rösta i den vallokal som står angiven på ens röstkort.",
+      "pubDate": "2026-09-18T14:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Andersson (S) får uppdrag att bilda regering",
+      "link": "https://www.sverigesradio.se/artikel/9303364",
+      "description": "Socialdemokraternas partiledare Magdalena Andersson får i uppdrag att bilda regering, meddelar talman Andreas Norlén under en pressträff på fredagen. ”Uppdraget ska redovisas för den nya riksdagens talman som alltså väljs den 28 september” , säger han. Talmannen fortsätter med att samtliga partiledare pekat på att det är rimligt att Andersson får sonderingsuppdraget.",
+      "pubDate": "2026-09-18T13:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Klockan är de rödgrönas fiende",
       "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/klockan-ar-de-rodgronas-fiende/",
       "description": "Fredagens talmansrunda i riksdagen öppnade inga rödgröna låsningar.&nbsp; Snarare kastade Nooshi Dadgostar (V) och Elisabeth Thand Ringqvist (C) var sin nyckel i Riddarfjärden.",
@@ -102,18 +191,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Myndighet granskar SD:s mass-sms",
-      "link": "https://www.expressen.se/nyheter/politik/myndighet-granskar-sds-mass-sms/",
-      "description": "Integritetsskyddsmyndigheten inleder granskningar av sms-utskick från Sverigedemokraterna och Örebropartiet, under valrörelsen. Tidigare har SD fått en reprimand efter sms-utskick. – Om man brutit mot regelverket en gång och sen gör det igen, då kan det vara en försvårande omständighet, säger Karin Thomasson, enhetschef på myndigheten.",
-      "pubDate": "2026-09-18T11:22:14Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     },
     {
@@ -188,82 +265,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Läget mellan C och V fortsatt låst: ”Backar inte”",
-      "link": "https://www.expressen.se/nyheter/politik/laget-mellan-c-och-v-fortsatt-last-backar-inte/",
-      "description": "Socialdemokraterna vill bilda regering. Vänsterpartiet kräver att få sitta i den. Och Centerpartiet vägrar släppa in dem.&nbsp; Efter dagens talmansrundor ser den rödgröna regeringsnöten fortsatt svårknäckt ut.&nbsp; Missa ingenting om valet 2026 - ladda ned Expressens app här",
-      "pubDate": "2026-09-18T10:42:01Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Dadgostar: V backar inte om ministerposter",
-      "link": "https://www.expressen.se/nyheter/politik/dadgostar-v-backar-inte-om-ministerposter/",
-      "description": "Vänsterpartiet backar inte från sitt krav på ministerposter. Partiledaren Nooshi Dadgostar fortsätter sätta press på Centerpartiet. – Jag vädjar till dem att komma till förhandlingsbordet, säger hon efter sitt möte med talmannen. Samtidigt öppnar hon för att börja förhandla med S och MP – utan C.",
-      "pubDate": "2026-09-18T09:58:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Småpartier på högersidan större än blockskillnaden",
-      "link": "https://www.dn.se/sverige/smapartier-pa-hogersidan-nastan-lika-stora-som-blockskillnaden/",
-      "description": "SD-företrädare har sedan riksdagsvalet vid flera tillfällen riktat kritik mot väljare som lagt sina röster på partier utanför riksdagen. Med knappt 1 500 distrikt kvar att räkna i den slutliga rösträkningen står klart att Örebropartiet och Alternativ för Sverige tillsammans fått drygt 52 000 röster, mer än de drygt 50 000 röster som skiljer blocken emellan.",
-      "pubDate": "2026-09-18T09:37:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Åkessons (SD) attack mot V och S: Mobiliserat islamistiska väljare",
-      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akessons-sd-attack-mot-v-ingen-normal-manniska-rostar-pa-ett-sadant-parti",
-      "description": "Sverigedemokraterna backade tydligt och Vänsterpartiet gick framåt. Islamister ligger bakom V-ökningen i riksdagsvalet, påstår SD-ledaren Jimmie Åkesson.",
-      "pubDate": "2026-09-18T09:23:06Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Åkesson: Jag kommer inte att avgå",
-      "link": "https://www.dn.se/sverige/akesson-jag-kommer-inte-att-avga/",
-      "description": "SD:s partiledare Jimmie Åkessons huvudförklaring till det dåliga valresultatet var att man tappat till samarbetspartierna och förlorat sin profilfråga om migration. Han återupprepade bland annat att V och S ”mobiliserat islamistiska röster”. – Jag kommer inte att avgå, kommenterar han ryktena. SD kommer inte heller att ge upp kravet på ministerposter.",
-      "pubDate": "2026-09-18T08:43:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Talmansrundan är igång – talmannen mötte partiledarna",
-      "link": "https://www.sverigesradio.se/artikel/9302872",
-      "description": "På fredagen satte talmansrundorna igång i riksdagen. Socialdemokraternas partiledare Magdalena Andersson var först ut att träffa Andreas Norlén i talmanskorridoren klockan 10 på förmiddagen. Redan på torsdagen hade den avgående statsministern Ulf Kristersson (M) ett möte med talmannen efter att han lämnat in sin ansökan om entledigande.",
-      "pubDate": "2026-09-18T08:15:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
       ]
     }
   ],
@@ -361,18 +362,6 @@
       "link": "https://ledarsidorna.se/kds-relationer-med-brodraskapet-2022-2026/",
       "description": "Kristdemokraterna medverkade i november 2022 till att regeringen drog tillbaka en proposition som skulle ha infört demokrativillkor för statligt stöd till trossamfund och civilsamhälle. Under de två år som följde fortsatte kommunala medel att gå till Ibn Rushd, samtidigt som KD-företrädare offentligt kritiserade just dessa beslut. Studieförbundet Ibn Rushd avvecklade sin verksamhet under hösten 2022, [&#8230;]",
       "pubDate": "2026-09-10T02:57:49Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Så fick Brödraskapet allierade på bägge sidor den politiska blockgränsen",
-      "link": "https://ledarsidorna.se/sa-fick-brodraskapet-allierade-pa-bagge-sidor-den-politiska-blockgransen/",
-      "description": "Under Sensus mentorskap av studieförbundet Ibn Rushd (2003–2007) drevs det gemensamma projektet Fredsagenterna finansierat av Ungdomsstyrelsen. Projektet ledde till bildandet av Svenska muslimer för fred och rättvisa (SMFR) som utvecklades till en av Muslimska brödraskapets nätverksorganisationer. Genom projektet och det efterföljande arbetet upprätthöll kristdemokratiska riksdagsledamöter samt ett statsråd organisationens legitimitet genom återkommande kontakter samt aktiviteter [&#8230;]",
-      "pubDate": "2026-09-09T03:24:34Z",
       "source": "Ledarsidorna",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
