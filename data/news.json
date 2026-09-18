@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T00:54:11.846025Z",
+  "updated_at": "2026-09-18T05:21:42.351054Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,27 +79,91 @@
   ],
   "news": [
     {
-      "title": "Kristersson reser till Riga",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=57c73416-71e9-45de-9b6b-09aff2cdf12d",
-      "description": "Åker till Riga, enligt Aftonbladet",
-      "pubDate": "2026-09-17T20:35:23Z",
+      "title": "Talmannen håller möten med alla partier i dag",
+      "link": "https://www.expressen.se/nyheter/politik/talmannen-haller-moten-med-alla-partier-i-dag/",
+      "description": "Efter valresultatet väntar nu nästa steg i regeringsbildningen.&nbsp; Under fredagen träffar talmannen Andreas Norlén samtliga riksdagspartier.&nbsp; Men med låsta positioner mellan oppositionspartierna kan processen bli utdragen.",
+      "pubDate": "2026-09-18T04:44:21Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M"
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "V-framgångar i Rinkeby:  ”Han är inte en Anders”",
-      "link": "https://www.expressen.se/nyheter/sverige/v-framgangar-i-rinkeby--han-ar-inte-en-anders/",
-      "description": "Vänsterpartiets segertåg i Järva har kritiserats från högerhåll. Och V:s posterboy i Rinkeby Ilyas Hassan har anklagats för att vid sidan av partiets officiella valrörelse bedriva annan kampanj – på annat språk och med delvis andra budskap. Men i Rinkeby dröjer det inte länge innan vi stöter på V-röstare som tror på Ilyas Hassan.&nbsp;",
-      "pubDate": "2026-09-17T20:11:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Johanna Frändén: Är det dags att skrota de politiska partierna?",
+      "link": "https://www.dn.se/kultur/johanna-franden-ar-det-dags-att-skrota-de-politiska-partierna/",
+      "description": "Inte ens efter valet slipper väljarna tjafset mellan partierna – nu hittar de på helt nya slogans för att slå fast att just deras gäng har vunnit. Ett råd: Lita på att svenskarna är vuxna och förstår att kompromisser är nödvändiga.",
+      "pubDate": "2026-09-18T04:31:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Så kan Magdalena Andersson mäkla fred mellan C och V",
+      "link": "https://www.dn.se/sverige/sa-kan-magdalena-andersson-makla-fred-mellan-c-och-v/",
+      "description": "Magdalena Andersson är under hård press när hon ska försöka jämka samman C och V i sitt regeringsunderlag. Motsättningarna är många men bakom den hårda retoriken finns samsyn mellan de två partierna i flera tunga frågor.",
+      "pubDate": "2026-09-18T04:11:06Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Talmannen ska träffa partiledarna – det händer idag",
+      "link": "https://www.sverigesradio.se/artikel/9302773",
+      "description": "Statsminister Ulf Kristersson lämnade i går in sin avskedsansökan efter att det preliminära valresultatet visat att Tidösidan förlorat valet. Under fredag förmiddag håller talmannen Andreas Norlén ett enskilt samtal med var och en av ledarna för partierna i riksdagen – utom Moderaterna som han träffade i går – för att hitta ett förslag till ny statsminister. Andras Norlén kommer efter mötena att överlägga med sina vice talmän, och senare i eftermiddag planeras en presskonferens.",
+      "pubDate": "2026-09-18T04:07:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ett första test för Anderssons förhandlingsförmåga",
+      "link": "https://www.svt.se/nyheter/inrikes/ett-forsta-test-for-anderssons-forhandlingsformaga",
+      "description": "Det rödgröna samarbetet kommer att utsättas för ett första test redan den 28 september. När riksdagen samlas för att välja en ny talman är frågan om de rödgröna partierna kan enas bakom en gemensam kandidat?",
+      "pubDate": "2026-09-18T03:58:32Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Anna Hedenmo: Förorterna röstade fel – det kan bara bero på en sak",
+      "link": "https://www.dn.se/ledare/anna-hedenmo-fororterna-rostade-fel-det-kan-bara-bero-pa-en-sak/",
+      "description": "Vänsterpartiets framgång i invandrartäta förorter beror på desinformation och skräckpropaganda om Tidöpartierna, påstås det nu. Men tänk om väljarna bara inte ville ha en regering som utvisar integrerade tonåringar? KOLUMNEN. Anna Hedenmo är journalist och fristående kolumnist på DN:s ledarsida.",
+      "pubDate": "2026-09-18T03:20:22Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
+      ]
+    },
+    {
+      "title": "Kravet från Företagarna på C: Stoppa slopat karensavdrag",
+      "link": "https://www.sverigesradio.se/artikel/9302282",
+      "description": "Inför regeringsbildningen pressas Centerpartiet från företagarhåll att säga nej till ekonomisk vänsterpolitik. Företagarnas vd Magnus Demervall, tidigare nära medarbetare med C-ledaren Annie Lööf, vill se lägre skatter och anställningskostnader, medan Socialdemokraterna, Vänsterpartiet och Miljöpartiet driver kravet att slopa karensavdraget. ”Vi är mest oroade över ett slopat karensavdrag som skulle driva upp kostnaderna enormt för småföretagarna”, säger Magnus Demervall.",
+      "pubDate": "2026-09-18T01:48:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP",
+        "Regeringsbildning"
       ]
     },
     {
@@ -113,20 +177,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C nekar samtalsinbjudan – tills V släpper regeringskrav",
-      "link": "https://www.expressen.se/nyheter/sverige/c-nekar-samtalsinbjudan-tills-v-slapper-regeringskrav/",
-      "description": "Socialdemokraterna har bjudit in samtliga rödgröna partier för samtal. Men Centerpartiet tackar bestämt nej – tills Vänsterpartiet släpper sina regeringskrav. – Vi menar att det inte är ett regeringsdugligt parti, säger en källa till SvD . &nbsp;",
-      "pubDate": "2026-09-17T18:42:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     },
     {
@@ -189,34 +239,6 @@
       ]
     },
     {
-      "title": "De har löst hur Magdalena  Andersson bildar en regering",
-      "link": "https://www.expressen.se/nyheter/politik/de-har-lost-hur-magdalena--andersson-bildar-en-regering/",
-      "description": "Centerpartiets och Vänsterpartiets röda linjer stoppar just nu en socialdemokratisk regering. Lösningen finns i Kalmar – där har meningsmotståndarna hittat ett vinnande sätt att regera tillsammans.&nbsp; – Vi kan lita på varandra och vi har inte haft den typen av konflikter som varit på riksplan, säger Vänsterpartiets Liselotte Sandell Ross.",
-      "pubDate": "2026-09-17T16:21:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Statsvetarna om fem  regeringsalternativ",
-      "link": "https://www.expressen.se/nyheter/politik/statsvetarna-om-fem--regeringsalternativ/",
-      "description": "Valet är över – men regeringen fortfarande högst osäker. Magdalena Andersson kämpar med röda linjer och Ulf Kristersson hoppas på sidbyte. Här är fem alternativ och statsvetarnas bedömning av hur troliga de är. – Centerpartiet måste släppa sin mittenregering och försöka börja förhandla, säger Erik Wångmar, statsvetare vid Linnéuniversitetet.",
-      "pubDate": "2026-09-17T16:18:23Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
       "title": "Furtenbach: Det vet vi om varför Tidö förlorade valet",
       "link": "https://www.sverigesradio.se/artikel/9302654",
       "description": "Oppositionen samlade 176 mandat och Tidöpartierna 173 mandat. Varför Tidösidan förlorade valet kommer att forskas på, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. ”De frågor som väljarna tyckte var viktiga i det här valet, de gick inte Tidöpartiernas väg.” Liberalerna klarade riksdagsspärren men Furtenbach menar att det inte var av egen kraft. ”Deras nya väljare kom framför allt från M och KD som då med all sannolikhet ville rädda sitt lag”, säger han.",
@@ -239,34 +261,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "S bjuder in till ”kartellmöte” – ”ny era av samarbete”",
-      "link": "https://www.svt.se/nyheter/inrikes/s-bjuder-in-till-kartellmote-ny-era-av-samarbete",
-      "description": "När alla röster hade räknats stod det klart att de rödgröna fått majoritet. Kort därpå meddelade Ulf Kristersson (M) att han avgår som statsminister. Nu har Socialdemokraterna bjudit in oppositionens gruppledare till ett gemensamt möte, enligt uppgifter till SVT.",
-      "pubDate": "2026-09-17T15:04:49Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristerssons första ord efter avgången",
-      "link": "https://www.sverigesradio.se/artikel/9302606",
-      "description": "Den avgående statsministern Ulf Kristersson kommenterar nu sin avgång i TV4:s Nyhetsdagen. ”Helt naturligt att det finns en riksdagsmajoritet som inte vill ha den blågula regeringen,” säger han. Den avgående statsministern kommer nu att leda en övergångsregering tills en ny regering finns på plats. Även om Kristersson avgår, så är han tydlig med att han inte ser Magdalena Andersson som Sveriges nya statsminister, än.",
-      "pubDate": "2026-09-17T14:55:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
       ]
     }
   ],
@@ -408,19 +402,6 @@
       ]
     },
     {
-      "title": "Vitboken som saknades",
-      "link": "https://ledarsidorna.se/vitboken-som-saknades/",
-      "description": "Muslimska brödraskapets etablering i svensk politik brukar tillskrivas samarbetet med Socialdemokraterna. Men detta är en delvis missvisande beskrivning. Centerpartiets partiprojekt i syfte att engagera muslimer startades långt tidigare och vars samhällseffekter fortfarande är märkbara och omfattande in i våra dagar på alla politiska nivåer. I oktober 2009 blev Mahmoud Aldebe medlem i Centerpartiet och deltog [&#8230;]",
-      "pubDate": "2026-09-07T01:27:23Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
       "title": "Kan israeliska teknikföretag påverka det svenska valet?",
       "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
       "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
@@ -432,6 +413,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Inläst: Därför är Miljöpartiet alltid kung i Stockholm",
+      "link": "https://pod.space/kvartal/inlast-darfor-ar-miljopartiet-alltid-kung-i-stockholm",
+      "description": "I tolv år har Miljöpartiet haft makten Stockholms stad i olika konstellationer. Under den tiden har cykelbanorna blivit fler och luften friskare. Samtidigt finns en konflikt mellan huvudstadens invånare och de mer bilberoende kranskommunerna. Stockholm illustrerar en märklig europeisk paradox: De gröna partierna är som starkast där miljön redan är som bäst. Av Jonas A Eriksson Inläsare: Cassandra Alm",
+      "pubDate": "2026-09-18T04:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "S jublar – men Tidöpartierna har inte gett upp",
       "link": "https://pod.space/alskadepolitik/s-jublar-men-tidopartierna-har-inte-gett-upp",
@@ -602,19 +595,6 @@
       "topics": [
         "SD",
         "L"
-      ]
-    },
-    {
-      "title": "310. Högerut eller mittenåt?",
-      "link": "https://pod.space/politikrummet/310-hogerut-eller-mittenat",
-      "description": "Gunnar Strömmer (M) har försökt bjuda Centerpartiet på kaffe – men fått nej varje gång. Nu möter justitieministern partisekreterare Hannes Hervieu (C) i debatt om vägen till en ny regering efter valet – och för svensk borgerlighet i framtiden. Moderator är Viktor Barth-Kron.",
-      "pubDate": "2026-09-10T12:06:03Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
-        "C"
       ]
     }
   ]
