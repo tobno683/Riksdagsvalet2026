@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T19:47:33.654351Z",
+  "updated_at": "2026-09-18T22:00:12.724874Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Hoten mot Anderssons regering: Vildar och sjuka ledamöter",
+      "link": "https://www.expressen.se/nyheter/politik/hoten-mot-anderssons-regering-vildar-och-sjuka-ledamoter/",
+      "description": "Rekordmånga vildar.&nbsp; Inget kvittningssystem.&nbsp; Det saknas inte utmaningar för den rödgröna regering som Magdalena Andersson (S) nu försöker bilda.&nbsp; – Det är en jättebräcklig marginal, säger Andreas Johansson Heinö, statsvetare på Timbro.&nbsp;",
+      "pubDate": "2026-09-18T20:01:46Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "”C tänker inte backa – V ska hållas utanför en regering”",
       "link": "https://www.svt.se/nyheter/inrikes/c-tanker-inte-backa-v-ska-hallas-utanfor-en-regering",
@@ -204,19 +216,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Klockan är de rödgrönas fiende",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/klockan-ar-de-rodgronas-fiende/",
-      "description": "Fredagens talmansrunda i riksdagen öppnade inga rödgröna låsningar.&nbsp; Snarare kastade Nooshi Dadgostar (V) och Elisabeth Thand Ringqvist (C) var sin nyckel i Riddarfjärden.",
-      "pubDate": "2026-09-18T13:50:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
       ]
     },
     {
