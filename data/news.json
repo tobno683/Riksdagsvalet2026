@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T17:24:51.441968Z",
+  "updated_at": "2026-09-18T19:47:33.654351Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,33 @@
   ],
   "news": [
     {
+      "title": "”C tänker inte backa – V ska hållas utanför en regering”",
+      "link": "https://www.svt.se/nyheter/inrikes/c-tanker-inte-backa-v-ska-hallas-utanfor-en-regering",
+      "description": "Några dagar efter valet är läget minst lika låst som tidigare mellan Centerpartiet och Vänsterpartiet. Båda partierna håller fast vid sina röda linjer och Magdalena Anderssons regeringsbildning framstår allt mer som en omöjlig ekvation.",
+      "pubDate": "2026-09-18T18:24:54Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Mustaschkupp och skolstrid – nu är kommunen SD:s starkaste fäste",
+      "link": "https://www.dn.se/sverige/mustaschkupp-och-skolstrid-nu-ar-kommunen-sds-starkaste-faste/",
+      "description": "Färgelanda är Sverigedemokraternas starkaste fäste i landet. Med 39 procent av rösterna har partiet tagit hem en jordskredsseger i kommunalvalet. Bakom resultatet finns en skolkonflikt, flera år av röda siffror och en uppmärksammad Jimmie-mustasch.",
+      "pubDate": "2026-09-18T17:55:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Magdalena Andersson (S) får sonderingsuppdrag: ”Stor ödmjukhet”",
       "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-far-sonderingsuppdrag-stor-odmjukhet",
       "description": "Magdalena Andersson (S) får i uppdrag att sondera förutsättningarna för att bilda regering. S-ledaren skriver i ett uttalande att hon tar sig an uppdraget med stor ödmjukhet, och att hon kommer agera konstruktivt. ”Alla politiska krafter behöver nu lägga partitaktiken åt sidan och sätta Sverige och svenska folket främst”, skriver hon.",
@@ -88,6 +115,18 @@
       "sourceType": "news",
       "topics": [
         "S"
+      ]
+    },
+    {
+      "title": "Flera tunga namn ser ut att missa riksdagen",
+      "link": "https://www.dn.se/sverige/flera-tunga-namn-ser-ut-att-missa-riksdagen/",
+      "description": "Flera kända namn ser ut att missa en plats i riksdagen när personkryssen nu räknas samman. Bland dem finns KD-profilerna Peter Kullgren och Lars Adaktusson medan Liberalerna ser ut att förlora mandatet som skulle ha gått till Martin Melin i Sörmland.",
+      "pubDate": "2026-09-18T15:32:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
       ]
     },
     {
@@ -231,40 +270,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Krigströtthet märks i Ryssland – men protester kvävs",
-      "link": "https://www.sverigesradio.se/artikel/9303110",
-      "description": "I Ryssland öppnade vallokalerna under fredagsmorgonen, för tre dagars röstande till parlamentet duman – där alla partier som tillåtits är för kriget i Ukraina. En oväntad detalj i valrörelsen var att antikrigspartiet Jabloko fick ökat stöd men stoppades av domstol kort före valet. ”Det är svårare än någonsin att visa missnöje i det här valet”, säger Sveriges Radios Rysslandskorrespondent Fredrik Wadström.",
-      "pubDate": "2026-09-18T11:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Sverigedemokraternas mass-sms ska granskas av IMY",
-      "link": "https://www.sverigesradio.se/artikel/9303117",
-      "description": "Integritetsskyddsmyndigheten IMY inleder en granskning av Sverigedemokraternas massutskick av sms inför valet. Myndigheten ska granska hur urvalet av mottagare skedde, och vilken rättslig grund man har haft för behandlingen av personuppgifter. Omkring 1 500 klagomål och tips har kommit in till myndigheten om utskicken. Även ett mindre antal klagomål har kommit in om Örebropartiets utskick, som också ska granskas.",
-      "pubDate": "2026-09-18T11:03:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Sverigedemokraternas mass-sms ska granskas",
-      "link": "https://www.svt.se/nyheter/inrikes/sverigedemokraternas-mass-sms-ska-granskas",
-      "description": "Integritetskyddsmyndigheten (IMY) inleder en granskning av Sverigedemokraternas hårt kritiserade massutskick av sms inför valet.",
-      "pubDate": "2026-09-18T10:56:38Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
