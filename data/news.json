@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T05:21:42.351054Z",
+  "updated_at": "2026-09-18T09:55:59.195224Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,143 @@
   ],
   "news": [
     {
+      "title": "Småpartier på högersidan nästan lika stora som blockskillnaden",
+      "link": "https://www.dn.se/sverige/smapartier-pa-hogersidan-nastan-lika-stora-som-blockskillnaden/",
+      "description": "SD-företrädare har sedan riksdagsvalet vid flera tillfällen riktat kritik mot väljare som lagt sina röster på partier utanför riksdagen. Med 2 000 distrikt kvar att räkna i den slutliga rösträkningen står det redan klart att Örebropartiet och Alternativ för Sverige tillsammans fått drygt 46 000 röster, nästan lika mycket som de drygt 50 000 röster som skiljer blocken emellan.",
+      "pubDate": "2026-09-18T09:37:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Jimmie Åkessons (SD) attack mot V: ”Ingen normal människa röstar på ett sådant parti”",
+      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akessons-sd-attack-mot-v-ingen-normal-manniska-rostar-pa-ett-sadant-parti",
+      "description": "Sverigedemokraterna backade tydligt och Vänsterpartiet gick framåt. Islamister ligger bakom V-ökningen i riksdagsvalet, påstår SD-ledaren Jimmie Åkesson. – Ingen normal människa röstar på ett sådant parti, säger han när han för första gången kommenterar valresultatet.",
+      "pubDate": "2026-09-18T09:23:06Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Åkesson: Jag kommer inte att avgå",
+      "link": "https://www.dn.se/sverige/akesson-jag-kommer-inte-att-avga/",
+      "description": "SD:s partiledare Jimmie Åkessons huvudförklaring till det dåliga valresultatet var att man tappat till samarbetspartierna och förlorat sin profilfråga om migration. Han återupprepade bland annat att V och S ”mobiliserat islamistiska röster”. – Jag kommer inte att avgå, kommenterar han ryktena. SD kommer inte heller att ge upp kravet på ministerposter.",
+      "pubDate": "2026-09-18T08:43:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Talmansrundan är igång – talmannen mötte Andersson",
+      "link": "https://www.sverigesradio.se/artikel/9302872",
+      "description": "På fredagen satte talmansrundorna igång i riksdagen. Socialdemokraternas partiledare Magdalena Andersson var först ut att träffa Andreas Norlén i talmanskorridoren klockan 10 på förmiddagen. Redan på torsdagen hade den avgående statsministern Ulf Kristersson (M) ett möte med talmannen efter att han lämnat in sin ansökan om entledigande.",
+      "pubDate": "2026-09-18T08:15:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Partiledarna i möten med talmannen",
+      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-i-mote-med-talmannen/",
+      "description": "Socialdemokraternas partiledare Magdalena Andersson har träffat talmannen Andreas Norlén. Mötet var det första av sju på fredagen. – Jag har gett honom mitt och Socialdemokraternas besked: Jag står till förfogande för att inleda arbetet med att bilda en ny regering.",
+      "pubDate": "2026-09-18T08:13:51Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Åkesson om SD:s rösttapp: ”Ingen jättedramatik”",
+      "link": "https://www.sverigesradio.se/artikel/9302823",
+      "description": "SD-ledaren Jimmie Åkesson håller pressträff på fredagsmorgonen. Detta efter att partiet backat i valresultatet. SD har beställt en valanalys av tankesmedjan Oikos för att undersöka vad som orsakat rösttappet. Åkesson säger i samband med pressträffen att han inte kommer att avgå som partiledare. Han dementerade också de rykten som florerat senaste dagarna om att han planerat att ta en paus.",
+      "pubDate": "2026-09-18T07:39:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson (SD): ”Nej, jag ska inte avgå”",
+      "link": "https://www.expressen.se/nyheter/politik/efter-valforlusten-jimmie-akesson-sd-haller-presstraff/",
+      "description": "Det har ryktats om att Jimmie Åkesson (SD) ska ta en paus. Nu ger han ett svar på den frågan. – Nej, jag ska inte avgå, säger han på en pressträff.&nbsp;",
+      "pubDate": "2026-09-18T07:24:23Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Insändare. Så här kan C och V komma överens",
+      "link": "https://www.dn.se/insandare/sa-har-kan-c-och-v-komma-overens/",
+      "description": "INSÄNDARE. Det behöver inte vara omöjligt för Centerpartiet och Vänsterpartiet att mötas för att få fram en ny regering. Faktum är att partierna har mer gemensamt än man kan tro, skriver frilansskribenten Rolan Jusupov.",
+      "pubDate": "2026-09-18T07:22:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Närmare fyra miljoner förtidsröstade i valet",
+      "link": "https://www.expressen.se/nyheter/politik/narmare-fyra-miljoner-fortidsrostade-i-valet/",
+      "description": "Drygt 3,7 miljoner väljare förtidsröstade i valet, meddelar Valmyndigheten. Det utgör mer än hälften av väljarna och är nästan 600&nbsp;000 fler än under valet 2022.",
+      "pubDate": "2026-09-18T07:19:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Låt C-ledaren bli arkitekt för en mittenregering",
+      "link": "https://www.dn.se/insandare/lat-c-ledaren-bli-arkitekt-for-en-mittenregering/",
+      "description": "INSÄNDARE. Lägg i dessa osäkra tider blockpolitiken åt sidan och inled samtal om att bilda en bred majoritetsregering. Centerpartiet är uppenbarligen berett att vara ”samarbetsingenjör”, skriver Staffan Riben.",
+      "pubDate": "2026-09-18T07:06:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ledare: Är det verkligen okej att partitopparna skyller valresultatet på invandrarna?",
+      "link": "https://www.dn.se/ledare/ar-det-verkligen-okej-att-partitopparna-skyller-valresultatet-pa-invandrarna/",
+      "description": "Att sverigedemokrater sprider konspirationsteorier är hemskt, men inte förvånande. Frågan är varför Ulf Kristersson (M) och Ebba Busch (KD) accepterar att deras toppolitiker rör sig i samma terräng.",
+      "pubDate": "2026-09-18T05:22:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "KD"
+      ]
+    },
+    {
       "title": "Talmannen håller möten med alla partier i dag",
       "link": "https://www.expressen.se/nyheter/politik/talmannen-haller-moten-med-alla-partier-i-dag/",
-      "description": "Efter valresultatet väntar nu nästa steg i regeringsbildningen.&nbsp; Under fredagen träffar talmannen Andreas Norlén samtliga riksdagspartier.&nbsp; Men med låsta positioner mellan oppositionspartierna kan processen bli utdragen.",
+      "description": "Efter valresultatet väntar nu nästa steg i regeringsbildningen.&nbsp; Under fredagen träffar talmannen Andreas Norlén samtliga riksdagspartier.&nbsp; Men med låsta positioner mellan oppositionspartierna kan processen bli utdragen. Missa ingenting om regeringsbildningen - ladda ned Expressens app här",
       "pubDate": "2026-09-18T04:44:21Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -124,143 +258,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ett första test för Anderssons förhandlingsförmåga",
-      "link": "https://www.svt.se/nyheter/inrikes/ett-forsta-test-for-anderssons-forhandlingsformaga",
-      "description": "Det rödgröna samarbetet kommer att utsättas för ett första test redan den 28 september. När riksdagen samlas för att välja en ny talman är frågan om de rödgröna partierna kan enas bakom en gemensam kandidat?",
-      "pubDate": "2026-09-18T03:58:32Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Anna Hedenmo: Förorterna röstade fel – det kan bara bero på en sak",
-      "link": "https://www.dn.se/ledare/anna-hedenmo-fororterna-rostade-fel-det-kan-bara-bero-pa-en-sak/",
-      "description": "Vänsterpartiets framgång i invandrartäta förorter beror på desinformation och skräckpropaganda om Tidöpartierna, påstås det nu. Men tänk om väljarna bara inte ville ha en regering som utvisar integrerade tonåringar? KOLUMNEN. Anna Hedenmo är journalist och fristående kolumnist på DN:s ledarsida.",
-      "pubDate": "2026-09-18T03:20:22Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Kravet från Företagarna på C: Stoppa slopat karensavdrag",
-      "link": "https://www.sverigesradio.se/artikel/9302282",
-      "description": "Inför regeringsbildningen pressas Centerpartiet från företagarhåll att säga nej till ekonomisk vänsterpolitik. Företagarnas vd Magnus Demervall, tidigare nära medarbetare med C-ledaren Annie Lööf, vill se lägre skatter och anställningskostnader, medan Socialdemokraterna, Vänsterpartiet och Miljöpartiet driver kravet att slopa karensavdraget. ”Vi är mest oroade över ett slopat karensavdrag som skulle driva upp kostnaderna enormt för småföretagarna”, säger Magnus Demervall.",
-      "pubDate": "2026-09-18T01:48:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "17 september: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/17-september-missa-inte-dagens-nyheter/",
-      "description": "Ulf Kristersson avgår som statsminister, fler till sjukhus efter explosionslarm på skjutfält och Trump rasar mot EU – här är dagens nyheter.",
-      "pubDate": "2026-09-17T19:06:43Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Valets segrare behöver förhandla fram ett eget avtal",
-      "link": "https://www.dn.se/insandare/valets-segrare-behover-forhandla-fram-ett-eget-avtal/",
-      "description": "INSÄNDARE. Socialdemokraterna, Vänsterpartiet, Centerpartiet och Miljöpartiet måste alla vara beredda att ge och ta. Oppositionen har nu chansen att visa att sammanhållning väger tyngre än prestige och att Sveriges framtid är viktigare än partiernas särintressen, skriver den tidigare S-riksdagsledamoten Juan Fonseca.",
-      "pubDate": "2026-09-17T18:27:01Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "Insändare. Kristersson visar sig som dålig förlorare",
-      "link": "https://www.dn.se/insandare/kristersson-visar-sig-som-dalig-forlorare/",
-      "description": "INSÄNDARE. Att gratulera sin politiska huvudmotståndare om man förlorat ett val hör till vanligt hyfs. Men M-ledaren Ulf Kristersson har nu när alla röster i valet räknats visat att han är en dålig förlorare, skriver konstnären Åsa Pröjts.",
-      "pubDate": "2026-09-17T18:20:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "DN Debatt. ”Det sista Sverige får göra nu är att vända blicken inåt”",
-      "link": "https://www.dn.se/debatt/det-sista-sverige-far-gora-nu-ar-att-vanda-blicken-inat/",
-      "description": "DN DEBATT. Svenska valet har genomförts, och nästa regering måste flytta fokus från inrikespolitiken till vår tids ödesfrågor. Ukrainakriget pågår oförtrutet. Men efter fyra års krig är det också dags att vända på perspektivet: Ukraina är inte bara ett land vi ger allmosor. Det är en resurs, skriver fyra Östeuropaexperter vid Handelshögskolan.",
-      "pubDate": "2026-09-17T18:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Ali Alabdallah: Det är mig ni talar om när ni talar om ”röstboskap”",
-      "link": "https://www.dn.se/kultur/ali-alabdallah-det-ar-mig-ni-talar-om-nar-ni-talar-om-rostboskap/",
-      "description": "Jag arbetar, betalar skatt och deltar i samhället. Därför reagerar jag när politiker som förlorat valet skyller på mig – och ifrågasätter min plats i Sveriges demokrati, skriver Ali Alabdallah.",
-      "pubDate": "2026-09-17T17:33:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "”Bad apples” förvandlar skolbråk till farsartad feel bad",
-      "link": "https://www.dn.se/kultur/bad-apples-forvandlar-skolbrak-till-farsartad-feel-bad/",
-      "description": "Svensken Jonatan Etzlers engelskspråkiga debut är ett mörkt underhållande skoldrama. När Saoirse Ronans frustrerade mellanstadielärare tar till en makaber metod för att hantera klassens bråkstake ställs allt på ända. Svarthumoristiskt men spretigt, skriver Sebastian Lindvall.",
-      "pubDate": "2026-09-17T16:31:33Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Furtenbach: Det vet vi om varför Tidö förlorade valet",
-      "link": "https://www.sverigesradio.se/artikel/9302654",
-      "description": "Oppositionen samlade 176 mandat och Tidöpartierna 173 mandat. Varför Tidösidan förlorade valet kommer att forskas på, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. ”De frågor som väljarna tyckte var viktiga i det här valet, de gick inte Tidöpartiernas väg.” Liberalerna klarade riksdagsspärren men Furtenbach menar att det inte var av egen kraft. ”Deras nya väljare kom framför allt från M och KD som då med all sannolikhet ville rädda sitt lag”, säger han.",
-      "pubDate": "2026-09-17T15:54:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Kristersson efter avgångsbeskedet: Ser inte Andersson som valvinnare",
-      "link": "https://www.dn.se/sverige/kristersson-efter-avgangsbeskedet-ser-inte-andersson-som-valvinnare/",
-      "description": "Den rödgröna oppositionen har fått majoritet i riksdagen – men Magdalena Andersson är inte valvinnare, enligt Ulf Kristersson (M). – Det skulle jag absolut inte säga, säger han i TV4.",
-      "pubDate": "2026-09-17T15:27:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
       ]
     }
   ],
@@ -313,31 +310,6 @@
       "sourceType": "blog",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Fiaskopartierna – SD, S och L",
-      "link": "https://blog.zaramis.se/2026/09/15/fiaskopartierna-sd-s-och-l/",
-      "description": "Tre partier har misslyckats kapitalt i valrörelsen. Det har gjort ett så uselt val att de kan kallas fiaskopartierna. Dessa tre partier är SD, S och L. Men Liberalerna lyckade ju hållas ig kvart i riksdagen kanske någon invänder. Men det lyckades de enbart med på grund av stödröster från M. Inte på grund av det finns nåt större stöd för Liberalerna i sig. Det är lätt att se när vi tittar på valen i regioner och kommuner. Läs mer … Inlägget Fiaskopartierna &#8211; SD, S och L dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-15T06:50:46Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Valdeltagandet är det som avgör valet",
-      "link": "https://blog.zaramis.se/2026/09/14/valdeltagandet-ar-det-som-avgor-valet/",
-      "description": "Valdeltagandet har ökat i de invandrartäta områdena i Sverige. I storstadsnära områden med hög andel utlandsfödda ser oppositionen ut att öka med runt 150 000 väljare, medan regeringsunderlaget tappat cirka 10 000 röster i samma områden. Det är framförallt Vänsterpartiet som ökar i dessa områden. Läs mer … Inlägget Valdeltagandet är det som avgör valet dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-14T10:28:36Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V",
-        "Regeringsbildning"
       ]
     },
     {
