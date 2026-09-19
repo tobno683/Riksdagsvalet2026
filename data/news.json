@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T06:47:43.837267Z",
+  "updated_at": "2026-09-19T11:41:18.132707Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,89 @@
   ],
   "news": [
     {
+      "title": "Sista hoppet för Kristersson – locka över C",
+      "link": "https://www.expressen.se/nyheter/politik/sista-hoppet-for-kristersson-locka-over-c-/",
+      "description": "Med sakpolitik i stora lass hoppas M kunna locka över C, om man skulle få försöka bilda regering. Chansen att lyckas är däremot minimal, menar statsvetaren Mikael Sundström. – Det skulle bli en sån oerhörd svekdebatt inom C.&nbsp;",
+      "pubDate": "2026-09-19T11:38:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Per Westerberg: Ny regering kan sluta i svekdebatt",
+      "link": "https://www.sverigesradio.se/artikel/9303672",
+      "description": "Regeringsbildningen med Magdalena Andersson och de rödgröna är långt ifrån självklar, enligt tidigare moderata politikern Per Westerberg som var talman 2006-2014. Han pekar på stora ideologiska motsättningar mellan Vänsterpartiet och Centerpartiet, samtidigt som Andersson har fått uppdraget att försöka samla partierna. Westerberg jämför läget med kärnkraftsstriden efter valet 1976, där kompromisser utlöste en omfattande svekdebatt.",
+      "pubDate": "2026-09-19T10:48:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Slutliga rösträkningen klar i riksdagsvalet",
+      "link": "https://www.sverigesradio.se/artikel/9303673",
+      "description": "Nu har alla distrikt i riksdagsvalet räknats i den slutliga rösträkningen hos länsstyrelsen, enligt siffror hos Valmyndigheten . Socialdemokraterna landar på 28,02 procent, Moderaterna 19,85 procent och Sverigedemokraterna 17,48 procent. Vänsterpartiet 8,4 procent, Centerpartiet 7,03 procent, Kristdemokraterna 6,17 procent och Miljöpartiet 6,12 procent. Liberalerna klarar spärren och landar på 5,34 procent. Valdeltagandet hamnade på 84,89 procent och 59 557 väljare röstade blankt.",
+      "pubDate": "2026-09-19T10:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "V",
+        "C",
+        "KD",
+        "L",
+        "MP"
+      ]
+    },
+    {
+      "title": "Han ville införa dödsstraff – driver nu ”shariadomstol”",
+      "link": "https://www.expressen.se/nyheter/politik/han-ville-infora-dodsstraff-driver-nu-shariadomstol/",
+      "description": "En svensk ”shariadomstol” med tjusig adress på Strandvägen i Stockholm. Grundaren: en jurist som kastades ur Miljöpartiet när han förespråkade dödsstraff. – Miljöpartiet var ett väldigt svagt parti som inte tålde mycket. Så jag åkte ut på rumpan, säger juristen Mattias Walving-Lundberg.",
+      "pubDate": "2026-09-19T10:02:32Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Här är stegen till en ny svensk regering",
+      "link": "https://www.dn.se/sverige/har-ar-stegen-till-en-ny-svensk-regering/",
+      "description": "Socialdemokraternas partiledare Magdalena Andersson har fått i uppdrag att försöka bilda en regering. Här är alla stegen från riksdagsval till ny regering – och till ett eventuellt extraval om regeringsbildningen misslyckas.",
+      "pubDate": "2026-09-19T08:39:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ledare: Någon måste vara konstruktiv, bara inte jag – sa Ulf Kristersson",
+      "link": "https://www.dn.se/ledare/nagon-maste-vara-konstruktiv-bara-inte-jag-sa-ulf-kristersson/",
+      "description": "Ulf Kristersson har förlorat, kan se att läget är låst, men är ändå avspänd. Han tänker inte ta ansvar.",
+      "pubDate": "2026-09-19T07:44:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "SD backar i Sölvesborg – men backar Jimmie Åkesson",
       "link": "https://www.expressen.se/nyheter/politik/sd-backar-i-solvesborg-men-backar-jimmie-akesson/",
       "description": "SD förlorar väljare i riksdagsvalet – men också i Jimmie Åkessons hemkommun Sölvesborg. På Listerlandet ser man ett parti som blev för självsäkert – och hur ”bygdens son” burit SD länge. – Om han vill pausa lite så har jag full förståelse för det, säger SD:s toppnamn i Sölvesborg, Emilie Pilthammar.&nbsp;",
@@ -122,18 +205,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Hoten mot Anderssons regering: Vildar och sjuka ledamöter",
-      "link": "https://www.expressen.se/nyheter/politik/hoten-mot-anderssons-regering-vildar-och-sjuka-ledamoter/",
-      "description": "Rekordmånga vildar.&nbsp; Inget kvittningssystem.&nbsp; Det saknas inte utmaningar för den rödgröna regering som Magdalena Andersson (S) nu försöker bilda.&nbsp; – Det är en jättebräcklig marginal, säger Andreas Johansson Heinö, statsvetare på Timbro.&nbsp;",
-      "pubDate": "2026-09-18T20:01:46Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
     },
     {
       "title": "”C tänker inte backa – V ska hållas utanför en regering”",
@@ -187,77 +258,12 @@
       ]
     },
     {
-      "title": "Andersson först ut – men regeringsunderlaget är splittrat",
-      "link": "https://www.sverigesradio.se/artikel/9303451",
-      "description": "Magdalena Andersson får första försöket att bilda regering och säger att arbetet redan har börjat. Men den svårlösta knuten mellan Vänsterpartiet och Centerpartiet finns kvar. Vänsterpartiet kräver att få ingå i regeringen – samtidigt säger Centerpartiet nej till en regering där Vänsterpartiet ingår. Miljöpartiet drar inte upp några röda linjer, men säger att det är ett krav att nästa regering tar Sverige ur beroendet av fossila bränslen.",
-      "pubDate": "2026-09-18T14:58:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Vanligare att politiker ger viktiga besked på egna kanaler",
-      "link": "https://www.sverigesradio.se/artikel/9303328",
-      "description": "Det blir allt vanligare att politiker väljer att publicera avgörande besked i egna kanaler på sociala medier, det säger Marie Grusell, medieforskare på Göteborgs universitet. Det senaste dygnet meddelade Ulf Kristersson sin avgång på plattformen X och Socialdemokraterna publicerade Magdalena Anderssons segertal på Youtube. ”Man bestämmer själv hur man vill säga det och när det ska publiceras”, säger Grusell som studerat politikernas kommunikation på sociala medier sedan 2009.",
-      "pubDate": "2026-09-18T14:55:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Gissén: Allting kan falla samman för Andersson",
-      "link": "https://www.sverigesradio.se/artikel/9303406",
-      "description": "S-ledaren Magdalena Andersson har på fredagen fått uppdraget att bilda regering. Men allt kan falla samman för Magdalena Andersson, menar Ekots inrikespolitiska kommentator Helena Gissén. Centerpartiets röda linje mot Vänsterpartiet står kvar. Det gör även Vänsterpartiets krav på ministerposter – ett krav som kan göra det svårt för partiet att vika ner sig, säger Gissén. Misslyckas Magdalena Andersson med att bilda regering inom tre månader, går Sverige till extraval.",
-      "pubDate": "2026-09-18T14:52:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "V-veteranen: Norlén borde få sitta kvar",
       "link": "https://www.dn.se/sverige/v-veteranen-norlen-borde-fa-sitta-kvar/",
       "description": "Flera socialdemokratiska toppnamn lyfts inför det kommande talmansvalet. V-veteranen Ulla Andersson tycker att moderaten Andreas Norlén borde få sitta kvar, som en signal i dagens splittrade politiska landskap. – Jag tänker att man kan börja bygga på något annat, säger hon.",
       "pubDate": "2026-09-18T14:43:56Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Rekordmånga förtidsröstade i valet – över 3 700 000 väljare",
-      "link": "https://www.sverigesradio.se/artikel/9303305",
-      "description": "Fler än någonsin valde att förtidsrösta i årets val till riksdagen, region- och kommunfullmäktige, enligt Valmyndigheten. Totalt handlar det om drygt 3,7 miljoner väljare, vilket motsvarar cirka 55 procent av alla väljare. Anna Nyqvist, kanslichef på Valmyndigheten, tror att det kan bero på att man kunnat förtidsrösta i vilken förtidsröstningslokal som helst i Sverige, till skillnad från på valdagen då man bara kan rösta i den vallokal som står angiven på ens röstkort.",
-      "pubDate": "2026-09-18T14:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Andersson (S) får uppdrag att bilda regering",
-      "link": "https://www.sverigesradio.se/artikel/9303364",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson får i uppdrag att bilda regering, meddelar talman Andreas Norlén under en pressträff på fredagen. ”Uppdraget ska redovisas för den nya riksdagens talman som alltså väljs den 28 september” , säger han. Talmannen fortsätter med att samtliga partiledare pekat på att det är rimligt att Andersson får sonderingsuppdraget.",
-      "pubDate": "2026-09-18T13:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
