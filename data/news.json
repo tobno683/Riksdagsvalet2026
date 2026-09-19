@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T14:55:44.095048Z",
+  "updated_at": "2026-09-19T17:33:18.731125Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,32 @@
     }
   ],
   "news": [
+    {
+      "title": "Vänsterpartiets taktik inför ödesveckan – attackera vilt",
+      "link": "https://www.expressen.se/nyheter/politik/vansterpartiets-taktik-infor-odesveckan-attackera-vilt/",
+      "description": "Radio, tv och sociala medier. &nbsp; V-toppen Ida Gabrielsson argumenterar hårt för partiets linje i regeringsfrågan.&nbsp; – De har allt att vinna och inget att förlora i nuläget, säger Marie Grusell, medieforskare vid Göteborgs universitet. &nbsp;&nbsp; – Jag är helt övertygad om att Centerpartiet och Socialdemokraterna stör sig på det, säger Malin Lernfeldt på Liberala nyhetsbyrån.&nbsp;",
+      "pubDate": "2026-09-19T17:15:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Rekordval för Miljöpartiet i fjällkommunen – knep var femte väljare",
+      "link": "https://www.dn.se/sverige/rekordval-for-miljopartiet-i-fjallkommunen-knep-var-femte-valjare/",
+      "description": "Miljöpartiet är på frammarsch i norr. I Jokkmokk gick partiet starkast och lockade drygt var femte väljare i kommunvalet. – Det här visar att väljarna finns bortom huvudstaden, säger kommunalrådet Henrik Blind (MP).",
+      "pubDate": "2026-09-19T15:07:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "Entreprenören Pär Svärdson kritiserar Kristerssons avgång: ”Ett misstag”",
       "link": "https://www.expressen.se/nyheter/politik/entreprenoren-par-svardson-kritiserar-kristerssons-avgang-ett-misstag/",
@@ -187,18 +213,6 @@
       ]
     },
     {
-      "title": "SD backar i Sölvesborg – men backar Jimmie Åkesson",
-      "link": "https://www.expressen.se/nyheter/politik/sd-backar-i-solvesborg-men-backar-jimmie-akesson/",
-      "description": "SD förlorar väljare i riksdagsvalet – men också i Jimmie Åkessons hemkommun Sölvesborg. På Listerlandet ser man ett parti som blev för självsäkert – och hur ”bygdens son” burit SD länge. – Om han vill pausa lite så har jag full förståelse för det, säger SD:s toppnamn i Sölvesborg, Emilie Pilthammar.&nbsp;",
-      "pubDate": "2026-09-19T05:44:24Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "”Jimmie Åkesson väckte den björn som sov”",
       "link": "https://www.dn.se/sverige/jimmie-akesson-vackte-den-bjorn-som-sov/",
       "description": "ÖREBRO. Gå och rösta. Så löd uppmaningen från Örebro moské när valrörelsen kantades av antimuslimska utspel. Samtidigt knackade vänsterpartister som Nadja Awad på tusentals dörrar och lovade frysta hyror. Soffliggare strömmade till V i Sveriges utsatta områden. – Jimmie Åkesson väckte den björn som sov, säger Vivallabon Yonis Abokor.",
@@ -256,18 +270,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson (S) får sonderingsuppdrag: ”Stor ödmjukhet”",
-      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-far-sonderingsuppdrag-stor-odmjukhet",
-      "description": "Magdalena Andersson (S) får i uppdrag att sondera förutsättningarna för att bilda regering. S-ledaren skriver i ett uttalande att hon tar sig an uppdraget med stor ödmjukhet, och att hon kommer agera konstruktivt. ”Alla politiska krafter behöver nu lägga partitaktiken åt sidan och sätta Sverige och svenska folket främst”, skriver hon.",
-      "pubDate": "2026-09-18T16:03:56Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     }
   ],
