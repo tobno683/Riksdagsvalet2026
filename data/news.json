@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T17:33:18.731125Z",
+  "updated_at": "2026-09-19T19:41:15.640142Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Jämn strid mellan AfD och Socialdemokraterna",
+      "link": "https://www.sverigesradio.se/artikel/9303646",
+      "description": "Imorgon är det val i två tyska delstater - huvudstaden Berlin och i Mecklenburg-Vorpommern i nordöstra Tyskland. På båda håll har det högernationalistiska AfD vuxit kraftigt - och har chans att bli största parti. Men i Mecklenburg-Vorpommern leder än så länge den ovanligt populära socialdemokratiska sittande regeringschefens parti, SPD.",
+      "pubDate": "2026-09-19T19:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Vänstervåg i Berlin – första kvinna med invandrarbakgrund nära att bli borgmästare",
+      "link": "https://www.dn.se/varlden/vanstervag-i-berlin-forsta-kvinna-med-invandrarbakgrund-nara-att-bli-borgmastare/",
+      "description": "BERLIN. Berlin går emot högertrenden i Tyskland – vänsterpartiet Die Linke kan segra i lokalvalet på söndag. Toppkandidaten Elif Eralp kräver billigare bostäder och förstatligande av bostadsbolag.",
+      "pubDate": "2026-09-19T18:47:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Vänsterpartiets taktik inför ödesveckan – attackera vilt",
       "link": "https://www.expressen.se/nyheter/politik/vansterpartiets-taktik-infor-odesveckan-attackera-vilt/",
@@ -236,16 +260,6 @@
       "topics": []
     },
     {
-      "title": "Varannan väljare: Ekonomin var mycket viktig för mitt val",
-      "link": "https://www.sverigesradio.se/artikel/9302037",
-      "description": "Ekonomifrågorna var viktiga för många väljare den här valrörelsen. Men samhällsekonomin väger tyngre än den egna plånboken. 48 procent menade att den svenska ekonomin var av mycket stor betydelse för deras partival. 39 procent svarar att den personliga ekonomin var av mycket stor betydelse. Det är fler än vid förra valet. ”De som prioriterar ekonomin röstar ofta höger, och den kopplingen har stärkts”, säger Mikael Persson, professor vid Göteborgs universitet, som analyserat valet. Vad betyder valresultatet för ekonomin, börsen, inflationen, och bomarknaden? Hör mer i Ekonomiekot Extra.",
-      "pubDate": "2026-09-19T01:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "”C tänker inte backa – V ska hållas utanför en regering”",
       "link": "https://www.svt.se/nyheter/inrikes/c-tanker-inte-backa-v-ska-hallas-utanfor-en-regering",
       "description": "Några dagar efter valet är läget minst lika låst som tidigare mellan Centerpartiet och Vänsterpartiet. Båda partierna håller fast vid sina röda linjer och Magdalena Anderssons regeringsbildning framstår allt mer som en omöjlig ekvation.",
@@ -258,18 +272,6 @@
         "V",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Mustaschkupp och skolstrid – nu är kommunen SD:s starkaste fäste",
-      "link": "https://www.dn.se/sverige/mustaschkupp-och-skolstrid-nu-ar-kommunen-sds-starkaste-faste/",
-      "description": "Färgelanda är Sverigedemokraternas starkaste fäste i landet. Med 39 procent av rösterna har partiet tagit hem en jordskredsseger i kommunalvalet. Bakom resultatet finns en skolkonflikt, flera år av röda siffror och en uppmärksammad Jimmie-mustasch.",
-      "pubDate": "2026-09-18T17:55:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
