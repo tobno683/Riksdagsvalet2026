@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:54:15.894283Z",
+  "updated_at": "2026-09-19T01:54:47.027127Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,16 @@
     }
   ],
   "news": [
+    {
+      "title": "Varannan väljare: Ekonomin var mycket viktig för mitt val",
+      "link": "https://www.sverigesradio.se/artikel/9302037",
+      "description": "Ekonomifrågorna var viktiga för många väljare den här valrörelsen. Men samhällsekonomin väger tyngre än den egna plånboken. 48 procent menade att den svenska ekonomin var av mycket stor betydelse för deras partival. 39 procent svarar att den personliga ekonomin var av mycket stor betydelse. Det är fler än vid förra valet. ”De som prioriterar ekonomin röstar ofta höger, och den kopplingen har stärkts”, säger Mikael Persson, professor vid Göteborgs universitet, som analyserat valet. Vad betyder valresultatet för ekonomin, börsen, inflationen, och bomarknaden? Hör mer i Ekonomiekot Extra.",
+      "pubDate": "2026-09-19T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "Hoten mot Anderssons regering: Vildar och sjuka ledamöter",
       "link": "https://www.expressen.se/nyheter/politik/hoten-mot-anderssons-regering-vildar-och-sjuka-ledamoter/",
@@ -257,19 +267,6 @@
         "V",
         "C"
       ]
-    },
-    {
-      "title": "Låst mellan C och V inför regeringsförhandlingar",
-      "link": "https://www.svt.se/nyheter/inrikes/last-mellan-c-och-v-infor-regeringsforhandlingar",
-      "description": "Efter möten med talmannen har C och V inte kommit närmre en lösning. – Vi kan inte se att vi ska sitta i regering med Vänsterpartiet, säger Elisabeth Thand Rinqvist (C). – Det här är en orimlig position som Centerpartiet har, säger Nooshi Dadgostar (V).",
-      "pubDate": "2026-09-18T11:06:43Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
     }
   ],
   "blogs": [
@@ -359,18 +356,6 @@
       "topics": [
         "SD",
         "L"
-      ]
-    },
-    {
-      "title": "KD:s relationer med Brödraskapet 2022-2026",
-      "link": "https://ledarsidorna.se/kds-relationer-med-brodraskapet-2022-2026/",
-      "description": "Kristdemokraterna medverkade i november 2022 till att regeringen drog tillbaka en proposition som skulle ha infört demokrativillkor för statligt stöd till trossamfund och civilsamhälle. Under de två år som följde fortsatte kommunala medel att gå till Ibn Rushd, samtidigt som KD-företrädare offentligt kritiserade just dessa beslut. Studieförbundet Ibn Rushd avvecklade sin verksamhet under hösten 2022, [&#8230;]",
-      "pubDate": "2026-09-10T02:57:49Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "KD"
       ]
     },
     {
