@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:41:15.640142Z",
+  "updated_at": "2026-09-19T21:51:19.718731Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Leijonborg väljs in i riksdagen – på Malmömandatet",
+      "link": "https://www.sverigesradio.se/artikel/9303788",
+      "description": "Liberalernas tidigare partiledare Lars Leijonborg kommer tillbaka till riksdagen. När valresultatet nu är fastställt står det klart att han får Liberalernas enda riksdagsmandat – i Malmö. Anledningen till att han kunde ta sig in bakvägen var att man även lagt ut nationella riksdagslistorna i Skånes vallokaler. I och med detta så kryssades den nationella listans tredje namn, Lars Leijonborg in till riksdagen, skriver Aftonbladet . ”Jag är rätt chockad”, säger Leijonborg till tidningen.",
+      "pubDate": "2026-09-19T20:01:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
     {
       "title": "Jämn strid mellan AfD och Socialdemokraterna",
       "link": "https://www.sverigesradio.se/artikel/9303646",
@@ -200,18 +212,6 @@
       ]
     },
     {
-      "title": "Han ville införa dödsstraff – driver nu ”shariadomstol”",
-      "link": "https://www.expressen.se/nyheter/politik/han-ville-infora-dodsstraff-driver-nu-shariadomstol/",
-      "description": "En svensk ”shariadomstol” med tjusig adress på Strandvägen i Stockholm. Grundaren: en jurist som kastades ur Miljöpartiet när han förespråkade dödsstraff. – Miljöpartiet var ett väldigt svagt parti som inte tålde mycket. Så jag åkte ut på rumpan, säger juristen Mattias Walving-Lundberg.",
-      "pubDate": "2026-09-19T10:02:32Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "Här är stegen till en ny svensk regering",
       "link": "https://www.dn.se/sverige/har-ar-stegen-till-en-ny-svensk-regering/",
       "description": "Socialdemokraternas partiledare Magdalena Andersson har fått i uppdrag att försöka bilda en regering. Här är alla stegen från riksdagsval till ny regering – och till ett eventuellt extraval om regeringsbildningen misslyckas.",
@@ -222,18 +222,6 @@
       "topics": [
         "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ledare: Någon måste vara konstruktiv, bara inte jag – sa Ulf Kristersson",
-      "link": "https://www.dn.se/ledare/nagon-maste-vara-konstruktiv-bara-inte-jag-sa-ulf-kristersson/",
-      "description": "Ulf Kristersson har förlorat, kan se att läget är låst, men är ändå avspänd. Han tänker inte ta ansvar.",
-      "pubDate": "2026-09-19T07:44:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     },
     {
@@ -272,6 +260,18 @@
         "V",
         "C",
         "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Mustaschkupp och skolstrid – nu är kommunen SD:s starkaste fäste",
+      "link": "https://www.dn.se/sverige/mustaschkupp-och-skolstrid-nu-ar-kommunen-sds-starkaste-faste/",
+      "description": "Färgelanda är Sverigedemokraternas starkaste fäste i landet. Med 39 procent av rösterna har partiet tagit hem en jordskredsseger i kommunalvalet. Bakom resultatet finns en skolkonflikt, flera år av röda siffror och en uppmärksammad Jimmie-mustasch.",
+      "pubDate": "2026-09-18T17:55:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
       ]
     }
   ],
