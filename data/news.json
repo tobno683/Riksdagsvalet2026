@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T21:51:19.718731Z",
+  "updated_at": "2026-09-19T23:43:44.513204Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -166,18 +166,6 @@
       ]
     },
     {
-      "title": "Sista hoppet för Kristersson – locka över C",
-      "link": "https://www.expressen.se/nyheter/politik/sista-hoppet-for-kristersson-locka-over-c-/",
-      "description": "Med sakpolitik i stora lass hoppas M kunna locka över C, om man skulle få försöka bilda regering. Chansen att lyckas är däremot minimal, menar statsvetaren Mikael Sundström. – Det skulle bli en sån oerhörd svekdebatt inom C.&nbsp;",
-      "pubDate": "2026-09-19T11:38:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Per Westerberg: Ny regering kan sluta i svekdebatt",
       "link": "https://www.sverigesradio.se/artikel/9303672",
       "description": "Regeringsbildningen med Magdalena Andersson och de rödgröna är långt ifrån självklar, enligt tidigare moderata politikern Per Westerberg som var talman 2006-2014. Han pekar på stora ideologiska motsättningar mellan Vänsterpartiet och Centerpartiet, samtidigt som Andersson har fått uppdraget att försöka samla partierna. Westerberg jämför läget med kärnkraftsstriden efter valet 1976, där kompromisser utlöste en omfattande svekdebatt.",
@@ -272,6 +260,18 @@
       "sourceType": "news",
       "topics": [
         "SD"
+      ]
+    },
+    {
+      "title": "Magdalena Andersson (S) får sonderingsuppdrag: ”Stor ödmjukhet”",
+      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-far-sonderingsuppdrag-stor-odmjukhet",
+      "description": "Magdalena Andersson (S) får i uppdrag att sondera förutsättningarna för att bilda regering. S-ledaren skriver i ett uttalande att hon tar sig an uppdraget med stor ödmjukhet, och att hon kommer agera konstruktivt. ”Alla politiska krafter behöver nu lägga partitaktiken åt sidan och sätta Sverige och svenska folket främst”, skriver hon.",
+      "pubDate": "2026-09-18T16:03:56Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     }
   ],
