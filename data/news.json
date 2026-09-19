@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:41:18.132707Z",
+  "updated_at": "2026-09-19T14:55:44.095048Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,31 @@
     }
   ],
   "news": [
+    {
+      "title": "Entreprenören Pär Svärdson kritiserar Kristerssons avgång: ”Ett misstag”",
+      "link": "https://www.expressen.se/nyheter/politik/entreprenoren-par-svardson-kritiserar-kristerssons-avgang-ett-misstag/",
+      "description": "Det var fel av Ulf Kristersson (M) att avgå som statsminister, tycker Apoteas vd Pär Svärdson.&nbsp; – Jag trodde Kristersson skulle ta kampen och förhandla, säger han till Dagens industri.&nbsp; Han menar att det är ”superöppet” om nästa regering blir blå eller röd.&nbsp;",
+      "pubDate": "2026-09-19T14:41:11Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Mats Knutson om SD-tappet: Kan återaktivera en falangstrid",
+      "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-om-sd-tappet-kan-ateraktivera-en-falangstrid",
+      "description": "Förklaringarna inom Sverigedemokraterna till partiets tillbakagång i riksdagsvalet är flera – att partiet ingått i Tidö, tappat röster till småpartier och att andra partier ”mobiliserat islamistiska väljare”. SVT:s inrikespolitiska kommentator Mats Knutson menar att tappet kan återuppväcka en intern konflikt inom SD.",
+      "pubDate": "2026-09-19T12:27:02Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Sista hoppet för Kristersson – locka över C",
       "link": "https://www.expressen.se/nyheter/politik/sista-hoppet-for-kristersson-locka-over-c-/",
@@ -240,30 +265,6 @@
       "pubDate": "2026-09-18T16:03:56Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Flera tunga namn ser ut att missa riksdagen",
-      "link": "https://www.dn.se/sverige/flera-tunga-namn-ser-ut-att-missa-riksdagen/",
-      "description": "Flera kända namn ser ut att missa en plats i riksdagen när personkryssen nu räknas samman. Bland dem finns KD-profilerna Peter Kullgren och Lars Adaktusson medan Liberalerna ser ut att förlora mandatet som skulle ha gått till Martin Melin i Sörmland.",
-      "pubDate": "2026-09-18T15:32:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "V-veteranen: Norlén borde få sitta kvar",
-      "link": "https://www.dn.se/sverige/v-veteranen-norlen-borde-fa-sitta-kvar/",
-      "description": "Flera socialdemokratiska toppnamn lyfts inför det kommande talmansvalet. V-veteranen Ulla Andersson tycker att moderaten Andreas Norlén borde få sitta kvar, som en signal i dagens splittrade politiska landskap. – Jag tänker att man kan börja bygga på något annat, säger hon.",
-      "pubDate": "2026-09-18T14:43:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
