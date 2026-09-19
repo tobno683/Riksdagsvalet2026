@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T01:54:47.027127Z",
+  "updated_at": "2026-09-19T06:47:43.837267Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,41 @@
     }
   ],
   "news": [
+    {
+      "title": "SD backar i Sölvesborg – men backar Jimmie Åkesson",
+      "link": "https://www.expressen.se/nyheter/politik/sd-backar-i-solvesborg-men-backar-jimmie-akesson/",
+      "description": "SD förlorar väljare i riksdagsvalet – men också i Jimmie Åkessons hemkommun Sölvesborg. På Listerlandet ser man ett parti som blev för självsäkert – och hur ”bygdens son” burit SD länge. – Om han vill pausa lite så har jag full förståelse för det, säger SD:s toppnamn i Sölvesborg, Emilie Pilthammar.&nbsp;",
+      "pubDate": "2026-09-19T05:44:24Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "”Jimmie Åkesson väckte den björn som sov”",
+      "link": "https://www.dn.se/sverige/jimmie-akesson-vackte-den-bjorn-som-sov/",
+      "description": "ÖREBRO. Gå och rösta. Så löd uppmaningen från Örebro moské när valrörelsen kantades av antimuslimska utspel. Samtidigt knackade vänsterpartister som Nadja Awad på tusentals dörrar och lovade frysta hyror. Soffliggare strömmade till V i Sveriges utsatta områden. – Jimmie Åkesson väckte den björn som sov, säger Vivallabon Yonis Abokor.",
+      "pubDate": "2026-09-19T05:03:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Amanda Sokolnicki: Tidöhögern har förlorat valet – och skyller på väljarna",
+      "link": "https://www.dn.se/ledare/amanda-sokolnicki-tidohogern-har-forlorat-valet-och-skyller-pa-valjarna/",
+      "description": "Det Tidöpartierna har visat efter förlusten är inte vackert. När slutade man betrakta invandrare som legitima väljare?",
+      "pubDate": "2026-09-19T03:28:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "Varannan väljare: Ekonomin var mycket viktig för mitt val",
       "link": "https://www.sverigesradio.se/artikel/9302037",
@@ -227,49 +262,21 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Insändare. Politik borde vara det möjligas konst även nu",
-      "link": "https://www.dn.se/insandare/politik-borde-vara-det-mojligas-konst-aven-nu/",
-      "description": "INSÄNDARE. I de flesta sakpolitikiska frågor bör Centerpartiet och Vänsterpartiet kunna komma överens. Men det förutsätter att man släpper på prestigen och öppnar för att ta till sig fakta från forskarvärlden, skriver den tidigare forskaren Eva Asplund.",
-      "pubDate": "2026-09-18T12:58:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Åkesson: Oklart vem som faktiskt vunnit valet",
-      "link": "https://www.sverigesradio.se/artikel/9303029",
-      "description": "Sverigedemokraternas partiledare Jimmie Åkesson säger att det ännu är oklart vilka partier som vunnit valet, trots att Ulf Kristersson begärt att få lämna statsministerposten. Samtidigt backar Sverigedemokraterna för första gången i ett riksdagsval, till 17,5 procent, medan Åkesson beskriver resultatet som odramatiskt och hoppas på fortsatt Tidösamarbete. Han avfärdar också bestämt uppgifter om en paus som partiledare och ifrågasätter om källorna bakom ryktena ens finns.",
-      "pubDate": "2026-09-18T11:17:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Talmansrundorna är inledda – fortsatt låst mellan C och V",
-      "link": "https://www.dn.se/sverige/talmansrundorna-ar-inledda-fortsatt-last-mellan-c-och-v/",
-      "description": "Vänsterpartiet kräver att få ingå i en regering medan Centerpartiet insisterar på att de ska hållas utanför. Positionerna på oppositionens sida verkar fortsatt låsta efter att talmansrundorna inletts på fredagen. – V har ju varit väldigt tydliga med att de inte vill ha ett organiserat samarbete på något sätt, säger Centerledaren till DN.",
-      "pubDate": "2026-09-18T11:07:06Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Hur långt kan Socialdemokratin sjunka?",
+      "link": "https://blog.zaramis.se/2026/09/19/hur-langt-kan-socialdemokratin-sjunka/",
+      "description": "Socialdemokraterna fick i år sitt sämsta valresultat sedan 1908, ett år då bara en blygsam del av arbetarklassen hade rösträtt över huvud taget. Håller botten på att gå ur 1900-talets största och mest inflytelserika parti? Läs mer … Inlägget Hur långt kan Socialdemokratin sjunka? dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-19T06:26:08Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Ytterligare 4 år med en Tidöregering?",
       "link": "https://blog.zaramis.se/2026/09/18/ytterligare-4-ar-med-en-tidoregering/",
@@ -309,31 +316,6 @@
       ]
     },
     {
-      "title": "SD bakåt och V framåt",
-      "link": "https://blog.zaramis.se/2026/09/16/sd-bakat-och-v-framat/",
-      "description": "Åkesson stoppad som migrationsminister i en SD-ledd regering. Vänsterpartiet når rekordsiffror trots medias hatstorm om antisemitism och terrorromantik! Läs mer … Inlägget SD bakåt och V framåt dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-16T08:50:55Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Personfixerad valrörelse med ett undantag",
-      "link": "https://blog.zaramis.se/2026/09/16/personfixerad-valrorelse-med-ett-undantag/",
-      "description": "Att det varit en personfixerad valrörelse skriver Brit Stakston bra om på sajten Blankspot. Men hon missar att det finns ett tydligt undantag. Nämligen det parti som lyckades bäst i valet. Vänsterpartiet. I valet 2022 var Vänsterpartiets valrörelse extremt personfixerad. Det gick inget vidare. Läs mer … Inlägget Personfixerad valrörelse med ett undantag dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-16T05:41:34Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Alla mätningar missade Moderaterna",
       "link": "https://ledarsidorna.se/alla-matningar-missade-moderaterna/",
       "description": "Det preliminära valresultatet i riksdagsvalet kom att överraska många. Inte minst mätinstituten där ingen lyckades fånga valrörelserna till Moderaterna i valrörelsens slutskede. Frågan instituten och valforskarna nu bör ställa sig är inte om de missade Moderaterna utan varför de gjorde det tillsammans. Om än i olika mån. Med 93 procent av rösterna räknade stod bilden [&#8230;]",
@@ -370,6 +352,19 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: Det finns ingen rättvisa i politiken",
+      "link": "https://pod.space/kvartal/veckopanelen-det-finns-ingen-rattvisa-i-politiken",
+      "description": "Veckopanelen med Lena Mellin, Kent Persson och Arvid Hallén under ledning av Magnus Thorén. Tidö har besegrats och talmannen har aktiverats. Går det att skönja en väg framåt för Magdalena Andersson, trots röda linjer och ett lövtunt mandatövertag? Vad säger Vänsterpartiets dominans i utanförskapsområden och könsgapet i sakfrågor om vårt land? Och är Kanada på väg att bli en ny slags medlem i EU?",
+      "pubDate": "2026-09-19T03:50:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Fredagsintervjun: Jag har varit hundra procent transparent",
       "link": "https://pod.space/kvartal/fredagsintervjun-jag-har-varit-hundra-procent-transparent",
@@ -538,19 +533,6 @@
       "topics": [
         "L",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Småpartierna tar över i opinionen",
-      "link": "https://pod.space/kvartal/kvartal-idag-smapartierna-tar-over-i-opinionen",
-      "description": "De stora har blivit för lika, enligt Jenny Madestam. Busch om Åkesson: ”Hårresande”. Får man inte träffa Fatah? Och MP-politikern drömmer om ”Bulgurbyn”. Programledare: Cassandra Alm.&nbsp;",
-      "pubDate": "2026-09-10T13:53:30Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "KD"
       ]
     }
   ]
