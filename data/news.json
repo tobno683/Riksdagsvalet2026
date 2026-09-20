@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T19:08:11.939480Z",
+  "updated_at": "2026-09-20T21:40:22.354166Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,45 @@
   ],
   "news": [
     {
+      "title": "Gabrielsson (V): Redo för extraval om C inte förhandlar",
+      "link": "https://www.sverigesradio.se/artikel/9303999",
+      "description": "Vänsterpartiets vice partiledare Ida Gabrielsson säger att partiet kommer stå på sig och är redo att gå till extraval om Centerpartiet inte vill förhandla om regeringsmakten. Ansvaret för det låsta läget i regeringsförhandlingarna lägger Ida Gabrielsson på Centerterpartiet, men säger att V är öppna för att inleda samtal. Ekot har sökt Centerpartiet som avböjer kommenter.",
+      "pubDate": "2026-09-20T20:38:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Ida Gabrielsson (V): Nyval om inte C väljer sida",
+      "link": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-v-nyval-om-inte-c-valjer-sida/",
+      "description": "Vänsterpartiet backar inte från kravet på ministerposter – och ett eventuellt nyval skulle vara Centerpartiets fel.&nbsp; Det säger V-toppen Ida Gabrielsson i SVT:s ”Agenda”. &nbsp; – Man får acceptera att alla fyra partier får inflytande i regeringen.&nbsp; Ingen från Socialdemokraterna eller Centerpartiet ville medverka i programmet.&nbsp;",
+      "pubDate": "2026-09-20T20:27:10Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Högerkonton har vänt SD ryggen: ”Inte tillräckligt radikalt ”",
+      "link": "https://www.dn.se/sverige/hogerkonton-har-vant-sd-ryggen-inte-tillrackligt-radikalt/",
+      "description": "På sociala medier har inflytelserika högerkonton övergett Sverigedemokraterna under mandatperioden, och uppmanat följare att rösta på partier längre högerut. – SD kunde vara en samlande punkt så länge de inte hade verkligt inflytande, säger forskaren Nils Gustafsson.",
+      "pubDate": "2026-09-20T19:37:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "20 september: Missa inte dagens nyheter",
       "link": "https://www.dn.se/varlden/20-september-missa-inte-dagens-nyheter/",
       "description": "Katastrofval för Merz kristdemokrater, därför kan SD resa sig igen och jakt på vithaj kritiseras – här är dagens nyheter.",
@@ -117,7 +156,7 @@
       ]
     },
     {
-      "title": "Här är nyckelpersonerna i regeringsförhandlingarna",
+      "title": "Nyckelpersonerna när regeringen förhandlas",
       "link": "https://www.expressen.se/nyheter/politik/har-ar-nyckelpersonerna-i-regeringsforhandlingarna/",
       "description": "Magdalena Andersson har fått talmannens uppdrag att försöka bilda en ny regering. Nu börjar det svåra arbetet för S-ledaren att samla sin rödgröna sida – trots partiernas röda linjer. Bakom partiledarna finns flera personer som kan få en nyckelroll i förhandlingarna.",
       "pubDate": "2026-09-20T18:53:04Z",
@@ -145,7 +184,7 @@
     {
       "title": "Katastrofval för Merz kristdemokrater i delstatsval",
       "link": "https://www.dn.se/varlden/kristdemokrater-gar-mot-katastrofval-i-delstatsval/",
-      "description": "Förbundskansler Friedrich Merz kristdemokrater går mot ett katastrofval i delstaten Mecklenburg-Vorpommern. Samtidigt blir högerextrema AFD största parti. – Det går inte att skönmåla, säger Merz. I Berlin ser vänsterpartiet Die Linke ut att bli störst.",
+      "description": "Förbundskansler Friedrich Merz kristdemokrater riskerar att inte klara spärren till delstatsparlamentet i Mecklenburg-Vorpommern. Samtidigt ser AFD ut att bli störst. – Det går inte att skönmåla, det är en katastrof, säger Merz. I Berlin ser vänsterpartiet Die Linke ut att bli störst.",
       "pubDate": "2026-09-20T17:00:57Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -156,15 +195,14 @@
       ]
     },
     {
-      "title": "Framgång för AFD i tyska delstatsval",
+      "title": "Framgång för AFD i tyska delstatsval – CDU ser ut att åka ur",
       "link": "https://www.sverigesradio.se/artikel/9303956",
-      "description": "Högernationalistiska AFD, alternativ för Tyskland, blir största parti med 37 procent i delstaten Mecklenburg Vorpommern i dagens delstatsval, detta enligt den första prognosen. Socialdemokraterna, SPD, ligger strax efter med 35 procent. I Berlin blir vänsterpartiet Die Linke störst med 25 procent. Det är en klar ledning före kristdemokraterna, CDU, som har 20 procent. Förbundskansler Friedrich Merz kallar CDU:s resultat för en katastrof. I båda valen är valdeltagande mycket högt.",
+      "description": "Tyska kristdemokraterna CDU åker ur delstatsparlamenetet i Mecklenburg Vorpommern, enligt en ny prognos. Det är något som aldrig tidigare har i ett delstatsval. Vinnarna i dagens två delstatsval är ytterhögerpartiet AFD och Vänsterpartiet Die Linke, visar prognoser. Förbundskansler Friedrich Merz kallar CDU:s resultat för en katastrof. I båda valen är valdeltagande mycket högt.",
       "pubDate": "2026-09-20T16:14:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
         "V",
         "KD"
       ]
@@ -225,45 +263,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Vänstern leder inför valet i Berlin",
-      "link": "https://www.sverigesradio.se/artikel/9303745",
-      "description": "Under söndagen hålls det val i två tyska delstater, bland annat i huvudstaden Berlin. De gamla stora etablerade partierna har backat kraftigt i opinionsmätningarna – istället har AFD, Alternativ för Tyskland och vänsterpartiet Die Linke gått starkt framåt. Just nu leder Die Linke i opinionsmätningarna och har alltså chans att för första gången få styra i den tyska huvudstaden.",
-      "pubDate": "2026-09-20T09:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Vänsterpartiet har inget med kommunism att göra",
-      "link": "https://www.dn.se/insandare/svar-vansterpartiet-har-inget-med-kommunism-att-gora/",
-      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet av dags dato bör granskas utifrån sin politik snarare än sin historia. Ingen förnekar att kommunistiska regimer har begått hemskheter, men det har ingenting med det moderna Vänsterpartiet att göra, skriver Ludvig Eriksson.",
-      "pubDate": "2026-09-20T08:21:58Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Centerpartiet bör ingå i ett fortsatt Tidösamarbete",
-      "link": "https://www.dn.se/insandare/centerpartiet-bor-inga-i-ett-fortsatt-tidosamarbete/",
-      "description": "INSÄNDARE. På valnatten tackade C-ledaren Elisabeth Thand Ringqvist statsminister Ulf Kristersson för att ha ”lett Sverige genom en omvälvande tid”. Ta ansvar som borgerligt parti och ge Tidösamarbetet fyra nya år, skriver Runi Wold.",
-      "pubDate": "2026-09-20T07:40:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
       ]
     }
   ],
