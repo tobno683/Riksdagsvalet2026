@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T07:19:39.740614Z",
+  "updated_at": "2026-09-20T12:31:07.184401Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,79 @@
   ],
   "news": [
     {
+      "title": "Påverkansförsök kan öka vid känslig regeringsbildning i Sverige",
+      "link": "https://www.sverigesradio.se/artikel/9303875",
+      "description": "Påverkansförsök kan öka efter valet i den känsliga perioden vid bildandet av en ny regering och vaksamheten är stor hos faktagranskare och myndigheter. &nbsp; ”Det kan vara en av de mest aktiva faserna där förnyad påverkan kan ske”, säger forskaren Andreas Önnerfors, projektledare vid Medieinstitutet Fojo på Linnéuniversitetet i Kalmar. Fojo granskar spridningen av vilseledande budskap i sociala medier i samband med valet. Det som sticker ut är spridningen av olika konspirationsteorier om invandrare och om en elit som styr demokratin i Sverige, enligt Medieinstitutet Fojo, som beskriver&nbsp;det som ett hot mot valets integritet. &nbsp;",
+      "pubDate": "2026-09-20T11:08:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Efter tappet: Därför kan SD resa sig igen",
+      "link": "https://www.dn.se/sverige/efter-tappet-darfor-kan-sd-resa-sig-igen/",
+      "description": "Sverigedemokraternas eviga uppgång bröts i valet 2026 – och Sverige blir lite mer som resten av Norden. Men lärdomen från grannländerna är också att högerpopulisterna kommer igen.",
+      "pubDate": "2026-09-20T10:37:52Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Vänstern leder inför valet i Berlin",
+      "link": "https://www.sverigesradio.se/artikel/9303745",
+      "description": "Under söndagen hålls det val i två tyska delstater, bland annat i huvudstaden Berlin. De gamla stora etablerade partierna har backat kraftigt i opinionsmätningarna – istället har AFD, Alternativ för Tyskland och vänsterpartiet Die Linke gått starkt framåt. Just nu leder Die Linke i opinionsmätningarna och har alltså chans att för första gången få styra i den tyska huvudstaden.",
+      "pubDate": "2026-09-20T09:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Vänsterpartiet har inget med kommunism att göra",
+      "link": "https://www.dn.se/insandare/svar-vansterpartiet-har-inget-med-kommunism-att-gora/",
+      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet av dags dato bör granskas utifrån sin politik snarare än sin historia. Ingen förnekar att kommunistiska regimer har begått hemskheter, men det har ingenting med det moderna Vänsterpartiet att göra, skriver Ludvig Eriksson.",
+      "pubDate": "2026-09-20T08:21:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Centerpartiet bör ingå i ett fortsatt Tidösamarbete",
+      "link": "https://www.dn.se/insandare/centerpartiet-bor-inga-i-ett-fortsatt-tidosamarbete/",
+      "description": "INSÄNDARE. På valnatten tackade C-ledaren Elisabeth Thand Ringqvist statsminister Ulf Kristersson för att ha ”lett Sverige genom en omvälvande tid”. Ta ansvar som borgerligt parti och ge Tidösamarbetet fyra nya år, skriver Runi Wold.",
+      "pubDate": "2026-09-20T07:40:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ryska dumavalet klart i dag: ”Rekord i valfusk”",
+      "link": "https://www.expressen.se/nyheter/varlden/ryska-dumavalet-klart-i-dag-rekord-i-valfusk-/",
+      "description": "På söndagen stänger vallokalerna i Ryssland. Redan nu konstaterar Ivan Sjuksjin från ryska valobservatörsgruppen Golos att det troligen kommer röra sig om ”rekord i valfusk”, till Sveriges Radios Ekot . Och Moskvas borgmästare anklagar Ukraina för att försöka störa valet.",
+      "pubDate": "2026-09-20T07:32:26Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Insändare. Nu måste Magdalena Andersson visa att hon är tuff",
       "link": "https://www.dn.se/insandare/nu-maste-magdalena-andersson-visa-att-hon-ar-tuff/",
       "description": "INSÄNDARE. Det är Vänsterpartiet och Centerpartiet snarare än Socialdemokraterna som borde frukta ett extra val. Vi socialdemokrater ska alltid vara beredda att be ”svenska folket om mandat att leda landet, skriver den tidigare socialdemokratiska statssekreteraren Magnus Persson.",
@@ -109,7 +182,7 @@
     {
       "title": "Björn Wiman: Äntligen är förtrollningen kring SD bruten",
       "link": "https://www.dn.se/kultur/bjorn-wiman-antligen-ar-fortrollningen-kring-sd-bruten/",
-      "description": "Alltför länge har Sverigedemokraterna tillåts härja och domdera i svensk offentlighet. Nu är deras trollkrets bruten – och det är dags att återvända till verkligheten, skriver Björn Wiman.",
+      "description": "Alltför länge har Sverigedemokraterna tillåtits härja och domdera i svensk offentlighet. Nu är deras trollkrets bruten – och det är dags att återvända till verkligheten, skriver Björn Wiman.",
       "pubDate": "2026-09-20T04:12:58Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -130,6 +203,16 @@
         "S",
         "V"
       ]
+    },
+    {
+      "title": "Ledare: Sverige tog en paus från världen – den stannade inte",
+      "link": "https://www.dn.se/ledare/sverige-tog-en-paus-fran-varlden-den-stannade-inte/",
+      "description": "AI-hot, attacker i Mellanöstern och skakiga obligationsmarknader lämnade inte några avtryck i den svenska valrörelsen – men kommer att prägla nästa mandatperiod.",
+      "pubDate": "2026-09-20T03:48:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     },
     {
       "title": "Insändare. Gör det billigare att anställa men dyrare att ta ut vinst",
@@ -176,93 +259,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Vänstervåg i Berlin – första kvinna med invandrarbakgrund nära att bli borgmästare",
-      "link": "https://www.dn.se/varlden/vanstervag-i-berlin-forsta-kvinna-med-invandrarbakgrund-nara-att-bli-borgmastare/",
-      "description": "BERLIN. Berlin går emot högertrenden i Tyskland – vänsterpartiet Die Linke kan segra i lokalvalet på söndag. Toppkandidaten Elif Eralp kräver billigare bostäder och förstatligande av bostadsbolag.",
-      "pubDate": "2026-09-19T18:47:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Rekordval för Miljöpartiet i fjällkommunen – knep var femte väljare",
-      "link": "https://www.dn.se/sverige/rekordval-for-miljopartiet-i-fjallkommunen-knep-var-femte-valjare/",
-      "description": "Miljöpartiet är på frammarsch i norr. I Jokkmokk gick partiet starkast och lockade drygt var femte väljare i kommunvalet. – Det här visar att väljarna finns bortom huvudstaden, säger kommunalrådet Henrik Blind (MP).",
-      "pubDate": "2026-09-19T15:07:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Mats Knutson om SD-tappet: Kan återaktivera en falangstrid",
-      "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-om-sd-tappet-kan-ateraktivera-en-falangstrid",
-      "description": "Förklaringarna inom Sverigedemokraterna till partiets tillbakagång i riksdagsvalet är flera – att partiet ingått i Tidö, tappat röster till småpartier och att andra partier ”mobiliserat islamistiska väljare”. SVT:s inrikespolitiska kommentator Mats Knutson menar att tappet kan återuppväcka en intern konflikt inom SD.",
-      "pubDate": "2026-09-19T12:27:02Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Här är stegen till en ny svensk regering",
-      "link": "https://www.dn.se/sverige/har-ar-stegen-till-en-ny-svensk-regering/",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson har fått i uppdrag att försöka bilda en regering. Här är alla stegen från riksdagsval till ny regering – och till ett eventuellt extraval om regeringsbildningen misslyckas.",
-      "pubDate": "2026-09-19T08:39:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "”Jimmie Åkesson väckte den björn som sov”",
-      "link": "https://www.dn.se/sverige/jimmie-akesson-vackte-den-bjorn-som-sov/",
-      "description": "ÖREBRO. Gå och rösta. Så löd uppmaningen från Örebro moské när valrörelsen kantades av antimuslimska utspel. Samtidigt knackade vänsterpartister som Nadja Awad på tusentals dörrar och lovade frysta hyror. Soffliggare strömmade till V i Sveriges utsatta områden. – Jimmie Åkesson väckte den björn som sov, säger Vivallabon Yonis Abokor.",
-      "pubDate": "2026-09-19T05:03:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Amanda Sokolnicki: Tidöhögern har förlorat valet – och skyller på väljarna",
-      "link": "https://www.dn.se/ledare/amanda-sokolnicki-tidohogern-har-forlorat-valet-och-skyller-pa-valjarna/",
-      "description": "Det Tidöpartierna har visat efter förlusten är inte vackert. När slutade man betrakta invandrare som legitima väljare?",
-      "pubDate": "2026-09-19T03:28:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "”C tänker inte backa – V ska hållas utanför en regering”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-tanker-inte-backa-v-ska-hallas-utanfor-en-regering",
-      "description": "Några dagar efter valet är läget minst lika låst som tidigare mellan Centerpartiet och Vänsterpartiet. Båda partierna håller fast vid sina röda linjer och Magdalena Anderssons regeringsbildning framstår allt mer som en omöjlig ekvation.",
-      "pubDate": "2026-09-18T18:24:54Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
       ]
     }
   ],
