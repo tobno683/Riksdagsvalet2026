@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T12:31:07.184401Z",
+  "updated_at": "2026-09-20T16:34:31.246122Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,54 @@
   ],
   "news": [
     {
+      "title": "Framgång för AFD i tyska delstatsval",
+      "link": "https://www.sverigesradio.se/artikel/9303956",
+      "description": "Högernationalistiska AFD, alternativ för Tyskland, blir största parti med 37 procent delstaten Mecklenburg Vorpommern i dagens delstatsval, detta enligt den första prognosen. Socialdemokraterna, SPD, ligger strax efter med 35 procent. I Berlin blir vänsterpartiet Die Linke störst med 25 procent. Det är en klar ledningen före kristdemokraterna, CDU, med 20 procent. I båda valen är valdeltagande mycket högt. Tysklands förbundskansler Friedrich Merz kallar valresultatet för en katastrof.",
+      "pubDate": "2026-09-20T16:14:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "KD"
+      ]
+    },
+    {
+      "title": "Leijonborg knep riksdagsmandat i Malmö – toppnamnet: ”Besviken”",
+      "link": "https://www.expressen.se/nyheter/politik/leijonborg-knep-riksdagsmandat-i-malmo-toppnamnet-besviken/",
+      "description": "Stockholmaren Lars Leijonborg knep Liberalernas riksdagsmandat i Malmö.&nbsp; Det lokala toppnamnet, Simon Chrisander, blir därmed utan plats och är besviken. – Syftet var ju att rädda kvar partiet. Intentionen var inte detta, säger han till SVT. &nbsp;",
+      "pubDate": "2026-09-20T15:32:36Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Mohamed Abdukardir Ali inkryssad för V – okänd i partiet",
+      "link": "https://www.expressen.se/nyheter/sverige/mohamed-abdukardir-ali-inkryssad-for-v-okand-i-partiet/",
+      "description": "För två år sedan nekades Mohamed Abdukardir Ali medborgarskap i Sverige. Enligt migrationsdomstolen hade han stora skulder och uppfyllde inte kravet på ett hederligt levnadssätt. Nu har Mohamed Abdukardir Ali, som är helt okänd i politiska sammanhang, kryssats in som ledamot i riksdagen för Vänsterpartiet. – Jag är själv överraskad över stödet för mig personligen eftersom jag inte har haft nån egen kampanj eller valmaterial, säger han.",
+      "pubDate": "2026-09-20T14:13:08Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Här är de tio mest kryssade politikerna per parti",
+      "link": "https://www.expressen.se/nyheter/politik/har-ar-de-tio-mest-kryssade-politikerna-per-parti/",
+      "description": "Nästan var fjärde väljare kryssade en politiker i riksdagsvalet i år. Här är varje partis tio mest populära kandidater.",
+      "pubDate": "2026-09-20T12:42:28Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Påverkansförsök kan öka vid känslig regeringsbildning i Sverige",
       "link": "https://www.sverigesradio.se/artikel/9303875",
       "description": "Påverkansförsök kan öka efter valet i den känsliga perioden vid bildandet av en ny regering och vaksamheten är stor hos faktagranskare och myndigheter. &nbsp; ”Det kan vara en av de mest aktiva faserna där förnyad påverkan kan ske”, säger forskaren Andreas Önnerfors, projektledare vid Medieinstitutet Fojo på Linnéuniversitetet i Kalmar. Fojo granskar spridningen av vilseledande budskap i sociala medier i samband med valet. Det som sticker ut är spridningen av olika konspirationsteorier om invandrare och om en elit som styr demokratin i Sverige, enligt Medieinstitutet Fojo, som beskriver&nbsp;det som ett hot mot valets integritet. &nbsp;",
@@ -142,36 +190,12 @@
       ]
     },
     {
-      "title": "Ryska dumavalet klart i dag: ”Rekord i valfusk”",
-      "link": "https://www.expressen.se/nyheter/varlden/ryska-dumavalet-klart-i-dag-rekord-i-valfusk-/",
-      "description": "På söndagen stänger vallokalerna i Ryssland. Redan nu konstaterar Ivan Sjuksjin från ryska valobservatörsgruppen Golos att det troligen kommer röra sig om ”rekord i valfusk”, till Sveriges Radios Ekot . Och Moskvas borgmästare anklagar Ukraina för att försöka störa valet.",
-      "pubDate": "2026-09-20T07:32:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Insändare. Nu måste Magdalena Andersson visa att hon är tuff",
       "link": "https://www.dn.se/insandare/nu-maste-magdalena-andersson-visa-att-hon-ar-tuff/",
       "description": "INSÄNDARE. Det är Vänsterpartiet och Centerpartiet snarare än Socialdemokraterna som borde frukta ett extra val. Vi socialdemokrater ska alltid vara beredda att be ”svenska folket om mandat att leda landet, skriver den tidigare socialdemokratiska statssekreteraren Magnus Persson.",
       "pubDate": "2026-09-20T07:06:30Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Så hårda är Socialdemokraterna i förhandlingar: ”Tröttar ut folk”",
-      "link": "https://www.expressen.se/nyheter/politik/sa-harda-ar-socialdemokraterna-i-forhandlingar-trottar-ut-folk/",
-      "description": "Vänsterpartiet står fast vid sina krav, likaså Centerpartiet. Men Socialdemokraterna är vana vid tuffa förhandlingslägen.&nbsp; – Alla knep är tillåtna, säger Aron Etzler, tidigare partisekreterare för V till SVT .&nbsp;",
-      "pubDate": "2026-09-20T05:28:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
@@ -203,16 +227,6 @@
         "S",
         "V"
       ]
-    },
-    {
-      "title": "Ledare: Sverige tog en paus från världen – den stannade inte",
-      "link": "https://www.dn.se/ledare/sverige-tog-en-paus-fran-varlden-den-stannade-inte/",
-      "description": "AI-hot, attacker i Mellanöstern och skakiga obligationsmarknader lämnade inte några avtryck i den svenska valrörelsen – men kommer att prägla nästa mandatperiod.",
-      "pubDate": "2026-09-20T03:48:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Insändare. Gör det billigare att anställa men dyrare att ta ut vinst",
@@ -247,18 +261,6 @@
       "sourceType": "news",
       "topics": [
         "L"
-      ]
-    },
-    {
-      "title": "Jämn strid mellan AfD och Socialdemokraterna",
-      "link": "https://www.sverigesradio.se/artikel/9303646",
-      "description": "Imorgon är det val i två tyska delstater - huvudstaden Berlin och i Mecklenburg-Vorpommern i nordöstra Tyskland. På båda håll har det högernationalistiska AfD vuxit kraftigt - och har chans att bli största parti. Men i Mecklenburg-Vorpommern leder än så länge den ovanligt populära socialdemokratiska sittande regeringschefens parti, SPD.",
-      "pubDate": "2026-09-19T19:10:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     }
   ],
