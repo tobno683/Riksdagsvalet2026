@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T01:57:46.784201Z",
+  "updated_at": "2026-09-20T07:19:39.740614Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,82 @@
   ],
   "news": [
     {
+      "title": "Insändare. Nu måste Magdalena Andersson visa att hon är tuff",
+      "link": "https://www.dn.se/insandare/nu-maste-magdalena-andersson-visa-att-hon-ar-tuff/",
+      "description": "INSÄNDARE. Det är Vänsterpartiet och Centerpartiet snarare än Socialdemokraterna som borde frukta ett extra val. Vi socialdemokrater ska alltid vara beredda att be ”svenska folket om mandat att leda landet, skriver den tidigare socialdemokratiska statssekreteraren Magnus Persson.",
+      "pubDate": "2026-09-20T07:06:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Så hårda är Socialdemokraterna i förhandlingar: ”Tröttar ut folk”",
+      "link": "https://www.expressen.se/nyheter/politik/sa-harda-ar-socialdemokraterna-i-forhandlingar-trottar-ut-folk/",
+      "description": "Vänsterpartiet står fast vid sina krav, likaså Centerpartiet. Men Socialdemokraterna är vana vid tuffa förhandlingslägen.&nbsp; – Alla knep är tillåtna, säger Aron Etzler, tidigare partisekreterare för V till SVT .&nbsp;",
+      "pubDate": "2026-09-20T05:28:13Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Björn Wiman: Äntligen är förtrollningen kring SD bruten",
+      "link": "https://www.dn.se/kultur/bjorn-wiman-antligen-ar-fortrollningen-kring-sd-bruten/",
+      "description": "Alltför länge har Sverigedemokraterna tillåts härja och domdera i svensk offentlighet. Nu är deras trollkrets bruten – och det är dags att återvända till verkligheten, skriver Björn Wiman.",
+      "pubDate": "2026-09-20T04:12:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Veteranerna om hur S förhandlar: ”Det blir lite som Space invaders”",
+      "link": "https://www.svt.se/nyheter/inrikes/veteranerna-om-hur-s-forhandlar-det-blir-lite-som-space-invaders",
+      "description": "Stenhårda förhandlingar där hot blandas med sockrade erbjudanden om att få igenom politik – så beskriver två politiska veteraner Socialdemokraternas förhandlingsteknik. – Alla knep är tillåtna, säger Aron Etzler som var partisekreterare för Vänsterpartiet mellan 2012 och 2024.",
+      "pubDate": "2026-09-20T04:02:05Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Gör det billigare att anställa men dyrare att ta ut vinst",
+      "link": "https://www.dn.se/insandare/gor-det-billigare-att-anstalla-men-dyrare-att-ta-ut-vinst/",
+      "description": "INSÄNDARE. Både Centerpartiet och Vänsterpartiet har rätt om jobbpolitiken för mindre företag. Motsättningarna mellan C och V skulle kunna skapa en perfekt kompromiss, skriver småföretagaren Hobi Jarne.",
+      "pubDate": "2026-09-20T03:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Valu visar: Polariseringen ökar i klimatfrågan",
+      "link": "https://www.sverigesradio.se/artikel/9302244",
+      "description": "Klyftorna mellan rödgröna och Tidö-väljare i synen på miljö- och klimatfrågorna har ökat i det här valet, enligt SVT:s vallokalundersökning . Beroende på blocktillhörighet var frågorna rankade antingen bland de allra viktigaste eller längst ner i botten och ett liknande gap finns i frågan om lag och ordning. Björn Rönnerstrand, statsvetare på SOM-institutet vid Göteborgs universitet, varnar också för en värre form av polarisering där man ogillar varandra på grund av olika politiska åsikter.",
+      "pubDate": "2026-09-20T02:37:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Leijonborg väljs in i riksdagen – på Malmömandatet",
       "link": "https://www.sverigesradio.se/artikel/9303788",
       "description": "Liberalernas tidigare partiledare Lars Leijonborg kommer tillbaka till riksdagen. När valresultatet nu är fastställt står det klart att han får Liberalernas enda riksdagsmandat – i Malmö. Anledningen till att han kunde ta sig in bakvägen var att man även lagt ut nationella riksdagslistorna i Skånes vallokaler. I och med detta så kryssades den nationella listans tredje namn, Lars Leijonborg in till riksdagen, skriver Aftonbladet . ”Jag är rätt chockad”, säger Leijonborg till tidningen.",
@@ -115,20 +191,6 @@
       ]
     },
     {
-      "title": "Vänsterpartiets taktik inför ödesveckan – attackera vilt",
-      "link": "https://www.expressen.se/nyheter/politik/vansterpartiets-taktik-infor-odesveckan-attackera-vilt/",
-      "description": "Radio, tv och sociala medier. &nbsp; V-toppen Ida Gabrielsson argumenterar hårt för partiets linje i regeringsfrågan.&nbsp; – De har allt att vinna och inget att förlora i nuläget, säger Marie Grusell, medieforskare vid Göteborgs universitet. &nbsp;&nbsp; – Jag är helt övertygad om att Centerpartiet och Socialdemokraterna stör sig på det, säger Malin Lernfeldt på Liberala nyhetsbyrån.&nbsp;",
-      "pubDate": "2026-09-19T17:15:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Rekordval för Miljöpartiet i fjällkommunen – knep var femte väljare",
       "link": "https://www.dn.se/sverige/rekordval-for-miljopartiet-i-fjallkommunen-knep-var-femte-valjare/",
       "description": "Miljöpartiet är på frammarsch i norr. I Jokkmokk gick partiet starkast och lockade drygt var femte väljare i kommunvalet. – Det här visar att väljarna finns bortom huvudstaden, säger kommunalrådet Henrik Blind (MP).",
@@ -141,19 +203,6 @@
       ]
     },
     {
-      "title": "Entreprenören Pär Svärdson kritiserar Kristerssons avgång: ”Ett misstag”",
-      "link": "https://www.expressen.se/nyheter/politik/entreprenoren-par-svardson-kritiserar-kristerssons-avgang-ett-misstag/",
-      "description": "Det var fel av Ulf Kristersson (M) att avgå som statsminister, tycker Apoteas vd Pär Svärdson.&nbsp; – Jag trodde Kristersson skulle ta kampen och förhandla, säger han till Dagens industri.&nbsp; Han menar att det är ”superöppet” om nästa regering blir blå eller röd.&nbsp;",
-      "pubDate": "2026-09-19T14:41:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Mats Knutson om SD-tappet: Kan återaktivera en falangstrid",
       "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-om-sd-tappet-kan-ateraktivera-en-falangstrid",
       "description": "Förklaringarna inom Sverigedemokraterna till partiets tillbakagång i riksdagsvalet är flera – att partiet ingått i Tidö, tappat röster till småpartier och att andra partier ”mobiliserat islamistiska väljare”. SVT:s inrikespolitiska kommentator Mats Knutson menar att tappet kan återuppväcka en intern konflikt inom SD.",
@@ -163,40 +212,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Per Westerberg: Ny regering kan sluta i svekdebatt",
-      "link": "https://www.sverigesradio.se/artikel/9303672",
-      "description": "Regeringsbildningen med Magdalena Andersson och de rödgröna är långt ifrån självklar, enligt tidigare moderata politikern Per Westerberg som var talman 2006-2014. Han pekar på stora ideologiska motsättningar mellan Vänsterpartiet och Centerpartiet, samtidigt som Andersson har fått uppdraget att försöka samla partierna. Westerberg jämför läget med kärnkraftsstriden efter valet 1976, där kompromisser utlöste en omfattande svekdebatt.",
-      "pubDate": "2026-09-19T10:48:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Slutliga rösträkningen klar i riksdagsvalet",
-      "link": "https://www.sverigesradio.se/artikel/9303673",
-      "description": "Nu har alla distrikt i riksdagsvalet räknats i den slutliga rösträkningen hos länsstyrelsen, enligt siffror hos Valmyndigheten . Socialdemokraterna landar på 28,02 procent, Moderaterna 19,85 procent och Sverigedemokraterna 17,48 procent. Vänsterpartiet 8,4 procent, Centerpartiet 7,03 procent, Kristdemokraterna 6,17 procent och Miljöpartiet 6,12 procent. Liberalerna klarar spärren och landar på 5,34 procent. Valdeltagandet hamnade på 84,89 procent och 59 557 väljare röstade blankt.",
-      "pubDate": "2026-09-19T10:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "V",
-        "C",
-        "KD",
-        "L",
-        "MP"
       ]
     },
     {
@@ -249,33 +264,34 @@
         "C",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Mustaschkupp och skolstrid – nu är kommunen SD:s starkaste fäste",
-      "link": "https://www.dn.se/sverige/mustaschkupp-och-skolstrid-nu-ar-kommunen-sds-starkaste-faste/",
-      "description": "Färgelanda är Sverigedemokraternas starkaste fäste i landet. Med 39 procent av rösterna har partiet tagit hem en jordskredsseger i kommunalvalet. Bakom resultatet finns en skolkonflikt, flera år av röda siffror och en uppmärksammad Jimmie-mustasch.",
-      "pubDate": "2026-09-18T17:55:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson (S) får sonderingsuppdrag: ”Stor ödmjukhet”",
-      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-far-sonderingsuppdrag-stor-odmjukhet",
-      "description": "Magdalena Andersson (S) får i uppdrag att sondera förutsättningarna för att bilda regering. S-ledaren skriver i ett uttalande att hon tar sig an uppdraget med stor ödmjukhet, och att hon kommer agera konstruktivt. ”Alla politiska krafter behöver nu lägga partitaktiken åt sidan och sätta Sverige och svenska folket främst”, skriver hon.",
-      "pubDate": "2026-09-18T16:03:56Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Vänsterns största webbsajter",
+      "link": "https://blog.zaramis.se/2026/09/20/vansterns-storsta-webbsajter/",
+      "description": "Vänsterns största webbsajter är en lista som jag gör varje månad. Den omfattar inte stalinistiska, putinvänliga och så kallade anti-impsajter. Det kan handla om sådan sajter som exempelvis Proletären och Global Politics. Den omfattar inte heller vad jag ser som högersocialdemokratiska sajter som exempelvis Aktuellt i Politiken och Tiden. Läs mer … Inlägget Vänsterns största webbsajter dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-20T06:43:19Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Vad avgjorde valet?",
+      "link": "https://ledarsidorna.se/vad-avgjorde-valet/",
+      "description": "Sverigedemokraterna hävdar att muslimska väljare gav de rödgröna segern. Men det är en lika grund som starkt förenklad förklaring. Sverigedemokraternas och i viss mån moderaternas förklaring säger mer om behovet av en syndabock för att internt dölja partiledningarnas egna tillkortakommanden än om hur valet faktiskt avgjordes. Efter valet den 13 september har en förklaring börjat [&#8230;]",
+      "pubDate": "2026-09-20T03:42:18Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
     {
       "title": "Hur långt kan Socialdemokratin sjunka?",
       "link": "https://blog.zaramis.se/2026/09/19/hur-langt-kan-socialdemokratin-sjunka/",
@@ -299,19 +315,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Det spelar ingen roll hur olika grupper har röstat",
-      "link": "https://blog.zaramis.se/2026/09/17/det-spelar-ingen-roll-hur-olika-grupper-har-rostat/",
-      "description": "Det spelar ingen roll hur olika grupper har röstat för det är inte det som avgjort valet. Utan det som avgjort valet är i första hand minskat valdeltagande på landet. Det har framförallt drabbat SD. SD:s väljare har i huvudsak gått till sofflocket. Sen har de också förlorat till moderaterna i vissa kommuner. Men några stödröster till Liberalerna har de egentligen inte levererat. Utan detta minskade valdeltagande hade Tidögänget inte förlorat valet. Läs mer … Inlägget Det spelar ingen roll hur olika grupper har röstat dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-17T05:06:10Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M",
-        "L"
       ]
     },
     {
@@ -360,107 +363,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
-      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
-      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 488 – Ett rop på hjälp inifrån SD.",
-      "link": "https://jensganman.substack.com/p/brev-488-ett-rop-pa-hjalp-inifran",
-      "description": "&#196;r Baudin socialdemokraternas svar p&#229; Barney Gumble? / Ku Klux Klan-r&#246;sterna i Orten &#228;r ett faktum vare sig DN vill eller ej / &#196;r Petra Lundh ett geni? / En fl&#228;ngpropp tar sig ton i 100% / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 487 – Obduktion av socialdemokratins valresultat.",
-      "link": "https://jensganman.substack.com/p/brev-487-obduktion-av-socialdemokratins",
-      "description": "&#8230; och SD:s / Hon &#228;r Sveriges mest oansvariga partiledare / Jimmies dundertabbe / Medan Dadgostar sov ruset av sig / Islamisterna beh&#246;ver inte S / S&#229; skulle Allard ha hanterats / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 483 – Rösta på svennehoran.",
-      "link": "https://jensganman.substack.com/p/brev-483-rosta-pa-svennehoran",
-      "description": "Kvartoft serverade Liberalerna 4% p&#229; ett silverfat / De Iran-v&#228;nliga tj&#228;nstem&#228;nnen m&#229;ste bort / S utopiska midsommardr&#246;m / Ebba f&#246;rsa sig i SVT / Bolunds osynliga monokel&#246;ga M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "BREV 482 – Sverige har INTE blivit tystare, Magdalena.",
-      "link": "https://jensganman.substack.com/p/brev-482-sverige-har-inte-blivit",
-      "description": "Gammelmedia st&#229;r med rumpan bar och alla ser det / N&#228;r Expressen kastade skit p&#229; invandrarna i Rinkeby / Fascinerande intervju med monstrets kusin / Mohamsson vinner i l&#228;ngden &#8211; Busch g&#246;r det inte /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "KD",
-        "L"
-      ]
-    },
-    {
-      "title": "BREV 480 – Floder av blod.",
-      "link": "https://jensganman.substack.com/p/brev-480-floder-av-blod",
-      "description": "Babbel med Allard / Babbel med &#197;kesson / Babbel av Karin Ohlsson / Tv&#229; svenska kryptokommunister i New York / Listan med f&#246;retag som h&#246;rt av sig till Nooshi Dadgostar / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 479 – Uppmanar han till mord på Mohamsson ... ?",
-      "link": "https://jensganman.substack.com/p/brev-479-uppmanar-han-till-pa-mord",
-      "description": "Var det verkligen 50 000? / Simonas stora miss i partiledarutfr&#229;gningen / Dadgostar &#8211; ekonomisk analfabet / Ett viktigt tal fr&#229;n 1989 / Kvartoft och Holmberg &#8211; &#228;ntligen p&#229; Jimmies sida / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V",
-        "L"
-      ]
-    },
-    {
-      "title": "BREV 478 – Vad hände med Liams mellannamn?",
-      "link": "https://jensganman.substack.com/p/brev-478-vad-hande-med-liams-mellannamn",
-      "description": "&#214;gonvittnesskildring inifr&#229;n Brinellskolan / Micke Lindgren kr&#246;ker rygg / Rolig passage ur 129 svenskar / Anders Holmberg svamlar om islam i partiledarutfr&#229;gningen / S&#229; var Henry Allard / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
     }
   ],
   "podcasts": [
