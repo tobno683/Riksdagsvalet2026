@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:34:31.246122Z",
+  "updated_at": "2026-09-20T19:08:11.939480Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,86 @@
   ],
   "news": [
     {
+      "title": "20 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/20-september-missa-inte-dagens-nyheter/",
+      "description": "Katastrofval för Merz kristdemokrater, därför kan SD resa sig igen och jakt på vithaj kritiseras – här är dagens nyheter.",
+      "pubDate": "2026-09-20T18:59:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Opinionschef sågar Moderaterna efter kritiken: ”Är ansvarslöst”",
+      "link": "https://www.expressen.se/nyheter/politik/opinionschef-sagar-moderaterna-efter-kritiken-ar-ansvarslost/",
+      "description": "Moderaterna anser att partiet missgynnades i opinionsmätningarna före valet.&nbsp; Man vill kalla till sig opinionsinstituten för att reda ut vad som hänt.&nbsp; Nu slår Novus-chefen Torbjörn Sjöström tillbaka.&nbsp; Han kallar Moderaternas drag för ”anmärkningsvärt och ansvarslöst”.&nbsp;",
+      "pubDate": "2026-09-20T18:53:24Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Ewa, 78, är äldst i riksdagen – Hanna, 22, är yngst",
+      "link": "https://www.expressen.se/nyheter/politik/ewa-78-ar-aldst-i-riksdagen-hanna-22-ar-yngst/",
+      "description": "56 år skiljer dem emellan. Jobbet i riksdagen förenar dem. Socialdemokraten Ewa Pihl Krabbe, 78, är den nya riksdagens äldsta ledamot.&nbsp; – Det känns inget speciellt. Miljöpartisten Hanna Lindqvist, 22, är den yngsta.&nbsp; – Jag tror och hoppas att jag kan vara en röst för de unga.&nbsp;",
+      "pubDate": "2026-09-20T18:53:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "Här är nyckelpersonerna i regeringsförhandlingarna",
+      "link": "https://www.expressen.se/nyheter/politik/har-ar-nyckelpersonerna-i-regeringsforhandlingarna/",
+      "description": "Magdalena Andersson har fått talmannens uppdrag att försöka bilda en ny regering. Nu börjar det svåra arbetet för S-ledaren att samla sin rödgröna sida – trots partiernas röda linjer. Bakom partiledarna finns flera personer som kan få en nyckelroll i förhandlingarna.",
+      "pubDate": "2026-09-20T18:53:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Nya väljarströmmar i bruksorter – M ökar, S och SD tappar",
+      "link": "https://www.svt.se/nyheter/inrikes/nya-valjarstrommar-i-bruksorter-m-okar-s-och-sd-tappar",
+      "description": "I flera klassiska bruksorter har väljarstödet förändrats i årets riksdagsval. Moderaterna ökar, samtidigt som både Socialdemokraterna och Sverigedemokraterna tappar. Christer West, som bor i Hagfors, är en av väljarna som bytt parti. – Tidö har gjort ett jättebra jobb, säger han.",
+      "pubDate": "2026-09-20T17:53:51Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Katastrofval för Merz kristdemokrater i delstatsval",
+      "link": "https://www.dn.se/varlden/kristdemokrater-gar-mot-katastrofval-i-delstatsval/",
+      "description": "Förbundskansler Friedrich Merz kristdemokrater går mot ett katastrofval i delstaten Mecklenburg-Vorpommern. Samtidigt blir högerextrema AFD största parti. – Det går inte att skönmåla, säger Merz. I Berlin ser vänsterpartiet Die Linke ut att bli störst.",
+      "pubDate": "2026-09-20T17:00:57Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD"
+      ]
+    },
+    {
       "title": "Framgång för AFD i tyska delstatsval",
       "link": "https://www.sverigesradio.se/artikel/9303956",
-      "description": "Högernationalistiska AFD, alternativ för Tyskland, blir största parti med 37 procent delstaten Mecklenburg Vorpommern i dagens delstatsval, detta enligt den första prognosen. Socialdemokraterna, SPD, ligger strax efter med 35 procent. I Berlin blir vänsterpartiet Die Linke störst med 25 procent. Det är en klar ledningen före kristdemokraterna, CDU, med 20 procent. I båda valen är valdeltagande mycket högt. Tysklands förbundskansler Friedrich Merz kallar valresultatet för en katastrof.",
+      "description": "Högernationalistiska AFD, alternativ för Tyskland, blir största parti med 37 procent i delstaten Mecklenburg Vorpommern i dagens delstatsval, detta enligt den första prognosen. Socialdemokraterna, SPD, ligger strax efter med 35 procent. I Berlin blir vänsterpartiet Die Linke störst med 25 procent. Det är en klar ledning före kristdemokraterna, CDU, som har 20 procent. Förbundskansler Friedrich Merz kallar CDU:s resultat för en katastrof. I båda valen är valdeltagande mycket högt.",
       "pubDate": "2026-09-20T16:14:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -187,80 +264,6 @@
         "M",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Nu måste Magdalena Andersson visa att hon är tuff",
-      "link": "https://www.dn.se/insandare/nu-maste-magdalena-andersson-visa-att-hon-ar-tuff/",
-      "description": "INSÄNDARE. Det är Vänsterpartiet och Centerpartiet snarare än Socialdemokraterna som borde frukta ett extra val. Vi socialdemokrater ska alltid vara beredda att be ”svenska folket om mandat att leda landet, skriver den tidigare socialdemokratiska statssekreteraren Magnus Persson.",
-      "pubDate": "2026-09-20T07:06:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Björn Wiman: Äntligen är förtrollningen kring SD bruten",
-      "link": "https://www.dn.se/kultur/bjorn-wiman-antligen-ar-fortrollningen-kring-sd-bruten/",
-      "description": "Alltför länge har Sverigedemokraterna tillåtits härja och domdera i svensk offentlighet. Nu är deras trollkrets bruten – och det är dags att återvända till verkligheten, skriver Björn Wiman.",
-      "pubDate": "2026-09-20T04:12:58Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Veteranerna om hur S förhandlar: ”Det blir lite som Space invaders”",
-      "link": "https://www.svt.se/nyheter/inrikes/veteranerna-om-hur-s-forhandlar-det-blir-lite-som-space-invaders",
-      "description": "Stenhårda förhandlingar där hot blandas med sockrade erbjudanden om att få igenom politik – så beskriver två politiska veteraner Socialdemokraternas förhandlingsteknik. – Alla knep är tillåtna, säger Aron Etzler som var partisekreterare för Vänsterpartiet mellan 2012 och 2024.",
-      "pubDate": "2026-09-20T04:02:05Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Gör det billigare att anställa men dyrare att ta ut vinst",
-      "link": "https://www.dn.se/insandare/gor-det-billigare-att-anstalla-men-dyrare-att-ta-ut-vinst/",
-      "description": "INSÄNDARE. Både Centerpartiet och Vänsterpartiet har rätt om jobbpolitiken för mindre företag. Motsättningarna mellan C och V skulle kunna skapa en perfekt kompromiss, skriver småföretagaren Hobi Jarne.",
-      "pubDate": "2026-09-20T03:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Valu visar: Polariseringen ökar i klimatfrågan",
-      "link": "https://www.sverigesradio.se/artikel/9302244",
-      "description": "Klyftorna mellan rödgröna och Tidö-väljare i synen på miljö- och klimatfrågorna har ökat i det här valet, enligt SVT:s vallokalundersökning . Beroende på blocktillhörighet var frågorna rankade antingen bland de allra viktigaste eller längst ner i botten och ett liknande gap finns i frågan om lag och ordning. Björn Rönnerstrand, statsvetare på SOM-institutet vid Göteborgs universitet, varnar också för en värre form av polarisering där man ogillar varandra på grund av olika politiska åsikter.",
-      "pubDate": "2026-09-20T02:37:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Leijonborg väljs in i riksdagen – på Malmömandatet",
-      "link": "https://www.sverigesradio.se/artikel/9303788",
-      "description": "Liberalernas tidigare partiledare Lars Leijonborg kommer tillbaka till riksdagen. När valresultatet nu är fastställt står det klart att han får Liberalernas enda riksdagsmandat – i Malmö. Anledningen till att han kunde ta sig in bakvägen var att man även lagt ut nationella riksdagslistorna i Skånes vallokaler. I och med detta så kryssades den nationella listans tredje namn, Lars Leijonborg in till riksdagen, skriver Aftonbladet . ”Jag är rätt chockad”, säger Leijonborg till tidningen.",
-      "pubDate": "2026-09-19T20:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
       ]
     }
   ],
