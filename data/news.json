@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T01:58:26.158657Z",
+  "updated_at": "2026-09-21T07:33:48.904186Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,65 @@
   ],
   "news": [
     {
+      "title": "Kritiken mot Vänsterpartiet efter  granskningen: ”Rädd och förbannad”",
+      "link": "https://www.expressen.se/nyheter/politik/kritiken-mot-vansterpartiet-efter--granskningen-radd-och-forbannad/",
+      "description": "Mohamed Abdukardir Ali, 30, har kryssats in som riksdagsledamot för Vänsterpartiet trots att han är okänd i partiet.&nbsp; Avslöjandet har gett upphov till kritiska reaktioner.&nbsp; Den tidigare V-politikern Amineh Kakabaveh skriver att hon är ”både rädd och förbannad”.&nbsp; M-ministern Carl-Oskar Bohlin skriver att Vänsterpartiet agerat ”fullständigt omdömeslöst”.&nbsp;",
+      "pubDate": "2026-09-21T06:47:41Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Leijonborg vill representera äldre i riksdagen: ”Viss ålderism”",
+      "link": "https://www.sverigesradio.se/artikel/9304059",
+      "description": "Lars Leijonborg gör comeback som riksdagsledamot för Liberalerna. Senast han satt i riksdagen var för 17 år sedan. Med sina 76 år kommer den tidigare partiledaren vara bland de äldsta: ”Det finns rätt få i pensionsåldern i riksdagen, så en roll jag kan ta på mig är att representera min åldersgrupp”. Leijonborg blev invald på ett Malmömandat men bor i Stockholm och vissa kritiska röster har höjts i och med detta. ”Det är valsystemet – det råkade bli så att jag blev inräknad just i Malmö”, säger han som svar på kritiken. ”Men jag har varit mycket i Skåne och känner mycket för Skåne och Malmö”.",
+      "pubDate": "2026-09-21T06:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Anna-Lena Laurén: CDU klappade igenom – krisen för Merz djupnar",
+      "link": "https://www.dn.se/varlden/anna-lena-lauren-cdu-klappade-igenom-krisen-for-merz-djupnar/",
+      "description": "BERLIN. En ny seger för AFD i ett tyskt delstatsval – medan CDU inte ens kom in. Något sådant har aldrig tidigare hänt de tyska kristdemokraterna.",
+      "pubDate": "2026-09-21T05:35:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Spansk fiesta eller fasta – nya bud i ”EU:s blodbad”",
+      "link": "https://www.sverigesradio.se/artikel/9303059",
+      "description": "De redan svåra förhandlingarna om EU:s budget ser ut att bli ännu svårare. Spanien höjer nu insatsen rejält med ett nytt skyhögt bud på över 3 000 miljarder euro. De snåla länderna svarar med eget inspel medan sparsamma Sverige står vid sidlinjen på grund av valet.",
+      "pubDate": "2026-09-21T04:15:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Här ökade valdeltagandet med 17 procentenheter",
+      "link": "https://www.sverigesradio.se/artikel/9303556",
+      "description": "Valdeltagandet ökade kraftigt i utsatta områden runt om i landet, där det tidigare legat lågt. I Ronna i Södertälje har ökningen varit rekordstor – 17 procentenheter i distriktet Ronna Södra. De partier som ökat mest är Vänsterpartiet och Socialdemokraterna.",
+      "pubDate": "2026-09-21T03:52:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
       "title": "Merz parti CDU åker ur en delstat för första gången",
       "link": "https://www.sverigesradio.se/artikel/9304007",
       "description": "Ytterhögerpartiet AfD och vänsterpartiet Die Linke blev vinnarna i gårdagens två tyska delstatsval – i huvudstaden Berlin och i Mecklenburg-Vorpommern. Den stora förloraren var kristdemokraterna, CDU, som backade kraftigt i Berlin och även åkte ur delstatsparlamentet i Mecklenburg-Vorpommern. Förbundkansler Merz uttalade sig efter valen och sa att han kommer att sitta kvar som partiledare och förbundskansler.",
@@ -117,20 +176,6 @@
       ]
     },
     {
-      "title": "Ida Gabrielsson (V): Nyval om inte C väljer sida",
-      "link": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-v-nyval-om-inte-c-valjer-sida/",
-      "description": "Vänsterpartiet backar inte från kravet på ministerposter – och ett eventuellt nyval skulle vara Centerpartiets fel.&nbsp; Det säger V-toppen Ida Gabrielsson i SVT:s ”Agenda”. &nbsp; – Man får acceptera att alla fyra partier får inflytande i regeringen.&nbsp; Ingen från Socialdemokraterna eller Centerpartiet ville medverka i programmet.&nbsp;",
-      "pubDate": "2026-09-20T20:27:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Högerkonton har vänt SD ryggen: ”Inte tillräckligt radikalt ”",
       "link": "https://www.dn.se/sverige/hogerkonton-har-vant-sd-ryggen-inte-tillrackligt-radikalt/",
       "description": "På sociala medier har inflytelserika högerkonton övergett Sverigedemokraterna under mandatperioden, och uppmanat följare att rösta på partier längre högerut. – SD kunde vara en samlande punkt så länge de inte hade verkligt inflytande, säger forskaren Nils Gustafsson.",
@@ -152,44 +197,6 @@
       "sourceType": "news",
       "topics": [
         "KD"
-      ]
-    },
-    {
-      "title": "Opinionschef sågar Moderaterna efter kritiken: ”Är ansvarslöst”",
-      "link": "https://www.expressen.se/nyheter/politik/opinionschef-sagar-moderaterna-efter-kritiken-ar-ansvarslost/",
-      "description": "Moderaterna anser att partiet missgynnades i opinionsmätningarna före valet.&nbsp; Man vill kalla till sig opinionsinstituten för att reda ut vad som hänt.&nbsp; Nu slår Novus-chefen Torbjörn Sjöström tillbaka.&nbsp; Han kallar Moderaternas drag för ”anmärkningsvärt och ansvarslöst”.&nbsp;",
-      "pubDate": "2026-09-20T18:53:24Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Ewa, 78, är äldst i riksdagen – Hanna, 22, är yngst",
-      "link": "https://www.expressen.se/nyheter/politik/ewa-78-ar-aldst-i-riksdagen-hanna-22-ar-yngst/",
-      "description": "56 år skiljer dem emellan. Jobbet i riksdagen förenar dem. Socialdemokraten Ewa Pihl Krabbe, 78, är den nya riksdagens äldsta ledamot.&nbsp; – Det känns inget speciellt. Miljöpartisten Hanna Lindqvist, 22, är den yngsta.&nbsp; – Jag tror och hoppas att jag kan vara en röst för de unga.&nbsp;",
-      "pubDate": "2026-09-20T18:53:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "MP"
-      ]
-    },
-    {
-      "title": "Nyckelpersonerna när regeringen förhandlas",
-      "link": "https://www.expressen.se/nyheter/politik/har-ar-nyckelpersonerna-i-regeringsforhandlingarna/",
-      "description": "Magdalena Andersson har fått talmannens uppdrag att försöka bilda en ny regering. Nu börjar det svåra arbetet för S-ledaren att samla sin rödgröna sida – trots partiernas röda linjer. Bakom partiledarna finns flera personer som kan få en nyckelroll i förhandlingarna.",
-      "pubDate": "2026-09-20T18:53:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -233,18 +240,6 @@
       ]
     },
     {
-      "title": "Påverkansförsök kan öka vid känslig regeringsbildning i Sverige",
-      "link": "https://www.sverigesradio.se/artikel/9303875",
-      "description": "Påverkansförsök kan öka efter valet i den känsliga perioden vid bildandet av en ny regering och vaksamheten är stor hos faktagranskare och myndigheter. &nbsp; ”Det kan vara en av de mest aktiva faserna där förnyad påverkan kan ske”, säger forskaren Andreas Önnerfors, projektledare vid Medieinstitutet Fojo på Linnéuniversitetet i Kalmar. Fojo granskar spridningen av vilseledande budskap i sociala medier i samband med valet. Det som sticker ut är spridningen av olika konspirationsteorier om invandrare och om en elit som styr demokratin i Sverige, enligt Medieinstitutet Fojo, som beskriver&nbsp;det som ett hot mot valets integritet. &nbsp;",
-      "pubDate": "2026-09-20T11:08:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Efter tappet: Därför kan SD resa sig igen",
       "link": "https://www.dn.se/sverige/efter-tappet-darfor-kan-sd-resa-sig-igen/",
       "description": "Sverigedemokraternas eviga uppgång bröts i valet 2026 – och Sverige blir lite mer som resten av Norden. Men lärdomen från grannländerna är också att högerpopulisterna kommer igen.",
@@ -257,20 +252,43 @@
       ]
     },
     {
-      "title": "Vänstern leder inför valet i Berlin",
-      "link": "https://www.sverigesradio.se/artikel/9303745",
-      "description": "Under söndagen hålls det val i två tyska delstater, bland annat i huvudstaden Berlin. De gamla stora etablerade partierna har backat kraftigt i opinionsmätningarna – istället har AFD, Alternativ för Tyskland och vänsterpartiet Die Linke gått starkt framåt. Just nu leder Die Linke i opinionsmätningarna och har alltså chans att för första gången få styra i den tyska huvudstaden.",
-      "pubDate": "2026-09-20T09:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Insändare. Svar: Vänsterpartiet har inget med kommunism att göra",
+      "link": "https://www.dn.se/insandare/svar-vansterpartiet-har-inget-med-kommunism-att-gora/",
+      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet av dags dato bör granskas utifrån sin politik snarare än sin historia. Ingen förnekar att kommunistiska regimer har begått hemskheter, men det har ingenting med det moderna Vänsterpartiet att göra, skriver Ludvig Eriksson.",
+      "pubDate": "2026-09-20T08:21:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V",
-        "Opinion"
+        "V"
       ]
     }
   ],
   "blogs": [
+    {
+      "title": "Vänsteroffensiv mot avmaskerad rasism",
+      "link": "https://blog.zaramis.se/2026/09/21/vansteroffensiv-mot-avmaskerad-rasism/",
+      "description": "Nederlaget för Sverigedemokraterna tycks ha rivit bort partiets tillkämpade salongsfähighet och fram träder partiets ursprungliga profil och anspråk. Men, se upp, det kan vara ett kostymbyte inför det kommande. Kan en demaskering göras mer total? I valbakslaget för Sverigedemokraterna släpps alla hämningar. ”Vi är inte radikala”, har Jimmy Åkesson brukat bedyra mellan kramarna och valdekalernas söta humlor. Läs mer … Inlägget Vänsteroffensiv mot avmaskerad rasism dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-21T04:56:00Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Moderaterna skjuter budbäraren",
+      "link": "https://ledarsidorna.se/moderaterna-skjuter-budbararen/",
+      "description": "När Moderaterna vill kalla in opinionsinstituten efter valet följer partiet exakt samma logik som USA:s president Donald Trump har drivit långt längre. Skillnaden ligger i medlen, inte i tanken. Skjut budbäraren, inte budskapet. Efter valet har Moderaterna reagerat kraftigt på mätningarna som gjordes inför det. Moderaternas biträdande partisekreterare Martin Borgs har meddelat att han ska [&#8230;]",
+      "pubDate": "2026-09-21T02:56:26Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
+      ]
+    },
     {
       "title": "Vänsterns största webbsajter",
       "link": "https://blog.zaramis.se/2026/09/20/vansterns-storsta-webbsajter/",
@@ -331,19 +349,6 @@
       "sourceType": "blog",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Sex partier och det Muslimska brödraskapet – For Dummies",
-      "link": "https://ledarsidorna.se/sex-partier-och-det-muslimska-brodraskapet-for-dummies/",
-      "description": "Under sommaren och början av hösten har Ledarsidorna kunnat publicera en bild av hur sex av riksdagens åtta partier, på olika sätt och under olika decennier, bidragit till att etablera Muslimska brödraskapets nätverk i Sverige. Endast två partier, Liberalerna och Sverigedemokraterna, har kunnat stå utanför Brödraskapets etableringssträvanden av sinsemellan olika skäl. I Liberalerna, som är [&#8230;]",
-      "pubDate": "2026-09-13T03:40:58Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD",
-        "L"
       ]
     },
     {
