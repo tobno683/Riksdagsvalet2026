@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T07:33:48.904186Z",
+  "updated_at": "2026-09-21T14:37:38.088521Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,151 @@
   ],
   "news": [
     {
-      "title": "Kritiken mot Vänsterpartiet efter  granskningen: ”Rädd och förbannad”",
-      "link": "https://www.expressen.se/nyheter/politik/kritiken-mot-vansterpartiet-efter--granskningen-radd-och-forbannad/",
-      "description": "Mohamed Abdukardir Ali, 30, har kryssats in som riksdagsledamot för Vänsterpartiet trots att han är okänd i partiet.&nbsp; Avslöjandet har gett upphov till kritiska reaktioner.&nbsp; Den tidigare V-politikern Amineh Kakabaveh skriver att hon är ”både rädd och förbannad”.&nbsp; M-ministern Carl-Oskar Bohlin skriver att Vänsterpartiet agerat ”fullständigt omdömeslöst”.&nbsp;",
-      "pubDate": "2026-09-21T06:47:41Z",
+      "title": "Insändare. Rätt och rimligt att avvakta med gratulationerna",
+      "link": "https://www.dn.se/insandare/ratt-och-rimligt-att-avvakta-med-gratulationerna/",
+      "description": "INSÄNDARE. Partier som står för borgerliga ideal samlade över 55 procent av väljarkåren. Därför är det rätt och rimligt av avgående statsministern Ulf Kristersson (M) att avvakta med gratulationerna till S-ledaren Magdalena Andersson, skriver Sivert Aronsson.",
+      "pubDate": "2026-09-21T14:24:42Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ministerposterna är det minsta problemet med V",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/ministerposterna-ar-det-minsta-problemet-med-v/",
+      "description": "Mandatperioden har inte ens hunnit börja innan Vänsterpartiets riksdagsgrupp skakas av en potentiell skandal . Går det att bygga en regering på den?",
+      "pubDate": "2026-09-21T14:10:36Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
+      ]
+    },
+    {
+      "title": "Experten: Misstänkta valfusket kan påverka regeringsbildningen",
+      "link": "https://www.expressen.se/nyheter/politik/experten-misstankta-valfusket-kan-paverka-regeringsbildningen/",
+      "description": "Avslöjandet om misstänkt valfusk i Borlänge kan röra till det ännu mer i den rödgröna regeringsbildningen, säger statsvetaren Erik Wångmar.&nbsp; – Det här är något som S och C naturligtvis kan använda mot V.&nbsp;",
+      "pubDate": "2026-09-21T14:09:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Skräddarsy en kurs om antisemitism till V-politiker",
+      "link": "https://www.dn.se/insandare/skraddarsy-en-kurs-om-antisemitism-till-v-politiker/",
+      "description": "INSÄNDARE. Tolerans, religionsfrihet och demokratiska värden borde därför vara en självklarhet även för Vänsterpartiet. Nu behövs en skräddarsydd utbildning i rasism och antisemitism för partiets förtroendevalda, skriver Bernt Jakobson.",
+      "pubDate": "2026-09-21T14:07:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ogiltiga rösterna i valet 2026: Tengil och Cykel",
+      "link": "https://www.expressen.se/nyheter/politik/ogiltiga-rosterna-i-valet-2026-tengil-och-cykel/",
+      "description": "Gud, Donald Trump och en stulen cykel. Alla fick röster i det svenska riksdagsvalet – som inte godkändes. – Det går inte, konstaterar Per Lundström på länsstyrelsen Västerbotten.",
+      "pubDate": "2026-09-21T14:00:59Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Då måste Nooshi Dadgostar avgå",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/da-maste-nooshi-dadgostar-avga/",
+      "description": "Talmansrundorna är i gång. Finns det några öppningar alls för Magdalena Andersson – eller kommer bollen hamna hos Ulf Kristersson? Lyssna på ”Politikrummet”.",
+      "pubDate": "2026-09-21T13:50:53Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Det finns inget i V som är odemokratiskt",
+      "link": "https://www.dn.se/insandare/svar-det-finns-inget-i-v-som-ar-odemokratiskt/",
+      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet tog bort K:et som i kommunisterna ur sitt partinamn efter i maj 1990 efter att järnridån fallit. Sverigedemokraterna, däremot, lägger förslag i dag om att förbjuda slöja på allmän plats, skriver Jesper Karlsson.",
+      "pubDate": "2026-09-21T12:34:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Orwells ”Grisfarmen” var en protest mot Stalins kommunism",
+      "link": "https://www.dn.se/insandare/svar-orwells-grisfarmen-var-en-protest-mot-stalins-kommunism/",
+      "description": "SVAR PÅ INSÄNDARE. Den demokratiska socialism som Vänsterpartiet förespråkar har få likheter med totalitär stalinism. Den ideologi Sverigedemokraterna förespråkar är däremot betydligt närmare den fascism som författaren George Orwell riskerade sitt liv för att bekämpa, skriver Elias Naessén.",
+      "pubDate": "2026-09-21T11:52:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Vänsterpartist inkryssad – doldis i partiet",
+      "link": "https://www.dn.se/sverige/vansterpartist-inkryssad-doldis-i-partiet/",
+      "description": "Mohamed Abdukardir Ali lyckades kryssa sig in i riksdagen för Vänsterpartiet på Dalarnas mandat – trots att han är en nykomling som stod långt ned på listan. ”Jag är själv överraskad”, kommenterar Ali till Expressen.",
+      "pubDate": "2026-09-21T11:51:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Efter delstatsvalen: Diskussionen om Merz framtid har inte tystnat",
+      "link": "https://www.sverigesradio.se/artikel/9304282",
+      "description": "I Tyskland innebär helgens delstatsval i Berlin och i Mecklenburg-Vorpommern ett rejält bakslag för kristdemokratiska CDU. I Mecklenburg-Vorpommern åkte förbundskanslern Merz parti CDU helt ur delstatsparlamentet och i Berlin backade partiet kraftigt. Tysklands förbundskansler Friedrich Merz har fått det ännu svårare berättar vår korrespondent Katarina Von Arndt.",
+      "pubDate": "2026-09-21T11:23:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Efter valet – vad händer nu?",
+      "link": "https://www.svt.se/nyheter/inrikes/efter-valet-vad-hander-nu",
+      "description": "Valresultatet ligger fast och talmansrundorna är igång. Men vad händer nu och när kommer Sverige ha en ny regering? Ställ dina frågor till SVT:s politikreporter Julia Lindvall som svarar från 14.00.",
+      "pubDate": "2026-09-21T10:48:18Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "S-forskaren: Socialdemokraterna har blivit för mitten",
+      "link": "https://www.expressen.se/nyheter/politik/s-forskaren-socialdemokraterna-har-blivit-for-mitten/",
+      "description": "Socialdemokraterna fick sitt sämsta valresultat någonsin för att de har hamnat för mycket i mitten i politiken.&nbsp; Det menar Kjell Östberg, som forskar om socialdemokratin. – Det fungerar inte, säger Östberg i P1 Morgon. &nbsp;",
+      "pubDate": "2026-09-21T10:35:09Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     },
     {
@@ -123,148 +259,21 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Här ökade valdeltagandet med 17 procentenheter",
-      "link": "https://www.sverigesradio.se/artikel/9303556",
-      "description": "Valdeltagandet ökade kraftigt i utsatta områden runt om i landet, där det tidigare legat lågt. I Ronna i Södertälje har ökningen varit rekordstor – 17 procentenheter i distriktet Ronna Södra. De partier som ökat mest är Vänsterpartiet och Socialdemokraterna.",
-      "pubDate": "2026-09-21T03:52:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Merz parti CDU åker ur en delstat för första gången",
-      "link": "https://www.sverigesradio.se/artikel/9304007",
-      "description": "Ytterhögerpartiet AfD och vänsterpartiet Die Linke blev vinnarna i gårdagens två tyska delstatsval – i huvudstaden Berlin och i Mecklenburg-Vorpommern. Den stora förloraren var kristdemokraterna, CDU, som backade kraftigt i Berlin och även åkte ur delstatsparlamentet i Mecklenburg-Vorpommern. Förbundkansler Merz uttalade sig efter valen och sa att han kommer att sitta kvar som partiledare och förbundskansler.",
-      "pubDate": "2026-09-20T23:51:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD"
-      ]
-    },
-    {
-      "title": "Teorin om bonusprinsen:  ”Kungens sista önskan”",
-      "link": "https://www.expressen.se/nyheter/kungligt/teorin-om-bonusprinsen--kungens-sista-onskan/",
-      "description": "Norska drottningens våldtäktsdömde son Marius Borg Høiby bar kung Haralds kista. – Jag tror att det var Harald som bad om det, säger Johan T Lindwall, redaktör för Svensk Damtidning, till norska Dagbladet . Han får medhåll av andra hovexperter.",
-      "pubDate": "2026-09-20T22:41:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Fortsatt låst läge mellan V och C: ”Kaffetermosen är på”",
-      "link": "https://www.sverigesradio.se/artikel/9303999",
-      "description": "Vänsterpartiets vice partiledare Ida Gabrielsson säger att partiet kommer stå på sig och är redo att gå till extraval om Centerpartiet inte vill förhandla om regeringsmakten. Ansvaret för det låsta läget i regeringsförhandlingarna lägger Ida Gabrielsson på Centerterpartiet, men säger att V är öppna för att inleda samtal. Ekot har sökt Centerpartiet som avböjer kommenter.",
-      "pubDate": "2026-09-20T20:38:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Högerkonton har vänt SD ryggen: ”Inte tillräckligt radikalt ”",
-      "link": "https://www.dn.se/sverige/hogerkonton-har-vant-sd-ryggen-inte-tillrackligt-radikalt/",
-      "description": "På sociala medier har inflytelserika högerkonton övergett Sverigedemokraterna under mandatperioden, och uppmanat följare att rösta på partier längre högerut. – SD kunde vara en samlande punkt så länge de inte hade verkligt inflytande, säger forskaren Nils Gustafsson.",
-      "pubDate": "2026-09-20T19:37:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "20 september: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/20-september-missa-inte-dagens-nyheter/",
-      "description": "Katastrofval för Merz kristdemokrater, därför kan SD resa sig igen och jakt på vithaj kritiseras – här är dagens nyheter.",
-      "pubDate": "2026-09-20T18:59:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Nya väljarströmmar i bruksorter – M ökar, S och SD tappar",
-      "link": "https://www.svt.se/nyheter/inrikes/nya-valjarstrommar-i-bruksorter-m-okar-s-och-sd-tappar",
-      "description": "I flera klassiska bruksorter har väljarstödet förändrats i årets riksdagsval. Moderaterna ökar, samtidigt som både Socialdemokraterna och Sverigedemokraterna tappar. Christer West, som bor i Hagfors, är en av väljarna som bytt parti. – Tidö har gjort ett jättebra jobb, säger han.",
-      "pubDate": "2026-09-20T17:53:51Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD"
-      ]
-    },
-    {
-      "title": "Katastrofval för Merz kristdemokrater i delstatsval",
-      "link": "https://www.dn.se/varlden/kristdemokrater-gar-mot-katastrofval-i-delstatsval/",
-      "description": "Förbundskansler Friedrich Merz kristdemokrater riskerar att inte klara spärren till delstatsparlamentet i Mecklenburg-Vorpommern. Samtidigt ser AFD ut att bli störst. – Det går inte att skönmåla, det är en katastrof, säger Merz. I Berlin ser vänsterpartiet Die Linke ut att bli störst.",
-      "pubDate": "2026-09-20T17:00:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD"
-      ]
-    },
-    {
-      "title": "Framgång för AFD i tyska delstatsval – CDU ser ut att åka ur",
-      "link": "https://www.sverigesradio.se/artikel/9303956",
-      "description": "Tyska kristdemokraterna CDU åker ur delstatsparlamenetet i Mecklenburg Vorpommern, enligt en ny prognos. Det är något som aldrig tidigare har i ett delstatsval. Vinnarna i dagens två delstatsval är ytterhögerpartiet AFD och Vänsterpartiet Die Linke, visar prognoser. Förbundskansler Friedrich Merz kallar CDU:s resultat för en katastrof. I båda valen är valdeltagande mycket högt.",
-      "pubDate": "2026-09-20T16:14:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD"
-      ]
-    },
-    {
-      "title": "Efter tappet: Därför kan SD resa sig igen",
-      "link": "https://www.dn.se/sverige/efter-tappet-darfor-kan-sd-resa-sig-igen/",
-      "description": "Sverigedemokraternas eviga uppgång bröts i valet 2026 – och Sverige blir lite mer som resten av Norden. Men lärdomen från grannländerna är också att högerpopulisterna kommer igen.",
-      "pubDate": "2026-09-20T10:37:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Vänsterpartiet har inget med kommunism att göra",
-      "link": "https://www.dn.se/insandare/svar-vansterpartiet-har-inget-med-kommunism-att-gora/",
-      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet av dags dato bör granskas utifrån sin politik snarare än sin historia. Ingen förnekar att kommunistiska regimer har begått hemskheter, men det har ingenting med det moderna Vänsterpartiet att göra, skriver Ludvig Eriksson.",
-      "pubDate": "2026-09-20T08:21:58Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Det gick inget vidare för de små vänsterpartierna",
+      "link": "https://blog.zaramis.se/2026/09/21/det-gick-inget-vidare-for-de-sma-vansterpartierna/",
+      "description": "Några vänsterpartier ställde upp i riksdagsvalet. Koalitionen Enad Röst (Feministerna och Solidaritet) fick 1 286 röster och gammelstalinisterna i SKP fick 2 167 röster. Desto fler vänsterpartier ställde upp i kommunala val. Läs mer … Inlägget Det gick inget vidare för de små vänsterpartierna dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-21T08:51:18Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Vänsteroffensiv mot avmaskerad rasism",
       "link": "https://blog.zaramis.se/2026/09/21/vansteroffensiv-mot-avmaskerad-rasism/",
@@ -363,6 +372,20 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "315. Då måste Dadgostar avgå",
+      "link": "https://pod.space/politikrummet/315-da-maste-dadgostar-avga",
+      "description": "Talmansrundorna är igång! Finns det några öppningar alls för Magdalena Andersson – eller kommer bollen hamna hos Ulf Kristersson? I studion: Filippa Rogvall, Viktor Barth-Kron och Anette Holmqvist. Producent: Anna Westman Swantesson. Ansvarig utgivare: Klas Granström, Expressen AB.",
+      "pubDate": "2026-09-21T11:56:42Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "V"
+      ]
+    },
     {
       "title": "Veckopanelen: Det finns ingen rättvisa i politiken",
       "link": "https://pod.space/kvartal/veckopanelen-det-finns-ingen-rattvisa-i-politiken",
@@ -531,19 +554,6 @@
       "sourceType": "podcast",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "311. Mohamssons paniksiffra",
-      "link": "https://pod.space/politikrummet/311-mohamssons-paniksiffra",
-      "description": "Liberalernas höga siffror skapar oro – inte minst för liberalerna själva. Och kommer statsministerduellen avgöra valet även i år?&nbsp; I studion: Filippa Rogvall, Viktor Barth-Kron och Max V Karlsson Producent: Anna Westman Swantesson Ljudklipp från SR Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-09-10T14:43:22Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "L",
-        "Regeringsbildning"
       ]
     }
   ]
