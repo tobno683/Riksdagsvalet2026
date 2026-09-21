@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:47:43.411219Z",
+  "updated_at": "2026-09-21T22:54:14.923816Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,7 +79,43 @@
   ],
   "news": [
     {
-      "title": "”Det sista Nooshi Dadgostar behövde”",
+      "title": "V-skrällen väcker debatt: ”Så här får det inte gå till”",
+      "link": "https://www.svt.se/nyheter/inrikes/v-skrallen-vacker-debatt-sa-har-far-det-inte-ga-till",
+      "description": "Förundersökningen om möjligt valfusk i Borlänge rör upp känslor. Men även det faktum att doldisen Mohamed Abdukardir Ali kunde kryssa sig in i riksdagen får tyckare att höja på ögonbrynen. – Vänsterpartiet är nog extra sårbara för den här typen av händelser, säger Flammans chefredaktör Leonidas Aretakis i Aktuellt.",
+      "pubDate": "2026-09-21T20:15:26Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "V-ledningens panik:  ”Har stängt in sig”",
+      "link": "https://www.expressen.se/nyheter/sverige/v-ledningens-panik--har-stangt-in-sig/",
+      "description": "Vänsterpartiet har lagt locket på efter misstankarna om möjligt valfusk i Dalarna. Enligt uppgifter till Expressen har partiledningen ”stängt in sig”. – Man togs på sängen. Och nu har de panik, säger en riksdagsledamot.",
+      "pubDate": "2026-09-21T20:10:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "21 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/sverige/21-september-missa-inte-dagens-nyheter/",
+      "description": "Barnmorskan Elin berättar om kvinnohälsa på sociala medier, AI-chefer skräms av ny teknik och en vänsterpartist kopplas till utredning om valfusk – här är dagens nyheter.",
+      "pubDate": "2026-09-21T19:47:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "”Det här var det sista Nooshi Dadgostar (V) behövde”",
       "link": "https://www.svt.se/nyheter/inrikes/det-sista-nooshi-dadgostar-behovde",
       "description": "Nooshi Dadgostar (V) och partiledningen har den senaste veckan argumenterat för att Vänsterpartiet bör få ministerposter. I det läget är uppgifterna om misstänkt valfusk det sista partiet behöver.",
       "pubDate": "2026-09-21T19:31:27Z",
@@ -187,16 +223,6 @@
       ]
     },
     {
-      "title": "Jennie Nilsson (S) kan bli ny talman – pressen på partierna",
-      "link": "https://www.expressen.se/nyheter/politik/jennie-nilsson-s-kan-bli-ny-talman-pressen-pa-partierna/",
-      "description": "Exministern Jennie Nilsson (S) kan bli ny talman – om de rödgröna partierna kan enas. Men ännu finns ingen överenskommelse, vilket gör att Tidöpartierna kan vinna pusslet i riksdagen. Senast på fredag väntas namnen spikas, erfar Expressen.",
-      "pubDate": "2026-09-21T15:04:56Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Omkörd av Leijonborg – vill att partiet agerar: ”Sticker i ögonen”",
       "link": "https://www.dn.se/sverige/omkord-av-leijonborg-vill-att-partiet-agerar-sticker-i-ogonen/",
       "description": "Liberalernas Lars Leijonborg gör comeback i riksdagen. Men i Malmö knorras det. Leijonborg får partiets enda Malmömandat – och det lokala toppnamnet Simon Chrisander stängs ute. – Många väljare jag pratat med har uttryckt ilska och frustation, säger Simon Chrisander.",
@@ -233,33 +259,19 @@
         "M",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Ministerposterna är det minsta problemet med V",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/ministerposterna-ar-det-minsta-problemet-med-v/",
-      "description": "Mandatperioden har inte ens hunnit börja innan Vänsterpartiets riksdagsgrupp skakas av en potentiell skandal . Går det att bygga en regering på den?",
-      "pubDate": "2026-09-21T14:10:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Experten: Misstänkta valfusket kan påverka regeringsbildningen",
-      "link": "https://www.expressen.se/nyheter/politik/experten-misstankta-valfusket-kan-paverka-regeringsbildningen/",
-      "description": "Avslöjandet om misstänkt valfusk i Borlänge kan röra till det ännu mer i den rödgröna regeringsbildningen, säger statsvetaren Erik Wångmar.&nbsp; – Det här är något som S och C naturligtvis kan använda mot V.&nbsp;",
-      "pubDate": "2026-09-21T14:09:19Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Blir det någon rödgrön regering?",
+      "link": "https://www.dagensarena.se/innehall/blir-det-nagon-rodgron-regering/",
+      "description": "SD:s och S tapp i valet, och frågan om de röda linjerna. Inlägget Blir det någon rödgrön regering? dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-21T20:33:00Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Valfuskanklagelser – det senaste i hetskampanjen mot V",
       "link": "https://blog.zaramis.se/2026/09/21/valfuskanklagelser-det-senaste-i-hetskampanjen-mot-v/",
