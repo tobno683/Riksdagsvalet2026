@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:37:38.088521Z",
+  "updated_at": "2026-09-21T19:47:43.411219Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,151 @@
   ],
   "news": [
     {
+      "title": "”Det sista Nooshi Dadgostar behövde”",
+      "link": "https://www.svt.se/nyheter/inrikes/det-sista-nooshi-dadgostar-behovde",
+      "description": "Nooshi Dadgostar (V) och partiledningen har den senaste veckan argumenterat för att Vänsterpartiet bör få ministerposter. I det läget är uppgifterna om misstänkt valfusk det sista partiet behöver.",
+      "pubDate": "2026-09-21T19:31:27Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Mohamed Abdukardir Ali (V) bodde med gängkriminell",
+      "link": "https://www.expressen.se/nyheter/politik/mohamed-abdukardir-ali-v-bodde-med-gangkriminell/",
+      "description": "Vänsterpartisten Mohamed Abdukardir Ali, som kryssades in i riksdagen, bodde hemma hos en gängkriminell i flera år.&nbsp; Under tiden gjorde polisen husrannsakan i den gemensamma bostaden och hittade portionsförpackningar med narkotika, plastpåsar och vågar.&nbsp; Rumskamraten bedrev också omfattande penningtvätt.",
+      "pubDate": "2026-09-21T19:26:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Bilder visar – V-kandidat tog ut pengar från bankomat",
+      "link": "https://www.expressen.se/nyheter/politik/bilder-visar--v-kandidat-tog-ut-pengar-fran-bankomat/",
+      "description": "Polisen spanade på riksdagskandidaten Mohamed Abdukardir Ali och en partikollega mitt under förtidsröstningen veckorna före valet. På bilder syns hans kollega stå vid en bankomat och ta ut pengar. Nu ingår bilderna i utredningen av den misstänkta valfuskhärvan i Borlänge.",
+      "pubDate": "2026-09-21T19:26:24Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Utredning om misstänkt valfusk kopplas till inkryssning",
+      "link": "https://www.sverigesradio.se/artikel/9304639",
+      "description": "Åklagare vid riksenheten mot korruption har inlett en utredningen om misstänkt valfusk, rapporterar Dagens industri . Utredningen rör, enligt uppgifter i flera medier, omständigheter kring hur vänsterpartisten Mohamed Ali valdes in i riksdagen. Ali från Borlänge blev invald med omkring 600 personkryss. Ekot har sökt Mohamed Ali utan framgång, men till SVT säger han att han är chockad och att misstankarna är felaktiga.",
+      "pubDate": "2026-09-21T18:48:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Anna Tenje (M) pikar Magdalena Andersson (S): ”Poppar popcorn”",
+      "link": "https://www.expressen.se/nyheter/politik/anna-tenje-m-pikar-magdalena-andersson-s-poppar-popcorn/",
+      "description": "Socialförsäkringsminister Anna Tenje (M) hoppas fortfarande att Ulf Kristersson får leda nästa regering och att hon själv får fortsätta som minister.&nbsp; Men nu är det Magdalena Andersson (S) som försöker sy ihop en rödgrön regering.&nbsp; – Jag avundas henne inte. Jag poppar popcorn och tittar på, säger Tenje till Smålandsposten. &nbsp;",
+      "pubDate": "2026-09-21T18:39:03Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Birgitta Ohlsson (C) kryssades in i Stockholm: ”Väldigt ovanligt”",
+      "link": "https://www.sverigesradio.se/artikel/9304603",
+      "description": "Åtta personer kryssades in i riksdagen vid årets val, vilket är fler än förra valets bottenrekord på två inkryssade ledamöter. Enligt valforskaren Patrik Öberg vid Göteborgs universitet är det lättare att väljas in för ledamöter från små partier i mindre valkretsar än för stora partier i stora valkretsar. ”Därför är det i sig inte någon hög status att komma in, riksdagsledamöterna är lite tveksamma till det”, säger han.",
+      "pubDate": "2026-09-21T18:18:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Reagerar på misstänkta valfusket: ”Är mycket allvarligt”",
+      "link": "https://www.expressen.se/nyheter/politik/reagerar-pa-misstankta-valfusket-ar-mycket-allvarligt/",
+      "description": "Riksenheten mot korruption utreder misstänkt valfusk i Borlänge. &nbsp; Man utreder uppgifter om att väljare skjutsats till vallokaler och fått förkryssade valsedlar.&nbsp; ”Mycket allvarligt”, tycker Gunnar Strömmer (M), Hannes Hervieu (C) och Linda Lindberg (SD).&nbsp;",
+      "pubDate": "2026-09-21T17:05:26Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "MP"
+      ]
+    },
+    {
+      "title": "Kakabaveh om att förhandla med S: Måste prata politik",
+      "link": "https://www.expressen.se/nyheter/sverige/kakabaveh-om-att-forhandla-med-s-maste-prata-politik/",
+      "description": "Vänsterpartiet kräver att få ingå i en regering men Centerpartiet säger nej.&nbsp; Nu är det upp till Socialdemokraterna att få alla nöjda – och de beskrivs som ”tuffa” förhandlare.&nbsp; Men Amineh Kakabaveh, tidigare Vänsterpartist, vet hur man ska få sin vilja igenom.&nbsp;",
+      "pubDate": "2026-09-21T16:18:08Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Ilska mot Lars Leijonborgs valseger",
+      "link": "https://www.expressen.se/nyheter/politik/ilska-mot-lars-leijonborgs-valseger/",
+      "description": "Stockholmaren Lars Leijonborg, 76, tog Liberalernas riksdagsmandat i Malmö.&nbsp; Det väcker ilska i Skåne.&nbsp; – Folk är förbannade, säger Simon Chrisander, 48, som toppade partiets lokala lista.&nbsp;",
+      "pubDate": "2026-09-21T15:23:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Jennie Nilsson (S) kan bli ny talman – pressen på partierna",
+      "link": "https://www.expressen.se/nyheter/politik/jennie-nilsson-s-kan-bli-ny-talman-pressen-pa-partierna/",
+      "description": "Exministern Jennie Nilsson (S) kan bli ny talman – om de rödgröna partierna kan enas. Men ännu finns ingen överenskommelse, vilket gör att Tidöpartierna kan vinna pusslet i riksdagen. Senast på fredag väntas namnen spikas, erfar Expressen.",
+      "pubDate": "2026-09-21T15:04:56Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Omkörd av Leijonborg – vill att partiet agerar: ”Sticker i ögonen”",
+      "link": "https://www.dn.se/sverige/omkord-av-leijonborg-vill-att-partiet-agerar-sticker-i-ogonen/",
+      "description": "Liberalernas Lars Leijonborg gör comeback i riksdagen. Men i Malmö knorras det. Leijonborg får partiets enda Malmömandat – och det lokala toppnamnet Simon Chrisander stängs ute. – Många väljare jag pratat med har uttryckt ilska och frustation, säger Simon Chrisander.",
+      "pubDate": "2026-09-21T14:43:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Vänsterpartist kopplas till utredning om valfusk",
+      "link": "https://www.dn.se/sverige/vansterpartist-kopplas-till-utredning-om-valfusk/",
+      "description": "STOCKHOLM/BORLÄNGE. Vänsterpartisten Mohamed Abdukardir Ali, som oväntat kryssades in i riksdagen, förekommer i en utredning om valfusk. Abdukardrir Ali säger att han är chockad över uppgifterna. – Det är helt fel, säger han till SVT.",
+      "pubDate": "2026-09-21T14:37:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Insändare. Rätt och rimligt att avvakta med gratulationerna",
       "link": "https://www.dn.se/insandare/ratt-och-rimligt-att-avvakta-med-gratulationerna/",
-      "description": "INSÄNDARE. Partier som står för borgerliga ideal samlade över 55 procent av väljarkåren. Därför är det rätt och rimligt av avgående statsministern Ulf Kristersson (M) att avvakta med gratulationerna till S-ledaren Magdalena Andersson, skriver Sivert Aronsson.",
+      "description": "INSÄNDARE. Partier som står för borgerliga ideal samlade för en dryg vecka sedan över 55 procent av väljarkåren. Därför är det rätt och rimligt av avgående statsministern Ulf Kristersson (M) att avvakta med gratulationerna till S-ledaren Magdalena Andersson, skriver Sivert Aronsson.",
       "pubDate": "2026-09-21T14:24:42Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -115,153 +257,33 @@
       "topics": [
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Insändare. Skräddarsy en kurs om antisemitism till V-politiker",
-      "link": "https://www.dn.se/insandare/skraddarsy-en-kurs-om-antisemitism-till-v-politiker/",
-      "description": "INSÄNDARE. Tolerans, religionsfrihet och demokratiska värden borde därför vara en självklarhet även för Vänsterpartiet. Nu behövs en skräddarsydd utbildning i rasism och antisemitism för partiets förtroendevalda, skriver Bernt Jakobson.",
-      "pubDate": "2026-09-21T14:07:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ogiltiga rösterna i valet 2026: Tengil och Cykel",
-      "link": "https://www.expressen.se/nyheter/politik/ogiltiga-rosterna-i-valet-2026-tengil-och-cykel/",
-      "description": "Gud, Donald Trump och en stulen cykel. Alla fick röster i det svenska riksdagsvalet – som inte godkändes. – Det går inte, konstaterar Per Lundström på länsstyrelsen Västerbotten.",
-      "pubDate": "2026-09-21T14:00:59Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Då måste Nooshi Dadgostar avgå",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/da-maste-nooshi-dadgostar-avga/",
-      "description": "Talmansrundorna är i gång. Finns det några öppningar alls för Magdalena Andersson – eller kommer bollen hamna hos Ulf Kristersson? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-09-21T13:50:53Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Det finns inget i V som är odemokratiskt",
-      "link": "https://www.dn.se/insandare/svar-det-finns-inget-i-v-som-ar-odemokratiskt/",
-      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet tog bort K:et som i kommunisterna ur sitt partinamn efter i maj 1990 efter att järnridån fallit. Sverigedemokraterna, däremot, lägger förslag i dag om att förbjuda slöja på allmän plats, skriver Jesper Karlsson.",
-      "pubDate": "2026-09-21T12:34:28Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Orwells ”Grisfarmen” var en protest mot Stalins kommunism",
-      "link": "https://www.dn.se/insandare/svar-orwells-grisfarmen-var-en-protest-mot-stalins-kommunism/",
-      "description": "SVAR PÅ INSÄNDARE. Den demokratiska socialism som Vänsterpartiet förespråkar har få likheter med totalitär stalinism. Den ideologi Sverigedemokraterna förespråkar är däremot betydligt närmare den fascism som författaren George Orwell riskerade sitt liv för att bekämpa, skriver Elias Naessén.",
-      "pubDate": "2026-09-21T11:52:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Vänsterpartist inkryssad – doldis i partiet",
-      "link": "https://www.dn.se/sverige/vansterpartist-inkryssad-doldis-i-partiet/",
-      "description": "Mohamed Abdukardir Ali lyckades kryssa sig in i riksdagen för Vänsterpartiet på Dalarnas mandat – trots att han är en nykomling som stod långt ned på listan. ”Jag är själv överraskad”, kommenterar Ali till Expressen.",
-      "pubDate": "2026-09-21T11:51:32Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Efter delstatsvalen: Diskussionen om Merz framtid har inte tystnat",
-      "link": "https://www.sverigesradio.se/artikel/9304282",
-      "description": "I Tyskland innebär helgens delstatsval i Berlin och i Mecklenburg-Vorpommern ett rejält bakslag för kristdemokratiska CDU. I Mecklenburg-Vorpommern åkte förbundskanslern Merz parti CDU helt ur delstatsparlamentet och i Berlin backade partiet kraftigt. Tysklands förbundskansler Friedrich Merz har fått det ännu svårare berättar vår korrespondent Katarina Von Arndt.",
-      "pubDate": "2026-09-21T11:23:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Efter valet – vad händer nu?",
-      "link": "https://www.svt.se/nyheter/inrikes/efter-valet-vad-hander-nu",
-      "description": "Valresultatet ligger fast och talmansrundorna är igång. Men vad händer nu och när kommer Sverige ha en ny regering? Ställ dina frågor till SVT:s politikreporter Julia Lindvall som svarar från 14.00.",
-      "pubDate": "2026-09-21T10:48:18Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "S-forskaren: Socialdemokraterna har blivit för mitten",
-      "link": "https://www.expressen.se/nyheter/politik/s-forskaren-socialdemokraterna-har-blivit-for-mitten/",
-      "description": "Socialdemokraterna fick sitt sämsta valresultat någonsin för att de har hamnat för mycket i mitten i politiken.&nbsp; Det menar Kjell Östberg, som forskar om socialdemokratin. – Det fungerar inte, säger Östberg i P1 Morgon. &nbsp;",
-      "pubDate": "2026-09-21T10:35:09Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Leijonborg vill representera äldre i riksdagen: ”Viss ålderism”",
-      "link": "https://www.sverigesradio.se/artikel/9304059",
-      "description": "Lars Leijonborg gör comeback som riksdagsledamot för Liberalerna. Senast han satt i riksdagen var för 17 år sedan. Med sina 76 år kommer den tidigare partiledaren vara bland de äldsta: ”Det finns rätt få i pensionsåldern i riksdagen, så en roll jag kan ta på mig är att representera min åldersgrupp”. Leijonborg blev invald på ett Malmömandat men bor i Stockholm och vissa kritiska röster har höjts i och med detta. ”Det är valsystemet – det råkade bli så att jag blev inräknad just i Malmö”, säger han som svar på kritiken. ”Men jag har varit mycket i Skåne och känner mycket för Skåne och Malmö”.",
-      "pubDate": "2026-09-21T06:10:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Anna-Lena Laurén: CDU klappade igenom – krisen för Merz djupnar",
-      "link": "https://www.dn.se/varlden/anna-lena-lauren-cdu-klappade-igenom-krisen-for-merz-djupnar/",
-      "description": "BERLIN. En ny seger för AFD i ett tyskt delstatsval – medan CDU inte ens kom in. Något sådant har aldrig tidigare hänt de tyska kristdemokraterna.",
-      "pubDate": "2026-09-21T05:35:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Spansk fiesta eller fasta – nya bud i ”EU:s blodbad”",
-      "link": "https://www.sverigesradio.se/artikel/9303059",
-      "description": "De redan svåra förhandlingarna om EU:s budget ser ut att bli ännu svårare. Spanien höjer nu insatsen rejält med ett nytt skyhögt bud på över 3 000 miljarder euro. De snåla länderna svarar med eget inspel medan sparsamma Sverige står vid sidlinjen på grund av valet.",
-      "pubDate": "2026-09-21T04:15:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "Valfuskanklagelser – det senaste i hetskampanjen mot V",
+      "link": "https://blog.zaramis.se/2026/09/21/valfuskanklagelser-det-senaste-i-hetskampanjen-mot-v/",
+      "description": "Valfuskanklagelser är det senaste det senaste i hetskampanjen mot Vänsterpartiet. En kandidat för Vänsterpartiet i Dalarna har blivit inkryssad i riksdagen. Det är ny relativt ny medlem i Vänsterpartiet i Borlänge som inte är speciellt välkänd. Varken inom partiet och utanför partiet. Han heter Mohamed Abdukardir Ali och han härstammar från Somalia Läs mer … Inlägget Valfuskanklagelser &#8211; det senaste i hetskampanjen mot V dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-21T18:56:05Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Vem är vänsterpartiets Mohamed Ali?",
+      "link": "https://ledarsidorna.se/vem-ar-vansterpartiets-mohamed-ali/",
+      "description": "Elva veckor före valet satt Vänsterpartiets blivande riksdagsledamot Mohamed Abdukardir Ali i Mogadishu och deltog i ett möte om det svenska valet och den somaliska diasporans roll. Samtidigt hade hans eget parti begränsad kunskap om vem han var samt vilka uppdrag och kontakter han hade. Den 29 juni 2026 publicerade Said Siyaad bilder från ett [&#8230;]",
+      "pubDate": "2026-09-21T17:07:08Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Det gick inget vidare för de små vänsterpartierna",
       "link": "https://blog.zaramis.se/2026/09/21/det-gick-inget-vidare-for-de-sma-vansterpartierna/",
@@ -346,18 +368,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Alla mätningar missade Moderaterna",
-      "link": "https://ledarsidorna.se/alla-matningar-missade-moderaterna/",
-      "description": "Det preliminära valresultatet i riksdagsvalet kom att överraska många. Inte minst mätinstituten där ingen lyckades fånga valrörelserna till Moderaterna i valrörelsens slutskede. Frågan instituten och valforskarna nu bör ställa sig är inte om de missade Moderaterna utan varför de gjorde det tillsammans. Om än i olika mån. Med 93 procent av rösterna räknade stod bilden [&#8230;]",
-      "pubDate": "2026-09-14T03:27:40Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
       ]
     },
     {
