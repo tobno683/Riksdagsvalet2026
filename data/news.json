@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:38:58.370280Z",
+  "updated_at": "2026-09-21T01:58:26.158657Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,19 @@
     }
   ],
   "news": [
+    {
+      "title": "Merz parti CDU åker ur en delstat för första gången",
+      "link": "https://www.sverigesradio.se/artikel/9304007",
+      "description": "Ytterhögerpartiet AfD och vänsterpartiet Die Linke blev vinnarna i gårdagens två tyska delstatsval – i huvudstaden Berlin och i Mecklenburg-Vorpommern. Den stora förloraren var kristdemokraterna, CDU, som backade kraftigt i Berlin och även åkte ur delstatsparlamentet i Mecklenburg-Vorpommern. Förbundkansler Merz uttalade sig efter valen och sa att han kommer att sitta kvar som partiledare och förbundskansler.",
+      "pubDate": "2026-09-20T23:51:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD"
+      ]
+    },
     {
       "title": "Teorin om bonusprinsen:  ”Kungens sista önskan”",
       "link": "https://www.expressen.se/nyheter/kungligt/teorin-om-bonusprinsen--kungens-sista-onskan/",
@@ -217,18 +230,6 @@
       "topics": [
         "V",
         "KD"
-      ]
-    },
-    {
-      "title": "Leijonborg knep riksdagsmandat i Malmö – toppnamnet: ”Besviken”",
-      "link": "https://www.expressen.se/nyheter/politik/leijonborg-knep-riksdagsmandat-i-malmo-toppnamnet-besviken/",
-      "description": "Stockholmaren Lars Leijonborg knep Liberalernas riksdagsmandat i Malmö.&nbsp; Det lokala toppnamnet, Simon Chrisander, blir därmed utan plats och är besviken. – Syftet var ju att rädda kvar partiet. Intentionen var inte detta, säger han till SVT. &nbsp;",
-      "pubDate": "2026-09-20T15:32:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
       ]
     },
     {
