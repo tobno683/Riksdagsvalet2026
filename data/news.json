@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T22:54:14.923816Z",
+  "updated_at": "2026-09-22T01:19:57.861839Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -211,18 +211,6 @@
       ]
     },
     {
-      "title": "Ilska mot Lars Leijonborgs valseger",
-      "link": "https://www.expressen.se/nyheter/politik/ilska-mot-lars-leijonborgs-valseger/",
-      "description": "Stockholmaren Lars Leijonborg, 76, tog Liberalernas riksdagsmandat i Malmö.&nbsp; Det väcker ilska i Skåne.&nbsp; – Folk är förbannade, säger Simon Chrisander, 48, som toppade partiets lokala lista.&nbsp;",
-      "pubDate": "2026-09-21T15:23:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
       "title": "Omkörd av Leijonborg – vill att partiet agerar: ”Sticker i ögonen”",
       "link": "https://www.dn.se/sverige/omkord-av-leijonborg-vill-att-partiet-agerar-sticker-i-ogonen/",
       "description": "Liberalernas Lars Leijonborg gör comeback i riksdagen. Men i Malmö knorras det. Leijonborg får partiets enda Malmömandat – och det lokala toppnamnet Simon Chrisander stängs ute. – Många väljare jag pratat med har uttryckt ilska och frustation, säger Simon Chrisander.",
@@ -258,6 +246,18 @@
         "S",
         "M",
         "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Skräddarsy en kurs om antisemitism till V-politiker",
+      "link": "https://www.dn.se/insandare/skraddarsy-en-kurs-om-antisemitism-till-v-politiker/",
+      "description": "INSÄNDARE. Tolerans, religionsfrihet och demokratiska värden borde därför vara en självklarhet även för Vänsterpartiet. Nu behövs en skräddarsydd utbildning i rasism och antisemitism för partiets förtroendevalda, skriver Bernt Jakobson.",
+      "pubDate": "2026-09-21T14:07:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
       ]
     }
   ],
