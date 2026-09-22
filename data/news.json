@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T06:24:45.117580Z",
+  "updated_at": "2026-09-22T11:54:06.145332Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,126 @@
   ],
   "news": [
     {
-      "title": "Professor: Har inte hört om något liknande",
+      "title": "V-ledamoten: Oerhört allvarliga uppgifter",
+      "link": "https://www.sverigesradio.se/artikel/9305042",
+      "description": "Ledningen för Vänsterpartiet har ännu inte kommenterat det misstänkta valfusket i Dalarna. Men Isabelle Mixter, riksdagsledamot för Vänsterpartiet, tycker uppgifterna är oroande. ”Det är oerhört allvarliga uppgifter som man kan läsa om i media”.",
+      "pubDate": "2026-09-22T11:36:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Karlsbro (L) tackar nej till riksdagsplatsen – stannar i EU-parlamentet",
+      "link": "https://www.sverigesradio.se/artikel/9304992",
+      "description": "Liberalernas EU-parlamentariker Karin Karlsbro, som har valts in i riksdagen, ger nu besked om att hon blir kvar i Bryssel. \"Sett utifrån väljarnas perspektiv gör jag fortfarande störst nytta i Bryssel\", skriver hon i ett inlägg på sociala medier som Ekot har tagit del av. Karin Karlsbro kommenterar också valresultatet, och kommer med en uppmaning om att sluta använda begreppet det “blågula laget”.",
+      "pubDate": "2026-09-22T11:31:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Tidigare V-ledaren: Stå upp för Mohamed Abdukardir Ali",
+      "link": "https://www.expressen.se/nyheter/politik/tidigare-v-ledaren-sta-upp-for-mohamed-abdukardir-ali/",
+      "description": "Tidigare V-ledaren, Lars Ohly, tycker att Vänsterpartiet ska stå upp för Mohamed Abdukardir Ali.&nbsp; Han är en av flera som reagerat på det misstänkta valfusket i Borlänge. – Man ska inte förutsätta att det skett något brottsligt, säger han till Dagens ETC .&nbsp;",
+      "pubDate": "2026-09-22T11:09:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Helena Gissén: ”V:s utsikter att få ministerposter minskar”",
+      "link": "https://www.sverigesradio.se/artikel/9304972",
+      "description": "Vänsterpartiets högsta ledning har inte kommenterat utredningen om valfusk som kretsar kring den Vänsterpartist från Dalarna som tagit sig in i riksdagen via personkryss. En historia som Helena Gissén, Ekots inrikespolitiska kommentator, beskriver som sensationell på flera sätt. Gissén tror att V sitter i intensiva krismöten: ”Min gissning är att partiet vill förmå honom att avsäga sig platsen”. Hon tror även att den pågående processen att bilda en regerings kommer påverkas: ”Nu sprids en oro på den rödgröna sidan att mandatperioden ska börja med att Vänsterpartiet får en politisk vilde, vilket skulle göra en redan skör majoritet ännu skörare”.",
+      "pubDate": "2026-09-22T11:09:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Lokalt parti erbjöd pengar till nya medlemmar",
+      "link": "https://www.expressen.se/nyheter/politik/lokalt-parti-erbjod-pengar-till-nya-medlemmar/",
+      "description": "Det lokala partiet Vi Tidaholm erbjöd pengar i utbyte mot nyregistrerade medlemmar.&nbsp; Nu är händelsen anmäld till Valmyndigheten som misstänkt röstköp, rapporterar P4 Skaraborg .",
+      "pubDate": "2026-09-22T09:30:29Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Vänsterdebattören Leonidas Aretakis: ”Barnsjukdom” inom V",
+      "link": "https://www.expressen.se/nyheter/politik/vansterdebattoren-leonidas-aretakis-barnsjukdom-inom-v/",
+      "description": "Vänsterpartiet har länge satt stolthet i att inte vara ett parti som alla andra, säger vänstertyckaren Leonidas Aretakis. När skandaler briserar kan det slå tillbaka mot dem. – Det är en slags barnsjukdom, säger han.&nbsp;",
+      "pubDate": "2026-09-22T08:48:12Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Här säkrade Ali flest kryss: ”Ville ge en ny kille chansen”",
+      "link": "https://www.dn.se/sverige/har-sakrade-ali-flest-kryss-ville-ge-en-ny-kille-chansen/",
+      "description": "BORLÄNGE. I distriktet där vänsterpartisten Mohamed Abdukardir Ali säkrade de flesta av sina kryssröster har många svårt att tro på misstankarna om valfusk. – Folk här tänker att han kommer göra skillnad, säger Hassan Abdalle Ali, som bor i Tjärna allé.",
+      "pubDate": "2026-09-22T08:39:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "S om misstänkt valfusk: ”Mycket allvarligt”",
+      "link": "https://www.expressen.se/nyheter/sverige/s-om-misstankt-valfusk-mycket-allvarligt/",
+      "description": "Socialdemokraterna kommenterar nu misstankarna om valfusk rörande en inkryssad riksdagsledamot för Vänsterpartiet. ”Det är mycket allvarligt när det finns misstankar om valfusk i samband med ett val”, säger S partisekreterare Tobias Baudin i en skriftlig kommentar.",
+      "pubDate": "2026-09-22T08:06:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. S dolda budskap om invandrare kan ha påverkat valet",
+      "link": "https://www.dn.se/insandare/s-dolda-budskap-om-invandrare-kan-ha-paverkat-valet/",
+      "description": "INSÄNDARE. Mellan raderna kunde man på en av Socialdemokraternas valaffischer se en tydlig blinkning till etniska svenskar. Att S ville föra ut ett sådant diskriminerande budskap visar att partiet konkurrerar om invandrarfientliga väljare, skriver Göran Drougge.",
+      "pubDate": "2026-09-22T06:48:23Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Insändare. Tillsätt en teknokratregering som bygger på fakta",
+      "link": "https://www.dn.se/insandare/tillsatt-en-teknokratregering-som-bygger-pa-fakta/",
+      "description": "INSÄNDARE. Sverige behöver en regering som återskapar förtroendet för oberoende, offentliga utredningar. Tillsätt en teknokratregering som under kommande mandatperiod får i uppgift att genomföra partiernas minsta gemensamma nämnares politik, skriver Magnus Carlsen.",
+      "pubDate": "2026-09-22T06:24:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Juridikprofessor: Har inte hört om något liknande",
       "link": "https://www.sverigesradio.se/artikel/9304726",
-      "description": "Riksenheten mot korruption har inlett en förundersökning om misstänkt valfusk i Dalarna. Utredningen kretsar kring de 600 personkryss som gjorde att vänsterpartisten Mohamed Ali i Borlänge valdes in i riksdagen. Enligt en polisanmälan har personer skjutsat röstare från utanförskapsområden och försett dem med förkryssade valsedlar för Vänsterpartiet, skriver Expressen. Samtidigt har Aftonbladet uppgifter om att det i utredningen finns bilder på när en person ger pengar och valsedlar till väljare Joakim Nergelius, professor i juridik vid Örebro universitet, säger att brottsmisstankar om otillbörligt verkande vid röstning är mycket ovanliga: ”Jag känner inte till att något annat fall då partier har stått och delat ut förkryssade valsedlar”. Ekot har sökt Mohamed Ali och Vänsterpartiet centralt och lokalt för kommentar, utan svar. I en intervju med SVT nekar Mohamed Ali till inblandning.",
+      "description": "Riksenheten mot korruption har inlett en förundersökning om misstänkt valfusk i Dalarna. Utredningen kretsar kring de 600 personkryss som gjorde att vänsterpartisten Mohamed Ali i Borlänge valdes in i riksdagen. Joakim Nergelius, professor i juridik vid Örebro universitet, säger att brottsmisstankar om otillbörligt verkande vid röstning är mycket ovanliga: ”Jag känner inte till något annat fall då partier har stått och delat ut förkryssade valsedlar”. Det finns inga uppgifter om brottsmisstankar mot Mohamed Ali själv. Och vad som skulle kunna hända med hans riksdagsplats om ett brott har begåtts beror på hans inblandning. ”Om hans delaktighet inte kan styrkas kan inget hända för hans del, vad jag kan bedöma”, säger Joakim Nergelius. Ekot har sökt Mohamed Ali och Vänsterpartiet centralt och lokalt för kommentar, utan svar. I en intervju med SVT nekar Mohamed Ali till inblandning.",
       "pubDate": "2026-09-22T05:56:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -128,18 +245,6 @@
       ]
     },
     {
-      "title": "V-ledningens panik:  ”Har stängt in sig”",
-      "link": "https://www.expressen.se/nyheter/sverige/v-ledningens-panik--har-stangt-in-sig/",
-      "description": "Vänsterpartiet har lagt locket på efter misstankarna om möjligt valfusk i Dalarna. Enligt uppgifter till Expressen har partiledningen ”stängt in sig”. – Man togs på sängen. Och nu har de panik, säger en riksdagsledamot.",
-      "pubDate": "2026-09-21T20:10:20Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "21 september: Missa inte dagens nyheter",
       "link": "https://www.dn.se/sverige/21-september-missa-inte-dagens-nyheter/",
       "description": "Barnmorskan Elin berättar om kvinnohälsa på sociala medier, AI-chefer skräms av ny teknik och en vänsterpartist kopplas till utredning om valfusk – här är dagens nyheter.",
@@ -150,119 +255,21 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "”Det här var det sista Nooshi Dadgostar (V) behövde”",
-      "link": "https://www.svt.se/nyheter/inrikes/det-sista-nooshi-dadgostar-behovde",
-      "description": "Nooshi Dadgostar (V) och partiledningen har den senaste veckan argumenterat för att Vänsterpartiet bör få ministerposter. I det läget är uppgifterna om misstänkt valfusk det sista partiet behöver.",
-      "pubDate": "2026-09-21T19:31:27Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Utredning om misstänkt valfusk kopplas till inkryssning",
-      "link": "https://www.sverigesradio.se/artikel/9304639",
-      "description": "Åklagare vid riksenheten mot korruption har inlett en utredningen om misstänkt valfusk, rapporterar Dagens industri . Utredningen rör, enligt uppgifter i flera medier, omständigheter kring hur vänsterpartisten Mohamed Ali valdes in i riksdagen. Ali från Borlänge blev invald med omkring 600 personkryss. Ekot har sökt Mohamed Ali utan framgång, men till SVT säger han att han är chockad och att misstankarna är felaktiga.",
-      "pubDate": "2026-09-21T18:48:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Birgitta Ohlsson (C) kryssades in i Stockholm: ”Väldigt ovanligt”",
-      "link": "https://www.sverigesradio.se/artikel/9304603",
-      "description": "Åtta personer kryssades in i riksdagen vid årets val, vilket är fler än förra valets bottenrekord på två inkryssade ledamöter. Enligt valforskaren Patrik Öberg vid Göteborgs universitet är det lättare att väljas in för ledamöter från små partier i mindre valkretsar än för stora partier i stora valkretsar. ”Därför är det i sig inte någon hög status att komma in, riksdagsledamöterna är lite tveksamma till det”, säger han.",
-      "pubDate": "2026-09-21T18:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Omkörd av Leijonborg – vill att partiet agerar: ”Sticker i ögonen”",
-      "link": "https://www.dn.se/sverige/omkord-av-leijonborg-vill-att-partiet-agerar-sticker-i-ogonen/",
-      "description": "Liberalernas Lars Leijonborg gör comeback i riksdagen. Men i Malmö knorras det. Leijonborg får partiets enda Malmömandat – och det lokala toppnamnet Simon Chrisander stängs ute. – Många väljare jag pratat med har uttryckt ilska och frustation, säger Simon Chrisander.",
-      "pubDate": "2026-09-21T14:43:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Vänsterpartist kopplas till utredning om valfusk",
-      "link": "https://www.dn.se/sverige/vansterpartist-kopplas-till-utredning-om-valfusk/",
-      "description": "STOCKHOLM/BORLÄNGE. Vänsterpartisten Mohamed Abdukardir Ali, som oväntat kryssades in i riksdagen, förekommer i en utredning om valfusk. Abdukardrir Ali säger att han är chockad över uppgifterna. – Det är helt fel, säger han till SVT.",
-      "pubDate": "2026-09-21T14:37:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Rätt och rimligt att avvakta med gratulationerna",
-      "link": "https://www.dn.se/insandare/ratt-och-rimligt-att-avvakta-med-gratulationerna/",
-      "description": "INSÄNDARE. Partier som står för borgerliga ideal samlade för en dryg vecka sedan över 55 procent av väljarkåren. Därför är det rätt och rimligt av avgående statsministern Ulf Kristersson (M) att avvakta med gratulationerna till S-ledaren Magdalena Andersson, skriver Sivert Aronsson.",
-      "pubDate": "2026-09-21T14:24:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Skräddarsy en kurs om antisemitism till V-politiker",
-      "link": "https://www.dn.se/insandare/skraddarsy-en-kurs-om-antisemitism-till-v-politiker/",
-      "description": "INSÄNDARE. Tolerans, religionsfrihet och demokratiska värden borde därför vara en självklarhet även för Vänsterpartiet. Nu behövs en skräddarsydd utbildning i rasism och antisemitism för partiets förtroendevalda, skriver Bernt Jakobson.",
-      "pubDate": "2026-09-21T14:07:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Det finns inget i V som är odemokratiskt",
-      "link": "https://www.dn.se/insandare/svar-det-finns-inget-i-v-som-ar-odemokratiskt/",
-      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet tog bort K:et som i kommunisterna ur sitt partinamn efter i maj 1990 efter att järnridån fallit. Sverigedemokraterna, däremot, lägger förslag i dag om att förbjuda slöja på allmän plats, skriver Jesper Karlsson.",
-      "pubDate": "2026-09-21T12:34:28Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Orwells ”Djurfarmen” var en protest mot Stalins kommunism",
-      "link": "https://www.dn.se/insandare/svar-orwells-grisfarmen-var-en-protest-mot-stalins-kommunism/",
-      "description": "SVAR PÅ INSÄNDARE. Den demokratiska socialism som Vänsterpartiet förespråkar har få likheter med totalitär stalinism. Den ideologi Sverigedemokraterna förespråkar är däremot betydligt närmare den fascism som författaren George Orwell riskerade sitt liv för att bekämpa, skriver Elias Naessén.",
-      "pubDate": "2026-09-21T11:52:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Alla svenska partier har dålig koll på sina listor",
+      "link": "https://blog.zaramis.se/2026/09/22/alla-svenska-partier-har-dalig-koll-pa-sina-listor/",
+      "description": "Det har uppmärksammats i media att Vänsterpartiet har dålig kontroll på sina listor. På vilka som står på listornas lägre positioner. Men det gäller säkerligen alla partier. Inte bara V. Läs mer … Inlägget Alla svenska partier har dålig koll på sina listor dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-22T07:14:47Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Blir det någon rödgrön regering?",
       "link": "https://www.dagensarena.se/innehall/blir-det-nagon-rodgron-regering/",
