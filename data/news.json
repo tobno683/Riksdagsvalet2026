@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T19:19:40.089293Z",
+  "updated_at": "2026-09-22T22:20:28.728102Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,31 @@
     }
   ],
   "news": [
+    {
+      "title": "22 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/sverige/22-september-missa-inte-dagens-nyheter/",
+      "description": "Vänsterpartisten tar timeout, ny FN-chef på gång och fräcka parkbänksstölder – här är dagens nyheter",
+      "pubDate": "2026-09-22T20:11:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Kan V-affären påverka regeringsbildningen?",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-kan-v-affaren-paverka-regeringsbildningen/",
+      "description": "Den större frågan bakom polisutredningen om påstått valfusk i Dalarna är om den kan påverka vilka partier som sitter i Sveriges regering de närmaste fyra åren. Vänsterpartiets ledning kämpar nu för att minimera effekten på regeringsförhandlingarna. Det är ännu inte klarlagt om valfusk verkligen förekommit, men för Vänsterpartiet är skadan ett faktum.",
+      "pubDate": "2026-09-22T19:22:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "S, MP, C och V har bildat ”kartell” i riksdagen",
       "link": "https://www.expressen.se/nyheter/politik/s-mp-c-och-v-har-bildat-kartell-i-riksdagen/",
@@ -234,30 +259,6 @@
       "pubDate": "2026-09-22T14:16:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Mohamed Abdukardir Ali (V) tar timeout",
-      "link": "https://www.expressen.se/nyheter/politik/mohamed-abdukardir-ali-v-tar-timeout/",
-      "description": "Vänsterpartisten Mohamed Abdukardir Ali, som oväntat kryssades in i riksdagen, tar timeout.&nbsp; Detta på grund av utredningen om misstänkt valfusk.&nbsp; ”Det här handlar om synnerligen allvarliga anklagelser mot alla som berörs”, skriver partisekreteraren Maria Forsberg. Enligt uppgift till Borlänge Tidning har han erbjudits jobb på partiets kansli – med en månadslön på över 80 000 kronor.",
-      "pubDate": "2026-09-22T14:10:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Mohamed Abdukardir Ali tar time out",
-      "link": "https://www.dn.se/sverige/mohamed-abdukardir-ali-tar-time-out/",
-      "description": "Mohamed Abdukardir Ali tar time out och kommer inte att tjänstgöra i riksdagen, meddelar Vänsterpartiet. ”Det här handlar om synnerligen allvarliga anklagelser mot alla som berörs”, skriver V:s partisekreterare Maria Forsberg.",
-      "pubDate": "2026-09-22T14:02:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
