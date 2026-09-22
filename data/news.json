@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T15:50:39.107551Z",
+  "updated_at": "2026-09-22T19:19:40.089293Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,83 @@
   ],
   "news": [
     {
+      "title": "S, MP, C och V har bildat ”kartell” i riksdagen",
+      "link": "https://www.expressen.se/nyheter/politik/s-mp-c-och-v-har-bildat-kartell-i-riksdagen/",
+      "description": "Socialdemokraterna, Miljöpartiet, Centerpartiet och Vänsterpartiet har enats om en första ”kartellbildning” i riksdagen.&nbsp; Syftet är bland annat att ta fram en gemensam plan för vilka som ska få ordförandeposterna i riksdagens olika utskott.&nbsp;",
+      "pubDate": "2026-09-22T19:01:08Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Andersson och Kristersson i möte",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=b0262fb7-a966-4697-b81e-973e1a34647a",
+      "description": "”Sågs under eftermiddagen på Sagerska”",
+      "pubDate": "2026-09-22T18:55:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Nya V-ledamöterna får utbildning – mitt i krisen",
+      "link": "https://www.expressen.se/nyheter/politik/nya-v-ledamoterna-far-utbildning-mitt-i-krisen/",
+      "description": "Det stormar kring Vänsterpartiet efter utredningen om misstänkt valfusk i Borlänge. Från partiledningen har det varit locket på. Mitt i krisen samlas nu partiets ledamöter – där 20 av 30 är nya.",
+      "pubDate": "2026-09-22T17:26:26Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "”Andrum – men krisen är inte över”",
+      "link": "https://www.svt.se/nyheter/inrikes/andrum-men-krisen-ar-inte-over",
+      "description": "Vänsterpartiets krishantering i ger partiet ett visst andrum. Men krisen är inte över och misstankarna om valfusk riktar åter strålkastarljuset mot Vänsterpartiets bristande kontroll över sina listor.",
+      "pubDate": "2026-09-22T16:09:42Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kritiken mot V-politikern Mohamed Abdukardir Alis timeout",
+      "link": "https://www.expressen.se/nyheter/politik/kritiken-mot-v-politikern-mohamed-abdukardir-alis-timeout/",
+      "description": "Man får lön, men ingen ersättare i riksdagen.&nbsp; Vänsterpartiets Mohamed Abdukardir Ali ska ta en timeout, enligt partiet.&nbsp; Begreppet förekommer dock inte i lag eller andra förordningar. – Partierna missbrukar det här. Det är förtroendeskadligt, säger statsvetaren Andreas Johansson Heinö.&nbsp;",
+      "pubDate": "2026-09-22T16:08:32Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Vittne i Borlänge: ”Såg förkryssad vänsterröst”",
+      "link": "https://www.sverigesradio.se/artikel/9305332",
+      "description": "En av de som anmält det misstänkta valfusket berättar nu för P4 Dalarna om vad han bevittnade i kön till valbåsen i Borlänge. ”Jag såg att det var en vänsterröst som var ikryssad. Det här kan ju inte vara rätt, att tvinga någon att välja”, säger han till P4-reporter Lisa Linder Lindberg. Efter misstankarna om valfusk, uppger nu Vänsterpartiet att Mohamed Ali tar en timeout.",
+      "pubDate": "2026-09-22T16:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "MP"
+      ]
+    },
+    {
       "title": "Gemytliga ”Resan till Piemonte” har värme och sälta",
       "link": "https://www.dn.se/kultur/gemytliga-resan-till-piemonte-har-varme-och-salta/",
       "description": "”Resan till Piemonte” samlar svenska skådespelarveteraner i en romantisk komedi om sviktande livslust, kulturkrockar och drömmar. Vindoftande feel good som inte bryter ny mark men innehåller träffsäkra och roliga iakttagelser om kön och åldrande, skriver Helena Lindblad.",
@@ -91,10 +168,22 @@
       ]
     },
     {
-      "title": "V vill inte svara på om Ali skrivit under kandidatkontrakt",
+      "title": "V: Ali skrivit under kandidatkontrakt",
       "link": "https://www.dn.se/sverige/v-vill-inte-svara-pa-om-ali-skrivit-under-kandidatkontrakt/",
-      "description": "Vänsterpartiet tog inför årets riksdagsval fram en ny kandidatförsäkran – en skriftlig överenskommelse mellan partiet och dem som kandiderat i valet. Men V vill inte svara på om Mohamed Abdukardir Ali har skrivit under avtalet.",
+      "description": "Vänsterpartiet tog inför årets riksdagsval fram en ny kandidatförsäkran – en skriftlig överenskommelse mellan partiet och dem som kandiderat i valet. På tisdagskvällen bekräftade partiet att Mohamed Abdukardir Ali har skrivit under avtalet.",
       "pubDate": "2026-09-22T15:28:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ledare: Varför är det just Nooshi Dadgostar som inte har någon jävla ordning i sitt parti?",
+      "link": "https://www.dn.se/ledare/varfor-ar-det-just-nooshi-dadgostar-som-inte-har-nagon-javla-ordning-i-sitt-parti/",
+      "description": "Vänsterpartiet tar inte politik på allvar. Gör man det har man inte usel koll på vilka som placeras på listorna inför ett val.",
+      "pubDate": "2026-09-22T15:15:14Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -173,89 +262,6 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "Insändare. Svar: Centerpartiet gör rätt som står fast vid sina principer",
-      "link": "https://www.dn.se/insandare/svar-centerpartiet-gor-ratt-som-star-fast-vid-sina-principer/",
-      "description": "SVAR PÅ INSÄNDARE. Att tro att Centerpartiet skulle få något reellt politiskt genomslag i ett utvidgat Tidösamarbete är naivt. Centerpartiet gör därför rätt som står fast vid sina principer gällande Sverigedemokraterna, skriver Pererik Holmbom.",
-      "pubDate": "2026-09-22T13:56:51Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Nooshi Dadgostars drag mitt i krisen – delfiner och regnbåge",
-      "link": "https://www.expressen.se/nyheter/politik/nooshi-dadgostars-drag-mitt-i-krisen-delfiner-och-regnbage/",
-      "description": "Det var knäpptyst från V i över ett dygn. Nooshi Dadgostar har dock postat ett helt orelaterat inlägg på sociala medier. ”Du och din bästis när ni blir medlemmar i Vänsterpartiet” står det över en tecknad bild på delfiner och en regnbåge.&nbsp;",
-      "pubDate": "2026-09-22T13:39:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Statsvetaren: ”Teoretiskt kan vi få en regeringskris”",
-      "link": "https://www.sverigesradio.se/artikel/9305169",
-      "description": "Det misstänkta valfusket kopplat till Vänsterpartiet i Dalarna skulle kunna leda till ett omval i valkretsen. Något som i sin tur skulle kunna leda till en regeringskris, om valresultatet i Dalarna skulle skilja sig kraftigt. Det menar statsvetaren Jan Teorell. ”Om anklagelserna skulle visa sig stämma, kan det påverka mandaten i riksdagen”, säger Teorell.",
-      "pubDate": "2026-09-22T13:35:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Utredningen om valfusk lades ned: ”Poliser var superfrustrerade”",
-      "link": "https://www.dn.se/sverige/utredningen-om-valfusk-lades-ned-poliser-var-superfrustrerade/",
-      "description": "Polisutredningen om misstänkt valfusk lades ned före valet. Först efter att vänsterpartisten Mohamed Abdukardir Ali hade kryssats in i riksdagen, återupptogs den. – Poliser var kraftigt irriterade över att de stoppades från att gå till botten med det här, säger en DN-källa.",
-      "pubDate": "2026-09-22T13:14:04Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "V-politiker i utredning om valfusk – blir inkryssad i fullmäktige",
-      "link": "https://www.expressen.se/nyheter/politik/v-politiker-i-utredning-om-valfusk-blir-inkryssad-i-fullmaktige/",
-      "description": "Vänsterpartiet ser ut att gå mot ytterligare en skräll i personvalet i Dalarna. Ahmed Abas Omar är på väg att kryssa sig till förstaplatsen i kommunvalet i Borlänge – och passerar gruppledaren Matts Hammarqvist. Även Ahmed Abas Omar ingår i den polisutredning om valfusk som leds av riksenheten mot korruption.",
-      "pubDate": "2026-09-22T12:52:02Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Trots nya fiaskot – räkna inte ut V",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/trots-nya-fiaskot-rakna-inte-ut-v/",
-      "description": "Det finns ingen oberoende jury som avgör vem som är regeringsduglig och inte.&nbsp; Den som vill använda Vänsterpartiets mandat lär fortfarande få betala för dem – dyrt.",
-      "pubDate": "2026-09-22T12:20:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Valmyndigheten vill byta valsedelsystem – hoppas få sin vilja igenom",
-      "link": "https://www.expressen.se/nyheter/politik/valmyndigheten-vill-byta-valsedelsystem-hoppas-fa-sin-vilja-igenom/",
-      "description": "Valmyndigheten har länge varit kritiska mot att politiska partier själva hanterar valsedlar. Nu hoppas man på en ändring av valsedelsystemet. – Det är viktigt för förtroendet för valsystemet att sådana misstankar utreds.",
-      "pubDate": "2026-09-22T12:16:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
