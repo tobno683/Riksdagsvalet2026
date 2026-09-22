@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T01:19:57.861839Z",
+  "updated_at": "2026-09-22T06:24:45.117580Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,43 @@
   ],
   "news": [
     {
+      "title": "Professor: Har inte hört om något liknande",
+      "link": "https://www.sverigesradio.se/artikel/9304726",
+      "description": "Riksenheten mot korruption har inlett en förundersökning om misstänkt valfusk i Dalarna. Utredningen kretsar kring de 600 personkryss som gjorde att vänsterpartisten Mohamed Ali i Borlänge valdes in i riksdagen. Enligt en polisanmälan har personer skjutsat röstare från utanförskapsområden och försett dem med förkryssade valsedlar för Vänsterpartiet, skriver Expressen. Samtidigt har Aftonbladet uppgifter om att det i utredningen finns bilder på när en person ger pengar och valsedlar till väljare Joakim Nergelius, professor i juridik vid Örebro universitet, säger att brottsmisstankar om otillbörligt verkande vid röstning är mycket ovanliga: ”Jag känner inte till att något annat fall då partier har stått och delat ut förkryssade valsedlar”. Ekot har sökt Mohamed Ali och Vänsterpartiet centralt och lokalt för kommentar, utan svar. I en intervju med SVT nekar Mohamed Ali till inblandning.",
+      "pubDate": "2026-09-22T05:56:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Svensk bilhandlare köpte bilar från ryska ambassaden",
+      "link": "https://www.sverigesradio.se/artikel/9304326",
+      "description": "En bilhandlare i Stockholmsområdet åtalas för brott mot internationella sanktioner efter att hans företag köpt tre bilar som ägdes av den ryska ambassaden i Sverige. Sanktionerna gör det förbjudet att handla med den ryska staten utan särskilda tillstånd, vilket bilföretaget inte hade. ”Har man inte ansökt om ett sådant tillstånd har man inte rätt att göra affärer med eller ta emot något från Ryska federationen”, säger åklagaren Karolina Lindekrantz.",
+      "pubDate": "2026-09-22T04:13:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Ulf Kristersson: Ministrar har också yttrandefrihet",
+      "link": "https://www.svt.se/nyheter/inrikes/ulf-kristersson-ministrar-har-ocksa-yttrandefrihet",
+      "description": "Carl-Oskar Bohlin, minister för civilt försvar, föregick SVT:s publicering av kortdokumentären Drevet genom att lägga ut intervjun i sin helhet på Youtube. På en presskonferens i riksdagen några dagar senare kallade statsministern kritiken av Bohlins agerande för ”lite prinsessan på ärten”. I en intervju med SVT fortsatte han att uttala sitt stöd.",
+      "pubDate": "2026-09-22T03:53:12Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "V-skrällen väcker debatt: ”Så här får det inte gå till”",
       "link": "https://www.svt.se/nyheter/inrikes/v-skrallen-vacker-debatt-sa-har-far-det-inte-ga-till",
       "description": "Förundersökningen om möjligt valfusk i Borlänge rör upp känslor. Men även det faktum att doldisen Mohamed Abdukardir Ali kunde kryssa sig in i riksdagen får tyckare att höja på ögonbrynen. – Vänsterpartiet är nog extra sårbara för den här typen av händelser, säger Flammans chefredaktör Leonidas Aretakis i Aktuellt.",
@@ -127,28 +164,6 @@
       ]
     },
     {
-      "title": "Mohamed Abdukardir Ali (V) bodde med gängkriminell",
-      "link": "https://www.expressen.se/nyheter/politik/mohamed-abdukardir-ali-v-bodde-med-gangkriminell/",
-      "description": "Vänsterpartisten Mohamed Abdukardir Ali, som kryssades in i riksdagen, bodde hemma hos en gängkriminell i flera år.&nbsp; Under tiden gjorde polisen husrannsakan i den gemensamma bostaden och hittade portionsförpackningar med narkotika, plastpåsar och vågar.&nbsp; Rumskamraten bedrev också omfattande penningtvätt.",
-      "pubDate": "2026-09-21T19:26:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Bilder visar – V-kandidat tog ut pengar från bankomat",
-      "link": "https://www.expressen.se/nyheter/politik/bilder-visar--v-kandidat-tog-ut-pengar-fran-bankomat/",
-      "description": "Polisen spanade på riksdagskandidaten Mohamed Abdukardir Ali och en partikollega mitt under förtidsröstningen veckorna före valet. På bilder syns hans kollega stå vid en bankomat och ta ut pengar. Nu ingår bilderna i utredningen av den misstänkta valfuskhärvan i Borlänge.",
-      "pubDate": "2026-09-21T19:26:24Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Utredning om misstänkt valfusk kopplas till inkryssning",
       "link": "https://www.sverigesradio.se/artikel/9304639",
       "description": "Åklagare vid riksenheten mot korruption har inlett en utredningen om misstänkt valfusk, rapporterar Dagens industri . Utredningen rör, enligt uppgifter i flera medier, omständigheter kring hur vänsterpartisten Mohamed Ali valdes in i riksdagen. Ali från Borlänge blev invald med omkring 600 personkryss. Ekot har sökt Mohamed Ali utan framgång, men till SVT säger han att han är chockad och att misstankarna är felaktiga.",
@@ -161,19 +176,6 @@
       ]
     },
     {
-      "title": "Anna Tenje (M) pikar Magdalena Andersson (S): ”Poppar popcorn”",
-      "link": "https://www.expressen.se/nyheter/politik/anna-tenje-m-pikar-magdalena-andersson-s-poppar-popcorn/",
-      "description": "Socialförsäkringsminister Anna Tenje (M) hoppas fortfarande att Ulf Kristersson får leda nästa regering och att hon själv får fortsätta som minister.&nbsp; Men nu är det Magdalena Andersson (S) som försöker sy ihop en rödgrön regering.&nbsp; – Jag avundas henne inte. Jag poppar popcorn och tittar på, säger Tenje till Smålandsposten. &nbsp;",
-      "pubDate": "2026-09-21T18:39:03Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
       "title": "Birgitta Ohlsson (C) kryssades in i Stockholm: ”Väldigt ovanligt”",
       "link": "https://www.sverigesradio.se/artikel/9304603",
       "description": "Åtta personer kryssades in i riksdagen vid årets val, vilket är fler än förra valets bottenrekord på två inkryssade ledamöter. Enligt valforskaren Patrik Öberg vid Göteborgs universitet är det lättare att väljas in för ledamöter från små partier i mindre valkretsar än för stora partier i stora valkretsar. ”Därför är det i sig inte någon hög status att komma in, riksdagsledamöterna är lite tveksamma till det”, säger han.",
@@ -182,33 +184,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Reagerar på misstänkta valfusket: ”Är mycket allvarligt”",
-      "link": "https://www.expressen.se/nyheter/politik/reagerar-pa-misstankta-valfusket-ar-mycket-allvarligt/",
-      "description": "Riksenheten mot korruption utreder misstänkt valfusk i Borlänge. &nbsp; Man utreder uppgifter om att väljare skjutsats till vallokaler och fått förkryssade valsedlar.&nbsp; ”Mycket allvarligt”, tycker Gunnar Strömmer (M), Hannes Hervieu (C) och Linda Lindberg (SD).&nbsp;",
-      "pubDate": "2026-09-21T17:05:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "MP"
-      ]
-    },
-    {
-      "title": "Kakabaveh om att förhandla med S: Måste prata politik",
-      "link": "https://www.expressen.se/nyheter/sverige/kakabaveh-om-att-forhandla-med-s-maste-prata-politik/",
-      "description": "Vänsterpartiet kräver att få ingå i en regering men Centerpartiet säger nej.&nbsp; Nu är det upp till Socialdemokraterna att få alla nöjda – och de beskrivs som ”tuffa” förhandlare.&nbsp; Men Amineh Kakabaveh, tidigare Vänsterpartist, vet hur man ska få sin vilja igenom.&nbsp;",
-      "pubDate": "2026-09-21T16:18:08Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
     },
     {
       "title": "Omkörd av Leijonborg – vill att partiet agerar: ”Sticker i ögonen”",
@@ -257,6 +232,32 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Det finns inget i V som är odemokratiskt",
+      "link": "https://www.dn.se/insandare/svar-det-finns-inget-i-v-som-ar-odemokratiskt/",
+      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet tog bort K:et som i kommunisterna ur sitt partinamn efter i maj 1990 efter att järnridån fallit. Sverigedemokraterna, däremot, lägger förslag i dag om att förbjuda slöja på allmän plats, skriver Jesper Karlsson.",
+      "pubDate": "2026-09-21T12:34:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Orwells ”Djurfarmen” var en protest mot Stalins kommunism",
+      "link": "https://www.dn.se/insandare/svar-orwells-grisfarmen-var-en-protest-mot-stalins-kommunism/",
+      "description": "SVAR PÅ INSÄNDARE. Den demokratiska socialism som Vänsterpartiet förespråkar har få likheter med totalitär stalinism. Den ideologi Sverigedemokraterna förespråkar är däremot betydligt närmare den fascism som författaren George Orwell riskerade sitt liv för att bekämpa, skriver Elias Naessén.",
+      "pubDate": "2026-09-21T11:52:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
         "V"
       ]
     }
@@ -370,19 +371,6 @@
       ]
     },
     {
-      "title": "Ytterligare 4 år med en Tidöregering?",
-      "link": "https://blog.zaramis.se/2026/09/18/ytterligare-4-ar-med-en-tidoregering/",
-      "description": "Det verkar vara Centerpartiets inställning för närvarande. De vill inte sitta vid ett förhandlingsbord med V enligt partiledaren Elisabeth Thand Ringqvist. Vänsterpartiet är däremot villiga att ha ett samarbete med centern och är beredda att bila regeringen tillsammans med dem. När Thand Ringqvist säger nåt annat ljuger hon. Läs mer … Inlägget Ytterligare 4 år med en Tidöregering? dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-18T13:56:00Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Kan israeliska teknikföretag påverka det svenska valet?",
       "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
       "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
@@ -394,6 +382,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Under all kritik: Vem har råd med Centerpartiets åsikter?",
+      "link": "https://pod.space/kvartal/under-all-kritik-vem-har-rad-med-centerpartiets-asikter",
+      "description": "Centern växer i de fina kvarteren. I SVT:s fikarum får Ivar Arpi höra varför väninnorna i Djursholm har hittat till partiet. Det handlar om lyxåsikter, menar Anna-Karin Wyndhamn. Ja, vem får egentligen betala när de vackra åsikterna blir politik?",
+      "pubDate": "2026-09-22T04:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "C"
+      ]
+    },
     {
       "title": "315. Då måste Dadgostar avgå",
       "link": "https://pod.space/politikrummet/315-da-maste-dadgostar-avga",
@@ -564,18 +564,6 @@
       "topics": [
         "S",
         "Opinion"
-      ]
-    },
-    {
-      "title": "Inläst: Vart är vi på väg? Vänsterut",
-      "link": "https://pod.space/kvartal/inlast-vart-ar-vi-pa-vag-vansterut",
-      "description": "SVT:s nya deltagarlista till På spåret förvånar inte. Den rymmer en veteran med åtta år på Vänsterpartiets kansli och flera andra vänsterprofiler. Antal konservativa: noll. Av Pelle Zackrisson Inläsare: Nathalie Rothschild",
-      "pubDate": "2026-09-11T04:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V"
       ]
     }
   ]
