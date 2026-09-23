@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:07:32.073866Z",
+  "updated_at": "2026-09-23T19:08:22.537425Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,147 @@
   ],
   "news": [
     {
+      "title": "V-raketen Mohamed Alis bolag pausas",
+      "link": "https://www.expressen.se/nyheter/politik/v-raketen-mohamed-alis-bolag-pausas/",
+      "description": "Mohamed Ali, som har kryssats in i riksdagen för Vänsterpartiet, pausar sitt nystartade bolag. Det säger hans affärspartner, Agneta Nyvall, till Dagens industri: &nbsp; – Vi har ett långsiktigt mål. Fyra år är ingenting.",
+      "pubDate": "2026-09-23T18:30:53Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Valmyndigheten kritiserar systemet: ”Bråttom”",
+      "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-kritiserar-systemet-brattom",
+      "description": "Det har förekommit många incidenter under årets val. De flesta har att göra med samma sak: valsedelsystemet. Valmyndigheten vill ha förändring – och det snabbt, menar de.",
+      "pubDate": "2026-09-23T18:28:10Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Källor: Riktade in sig på missbrukare i vänsterpartistens personvalskampanj",
+      "link": "https://www.dn.se/sverige/kallor-riktade-in-sig-pa-kvinnor-unga-man-och-missbrukare/",
+      "description": "Tre grupper med somalisk bakgrund söktes särskilt upp under Mohamed Abdukardir Alis personvalskampanj, enligt DN:s källor. Kvinnor, unga män som inte hade tänkt rösta och personer med missbruk. Nu utreder polisen om vissa av rösterna har köpts.",
+      "pubDate": "2026-09-23T18:26:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kristersson: Tidöprojektet tillhör förra mandatperioden",
+      "link": "https://www.expressen.se/nyheter/sverige/kristersson-tidoprojektet-tillhor-forra-mandatperioden/",
+      "description": "Tidöprojektet tillhör den gångna mandatperioden, berättar Ulf Kristersson i en intervju med Dagens industri . Nu är framtiden för deras samarbete ”helt öppen”. – Att vi inte kan få en blågul regering nu, det är alldeles uppenbart, säger han till tidningen.",
+      "pubDate": "2026-09-23T18:21:13Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Deadline närmar sig – de pekas ut för den viktiga talmansposten",
+      "link": "https://www.svt.se/nyheter/inrikes/deadline-narmar-sig-de-pekas-ut-for-den-viktiga-talmansposten",
+      "description": "På söndag är deadline för nomineringar till talmansposten. För Socialdemokraterna ses talmannen som en nyckelperson i förhandlingarna om makten. – För mig är det självklart att Andreas Norlén inte sitter kvar, säger S gruppledare Lena Hallengren till TT.",
+      "pubDate": "2026-09-23T17:02:52Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Tidigare V-toppen: Partiet behöver se över sina rutiner",
+      "link": "https://www.sverigesradio.se/artikel/9306190",
+      "description": "Efter det misstänkta valfusket i Dalarna riktar Vänsterpartiets tidigare partisekreterare, Pernilla Zethraeus, kritik mot hur partiet hanterar sina vallistor. Hon anser att politiska partier måste ta större ansvar för alla kandidater på listorna och införa tydligare rutiner och bakgrundskontroller. Zethraeus undviker att recensera V-partiledningens hantering av det aktuella fallet, men öppnar för en bredare diskussion om personvalssystemet.",
+      "pubDate": "2026-09-23T16:28:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Tre misstänks efter att Mohamed Ali kryssats in",
+      "link": "https://www.sverigesradio.se/artikel/9306188",
+      "description": "Tre personer misstänks nu i utredningen om hur Mohamed Ali kryssades in i riksdagen, enligt uppgifter i handlingar som SVT tagit del av. Utredningen lades tidigare ner men återupptogs i måndags, och ännu har ingen av de tre delgetts misstanke om brott. Socialdemokraternas partiledare Magdalena Andersson säger att saken måste utredas ordentligt. Ekot har sökt åklagaren för en kommentar, men utan framgång.",
+      "pubDate": "2026-09-23T16:08:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Amanda Sokolnicki: V-ledningen har stängt in sig i bunkern med sin kaffekokare",
+      "link": "https://www.dn.se/ledare/amanda-sokolnicki-v-ledningen-har-stangt-in-sig-i-bunkern-med-sin-kaffekokare/",
+      "description": "Tänk om Vänsterpartiet skulle fokusera lite mindre på sina krav på andra, och i stället börja ställa krav på sin egen partiledare.",
+      "pubDate": "2026-09-23T15:58:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "De kan bli ministrar i en ny regering",
+      "link": "https://www.dn.se/sverige/de-kan-bli-ministrar-i-en-ny-regering/",
+      "description": "Ska Stefan Löfven göra comeback? Kommer Birgitta Ohlsson att bli C-märkt minister? Om Magdalena Andersson får ihop sitt regeringsunderlag väntar en hård strid om ministerposterna. DN:s politikredaktion listar 24 tänkbara statsråd i en ny regering.",
+      "pubDate": "2026-09-23T15:34:13Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Bilda rödgröna arbetsgrupper för att komma överens",
+      "link": "https://www.dn.se/insandare/svar-bilda-rodgrona-arbetsgrupper-for-att-komma-overens/",
+      "description": "SVAR PÅ INSÄNDARE. S-ledaren Magdalena Andersson bör lägga allt krut på att lösa upp de sakpolitiska knäckfrågorna. En utgång med extraval ger ingen vinnare bland de rödgröna, skriver Gunnar Fond.",
+      "pubDate": "2026-09-23T15:33:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Valchefen: Förtydliga lagen för att stoppa valfusket",
+      "link": "https://www.dn.se/sverige/valchefen-fortydliga-lagen-for-att-stoppa-valfusket/",
+      "description": "Efter det misstänkta valfusket i Borlänge har valsäkerheten seglat upp på dagordningen. Valmyndigheten anser att en tydligare vallag och strängare straff mot valfusk måste prioriteras.",
+      "pubDate": "2026-09-23T15:17:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Svar: Vore bra om moderater berättade var vårdpengar ska tas",
+      "link": "https://www.dn.se/insandare/svar-vore-bra-om-moderater-berattade-var-vardpengar-ska-tas/",
+      "description": "SVAR PÅ INSÄNDARE. Tidöpartierna borde under de senaste fyra åren ha sett till att sjukvården har tillräckliga resurser i både fred och kris eller krig. Och hur ska vi hålla ihop den för krishanteringen så viktiga gemenskapen om vissa grupper får dra ett tyngre lass och dessutom stigmatiseras som lata? undrar Niclas Kuoppa.",
+      "pubDate": "2026-09-23T15:15:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "Tyst från Dadgostar efter misstänkta valfusket",
       "link": "https://www.svt.se/nyheter/inrikes/tyst-fran-dadgostar-efter-misstankta-valfusket",
       "description": "Polisen utreder misstänkt valfusk efter att V-politikern Mohamed Abdukardir Ali kryssades in i riksdagen. Men sedan nyheten kom har partiledaren Nooshi Dadgostar varit tyst. Och flera i partiledningen duckar SVT:s frågor. – Inte nu, säger V-toppen Jonas Lindberg.",
@@ -113,147 +254,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "V: Abdukardir Ali lämnar inte riksdagsplatsen",
-      "link": "https://www.dn.se/sverige/v-abdukardir-ali-lamnar-inte-riksdagsplatsen/",
-      "description": "Vänsterpartisten Mohamed Abdukardir Ali kommer inte att lämna sin riksdagsplats trots utredningen om valfusk, meddelar partiet. Samtidigt rapporterar SVT att utredningen omfattar totalt tre misstänkta personer.",
-      "pubDate": "2026-09-23T11:57:20Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Efter misstänkta valfusket – nytt fall utreds",
-      "link": "https://www.svt.se/nyheter/inrikes/efter-misstankta-valfusket-nytt-fall-utreds",
-      "description": "Riksenheten mot korruption utreder den misstänkta valfuskhärvan i Borlänge. Men specialenheten inom Åklagarmyndigheten utreder även ett annat ärende kopplat till riksdagsvalet. – Rubriceringen är otillbörlig förmån vid röstning, säger åklagaren Oskar Edvardsson.",
-      "pubDate": "2026-09-23T11:45:36Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Detta har hänt: Vänsterpartiet går ut med att Ali tar timeout",
-      "link": "https://www.sverigesradio.se/artikel/9305783",
-      "description": "Under eftermiddagen, tisdagen den 22 september, kommenterar Vänsterpartiets ledning brottsmisstankarna för första gången. Partisekreteraren Maria Forsberg skriver att det handlar om synnerligen allvarliga anklagelser och att Mohamed Ali kommer ta en timeout och inte kommer tjänstgöra under mandatperiodens början.",
-      "pubDate": "2026-09-23T11:08:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Detta har hänt: Tystnaden från Vänsterpartiet",
-      "link": "https://www.sverigesradio.se/artikel/9305777",
-      "description": "Vänsterpartiets ledning har lagt locket på rörande brottsmisstankarna. Samtidigt pågår regeringsförhandlingarna för fullt. Socialdemokraternas partiledare Magdalena Andersson har fått i uppdrag att bilda en regering, där Vänsterpartiet vill ingå. ”Jag ser väldigt, väldigt allvarligt på misstankarna som finns”, säger hon. Så här säger Helena Gissén, politisk kommentator: ”Det solkar ju ner deras lag i den mån man kan prata om ett lag. Det är ju inte positivt för Socialdemokraterna att ett parti som trots allt troligen kommer behövas i deras regeringsunderlag dras med såna här historier”.",
-      "pubDate": "2026-09-23T11:08:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Detta har hänt: Polisutredning inleddes redan innan valet",
-      "link": "https://www.sverigesradio.se/artikel/9305773",
-      "description": "Redan innan valdagen, under förtidsröstningen, ska polisen ha inlett utredningen rörande misstänkt valfusk, som lades ner. Men måndag den 21 september återupptas den. ”Jag kan egentligen inte gå in på vad som har funnits i förundersökningen eller vilka uppgifter som gjorde att den återupptogs. Men lite förenklat kan man väl säga att det var uppgifter som gjorde att det fanns anledning att kika på det här lite noggrannare”, säger åklagare Oskar Edvardsson, vid riksenheten mot korruption. P4 Dalarna har pratat med en person som har anmält misstänkt valfusk i Borlänge. Han stod i kön till vallokalen när han såg en man och tre kvinnor som han tyckte betedde sig konstigt: ”Sen delade han ut valsedlar till de tre. Och jag såg till den som stod närmast mig, för hon höll upp den och protesterade om nånting och så fick hon mer eller mindre skäll”.",
-      "pubDate": "2026-09-23T11:08:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Detta har hänt: Misstänkts valfusk utreds",
-      "link": "https://www.sverigesradio.se/artikel/9305768",
-      "description": "Under måndagen den 21 september rapporterar Dagens industri och Expressen att en åklagare utreder olaglig valpåverkan i samband med riksdagsvalet i Dalarna. Enligt en polisanmälan som Expressen har tagit del av har personer skjutsat väljare från utanförskapsområden och försett dem med förkryssade valsedlar på Mohamed Ali. Det förekommer även medieuppgifter om att det finns bilder på personer som ger pengar och valsedlar till människor.",
-      "pubDate": "2026-09-23T11:07:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Detta har hänt: 30-årig nykomling kryssar sig in i riksdagen",
-      "link": "https://www.sverigesradio.se/artikel/9305764",
-      "description": "30-årige Mohamed Ali från Borlänge får 648 personröster på Vänsterpartiets lista i Dalarna, och får ett mandat som riksdagsledamot. Det rapporteras som en skräll i media. Mohamed Ali har bara varit med i partiet i ett drygt år och stod långt ner på listan. Vänsterpartiets klimatpolitiska talesperson, Kajsa Fredholm, som stod som etta på listan i Dalarna, petas därmed från sin plats i riksdagen.",
-      "pubDate": "2026-09-23T11:07:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ernstbergers hemliga källa: ”Finns inga bevis”",
-      "link": "https://www.sverigesradio.se/artikel/9305761",
-      "description": "Den hemliga källa som Alexander Ernstberger hänvisat till i Allra-affären tar avstånd från påståendet att Socialdemokraterna påverkat hovrättsdomen. Enligt SVT:s Uppdrag granskning säger mannen att han utnyttjats mot sin vilja, samtidigt som Ernstberger fortsatt hävdar att han haft uppgifter om politisk påverkan. Ernstberger säger till Ekot att det handlar om en efterhandskonstruktion.",
-      "pubDate": "2026-09-23T11:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Vänsterpartiet: Mohamed Ali lämnar inte sin riksdagsplats",
-      "link": "https://www.expressen.se/nyheter/politik/vansterpartiet-mohamed-ali-lamnar-inte-sin-riksdagsplats/",
-      "description": "Det har varit tyst från Vänsterpartiet efter misstankarna om valfusk i Borlänge. Nu kommenterar Maria Forsberg det hela – och ledamoten Mohamed Alis timeout. – Han kommer inte lämna sin riksdagsplats, säger hon.",
-      "pubDate": "2026-09-23T10:52:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Experten om krisen i V: ”Tydligt att det finns en handlingsförlamning”",
-      "link": "https://www.sverigesradio.se/artikel/9305774",
-      "description": "För varje timme som Vänsterpartiet duckar intervjuer om det misstänkta valfusket i Borlänge och vägen framåt, ökar pressen på partiet, enligt medierådgivaren Paul Ronge. Samtidigt kommenterar Magdalena Andersson (S) för första gången händelsen medan Nooshi Dadgostar (V) fortsätter lägga locket på. ”Jag tänker att de har ett väldigt stort bryderi i vad de ska göra, hur de ska komma ur den här situationen och det måste de lösa innan de kan gå ut och kommunicera”, säger Paul Ronge.",
-      "pubDate": "2026-09-23T10:50:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Andersson (S) tror hon får ihop en regering: ”Bra samtal”",
-      "link": "https://www.sverigesradio.se/artikel/9305778",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson kommenterar nu för första gången försöken att få ihop en regering, efter att talmannen i fredags gav henne sonderingsuppdraget. ”Jag har haft bra samtal med flera, eller de flesta, av partiledarna i Sveriges riksdag”, säger Andersson, men berättar inte vilka partiledare det handlar om. Däremot säger hon att samtalen gett en bild över vilka partier som det är meningsfullt att fortsätta prata med. Hon säger också att hon tror att hon kommer att få ihop en regering.",
-      "pubDate": "2026-09-23T10:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Insändare. Förbjud dubbla medborgarskap i riksdag och regering",
-      "link": "https://www.dn.se/insandare/forbjud-dubbla-medborgarskap-i-riksdag-och-regering/",
-      "description": "INSÄNDARE. Det bör inte råda några som helst tvivel om var lojaliteten hos våra folkvalda ligger. Därför är det rimligt att statsråd och ledamöter i Sveriges riksdag inte är medborgare i något annat land än Sverige, skriver Jan Lindman.",
-      "pubDate": "2026-09-23T10:21:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     }
   ],
