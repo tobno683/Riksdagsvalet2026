@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T05:20:20.193659Z",
+  "updated_at": "2026-09-23T10:09:40.570704Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,74 @@
   ],
   "news": [
     {
-      "title": "Pernilla Zethraeus (V) riktar skarp kritik mot det egna partiet",
+      "title": "Detta har hänt kring det misstänka valfusket",
+      "link": "https://www.expressen.se/nyheter/politik/detta-har-hant-kring-det-misstanka-valfusket/",
+      "description": "Vänsterpartiet skakas av en polisutredning om valfusk.&nbsp; Två kryssraketer från Borlänge, Mohamed Abdukardir Ali och Ahmed Abas Omar, har tagit timeout. Detta har hänt i turerna kring Vänsterpartiet och det misstänkta valfusket i Dalarna.&nbsp;",
+      "pubDate": "2026-09-23T08:19:07Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Här flyr V-topparna från SVT:s frågor: ”Inte nu”",
+      "link": "https://www.svt.se/nyheter/inrikes/har-flyr-v-topparna-fran-svts-fragor-inte-nu",
+      "description": "Vänsterpartiets ledning har hittills vägrat ge intervjuer om det misstänkta valfusket i Borlänge. Och på plats i riksdagen väljer flera profilerade V-toppar att ducka SVT:s frågor. – Inte nu i alla fall, svarar V-toppen Jonas Lindberg på frågan om när partiet kommer uttala sig.",
+      "pubDate": "2026-09-23T08:09:41Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "MP"
+      ]
+    },
+    {
+      "title": "Insändare. SD bör tolerera en alliansregering av tidigare modell",
+      "link": "https://www.dn.se/insandare/sd-bor-tolerera-en-alliansregering-av-tidigare-modell/",
+      "description": "INSÄNDARE. Centerpartiet bör ta plats i en alliansregering tillsammans med Moderaterna, Kristdemokraterna och Liberalerna. En sådan regering behöver accepteras av Sverigedemokraterna, skriver Peter Eriksson.",
+      "pubDate": "2026-09-23T08:08:52Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "C",
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Furtenbach om V:s besked: ”Finns inget som heter timeout i riksdagens värld”",
+      "link": "https://www.sverigesradio.se/artikel/9305614",
+      "description": "Vänsterpartiet och kandidaten Mohamed Ali sägs vara överens om att han ska ta timeout, men det är inget som en riksdagsledamot kan göra, enligt Ekots inrikespolitiska kommentator Fredrik Furtenbach. En riksdagsledamot kan däremot ansöka om olika typer av ledighet men nån ansökan har hittills inte kommit in från Vänsterpartiet. ”Så sent som vid åtta-tiden hade det inte kommit in någon ansökan”, säger Fredrik Furtenbach som menar att Vänsterpartiet nu har många frågor att svara på.",
+      "pubDate": "2026-09-23T07:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Granska budskapet på arabiska bakom V:s höga siffror",
+      "link": "https://www.dn.se/insandare/granska-budskapet-pa-arabiska-bakom-vs-hoga-siffror/",
+      "description": "INSÄNDARE. Om valkampanjer förs i parallella språkvärldar har Sverige ett demokratiskt problem. Vänsterpartiet borde därför välkomna en öppen granskning av skrämselbudskap på arabiska som spreds i sociala medier före valet, skriver Thomas Ekvall.",
+      "pubDate": "2026-09-23T07:27:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Tidigare V-toppen Pernilla Zethraeus riktar skarp kritik mot det egna partiet",
       "link": "https://www.expressen.se/nyheter/politik/pernilla-zethraeus-v-riktar-skarp-kritik-mot-det-egna-partiet-/",
-      "description": "Den tidigare partisekreteraren Pernilla Zethraeus (V) riktar skarp kritik mot personkryssystemet och Vänsterpartiet hantering av vallistor.&nbsp; Hon har vid flera tillfällen varnat för partiets bristfälliga bakgrundskontroller. – Jag är inte så förvånad, säger hon i SVT:s Aktuellt. &nbsp;",
+      "description": "Den tidigare partisekreteraren Pernilla Zethraeus (V) riktar skarp kritik mot personkryssystemet och Vänsterpartiets hantering av vallistor.&nbsp; Hon har vid flera tillfällen varnat för partiets bristfälliga bakgrundskontroller. – Jag är inte så förvånad, säger hon i SVT:s Aktuellt. &nbsp;",
       "pubDate": "2026-09-23T04:51:45Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -104,7 +169,7 @@
       ]
     },
     {
-      "title": "“Om Moderaterna kan spöa Socialdemokraterna här, då kan de göra det överallt”",
+      "title": "”Om Moderaterna kan spöa Socialdemokraterna här, då kan de göra det överallt”",
       "link": "https://www.dn.se/sverige/om-moderaterna-kan-spoa-socialdemokraterna-har-da-kan-de-gora-det-overallt/",
       "description": "Moderaternas skräck var att SD-samarbetet skulle få dem att krympa. I stället blev det tvärtom. I röda Dalarna gör Moderaterna ett succéval. – Det är kittlande och lite svindlande att bruksorten nu är blå, säger Gabriel Erhling Perers.",
       "pubDate": "2026-09-23T04:06:45Z",
@@ -166,46 +231,6 @@
       ]
     },
     {
-      "title": "S, MP, C och V har bildat ”kartell” i riksdagen",
-      "link": "https://www.expressen.se/nyheter/politik/s-mp-c-och-v-har-bildat-kartell-i-riksdagen/",
-      "description": "Socialdemokraterna, Miljöpartiet, Centerpartiet och Vänsterpartiet har enats om en första ”kartellbildning” i riksdagen.&nbsp; Syftet är bland annat att ta fram en gemensam plan för vilka som ska få ordförandeposterna i riksdagens olika utskott.&nbsp;",
-      "pubDate": "2026-09-22T19:01:08Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "Andersson och Kristersson i möte",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=b0262fb7-a966-4697-b81e-973e1a34647a",
-      "description": "”Sågs under eftermiddagen på Sagerska”",
-      "pubDate": "2026-09-22T18:55:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Nya V-ledamöterna får utbildning – mitt i krisen",
-      "link": "https://www.expressen.se/nyheter/politik/nya-v-ledamoterna-far-utbildning-mitt-i-krisen/",
-      "description": "Det stormar kring Vänsterpartiet efter utredningen om misstänkt valfusk i Borlänge. Från partiledningen har det varit locket på. Mitt i krisen samlas nu partiets ledamöter – där 20 av 30 är nya.",
-      "pubDate": "2026-09-22T17:26:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "”Andrum – men krisen är inte över”",
       "link": "https://www.svt.se/nyheter/inrikes/andrum-men-krisen-ar-inte-over",
       "description": "Vänsterpartiets krishantering i ger partiet ett visst andrum. Men krisen är inte över och misstankarna om valfusk riktar åter strålkastarljuset mot Vänsterpartiets bristande kontroll över sina listor.",
@@ -241,33 +266,21 @@
       "topics": [
         "MP"
       ]
-    },
-    {
-      "title": "V: Ali skrivit under kandidatkontrakt",
-      "link": "https://www.dn.se/sverige/v-vill-inte-svara-pa-om-ali-skrivit-under-kandidatkontrakt/",
-      "description": "Vänsterpartiet tog inför årets riksdagsval fram en ny kandidatförsäkran – en skriftlig överenskommelse mellan partiet och dem som kandiderat i valet. På tisdagskvällen bekräftade partiet att Mohamed Abdukardir Ali har skrivit under avtalet.",
-      "pubDate": "2026-09-22T15:28:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ledare: Varför är det just Nooshi Dadgostar som inte har någon jävla ordning i sitt parti?",
-      "link": "https://www.dn.se/ledare/varfor-ar-det-just-nooshi-dadgostar-som-inte-har-nagon-javla-ordning-i-sitt-parti/",
-      "description": "Vänsterpartiet tar inte politik på allvar. Gör man det har man inte usel koll på vilka som placeras på listorna inför ett val.",
-      "pubDate": "2026-09-22T15:15:14Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Ännu inget bevisat valfusk i Borlänge",
+      "link": "https://blog.zaramis.se/2026/09/23/annu-inget-bevisat-valfusk-i-borlange/",
+      "description": "Anklagelser om valfusk har framförst vad det gäller personröstningen på en vänsterpartist i Borlänge. Mannen som heter Mohamed Abdukardir Ali fick 648 personröster i Dalarna. Det förde upp honom till toppen av Vänsterpartiets kandidater i länet och till en plats i riksdagen. 333 av personrösterna var från Borlänge och 149 från Tjärna ängar, det bostadsområde där Ali bor och där han är en välkänd person. Läs mer … Inlägget Ännu inget bevisat valfusk i Borlänge dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-23T06:48:42Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Nödvändigt att misstankarna om valfusk utreds",
       "link": "https://www.dagensarena.se/opinion/nodvandigt-att-misstankarna-om-valfusk-utreds/",
@@ -385,18 +398,6 @@
       "topics": [
         "M",
         "SD"
-      ]
-    },
-    {
-      "title": "Hur långt kan Socialdemokratin sjunka?",
-      "link": "https://blog.zaramis.se/2026/09/19/hur-langt-kan-socialdemokratin-sjunka/",
-      "description": "Socialdemokraterna fick i år sitt sämsta valresultat sedan 1908, ett år då bara en blygsam del av arbetarklassen hade rösträtt över huvud taget. Håller botten på att gå ur 1900-talets största och mest inflytelserika parti? Läs mer … Inlägget Hur långt kan Socialdemokratin sjunka? dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-19T06:26:08Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
       ]
     },
     {
