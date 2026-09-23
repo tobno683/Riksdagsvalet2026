@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T19:08:22.537425Z",
+  "updated_at": "2026-09-23T22:23:55.103835Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Ulf Kristersson om Dawit Isaak: ”Stor förståelse”",
+      "link": "https://www.expressen.se/nyheter/sverige/25-ar-i-fangelse--stor-forstaelse/",
+      "description": "Dawit Isaak har suttit inspärrad 25 år i eritreanskt fängelse. ”Vi har stor förståelse för den djupa besvikelse och frustration som inte minst anhöriga känner”, skriver M-ledaren Ulf Kristersson på X. Samtidigt uppger Maria Malmer Stenergard (M), utrikesminister i övergångsregeringen, att hon under dagen träffat sin eritreanska motsvarighet och upprepat kravet om att Isaak ska friges.&nbsp;",
+      "pubDate": "2026-09-23T20:33:39Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Forskaren: Personval är en del av demokratin",
+      "link": "https://www.sverigesradio.se/artikel/9306276",
+      "description": "Misstankarna om valfusk i Borlänge har satt personkryssen till riksdagen i fokus, sedan Mohamed Ali kryssats in till en plats. Enligt statsvetaren Sara Fransson var syftet med personvalsreformen 1998 att stärka demokratin, samtidigt som gränsen går vid tvång, mutor eller annan otillbörlig påverkan. ”Han är en person som hjälpt och stöttat unga killar och ordnat fester och bröllop och i Borlänge är man inte förvånad över att han blev invald”, säger P4 Dalarnas reporter Lisa Linder Lindberg.",
+      "pubDate": "2026-09-23T19:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "V-raketen Mohamed Alis bolag pausas",
       "link": "https://www.expressen.se/nyheter/politik/v-raketen-mohamed-alis-bolag-pausas/",
@@ -230,30 +254,6 @@
       "topics": [
         "V",
         "MP"
-      ]
-    },
-    {
-      "title": "Ingen kommentar från Dadgostar – på 50 timmar",
-      "link": "https://www.expressen.se/nyheter/politik/ingen-kommentar-fran-dadgostar-pa-50-timmar/",
-      "description": "I måndags kunde Expressen berätta om det misstänkta valfusket i Borlänge. 50 timmar senare har V-ledaren Nooshi Dadgostar fortfarande inte uttalat sig. Enda livstecknet i sociala medier: Ett inlägg med delfiner.",
-      "pubDate": "2026-09-23T14:28:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "S-toppen efter mötet med C, V och MP: ”Trevliga kollegor”",
-      "link": "https://www.dn.se/sverige/s-toppen-efter-motet-med-c-v-och-mp-trevliga-kollegor/",
-      "description": "Socialdemokraterna har bildat kartell med C, MP och V för att säkra de fyra partiernas inflytande i riksdagens utskott. – Jag har tre väldigt trevliga gruppledarkollegor, säger Lena Hallengren, S, om mötet.",
-      "pubDate": "2026-09-23T12:10:33Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     }
   ],
