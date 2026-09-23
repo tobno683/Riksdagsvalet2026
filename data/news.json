@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T00:45:50.974701Z",
+  "updated_at": "2026-09-23T05:20:20.193659Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,68 @@
   ],
   "news": [
     {
+      "title": "Pernilla Zethraeus (V) riktar skarp kritik mot det egna partiet",
+      "link": "https://www.expressen.se/nyheter/politik/pernilla-zethraeus-v-riktar-skarp-kritik-mot-det-egna-partiet-/",
+      "description": "Den tidigare partisekreteraren Pernilla Zethraeus (V) riktar skarp kritik mot personkryssystemet och Vänsterpartiet hantering av vallistor.&nbsp; Hon har vid flera tillfällen varnat för partiets bristfälliga bakgrundskontroller. – Jag är inte så förvånad, säger hon i SVT:s Aktuellt. &nbsp;",
+      "pubDate": "2026-09-23T04:51:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Nya liberala utbrytarpartier: Så gick det i valet",
+      "link": "https://www.sverigesradio.se/artikel/9304858",
+      "description": "De nya partier som startat i år som en reaktion på Liberalernas nya linje gentemot Sverigedemokraterna har kommit in i två av sex kommuner där de ställt upp. De lyckas i Flen och Habo, men inte i Ulricehamn, Knivsta, Enköping och Uppsala. I Habo tvingas också samtidigt Liberalerna lämna kommunpolitiken, medan de lyckas hålla sig kvar i övriga kommuner där de fått konkurrens av nya liberala partier.",
+      "pubDate": "2026-09-23T04:27:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "“Om Moderaterna kan spöa Socialdemokraterna här, då kan de göra det överallt”",
+      "link": "https://www.dn.se/sverige/om-moderaterna-kan-spoa-socialdemokraterna-har-da-kan-de-gora-det-overallt/",
+      "description": "Moderaternas skräck var att SD-samarbetet skulle få dem att krympa. I stället blev det tvärtom. I röda Dalarna gör Moderaterna ett succéval. – Det är kittlande och lite svindlande att bruksorten nu är blå, säger Gabriel Erhling Perers.",
+      "pubDate": "2026-09-23T04:06:45Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Stora förvirringen om jobberbjudandet  till Mohamed Ali (V)",
+      "link": "https://www.expressen.se/nyheter/politik/stora-forvirringen-om-jobberbjudandet--till-mohamed-ali-v/",
+      "description": "Mohamed Ali har erbjudits jobb på Vänsterpartiets kansli, rapporterade Borlänge Tidning på tisdagen.&nbsp; Vänsterpartiet ger oklara besked.&nbsp; Partiet hävdar att det är ett missförstånd – men vill samtidigt inte kommentera uppgifterna.&nbsp;",
+      "pubDate": "2026-09-23T03:58:29Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ledare: Det här borde en regering som sätter Sverige först göra",
+      "link": "https://www.dn.se/ledare/det-har-borde-en-regering-som-satter-sverige-forst-gora/",
+      "description": "Moderaterna ställer äldreomsorg i Sverige mot bistånd till andra länder. Partiet missar att arbetet för en bättre värld också är bra av rent egenintresse.",
+      "pubDate": "2026-09-23T03:11:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "22 september: Missa inte dagens nyheter",
       "link": "https://www.dn.se/sverige/22-september-missa-inte-dagens-nyheter/",
       "description": "Vänsterpartisten tar timeout, ny FN-chef på gång och fräcka parkbänksstölder – här är dagens nyheter",
@@ -156,18 +218,6 @@
       ]
     },
     {
-      "title": "Kritiken mot V-politikern Mohamed Abdukardir Alis timeout",
-      "link": "https://www.expressen.se/nyheter/politik/kritiken-mot-v-politikern-mohamed-abdukardir-alis-timeout/",
-      "description": "Man får lön, men ingen ersättare i riksdagen.&nbsp; Vänsterpartiets Mohamed Abdukardir Ali ska ta en timeout, enligt partiet.&nbsp; Begreppet förekommer dock inte i lag eller andra förordningar. – Partierna missbrukar det här. Det är förtroendeskadligt, säger statsvetaren Andreas Johansson Heinö.&nbsp;",
-      "pubDate": "2026-09-22T16:08:32Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Vittne i Borlänge: ”Såg förkryssad vänsterröst”",
       "link": "https://www.sverigesradio.se/artikel/9305332",
       "description": "En av de som anmält det misstänkta valfusket berättar nu för P4 Dalarna om vad han bevittnade i kön till valbåsen i Borlänge. ”Jag såg att det var en vänsterröst som var ikryssad. Det här kan ju inte vara rätt, att tvinga någon att välja”, säger han till P4-reporter Lisa Linder Lindberg. Efter misstankarna om valfusk, uppger nu Vänsterpartiet att Mohamed Ali tar en timeout.",
@@ -211,54 +261,6 @@
       "pubDate": "2026-09-22T15:15:14Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Gissén: ”Centerns röda linje mot V lär bli mörkröd efter det här”",
-      "link": "https://www.sverigesradio.se/artikel/9305327",
-      "description": "De senaste turerna kring Vänsterpartiet och det misstänkta valfusket i Borlänge kan ytterligare försvåra för V i förhandlingar om en plats i en regering, säger Ekots politikkommentator Helena Gissén. Vänsterpartisten Mohamed Ali tar timeout innan han ens tillträtt sin riksdagsplats på grund av utredningen om misstänkt valfusk. Vänsterpartiet erbjuder honom jobb på partikansliet i Stockholm med lön i nivå med riksdagsarvodet, enligt uppgifter till Borlänge Tidning .",
-      "pubDate": "2026-09-22T15:06:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Uppgifter: V erbjuder Ali anställning på partikansliet",
-      "link": "https://www.sverigesradio.se/artikel/9305321",
-      "description": "Vänsterpartiets Mohamed Ali uppmanas av partiet att avstå sin plats i riksdagen, enligt uppgifter till Borlänge Tidning . Han ska i stället ha erbjudits en anställning på partiets kansli i Stockholm, med en månadslön som motsvarar riksdagsarvodet på 81 400 kronor, enligt uppgifter till tidningen.&nbsp; Sedan tidigare är det känt att det pågår en utredning om valfusk kopplat till omständigheter kring hur Mohamed Ali från Borlänge valdes in i riksdagen.",
-      "pubDate": "2026-09-22T14:49:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "V om misstänkta valfusket: ”Mohamed Ali tar en timeout”",
-      "link": "https://www.sverigesradio.se/artikel/9305315",
-      "description": "Vänsterpartiets ledning kommenterar nu för första gången misstankarna om valfusk i Borlänge, som kopplas till Mohamed Ali som kryssats in i riksdagen. Vänsterpartiets partisekreterare Maria Forsberg skriver i en kommentar att det handlar om synnerligen allvarliga anklagelser. Enligt Forsberg kommer Mohamed Ali ta en timeout. Och han kommer inte att tjänstgöra som riksdagsledamot från början av mandatperioden, på grund av den pågående utredningen.",
-      "pubDate": "2026-09-22T14:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Furtenbach om timeout-beskedet: ”Sannolikt kompromiss”",
-      "link": "https://www.sverigesradio.se/artikel/9305255",
-      "description": "Vänsterpartiets ledning kommenterar nu för första gången misstankarna om valfusk i Borlänge och meddelar att Mohamed Ali ta en timeout. Ett besked som vår inrikespolitiska kommentator Fredrik Furtenbach tolkar som någon form av kompromiss mellan Ali och Vänsterpartiet. ”Jag har aldrig hört talas om en riksdagsledamot som börjar sin riksdags-karriär med en timeout”, säger Furtenbach.",
-      "pubDate": "2026-09-22T14:16:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
