@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:35:45.231097Z",
+  "updated_at": "2026-09-24T10:38:04.987897Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,94 @@
   ],
   "news": [
     {
+      "title": "Nooshi Dadgostar: ”Bra att vi får reda på vad som hänt”",
+      "link": "https://www.sverigesradio.se/artikel/9306612",
+      "description": "Vänsterpartiets ledare Nooshi Dadgostar, som tidigare duckat intervjuer om det misstänkta valfusket i Dalarna, har nu uttalat sig. ”Det är bra att vi får reda på vad som har hänt”, säger hon till Ekot. Hon svarar även på varför hon inte uttalat sig tidigare: ”Det här är ett personärende, det handlar om människor och vi behöver ta reda på vad som gäller och vad som har hänt. Det har nu landat i en överenskommelse om att han tar en time-out under den tidsperiod som utredningen pågår”.",
+      "pubDate": "2026-09-24T10:29:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Krisexperten om Dadgostars första ord: Alternativet hade varit värre",
+      "link": "https://www.dn.se/sverige/krisexperten-om-dadgostars-forsta-ord-alternativet-hade-varit-varre/",
+      "description": "Efter flera dygns tystnad har Vänsterpartiets partiledare Nooshi Dadgostar nu uttalat sig om den misstänkta valfuskhärvan. – Det hedrar henne att hon visar sig i offentligheten och att hon svarar på frågor. Alternativet hade varit värre, säger Hampus Knutsson, expert på krishantering.",
+      "pubDate": "2026-09-24T10:02:54Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Polisens arbete mot sextrafficking får skarp kritik",
+      "link": "https://www.sverigesradio.se/artikel/9306576",
+      "description": "Sextrafficking är en av de vanligaste typerna av människohandel i Sverige. Trots det har det på fem år endast blivit fyra fällande domar av 422 anmälningar. Riksrevisionen har granskat Migrationsverket, Polismyndigheten och Åklagarmyndighetens arbete för att upptäcka, förebygga och utreda misstänkta fall, och upptäckt flera brister. Skarpast kritik riktas mot Polismyndigheten. ”Gränspolisen sätter personer i prostitution i försvar och avvisar dem utan att först utreda om de är utsatta för människohandel”, säger Linda Jönsson på Riksrevisionen.",
+      "pubDate": "2026-09-24T09:57:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Insändare. Nu är det dags för C och V att visa att de är vuxna",
+      "link": "https://www.dn.se/insandare/nu-ar-det-dags-for-c-och-v-att-visa-att-de-ar-vuxna/",
+      "description": "INSÄNDARE. Om Vänsterpartiet och Centerpartiet drar ut på tiden och rentav driver taburett­kraven in i nyval sviker de sina väljare. Visa nu i stället att ni är de vuxna i rummet, skriver Elisabet Näsman.",
+      "pubDate": "2026-09-24T09:26:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Nooshi Dadgostar (V) om tystnaden: ”Behövt utreda frågan”",
+      "link": "https://www.svt.se/nyheter/inrikes/nooshi-dadgostar-v-om-tystnaden-behovt-utreda-fragan",
+      "description": "Partiledaren Nooshi Dadgostar (V) kommenterar det misstänkta valfusket och hur det kan påverka regeringsförhandlingarna. – Detta är en separat fråga och vi kommer fortsätta arbetet med att bilda en regering, säger Dadgostar.",
+      "pubDate": "2026-09-24T08:55:02Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Dadgostar om misstänkt valfusk: ”Väldigt allvarliga anklagelser”",
+      "link": "https://www.sverigesradio.se/artikel/9306472",
+      "description": "Vänsterpartiets ledare Nooshi Dadgostar kommenterar misstankarna om valfusk i en intervju med Aftonbladet och säger att det är ”väldigt allvarliga anklagelser”, och att hon inte uttalat sig tidigare för att de själva behövt ”ta reda på sakförhållandena” Dadgostar står fast vid att Mohamed Ali kommer ta en time-out.Tanken är att Ali ska ersättas, men hur det ska gå till formellt går V-ledaren inte in på. Det finns inga uppgifter om att Ali själv är delgiven misstankar om brott. Om Mohamed Ali, som tidigare var okänd på ett riksplan, säger Dadgostar: ”Det här är en person som ändå har ett stort förtroende i Borlänge, helt uppenbart”.",
+      "pubDate": "2026-09-24T08:27:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Dadgostar bryter tystnaden om misstänkta valfusket",
+      "link": "https://www.expressen.se/nyheter/politik/dadgostar-bryter-tystnaden-om-misstankta-valfusket/",
+      "description": "Hon kallar misstankarna om valfusk för ”väldigt allvarliga anklagelser”.&nbsp; Nu uttalar sig V-ledaren Nooshi Dadgostar för första gången om det misstänkta valfusket i Borlänge. – Vi måste ta reda på vad som faktiskt har hänt och prata med de individer det berör, säger hon.&nbsp;",
+      "pubDate": "2026-09-24T08:07:53Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Uppgifter: Misstänkt röstfusk ska ha riktats in på hemlösa",
       "link": "https://www.sverigesradio.se/artikel/9306325",
-      "description": "Det misstänkta röstfusket i Borlänge ska enligt uppgifter till Dagens Nyheter ha styrts av en grupp män som bland annat riktat in sig på personer som lever i missbruk eller hemlöshet. De ska ha sökt upp personer, försett väljare med förkryssade valsedlar och skjutsat dem till vallokaler. I de fall pengar misstänks ha betalats ut ska det, enligt DN, ha rört sig om mindre summor. Polisen misstänker att väljare har försetts med förkryssade valsedlar för att personkryssa Vänsterpartiets Mohamed Ali, som har tagit en timeout efter anklagelserna, och nekar till inbladning.",
+      "description": "Det misstänkta röstfusket i Borlänge ska enligt uppgifter till Dagens Nyheter ha styrts av en grupp män som bland annat riktat in sig på personer som lever i missbruk eller hemlöshet. De ska ha sökt upp personer, försett väljare med förkryssade valsedlar och skjutsat dem till vallokaler. I de fall pengar misstänks ha betalats ut ska det, enligt DN, ha rört sig om mindre summor. Polisen misstänker att väljare har försetts med förkryssade valsedlar för att personkryssa Vänsterpartiets Mohamed Ali, som har tagit en timeout efter anklagelserna, nekar till inbladning. Han är inte misstänkt för brott, enligt Vänsterpartiet.",
       "pubDate": "2026-09-24T04:59:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -119,18 +204,6 @@
       ]
     },
     {
-      "title": "Ulf Kristersson om Dawit Isaak: ”Stor förståelse”",
-      "link": "https://www.expressen.se/nyheter/sverige/25-ar-i-fangelse--stor-forstaelse/",
-      "description": "Dawit Isaak har suttit inspärrad 25 år i eritreanskt fängelse. ”Vi har stor förståelse för den djupa besvikelse och frustration som inte minst anhöriga känner”, skriver M-ledaren Ulf Kristersson på X. Samtidigt uppger Maria Malmer Stenergard (M), utrikesminister i övergångsregeringen, att hon under dagen träffat sin eritreanska motsvarighet och upprepat kravet om att Isaak ska friges.&nbsp;",
-      "pubDate": "2026-09-23T20:33:39Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Forskaren: Personval är en del av demokratin",
       "link": "https://www.sverigesradio.se/artikel/9306276",
       "description": "Misstankarna om valfusk i Borlänge har satt personkryssen till riksdagen i fokus, sedan Mohamed Ali kryssats in till en plats. Enligt statsvetaren Sara Fransson var syftet med personvalsreformen 1998 att stärka demokratin, samtidigt som gränsen går vid tvång, mutor eller annan otillbörlig påverkan. ”Han är en person som hjälpt och stöttat unga killar och ordnat fester och bröllop och i Borlänge är man inte förvånad över att han blev invald”, säger P4 Dalarnas reporter Lisa Linder Lindberg.",
@@ -140,18 +213,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "V-raketen Mohamed Alis bolag pausas",
-      "link": "https://www.expressen.se/nyheter/politik/v-raketen-mohamed-alis-bolag-pausas/",
-      "description": "Mohamed Ali, som har kryssats in i riksdagen för Vänsterpartiet, pausar sitt nystartade bolag. Det säger hans affärspartner, Agneta Nyvall, till Dagens industri: &nbsp; – Vi har ett långsiktigt mål. Fyra år är ingenting.",
-      "pubDate": "2026-09-23T18:30:53Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -189,31 +250,7 @@
       ]
     },
     {
-      "title": "Tidigare V-toppen: Partiet behöver se över sina rutiner",
-      "link": "https://www.sverigesradio.se/artikel/9306190",
-      "description": "Efter det misstänkta valfusket i Dalarna riktar Vänsterpartiets tidigare partisekreterare, Pernilla Zethraeus, kritik mot hur partiet hanterar sina vallistor. Hon anser att politiska partier måste ta större ansvar för alla kandidater på listorna och införa tydligare rutiner och bakgrundskontroller. Zethraeus undviker att recensera V-partiledningens hantering av det aktuella fallet, men öppnar för en bredare diskussion om personvalssystemet.",
-      "pubDate": "2026-09-23T16:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Tre misstänks efter att Mohamed Ali kryssats in",
-      "link": "https://www.sverigesradio.se/artikel/9306188",
-      "description": "Tre personer misstänks nu i utredningen om hur Mohamed Ali kryssades in i riksdagen, enligt uppgifter i handlingar som SVT tagit del av. Utredningen lades tidigare ner men återupptogs i måndags, och ännu har ingen av de tre delgetts misstanke om brott. Socialdemokraternas partiledare Magdalena Andersson säger att saken måste utredas ordentligt. Ekot har sökt åklagaren för en kommentar, men utan framgång.",
-      "pubDate": "2026-09-23T16:08:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Amanda Sokolnicki: V-ledningen har stängt in sig i bunkern med sin kaffekokare",
+      "title": "Amanda Sokolnicki: Dadgostar vägrar ta ansvar – beskriver misstänkta fusket som ”få röster”",
       "link": "https://www.dn.se/ledare/amanda-sokolnicki-v-ledningen-har-stangt-in-sig-i-bunkern-med-sin-kaffekokare/",
       "description": "Tänk om Vänsterpartiet skulle fokusera lite mindre på sina krav på andra, och i stället börja ställa krav på sin egen partiledare.",
       "pubDate": "2026-09-23T15:58:19Z",
@@ -223,44 +260,22 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "De kan bli ministrar i en ny regering",
-      "link": "https://www.dn.se/sverige/de-kan-bli-ministrar-i-en-ny-regering/",
-      "description": "Ska Stefan Löfven göra comeback? Kommer Birgitta Ohlsson att bli C-märkt minister? Om Magdalena Andersson får ihop sitt regeringsunderlag väntar en hård strid om ministerposterna. DN:s politikredaktion listar 24 tänkbara statsråd i en ny regering.",
-      "pubDate": "2026-09-23T15:34:13Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Bilda rödgröna arbetsgrupper för att komma överens",
-      "link": "https://www.dn.se/insandare/svar-bilda-rodgrona-arbetsgrupper-for-att-komma-overens/",
-      "description": "SVAR PÅ INSÄNDARE. S-ledaren Magdalena Andersson bör lägga allt krut på att lösa upp de sakpolitiska knäckfrågorna. En utgång med extraval ger ingen vinnare bland de rödgröna, skriver Gunnar Fond.",
-      "pubDate": "2026-09-23T15:33:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Valchefen: Förtydliga lagen för att stoppa valfusket",
-      "link": "https://www.dn.se/sverige/valchefen-fortydliga-lagen-for-att-stoppa-valfusket/",
-      "description": "Efter det misstänkta valfusket i Borlänge har valsäkerheten seglat upp på dagordningen. Valmyndigheten anser att en tydligare vallag och strängare straff mot valfusk måste prioriteras.",
-      "pubDate": "2026-09-23T15:17:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "Klart att det bedrivits personvalskampanj i Borlänge",
+      "link": "https://blog.zaramis.se/2026/09/24/klart-att-det-bedrivits-personvalskampanj-i-borlange/",
+      "description": "Det är klart att det bedrivits personvalskampanj i Borlänge för två personer på vänsterpartiets lista. Det handlar om Mohamed Abdukardir Ali på riksdagslistan och Ahmed Abas Omar på kommunlistan. Dessutom har det av allt att döma också bedrivit personvalskampanj för socialdemokraten Maslah Omar Ahmed. Den sistnämnde har fått nästan alla sina personröster i riksdagsvalet i Borlänge. Läs mer … Inlägget Klart att det bedrivits personvalskampanj i Borlänge dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-24T05:57:00Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Besök på somalisk ministernivå i Borlänge",
       "link": "https://ledarsidorna.se/besok-pa-somalisk-ministerniva-i-borlange/",
@@ -368,18 +383,6 @@
       ]
     },
     {
-      "title": "Vänsteroffensiv mot avmaskerad rasism",
-      "link": "https://blog.zaramis.se/2026/09/21/vansteroffensiv-mot-avmaskerad-rasism/",
-      "description": "Nederlaget för Sverigedemokraterna tycks ha rivit bort partiets tillkämpade salongsfähighet och fram träder partiets ursprungliga profil och anspråk. Men, se upp, det kan vara ett kostymbyte inför det kommande. Kan en demaskering göras mer total? I valbakslaget för Sverigedemokraterna släpps alla hämningar. ”Vi är inte radikala”, har Jimmy Åkesson brukat bedyra mellan kramarna och valdekalernas söta humlor. Läs mer … Inlägget Vänsteroffensiv mot avmaskerad rasism dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-21T04:56:00Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "Moderaterna skjuter budbäraren",
       "link": "https://ledarsidorna.se/moderaterna-skjuter-budbararen/",
       "description": "När Moderaterna vill kalla in opinionsinstituten efter valet följer partiet exakt samma logik som USA:s president Donald Trump har drivit långt längre. Skillnaden ligger i medlen, inte i tanken. Skjut budbäraren, inte budskapet. Efter valet har Moderaterna reagerat kraftigt på mätningarna som gjordes inför det. Moderaternas biträdande partisekreterare Martin Borgs har meddelat att han ska [&#8230;]",
@@ -389,18 +392,6 @@
       "sourceType": "blog",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Vänsterns största webbsajter",
-      "link": "https://blog.zaramis.se/2026/09/20/vansterns-storsta-webbsajter/",
-      "description": "Vänsterns största webbsajter är en lista som jag gör varje månad. Den omfattar inte stalinistiska, putinvänliga och så kallade anti-impsajter. Det kan handla om sådan sajter som exempelvis Proletären och Global Politics. Den omfattar inte heller vad jag ser som högersocialdemokratiska sajter som exempelvis Aktuellt i Politiken och Tiden. Läs mer … Inlägget Vänsterns största webbsajter dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-20T06:43:19Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
       ]
     },
     {
