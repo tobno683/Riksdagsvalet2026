@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T15:33:30.122592Z",
+  "updated_at": "2026-09-24T19:33:57.794530Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,57 @@
   ],
   "news": [
     {
+      "title": "V-toppens känga till  C mitt i egna krisen",
+      "link": "https://www.expressen.se/nyheter/v-toppens-kanga-till--c-mitt-i-egna-krisen/",
+      "description": "Vänsterpartiets ekonomiska talesperson, Ida Gabrielsson, attackerar Centerpartiet och kommenterar det misstänkta valfusket i ett långt X-inlägg.&nbsp; ”Skulle C utsätta sig för detta självmordsuppdrag”, skriver hon bland annat.&nbsp;",
+      "pubDate": "2026-09-24T18:56:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Magdalena Anderssons kamp mot klockan: Budgetrysare kan vänta i höst",
+      "link": "https://www.dn.se/sverige/magdalena-anderssons-kamp-mot-klockan-budgetrysare-kan-vanta-i-host/",
+      "description": "En budgetrysare väntar senare i höst om Magdalena Andersson inte får ihop sitt regeringsunderlag i tid. Senast den 12 november måste hon vara klar, annars riskerar de rödgröna en neslig förlust redan innan de har tillträtt. Hösten innehåller flera datum som avgör hur Sverige ska styras de kommande fyra åren.",
+      "pubDate": "2026-09-24T18:02:42Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "”Misstänkta valfusket kommer inte att få Dadgostar att mjukna”",
+      "link": "https://www.svt.se/nyheter/inrikes/misstankta-valfusket-kommer-inte-att-fa-dadgostar-att-mjukna",
+      "description": "De socialdemokrater som hade hoppats att det misstänkta valfusket i Borlänge skulle få Vänsterpartiet att mjukna i sitt krav på ministerposter får nog tänka om. Nooshi Dadgostar (V) ser det som en separat fråga och har inte kommit en millimeter närmare att vika ner sig i regeringsfrågan.",
+      "pubDate": "2026-09-24T16:32:07Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Moderaterna kräver utredning om valet i Järva",
+      "link": "https://www.expressen.se/nyheter/politik/moderaterna-kraver-utredning-om-valet-i-jarva/",
+      "description": "Stockholms stad polisanmäler uppgifter om misstänkt valfusk i Järva. Nu kräver Moderaterna att kommunstyrelsen blixtinkallas – och att en utredning går till botten med uppgifterna.&nbsp; En särskild begäran lämnades in under torsdagen. – Det är en katastrof, säger oppositionsborgarråd Christofer Fjellner (M).",
+      "pubDate": "2026-09-24T16:05:28Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "Därför är Nations League viktigt för Sverige: ”Full koll på läget”",
       "link": "https://www.dn.se/sport/darfor-ar-nations-league-viktigt-for-sverige-full-koll-pa-laget/",
       "description": "Lyckat spel i Nations League kan ta Sverige tillbaka till turneringens A-division. Men framför allt skulle det öka chanserna att nå EM 2028. De svenska spelarna har fått en speciell dragning för att förstå hur det hänger ihop. – Det är klart det är viktigt att vi vet vad som krävs, säger lagkapten Victor Nilsson Lindelöf.",
@@ -115,31 +166,6 @@
       ]
     },
     {
-      "title": "Oron i S för regeringsbildningen: Börjar bli nervös",
-      "link": "https://www.expressen.se/nyheter/politik/oron-i-s-for-regeringsbildningen-borjar-bli-nervos/",
-      "description": "Allt fler i Socialdemokraterna tvivlar på att Magdalena Andersson ska lyckas få ihop en regering, erfar Expressen. Också i andra rödgröna partier ökar frustrationen. Samtidigt beskrivs ”is i magen” som en del av S-strategin.",
-      "pubDate": "2026-09-24T14:27:41Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Hinnfors äter upp ”sin hatt”: Hade fel",
-      "link": "https://www.expressen.se/nyheter/politik/hinnfors-ater-upp-sin-hatt-hade-fel/",
-      "description": "Statsvetaren Jonas Hinnfors skulle äta upp sin hatt om Liberalerna klarade spärren. Nu får han göra just det hos partiet i Göteborg. – Roligt av dem, säger Hinnfors.",
-      "pubDate": "2026-09-24T13:46:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
       "title": "Insändare. Kyrkobesökarna kan lika gärna ha avgjort valet",
       "link": "https://www.dn.se/insandare/kyrkobesokarna-kan-lika-garna-ha-avgjort-valet/",
       "description": "INSÄNDARE. Det är långt ifrån säkert att invandrarröster tippade över till de rödgrönas fördell. Har man en god vän vars tonårsbarn hotas av utvisning är det inte konstigt att det också påverkat vilket parti man valt att rösta på, skriver prästen Hans Marklund.",
@@ -148,18 +174,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "V-toppen slår tillbaka mot anklagelserna: Insinuant",
-      "link": "https://www.expressen.se/nyheter/politik/v-toppen-slar-tillbaka-mot-anklagelserna-insinuant/",
-      "description": "Vänsterpartiet anklagas för ”kaos och klanröstning” i Järva i en ledartext av SvD:s Peter Wennblad. Nu slår Vänsterpartiet tillbaka. ”Det är ett misstänkliggörande som hotar demokratin”, skriver partisekreteraren Maria Forsberg.",
-      "pubDate": "2026-09-24T12:13:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     },
     {
       "title": "Annie Reuterskiöld: Tystnaden från V:s vice partiledare motsäger Dadgostar",
@@ -174,19 +188,6 @@
       ]
     },
     {
-      "title": "Sågar första orden: ”Förakt för demokratin”",
-      "link": "https://www.expressen.se/nyheter/politik/sagar-forsta-orden-forakt-for-demokratin-/",
-      "description": "Nooshi Dadgostar säger att det misstänkta valfusket i Borlänge ”rör sig om få röster”.&nbsp; Uttalandet sågas nu av politiska motståndare. – Det är också allvarligt att ett parti som är invalt i Sveriges riksdag tar så lätt på anklagelserna, säger Ebba Busch i ett klipp på X.",
-      "pubDate": "2026-09-24T11:19:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "KD"
-      ]
-    },
-    {
       "title": "Detta har hänt: Dadgostar bryter tystnaden",
       "link": "https://www.sverigesradio.se/artikel/9306650",
       "description": "Under torsdagen den 24 september uttalar sig Vänsterpartiets ledare Nooshi Dadgostar för första gången i media om det misstänkta valfusket. När Ekots reporter frågar varför det varit så tyst från dem svarar hon: ”Därför att vi inte har möjlighet att gå på medieuppgifter utan vi måste ta reda på vad som faktiskt har hänt”. Hon påpekar att det inte är konstigt att varken hon eller gruppledaren i Borlänge kände till Mohamed Ali eftersom han inte suttit i kommunfullmäktige: ”Vi är ett mycket stort parti”.",
@@ -196,18 +197,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Baudin: Vi kommer att fixa det så småningom",
-      "link": "https://www.expressen.se/nyheter/politik/baudin-vi-kommer-att-fixa-det-sa-smaningom/",
-      "description": "Socialdemokraternas partisekreterare Tobias Baudin säger att det inte blir lätt att bilda en ny regering. – Men vi kommer att fixa det så småningom, säger Baudin till TT under en paus i ett möte för partiets nya riksdagsgrupp.",
-      "pubDate": "2026-09-24T10:56:09Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -257,9 +246,34 @@
       "topics": [
         "MP"
       ]
+    },
+    {
+      "title": "Insändare. Nu är det dags för C och V att visa att de är vuxna",
+      "link": "https://www.dn.se/insandare/nu-ar-det-dags-for-c-och-v-att-visa-att-de-ar-vuxna/",
+      "description": "INSÄNDARE. Om Vänsterpartiet och Centerpartiet drar ut på tiden och rentav driver taburett­kraven in i nyval sviker de sina väljare. Visa nu i stället att ni är de vuxna i rummet, skriver Elisabet Näsman.",
+      "pubDate": "2026-09-24T09:26:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Klanerna väljer partier",
+      "link": "https://ledarsidorna.se/klanerna-valjer-partier/",
+      "description": "När den somaliska formen av parlamentarism möter det svenska valsystemet uppstår både friktion och synergieffekter. Det var inte vänsterpartiets valberedningar eller väljare som valde sina kandidater eller ledamöter. Det var den somaliska klanlogiken, den parlamentariska traditionen och valkollegiet som utsåg vilka svenska partier som kom att bli plattformar för att kanalisera företrädarna. Mannen som skrev [&#8230;]",
+      "pubDate": "2026-09-24T19:27:26Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Klart att det bedrivits personvalskampanj i Borlänge",
       "link": "https://blog.zaramis.se/2026/09/24/klart-att-det-bedrivits-personvalskampanj-i-borlange/",
