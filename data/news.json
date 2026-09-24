@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T00:37:51.991443Z",
+  "updated_at": "2026-09-24T05:35:45.231097Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,46 @@
   ],
   "news": [
     {
+      "title": "Uppgifter: Misstänkt röstfusk ska ha riktats in på hemlösa",
+      "link": "https://www.sverigesradio.se/artikel/9306325",
+      "description": "Det misstänkta röstfusket i Borlänge ska enligt uppgifter till Dagens Nyheter ha styrts av en grupp män som bland annat riktat in sig på personer som lever i missbruk eller hemlöshet. De ska ha sökt upp personer, försett väljare med förkryssade valsedlar och skjutsat dem till vallokaler. I de fall pengar misstänks ha betalats ut ska det, enligt DN, ha rört sig om mindre summor. Polisen misstänker att väljare har försetts med förkryssade valsedlar för att personkryssa Vänsterpartiets Mohamed Ali, som har tagit en timeout efter anklagelserna, och nekar till inbladning.",
+      "pubDate": "2026-09-24T04:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Landerholm tillbaka i rätten om hemliga handlingar",
+      "link": "https://www.expressen.se/nyheter/sverige/landerholm-tillbaka-i-ratten-om-hemliga-handlingar/",
+      "description": "Nu tas striden om Henrik Landerholms kvarglömda handlingar vidare till Svea hovrätt.&nbsp; Efter friandet i tingsrätten prövas åtalet mot statsministern Ulf Kristerssons tidigare nationella säkerhetsrådgivare på nytt.&nbsp; Frågan är om hanteringen av de hemliga dokumenten på Gällöfsta kursgård var grovt oaktsam – eller bara slarvig.",
+      "pubDate": "2026-09-24T04:08:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ordval i förslag till ny abortlag splittrar de rödgröna",
+      "link": "https://www.sverigesradio.se/artikel/9306141",
+      "description": "En av de första frågor som den nyvalda riksdagen ska fatta beslut om splittrar de fyra rödgröna partierna, som ju vann valet. Det handlar om en ny abortlag, där Vänsterpartiet och Miljöpartiet vill att det uttryckligen ska stå att rätten till abort inte enbart omfattar kvinnor – utan alla som är gravida, oavsett juridiskt kön, till exempel transpersoner. Socialdemokraterna och Centerpartiet står bakom Tidöpartiernas förslag att behålla dagens formulering i abortlagen, det vill säga ”kvinna som är gravid”.",
+      "pubDate": "2026-09-24T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
       "title": "Ulf Kristersson om Dawit Isaak: ”Stor förståelse”",
       "link": "https://www.expressen.se/nyheter/sverige/25-ar-i-fangelse--stor-forstaelse/",
       "description": "Dawit Isaak har suttit inspärrad 25 år i eritreanskt fängelse. ”Vi har stor förståelse för den djupa besvikelse och frustration som inte minst anhöriga känner”, skriver M-ledaren Ulf Kristersson på X. Samtidigt uppger Maria Malmer Stenergard (M), utrikesminister i övergångsregeringen, att hon under dagen träffat sin eritreanska motsvarighet och upprepat kravet om att Isaak ska friges.&nbsp;",
@@ -134,18 +174,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Kristersson: Tidöprojektet tillhör förra mandatperioden",
-      "link": "https://www.expressen.se/nyheter/sverige/kristersson-tidoprojektet-tillhor-forra-mandatperioden/",
-      "description": "Tidöprojektet tillhör den gångna mandatperioden, berättar Ulf Kristersson i en intervju med Dagens industri . Nu är framtiden för deras samarbete ”helt öppen”. – Att vi inte kan få en blågul regering nu, det är alldeles uppenbart, säger han till tidningen.",
-      "pubDate": "2026-09-23T18:21:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     },
     {
@@ -230,34 +258,21 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Insändare. Svar: Vore bra om moderater berättade var vårdpengar ska tas",
-      "link": "https://www.dn.se/insandare/svar-vore-bra-om-moderater-berattade-var-vardpengar-ska-tas/",
-      "description": "SVAR PÅ INSÄNDARE. Tidöpartierna borde under de senaste fyra åren ha sett till att sjukvården har tillräckliga resurser i både fred och kris eller krig. Och hur ska vi hålla ihop den för krishanteringen så viktiga gemenskapen om vissa grupper får dra ett tyngre lass och dessutom stigmatiseras som lata? undrar Niclas Kuoppa.",
-      "pubDate": "2026-09-23T15:15:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Tyst från Dadgostar efter misstänkta valfusket",
-      "link": "https://www.svt.se/nyheter/inrikes/tyst-fran-dadgostar-efter-misstankta-valfusket",
-      "description": "Polisen utreder misstänkt valfusk efter att V-politikern Mohamed Abdukardir Ali kryssades in i riksdagen. Men sedan nyheten kom har partiledaren Nooshi Dadgostar varit tyst. Och flera i partiledningen duckar SVT:s frågor. – Inte nu, säger V-toppen Jonas Lindberg.",
-      "pubDate": "2026-09-23T14:29:09Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "MP"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Besök på somalisk ministernivå i Borlänge",
+      "link": "https://ledarsidorna.se/besok-pa-somalisk-ministerniva-i-borlange/",
+      "description": "Vänsterpartiets nyvalde riksdagsledamot Mohamed Abdukardir Ali visar sig komma från, eller stå nära, ett speciellt maktkluster i den somaliska politiska miljön. En miljö med goda kontakter inom den somaliska säkerhetstjänsten som genomfört besök i Borlänge på ministernivå vid minst två tillfällen under den förra mandatperioden. Den somaliska föreningen Tayo i Borlänge utgör en form av [&#8230;]",
+      "pubDate": "2026-09-24T03:17:41Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Vad hände med sanningen, Moderaterna?",
       "link": "https://www.dagensarena.se/opinion/vad-hande-med-sanningen-moderaterna/",
@@ -413,6 +428,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Rak höger: Tre män på en krog förstod vad S glömt",
+      "link": "https://pod.space/kvartal/rak-hoger-tre-man-pa-en-krog-forstod-vad-s-glomt",
+      "description": "Socialdemokraten Daniel Suhonen sågar sitt partis valrörelse. Själv är jag verkligen inte socialdemokrat – ändå tycker jag att S fått för mycket kritik. De rödgröna vann trots allt valet. Vi talar om var klasspolitiken slutar och identitetspolitiken börjar, och varför Socialdemokraterna gör pannbiffar av sina begåvningar. Och vad hörde Suhonen tre män säga på en krog som fick honom att tro på socialismens återkomst?",
+      "pubDate": "2026-09-24T04:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "316. Rödgrön kaoskartell",
       "link": "https://pod.space/politikrummet/316-rodgron-kaoskartell",
@@ -586,16 +613,6 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Efter valrysaren: ”Hoppas på ett utnötningskrig”",
-      "link": "https://pod.space/alskadepolitik/efter-valrysaren-hoppas-pa-ett-utnotningskrig",
-      "description": "Centerledaren sitter i en rävsax av röda linjer och Tidöpartierna samlas för att vässa planen. Är SD-epoken över?",
-      "pubDate": "2026-09-14T15:17:12Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
     }
   ]
 }
