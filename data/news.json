@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T19:33:57.794530Z",
+  "updated_at": "2026-09-24T22:46:54.717310Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Muf:s ordförande Douglas Thor avgår",
+      "link": "https://www.expressen.se/nyheter/sverige/mufs-ordforande-douglas-thor-avgar/",
+      "description": "Douglas Thor avgår som ordförande för Moderaternas ungdomsförbund, Muf. Han lämnar efter fyra år.",
+      "pubDate": "2026-09-24T20:00:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
     {
       "title": "V-toppens känga till  C mitt i egna krisen",
       "link": "https://www.expressen.se/nyheter/v-toppens-kanga-till--c-mitt-i-egna-krisen/",
@@ -188,36 +200,12 @@
       ]
     },
     {
-      "title": "Detta har hänt: Dadgostar bryter tystnaden",
-      "link": "https://www.sverigesradio.se/artikel/9306650",
-      "description": "Under torsdagen den 24 september uttalar sig Vänsterpartiets ledare Nooshi Dadgostar för första gången i media om det misstänkta valfusket. När Ekots reporter frågar varför det varit så tyst från dem svarar hon: ”Därför att vi inte har möjlighet att gå på medieuppgifter utan vi måste ta reda på vad som faktiskt har hänt”. Hon påpekar att det inte är konstigt att varken hon eller gruppledaren i Borlänge kände till Mohamed Ali eftersom han inte suttit i kommunfullmäktige: ”Vi är ett mycket stort parti”.",
-      "pubDate": "2026-09-24T10:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Dadgostar till DN om sin tystnad: Människor som är inblandade",
       "link": "https://www.dn.se/sverige/dadgostar-till-dn-om-sin-tystnad-manniskor-som-ar-inblandade/",
       "description": "V-ledaren Nooshi Dadgostar har varit tyst sedan misstankarna om valfusk i Borlänge briserade. Men på torsdagen tar hon bladet från munnen. – Vi har behövt föra dialog med personer det här handlar om. Det är ju människor som är inblandade, säger Dadgostar till DN.",
       "pubDate": "2026-09-24T10:40:45Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Nooshi Dadgostar: ”Bra att vi får reda på vad som hänt”",
-      "link": "https://www.sverigesradio.se/artikel/9306612",
-      "description": "Vänsterpartiets ledare Nooshi Dadgostar, som tidigare duckat intervjuer om det misstänkta valfusket i Dalarna, har nu uttalat sig. ”Det är bra att vi får reda på vad som har hänt”, säger hon till Ekot. Hon svarar även på varför hon inte uttalat sig tidigare: ”Det här är ett personärende, det handlar om människor och vi behöver ta reda på vad som gäller och vad som har hänt. Det har nu landat i en överenskommelse om att han tar en time-out under den tidsperiod som utredningen pågår”.",
-      "pubDate": "2026-09-24T10:29:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
@@ -236,18 +224,6 @@
       ]
     },
     {
-      "title": "Polisens arbete mot sextrafficking får skarp kritik",
-      "link": "https://www.sverigesradio.se/artikel/9306576",
-      "description": "Sextrafficking är en av de vanligaste typerna av människohandel i Sverige. Trots det har det på fem år endast blivit fyra fällande domar av 422 anmälningar. Riksrevisionen har granskat Migrationsverket, Polismyndigheten och Åklagarmyndighetens arbete för att upptäcka, förebygga och utreda misstänkta fall, och upptäckt flera brister. Skarpast kritik riktas mot Polismyndigheten. ”Gränspolisen sätter personer i prostitution i försvar och avvisar dem utan att först utreda om de är utsatta för människohandel”, säger Linda Jönsson på Riksrevisionen.",
-      "pubDate": "2026-09-24T09:57:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "Insändare. Nu är det dags för C och V att visa att de är vuxna",
       "link": "https://www.dn.se/insandare/nu-ar-det-dags-for-c-och-v-att-visa-att-de-ar-vuxna/",
       "description": "INSÄNDARE. Om Vänsterpartiet och Centerpartiet drar ut på tiden och rentav driver taburett­kraven in i nyval sviker de sina väljare. Visa nu i stället att ni är de vuxna i rummet, skriver Elisabet Näsman.",
@@ -259,6 +235,28 @@
         "V",
         "C"
       ]
+    },
+    {
+      "title": "Nooshi Dadgostar (V) om tystnaden: ”Behövt utreda frågan”",
+      "link": "https://www.svt.se/nyheter/inrikes/nooshi-dadgostar-v-om-tystnaden-behovt-utreda-fragan",
+      "description": "Partiledaren Nooshi Dadgostar (V) kommenterar det misstänkta valfusket och hur det kan påverka regeringsförhandlingarna. – Detta är en separat fråga och vi kommer fortsätta arbetet med att bilda en regering, säger Dadgostar.",
+      "pubDate": "2026-09-24T08:55:02Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Valmyndigheten kritiserar systemet: ”Bråttom”",
+      "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-kritiserar-systemet-brattom",
+      "description": "Det har förekommit många incidenter under årets val. De flesta har att göra med samma sak: valsedelsystemet. Valmyndigheten vill ha förändring – och det snabbt, menar de.",
+      "pubDate": "2026-09-23T18:28:10Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     }
   ],
   "blogs": [
