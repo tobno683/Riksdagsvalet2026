@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T22:23:55.103835Z",
+  "updated_at": "2026-09-24T00:37:51.991443Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -258,6 +258,18 @@
     }
   ],
   "blogs": [
+    {
+      "title": "Vad hände med sanningen, Moderaterna?",
+      "link": "https://www.dagensarena.se/opinion/vad-hande-med-sanningen-moderaterna/",
+      "description": "Har vi sett värre dribblande i någon valrörelse? Inlägget Vad hände med sanningen, Moderaterna? dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-23T23:39:55Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
+      ]
+    },
     {
       "title": "Ännu inget bevisat valfusk i Borlänge",
       "link": "https://blog.zaramis.se/2026/09/23/annu-inget-bevisat-valfusk-i-borlange/",
