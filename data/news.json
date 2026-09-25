@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T22:46:54.717310Z",
+  "updated_at": "2026-09-25T00:58:50.006532Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -130,18 +130,6 @@
       ]
     },
     {
-      "title": "Moderaterna kräver utredning om valet i Järva",
-      "link": "https://www.expressen.se/nyheter/politik/moderaterna-kraver-utredning-om-valet-i-jarva/",
-      "description": "Stockholms stad polisanmäler uppgifter om misstänkt valfusk i Järva. Nu kräver Moderaterna att kommunstyrelsen blixtinkallas – och att en utredning går till botten med uppgifterna.&nbsp; En särskild begäran lämnades in under torsdagen. – Det är en katastrof, säger oppositionsborgarråd Christofer Fjellner (M).",
-      "pubDate": "2026-09-24T16:05:28Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Därför är Nations League viktigt för Sverige: ”Full koll på läget”",
       "link": "https://www.dn.se/sport/darfor-ar-nations-league-viktigt-for-sverige-full-koll-pa-laget/",
       "description": "Lyckat spel i Nations League kan ta Sverige tillbaka till turneringens A-division. Men framför allt skulle det öka chanserna att nå EM 2028. De svenska spelarna har fått en speciell dragning för att förstå hur det hänger ihop. – Det är klart det är viktigt att vi vet vad som krävs, säger lagkapten Victor Nilsson Lindelöf.",
@@ -257,6 +245,18 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "Källor: Riktade in sig på missbrukare i vänsterpartistens personvalskampanj",
+      "link": "https://www.dn.se/sverige/kallor-riktade-in-sig-pa-kvinnor-unga-man-och-missbrukare/",
+      "description": "Tre grupper med somalisk bakgrund söktes särskilt upp under Mohamed Abdukardir Alis personvalskampanj, enligt DN:s källor. Kvinnor, unga män som inte hade tänkt rösta och personer med missbruk. Nu utreder polisen om vissa av rösterna har köpts.",
+      "pubDate": "2026-09-23T18:26:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
     }
   ],
   "blogs": [
@@ -344,16 +344,6 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "Blir det någon rödgrön regering?",
-      "link": "https://www.dagensarena.se/innehall/blir-det-nagon-rodgron-regering/",
-      "description": "SD:s och S tapp i valet, och frågan om de röda linjerna. Inlägget Blir det någon rödgrön regering? dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-21T20:33:00Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
     },
     {
       "title": "Valfuskanklagelser – det senaste i hetskampanjen mot V",
