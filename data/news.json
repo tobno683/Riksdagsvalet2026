@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T00:58:50.006532Z",
+  "updated_at": "2026-09-25T05:44:53.000975Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,31 @@
   ],
   "news": [
     {
+      "title": "Rödgröna SKR-samarbetet fortsätter – trots röda linjer",
+      "link": "https://www.sverigesradio.se/artikel/9307136",
+      "description": "Trots de röda linjerna på regeringsnivå vill de rödgröna partierna fortsätta att samarbeta i SKR, Sveriges kommuner och regioner. Enligt källor till Ekot har samarbetet fungerat bra, men frågan är känslig. Få vill uttala sig sig öppet, av hänsyn till kollegorna i Centerpartiet. Det finns en rädsla att förhandlingarna på regeringsnivå skulle störas om uppgifter om partiernas goda samverkan på SKR-nivå kommer ut. \"I början var många centerpartister misstänksamma. Sedan när de väl fick känna på oss var det inte så farligt\", säger en vänsterpartist, som vill vara anonym.",
+      "pubDate": "2026-09-25T03:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Martin Liby Troein: Ulf Kristersson har aldrig varit starkare än han är nu",
+      "link": "https://www.dn.se/ledare/martin-liby-troein-ulf-kristersson-har-aldrig-varit-starkare-an-han-ar-nu/",
+      "description": "Moderaterna har en styrkeposition – men hur använder man den bäst? De alternativ M-ledningen ser framför sig är ohyggligt fantasilösa.",
+      "pubDate": "2026-09-25T03:16:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "Muf:s ordförande Douglas Thor avgår",
       "link": "https://www.expressen.se/nyheter/sverige/mufs-ordforande-douglas-thor-avgar/",
       "description": "Douglas Thor avgår som ordförande för Moderaternas ungdomsförbund, Muf. Han lämnar efter fyra år.",
@@ -136,30 +161,6 @@
       "pubDate": "2026-09-24T15:20:30Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Helena Gissén: ”Inga svar från Dadgostar”",
-      "link": "https://www.sverigesradio.se/artikel/9307006",
-      "description": "Vänsterpartiets Nooshi Dadgostar har efter flera dagar brutit tystnaden kring det misstänka valfusket i Borlänge. ”Jag tror man kan utgå ifrån att det handlat om väldigt intensiv krishantering sedan de här misstankarna blev kända”, säger Ekots politiska kommentator Helena Gissén. ”Det här kan leda till omval i hela Dalarna, vilket kan få betydelse för valresultatet. Så det är ingen liten sak”, säger Gissén.",
-      "pubDate": "2026-09-24T15:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Kinas presidentbesök möts av protester vid Vita huset",
-      "link": "https://www.sverigesradio.se/artikel/9306980",
-      "description": "Kinas högste ledare Xi Jinping är på besök i Washington i det första kinesiska statsbesöket i USA sedan 2015. Han tas emot i Vita huset av president Donald Trump. Sveriges Radios korrespondent Ginna Lindberg rapporterar om protester mot besöket utanför Vita huset.",
-      "pubDate": "2026-09-24T15:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "MP"
@@ -260,6 +261,21 @@
     }
   ],
   "blogs": [
+    {
+      "title": "Förkryssade valsedlar är lagligt och tillåtet att dela ut",
+      "link": "https://blog.zaramis.se/2026/09/25/forkryssade-valsedlar-ar-lagligt-och-tillatet-att-dela-ut/",
+      "description": "Det finns en mängd prövningar när det gäller användande av förkryssade valsedlar. Det har en mängd gånger förklarats som lagligt av Valprövningsnämnden. Bland annat finns ett fall från 1998 när en Vänsterpartist i Pajala fått godkänt för sina manuellt förkryssade valsedlar. Efter det har det förekommit liknande utslag vid andra prövningar av samma sak. Det har berört en stor mängd partier. Sverigedemokraterna, Socialdemokraterna och Kristdemokraterna med flera. Läs mer … Inlägget Förkryssade valsedlar är lagligt och tillåtet att dela ut dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-25T04:38:29Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "SD",
+        "V",
+        "KD"
+      ]
+    },
     {
       "title": "Klanerna väljer partier",
       "link": "https://ledarsidorna.se/klanerna-valjer-partier/",
@@ -370,18 +386,6 @@
       ]
     },
     {
-      "title": "Det gick inget vidare för de små vänsterpartierna",
-      "link": "https://blog.zaramis.se/2026/09/21/det-gick-inget-vidare-for-de-sma-vansterpartierna/",
-      "description": "Några vänsterpartier ställde upp i riksdagsvalet. Koalitionen Enad Röst (Feministerna och Solidaritet) fick 1 286 röster och gammelstalinisterna i SKP fick 2 167 röster. Desto fler vänsterpartier ställde upp i kommunala val. Läs mer … Inlägget Det gick inget vidare för de små vänsterpartierna dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-21T08:51:18Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Moderaterna skjuter budbäraren",
       "link": "https://ledarsidorna.se/moderaterna-skjuter-budbararen/",
       "description": "När Moderaterna vill kalla in opinionsinstituten efter valet följer partiet exakt samma logik som USA:s president Donald Trump har drivit långt längre. Skillnaden ligger i medlen, inte i tanken. Skjut budbäraren, inte budskapet. Efter valet har Moderaterna reagerat kraftigt på mätningarna som gjordes inför det. Moderaternas biträdande partisekreterare Martin Borgs har meddelat att han ska [&#8230;]",
@@ -418,6 +422,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "317. Hatade Ebba Busch Tidösamarbetet?",
+      "link": "https://pod.space/politikrummet/317-hatade-ebba-busch-tidosamarbetet",
+      "description": "Live från Bokmässan: Viktor Barth-Kron intervjuar Maggie Strömberg och Torbjörn Nilsson, bokaktuella med historien om Tidösamarbetet. Om spriten, maktkampen och Ebba Buschs ihållande irritation.",
+      "pubDate": "2026-09-25T03:05:00Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "KD"
+      ]
+    },
     {
       "title": "Dadgostars tystnad: ”Delfininlägget ett fuck you-finger”",
       "link": "https://pod.space/alskadepolitik/dadgostars-tystnad-delfininlagget-ett-fuck-you-finger",
@@ -592,18 +608,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Under all kritik: V:s framgång väcker en obehaglig fråga",
-      "link": "https://pod.space/kvartal/under-all-kritik-v-s-framgang-vacker-en-obehaglig-fraga",
-      "description": "Vänsterpartister avslöjas med judehat och Hamashyllningar. Ändå rusar partiet i förorten. Anna-Karin och Ivar om högerns jakt på syndabockar och vänsterns nya väljare. Men den verkligt obehagliga frågan är kanske inte vad partiets företrädare har sagt.",
-      "pubDate": "2026-09-15T13:56:30Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V"
       ]
     }
   ]
