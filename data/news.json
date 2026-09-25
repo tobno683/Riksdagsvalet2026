@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T19:38:30.556138Z",
+  "updated_at": "2026-09-25T22:53:41.700300Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Fotbollarna läckte luft: ”Gick knappt att passa”",
+      "link": "https://www.dn.se/sport/gick-knappt-att-passa-fotbollarna-lackte-luft/",
+      "description": "Givna utgångspunkter i fotboll är att bollen är rund och allt kan hända. Men i Sveriges seger mot Rumänien stämde inte det första. Flera bollar kasserades eftersom de inte var tillräckligt pumpade. – Alltså, det gick ju knappt att passa bollen, säger Victor Nilsson Lindelöf.",
+      "pubDate": "2026-09-25T22:35:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "Källor: Ilskan växer mot V – twittrande stör förhandlingar",
       "link": "https://www.dn.se/sverige/kallor-ilskan-vaxer-mot-v-twittrande-stor-forhandlingar/",
@@ -181,19 +193,6 @@
       "topics": []
     },
     {
-      "title": "Här samarbetar C med  SD – partiet tar avstånd",
-      "link": "https://www.expressen.se/nyheter/politik/har-samarbetar-c-med--sd-partiet-tar-avstand/",
-      "description": "Centerpartiet säger nej till Sverigedemokraterna på riksplanet. Men i Vingåker har man nu bildat ett styre ihop. – Det känns naturligt, säger gruppledaren Robert Davidsson (C). Samtidigt avråder partiledningen från lokala samarbeten med SD.",
-      "pubDate": "2026-09-25T13:48:53Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
       "title": "Mohamed Ali (V) kommer inte till uppropet i riksdagen",
       "link": "https://www.sverigesradio.se/artikel/9307721",
       "description": "Den inkryssade vänsterpartisten i Borlänge Mohamed Ali kommer inte till sin första arbetsdag i riksdagen på måndag, när de nya eller omvalda ledamöterna ropas upp. Det har han meddelat riksdagskansliet efter en överenskommelse med partiet om att ta en paus. Mohamed Ali kryssades in i riksdagen med cirka 650 personkryss, en förundersökning om valfusk pågår men han själv är inte delgiven misstanke om brott.",
@@ -203,20 +202,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Vänsterpartiet har lärt sig av SD",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/vansterpartiet-har-lart-sig-av-sd/",
-      "description": "Den som tänker långsiktigt behöver inte ha bråttom. Det är ett akut problem för Magdalena Andersson och Elisabeth Thand Ringqvist.",
-      "pubDate": "2026-09-25T11:49:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     },
     {
@@ -265,6 +250,18 @@
       "sourceType": "news",
       "topics": [
         "SD"
+      ]
+    },
+    {
+      "title": "Filmlistan vecka 39: ”Resan till Piemonte” är ny på bio",
+      "link": "https://www.dn.se/kultur/filmlistan-vecka-39-resan-till-piemonte-ar-ny-pa-bio/",
+      "description": "Svensk feel good med Italien som resmål, engelsk upprorsaction i medeltidsdräkt och ett samtida franskt skilsmässodrama är nya på vita duken. DN:s filmredaktör Helena Lindblad listar de bästa filmerna på bio just nu.",
+      "pubDate": "2026-09-25T06:56:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
       ]
     }
   ],
