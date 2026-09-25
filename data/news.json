@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T15:37:36.545441Z",
+  "updated_at": "2026-09-25T19:38:30.556138Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,70 @@
     }
   ],
   "news": [
+    {
+      "title": "Källor: Ilskan växer mot V – twittrande stör förhandlingar",
+      "link": "https://www.dn.se/sverige/kallor-ilskan-vaxer-mot-v-twittrande-stor-forhandlingar/",
+      "description": "Magdalena Anderssons försök att bilda regering har bromsat in. Irritationen i S, MP och C växer över att V-toppen Ida Gabrielsson och hennes twittrande försvårar riktiga förhandlingar. – Det kommer att ta lite tid och det kommer att bli jobbigt, säger S partisekreterare Tobias Baudin om försöken att få en socialdemokratisk statsminister.",
+      "pubDate": "2026-09-25T18:52:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Statsvetaren: Ett sätt för V att visa musklerna",
+      "link": "https://www.sverigesradio.se/artikel/9307955",
+      "description": "Vänsterpartiet överväger att rösta på Andreas Norlén som talmanskandidat om han nomineras från Tidösidan, enligt uppgifter till Ekot. Enligt statsvetaren Jenny Madestam är det här ett sätt för Vänsterpartiet att visa musklerna i regeringsförhandlingarna. Huruvida den här taktiken kommer att fungera återstår att se, men Madestam säger att det kommer vara svårt för V att motivera sitt val av en moderat talman för sina väljare.",
+      "pubDate": "2026-09-25T18:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Fortsatt dödläge – en vecka efter uppdraget: ”Hoppas de slutar”",
+      "link": "https://www.svt.se/nyheter/inrikes/fortsatt-dodlage-en-vecka-efter-uppdraget-hoppas-de-slutar",
+      "description": "För en vecka sedan gav talmannen Magdalena Andersson i uppgift att försöka bilda regering. Men S-ledaren är långt ifrån en lösning – och en vecka efter att ha fått uppdraget har regelrätta regeringsförhandlingar inte påbörjats. Nu är en gemensam budget hotad. – Det är ganska få som tänker att vi kommer hinna, säger en rödgrön källa.",
+      "pubDate": "2026-09-25T17:21:42Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Annie Reuterskiöld: Rykten, misstankar och ilska flödar mellan de rödgröna",
+      "link": "https://www.dn.se/sverige/annie-reuterskiold-rykten-misstankar-och-ilska-flodar-mellan-de-rodgrona/",
+      "description": "Det har varit en kämpig vecka för Magdalena Anderssons sida av politiken. Ett gemensamt möte mellan gruppledarna i S, C, V och MP var undantaget. När V överväger moderaternas talman tar Nooshi Dadgostar den minimala framgången gisslan.",
+      "pubDate": "2026-09-25T17:17:49Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Uppgifter: V kan stödja Norlén som talman",
+      "link": "https://www.dn.se/sverige/uppgifter-v-kan-stodja-norlen-som-talman/",
+      "description": "Riksdagen väljer talman på måndag. Nu erfar DN att Vänsterpartiet överväger att ställa sig bakom Andreas Norlén som kandidat. Enligt uppgifter handlar det om att V betraktar Norlén som opartisk i sin roll som talman och att han har erfarenhet av komplicerade regeringsbildningar.",
+      "pubDate": "2026-09-25T16:10:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "V kan stötta Norlén som talman",
       "link": "https://www.expressen.se/nyheter/politik/v-kan-stotta-norlen-som-talman/",
@@ -180,18 +244,6 @@
       ]
     },
     {
-      "title": "Garlic and shots i Stockholm tvingas stänga",
-      "link": "https://www.expressen.se/nyheter/sverige/garlic-and-shots-i-stockholm-tvinga-stanga/",
-      "description": "Stockholms klassiska hårdrockskrog Garlic and shots ska stänga. BRF:en klagar på att de inte betalat hyran i tid – men krogägaren påstår att det är SD-ledaren Jimmie Åkessons besök som ligger bakom uppsägningen. – Jag förstår inte varför vi ska drabbas så hårt av att han väljer att gå till oss, säger Thomas Emblad.",
-      "pubDate": "2026-09-25T09:48:41Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "Sverige vill skapa ett lag som tar hand om varandra",
       "link": "https://www.dn.se/sport/sverige-vill-skapa-ett-lag-som-tar-hand-om-varandra/",
       "description": "Under Graham Potters ledning har fotbollslandslaget aldrig hållit nollan. Försvarsspelet har varit i fokus dagarna inför Nations League-premiären mot Rumänien. – Vi har jobbat på mycket bra saker och förhoppningsvis kan vi visa det i match också, säger Victor Nilsson Lindelöf.",
@@ -213,57 +265,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Filmlistan vecka 39: ”Resan till Piemonte” är ny på bio",
-      "link": "https://www.dn.se/kultur/filmlistan-vecka-39-resan-till-piemonte-ar-ny-pa-bio/",
-      "description": "Svensk feel good med Italien som resmål, engelsk upprorsaction i medeltidsdräkt och ett samtida franskt skilsmässodrama är nya på vita duken. DN:s filmredaktör Helena Lindblad listar de bästa filmerna på bio just nu.",
-      "pubDate": "2026-09-25T06:56:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Rödgröna SKR-samarbetet fortsätter – trots röda linjer",
-      "link": "https://www.sverigesradio.se/artikel/9307136",
-      "description": "Trots de röda linjerna på regeringsnivå vill de rödgröna partierna fortsätta att samarbeta i SKR, Sveriges kommuner och regioner. Enligt källor till Ekot har samarbetet fungerat bra, men frågan är känslig. Få vill uttala sig sig öppet, av hänsyn till kollegorna i Centerpartiet. Det finns en rädsla att förhandlingarna på regeringsnivå skulle störas om uppgifter om partiernas goda samverkan på SKR-nivå kommer ut. \"I början var många centerpartister misstänksamma. Sedan när de väl fick känna på oss var det inte så farligt\", säger en vänsterpartist, som vill vara anonym.",
-      "pubDate": "2026-09-25T03:50:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Magdalena Anderssons kamp mot klockan: Budgetrysare kan vänta i höst",
-      "link": "https://www.dn.se/sverige/magdalena-anderssons-kamp-mot-klockan-budgetrysare-kan-vanta-i-host/",
-      "description": "En budgetrysare väntar senare i höst om Magdalena Andersson inte får ihop sitt regeringsunderlag i tid. Senast den 12 november måste hon vara klar, annars riskerar de rödgröna en neslig förlust redan innan de har tillträtt. Hösten innehåller flera datum som avgör hur Sverige ska styras de kommande fyra åren.",
-      "pubDate": "2026-09-24T18:02:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "”Misstänkta valfusket kommer inte att få Dadgostar att mjukna”",
-      "link": "https://www.svt.se/nyheter/inrikes/misstankta-valfusket-kommer-inte-att-fa-dadgostar-att-mjukna",
-      "description": "De socialdemokrater som hade hoppats att det misstänkta valfusket i Borlänge skulle få Vänsterpartiet att mjukna i sitt krav på ministerposter får nog tänka om. Nooshi Dadgostar (V) ser det som en separat fråga och har inte kommit en millimeter närmare att vika ner sig i regeringsfrågan.",
-      "pubDate": "2026-09-24T16:32:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     }
   ],
