@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:41:14.719223Z",
+  "updated_at": "2026-09-25T15:37:36.545441Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,95 @@
   ],
   "news": [
     {
+      "title": "V kan stötta Norlén som talman",
+      "link": "https://www.expressen.se/nyheter/politik/v-kan-stotta-norlen-som-talman/",
+      "description": "Vänsterpartiet kan stödja Moderaternas Andreas Norlén som talman om han läggs fram som förslag, erfar Ekot .&nbsp; En källa säger att han är bra på att få till ”komplicerade regeringsbildningar”. – Han har varit talman länge för riksdagen och skött det på ett bra sätt, säger partiledare Dadgostar till TV4.",
+      "pubDate": "2026-09-25T14:27:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ekot erfar: Vänsterpartiet överväger att stötta Norlén som talman",
+      "link": "https://www.sverigesradio.se/artikel/9307795",
+      "description": "Det kan bli ett dramatiskt talmansval på måndag. Enligt uppgifter till Ekot överväger Vänsterpartiet att inte ställa sig bakom Socialdemokraternas kandidat, utan i stället rösta på Andreas Norlén – om han förs fram som motkandidat från Tidösidan. Det finns ”starka sakliga skäl” att låta den nuvarande talmannen sitta kvar, säger en vänsterpartist, som tycker att Andreas Norlén på ett bra sätt har lyckats hantera komplicerade regeringsbildningar tidigare.",
+      "pubDate": "2026-09-25T14:07:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "DN Debatt. ”Valet 2026 kommer vi att minnas som ’ingenting’-valet”",
+      "link": "https://www.dn.se/debatt/valet-2026-kommer-vi-att-minnas-som-ingenting-valet/",
+      "description": "DN DEBATT. Bara 50 000 röster avgjorde till sist valet. Förvånande, anser vissa. Knappast, säger jag. Valet 2026 ägde rum i tomrummet efter valet 2022 – ingen sida har egentligen presenterat något nytt. Tidöpartierna gjorde det de sa, så deras väljare är ju nöjda. Men nya fick de inte. Oppositionen missade å sin sida öppet mål, skriver statsvetaren Love Christensen.",
+      "pubDate": "2026-09-25T14:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Här samarbetar C med  SD – partiet tar avstånd",
+      "link": "https://www.expressen.se/nyheter/politik/har-samarbetar-c-med--sd-partiet-tar-avstand/",
+      "description": "Centerpartiet säger nej till Sverigedemokraterna på riksplanet. Men i Vingåker har man nu bildat ett styre ihop. – Det känns naturligt, säger gruppledaren Robert Davidsson (C). Samtidigt avråder partiledningen från lokala samarbeten med SD.",
+      "pubDate": "2026-09-25T13:48:53Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Mohamed Ali (V) kommer inte till uppropet i riksdagen",
+      "link": "https://www.sverigesradio.se/artikel/9307721",
+      "description": "Den inkryssade vänsterpartisten i Borlänge Mohamed Ali kommer inte till sin första arbetsdag i riksdagen på måndag, när de nya eller omvalda ledamöterna ropas upp. Det har han meddelat riksdagskansliet efter en överenskommelse med partiet om att ta en paus. Mohamed Ali kryssades in i riksdagen med cirka 650 personkryss, en förundersökning om valfusk pågår men han själv är inte delgiven misstanke om brott.",
+      "pubDate": "2026-09-25T13:32:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Vänsterpartiet har lärt sig av SD",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/vansterpartiet-har-lart-sig-av-sd/",
+      "description": "Den som tänker långsiktigt behöver inte ha bråttom. Det är ett akut problem för Magdalena Andersson och Elisabeth Thand Ringqvist.",
+      "pubDate": "2026-09-25T11:49:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Vem är Ida Gabrielsson?",
+      "link": "https://www.svt.se/nyheter/inrikes/vem-ar-ida-gabrielsson",
+      "description": "Ida Gabrielsson har i media beskrivits både som ”hjärnan bakom Nooshi” och Vänsterpartiets ”attackhund”. Nu står hon återigen i rampljuset – som en av få toppolitiker som dyker upp när medier bjuder in dem.",
+      "pubDate": "2026-09-25T11:49:23Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Professorn om förkryssade valsedlar: ”Gränsfall”",
       "link": "https://www.sverigesradio.se/artikel/9307474",
       "description": "Misstankar om valfusk har väckt en hel del frågor efter valet. Bland annat har vänsterpartisten Mohamed Ali från Borlänge tagit en timeout efter misstänkt valfusk om hur han kryssats in i riksdagen. Valkansliet i Stockholms län har fått in anmälningar om personer som försökt påverka folk under röstningen, som P4 Stockholm har rapporterat om . Joakim Nergelius, professor i juridik är kritisk mot förkryssade valsedlar. ”Jag tycker att förkryssade lappar, strider mot själva idén om hur valet ska gå till”, säger professorn.",
@@ -127,18 +216,6 @@
       ]
     },
     {
-      "title": "Svenska Gripen mötte ryska stridsflyg",
-      "link": "https://www.expressen.se/nyheter/sverige/svenska-gripen-motte-ryska-stridsflyg/",
-      "description": "Svenska och finska stridsflyg skickades upp i en gemensam insats över Finska viken på torsdagen.&nbsp; Där mötte de ryska militärplan. ”Östersjön har aldrig varit så utsatt som nu”, skriver Kristersson på X.&nbsp;",
-      "pubDate": "2026-09-25T08:16:51Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Filmlistan vecka 39: ”Resan till Piemonte” är ny på bio",
       "link": "https://www.dn.se/kultur/filmlistan-vecka-39-resan-till-piemonte-ar-ny-pa-bio/",
       "description": "Svensk feel good med Italien som resmål, engelsk upprorsaction i medeltidsdräkt och ett samtida franskt skilsmässodrama är nya på vita duken. DN:s filmredaktör Helena Lindblad listar de bästa filmerna på bio just nu.",
@@ -148,18 +225,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Interna V-bråk och missnöje  med Dadgostar: ”Pinsamt”",
-      "link": "https://www.expressen.se/nyheter/politik/interna-v-brak-och-missnoje--med-dadgostar-pinsamt/",
-      "description": "Centrala källor beskriver ett utbrett missnöje i Vänsterpartiet. I chattar kallar frustrerade företrädare Nooshi Dadgostar för ”oproffsig”. – Jag vet inte vad fan hon håller på med, säger en källa. Partisekreteraren Maria Forsberg menar däremot att det råder ”stor enighet” i hur krisen hanteras.",
-      "pubDate": "2026-09-25T06:23:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -198,64 +263,6 @@
       "sourceType": "news",
       "topics": [
         "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Därför är Nations League viktigt för Sverige: ”Full koll på läget”",
-      "link": "https://www.dn.se/sport/darfor-ar-nations-league-viktigt-for-sverige-full-koll-pa-laget/",
-      "description": "Lyckat spel i Nations League kan ta Sverige tillbaka till turneringens A-division. Men framför allt skulle det öka chanserna att nå EM 2028. De svenska spelarna har fått en speciell dragning för att förstå hur det hänger ihop. – Det är klart det är viktigt att vi vet vad som krävs, säger lagkapten Victor Nilsson Lindelöf.",
-      "pubDate": "2026-09-24T15:20:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Insändare. Kyrkobesökarna kan lika gärna ha avgjort valet",
-      "link": "https://www.dn.se/insandare/kyrkobesokarna-kan-lika-garna-ha-avgjort-valet/",
-      "description": "INSÄNDARE. Det är långt ifrån säkert att invandrarröster tippade över till de rödgrönas fördell. Har man en god vän vars tonårsbarn hotas av utvisning är det inte konstigt att det också påverkat vilket parti man valt att rösta på, skriver prästen Hans Marklund.",
-      "pubDate": "2026-09-24T12:43:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Annie Reuterskiöld: Tystnaden från V:s vice partiledare motsäger Dadgostar",
-      "link": "https://www.dn.se/sverige/annie-reuterskiold-tystnaden-fran-vs-vice-partiledare-motsager-dadgostar/",
-      "description": "Sent omsider uttalar sig Nooshi Dadgostar om det misstänkta valfusket. V-ledaren tror inte att krisen påverkar regeringsförhandlingarna. Vice partiledaren Ida Gabrielssons tvära stopp i sin regeringskampanj talar motsatt språk.",
-      "pubDate": "2026-09-24T12:12:04Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Dadgostar till DN om sin tystnad: Människor som är inblandade",
-      "link": "https://www.dn.se/sverige/dadgostar-till-dn-om-sin-tystnad-manniskor-som-ar-inblandade/",
-      "description": "V-ledaren Nooshi Dadgostar har varit tyst sedan misstankarna om valfusk i Borlänge briserade. Men på torsdagen tar hon bladet från munnen. – Vi har behövt föra dialog med personer det här handlar om. Det är ju människor som är inblandade, säger Dadgostar till DN.",
-      "pubDate": "2026-09-24T10:40:45Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Krisexperten om Dadgostars första ord: Alternativet hade varit värre",
-      "link": "https://www.dn.se/sverige/krisexperten-om-dadgostars-forsta-ord-alternativet-hade-varit-varre/",
-      "description": "Efter flera dygns tystnad har Vänsterpartiets partiledare Nooshi Dadgostar nu uttalat sig om den misstänkta valfuskhärvan. – Det hedrar henne att hon visar sig i offentligheten och att hon svarar på frågor. Alternativet hade varit värre, säger Hampus Knutsson, expert på krishantering.",
-      "pubDate": "2026-09-24T10:02:54Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "V"
       ]
     }
@@ -362,18 +369,6 @@
       ]
     },
     {
-      "title": "Valfuskanklagelser – det senaste i hetskampanjen mot V",
-      "link": "https://blog.zaramis.se/2026/09/21/valfuskanklagelser-det-senaste-i-hetskampanjen-mot-v/",
-      "description": "Valfuskanklagelser är det senaste det senaste i hetskampanjen mot Vänsterpartiet. En kandidat för Vänsterpartiet i Dalarna har blivit inkryssad i riksdagen. Det är ny relativt ny medlem i Vänsterpartiet i Borlänge som inte är speciellt välkänd. Varken inom partiet och utanför partiet. Han heter Mohamed Abdukardir Ali och han härstammar från Somalia Läs mer … Inlägget Valfuskanklagelser &#8211; det senaste i hetskampanjen mot V dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-21T18:56:05Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Vem är vänsterpartiets Mohamed Ali?",
       "link": "https://ledarsidorna.se/vem-ar-vansterpartiets-mohamed-ali/",
       "description": "Elva veckor före valet satt Vänsterpartiets blivande riksdagsledamot Mohamed Abdukardir Ali i Mogadishu och deltog i ett möte om det svenska valet och den somaliska diasporans roll. Samtidigt hade hans eget parti begränsad kunskap om vem han var samt vilka uppdrag och kontakter han hade. Den 29 juni 2026 publicerade Said Siyaad bilder från ett [&#8230;]",
@@ -422,6 +417,19 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Fredagsintervjun: Dadgostar har ansträngt sig för att bli regeringsduglig",
+      "link": "https://pod.space/kvartal/fredagsintervjun-bade-v-och-sd-har-anstrangt-sig-for-att-bli-regeringsdugliga",
+      "description": "Tidigare talmannen Per Westerberg intervjuas av Magnus Thorén. När han lämnade riksdagen för tolv år sedan var det som den ledamot som suttit längst. Vad säger den tidigare moderate näringsministern och talmannen under flera år Per Westerberg om turbulensen på hans tidigare arbetsplats just nu, med röda linjer och misstänkt fiffel med personkryss och köpta röster i Dalarna? Och vilken är hans förklaring till att så mycket i politiken fortfarande kretsar kring Jimmie Åkesson?",
+      "pubDate": "2026-09-25T10:50:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
     {
       "title": "317. Hatade Ebba Busch Tidösamarbetet?",
       "link": "https://pod.space/politikrummet/317-hatade-ebba-busch-tidosamarbetet",
@@ -595,19 +603,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "314. Vem viker sig först?",
-      "link": "https://pod.space/politikrummet/314-vem-viker-sig-forst",
-      "description": "Rösterna är räknade och valet är avgjort. Men kommer Vänsterpartiet och Centerpartiet någonsin att sätta sig i samma rum? I studion: Filippa Rogvall, Max V Karlsson, Viktor Barth-Kron och Anette Holmqvist. Ljudklipp från SVT Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-09-17T13:02:26Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V",
-        "C"
       ]
     }
   ]
