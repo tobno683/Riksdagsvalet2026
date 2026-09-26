@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:36:18.591168Z",
+  "updated_at": "2026-09-26T15:13:31.431685Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,68 @@
     }
   ],
   "news": [
+    {
+      "title": "C nobbar SD-toppens invit: ”Röda linjen ligger fast”",
+      "link": "https://www.svt.se/nyheter/inrikes/c-nobbar-sd-toppens-invit-roda-linjen-ligger-fast",
+      "description": "Sverigedemokraterna lever på hoppet om att man på något sätt ska kunna locka över Centerpartiet till tidösidan av politiken. Men den nygamla riksdagsledamoten Birgitta Ohlsson (C) stänger dörren. – Den röda linjen ligger väldigt fast, säger hon.",
+      "pubDate": "2026-09-26T14:58:23Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Norrlandspartiets succéval – kräver självstyre i norr",
+      "link": "https://www.dn.se/sverige/norrlandspartiets-succeval-kraver-sjalvstyre-i-norr/",
+      "description": "Norrlandspartiet jämför Norrland med en koloni och kämpar för ökat självstyre. Ett budskap som gick hem i Västernorrland. Partiet blev Sveriges största nya parti i valet. – Norrland har börjat resa sig, säger Elina Arab (NorrP), partiordförande på en presskonferens.",
+      "pubDate": "2026-09-26T14:40:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Birgitta Ohlsson (C): Då blir jag vilde",
+      "link": "https://www.sverigesradio.se/artikel/9308138",
+      "description": "Om Centerpartiet sviker sitt vallöfte om röda linjer mot SD, då kommer riksdagsledamoten Birgitta Ohlsson att bli politisk vilde, rapporterar Expressen . Ohlsson som tidigare varit ett av Liberalernas främsta namn, gick tidigare i år över till Centerpartiet, efter att hennes tidigare parti börjat samarbeta med Sverigedemokraterna. Hon säger till Expressen att hon engagerat sig i Centern för att hon tycker att det är viktigt att hålla ytterkanterna borta från svensk politik.",
+      "pubDate": "2026-09-26T14:35:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C",
+        "L"
+      ]
+    },
+    {
+      "title": "Birgitta Ohlsson: Då blir jag vilde",
+      "link": "https://www.expressen.se/nyheter/politik/birgitta-ohlsson-da-blir-jag-vilde-/",
+      "description": "Centerpartiet gick till val på röda linjer mot SD.&nbsp; Bryter de det löftet så har de en vilde att hantera.&nbsp; – Jag gick med i Centerpartiet och engagerade mig för att jag tror på att det är viktigt att hålla ytterkanterna borta från svensk politik, säger Birgitta Ohlsson.&nbsp;",
+      "pubDate": "2026-09-26T13:41:29Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Stor irritation mot Vänsterpartiet i Socialdemokraterna",
+      "link": "https://www.expressen.se/nyheter/politik/stor-irritation-mot-vansterpartiet-i-socialdemokraterna/",
+      "description": "Inga nya besked har getts i regeringsförhandlingarna.&nbsp; Inom Socialdemokraterna är irritationen stor över Vänsterpartiet, enligt Expressens källor.&nbsp; Partiet uppges stå handfallna och flera tror inte att V kommer backa från sina krav.",
+      "pubDate": "2026-09-26T12:43:46Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Klas kampanjade med  Mohamed Ali i Borlänge",
       "link": "https://www.expressen.se/nyheter/sverige/klas-kampanjade-med--mohamed-ali-i-borlange/",
@@ -200,67 +262,6 @@
         "S",
         "M",
         "V"
-      ]
-    },
-    {
-      "title": "Uppgifter: V kan stödja Norlén som talman",
-      "link": "https://www.dn.se/sverige/uppgifter-v-kan-stodja-norlen-som-talman/",
-      "description": "Riksdagen väljer talman på måndag. Nu erfar DN att Vänsterpartiet överväger att ställa sig bakom Andreas Norlén som kandidat. Enligt uppgifter handlar det om att V betraktar Norlén som opartisk i sin roll som talman och att han har erfarenhet av komplicerade regeringsbildningar.",
-      "pubDate": "2026-09-25T16:10:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ekot erfar: Vänsterpartiet överväger att stötta Norlén som talman",
-      "link": "https://www.sverigesradio.se/artikel/9307795",
-      "description": "Det kan bli ett dramatiskt talmansval på måndag. Enligt uppgifter till Ekot överväger Vänsterpartiet att inte ställa sig bakom Socialdemokraternas kandidat, utan i stället rösta på Andreas Norlén – om han förs fram som motkandidat från Tidösidan. Det finns ”starka sakliga skäl” att låta den nuvarande talmannen sitta kvar, säger en vänsterpartist, som tycker att Andreas Norlén på ett bra sätt har lyckats hantera komplicerade regeringsbildningar tidigare.",
-      "pubDate": "2026-09-25T14:07:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "DN Debatt. ”Valet 2026 kommer vi att minnas som ’ingenting’-valet”",
-      "link": "https://www.dn.se/debatt/valet-2026-kommer-vi-att-minnas-som-ingenting-valet/",
-      "description": "DN DEBATT. Bara 50 000 röster avgjorde till sist valet. Förvånande, anser vissa. Knappast, säger jag. Valet 2026 ägde rum i tomrummet efter valet 2022 – ingen sida har egentligen presenterat något nytt. Tidöpartierna gjorde det de sa, så deras väljare är ju nöjda. Men nya fick de inte. Oppositionen missade å sin sida öppet mål, skriver statsvetaren Love Christensen.",
-      "pubDate": "2026-09-25T14:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Vem är Ida Gabrielsson?",
-      "link": "https://www.svt.se/nyheter/inrikes/vem-ar-ida-gabrielsson",
-      "description": "Ida Gabrielsson har i media beskrivits både som ”hjärnan bakom Nooshi” och Vänsterpartiets ”attackhund”. Nu står hon återigen i rampljuset – som en av få toppolitiker som dyker upp när medier bjuder in dem.",
-      "pubDate": "2026-09-25T11:49:23Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Sverige vill skapa ett lag som tar hand om varandra",
-      "link": "https://www.dn.se/sport/sverige-vill-skapa-ett-lag-som-tar-hand-om-varandra/",
-      "description": "Under Graham Potters ledning har fotbollslandslaget aldrig hållit nollan. Försvarsspelet har varit i fokus dagarna inför Nations League-premiären mot Rumänien. – Vi har jobbat på mycket bra saker och förhoppningsvis kan vi visa det i match också, säger Victor Nilsson Lindelöf.",
-      "pubDate": "2026-09-25T08:40:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     }
   ],
