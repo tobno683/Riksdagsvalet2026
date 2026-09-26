@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T22:53:41.700300Z",
+  "updated_at": "2026-09-26T01:00:42.146939Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -267,6 +267,21 @@
   ],
   "blogs": [
     {
+      "title": "Råd från parterapeuten",
+      "link": "https://www.dagensarena.se/opinion/rad-fran-parterapeuten/",
+      "description": "Äktenskapsråden kan lika gärna tillämpas på Socialdemokraterna, Vänsterpartiet, Centerpartiet och Miljöpartiet. Inlägget Råd från parterapeuten dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-25T23:30:19Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
       "title": "Förkryssade valsedlar är lagligt och tillåtet att dela ut",
       "link": "https://blog.zaramis.se/2026/09/25/forkryssade-valsedlar-ar-lagligt-och-tillatet-att-dela-ut/",
       "description": "Det finns en mängd prövningar när det gäller användande av förkryssade valsedlar. Det har en mängd gånger förklarats som lagligt av Valprövningsnämnden. Bland annat finns ett fall från 1998 när en Vänsterpartist i Pajala fått godkänt för sina manuellt förkryssade valsedlar. Efter det har det förekommit liknande utslag vid andra prövningar av samma sak. Det har berört en stor mängd partier. Sverigedemokraterna, Socialdemokraterna och Kristdemokraterna med flera. Läs mer … Inlägget Förkryssade valsedlar är lagligt och tillåtet att dela ut dök först upp på Svenssons Nyheter .",
@@ -343,18 +358,6 @@
       ]
     },
     {
-      "title": "Nödvändigt att misstankarna om valfusk utreds",
-      "link": "https://www.dagensarena.se/opinion/nodvandigt-att-misstankarna-om-valfusk-utreds/",
-      "description": "Svårt att förstå hur lätt det är att hamna på Vänsterpartiets riksdagslista. Inlägget Nödvändigt att misstankarna om valfusk utreds dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-22T14:50:12Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Alla svenska partier har dålig koll på sina listor",
       "link": "https://blog.zaramis.se/2026/09/22/alla-svenska-partier-har-dalig-koll-pa-sina-listor/",
       "description": "Det har uppmärksammats i media att Vänsterpartiet har dålig kontroll på sina listor. På vilka som står på listornas lägre positioner. Men det gäller säkerligen alla partier. Inte bara V. Läs mer … Inlägget Alla svenska partier har dålig koll på sina listor dök först upp på Svenssons Nyheter .",
@@ -412,6 +415,42 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
+    },
+    {
+      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
+      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
+      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
+      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
+      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "BREV 490 – Kartlägg människor efter deras ras.",
+      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
+      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
     }
   ],
   "podcasts": [
