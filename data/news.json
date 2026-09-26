@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T18:39:23.914342Z",
+  "updated_at": "2026-09-26T21:40:03.966627Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,32 @@
     }
   ],
   "news": [
+    {
+      "title": "Uppgift: Andersson och Dadgostar träffas i morgon",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=eb991009-02c1-4cde-a37d-6e83917dc0d2",
+      "description": "Partiledarna ska ses, enligt Aftonbladet",
+      "pubDate": "2026-09-26T20:36:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "V-ilskan mot S: ”Tragiskt”",
+      "link": "https://www.expressen.se/nyheter/politik/v-ilskan-mot-s-tragiskt/",
+      "description": "Socialdemokraterna är irriterade på Vänsterpartiet.&nbsp; Det gör Vänsterpartiet irriterade på Socialdemokraterna. ”S har inte gjort något för att få tillstånd en förhandling”, skriver V-toppen Anna Herdy.",
+      "pubDate": "2026-09-26T19:46:03Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Uppgifter: Stefan Löfven dödshotad",
       "link": "https://www.svt.se/nyheter/inrikes/uppgifter-stefan-lofven-dodshotad",
@@ -162,31 +188,6 @@
         "SD",
         "C",
         "L"
-      ]
-    },
-    {
-      "title": "Birgitta Ohlsson: Då blir jag vilde",
-      "link": "https://www.expressen.se/nyheter/politik/birgitta-ohlsson-da-blir-jag-vilde-/",
-      "description": "Centerpartiet gick till val på röda linjer mot SD.&nbsp; Bryter de det löftet så har de en vilde att hantera.&nbsp; – Jag gick med i Centerpartiet och engagerade mig för att jag tror på att det är viktigt att hålla ytterkanterna borta från svensk politik, säger Birgitta Ohlsson.&nbsp;",
-      "pubDate": "2026-09-26T13:41:29Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Stor irritation mot Vänsterpartiet i Socialdemokraterna",
-      "link": "https://www.expressen.se/nyheter/politik/stor-irritation-mot-vansterpartiet-i-socialdemokraterna/",
-      "description": "Inga nya besked har getts i regeringsförhandlingarna.&nbsp; Inom Socialdemokraterna är irritationen stor över Vänsterpartiet, enligt Expressens källor.&nbsp; Partiet uppges stå handfallna och flera tror inte att V kommer backa från sina krav.",
-      "pubDate": "2026-09-26T12:43:46Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     },
     {
