@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T06:13:48.277443Z",
+  "updated_at": "2026-09-26T11:36:18.591168Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Klas kampanjade med  Mohamed Ali i Borlänge",
+      "link": "https://www.expressen.se/nyheter/sverige/klas-kampanjade-med--mohamed-ali-i-borlange/",
+      "description": "Vänsterpartiet har försökt pressa Mohamed Ali att lämna sin riksdagsplats. Men i Borlänge har han stöd. Klas Holmgren (V) kampanjade ihop med Mohamed Ali.&nbsp; – Mohamed har ett stort förtroende, säger han.",
+      "pubDate": "2026-09-26T08:39:09Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Nya riksdagen – partiet med flest nykomlingar",
       "link": "https://www.svt.se/nyheter/inrikes/nya-riksdagen-partiet-med-flest-nykomlingar",
@@ -226,18 +238,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Mohamed Ali (V) kommer inte till uppropet i riksdagen",
-      "link": "https://www.sverigesradio.se/artikel/9307721",
-      "description": "Den inkryssade vänsterpartisten i Borlänge Mohamed Ali kommer inte till sin första arbetsdag i riksdagen på måndag, när de nya eller omvalda ledamöterna ropas upp. Det har han meddelat riksdagskansliet efter en överenskommelse med partiet om att ta en paus. Mohamed Ali kryssades in i riksdagen med cirka 650 personkryss, en förundersökning om valfusk pågår men han själv är inte delgiven misstanke om brott.",
-      "pubDate": "2026-09-25T13:32:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     },
     {
       "title": "Vem är Ida Gabrielsson?",
