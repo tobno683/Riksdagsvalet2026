@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T21:40:03.966627Z",
+  "updated_at": "2026-09-26T23:58:54.712681Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Uppgifter: Andersson och Dadgostar ska ha möte",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-andersson-och-dadgostar-ska-ha-mote/",
+      "description": "S är irriterade och anklagar V för att ducka möten kring regeringsbildningen.&nbsp; Men under söndagen planeras ett hemligt möte mellan Magdalena Andersson och Nooshi Dadgostar, rapporterar Aftonbladet .&nbsp; – Nu är det ett möte på partiledarnivå planerat, säger en, enligt tidningen, högt uppsatt V-källa.",
+      "pubDate": "2026-09-26T21:58:47Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Uppgifter: S och V planerar att träffas på söndag",
+      "link": "https://www.dn.se/sverige/uppgifter-s-och-v-planerar-att-traffas-pa-sondag/",
+      "description": "Källor i S och V har under dagen gett olika besked om varför partierna inte har träffats under veckan. Samtidigt närmar sig deadline för de rödgröna att nominera sin talmanskandidat, och V har öppnat för att rösta på Tidösidans Andreas Norlén. Nu uppger en V-källa för Aftonbladet att ett möte på partiledarnivå planeras till söndagen.",
+      "pubDate": "2026-09-26T21:54:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "Uppgift: Andersson och Dadgostar träffas i morgon",
       "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=eb991009-02c1-4cde-a37d-6e83917dc0d2",
@@ -237,31 +261,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Fotbollarna läckte luft: ”Gick knappt att passa”",
-      "link": "https://www.dn.se/sport/gick-knappt-att-passa-fotbollarna-lackte-luft/",
-      "description": "Givna utgångspunkter i fotboll är att bollen är rund och allt kan hända. Men i Sveriges seger mot Rumänien stämde inte det första. Flera bollar kasserades eftersom de inte var tillräckligt pumpade. – Alltså, det gick ju knappt att passa bollen, säger Victor Nilsson Lindelöf.",
-      "pubDate": "2026-09-25T22:35:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Källor: Ilskan växer mot V – twittrande stör förhandlingar",
-      "link": "https://www.dn.se/sverige/kallor-ilskan-vaxer-mot-v-twittrande-stor-forhandlingar/",
-      "description": "Magdalena Anderssons försök att bilda regering har bromsat in. Irritationen i S, MP och C växer över att V-toppen Ida Gabrielsson och hennes twittrande försvårar riktiga förhandlingar. – Det kommer att ta lite tid och det kommer att bli jobbigt, säger S partisekreterare Tobias Baudin om försöken att få en socialdemokratisk statsminister.",
-      "pubDate": "2026-09-25T18:52:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     }
   ],
