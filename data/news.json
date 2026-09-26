@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T01:00:42.146939Z",
+  "updated_at": "2026-09-26T06:13:48.277443Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,55 @@
   ],
   "news": [
     {
+      "title": "Nya riksdagen – partiet med flest nykomlingar",
+      "link": "https://www.svt.se/nyheter/inrikes/nya-riksdagen-partiet-med-flest-nykomlingar",
+      "description": "Drygt en fjärdedel av ledamöterna är nya när den nyvalda riksdagen samlas på måndag. Störst andel nykomlingar har Vänsterpartiet (V).",
+      "pubDate": "2026-09-26T04:31:57Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Partiledarna stod i kö för att träffa dem – nu är ungdomsledarna häktade för förskingring",
+      "link": "https://www.dn.se/sverige/partiledarna-stod-i-ko-for-att-traffa-dem-nu-ar-ungdomsledarna-haktade-for-forskingring/",
+      "description": "MALMÖ. Stefan Löfven och Ulf Kristersson kom på besök. Föreningens ledare bjöds till regeringskansliet, riksdagen och kungliga slottet. Rikspolischefen och ministrar hälsade på och de fick priser av polisen och Malmö stad. Nu sitter den hyllade organisationen Flammans båda grundare häktade misstänkta för att ha stoppat delar av runt 130 miljoner i offentliga bidrag i egen ficka.",
+      "pubDate": "2026-09-26T04:13:14Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Knutson: ”S dröm är att slippa V”",
+      "link": "https://www.svt.se/nyheter/inrikes/knutson-s-drom-ar-att-slippa-v",
+      "description": "Vänsterpartiet kräver ministerposter, men Socialdemokraterna tvekar. Trots att partierna står nära varandra i flera frågor finns en lång historia av misstro. – Socialdemokraternas dröm är att slippa Vänsterpartiet, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
+      "pubDate": "2026-09-26T03:37:03Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Budskap om valfusk sprids: ”Kan vara del av krigföring”",
+      "link": "https://www.sverigesradio.se/artikel/9307935",
+      "description": "I sociala medier sprids förvrängda, konspiratoriska och hatiska budskap efter valet i Sverige, bland annat kring utredningarna om valfusk. ”Den här typen av inlägg kan vara en del av en krigföring”, säger Hanna Linderstål säkerhetsexpert som analyserar sociala medier, till Ekot. Spridningen förstärks av konton internationellt, enligt experter som Ekot talat med. Det är bland annat påståenden om att \"Sverige är ett förlorat land\".",
+      "pubDate": "2026-09-26T02:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
       "title": "Fotbollarna läckte luft: ”Gick knappt att passa”",
       "link": "https://www.dn.se/sport/gick-knappt-att-passa-fotbollarna-lackte-luft/",
       "description": "Givna utgångspunkter i fotboll är att bollen är rund och allt kan hända. Men i Sveriges seger mot Rumänien stämde inte det första. Flera bollar kasserades eftersom de inte var tillräckligt pumpade. – Alltså, det gick ju knappt att passa bollen, säger Victor Nilsson Lindelöf.",
@@ -155,20 +204,6 @@
       ]
     },
     {
-      "title": "V kan stötta Norlén som talman",
-      "link": "https://www.expressen.se/nyheter/politik/v-kan-stotta-norlen-som-talman/",
-      "description": "Vänsterpartiet kan stödja Moderaternas Andreas Norlén som talman om han läggs fram som förslag, erfar Ekot .&nbsp; En källa säger att han är bra på att få till ”komplicerade regeringsbildningar”. – Han har varit talman länge för riksdagen och skött det på ett bra sätt, säger partiledare Dadgostar till TV4.",
-      "pubDate": "2026-09-25T14:27:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Ekot erfar: Vänsterpartiet överväger att stötta Norlén som talman",
       "link": "https://www.sverigesradio.se/artikel/9307795",
       "description": "Det kan bli ett dramatiskt talmansval på måndag. Enligt uppgifter till Ekot överväger Vänsterpartiet att inte ställa sig bakom Socialdemokraternas kandidat, utan i stället rösta på Andreas Norlén – om han förs fram som motkandidat från Tidösidan. Det finns ”starka sakliga skäl” att låta den nuvarande talmannen sitta kvar, säger en vänsterpartist, som tycker att Andreas Norlén på ett bra sätt har lyckats hantera komplicerade regeringsbildningar tidigare.",
@@ -217,18 +252,6 @@
       ]
     },
     {
-      "title": "Professorn om förkryssade valsedlar: ”Gränsfall”",
-      "link": "https://www.sverigesradio.se/artikel/9307474",
-      "description": "Misstankar om valfusk har väckt en hel del frågor efter valet. Bland annat har vänsterpartisten Mohamed Ali från Borlänge tagit en timeout efter misstänkt valfusk om hur han kryssats in i riksdagen. Valkansliet i Stockholms län har fått in anmälningar om personer som försökt påverka folk under röstningen, som P4 Stockholm har rapporterat om . Joakim Nergelius, professor i juridik är kritisk mot förkryssade valsedlar. ”Jag tycker att förkryssade lappar, strider mot själva idén om hur valet ska gå till”, säger professorn.",
-      "pubDate": "2026-09-25T09:51:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Sverige vill skapa ett lag som tar hand om varandra",
       "link": "https://www.dn.se/sport/sverige-vill-skapa-ett-lag-som-tar-hand-om-varandra/",
       "description": "Under Graham Potters ledning har fotbollslandslaget aldrig hållit nollan. Försvarsspelet har varit i fokus dagarna inför Nations League-premiären mot Rumänien. – Vi har jobbat på mycket bra saker och förhoppningsvis kan vi visa det i match också, säger Victor Nilsson Lindelöf.",
@@ -239,33 +262,22 @@
       "topics": [
         "MP"
       ]
-    },
-    {
-      "title": "Läsambassadören Gift Blessing vill att unga ska ”remixa” Sonja Åkesson",
-      "link": "https://www.dn.se/kultur/lasambassadoren-gift-blessing-vill-att-unga-ska-remixa-sonja-akesson/",
-      "description": "Sveriges nya läsambassadör heter Gift Blessing – rappare och självutnämnd litteraturnörd. Han drogs tidigt till teologen St Augustin och vill nå unga genom Way out west.",
-      "pubDate": "2026-09-25T08:36:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Filmlistan vecka 39: ”Resan till Piemonte” är ny på bio",
-      "link": "https://www.dn.se/kultur/filmlistan-vecka-39-resan-till-piemonte-ar-ny-pa-bio/",
-      "description": "Svensk feel good med Italien som resmål, engelsk upprorsaction i medeltidsdräkt och ett samtida franskt skilsmässodrama är nya på vita duken. DN:s filmredaktör Helena Lindblad listar de bästa filmerna på bio just nu.",
-      "pubDate": "2026-09-25T06:56:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Vänsterpartiets regeringsduglighet",
+      "link": "https://blog.zaramis.se/2026/09/26/vansterpartiets-regeringsduglighet/",
+      "description": "Många socialdemokrater deltar också i hetsen mot Vänsterpartiet men inte lika öppet och utan den rasism som präglar högerns angrepp på V. Socialdemokraterna hävdar istället att Vänsterpartiets regeringsduglighet är nåt som saknas. Det är ett mycket konstigt påstående. Läs mer … Inlägget Vänsterpartiets regeringsduglighet dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-26T05:07:50Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Råd från parterapeuten",
       "link": "https://www.dagensarena.se/opinion/rad-fran-parterapeuten/",
@@ -358,18 +370,6 @@
       ]
     },
     {
-      "title": "Alla svenska partier har dålig koll på sina listor",
-      "link": "https://blog.zaramis.se/2026/09/22/alla-svenska-partier-har-dalig-koll-pa-sina-listor/",
-      "description": "Det har uppmärksammats i media att Vänsterpartiet har dålig kontroll på sina listor. På vilka som står på listornas lägre positioner. Men det gäller säkerligen alla partier. Inte bara V. Läs mer … Inlägget Alla svenska partier har dålig koll på sina listor dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-22T07:14:47Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Vem är vänsterpartiets Mohamed Ali?",
       "link": "https://ledarsidorna.se/vem-ar-vansterpartiets-mohamed-ali/",
       "description": "Elva veckor före valet satt Vänsterpartiets blivande riksdagsledamot Mohamed Abdukardir Ali i Mogadishu och deltog i ett möte om det svenska valet och den somaliska diasporans roll. Samtidigt hade hans eget parti begränsad kunskap om vem han var samt vilka uppdrag och kontakter han hade. Den 29 juni 2026 publicerade Said Siyaad bilder från ett [&#8230;]",
@@ -415,45 +415,22 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
-      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
-      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
-      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
-      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 490 – Kartlägg människor efter deras ras.",
-      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
-      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: Dadgostar lät trött och nästan utbränd",
+      "link": "https://pod.space/kvartal/veckopanelen-dadgostar-lat-nastan-utbrand",
+      "description": "Veckopanelen med Max Jerneck, Maria Wetterstrand och Ivar Arpi under ledning av Staffan Dopping. Skakar marken under Nooshi Dadgostars fötter, och vad ska hända med Vänsterpartiets kryssraket Mohamed Ali? Misstänkt valfusk, både i Borlänge och Järva, personvalssystemet och partiernas valsedlar diskuteras intensivt, och i nästa vecka ska Magdalena Andersson berätta för en nyvald talman hur det går med regeringssonderingarna. Och vad menar kritiska medieforskare med att journalisterna var för fokuserade på regeringsfrågan och att de påverkade valutgången?",
+      "pubDate": "2026-09-26T03:40:40Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Fredagsintervjun: Dadgostar har ansträngt sig för att bli regeringsduglig",
       "link": "https://pod.space/kvartal/fredagsintervjun-bade-v-och-sd-har-anstrangt-sig-for-att-bli-regeringsdugliga",
@@ -627,19 +604,6 @@
       "topics": [
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Andersson: Hej Sverige, Kristersson: Hej då",
-      "link": "https://pod.space/kvartal/kvartal-idag-andersson-hej-sverige-kristersson-hej-da",
-      "description": "Rösträkningen är klar. Därför är ”alliansen” omöjlig för C. Går AI-hotet att bromsa? Och möt hjärnan bakom Hälleforspartiet. Programledare: Nathalie Rothschild.&nbsp;",
-      "pubDate": "2026-09-17T13:53:21Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M"
       ]
     }
   ]
