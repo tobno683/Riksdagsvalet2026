@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T09:26:47.372127Z",
+  "updated_at": "2026-09-27T14:46:27.696063Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,118 @@
   ],
   "news": [
     {
+      "title": "Hur kunde Lars Leijonborg kryssas in i Malmö?",
+      "link": "https://www.sverigesradio.se/artikel/9308330",
+      "description": "Det finns inget krav på att partier måste ha lokala namn på sina valsedlar till riksdagen, trots att många väljare förväntar sig det. Enligt Jenny Madestam bygger den lokala representationen främst på praxis, medan Pontus Mattsson pekar på att partier också kan ställa upp med särskilda rikslistor. Just en sådan lista i Malmö bidrog till att Lars Leijonborg kunde ta plats före lokala kandidater. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om valet.",
+      "pubDate": "2026-09-27T14:45:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Hur vet man att det är valfusk?",
+      "link": "https://www.sverigesradio.se/artikel/9308327",
+      "description": "En lyssnare undrar hur man vet att det är valfusk och en annan om det är okej att dela ut förkryssade valsedlar. Utfallet på valet av ett eventuellt valfusk, avgörs av Valprövningsnämnden som är utsedd av riksdagen. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om det misstänka valfusket.",
+      "pubDate": "2026-09-27T14:44:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Varför vill C inte samarbeta med V?",
+      "link": "https://www.sverigesradio.se/artikel/9308326",
+      "description": "Centerpartiet vill inte ens diskutera samarbete med Vänsterpartiet, främst på grund av stora skillnader i ekonomisk politik. Motståndet bygger också på en långvarig misstro mot Vänsterpartiets kommunistiska förflutna och partiets tidigare säkerhetspolitiska ställning. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om regeringsbildningen",
+      "pubDate": "2026-09-27T14:44:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Hur väljs talmannen och vad är talmannens roll?",
+      "link": "https://www.sverigesradio.se/artikel/9308322",
+      "description": "I morgon söndag väljer riksdagen talman, men ännu är det oklart vem partierna tänker stödja i den slutna omröstningen. Socialdemokraterna vill se en socialdemokrat på posten, medan Vänsterpartiet öppnat för att stödja nuvarande talmannen Andreas Norlén om Moderaterna nominerar honom. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om talmannens roll.",
+      "pubDate": "2026-09-27T14:44:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "När måste en regeringsbildning vara klar?",
+      "link": "https://www.sverigesradio.se/artikel/9308320",
+      "description": "Regeringsbildningen efter valet kan i teorin dra ut på tiden ända till nästa val. Just nu sonderar Magdalena Andersson möjligheterna att bilda regering, och talmannen kan ge flera sonderingsuppdrag innan riksdagen röstar om en statsminister. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om regeringsbildningen",
+      "pubDate": "2026-09-27T14:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Näringslivet sätter press på C  – ”Orolig för giftig cocktail”",
+      "link": "https://www.svt.se/nyheter/inrikes/naringslivet-satter-press-pa-c-orolig-for-giftig-cocktail",
+      "description": "Företag och intresseorganisationer ökar nu pressen på Centerpartiet. Målet: att C ska stoppa de andra rödgröna partiernas vallöften om skattehöjningar och slopat karensavdrag. – Jag tror på Centerpartiet, och jag tror och hoppas att de kommer vara tuffa förhandlare, säger Johan Andersson, som leder företagsgruppen Mellby gård, till SVT:s Agenda.",
+      "pubDate": "2026-09-27T14:24:18Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Liberalernas lokala bakslag i valet blir ekonomisk smäll",
+      "link": "https://www.dn.se/sverige/liberalernas-lokala-bakslag-i-valet-blir-ekonomisk-small/",
+      "description": "UPPSALA. Jubel och lättnad över riksdagsvalet. Sorg och besvikelse över vad som händer i regioner och på kommunnivå. För Liberalerna är det en ekonomisk smäll att röstas bort från regionpolitiken. Hur ska partiet komma tillbaka?",
+      "pubDate": "2026-09-27T11:06:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Pontus Mattsson: Förhandlingarna verkar vara otroligt låsa",
+      "link": "https://www.sverigesradio.se/artikel/9308279",
+      "description": "Enligt uppgifter till flera medier ska S och V mötas på söndagen. På måndagen ska en ny talman väljas i riksdagen och på söndagseftermiddagen väntas partier lämna in sina nomineringar till talman. ”Förhandlingarna verkar vara otroligt låsta”, säger Ekots politikreporter Pontus Mattsson. Hör honom berätta mer om regeringsbildningen och utredningar om misstänkt valfusk.",
+      "pubDate": "2026-09-27T10:54:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Mattsson om V och talmansvalet: ”En otrolig krigsförklaring”",
+      "link": "https://www.sverigesradio.se/artikel/9308258",
+      "description": "Läget kring regeringsbildningen präglas fortfarande av låsningar och ovisshet. Enligt Ekots inrikespolitiske reporter Pontus Mattsson kommer Socialdemokraterna och Vänsterpartiet med olika uppgifter om hur samtalen hittills sett ut. Även kring måndagens talmansval i riksdagen råder det oklarheter, där det ryktas om att Vänsterpartiet kommer rösta ner Socialdemokraternas kandidat.",
+      "pubDate": "2026-09-27T09:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Insändare. Döm inte de inblandade i Borlänge för hårt",
       "link": "https://www.dn.se/insandare/dom-inte-de-inblandade-i-borlange-for-hart/",
       "description": "INSÄNDARE. Det är inte alls underligt att Tidöpartiernas utvisningspolitik fått påtaglig effekt på Vänsterpartiets röstandel i invandrartäta områden. Döm därför inte de inblandade för hårt, skriver Louise Lotta Ålund, tidigare skolsköterska på Tjärnaskolan i Borlänge.",
@@ -88,19 +200,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Elisabeth Thand Ringqvist om regeringsbildningen",
-      "link": "https://www.expressen.se/nyheter/politik/elisabeth-thand-ringqvist-om-regeringsbildningen/",
-      "description": "Regeringsförhandlingarna går trögt.&nbsp; Nu ger C-ledaren Elisabeth Thand Ringqvist sin syn på vad som är viktigt på Centerpartiet.&nbsp;",
-      "pubDate": "2026-09-27T04:16:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
       ]
     },
     {
@@ -127,20 +226,6 @@
       "topics": []
     },
     {
-      "title": "Uppgifter: Andersson och Dadgostar ska ha möte",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-andersson-och-dadgostar-ska-ha-mote/",
-      "description": "S är irriterade och anklagar V för att ducka möten kring regeringsbildningen.&nbsp; Men under söndagen planeras ett hemligt möte mellan Magdalena Andersson och Nooshi Dadgostar, rapporterar Aftonbladet .&nbsp; – Nu är det ett möte på partiledarnivå planerat, säger en, enligt tidningen, högt uppsatt V-källa.",
-      "pubDate": "2026-09-26T21:58:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Uppgifter: S och V planerar att träffas på söndag",
       "link": "https://www.dn.se/sverige/uppgifter-s-och-v-planerar-att-traffas-pa-sondag/",
       "description": "Källor i S och V har under dagen gett olika besked om varför partierna inte har träffats under veckan. Samtidigt närmar sig deadline för de rödgröna att nominera sin talmanskandidat, och V har öppnat för att rösta på Tidösidans Andreas Norlén. Nu uppger en V-källa för Aftonbladet att ett möte på partiledarnivå planeras till söndagen.",
@@ -149,19 +234,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Uppgift: Andersson och Dadgostar träffas i morgon",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=eb991009-02c1-4cde-a37d-6e83917dc0d2",
-      "description": "Partiledarna ska ses, enligt Aftonbladet",
-      "pubDate": "2026-09-26T20:36:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
     },
     {
       "title": "Uppgifter: Stefan Löfven dödshotad",
@@ -176,18 +248,6 @@
       ]
     },
     {
-      "title": "”Heta linjen” öppnas mellan Kina och USA",
-      "link": "https://www.sverigesradio.se/artikel/9308143",
-      "description": "Kina och USA har enats om att inrätta en ny direktkommunikation, en så kallad ”heta linjen”, för incidenter kopplade till AI. Det är ett av resultaten av det kinesiska statsbesöket i Washington. Tanken är att Washington och Peking ska kunna nå varandra i krissituationer ”, säger Sveriges Radios korrespondent Ginna Lindberg. Toppmötet handlade mer om relationen mellan USA och Kina, än om att lösa de många svåra knäckfrågorna, exempelvis Kinas relation till Taiwan, enligt Lindberg.",
-      "pubDate": "2026-09-26T15:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "C nobbar SD-toppens invit: ”Röda linjen ligger fast”",
       "link": "https://www.svt.se/nyheter/inrikes/c-nobbar-sd-toppens-invit-roda-linjen-ligger-fast",
       "description": "Sverigedemokraterna lever på hoppet om att man på något sätt ska kunna locka över Centerpartiet till tidösidan av politiken. Men den nygamla riksdagsledamoten Birgitta Ohlsson (C) stänger dörren. – Den röda linjen ligger väldigt fast, säger hon.",
@@ -198,67 +258,6 @@
       "topics": [
         "SD",
         "C"
-      ]
-    },
-    {
-      "title": "Norrlandspartiets succéval – kräver självstyre i norr",
-      "link": "https://www.dn.se/sverige/norrlandspartiets-succeval-kraver-sjalvstyre-i-norr/",
-      "description": "Norrlandspartiet jämför Norrland med en koloni och kämpar för ökat självstyre. Ett budskap som gick hem i Västernorrland. Partiet blev Sveriges största nya parti i valet. – Norrland har börjat resa sig, säger Elina Arab (NorrP), partiordförande på en presskonferens.",
-      "pubDate": "2026-09-26T14:40:29Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Birgitta Ohlsson (C): Då blir jag vilde",
-      "link": "https://www.sverigesradio.se/artikel/9308138",
-      "description": "Om Centerpartiet sviker sitt vallöfte om röda linjer mot SD, då kommer riksdagsledamoten Birgitta Ohlsson att bli politisk vilde, rapporterar Expressen . Ohlsson som tidigare varit ett av Liberalernas främsta namn, gick tidigare i år över till Centerpartiet, efter att hennes tidigare parti börjat samarbeta med Sverigedemokraterna. Hon säger till Expressen att hon engagerat sig i Centern för att hon tycker att det är viktigt att hålla ytterkanterna borta från svensk politik.",
-      "pubDate": "2026-09-26T14:35:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "Nya riksdagen – partiet med flest nykomlingar",
-      "link": "https://www.svt.se/nyheter/inrikes/nya-riksdagen-partiet-med-flest-nykomlingar",
-      "description": "Drygt en fjärdedel av ledamöterna är nya när den nyvalda riksdagen samlas på måndag. Störst andel nykomlingar har Vänsterpartiet (V).",
-      "pubDate": "2026-09-26T04:31:57Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Partiledarna stod i kö för att träffa dem – nu är ungdomsledarna häktade för förskingring",
-      "link": "https://www.dn.se/sverige/partiledarna-stod-i-ko-for-att-traffa-dem-nu-ar-ungdomsledarna-haktade-for-forskingring/",
-      "description": "MALMÖ. Stefan Löfven och Ulf Kristersson kom på besök. Föreningens ledare bjöds till regeringskansliet, riksdagen och kungliga slottet. Rikspolischefen och ministrar hälsade på och de fick priser av polisen och Malmö stad. Nu sitter den hyllade organisationen Flammans båda grundare häktade misstänkta för att ha stoppat delar av runt 130 miljoner i offentliga bidrag i egen ficka.",
-      "pubDate": "2026-09-26T04:13:14Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Knutson: ”S dröm är att slippa V”",
-      "link": "https://www.svt.se/nyheter/inrikes/knutson-s-drom-ar-att-slippa-v",
-      "description": "Vänsterpartiet kräver ministerposter, men Socialdemokraterna tvekar. Trots att partierna står nära varandra i flera frågor finns en lång historia av misstro. – Socialdemokraternas dröm är att slippa Vänsterpartiet, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
-      "pubDate": "2026-09-26T03:37:03Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     }
   ],
