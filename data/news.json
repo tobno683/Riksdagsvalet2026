@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T18:43:40.042424Z",
+  "updated_at": "2026-09-27T21:42:29.666538Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,10 +79,75 @@
   ],
   "news": [
     {
+      "title": "Vänsterpartiet kommer rösta på Andreas Norlén (M) som talman",
+      "link": "https://www.sverigesradio.se/artikel/9308387",
+      "description": "Vänsterpartiet kommer att rösta på Moderaternas Andreas Norlén som talman, trots att partiet vill bilda regering med Socialdemokraterna som vill se en egen kandidat. ”Han har erfarenheten av att vara talman och av att lotsa oss igenom det här tidigare. Han har fått både Stefan Löfven och Magdalena Andersson valda och han kan ha lite mer distans till situationen i det här låsta läget”, säger Vänsterpartiets vice ordförande Ida Gabrielsson. Beskedet ger Norlén majoritet redan före omröstningen, eftersom han redan stöttas av alla fyra Tidöpartier.",
+      "pubDate": "2026-09-27T21:18:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Tidigare statssekreteraren: V:s besked upplevs som en krigsförklaring",
+      "link": "https://www.dn.se/sverige/tidigare-statssekreteraren-vs-besked-upplevs-som-en-krigsforklaring/",
+      "description": "Vänsterpartiets vice ordförande Ida Gabrielsson meddelade i SVT:s Agenda på söndagskvällen att de ställer sig bakom Andreas Norlén i måndagens talmansomröstning. Efter beskedet säger den tidigare socialdemokratiska statssekreteraren Irene Wennemo att V:s beslut kommer att upplevas som en krigsförklaring av S.",
+      "pubDate": "2026-09-27T20:53:16Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "V kommer att rösta på Andreas Norlén som talman",
+      "link": "https://www.svt.se/nyheter/inrikes/v-vill-se-andreas-norlen-som-talman",
+      "description": "Vänsterpartiet kommer att rösta på Andreas Norlén när riksdagen väljer ny talman på måndag. Det säger vice partiledare Ida Gabrielsson i SVT:s Agenda. – Det kan ta lång tid för Sverige att få en regering och då tror vi att vi behöver stabilitet i riksdagen. Därför kommer vi att lägga vår röst på Andreas Norlén, säger hon.",
+      "pubDate": "2026-09-27T20:42:23Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Statsvetaren om V:s stöd för Norlén: ”Visar att man menar allvar”",
+      "link": "https://www.sverigesradio.se/artikel/9308376",
+      "description": "Vänsterpartiet ställer sig bakom Moderaternas nominering Andreas Norlén som talman. Det klargjorde vice ordförande Ida Gabrielsson i SVT:s Agenda under söndagskvällen. ”Det kan ta lång tid att Sverige får en regering och då tror vi att vi behöver en stabilitet och en fast punkt i regeringen”, sa hon. ”Nu vill man visa att man menar allvar med att man ska sitta i regering”, säger Jenny Madestam, statsvetare vid Södertörns högskola.",
+      "pubDate": "2026-09-27T20:28:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Raseri inom S  efter V:s maktdrag",
+      "link": "https://www.expressen.se/nyheter/sverige/raseri-inom-s--efter-vs-maktdrag/",
+      "description": "Att Vänsterpartiet nu drar undan den efterlängtade talmansstolen från Socialdemokraterna har skapat ilska i S-ledningen, uppger partikällor för Expressen.&nbsp; – Det kommer ju upplevas som en krigsförklaring, säger Irene Wennemo (S), tidigare statssekreterare i SVT:s ”Agenda”.&nbsp;",
+      "pubDate": "2026-09-27T20:23:33Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
       "title": "Afrikavärmen slår till i Sverige",
       "link": "https://www.expressen.se/nyheter/sverige/afrikavarmen-slar-till-i-sverige/",
       "description": "Sensommaren är inte riktigt redo att släppa taget. I veckan kommer solen tillsammans med den nordafrikanska värmen – och bjuder på höga temperaturer. – Det är snudd på rekordvarmt, säger Katarina Andersson på SMHI.",
-      "pubDate": "2026-09-27T18:21:56Z",
+      "pubDate": "2026-09-27T20:13:03Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -91,7 +156,107 @@
       ]
     },
     {
-      "title": "Hans Rosén: Maktspel gör talmansvalet till en rysare",
+      "title": "V: Hade hellre sett Kajsa Fredholm i riksdagen",
+      "link": "https://www.expressen.se/nyheter/politik/v-hade-hellre-sett-kajsa-fredholm-i-riksdagen/",
+      "description": "Mohamed Ali kryssade sig förbi Vänsterpartiets klimatpolitiska talesperson Kajsa Fredholm. Men partiet hade hellre sett Fredholm i riksdagen, menar V-toppen Ida Gabrielsson. – Man hade så klart helst fått sin person invald, säger hon i SVT:s ”Agenda.”",
+      "pubDate": "2026-09-27T20:11:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ledarskribenten Jonna Sima: ”Jag blir otroligt trött”",
+      "link": "https://www.sverigesradio.se/artikel/9308377",
+      "description": "Jonna Sima, ledarskribent på Aftonbladets oberoende socialdemokratiska ledarsida, reagerar med trötthet på Vänsterpartiets besked att ställa sig bakom Moderaternas val av talman. ”Det är ett politiskt spel”, säger hon. Adam Cwejman, politisk redaktör på liberala Göteborgs-Posten, tror att Centerpartiet nu kommer att sätta sig i en regering med Vänsterpartiet, trots att de tidigare har sagt nej till detta. ”Centerpartiet kommer att nötas ner för de inser att de vinner inte så mycket på att vara emot Vänsterpartiet”, säger han.",
+      "pubDate": "2026-09-27T20:11:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Det rödgröna bråket är över – nu är det krig",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/det-rodgrona-braket-ar-over-nu-ar-det-krig/",
+      "description": "Vänsterpartiet kommer att stödja moderaten Andreas Norlén som talman när riksdagen öppnar på måndagen. Beskedet i SVT:s Agenda var sämsta tänkbara start på Magdalena Anderssons mandatperiod – men det kan bli värre.",
+      "pubDate": "2026-09-27T20:03:18Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "V-toppen om delfinbilden: ”Det var inte Nooshi”",
+      "link": "https://www.expressen.se/nyheter/politik/v-toppen-om-delfinbilden-det-var-inte-nooshi/",
+      "description": "När Sverige sökte svar från V-ledaren Nooshi Dadgostar om misstänkta valfusket delade hon en bild på Instagram på två delfiner.&nbsp; Partiets viceordförande, Ida Gabrielsson, skyller inlägget på en kommunikatör.&nbsp; – Det förstår nog alla, att en kommunikatör delade detta. Det var inte Nooshi som lade ut delfinerna, säger hon i Agenda.&nbsp;",
+      "pubDate": "2026-09-27T19:49:14Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "V stöder Andreas Norlén som talman",
+      "link": "https://www.dn.se/sverige/v-stoder-andreas-norlen-som-talman/",
+      "description": "På måndag väljer riksdagen talman. Socialdemokraterna har ännu inte nominerat en kandidat, medan Moderaterna vill se Andreas Norlén fortsätta på posten. I SVT:s Agenda säger Vänsterpartiets vice ordförande Ida Gabrielsson att de kommer att ställa sig bakom Andreas Norlén.",
+      "pubDate": "2026-09-27T19:39:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "V: Kommer rösta för  Norlén som talman",
+      "link": "https://www.expressen.se/nyheter/politik/v-kommer--rosta-norlen-som-talman/",
+      "description": "Vänsterpartiet kommer rösta på Andreas Norlén (M) som talman i morgon.&nbsp; Det berättar vice partiledare Ida Gabrielsson i SVT:s ”Agenda”.&nbsp; – Vi är tydliga på vilken sida vi står, säger hon.&nbsp;",
+      "pubDate": "2026-09-27T19:37:48Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "V väljer Norlén som talman",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=0a22a2f6-bd0f-4dcd-8c3b-6f8e3c3acffd",
+      "description": "Vänsterpartiets besked",
+      "pubDate": "2026-09-27T19:18:14Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "27 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/sverige/27-september-missa-inte-dagens-nyheter/",
+      "description": "Andreas Norlén nominerad i talmansvalet, de säljer sina ägg till barnlösa svenskar och Stefan Holm ångerfull efter attacken vid Bokmässan – här är nyheterna du inte får missa från dagen.",
+      "pubDate": "2026-09-27T18:57:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Hans Rosén: Maktspel med höga insatser inför talmansvalet",
       "link": "https://www.dn.se/sverige/hans-rosen-maktspel-gor-talmansvalet-till-en-rysare/",
       "description": "Måndagens talmansval har utvecklats till ett maktspel mellan blocken, men också inom Magdalena Anderssons tänkta regeringsunderlag. Vem det än blir som vinner valet så väntar en uppgift väl så svår som den talmannen ställdes inför 2018.",
       "pubDate": "2026-09-27T18:02:30Z",
@@ -100,162 +265,6 @@
       "sourceType": "news",
       "topics": [
         "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Andreas Johansson Heinö: Nu kan mytbildningen kring SD äntligen få ett slut",
-      "link": "https://www.dn.se/ledare/andreas-johansson-heino-nu-kan-mytbildningen-kring-sd-antligen-fa-ett-slut/",
-      "description": "Sverigedemokraternas snabba tillväxtfas slutade för mer än ett decennium sedan. Först nu är det på väg att sjuka in. Partiet står inför ett vägval. KOLUMNEN. Andreas Johansson Heinö är doktor i statsvetenskap, förläggare vid Timbro förlag och fristående kolumnist på DN:s ledarsida.",
-      "pubDate": "2026-09-27T17:31:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Moderaterna nominerar Andreas Norlén till talmansvalet",
-      "link": "https://www.expressen.se/nyheter/politik/moderaterna-nominerar-andreas-norlen-till-talmansvalet/",
-      "description": "Måndagens talmansomröstning kan bli oerhört dramatisk. Nu har dagens talman Andreas Norlén nominerats till posten igen.",
-      "pubDate": "2026-09-27T16:17:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "M nominerar Norlén till talman",
-      "link": "https://www.svt.se/nyheter/inrikes/m-nominerar-norlen-till-talman",
-      "description": "Moderaterna meddelade i dag att de nominerar Andreas Norlén till talman i Sveriges riksdag. – Vi upplever att han har ett brett stöd bland riksdagens partier, säger Mattias Karlsson (M), gruppledare, till SVT.",
-      "pubDate": "2026-09-27T15:47:04Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "M nominerar Norlén som talman – SD, KD och L ställer sig bakom",
-      "link": "https://www.dn.se/sverige/m-nominerar-norlen-som-talman-sd-kd-och-l-staller-sig-bakom/",
-      "description": "Tidöpartierna vill behålla Andreas Norlén som riksdagens talman, meddelar man på söndagen. Från oppositionen är det fortsatt tyst, samtidigt som V och S uppges hålla möte under dagen.",
-      "pubDate": "2026-09-27T15:25:51Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Moderaterna nominerar Andreas Norlén till talman",
-      "link": "https://www.sverigesradio.se/artikel/9308336",
-      "description": "Moderaterna nominerar Andreas Norlén till posten som riksdagens talman, det har partiets riksdagsgrupp beslutat på ett möte under söndagen. ”Det är viktigt med en talman med erfarenhet under oroliga tider och ett svårt parlamentariskt läge”, säger partiets gruppledare i en kommentar till Ekot. Det är fortfarande oklart vem Socialdemokraterna kommer att nominera.",
-      "pubDate": "2026-09-27T14:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Hur kunde Lars Leijonborg kryssas in i Malmö?",
-      "link": "https://www.sverigesradio.se/artikel/9308330",
-      "description": "Det finns inget krav på att partier måste ha lokala namn på sina valsedlar till riksdagen, trots att många väljare förväntar sig det. Enligt Jenny Madestam bygger den lokala representationen främst på praxis, medan Pontus Mattsson pekar på att partier också kan ställa upp med särskilda rikslistor. Just en sådan lista i Malmö bidrog till att Lars Leijonborg kunde ta plats före lokala kandidater. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om valet.",
-      "pubDate": "2026-09-27T14:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Hur vet man att det är valfusk?",
-      "link": "https://www.sverigesradio.se/artikel/9308327",
-      "description": "En lyssnare undrar hur man vet att det är valfusk och en annan om det är okej att dela ut förkryssade valsedlar. Utfallet på valet av ett eventuellt valfusk, avgörs av Valprövningsnämnden som är utsedd av riksdagen. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om det misstänka valfusket.",
-      "pubDate": "2026-09-27T14:44:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Varför vill C inte samarbeta med V?",
-      "link": "https://www.sverigesradio.se/artikel/9308326",
-      "description": "Centerpartiet vill inte ens diskutera samarbete med Vänsterpartiet, främst på grund av stora skillnader i ekonomisk politik. Motståndet bygger också på en långvarig misstro mot Vänsterpartiets kommunistiska förflutna och partiets tidigare säkerhetspolitiska ställning. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om regeringsbildningen",
-      "pubDate": "2026-09-27T14:44:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Hur väljs talmannen och vad är talmannens roll?",
-      "link": "https://www.sverigesradio.se/artikel/9308322",
-      "description": "I morgon söndag väljer riksdagen talman. Socialdemokraterna vill se en socialdemokrat på posten, medan Vänsterpartiet öppnat för att stödja nuvarande talmannen Andreas Norlén. Vilken partifärg talmannen har ska dock inte göra någon skillnad för hur talmannen jobbar. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om talmannens roll.",
-      "pubDate": "2026-09-27T14:44:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "När måste en regeringsbildning vara klar?",
-      "link": "https://www.sverigesradio.se/artikel/9308320",
-      "description": "Regeringsbildningen efter valet kan i teorin dra ut på tiden ända till nästa val. Just nu sonderar Magdalena Andersson möjligheterna att bilda regering, och talmannen kan ge flera sonderingsuppdrag innan riksdagen röstar om en statsminister. Hör Ekots Pontus Matsson och Jenny Madestam, docent i statsvetenskap vid Södertörns högskola, svara på lyssnarnas frågor om regeringsbildningen",
-      "pubDate": "2026-09-27T14:43:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Näringslivet sätter press på C  – ”Orolig för giftig cocktail”",
-      "link": "https://www.svt.se/nyheter/inrikes/naringslivet-satter-press-pa-c-orolig-for-giftig-cocktail",
-      "description": "Företag och intresseorganisationer ökar nu pressen på Centerpartiet. Målet: att C ska stoppa de andra rödgröna partiernas vallöften om skattehöjningar och slopat karensavdrag. – Jag tror på Centerpartiet, och jag tror och hoppas att de kommer vara tuffa förhandlare, säger Johan Andersson, som leder företagsgruppen Mellby gård, till SVT:s Agenda.",
-      "pubDate": "2026-09-27T14:24:18Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Liberalernas lokala bakslag i valet blir ekonomisk smäll",
-      "link": "https://www.dn.se/sverige/liberalernas-lokala-bakslag-i-valet-blir-ekonomisk-small/",
-      "description": "UPPSALA. Jubel och lättnad över riksdagsvalet. Sorg och besvikelse över vad som händer i regioner och på kommunnivå. För Liberalerna är det en ekonomisk smäll att röstas bort från regionpolitiken. Hur ska partiet komma tillbaka?",
-      "pubDate": "2026-09-27T11:06:28Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Pontus Mattsson: Förhandlingarna verkar vara otroligt låsa",
-      "link": "https://www.sverigesradio.se/artikel/9308279",
-      "description": "Enligt uppgifter till flera medier ska S och V mötas på söndagen. På måndagen ska en ny talman väljas i riksdagen och på söndagseftermiddagen väntas partier lämna in sina nomineringar till talman. ”Förhandlingarna verkar vara otroligt låsta”, säger Ekots politikreporter Pontus Mattsson. Hör honom berätta mer om regeringsbildningen och utredningar om misstänkt valfusk.",
-      "pubDate": "2026-09-27T10:54:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "Regeringsbildning"
       ]
     }
