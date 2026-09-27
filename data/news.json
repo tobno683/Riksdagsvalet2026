@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T03:28:35.934606Z",
+  "updated_at": "2026-09-27T09:26:47.372127Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,44 @@
   ],
   "news": [
     {
+      "title": "Insändare. Döm inte de inblandade i Borlänge för hårt",
+      "link": "https://www.dn.se/insandare/dom-inte-de-inblandade-i-borlange-for-hart/",
+      "description": "INSÄNDARE. Det är inte alls underligt att Tidöpartiernas utvisningspolitik fått påtaglig effekt på Vänsterpartiets röstandel i invandrartäta områden. Döm därför inte de inblandade för hårt, skriver Louise Lotta Ålund, tidigare skolsköterska på Tjärnaskolan i Borlänge.",
+      "pubDate": "2026-09-27T08:15:20Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Elisabeth Thand Ringqvist om regeringsbildningen",
+      "link": "https://www.expressen.se/nyheter/politik/elisabeth-thand-ringqvist-om-regeringsbildningen/",
+      "description": "Regeringsförhandlingarna går trögt.&nbsp; Nu ger C-ledaren Elisabeth Thand Ringqvist sin syn på vad som är viktigt på Centerpartiet.&nbsp;",
+      "pubDate": "2026-09-27T04:16:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ledare: Magdalena Andersson kan inte vänta på Vänsterpartiet",
+      "link": "https://www.dn.se/ledare/magdalena-andersson-kan-inte-vanta-pa-vansterpartiet/",
+      "description": "Först vägrade vänsterpartisterna att gå på möten med S, C och MP där sakpolitik ska diskuteras. Nu vågar de sig knappt ut från partikansliet. S-ledaren måste börja utan dem.",
+      "pubDate": "2026-09-27T04:13:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
       "title": "Nästan 100 partier fick färre än 100 röster: ”Viktiga för demokratin”",
       "link": "https://www.sverigesradio.se/artikel/9306833",
       "description": "Sverige har långt fler partier än de åtta i riksdagen, och i senaste valet fick nästan hundra småpartier färre än hundra röster. Ett av partierna, 99 svarta ballonger , vill lyfta fram konstens betydelse, medan partiet Johannes med extra älg vill ha bättre godis och beskriver sig självt som ett skämtparti. För det demokratiska systemet är det viktigt att vi har en låg tröskel, säger statsvetaren Josefine Eriksson, som menar att små partier kan driva en fråga och fånga missnöje.",
@@ -126,19 +164,6 @@
       ]
     },
     {
-      "title": "V-ilskan mot S: ”Tragiskt”",
-      "link": "https://www.expressen.se/nyheter/politik/v-ilskan-mot-s-tragiskt/",
-      "description": "Socialdemokraterna är irriterade på Vänsterpartiet.&nbsp; Det gör Vänsterpartiet irriterade på Socialdemokraterna. ”S har inte gjort något för att få tillstånd en förhandling”, skriver V-toppen Anna Herdy.",
-      "pubDate": "2026-09-26T19:46:03Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
       "title": "Uppgifter: Stefan Löfven dödshotad",
       "link": "https://www.svt.se/nyheter/inrikes/uppgifter-stefan-lofven-dodshotad",
       "description": "Sveriges tidigare statsminister Stefan Löfven (S) ska ha blivit dödshotad i Varberg, enligt uppgifter till Aftonbladet.",
@@ -148,31 +173,6 @@
       "sourceType": "news",
       "topics": [
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S anklagar V för att ha gått och gömt sig",
-      "link": "https://www.expressen.se/nyheter/politik/s-anklagar-v-for-att-ha-gatt-och-gomt-sig/",
-      "description": "Socialdemokraterna hävdar att de i en veckas tid har försökt få till ett möte med Vänsterpartiet – utan att ens få ett svar. – Det är faktiskt oerhört frustrerande, säger en centralt placerad källa inom S.",
-      "pubDate": "2026-09-26T17:15:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Aktivist utsläpad från Bokmässan",
-      "link": "https://www.expressen.se/nyheter/sverige/aktivist-utslapad-fran-bokmassan/",
-      "description": "Plötsligt rusade en aktivist in till Vänskapsförbundet Sverige-Israels monter på Bokmässan i Göteborg – och kastade rödfärg på israeliska flaggan.&nbsp; Han skrek sedan om folkmord medan han släpades bort av poliser och vakter.&nbsp; – Jag ogillar det djupt, säger Widar Andersson, som fick sitt tal avbrutet.&nbsp;",
-      "pubDate": "2026-09-26T15:58:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -331,19 +331,6 @@
       ]
     },
     {
-      "title": "Klart att det bedrivits personvalskampanj i Borlänge",
-      "link": "https://blog.zaramis.se/2026/09/24/klart-att-det-bedrivits-personvalskampanj-i-borlange/",
-      "description": "Det är klart att det bedrivits personvalskampanj i Borlänge för två personer på vänsterpartiets lista. Det handlar om Mohamed Abdukardir Ali på riksdagslistan och Ahmed Abas Omar på kommunlistan. Dessutom har det av allt att döma också bedrivit personvalskampanj för socialdemokraten Maslah Omar Ahmed. Den sistnämnde har fått nästan alla sina personröster i riksdagsvalet i Borlänge. Läs mer … Inlägget Klart att det bedrivits personvalskampanj i Borlänge dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-24T05:57:00Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
       "title": "Besök på somalisk ministernivå i Borlänge",
       "link": "https://ledarsidorna.se/besok-pa-somalisk-ministerniva-i-borlange/",
       "description": "Vänsterpartiets nyvalde riksdagsledamot Mohamed Abdukardir Ali visar sig komma från, eller stå nära, ett speciellt maktkluster i den somaliska politiska miljön. En miljö med goda kontakter inom den somaliska säkerhetstjänsten som genomfört besök i Borlänge på ministernivå vid minst två tillfällen under den förra mandatperioden. Den somaliska föreningen Tayo i Borlänge utgör en form av [&#8230;]",
@@ -365,18 +352,6 @@
       "sourceType": "blog",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Ännu inget bevisat valfusk i Borlänge",
-      "link": "https://blog.zaramis.se/2026/09/23/annu-inget-bevisat-valfusk-i-borlange/",
-      "description": "Anklagelser om valfusk har framförst vad det gäller personröstningen på en vänsterpartist i Borlänge. Mannen som heter Mohamed Abdukardir Ali fick 648 personröster i Dalarna. Det förde upp honom till toppen av Vänsterpartiets kandidater i länet och till en plats i riksdagen. 333 av personrösterna var från Borlänge och 149 från Tjärna ängar, det bostadsområde där Ali bor och där han är en välkänd person. Läs mer … Inlägget Ännu inget bevisat valfusk i Borlänge dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-23T06:48:42Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -428,6 +403,26 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Inläst: Valet med det lilla extra",
+      "link": "https://pod.space/kvartal/inlast-valet-med-det-lilla-extra",
+      "description": "Det har blivit ett politiskt och medialt tema som plockas fram i tid och otid, så ock denna gång. Men historien lär oss att det så gott som aldrig blir extraval. Det är nästan lika osannolikt som att ett parti åker ur riksdagen. Av Staffan Dopping Inläsare: Staffan Dopping",
+      "pubDate": "2026-09-27T04:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
+    {
+      "title": "Djupet: Spökhusen i Ställdalen",
+      "link": "https://pod.space/kvartal/djupet-spokhusen-i-stalldalen",
+      "description": "Två veckor efter valet har Djupet åkt till Ljusnarsberg, en av Sveriges kommuner med de allra fattigaste invånarna, där en av tio har skulder hos Kronofogden, där utflyttningen är stor och där de som stannar kvar och jobbar får försörja allt fler äldre. Och där den stora huvudvärken för lokalpolitikerna sedan flera är de rikskända spökhusen i Ställdalen, och att orten blivit känd för så kallad vandaliseringsturism. Vad säger politiker och de som bor här om vad de hoppas på efter valet?",
+      "pubDate": "2026-09-27T04:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
     {
       "title": "Veckopanelen: Dadgostar lät trött och nästan utbränd",
       "link": "https://pod.space/kvartal/veckopanelen-dadgostar-lat-nastan-utbrand",
@@ -589,31 +584,6 @@
       "sourceType": "podcast",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Inläst: Därför är Miljöpartiet alltid kung i Stockholm",
-      "link": "https://pod.space/kvartal/inlast-darfor-ar-miljopartiet-alltid-kung-i-stockholm",
-      "description": "I tolv år har Miljöpartiet haft makten Stockholms stad i olika konstellationer. Under den tiden har cykelbanorna blivit fler och luften friskare. Samtidigt finns en konflikt mellan huvudstadens invånare och de mer bilberoende kranskommunerna. Stockholm illustrerar en märklig europeisk paradox: De gröna partierna är som starkast där miljön redan är som bäst. Av Jonas A Eriksson Inläsare: Cassandra Alm",
-      "pubDate": "2026-09-18T04:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "S jublar – men Tidöpartierna har inte gett upp",
-      "link": "https://pod.space/alskadepolitik/s-jublar-men-tidopartierna-har-inte-gett-upp",
-      "description": "Rösterna är räknade och nu inleds dramat med regeringsbildningen. Kommer Centerpartiet att bli ”nej-drottning” igen?",
-      "pubDate": "2026-09-17T14:54:26Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "C",
-        "Regeringsbildning"
       ]
     }
   ]
