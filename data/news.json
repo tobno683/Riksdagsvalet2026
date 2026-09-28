@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T05:37:31.569859Z",
+  "updated_at": "2026-09-28T12:10:11.702069Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,186 +79,235 @@
   ],
   "news": [
     {
-      "title": "Riksdagen väljer ny talman – det här gäller",
-      "link": "https://www.svt.se/nyheter/inrikes/riksdagen-valjer-ny-talman-det-har-galler",
-      "description": "Nu samlas riksdagen för första gången efter valet och ska utse ny talman. Andreas Norlén (M) är hittills den enda nominerade kandidaten.",
-      "pubDate": "2026-09-28T05:32:02Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kalena: Jag vill tacka både Miljöpartiet och Sverigedemokraterna",
-      "link": "https://www.dn.se/kultur/kalena-jag-vill-tacka-bade-miljopartiet-och-sverigedemokraterna/",
-      "description": "Kalena söker efter minsta gemensamma nämnaren i politiken. Hon hittar två skäl att simma lugnt.",
-      "pubDate": "2026-09-28T05:30:00Z",
+      "title": "Insändare. Låt gamla Alliansen bilda regering med Miljöpartiet",
+      "link": "https://www.dn.se/insandare/lat-gamla-alliansen-bilda-regering-med-miljopartiet/",
+      "description": "INSÄNDARE. En mittenregering med fem icke-socialistiska partier skulle kunna stänga ut ytterkantspartier från inflytande. Det skulle visserligen bli en minoritetsregering, men sannolikt skulle Socialdemokraterna i många fall rösta med en sådan regering, skriver Marietta Larsen.",
+      "pubDate": "2026-09-28T11:16:54Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "SD",
+        "S",
         "MP"
       ]
     },
     {
-      "title": "V: Kommer rösta för  Norlén som talman",
-      "link": "https://www.expressen.se/nyheter/politik/v-kommer--rosta-norlen-som-talman/",
-      "description": "Vänsterpartiet kommer rösta på Andreas Norlén (M) som talman i morgon.&nbsp; Det berättar vice partiledare Ida Gabrielsson i SVT:s ”Agenda”.&nbsp; – Vi är tydliga på vilken sida vi står, säger hon.&nbsp;",
-      "pubDate": "2026-09-28T05:19:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Valmyndigheten kallar Postnord till möte",
-      "link": "https://www.expressen.se/nyheter/politik/valmyndigheten-kallar-postnord-till-mote/",
-      "description": "Valmyndigheten kallar Postnord till ett möte på måndagseftermiddagen sedan myndigheten fått in över hundra rapporter om transportproblem, rapporterar Sveriges Radio Ekot .",
-      "pubDate": "2026-09-28T05:15:07Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Om M får försöka – inte givet med SD i regering",
-      "link": "https://www.expressen.se/nyheter/politik/om-m-far-forsoka-inte-givet-med-sd-i-regering/",
-      "description": "Om S-ledaren Magdalena Andersson misslyckas att bilda regering vill M-ledaren Ulf Kristersson försöka med fem partier runt en gemensam ekonomisk politik. Det är inte givet att Sverigedemokraterna då får plats i regeringen.",
-      "pubDate": "2026-09-28T04:42:59Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Andreas Norlén vald till riksdagens talman – igen",
+      "link": "https://www.sverigesradio.se/artikel/9308677",
+      "description": "Andreas Norlén får fortsätta som talman i riksdagen. Han väljs om efter att Vänsterpartiet beslutat att ställa sig bakom Norlén som varit Moderaternas kandidat. Norlén fick 200 av rösterna, mot 146 för Socialdemokraternas kandidat Johanna Haraldsson. Ekots inrikespolitiska kommentator Helena Gissén: ”Det här var otippat”.",
+      "pubDate": "2026-09-28T11:16:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
         "M",
-        "SD"
+        "V"
       ]
     },
     {
-      "title": "Ledare: Med Tidöpartierna i regering behövs ingen politisk satir",
-      "link": "https://www.dn.se/ledare/med-tidopartierna-i-regering-behovs-ingen-politisk-satir/",
-      "description": "Kanske blir arvet efter Tidö en förändrad syn på experter och myndigheter, spår SVT:s satirprogram. Det vore i så fall olyckligt – och nästa regering måste kunna bättre än så.",
-      "pubDate": "2026-09-28T04:15:35Z",
+      "title": "Regeringsbildningen: Detta händer nu",
+      "link": "https://www.dn.se/sverige/regeringsbildningen-detta-hander-nu/",
+      "description": "På måndagsmorgonen meddelade Socialdemokraternas partiledare Magdalena Andersson att hon lämnar tillbaka sonderingsuppdraget. Detta händer med regeringsbildningen nu.",
+      "pubDate": "2026-09-28T10:49:26Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
     },
     {
-      "title": "Svåra prioriteringar för Burnham under Labour-kongressen",
-      "link": "https://www.sverigesradio.se/artikel/9308394",
-      "description": "I Storbritannien håller det regerande socialdemokratiska Labourpartiet kongress, under sin nya ledare, premiärminister Andy Burnham. Burnhams första månader som premiärminister har gett Labour en skjuts i opinonen, men svåra prioriteringar väntar. Premiärministern har sagt att han ska hålla Labourpartiets tidigare löften om att inte höja britternas skatter, samtidigt måste stora investeringar av försvaret genomföras.",
-      "pubDate": "2026-09-28T03:55:00Z",
+      "title": "Svaren efter Anderssons besked: ”Oerhört svagt”",
+      "link": "https://www.svt.se/nyheter/inrikes/svaren-efter-andersson-besked-oerhort-svagt",
+      "description": "S-ledaren Magdalena Andersson lämnar över sonderingsuppdraget. Moderaterna menar att det är ”oerhört svagt”. – Hon har inte på ett seriöst sätt ens försökt samla sitt alternativ, säger partiets gruppledare Mattias Karlsson.",
+      "pubDate": "2026-09-28T10:48:01Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Fredrik Furtenbach: ”Andersson var synbart arg”",
+      "link": "https://www.sverigesradio.se/artikel/9308618",
+      "description": "Socialdemokraternas partiledare Magdalena Andersson meddelar att hon avslutar försöken att bilda en regering. Då Vänsterpartiet och Centerpartiet inte kan komma överens var det mycket som redan tidigare tydde på att det skulle bli svårt för Andersson att bilda regeringen. ”Hon passar nu på att lägga skulden på Vänsterpartiet”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach.",
+      "pubDate": "2026-09-28T10:17:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Insändare. En regering i mitten är enda alternativet",
+      "link": "https://www.dn.se/insandare/en-regering-i-mitten-ar-enda-alternativet/",
+      "description": "INSÄNDARE. Ge C-ledaren Elisabeth Thand Ringqvist möjlighet att bilda regering med Socialdemokraterna och Moderaterna. En regeringskonstellation med S, C och M skulle återföra partipolitiken till vad den är avsedd för, skriver Krister Sjökvist.",
+      "pubDate": "2026-09-28T09:44:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Dadgostar: Andersson är fortsatt vår statsministerkandidat",
+      "link": "https://www.sverigesradio.se/artikel/9308609",
+      "description": "Magdalena Andersson (S) lämnar tillbaka sonderingsuppdraget, bland efter att Vänsterpartiet valt att stötta Moderaternas Talman Andreas Norlén. Samtidigt säger Vänsterpartiets partiledare Nooshi Dadgostar att beskedet inte påverkar partiets linje i vem de vill se som statsminister. Miljöpartiets Amanda Lind säger att hon är besviken på Vänsterpartiet men både hon och Centerpartiets Elisabeth Thand Ringqvist ser ljust på framtiden och tror att de rödgröna kommer att få ihop en regering till sist.",
+      "pubDate": "2026-09-28T09:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "C",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Kallt krig mellan V och S",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-kallt-krig-mellan-v-och-s/",
+      "description": "Magdalena Anderssons påstående att Vänsterpartiet och Moderaterna utgör en ”ny konstellation” håller inte. Ändå är det självklart att Socialdemokraterna slår tillbaka med kraft mot Vänsterpartiets hårda parlamentariska spel. Nu råder kallt krig i regeringsfrågan. Men det finns också en genomtänkt strategi bakom Anderssons drag.",
+      "pubDate": "2026-09-28T09:11:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Andreas Norlén får fortsätta som talman",
+      "link": "https://www.dn.se/sverige/riksdagen-samlas-for-talmansval/",
+      "description": "Andreas Norlén får behålla rollen som talman. Det står klart efter riksdagens omröstning. Socialdemokraternas kandidat Johanna Haraldsson blir första vice talman. Julia Kronlid får fortsätta som andra vice talman. Nu pågår valet av tredje vice talman.",
+      "pubDate": "2026-09-28T08:55:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
       ]
     },
     {
-      "title": "Hanna Lindqvist, 22 – yngst i nya riksdagen",
-      "link": "https://www.sverigesradio.se/artikel/9307729",
-      "description": "Idag samlas riksdagens 349 ledamöter för upprop efter valet, trots att regeringsbildningen fortfarande dröjer. Knappt en tredjedel är nya, 54 procent är män och 46 procent kvinnor, samtidigt som flera profiler tar plats och andra missar riksdagen. MP:s 22-åriga nykomling Hanna Lindqvist blir yngst i kammaren. ”Jag tror att jag kan bli en viktigt länk för att öka förtroende för politiker bland unga”, säger Lindqvist till Ekot.",
-      "pubDate": "2026-09-28T03:50:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Andreas Norlén vald till talman",
+      "link": "https://www.expressen.se/nyheter/politik/andreas-norlen-vald-till-talman/",
+      "description": "347 riksdagsledamöter har röstat och en ny talman är utsedd.&nbsp; Andreas Norlén får behålla rollen.&nbsp; Bara timmar tidigare lämnade Andersson tillbaka sonderingsuppdraget.&nbsp;",
+      "pubDate": "2026-09-28T08:52:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "MP",
-        "Regeringsbildning"
+        "S"
       ]
     },
     {
-      "title": "Expert om V:s besked: ”Accepterar inte längre att vara dörrmatta”",
-      "link": "https://www.sverigesradio.se/artikel/9308383",
-      "description": "När riksdagen röstar idag om talman idag, verkar det som att moderaten Andreas Norlén kommer få behålla jobbet. Detta efter att Vänsterpartiet igår förklarade att man ställer sig bakom Tidöpartiernas nominering. Ett oväntat beslut som tyder på att V inte accepterar rollen som dörrmatta för Socialdemokraterna, säger statsvetaren Jenny Madestam.",
-      "pubDate": "2026-09-28T03:42:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Det rödgröna bråket är över – nu är det krig",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/det-rodgrona-braket-ar-over-nu-ar-det-krig/",
-      "description": "Vänsterpartiet kommer att stödja moderaten Andreas Norlén som talman när riksdagen öppnar på måndagen. Beskedet i SVT:s Agenda var sämsta tänkbara start på Magdalena Anderssons mandatperiod – men det kan bli värre.",
-      "pubDate": "2026-09-28T03:22:47Z",
+      "title": "Kommenterar Anderssons besked: ”Låt oss fika”",
+      "link": "https://www.expressen.se/nyheter/politik/kommenterar-anderssons-besked-lat-oss-fika/",
+      "description": "Magdalena Andersson (S) ger upp försöket att bilda regering och skyller delvis på Vänsterpartiet. Inte oväntat, enligt SD:s Jimmie Åkesson. Märkligt, tycker Dadgostar (V). En lekstuga, säger Romina Pourmokhtari (L).",
+      "pubDate": "2026-09-28T08:27:09Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
+        "SD",
         "V"
       ]
     },
     {
-      "title": "Valmyndigheten kallar Postnord till möte",
-      "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-kallar-postnord-till-mote",
-      "description": "Valmyndigheten kallar Postnord till ett möte på måndagseftermiddagen sedan myndigheten fått in över hundra rapporter om transportproblem, rapporterar Sveriges Radio Ekot.",
-      "pubDate": "2026-09-28T01:32:55Z",
+      "title": "”Alla är arga på Vänsterpartiet”",
+      "link": "https://www.svt.se/nyheter/inrikes/alla-ar-arga-pa-vansterpartiet",
+      "description": "Magdalena Andersson (S) lämnar tillbaka sonderingsuppdraget. Det beskedet ger hon efter att Vänsterpartiet meddelat att de stödjer Tidö-partiernas kandidat i talmansvalet, Andreas Norlén (M). Nu är alla i oppositionen arga på Vänsterpartiet.",
+      "pubDate": "2026-09-28T08:25:46Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "S",
+        "V"
+      ]
     },
     {
-      "title": "Efter leveransproblem – Postnord kallas till möte",
-      "link": "https://www.sverigesradio.se/artikel/9307699",
-      "description": "Valmyndigheten har fått in över hundra rapporter om transportproblem i samband med valet. På måndagsförmiddagen har Valmyndigheten kallat Postnord till ett möte för att ta reda på vad som gick fel. Alla röster har kommit tillrätta och bedöms inte ha någon påverkan på valresultatet, men på många håll undrar kommunernas valkanslier fortfarande vad som gjorde att osorterade röster levererades fel, och ibland flera dagar för sent.",
-      "pubDate": "2026-09-28T01:00:00Z",
+      "title": "Magdalena Andersson (S) lämnar över sonderingsuppdraget",
+      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-s-lamnar-over-sonderingsuppdraget",
+      "description": "Magdalena Andersson (S) lämnar ifrån sig sonderingsuppdraget. Hon säger att Vänsterpartiets besked om att stötta M-talmannen Andreas Norlén var det som avgjorde. – Jag kan konstatera att det inte i nuläget finns någon möjlighet för mig att bilda en regering.",
+      "pubDate": "2026-09-28T08:23:46Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Helena Gissén: Vill peka ut V som allierat med högersidan",
+      "link": "https://www.sverigesradio.se/artikel/9308498",
+      "description": "Socialdemokraternas partiledare Magdalena Andersson meddelar under måndagen att hon avslutar försöken att bilda en regering – och hänvisar till Vänsterpartiets beslut att rösta på Andreas Norlén (M) som talman. Under pressträffen undvek partiledaren att svara på vad som gjort att Vänsterpartiet valt att inte rösta på en socialdemokratisk talman. ”Magdalena Anderssons högsta ambition är just nu att skadeskjuta Vänsterpartiet”, säger Ekots inrikespolitiska kommentator Helena Gissén.",
+      "pubDate": "2026-09-28T07:58:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "S",
+        "V"
+      ]
     },
     {
-      "title": "Vänsterpartiet kommer rösta på Andreas Norlén (M) som talman",
-      "link": "https://www.sverigesradio.se/artikel/9308387",
-      "description": "Vänsterpartiet kommer att rösta på Moderaternas Andreas Norlén som talman, trots att partiet vill bilda regering med Socialdemokraterna som vill se en egen kandidat. ”Han har erfarenheten av att vara talman och av att lotsa oss igenom det här tidigare. Han har fått både Stefan Löfven och Magdalena Andersson valda och han kan ha lite mer distans till situationen i det här låsta läget”, säger Vänsterpartiets vice ordförande Ida Gabrielsson. Beskedet ger Norlén majoritet redan före omröstningen, eftersom han redan stöttas av alla fyra Tidöpartier.",
-      "pubDate": "2026-09-27T21:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Magdalena Andersson lämnar tillbaka sonderingsuppdraget",
+      "link": "https://www.dn.se/sverige/magdalena-andersson-lamnar-tillbaka-sonderingsuppdraget/",
+      "description": "S-ledaren Magdalena Andersson lämnar tillbaka sonderingsuppdraget. Anledningen är att Vänsterpartiet ställt sig bakom Tidöpartiernas talmanskandidat Andreas Norlén (M). – Därmed har det ju bildats en ny konstellation i riksdagen av vänsterpartister och moderater, säger Magdalena Andersson vid en pressträff.",
+      "pubDate": "2026-09-28T07:48:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
         "M",
         "V"
       ]
-    },
+    }
+  ],
+  "blogs": [
     {
-      "title": "Tidigare statssekreteraren: V:s besked upplevs som en krigsförklaring",
-      "link": "https://www.dn.se/sverige/tidigare-statssekreteraren-vs-besked-upplevs-som-en-krigsforklaring/",
-      "description": "Vänsterpartiets vice ordförande Ida Gabrielsson meddelade i SVT:s Agenda på söndagskvällen att de ställer sig bakom Andreas Norlén i måndagens talmansomröstning. Efter beskedet säger den tidigare socialdemokratiska statssekreteraren Irene Wennemo att V:s beslut kommer att upplevas som en krigsförklaring av S.",
-      "pubDate": "2026-09-27T20:53:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
+      "title": "Magdalena Andersson ger upp utan att ens ha försökt",
+      "link": "https://blog.zaramis.se/2026/09/28/magdalena-andersson-ger-upp-utan-att-ens-ha-forsokt/",
+      "description": "Magdalena Andersson har varit totalt ointresserad av att söka samarbete med Vänsterpartiet trots att V var valets största vinnare. Samtidigt gjorde S ett av sina sämsta val under de senaste 100 åren. Nu kastar Andersson in handsken utan att ens ha försökt. Läs mer … Inlägget Magdalena Andersson ger upp utan att ens ha försökt dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-09-28T10:16:59Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
       "topics": [
         "S",
         "V"
       ]
     },
     {
-      "title": "V kommer att rösta på Andreas Norlén som talman",
-      "link": "https://www.svt.se/nyheter/inrikes/v-vill-se-andreas-norlen-som-talman",
-      "description": "Vänsterpartiet kommer att rösta på Andreas Norlén när riksdagen väljer ny talman på måndag. Det säger vice partiledare Ida Gabrielsson i SVT:s Agenda. – Det kan ta lång tid för Sverige att få en regering och då tror vi att vi behöver stabilitet i riksdagen. Därför kommer vi att lägga vår röst på Andreas Norlén, säger hon.",
-      "pubDate": "2026-09-27T20:42:23Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
+      "title": "Logiskt att lämna sonderingsuppdraget",
+      "link": "https://www.dagensarena.se/opinion/logiskt-att-lamna-sonderingsuppdraget/",
+      "description": "Vänsterpartiet verkar tro att det räcker att övertyga S. Inlägget Logiskt att lämna sonderingsuppdraget dök först upp på Dagens Arena .",
+      "pubDate": "2026-09-28T08:48:13Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
       "topics": [
         "V"
       ]
-    }
-  ],
-  "blogs": [
+    },
     {
       "title": "Moderaterna sätter sig som åklagare och domare över opinionsinstituten",
       "link": "https://ledarsidorna.se/moderaterna-satter-sig-som-aklagare-och-domare-over-opinionsinstituten/",
@@ -297,21 +346,6 @@
         "V",
         "C",
         "MP"
-      ]
-    },
-    {
-      "title": "Förkryssade valsedlar är lagligt och tillåtet att dela ut",
-      "link": "https://blog.zaramis.se/2026/09/25/forkryssade-valsedlar-ar-lagligt-och-tillatet-att-dela-ut/",
-      "description": "Det finns en mängd prövningar när det gäller användande av förkryssade valsedlar. Det har en mängd gånger förklarats som lagligt av Valprövningsnämnden. Bland annat finns ett fall från 1998 när en Vänsterpartist i Pajala fått godkänt för sina manuellt förkryssade valsedlar. Efter det har det förekommit liknande utslag vid andra prövningar av samma sak. Det har berört en stor mängd partier. Sverigedemokraterna, Socialdemokraterna och Kristdemokraterna med flera. Läs mer … Inlägget Förkryssade valsedlar är lagligt och tillåtet att dela ut dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-25T04:38:29Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "V",
-        "KD"
       ]
     },
     {
