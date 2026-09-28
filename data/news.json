@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T00:04:44.211272Z",
+  "updated_at": "2026-09-28T05:37:31.569859Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,146 @@
   ],
   "news": [
     {
+      "title": "Riksdagen väljer ny talman – det här gäller",
+      "link": "https://www.svt.se/nyheter/inrikes/riksdagen-valjer-ny-talman-det-har-galler",
+      "description": "Nu samlas riksdagen för första gången efter valet och ska utse ny talman. Andreas Norlén (M) är hittills den enda nominerade kandidaten.",
+      "pubDate": "2026-09-28T05:32:02Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Kalena: Jag vill tacka både Miljöpartiet och Sverigedemokraterna",
+      "link": "https://www.dn.se/kultur/kalena-jag-vill-tacka-bade-miljopartiet-och-sverigedemokraterna/",
+      "description": "Kalena söker efter minsta gemensamma nämnaren i politiken. Hon hittar två skäl att simma lugnt.",
+      "pubDate": "2026-09-28T05:30:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "MP"
+      ]
+    },
+    {
+      "title": "V: Kommer rösta för  Norlén som talman",
+      "link": "https://www.expressen.se/nyheter/politik/v-kommer--rosta-norlen-som-talman/",
+      "description": "Vänsterpartiet kommer rösta på Andreas Norlén (M) som talman i morgon.&nbsp; Det berättar vice partiledare Ida Gabrielsson i SVT:s ”Agenda”.&nbsp; – Vi är tydliga på vilken sida vi står, säger hon.&nbsp;",
+      "pubDate": "2026-09-28T05:19:42Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Valmyndigheten kallar Postnord till möte",
+      "link": "https://www.expressen.se/nyheter/politik/valmyndigheten-kallar-postnord-till-mote/",
+      "description": "Valmyndigheten kallar Postnord till ett möte på måndagseftermiddagen sedan myndigheten fått in över hundra rapporter om transportproblem, rapporterar Sveriges Radio Ekot .",
+      "pubDate": "2026-09-28T05:15:07Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Om M får försöka – inte givet med SD i regering",
+      "link": "https://www.expressen.se/nyheter/politik/om-m-far-forsoka-inte-givet-med-sd-i-regering/",
+      "description": "Om S-ledaren Magdalena Andersson misslyckas att bilda regering vill M-ledaren Ulf Kristersson försöka med fem partier runt en gemensam ekonomisk politik. Det är inte givet att Sverigedemokraterna då får plats i regeringen.",
+      "pubDate": "2026-09-28T04:42:59Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Ledare: Med Tidöpartierna i regering behövs ingen politisk satir",
+      "link": "https://www.dn.se/ledare/med-tidopartierna-i-regering-behovs-ingen-politisk-satir/",
+      "description": "Kanske blir arvet efter Tidö en förändrad syn på experter och myndigheter, spår SVT:s satirprogram. Det vore i så fall olyckligt – och nästa regering måste kunna bättre än så.",
+      "pubDate": "2026-09-28T04:15:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Svåra prioriteringar för Burnham under Labour-kongressen",
+      "link": "https://www.sverigesradio.se/artikel/9308394",
+      "description": "I Storbritannien håller det regerande socialdemokratiska Labourpartiet kongress, under sin nya ledare, premiärminister Andy Burnham. Burnhams första månader som premiärminister har gett Labour en skjuts i opinonen, men svåra prioriteringar väntar. Premiärministern har sagt att han ska hålla Labourpartiets tidigare löften om att inte höja britternas skatter, samtidigt måste stora investeringar av försvaret genomföras.",
+      "pubDate": "2026-09-28T03:55:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Hanna Lindqvist, 22 – yngst i nya riksdagen",
+      "link": "https://www.sverigesradio.se/artikel/9307729",
+      "description": "Idag samlas riksdagens 349 ledamöter för upprop efter valet, trots att regeringsbildningen fortfarande dröjer. Knappt en tredjedel är nya, 54 procent är män och 46 procent kvinnor, samtidigt som flera profiler tar plats och andra missar riksdagen. MP:s 22-åriga nykomling Hanna Lindqvist blir yngst i kammaren. ”Jag tror att jag kan bli en viktigt länk för att öka förtroende för politiker bland unga”, säger Lindqvist till Ekot.",
+      "pubDate": "2026-09-28T03:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Expert om V:s besked: ”Accepterar inte längre att vara dörrmatta”",
+      "link": "https://www.sverigesradio.se/artikel/9308383",
+      "description": "När riksdagen röstar idag om talman idag, verkar det som att moderaten Andreas Norlén kommer få behålla jobbet. Detta efter att Vänsterpartiet igår förklarade att man ställer sig bakom Tidöpartiernas nominering. Ett oväntat beslut som tyder på att V inte accepterar rollen som dörrmatta för Socialdemokraterna, säger statsvetaren Jenny Madestam.",
+      "pubDate": "2026-09-28T03:42:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Det rödgröna bråket är över – nu är det krig",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/det-rodgrona-braket-ar-over-nu-ar-det-krig/",
+      "description": "Vänsterpartiet kommer att stödja moderaten Andreas Norlén som talman när riksdagen öppnar på måndagen. Beskedet i SVT:s Agenda var sämsta tänkbara start på Magdalena Anderssons mandatperiod – men det kan bli värre.",
+      "pubDate": "2026-09-28T03:22:47Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Valmyndigheten kallar Postnord till möte",
+      "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-kallar-postnord-till-mote",
+      "description": "Valmyndigheten kallar Postnord till ett möte på måndagseftermiddagen sedan myndigheten fått in över hundra rapporter om transportproblem, rapporterar Sveriges Radio Ekot.",
+      "pubDate": "2026-09-28T01:32:55Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Efter leveransproblem – Postnord kallas till möte",
+      "link": "https://www.sverigesradio.se/artikel/9307699",
+      "description": "Valmyndigheten har fått in över hundra rapporter om transportproblem i samband med valet. På måndagsförmiddagen har Valmyndigheten kallat Postnord till ett möte för att ta reda på vad som gick fel. Alla röster har kommit tillrätta och bedöms inte ha någon påverkan på valresultatet, men på många håll undrar kommunernas valkanslier fortfarande vad som gjorde att osorterade röster levererades fel, och ibland flera dagar för sent.",
+      "pubDate": "2026-09-28T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Vänsterpartiet kommer rösta på Andreas Norlén (M) som talman",
       "link": "https://www.sverigesradio.se/artikel/9308387",
       "description": "Vänsterpartiet kommer att rösta på Moderaternas Andreas Norlén som talman, trots att partiet vill bilda regering med Socialdemokraterna som vill se en egen kandidat. ”Han har erfarenheten av att vara talman och av att lotsa oss igenom det här tidigare. Han har fått både Stefan Löfven och Magdalena Andersson valda och han kan ha lite mer distans till situationen i det här låsta läget”, säger Vänsterpartiets vice ordförande Ida Gabrielsson. Beskedet ger Norlén majoritet redan före omröstningen, eftersom han redan stöttas av alla fyra Tidöpartier.",
@@ -115,157 +255,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Statsvetaren om V:s stöd för Norlén: ”Visar att man menar allvar”",
-      "link": "https://www.sverigesradio.se/artikel/9308376",
-      "description": "Vänsterpartiet ställer sig bakom Moderaternas nominering Andreas Norlén som talman. Det klargjorde vice ordförande Ida Gabrielsson i SVT:s Agenda under söndagskvällen. ”Det kan ta lång tid att Sverige får en regering och då tror vi att vi behöver en stabilitet och en fast punkt i regeringen”, sa hon. ”Nu vill man visa att man menar allvar med att man ska sitta i regering”, säger Jenny Madestam, statsvetare vid Södertörns högskola.",
-      "pubDate": "2026-09-27T20:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V"
-      ]
-    },
-    {
-      "title": "Raseri inom S  efter V:s maktdrag",
-      "link": "https://www.expressen.se/nyheter/sverige/raseri-inom-s--efter-vs-maktdrag/",
-      "description": "Att Vänsterpartiet nu drar undan den efterlängtade talmansstolen från Socialdemokraterna har skapat ilska i S-ledningen, uppger partikällor för Expressen.&nbsp; – Det kommer ju upplevas som en krigsförklaring, säger Irene Wennemo (S), tidigare statssekreterare i SVT:s ”Agenda”.&nbsp;",
-      "pubDate": "2026-09-27T20:23:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Afrikavärmen slår till i Sverige",
-      "link": "https://www.expressen.se/nyheter/sverige/afrikavarmen-slar-till-i-sverige/",
-      "description": "Sensommaren är inte riktigt redo att släppa taget. I veckan kommer solen tillsammans med den nordafrikanska värmen – och bjuder på höga temperaturer. – Det är snudd på rekordvarmt, säger Katarina Andersson på SMHI.",
-      "pubDate": "2026-09-27T20:13:03Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "V: Hade hellre sett Kajsa Fredholm i riksdagen",
-      "link": "https://www.expressen.se/nyheter/politik/v-hade-hellre-sett-kajsa-fredholm-i-riksdagen/",
-      "description": "Mohamed Ali kryssade sig förbi Vänsterpartiets klimatpolitiska talesperson Kajsa Fredholm. Men partiet hade hellre sett Fredholm i riksdagen, menar V-toppen Ida Gabrielsson. – Man hade så klart helst fått sin person invald, säger hon i SVT:s ”Agenda.”",
-      "pubDate": "2026-09-27T20:11:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ledarskribenten Jonna Sima: ”Jag blir otroligt trött”",
-      "link": "https://www.sverigesradio.se/artikel/9308377",
-      "description": "Jonna Sima, ledarskribent på Aftonbladets oberoende socialdemokratiska ledarsida, reagerar med trötthet på Vänsterpartiets besked att ställa sig bakom Moderaternas val av talman. ”Det är ett politiskt spel”, säger hon. Adam Cwejman, politisk redaktör på liberala Göteborgs-Posten, tror att Centerpartiet nu kommer att sätta sig i en regering med Vänsterpartiet, trots att de tidigare har sagt nej till detta. ”Centerpartiet kommer att nötas ner för de inser att de vinner inte så mycket på att vara emot Vänsterpartiet”, säger han.",
-      "pubDate": "2026-09-27T20:11:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Det rödgröna bråket är över – nu är det krig",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/det-rodgrona-braket-ar-over-nu-ar-det-krig/",
-      "description": "Vänsterpartiet kommer att stödja moderaten Andreas Norlén som talman när riksdagen öppnar på måndagen. Beskedet i SVT:s Agenda var sämsta tänkbara start på Magdalena Anderssons mandatperiod – men det kan bli värre.",
-      "pubDate": "2026-09-27T20:03:18Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "V-toppen om delfinbilden: ”Det var inte Nooshi”",
-      "link": "https://www.expressen.se/nyheter/politik/v-toppen-om-delfinbilden-det-var-inte-nooshi/",
-      "description": "När Sverige sökte svar från V-ledaren Nooshi Dadgostar om misstänkta valfusket delade hon en bild på Instagram på två delfiner.&nbsp; Partiets viceordförande, Ida Gabrielsson, skyller inlägget på en kommunikatör.&nbsp; – Det förstår nog alla, att en kommunikatör delade detta. Det var inte Nooshi som lade ut delfinerna, säger hon i Agenda.&nbsp;",
-      "pubDate": "2026-09-27T19:49:14Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "V stöder Andreas Norlén som talman",
-      "link": "https://www.dn.se/sverige/v-stoder-andreas-norlen-som-talman/",
-      "description": "På måndag väljer riksdagen talman. Socialdemokraterna har ännu inte nominerat en kandidat, medan Moderaterna vill se Andreas Norlén fortsätta på posten. I SVT:s Agenda säger Vänsterpartiets vice ordförande Ida Gabrielsson att de kommer att ställa sig bakom Andreas Norlén.",
-      "pubDate": "2026-09-27T19:39:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V"
-      ]
-    },
-    {
-      "title": "V: Kommer rösta för  Norlén som talman",
-      "link": "https://www.expressen.se/nyheter/politik/v-kommer--rosta-norlen-som-talman/",
-      "description": "Vänsterpartiet kommer rösta på Andreas Norlén (M) som talman i morgon.&nbsp; Det berättar vice partiledare Ida Gabrielsson i SVT:s ”Agenda”.&nbsp; – Vi är tydliga på vilken sida vi står, säger hon.&nbsp;",
-      "pubDate": "2026-09-27T19:37:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "V väljer Norlén som talman",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=0a22a2f6-bd0f-4dcd-8c3b-6f8e3c3acffd",
-      "description": "Vänsterpartiets besked",
-      "pubDate": "2026-09-27T19:18:14Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "27 september: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/sverige/27-september-missa-inte-dagens-nyheter/",
-      "description": "Andreas Norlén nominerad i talmansvalet, de säljer sina ägg till barnlösa svenskar och Stefan Holm ångerfull efter attacken vid Bokmässan – här är nyheterna du inte får missa från dagen.",
-      "pubDate": "2026-09-27T18:57:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Hans Rosén: Maktspel med höga insatser inför talmansvalet",
-      "link": "https://www.dn.se/sverige/hans-rosen-maktspel-gor-talmansvalet-till-en-rysare/",
-      "description": "Måndagens talmansval har utvecklats till ett maktspel mellan blocken, men också inom Magdalena Anderssons tänkta regeringsunderlag. Vem det än blir som vinner valet så väntar en uppgift väl så svår som den talmannen ställdes inför 2018.",
-      "pubDate": "2026-09-27T18:02:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     }
   ],
@@ -395,68 +384,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
-      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
-      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
-      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
-      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 490 – Kartlägg människor efter deras ras.",
-      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
-      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
-      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
-      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 488 – Ett rop på hjälp inifrån SD.",
-      "link": "https://jensganman.substack.com/p/brev-488-ett-rop-pa-hjalp-inifran",
-      "description": "&#196;r Baudin socialdemokraternas svar p&#229; Barney Gumble? / Ku Klux Klan-r&#246;sterna i Orten &#228;r ett faktum vare sig DN vill eller ej / &#196;r Petra Lundh ett geni? / En fl&#228;ngpropp tar sig ton i 100% / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
     }
   ],
   "podcasts": [
