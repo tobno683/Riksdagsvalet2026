@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T21:42:29.666538Z",
+  "updated_at": "2026-09-28T00:04:44.211272Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -350,18 +350,6 @@
       ]
     },
     {
-      "title": "Vad hände med sanningen, Moderaterna?",
-      "link": "https://www.dagensarena.se/opinion/vad-hande-med-sanningen-moderaterna/",
-      "description": "Har vi sett värre dribblande i någon valrörelse? Inlägget Vad hände med sanningen, Moderaterna? dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-23T23:39:55Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Vem är vänsterpartiets Mohamed Ali?",
       "link": "https://ledarsidorna.se/vem-ar-vansterpartiets-mohamed-ali/",
       "description": "Elva veckor före valet satt Vänsterpartiets blivande riksdagsledamot Mohamed Abdukardir Ali i Mogadishu och deltog i ett möte om det svenska valet och den somaliska diasporans roll. Samtidigt hade hans eget parti begränsad kunskap om vem han var samt vilka uppdrag och kontakter han hade. Den 29 juni 2026 publicerade Said Siyaad bilder från ett [&#8230;]",
@@ -407,6 +395,68 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
+    },
+    {
+      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
+      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
+      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
+      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
+      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "BREV 490 – Kartlägg människor efter deras ras.",
+      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
+      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
+      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
+      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 488 – Ett rop på hjälp inifrån SD.",
+      "link": "https://jensganman.substack.com/p/brev-488-ett-rop-pa-hjalp-inifran",
+      "description": "&#196;r Baudin socialdemokraternas svar p&#229; Barney Gumble? / Ku Klux Klan-r&#246;sterna i Orten &#228;r ett faktum vare sig DN vill eller ej / &#196;r Petra Lundh ett geni? / En fl&#228;ngpropp tar sig ton i 100% / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
     }
   ],
   "podcasts": [
