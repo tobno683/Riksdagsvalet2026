@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T11:41:34.468271Z",
+  "updated_at": "2026-09-29T17:08:00.332228Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,39 +79,168 @@
   ],
   "news": [
     {
+      "title": "Skatteverket: Mohamed Ali  kan tvingas betala skulderna",
+      "link": "https://www.expressen.se/nyheter/sverige/skatteverket-mohamed-ali--kan-tvingas-betala-skulderna/",
+      "description": "Skatteverket kan komma att begära omprövning av riksdagsledamoten Mohamed Alis skuldsanering.&nbsp; Obetalt underhåll, skatt och böter krävs i så fall in från hans riksdagslön av Kronofogden.&nbsp; Och Vänsterpartiet undantar honom nu från den egna partiskatten.&nbsp;",
+      "pubDate": "2026-09-29T16:50:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Förhandlingsexperten: Andersson (S) missar poängen med V:s utspel",
+      "link": "https://www.sverigesradio.se/artikel/9309541",
+      "description": "Magdalena Andersson meddelade i måndags att hon avslutar försöket att bilda regering efter Vänsterpartiets stöd till Tidöpartiernas talman. Lars-Johan Åge, professor i förhandling och medling, menar att beslutet att avbryta kan ha stängt dörren till viktig information om partiets mål i förhandlingarna. Även om regeringsbildningen tycks ha kört fast är Åge övertygad om att partiledarna kommer att hitta former för samarbete.",
+      "pubDate": "2026-09-29T16:49:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "”Vill ingen bilda regering?” – talmannen inleder nya samtal",
+      "link": "https://www.svt.se/nyheter/inrikes/vill-ingen-bilda-regering-talmannen-inleder-nya-samtal",
+      "description": "Talmansrundan för att hitta en ny statsministerkandidat inleds på onsdagen. Men varken Magdalena Andersson (S) eller Ulf Kristersson (M) vill ta på sig uppdraget. – Vill ingen bilda regering? frågar SVT:s politiska kommentator Mats Knutson partiledarna under Riksmötets öppnande.",
+      "pubDate": "2026-09-29T16:13:23Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Plötsligt vill ingen försöka bli statsminister",
+      "link": "https://www.dn.se/podd/alskade-politik/plotsligt-vill-ingen-forsoka-bli-statsminister/",
+      "description": "Varför vill inte någon av partiledarna ha talmannens prestigefulla sonderingsuppdrag? Det pratar vi om direkt från riksdagens högtidliga öppnande.",
+      "pubDate": "2026-09-29T15:21:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Furtenbach: ”Uppdraget att bli statsminister är Svarte Petter”",
+      "link": "https://www.sverigesradio.se/artikel/9309711",
+      "description": "Riksmötet i gång, men frågan om regeringsbildningen tog snabbt över uppmärksamheten. Hör Ekots inrikespolitiske kommentator Fredrik Furtenbach om varför ingen av statsministerkandidaterna vill få talmannens uppdrag att bilda regering just nu. ”Nu är det lite som att uppdraget att bli statsminister är Svarte Petter – något som ingen vill ha. Både Magdalena Andersson (S) och Ulf Kristersson (M) vill men nu är läget låst och därför vill de inte nu”, säger Furtenbach.",
+      "pubDate": "2026-09-29T15:21:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Furtenbach: Partierna räknar kallt med att röda linjer stryks",
+      "link": "https://www.sverigesradio.se/artikel/9309685",
+      "description": "Ekots inrikespolitiska kommentator svarar på lyssnarnas frågor om det politiska läget. Utsikterna för att Centerpartiet skulle sitta i regering med Tidöpartierna och risken för att regeringsbildningen 2018 att återupprepa sig, det är några av de frågor som Fredrik Furtenbach svarar på. Angående utredningen om misstänk valfusk i Dalarna och vad det kan ha för konsekvenser för regeringsbildningen svarar Fredrik Furtenbach att det ”inte är så troligt att det skulle leda till omval”.",
+      "pubDate": "2026-09-29T15:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Varken Kristersson (M) eller Andersson (S) vill få talmannens uppdrag",
+      "link": "https://www.sverigesradio.se/artikel/9309689",
+      "description": "Riksmötet är igång, men under det högtidliga öppnandet tog snabbt frågan om regeringsbildningen över uppmärksamheten. Det visar sig att ingen av statsministerkandidaterna vill få talmannens uppdrag att bilda regering just nu. Moderatledaren Ulf Kristersson vill att riksdagen prövar stödet för Magdalena Andersson först, medan hon anser att det är Kristersson som först borde få i uppdrag att sondera förutsättningarna för att bilda en högerregering.",
+      "pubDate": "2026-09-29T14:57:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "S-ledarens krav på C och V: ”Börja sudda röda linjer”",
+      "link": "https://www.dn.se/sverige/s-ledarens-krav-pa-c-och-v-borja-sudda-roda-linjer/",
+      "description": "Det hårda tonläget fortsätter mellan partierna på den rödgröna sidan. Nu uppmanar S-ledaren Magdalena Andersson Centerpartiet och Vänsterpartiet att börja sudda ut sina röda linjer. – Ingen har fått 50 procent och då får man heller inte allt man önskar sig, säger hon.",
+      "pubDate": "2026-09-29T13:45:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Insändare. Enfaldiga rödgröna sumpar chans att ändra klimatkurs",
+      "link": "https://www.dn.se/insandare/enfaldiga-rodgrona-sumpar-chans-att-andra-klimatkurs/",
+      "description": "INSÄNDARE. När svenska medier i frossar i vårt politiska kaos byter jag till internationella tv-kanaler som skildrade den akuta klimatkrisen. De rödgröna verkar tyvärr sumpa sin chans att styra Sverige på rätt klimatkurs för framtiden, skriver författaren Arne Bengtsson.",
+      "pubDate": "2026-09-29T13:24:49Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Åkessons krav: Rösta om Andersson",
+      "link": "https://www.expressen.se/nyheter/politik/akessons-krav-rosta-om-andersson/",
+      "description": "Magdalena Andersson lämnade tillbaka sonderingsuppdraget till talmannen. Det gillar inte Jimmie Åkesson. – Det är ett ofog som talmännen hittar på för att det parlamentariska läget är problematiskt, säger han.",
+      "pubDate": "2026-09-29T12:51:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Nya Malmöstyret klart – Vänsterpartiet åter i värmen",
+      "link": "https://www.dn.se/sverige/nya-malmostyret-klart-vansterpartiet-ater-i-varmen/",
+      "description": "Det blir S, V och MP som styr i Malmö den kommande mandatperioden. Den nya koalitionen presenterades på tisdagen. En höjd kommunalskatt står högt upp på dagordningen. – Malmöborna har röstat för en tydlig rödgrön politik, säger Katrin Stjernfeldt Jammeh (S), kommunstyrelsens ordförande.",
+      "pubDate": "2026-09-29T12:01:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Inled rödgrön enighet med att påskynda medborgarskap",
+      "link": "https://www.dn.se/insandare/inled-rodgron-enighet-med-att-paskynda-medborgarskap/",
+      "description": "INSÄNDARE. Fyra partier som nu ofta beskrivs som närmast oförenliga lyckades för bara några månader agera gemensamt i riksdagen. Med den nyvalda riksdagen finns en konkret möjlighet att på nytt pröva frågan om övergångsbestämmelser som Tidöpartierna drev igenom i somras, skriver Patrick Henry Gallen.",
+      "pubDate": "2026-09-29T11:58:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "M-källor: Kristersson borde tacka nej till att sondera",
       "link": "https://www.expressen.se/nyheter/politik/m-kallor-kristersson-borde-tacka-nej-till-att-sondera/",
-      "description": "Det skulle bara hjälpa S om Kristersson tar sonderingsuppdraget.&nbsp; Det menar moderata riksdagskällor som TV4 Nyheterna pratat med – och uppmanar Kristersson att tacka nej om frågan kommer från talmannen. &nbsp;&nbsp;",
+      "description": "Andersson gav upp – och tycker att Kristersson nu ska sondera. Men M-ledaren bollar tillbaka bollen till de rödgröna. Först om det finns ”parlamentariska förutsättningar” vill han ha uppdraget. – Då är jag beredd, säger han till SVT.",
       "pubDate": "2026-09-29T11:00:38Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
         "M"
-      ]
-    },
-    {
-      "title": "Blixtinkallar till möte om misstänkt röstfusk i Järva",
-      "link": "https://www.expressen.se/nyheter/politik/blixtinkallar-till-mote-om-misstankt-rostfusk-i-jarva/",
-      "description": "Kommunstyrelsen i Stockholm kallar till ett extrainsatt möte om misstänkt valfusk i Järva. Det efter en begäran från Moderaterna, som kräver att staden tillsätter en oberoende utredning.",
-      "pubDate": "2026-09-29T10:06:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Amanda Lind (MP) om regeringsstrulet: ”Det brådskar”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=084a6043-7d28-4b01-9a2a-638b356d3487",
-      "description": "Amanda Lind om regeringskaoset • Följ riksdagens öppnande",
-      "pubDate": "2026-09-29T10:04:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     },
     {
@@ -127,18 +256,6 @@
       ]
     },
     {
-      "title": "Statsministerns ändring – framför kungen",
-      "link": "https://www.expressen.se/nyheter/kungligt/statsministerns-andring-framfor-kungen/",
-      "description": "I dag öppnar riksdagen. Kungen är traditionsenligt på plats vid riksmötets öppnande.&nbsp; Men en annan tradition slopas helt i år.",
-      "pubDate": "2026-09-29T08:26:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Chatt: Vad undrar du om politiken just nu?",
       "link": "https://www.svt.se/nyheter/inrikes/chatt-vad-undrar-du-om-politiken-just-nu",
       "description": "Magdalena Andersson (S) har återlämnat sonderingsuppdraget, Andreas Norlén är återvald som talman, Sverige har ännu ingen ny regering. Vad undrar du om den politiska turbulensen?",
@@ -149,113 +266,6 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Pingpong i Gävleborg – nu vill de rödgröna riva upp allt",
-      "link": "https://www.dn.se/sverige/pingpong-i-gavleborg-nu-vill-de-rodgrona-riva-upp-allt/",
-      "description": "GÄVLE. Efter valet väntar maktskifte i Region Gävleborg och en ideologisk helomvändning. De rödgröna är redo att riva upp en omdiskuterad bolagisering av primärvården – bara ett halvår efter införandet. Men vårdpersonalen är trött på förändringar.",
-      "pubDate": "2026-09-29T08:06:22Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Johan Croneman: Jäklar vilket fiasko när V gör politiken till ett fritids",
-      "link": "https://www.dn.se/kultur/johan-croneman-jaklar-vilket-fiasko-nar-v-gor-politiken-till-ett-fritids/",
-      "description": "I ”Agenda” släppte Vänsterpartiet eftervalets största politiska bomb – och mindre än tolv timmar senare kunde vi skåda konsekvenserna. Svensk politik just nu är det löjligas konst, skriver Johan Croneman.",
-      "pubDate": "2026-09-29T04:41:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Mitt i regeringskaoset – riksdagens högtidliga öppnande",
-      "link": "https://www.sverigesradio.se/artikel/9309081",
-      "description": "I dag äger riksdagens öppnande rum som markerar starten på riksdagens nya arbetsår. Vanligtvis håller statsministern en regeringsförklaring, men eftersom Sverige har en övergångsregering blir det ingen sådan i år. På onsdag inleder talmannen samtal med samtliga partiledare för att försöka få en ny regering på plats, trots partiernas olika röda linjer. ”Det är ett väldigt låst läge”, säger statsvetaren Tommy Möller, som tror att Centerpartiet får en nyckelroll i regeringsbildningen.",
-      "pubDate": "2026-09-29T03:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Susanne Nyström: Så förlorade Vänsterpartiet greppet om sin egen kris",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-sa-forlorade-vansterpartiet-greppet-om-sin-egen-kris/",
-      "description": "När Vänsterpartiets ledning tycktes ha gått upp i rök publicerade Nooshi Dadgostar plötsligt en delfinbild på Instagram. Varför, undrade många. För att det inte var hon, lyder det fega svaret.",
-      "pubDate": "2026-09-29T03:23:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Andreas Norlén talman för tredje gången – efter stöd från V",
-      "link": "https://www.svt.se/nyheter/inrikes/andreas-norlen-talman-for-tredje-gangen-efter-stod-fran-v",
-      "description": "Moderata Andreas Norlén får fortsätta sitt uppdrag som talman – efter stöd från Vänsterpartiet. Draget har kallats för ett ”svek” av Socialdemokraterna och en ”besvikelse” av Miljöpartiet. Bara timmar tidigare lämnade Magdalena Andersson (S) tillbaka sonderingsuppdraget.",
-      "pubDate": "2026-09-28T18:35:24Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "MP"
-      ]
-    },
-    {
-      "title": "”Anderssons väg framåt verkar redan ha kört i diket”",
-      "link": "https://www.svt.se/nyheter/inrikes/relationen-mellan-s-och-v-ar-djupfryst",
-      "description": "Om det såg svårt ut att bilda en rödgrön regering tidigare, är det inget emot hur det ser ut nu. I hela valrörelsen undvek S-ledaren Magdalena Andersson att tala om de svårigheter hon såg framför sig för att kunna bilda regering. Efter dagens händelseutveckling är det lätt att inse varför.",
-      "pubDate": "2026-09-28T16:10:10Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Qaisar Mahmood: Den etnifierade valrörelsen är inte väljarnas fel",
-      "link": "https://www.dn.se/kultur/qaisar-mahmood-den-etnifierade-valrorelsen-ar-inte-valjarnas-fel/",
-      "description": "Det är de svenska riksdagspartierna som har tecknat den politiska spelplanen efter etniska linjer. Väljarna spelar bara spelet, skriver författaren Qaisar Mahmood.",
-      "pubDate": "2026-09-28T14:45:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Är det öppet krig nu mellan S och V?",
-      "link": "https://www.dn.se/podd/alskade-politik/ar-det-oppet-krig-nu-mellan-s-och-v/",
-      "description": "V stöder Moderaternas talmanskandidat och Magdalena Andersson lämnar tillbaka sonderingsuppdraget. Varför är det så sårigt mellan Socialdemokraterna och Vänsterpartiet?",
-      "pubDate": "2026-09-28T14:31:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V"
-      ]
-    },
-    {
-      "title": "Valmyndigheten om Postnords miss: Fått konsekvenser",
-      "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-om-postnords-miss-fatt-konsekvenser",
-      "description": "Valmyndigheten och Postnord har haft ett inledande möte kring uppgifter om fellevererade förtidsröster.",
-      "pubDate": "2026-09-28T12:43:51Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
@@ -304,21 +314,6 @@
       "sourceType": "blog",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Råd från parterapeuten",
-      "link": "https://www.dagensarena.se/opinion/rad-fran-parterapeuten/",
-      "description": "Äktenskapsråden kan lika gärna tillämpas på Socialdemokraterna, Vänsterpartiet, Centerpartiet och Miljöpartiet. Inlägget Råd från parterapeuten dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-25T23:30:19Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
       ]
     },
     {
@@ -394,6 +389,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Plötsligt vill ingen försöka bli statsminister",
+      "link": "https://pod.space/alskadepolitik/plotsligt-vill-ingen-forsoka-bli-statsminister",
+      "description": "Varför vill inte någon av partiledarna ha talmannens prestigefulla sonderingsuppdrag? Det pratar vi om direkt från riksdagens högtidliga öppnande.",
+      "pubDate": "2026-09-29T15:21:30Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "318. Hemliga mötet utan V",
       "link": "https://pod.space/politikrummet/318-hemliga-motet-utan-v",
@@ -563,20 +570,6 @@
       "sourceType": "podcast",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "315. Då måste Dadgostar avgå",
-      "link": "https://pod.space/politikrummet/315-da-maste-dadgostar-avga",
-      "description": "Talmansrundorna är igång! Finns det några öppningar alls för Magdalena Andersson – eller kommer bollen hamna hos Ulf Kristersson? I studion: Filippa Rogvall, Viktor Barth-Kron och Anette Holmqvist. Producent: Anna Westman Swantesson. Ansvarig utgivare: Klas Granström, Expressen AB.",
-      "pubDate": "2026-09-21T11:56:42Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M",
-        "V"
       ]
     }
   ]
