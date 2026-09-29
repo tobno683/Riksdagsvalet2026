@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T19:44:43.240783Z",
+  "updated_at": "2026-09-29T00:00:34.374711Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -404,6 +404,56 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
+    },
+    {
+      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
+      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
+      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
+      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
+      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "BREV 490 – Kartlägg människor efter deras ras.",
+      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
+      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
+      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
+      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "SD",
+        "C"
+      ]
     }
   ],
   "podcasts": [
