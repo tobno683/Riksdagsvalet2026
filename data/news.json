@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T00:00:34.374711Z",
+  "updated_at": "2026-09-29T05:54:52.170722Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,75 @@
   ],
   "news": [
     {
+      "title": "Ifrågasätter valet: ”Hänger i luften”",
+      "link": "https://www.expressen.se/nyheter/politik/ifragasatter-valet-hanger-i-luften/",
+      "description": "Valprövningsnämnden översköljs av överklaganden och på sociala medier sprids konspirationsteorier om riksdagsvalet.&nbsp; Konservativa tankesmedjan Oikos driver nu kampanjen ”Omval 2026” och samlar in namnunderskrifter.&nbsp; – Vi vill att människor som är bekymrade ska få möjlighet att uttrycka det, säger Carl Eos, senior fellow på Oikos.&nbsp;",
+      "pubDate": "2026-09-29T05:17:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Johan Croneman: Jäklar vilket fiasko när V gör politiken till ett fritids",
+      "link": "https://www.dn.se/kultur/johan-croneman-jaklar-vilket-fiasko-nar-v-gor-politiken-till-ett-fritids/",
+      "description": "I ”Agenda” släppte Vänsterpartiet eftervalets största politiska bomb – och mindre än tolv timmar senare kunde vi skåda konsekvenserna. Svensk politik just nu är det löjligas konst, skriver Johan Croneman.",
+      "pubDate": "2026-09-29T04:41:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Norléns miljonarvode säkrat – så mycket tjänar han",
+      "link": "https://www.expressen.se/nyheter/politik/norlens-miljonarvode-sakrat-sa-mycket-tjanar-han/",
+      "description": "Vänsterpartiet hjälpte Andreas Norlén till fyra nya år som riksdagens talman. Det innebär också ett rejält klirr i kassan. Med posten följer ett arvode på 211 000 kronor i månaden, skriver SvD .",
+      "pubDate": "2026-09-29T04:30:32Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Mitt i regeringskaoset – riksdagens högtidliga öppnande",
+      "link": "https://www.sverigesradio.se/artikel/9309081",
+      "description": "I dag äger riksdagens öppnande rum som markerar starten på riksdagens nya arbetsår. Vanligtvis håller statsministern en regeringsförklaring, men eftersom Sverige har en övergångsregering blir det ingen sådan i år. På onsdag inleder talmannen samtal med samtliga partiledare för att försöka få en ny regering på plats, trots partiernas olika röda linjer. ”Det är ett väldigt låst läge”, säger statsvetaren Tommy Möller, som tror att Centerpartiet får en nyckelroll i regeringsbildningen.",
+      "pubDate": "2026-09-29T03:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Susanne Nyström: Så förlorade Vänsterpartiet greppet om sin egen kris",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-sa-forlorade-vansterpartiet-greppet-om-sin-egen-kris/",
+      "description": "När Vänsterpartiets ledning tycktes ha gått upp i rök publicerade Nooshi Dadgostar plötsligt en delfinbild på Instagram. Varför, undrade många. För att det inte var hon, lyder det fega svaret.",
+      "pubDate": "2026-09-29T03:23:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "De kryssade sig in i riksdagen: ”En liten revansch”",
+      "link": "https://www.sverigesradio.se/artikel/9308988",
+      "description": "På tisdagen inleder riksdagen sitt arbetsår och bland de nyvalda ledamöterna har åtta valts in med personkryssens hjälp det här valet. ”Jag är extremt hedrad” säger Julia Algotsson (C) i Västerbotten och för mångåriga riksdagsledamoten Sten Bergheden (M) blev det något av en revansch sen partiet placerat honom på fjärde plats på listan i Västra Götalands östra valkrets. ”Jag är glad att det i slutändan är Skaraborgarna som avgör vem som ska komma till riksdagen.”",
+      "pubDate": "2026-09-29T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Andreas Norlén talman för tredje gången – efter stöd från V",
       "link": "https://www.svt.se/nyheter/inrikes/andreas-norlen-talman-for-tredje-gangen-efter-stod-fran-v",
       "description": "Moderata Andreas Norlén får fortsätta sitt uppdrag som talman – efter stöd från Vänsterpartiet. Draget har kallats för ett ”svek” av Socialdemokraterna och en ”besvikelse” av Miljöpartiet. Bara timmar tidigare lämnade Magdalena Andersson (S) tillbaka sonderingsuppdraget.",
@@ -105,43 +174,6 @@
       ]
     },
     {
-      "title": "Tipset om misstänkta valfusket i Borlänge: Pizza för V-röst",
-      "link": "https://www.expressen.se/nyheter/sverige/tipset-om-misstankta-valfusket-i-borlange-pizza-for-v-rost/",
-      "description": "Tips om missbrukare som övertalats att rösta på Vänsterpartiet för en pizza och lite pengar. Så började utredningen om misstänkt valfusk i Borlänge. – Det var en av de första grejerna som kom in, bekräftar en poliskälla med insyn. Tidigt fanns också uppgifter om att äldre väljare pressats att rösta.",
-      "pubDate": "2026-09-28T18:01:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Alice Landerholm, 23, vill ta över Muf",
-      "link": "https://www.expressen.se/nyheter/politik/alice-landerholm-23-vill-ta-over-muf/",
-      "description": "Alice Landerholm, 23, vill ta över Muf. Den moderata ”nepobabyn” ser inga problem med att sitta i riksdagen samtidigt som hon leder det mäktiga ungdomsförbundet – och ska öka pressen på Ulf Kristersson. – Tonårsutvisningarna är ett tydligt exempel, säger hon.",
-      "pubDate": "2026-09-28T18:00:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Domen om bråken mellan S och V: ”Tågkrasch”",
-      "link": "https://www.expressen.se/nyheter/sverige/domen-om-braken-mellan-s-och-v-tagkrasch/",
-      "description": "Andreas Norlén har fått förnyat förtroende som talman. Det, tack vare Vänsterpartiet, som valde Norlén framför det socialdemokratiska alternativet Johanna Haraldsson. – De beter sig som förskolebarn, säger Leonidas Aretakis, chefredaktör på Flamman.",
-      "pubDate": "2026-09-28T17:43:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
       "title": "Ledarskribenter: De fjantar sig – det är dagisnivå",
       "link": "https://www.sverigesradio.se/artikel/9309007",
       "description": "Vänsterpartiet har röstat på moderaten Andreas Norlén som talman – Socialdemokraterna har svarat med att lämna tillbaka uppdraget att bilda regering och säger att nu får Moderaterna och Vänsterpartiet försöka bilda regering istället. Ledarskribentspanelen analyserar läget, vad som ledde hit och tankar framåt i Studio Ett. Hör Stig-Björn Ljunggren, politisk chefredaktör för Sydöstran, Patrik Kronqvist, politisk redaktör för Expressen, Leonidas Aretakis, chefredaktör Flamman och Tove Lifvendahl, politisk chefredaktör Svenska Dagbladet.",
@@ -153,18 +185,6 @@
         "S",
         "M",
         "V"
-      ]
-    },
-    {
-      "title": "Ledare: V:s agerande är viktig information till de rödgröna väljarna",
-      "link": "https://www.dn.se/ledare/vs-agerande-ar-viktig-information-till-de-rodgrona-valjarna/",
-      "description": "Det finns en tendens att överskatta talmannens betydelse för regeringsbildningen. Men det betyder inte att måndagens händelser saknar relevans.",
-      "pubDate": "2026-09-28T16:20:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
       ]
     },
     {
@@ -218,18 +238,6 @@
       "topics": []
     },
     {
-      "title": "Ett drama om en rödgrön familj i kris",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/ett-drama-om-en-rodgron-familj-i-kris/",
-      "description": "Centerpartiet är S-familjens tydliga favoritbarn. Problemet är att även den jobbiga lillasystern behöver hjälpa till med disken.",
-      "pubDate": "2026-09-28T14:35:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "Är det öppet krig nu mellan S och V?",
       "link": "https://www.dn.se/podd/alskade-politik/ar-det-oppet-krig-nu-mellan-s-och-v/",
       "description": "V stöder Moderaternas talmanskandidat och Magdalena Andersson lämnar tillbaka sonderingsuppdraget. Varför är det så sårigt mellan Socialdemokraterna och Vänsterpartiet?",
@@ -252,23 +260,19 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Efter Anderssons (S) sonderingsbesked – det här väntar nu",
-      "link": "https://www.sverigesradio.se/artikel/9308749",
-      "description": "Andreas Norlén (M) får fortsätta som talman och det blir han som får ta processen med regeringsbildningen vidare. Magdalena Andersson (S) meddelade tidigare under måndagen att hon lämnar tillbaka sonderingsuppdraget och nu väntas uppdraget gå till Ulf Kristersson (M), enligt Fredrik Furtenbach, inrikespolitisk kommentator. ”Han lär inte heller lyckas”, säger Furtenbach.",
-      "pubDate": "2026-09-28T13:10:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Hur svenska staten byggde det somaliska klan-nätverket",
+      "link": "https://ledarsidorna.se/hur-svenska-staten-byggde-det-somaliska-klan-natverket/",
+      "description": "Debatten om Borlängevalet har handlat om förkryssade valsedlar och ordet klan. Men det material, inte bara medieuppgifter, som finns tillgängligt i främst öppna arkiv och andra källor visar dock något annat. Det visar ett öppet och personligt nätverksbygge mellan Somalias försvars- och säkerhetsledning och två svensksomaliska nätverk. Nätverket byggdes steg för steg med svenska offentliga [&#8230;]",
+      "pubDate": "2026-09-29T01:54:43Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Magdalena Andersson ger upp utan att ens ha försökt",
       "link": "https://blog.zaramis.se/2026/09/28/magdalena-andersson-ger-upp-utan-att-ens-ha-forsokt/",
@@ -404,56 +408,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
-      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
-      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
-      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
-      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 490 – Kartlägg människor efter deras ras.",
-      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
-      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
-      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
-      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "C"
-      ]
     }
   ],
   "podcasts": [
