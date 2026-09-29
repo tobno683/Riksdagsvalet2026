@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T05:54:52.170722Z",
+  "updated_at": "2026-09-29T11:41:34.468271Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,12 +79,84 @@
   ],
   "news": [
     {
-      "title": "Ifrågasätter valet: ”Hänger i luften”",
-      "link": "https://www.expressen.se/nyheter/politik/ifragasatter-valet-hanger-i-luften/",
-      "description": "Valprövningsnämnden översköljs av överklaganden och på sociala medier sprids konspirationsteorier om riksdagsvalet.&nbsp; Konservativa tankesmedjan Oikos driver nu kampanjen ”Omval 2026” och samlar in namnunderskrifter.&nbsp; – Vi vill att människor som är bekymrade ska få möjlighet att uttrycka det, säger Carl Eos, senior fellow på Oikos.&nbsp;",
-      "pubDate": "2026-09-29T05:17:52Z",
+      "title": "M-källor: Kristersson borde tacka nej till att sondera",
+      "link": "https://www.expressen.se/nyheter/politik/m-kallor-kristersson-borde-tacka-nej-till-att-sondera/",
+      "description": "Det skulle bara hjälpa S om Kristersson tar sonderingsuppdraget.&nbsp; Det menar moderata riksdagskällor som TV4 Nyheterna pratat med – och uppmanar Kristersson att tacka nej om frågan kommer från talmannen. &nbsp;&nbsp;",
+      "pubDate": "2026-09-29T11:00:38Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Blixtinkallar till möte om misstänkt röstfusk i Järva",
+      "link": "https://www.expressen.se/nyheter/politik/blixtinkallar-till-mote-om-misstankt-rostfusk-i-jarva/",
+      "description": "Kommunstyrelsen i Stockholm kallar till ett extrainsatt möte om misstänkt valfusk i Järva. Det efter en begäran från Moderaterna, som kräver att staden tillsätter en oberoende utredning.",
+      "pubDate": "2026-09-29T10:06:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Amanda Lind (MP) om regeringsstrulet: ”Det brådskar”",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=084a6043-7d28-4b01-9a2a-638b356d3487",
+      "description": "Amanda Lind om regeringskaoset • Följ riksdagens öppnande",
+      "pubDate": "2026-09-29T10:04:21Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Insändare. Magdalena Andersson är en stor besvikelse",
+      "link": "https://www.dn.se/insandare/magdalena-andersson-ar-en-stor-besvikelse/",
+      "description": "INSÄNDARE. Ingen skulle privat eller på jobbet lyckas med att behandla en samarbetspartner eller vän som en dörrmatta. Socialdemokraternas partiledare Magdalena Andersson har nu visat att hon inte håller som ledare för Sverige, skriver småföretagaren Staffan Eriksson.",
+      "pubDate": "2026-09-29T08:50:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Statsministerns ändring – framför kungen",
+      "link": "https://www.expressen.se/nyheter/kungligt/statsministerns-andring-framfor-kungen/",
+      "description": "I dag öppnar riksdagen. Kungen är traditionsenligt på plats vid riksmötets öppnande.&nbsp; Men en annan tradition slopas helt i år.",
+      "pubDate": "2026-09-29T08:26:42Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Chatt: Vad undrar du om politiken just nu?",
+      "link": "https://www.svt.se/nyheter/inrikes/chatt-vad-undrar-du-om-politiken-just-nu",
+      "description": "Magdalena Andersson (S) har återlämnat sonderingsuppdraget, Andreas Norlén är återvald som talman, Sverige har ännu ingen ny regering. Vad undrar du om den politiska turbulensen?",
+      "pubDate": "2026-09-29T08:13:20Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Pingpong i Gävleborg – nu vill de rödgröna riva upp allt",
+      "link": "https://www.dn.se/sverige/pingpong-i-gavleborg-nu-vill-de-rodgrona-riva-upp-allt/",
+      "description": "GÄVLE. Efter valet väntar maktskifte i Region Gävleborg och en ideologisk helomvändning. De rödgröna är redo att riva upp en omdiskuterad bolagisering av primärvården – bara ett halvår efter införandet. Men vårdpersonalen är trött på förändringar.",
+      "pubDate": "2026-09-29T08:06:22Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
@@ -95,18 +167,6 @@
       "pubDate": "2026-09-29T04:41:47Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Norléns miljonarvode säkrat – så mycket tjänar han",
-      "link": "https://www.expressen.se/nyheter/politik/norlens-miljonarvode-sakrat-sa-mycket-tjanar-han/",
-      "description": "Vänsterpartiet hjälpte Andreas Norlén till fyra nya år som riksdagens talman. Det innebär också ett rejält klirr i kassan. Med posten följer ett arvode på 211 000 kronor i månaden, skriver SvD .",
-      "pubDate": "2026-09-29T04:30:32Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
@@ -138,16 +198,6 @@
       ]
     },
     {
-      "title": "De kryssade sig in i riksdagen: ”En liten revansch”",
-      "link": "https://www.sverigesradio.se/artikel/9308988",
-      "description": "På tisdagen inleder riksdagen sitt arbetsår och bland de nyvalda ledamöterna har åtta valts in med personkryssens hjälp det här valet. ”Jag är extremt hedrad” säger Julia Algotsson (C) i Västerbotten och för mångåriga riksdagsledamoten Sten Bergheden (M) blev det något av en revansch sen partiet placerat honom på fjärde plats på listan i Västra Götalands östra valkrets. ”Jag är glad att det i slutändan är Skaraborgarna som avgör vem som ska komma till riksdagen.”",
-      "pubDate": "2026-09-29T01:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Andreas Norlén talman för tredje gången – efter stöd från V",
       "link": "https://www.svt.se/nyheter/inrikes/andreas-norlen-talman-for-tredje-gangen-efter-stod-fran-v",
       "description": "Moderata Andreas Norlén får fortsätta sitt uppdrag som talman – efter stöd från Vänsterpartiet. Draget har kallats för ett ”svek” av Socialdemokraterna och en ”besvikelse” av Miljöpartiet. Bara timmar tidigare lämnade Magdalena Andersson (S) tillbaka sonderingsuppdraget.",
@@ -162,32 +212,6 @@
       ]
     },
     {
-      "title": "Talmannen Norlén: Alis ledighetsansökan en principfråga",
-      "link": "https://www.sverigesradio.se/artikel/9309024",
-      "description": "Samma dag som Andreas Norlén omvaldes till talman fick han ta emot en ledighetsansökan från Vänsterpartiets Mohamed Ali. Mohamed Ali kryssades in i riksdagen för Vänsterpartiet. Därefter inleddes en utredning om misstänkt valfusk, bland annat efter uppgifter om förkryssade valsedlar och att personer ska ha skjutsats till vallokalerna. Ali är inte själv delgiven någon misstanke om brott. Andreas Norlén kommenterade ledighetsansökan på en pressträff under måndagseftermiddagen.",
-      "pubDate": "2026-09-28T18:08:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ledarskribenter: De fjantar sig – det är dagisnivå",
-      "link": "https://www.sverigesradio.se/artikel/9309007",
-      "description": "Vänsterpartiet har röstat på moderaten Andreas Norlén som talman – Socialdemokraterna har svarat med att lämna tillbaka uppdraget att bilda regering och säger att nu får Moderaterna och Vänsterpartiet försöka bilda regering istället. Ledarskribentspanelen analyserar läget, vad som ledde hit och tankar framåt i Studio Ett. Hör Stig-Björn Ljunggren, politisk chefredaktör för Sydöstran, Patrik Kronqvist, politisk redaktör för Expressen, Leonidas Aretakis, chefredaktör Flamman och Tove Lifvendahl, politisk chefredaktör Svenska Dagbladet.",
-      "pubDate": "2026-09-28T17:16:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V"
-      ]
-    },
-    {
       "title": "”Anderssons väg framåt verkar redan ha kört i diket”",
       "link": "https://www.svt.se/nyheter/inrikes/relationen-mellan-s-och-v-ar-djupfryst",
       "description": "Om det såg svårt ut att bilda en rödgrön regering tidigare, är det inget emot hur det ser ut nu. I hela valrörelsen undvek S-ledaren Magdalena Andersson att tala om de svårigheter hon såg framför sig för att kunna bilda regering. Efter dagens händelseutveckling är det lätt att inse varför.",
@@ -197,34 +221,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "”Har meddelat att jag inte vill ha det här sonderingsuppdraget”",
-      "link": "https://www.sverigesradio.se/artikel/9308946",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson gav idag beskedet till den återvalde talmannen Andreas Norlén att hon inte vill ha sonderingsuppdraget, att undersöka möjligheterna att bilda regering. Beslutet kom efter att Vänsterpartiet beslutat att rösta på Andreas Norlén istället för en socialdemokratisk kandidat till talman. Även valet av tredje vice talman präglades av det svåra läge som råder i försöken att bilda regering, som slutade med att Centerpartiets Kerstin Lundgren vann över Vänsterpartiets Håkan Svenneling.",
-      "pubDate": "2026-09-28T15:31:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist (C): Vänsterpartiet bröt överenskommelse",
-      "link": "https://www.sverigesradio.se/artikel/9308945",
-      "description": "Enligt Centerledaren Thand Ringqvist bröt Vänsterpartiet en överenskommelse mellan de fyra rödgröna partierna när de röstade för Andreas Norlén (M) som talman. ”Vi hade förutsatt att vi skulle rösta ja till en socialdemokratisk talman och sedan skulle vi rösta för en vänsterpartistisk tredje vicetalman”, säger Elisabeth Thand Ringqvist (C). ”När en del av uppgörelsen faller så hittade vi en annan lösning,” fortsätter hon. Samuel Gonzalez Westling (V) skriver på sociala medier att det inte fanns någon överenskommelse: ”Jag har aldrig sagt att Vänsterpartiet skulle stödja en socialdemokratisk talman, tvärtom. Jag vädrade de tveksamheter som fanns hos oss”.",
-      "pubDate": "2026-09-28T15:30:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     },
     {
@@ -252,12 +248,12 @@
       ]
     },
     {
-      "title": "Postnord pudlar efter valstrulet: För stora volymer",
-      "link": "https://www.sverigesradio.se/artikel/9308522",
-      "description": "Postnord hade inte tagit tillräcklig höjd för att hantera de rekordmånga förtidsrösterna i sina prognoser. ”Volymen blir så stora så de blir svåra att hantera”, säger Postnords presschef Anders Porelius efter ett möte med Valmyndigheten. Sedan valdagen har totalt 53 kommuner rapporterat över 100 problem med leveranser av förtidsröster till Valmyndigheten. I vissa fall handlade det om röster som kommit till fel vallokal eller som varit osorterade.",
-      "pubDate": "2026-09-28T14:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Valmyndigheten om Postnords miss: Fått konsekvenser",
+      "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-om-postnords-miss-fatt-konsekvenser",
+      "description": "Valmyndigheten och Postnord har haft ett inledande möte kring uppgifter om fellevererade förtidsröster.",
+      "pubDate": "2026-09-28T12:43:51Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
     }
@@ -308,19 +304,6 @@
       "sourceType": "blog",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Vänsterpartiets regeringsduglighet",
-      "link": "https://blog.zaramis.se/2026/09/26/vansterpartiets-regeringsduglighet/",
-      "description": "Många socialdemokrater deltar också i hetsen mot Vänsterpartiet men inte lika öppet och utan den rasism som präglar högerns angrepp på V. Socialdemokraterna hävdar istället att Vänsterpartiets regeringsduglighet är nåt som saknas. Det är ett mycket konstigt påstående. Läs mer … Inlägget Vänsterpartiets regeringsduglighet dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-26T05:07:50Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
       ]
     },
     {
