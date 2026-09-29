@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T17:08:00.332228Z",
+  "updated_at": "2026-09-29T21:28:29.916924Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,103 @@
     }
   ],
   "news": [
+    {
+      "title": "Gabrielsson (V) slår tillbaka: ”Mest ohederliga teater jag upplevt”",
+      "link": "https://www.svt.se/nyheter/inrikes/gabrielsson-v-slar-tillbaka-mest-ohederliga-teater-jag-upplevt",
+      "description": "Vänsterpartiets Ida Gabrielsson reagerar på X efter Anders Ygeman (S) och Rickard Nordins (C) medverkan i tisdagskvällens Aktuellt. Hon vänder sig mot påståendet att V skulle göra upp med Tidösidan efter att partiet röstat fram Andreas Norlén som talman: ”Detta är den mest ohederliga teater jag någonsin upplevt”, skriver Gabrielsson.",
+      "pubDate": "2026-09-29T21:18:50Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Trumps löften för att dämpa AI-oron: ”Moraliskt bindande”",
+      "link": "https://www.sverigesradio.se/artikel/9309842",
+      "description": "I Vita huset möttes Donald Trump och flera företrädare för de största AI-bolagen, under tisdagen. Sveriges Radios USA-korrespondent Simon Isaksson berättar mer om mötet: ”Jag tror att man försökte adressera oron i USA just nu kring AI inför mellanårsvalet där väljare i USA har många olika funderingar”.",
+      "pubDate": "2026-09-29T21:18:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Vänsterns attack mot S och C: ”Ohederlig teater”",
+      "link": "https://www.expressen.se/nyheter/politik/vansterns-attack-mot-s-och-c-ohederlig-teater/",
+      "description": "Vänsterpartiets vice partiledare Ida Gabrielsson är upprörd. Detta efter att Anders Ygeman (S) och Rickard Nordin (C) medverkat i kvällens ”Aktuellt” i SVT – och återigen riktat kritik mot V. Hon beskriver det som ”den mest ohederliga teater jag någonsin upplevt”.",
+      "pubDate": "2026-09-29T19:36:46Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "DN/Ipsos: Kristerssons stöd ökar efter valet",
+      "link": "https://www.expressen.se/nyheter/politik/dnipsos-kristerssons-stod-okar-efter-valet/",
+      "description": "Stödet för Moderaterna ökar efter valet. Övertaget på Sverigedemokraterna är det största på åtta år, enligt en mätning från Ipsos/DN.&nbsp; – Det är tydligt att det är stödröstare som återvänder, säger analytikern Nicklas Källebring till tidningen .",
+      "pubDate": "2026-09-29T19:17:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "29 september: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/29-september-missa-inte-dagens-nyheter/",
+      "description": "Moderaternas väljarstöd ökar, alla ledamöter i nya riksdagen och storbråk mellan Sydkorea och Ukraina – här är nyheterna du inte får missa från dagen.",
+      "pubDate": "2026-09-29T19:01:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Bildt: Då kan extraval bli nödvändigt",
+      "link": "https://www.expressen.se/nyheter/politik/bildt-da-kan-extraval-bli-nodvandigt/",
+      "description": "”Rödgrön röra i kubik” och behov av ”samtalsterapi”. Carl Bildt målar upp en minst sagt komplicerad väg till en ny regering – och utesluter inte att det slutar med extraval. – Det kan mycket väl bli nödvändigt, säger den tidigare statsministern till Dagens industri .",
+      "pubDate": "2026-09-29T17:25:28Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Moderaternas övertag på Sverigedemokraterna växer",
+      "link": "https://www.dn.se/sverige/moderaternas-overtag-pa-sverigedemokraterna-vaxer/",
+      "description": "Moderaternas väljarstöd ökar i DN/Ipsos första mätning efter valet. Det var åtta år sedan partiet senast hade ett lika stort övertag på Sverigedemokraterna som nu.",
+      "pubDate": "2026-09-29T17:20:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Experterna: Vinnare och förlorare vid extra val",
+      "link": "https://www.expressen.se/nyheter/sverige/experterna-vinnare-och-forlorare-vid-extra-val/",
+      "description": "Regeringsförhandlingarna är låsta. Skulle positionerna förbli låsta under fyra statsministeromröstningar väntar nyval. Expressen har talat med två statsvetare som försöker reda ut vilka som blir vinnarna – och förlorarna – i ett potentiellt extra val. – Inte minst Socialdemokraterna kan ta stryk, säger Johan Hellström, statsvetare vid Umeå universitet.",
+      "pubDate": "2026-09-29T17:15:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Skatteverket: Mohamed Ali  kan tvingas betala skulderna",
       "link": "https://www.expressen.se/nyheter/sverige/skatteverket-mohamed-ali--kan-tvingas-betala-skulderna/",
@@ -169,102 +266,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S-ledarens krav på C och V: ”Börja sudda röda linjer”",
-      "link": "https://www.dn.se/sverige/s-ledarens-krav-pa-c-och-v-borja-sudda-roda-linjer/",
-      "description": "Det hårda tonläget fortsätter mellan partierna på den rödgröna sidan. Nu uppmanar S-ledaren Magdalena Andersson Centerpartiet och Vänsterpartiet att börja sudda ut sina röda linjer. – Ingen har fått 50 procent och då får man heller inte allt man önskar sig, säger hon.",
-      "pubDate": "2026-09-29T13:45:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. Enfaldiga rödgröna sumpar chans att ändra klimatkurs",
-      "link": "https://www.dn.se/insandare/enfaldiga-rodgrona-sumpar-chans-att-andra-klimatkurs/",
-      "description": "INSÄNDARE. När svenska medier i frossar i vårt politiska kaos byter jag till internationella tv-kanaler som skildrade den akuta klimatkrisen. De rödgröna verkar tyvärr sumpa sin chans att styra Sverige på rätt klimatkurs för framtiden, skriver författaren Arne Bengtsson.",
-      "pubDate": "2026-09-29T13:24:49Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Åkessons krav: Rösta om Andersson",
-      "link": "https://www.expressen.se/nyheter/politik/akessons-krav-rosta-om-andersson/",
-      "description": "Magdalena Andersson lämnade tillbaka sonderingsuppdraget till talmannen. Det gillar inte Jimmie Åkesson. – Det är ett ofog som talmännen hittar på för att det parlamentariska läget är problematiskt, säger han.",
-      "pubDate": "2026-09-29T12:51:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Nya Malmöstyret klart – Vänsterpartiet åter i värmen",
-      "link": "https://www.dn.se/sverige/nya-malmostyret-klart-vansterpartiet-ater-i-varmen/",
-      "description": "Det blir S, V och MP som styr i Malmö den kommande mandatperioden. Den nya koalitionen presenterades på tisdagen. En höjd kommunalskatt står högt upp på dagordningen. – Malmöborna har röstat för en tydlig rödgrön politik, säger Katrin Stjernfeldt Jammeh (S), kommunstyrelsens ordförande.",
-      "pubDate": "2026-09-29T12:01:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Inled rödgrön enighet med att påskynda medborgarskap",
-      "link": "https://www.dn.se/insandare/inled-rodgron-enighet-med-att-paskynda-medborgarskap/",
-      "description": "INSÄNDARE. Fyra partier som nu ofta beskrivs som närmast oförenliga lyckades för bara några månader agera gemensamt i riksdagen. Med den nyvalda riksdagen finns en konkret möjlighet att på nytt pröva frågan om övergångsbestämmelser som Tidöpartierna drev igenom i somras, skriver Patrick Henry Gallen.",
-      "pubDate": "2026-09-29T11:58:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "M-källor: Kristersson borde tacka nej till att sondera",
-      "link": "https://www.expressen.se/nyheter/politik/m-kallor-kristersson-borde-tacka-nej-till-att-sondera/",
-      "description": "Andersson gav upp – och tycker att Kristersson nu ska sondera. Men M-ledaren bollar tillbaka bollen till de rödgröna. Först om det finns ”parlamentariska förutsättningar” vill han ha uppdraget. – Då är jag beredd, säger han till SVT.",
-      "pubDate": "2026-09-29T11:00:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Insändare. Magdalena Andersson är en stor besvikelse",
-      "link": "https://www.dn.se/insandare/magdalena-andersson-ar-en-stor-besvikelse/",
-      "description": "INSÄNDARE. Ingen skulle privat eller på jobbet lyckas med att behandla en samarbetspartner eller vän som en dörrmatta. Socialdemokraternas partiledare Magdalena Andersson har nu visat att hon inte håller som ledare för Sverige, skriver småföretagaren Staffan Eriksson.",
-      "pubDate": "2026-09-29T08:50:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Chatt: Vad undrar du om politiken just nu?",
-      "link": "https://www.svt.se/nyheter/inrikes/chatt-vad-undrar-du-om-politiken-just-nu",
-      "description": "Magdalena Andersson (S) har återlämnat sonderingsuppdraget, Andreas Norlén är återvald som talman, Sverige har ännu ingen ny regering. Vad undrar du om den politiska turbulensen?",
-      "pubDate": "2026-09-29T08:13:20Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     }
   ],
