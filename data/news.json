@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T18:11:23.366003Z",
+  "updated_at": "2026-09-30T22:25:40.797730Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -228,18 +228,6 @@
       ]
     },
     {
-      "title": "Jomshof öppnar för en regering utan SD",
-      "link": "https://www.expressen.se/nyheter/politik/jomshof-oppnar-for-en-regering-utan-sd/",
-      "description": "SD-toppen Richard Jomshof öppnar för att partiet kan släppa kravet på ministerposter i en intervju med Kvartal . – Men vi kommer ju inte göra det gratis, säger han. Uttalandet väcker kraftiga reaktioner i partiet – samtidigt som det riktas SD-kritik mot intervjun. Åkesson är tydlig med att det är han som bestämmer. ”Som alla vet så är det jag som tecknar firma för partiet i den här frågan”, skriver han på X.",
-      "pubDate": "2026-09-30T14:00:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "Insändare. Svar: Orimligt att 648 personryss kan ge riksdagsplats",
       "link": "https://www.dn.se/insandare/svar-orimligt-att-648-personryss-kan-ge-riksdagsplats/",
       "description": "SVAR PÅ INSÄNDARE. Det är orimligt en promilles personkryss av ett partis totala röster ska kunna räcka för att få en riksdagsplats. Exemplet med vänsterpartisten Mohamed Abdukardir Ali i Borlänge visat att systemet med personkryss måste avskaffas, skriver Magnus Hübinette.",
@@ -261,6 +249,18 @@
       "sourceType": "news",
       "topics": [
         "SD"
+      ]
+    },
+    {
+      "title": "De kammade hem flest personkryss i Stockholm",
+      "link": "https://www.dn.se/sverige/de-kammade-hem-flest-personkryss-i-stockholm/",
+      "description": "Med alla distrikt räknade finns nu en topplista över de mest personkryssade kandidaterna i kommunvalet i Stockholm. Vänsterpartiet är ensamt om att ta flera platser på listan. – Vi är väldigt glada över det starka stöd vi har fått i Stockholm, inte minst i ytterstaden, säger Alexandra Mattson (V), gruppledare i staden.",
+      "pubDate": "2026-09-30T11:35:22Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
       ]
     }
   ],
