@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T00:38:53.217066Z",
+  "updated_at": "2026-09-30T06:05:44.852373Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,54 @@
   ],
   "news": [
     {
+      "title": "Björn Söders ord om Fröken Snusk: ”Inte värdigt”",
+      "link": "https://www.expressen.se/nyheter/politik/bjorn-soders-ord-om-froken-snusk-inte-vardigt/",
+      "description": "Artisten Fröken Snusk kampanjade för Sverigedemokraterna i valrörelsens slutspurt. Sedan störtdök partiets väljarstöd. SD-toppen Björn Söder pekar nu ut artisten som en möjlig faktor.&nbsp; – Jag tycker inte det var värdigt, säger han till SvD. &nbsp;",
+      "pubDate": "2026-09-30T05:17:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Bensinpriset höjs med en krona",
+      "link": "https://www.sverigesradio.se/artikel/9309874",
+      "description": "I morgon torsdag höjs priset på bensin med drygt en krona litern, medan dieseln blir 40 öre dyrare. Det beror på att den tillfälliga skattesänkningen på fossila bränslen som infördes i våras nu löper ut. Från Tidöregeringen införde också en annan tillfällig sänkning av koldioxidskatten, som löper ut 1 december. Om inget nytt beslut tas före dess kommer det leda till att både bensin- och dieselpriset höjs med runt tre kronor.",
+      "pubDate": "2026-09-30T05:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Dåliga val runt om i landet kostade Liberalerna miljoner",
+      "link": "https://www.sverigesradio.se/artikel/9309515",
+      "description": "Liberalerna lyckades klamra sig kvar i riksdagen. Men partiet förlorade många platser i kommuner och regioner och det kostar pengar för partiet – i form av minskat partistöd. I kommunalvalen förlorade L sammanlagt drygt 110 liberala platser, vilket innebär ett tapp på nära fem miljoner kronor. Dessutom tappade liberalerna ett tjugotal ledamöter i regionerna. Enligt sin senaste årsredovisning har Liberalerna cirka 20 miljoner i tillgångar. Att jämföra med exempelvis Centerpartiet som har en dryg miljard.",
+      "pubDate": "2026-09-30T04:08:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "L"
+      ]
+    },
+    {
+      "title": "Centerpartiet saknar en plan B",
+      "link": "https://www.svt.se/nyheter/inrikes/centerpartiet-saknar-en-plan-b",
+      "description": "Centerpartiet gick till val på en dröm om en mittenregering. Den lösningen fick dock inte tillräckligt stöd av väljarna och nu står partiet där nära nog fastlåsta i en rävsax och utan en plan B. Men deras viktigaste röda linje – den mot Sverigedemokraterna – kommer att ligga fast.",
+      "pubDate": "2026-09-30T04:07:57Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
       "title": "Gabrielsson (V) slår tillbaka: ”Mest ohederliga teater jag upplevt”",
       "link": "https://www.svt.se/nyheter/inrikes/gabrielsson-v-slar-tillbaka-mest-ohederliga-teater-jag-upplevt",
       "description": "Vänsterpartiets Ida Gabrielsson reagerar på X efter Anders Ygeman (S) och Rickard Nordins (C) medverkan i tisdagskvällens Aktuellt. Hon vänder sig mot påståendet att V skulle göra upp med Tidösidan efter att partiet röstat fram Andreas Norlén som talman: ”Detta är den mest ohederliga teater jag någonsin upplevt”, skriver Gabrielsson.",
@@ -113,19 +161,6 @@
       ]
     },
     {
-      "title": "DN/Ipsos: Kristerssons stöd ökar efter valet",
-      "link": "https://www.expressen.se/nyheter/politik/dnipsos-kristerssons-stod-okar-efter-valet/",
-      "description": "Stödet för Moderaterna ökar efter valet. Övertaget på Sverigedemokraterna är det största på åtta år, enligt en mätning från Ipsos/DN.&nbsp; – Det är tydligt att det är stödröstare som återvänder, säger analytikern Nicklas Källebring till tidningen .",
-      "pubDate": "2026-09-29T19:17:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD"
-      ]
-    },
-    {
       "title": "29 september: Missa inte dagens nyheter",
       "link": "https://www.dn.se/varlden/29-september-missa-inte-dagens-nyheter/",
       "description": "Moderaternas väljarstöd ökar, alla ledamöter i nya riksdagen och storbråk mellan Sydkorea och Ukraina – här är nyheterna du inte får missa från dagen.",
@@ -135,18 +170,6 @@
       "sourceType": "news",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Bildt: Då kan extraval bli nödvändigt",
-      "link": "https://www.expressen.se/nyheter/politik/bildt-da-kan-extraval-bli-nodvandigt/",
-      "description": "”Rödgrön röra i kubik” och behov av ”samtalsterapi”. Carl Bildt målar upp en minst sagt komplicerad väg till en ny regering – och utesluter inte att det slutar med extraval. – Det kan mycket väl bli nödvändigt, säger den tidigare statsministern till Dagens industri .",
-      "pubDate": "2026-09-29T17:25:28Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
       ]
     },
     {
@@ -160,19 +183,6 @@
       "topics": [
         "M",
         "SD"
-      ]
-    },
-    {
-      "title": "Experterna: Vinnare och förlorare vid extra val",
-      "link": "https://www.expressen.se/nyheter/sverige/experterna-vinnare-och-forlorare-vid-extra-val/",
-      "description": "Regeringsförhandlingarna är låsta. Skulle positionerna förbli låsta under fyra statsministeromröstningar väntar nyval. Expressen har talat med två statsvetare som försöker reda ut vilka som blir vinnarna – och förlorarna – i ett potentiellt extra val. – Inte minst Socialdemokraterna kan ta stryk, säger Johan Hellström, statsvetare vid Umeå universitet.",
-      "pubDate": "2026-09-29T17:15:01Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     },
     {
@@ -254,20 +264,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S-ledarens krav på C och V: ”Börja sudda röda linjer”",
-      "link": "https://www.dn.se/sverige/s-ledarens-krav-pa-c-och-v-borja-sudda-roda-linjer/",
-      "description": "Det hårda tonläget fortsätter mellan partierna på den rödgröna sidan. Nu uppmanar S-ledaren Magdalena Andersson Centerpartiet och Vänsterpartiet att börja sudda ut sina röda linjer. – Ingen har fått 50 procent och då får man heller inte allt man önskar sig, säger hon.",
-      "pubDate": "2026-09-29T13:45:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     }
   ],
@@ -388,9 +384,84 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
       "sourceType": "blog",
       "topics": []
+    },
+    {
+      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
+      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
+      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
+      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
+      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "BREV 490 – Kartlägg människor efter deras ras.",
+      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
+      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
+      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
+      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 488 – Ett rop på hjälp inifrån SD.",
+      "link": "https://jensganman.substack.com/p/brev-488-ett-rop-pa-hjalp-inifran",
+      "description": "&#196;r Baudin socialdemokraternas svar p&#229; Barney Gumble? / Ku Klux Klan-r&#246;sterna i Orten &#228;r ett faktum vare sig DN vill eller ej / &#196;r Petra Lundh ett geni? / En fl&#228;ngpropp tar sig ton i 100% / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Inläst: En politisk kameleont checkar ut",
+      "link": "https://pod.space/kvartal/inlast-en-politisk-kameleont-checkar-ut",
+      "description": "I torsdags begärde Ulf Kristersson sitt entledigande som statsminister. Efter fyra år i Rosenbad kan det vara på sin plats att – åtminstone så här långt – summera hans politiska karriär. Länge såg den ut att kunna sluta någon helt annanstans. Men den ständige påläggskalven som först blev rikskänd för ett spektakulärt nederlag lyckades till sist på krokiga vägar nå den absoluta toppen. Av Jörgen Huitfeldt Inläsare: Jörgen Huitfeldt",
+      "pubDate": "2026-09-30T04:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Plötsligt vill ingen försöka bli statsminister",
       "link": "https://pod.space/alskadepolitik/plotsligt-vill-ingen-forsoka-bli-statsminister",
@@ -560,18 +631,6 @@
       "sourceType": "podcast",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Under all kritik: Vem har råd med Centerpartiets åsikter?",
-      "link": "https://pod.space/kvartal/under-all-kritik-vem-har-rad-med-centerpartiets-asikter",
-      "description": "Centern växer i de fina kvarteren. I SVT:s fikarum får Ivar Arpi höra varför väninnorna i Djursholm har hittat till partiet. Det handlar om lyxåsikter, menar Anna-Karin Wyndhamn. Ja, vem får egentligen betala när de vackra åsikterna blir politik?",
-      "pubDate": "2026-09-22T04:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "C"
       ]
     }
   ]
