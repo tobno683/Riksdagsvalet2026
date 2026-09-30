@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T21:28:29.916924Z",
+  "updated_at": "2026-09-30T00:38:53.217066Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -176,18 +176,6 @@
       ]
     },
     {
-      "title": "Skatteverket: Mohamed Ali  kan tvingas betala skulderna",
-      "link": "https://www.expressen.se/nyheter/sverige/skatteverket-mohamed-ali--kan-tvingas-betala-skulderna/",
-      "description": "Skatteverket kan komma att begära omprövning av riksdagsledamoten Mohamed Alis skuldsanering.&nbsp; Obetalt underhåll, skatt och böter krävs i så fall in från hans riksdagslön av Kronofogden.&nbsp; Och Vänsterpartiet undantar honom nu från den egna partiskatten.&nbsp;",
-      "pubDate": "2026-09-29T16:50:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Förhandlingsexperten: Andersson (S) missar poängen med V:s utspel",
       "link": "https://www.sverigesradio.se/artikel/9309541",
       "description": "Magdalena Andersson meddelade i måndags att hon avslutar försöket att bilda regering efter Vänsterpartiets stöd till Tidöpartiernas talman. Lars-Johan Åge, professor i förhandling och medling, menar att beslutet att avbryta kan ha stängt dörren till viktig information om partiets mål i förhandlingarna. Även om regeringsbildningen tycks ha kört fast är Åge övertygad om att partiledarna kommer att hitta former för samarbete.",
@@ -267,9 +255,35 @@
         "M",
         "Regeringsbildning"
       ]
+    },
+    {
+      "title": "S-ledarens krav på C och V: ”Börja sudda röda linjer”",
+      "link": "https://www.dn.se/sverige/s-ledarens-krav-pa-c-och-v-borja-sudda-roda-linjer/",
+      "description": "Det hårda tonläget fortsätter mellan partierna på den rödgröna sidan. Nu uppmanar S-ledaren Magdalena Andersson Centerpartiet och Vänsterpartiet att börja sudda ut sina röda linjer. – Ingen har fått 50 procent och då får man heller inte allt man önskar sig, säger hon.",
+      "pubDate": "2026-09-29T13:45:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "De “äldste” fördelar mandaten",
+      "link": "https://ledarsidorna.se/de-aldste-fordelar-mandaten/",
+      "description": "Vänsterpartiets nyvalde riksdagsledamot Illyas Hassan stod på plats åtta på partiets lista i Stockholms kommun. Hans kampanj bland somaliska väljare organiserades av en liten krets män i Stockholm som i somalisk offentlighet kallas ”de äldste”. Kretsen har i femton år byggt anseende genom insamlingar, idrott och värdskap vid utländska besök. Den tar emot somaliska ministrar [&#8230;]",
+      "pubDate": "2026-09-29T22:05:00Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Hur svenska staten byggde det somaliska klan-nätverket",
       "link": "https://ledarsidorna.se/hur-svenska-staten-byggde-det-somaliska-klan-natverket/",
@@ -363,19 +377,6 @@
       "sourceType": "blog",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Vad avgjorde valet?",
-      "link": "https://ledarsidorna.se/vad-avgjorde-valet/",
-      "description": "Sverigedemokraterna hävdar att muslimska väljare gav de rödgröna segern. Men det är en lika grund som starkt förenklad förklaring. Sverigedemokraternas och i viss mån moderaternas förklaring säger mer om behovet av en syndabock för att internt dölja partiledningarnas egna tillkortakommanden än om hur valet faktiskt avgjordes. Efter valet den 13 september har en förklaring börjat [&#8230;]",
-      "pubDate": "2026-09-20T03:42:18Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M",
-        "SD"
       ]
     },
     {
