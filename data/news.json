@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:49:50.481759Z",
+  "updated_at": "2026-09-30T18:11:23.366003Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,25 +79,10 @@
   ],
   "news": [
     {
-      "title": "S, V och MP går emot C: Ingen överenskommelse om talman",
-      "link": "https://www.expressen.se/nyheter/politik/s-v-och-mp-gar-emot-c-ingen-overenskommelse-om-talman/",
-      "description": "Centerpartiet anklagar Vänsterpartiet för att ha brutit mot ett löfte i talmansfrågan. Det tillbakavisas nu av både Socialdemokraterna och Miljöpartiet. – Det stämmer inte, säger Daniel Helldén (MP).",
-      "pubDate": "2026-09-30T12:09:09Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "De kammade hem flest personkryss i Stockholm",
-      "link": "https://www.dn.se/sverige/de-kammade-hem-flest-personkryss-i-stockholm/",
-      "description": "Med alla distrikt räknade finns nu en topplista över de mest personkryssade kandidaterna i kommunvalet i Stockholm. Vänsterpartiet är ensamt om att ta flera platser på listan. – Vi är väldigt glada över det starka stöd vi har fått i Stockholm, inte minst i ytterstaden, säger Alexandra Mattson (V), gruppledare i staden.",
-      "pubDate": "2026-09-30T11:35:22Z",
+      "title": "Ida Gabrielsson frontar Vänsterpartiet i regeringsfrågan",
+      "link": "https://www.dn.se/sverige/ida-gabrielsson-frontar-vansterpartiet-i-regeringsfragan/",
+      "description": "Ida Gabrielsson är Vänsterpartiets svar på Folkhälsomyndighetens Anders Tegnell. Hennes uppgift är att ständigt synas och hamra in sitt budskap oavsett hur hårt det blåser. Så vem är 44-åringen från Sandviken?",
+      "pubDate": "2026-09-30T18:06:19Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -106,174 +91,176 @@
       ]
     },
     {
-      "title": "V lägger nytt förslag för att stoppa tonårsutvisningar",
-      "link": "https://www.expressen.se/nyheter/politik/v-lagger-nytt-forslag-for-att-stoppa-tonarsutvisningar/",
-      "description": "Vänsterpartiet lägger fram ett nytt förslag för att stoppa de så kallade tonårsutvisningarna. Med den rödgröna majoriteten efter valet hoppas de få stöd.",
-      "pubDate": "2026-09-30T10:50:08Z",
+      "title": "Statsvetarna om talmannens nästa steg: ”Rimligaste”",
+      "link": "https://www.expressen.se/nyheter/politik/statsvetarna-om-talmannens-nasta-steg-rimligaste/",
+      "description": "Nej tack, är Anderssons och Kristerssons besked.&nbsp; Men någon måste få sonderingsuppdraget.&nbsp; Talmannen ska återkomma med besked senare i veckan.&nbsp; Statsvetare är kritiska till situationen.&nbsp; – Det är inte så här det var tänkt, säger Andreas Johansson Heinö.&nbsp;",
+      "pubDate": "2026-09-30T17:40:51Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V"
+        "S",
+        "M"
       ]
     },
     {
-      "title": "Partiledarna har träffat talmannen",
-      "link": "https://www.sverigesradio.se/artikel/9310126",
-      "description": "I riksdagen har flera av partiledarna under förmiddagen träffat talmannen för de fortsatta turerna i regeringsbildningen. Sverigedemokraternas Jimmie Åkessons besked till talmannen var att det bör ske en statsministeromröstning om Magdalena Andersson. Centerpartiets Elisabeth Thand Ringqvist vill att Moderatledaren Ulf Kristersson får talmannens uppdrag att försöka bilda regering.",
-      "pubDate": "2026-09-30T10:31:00Z",
+      "title": "”Frågan är när talmannen tar till sitt skarpaste vapen”",
+      "link": "https://www.svt.se/nyheter/inrikes/fragan-ar-nar-talmannen-tar-till-sitt-skarpaste-vapen",
+      "description": "Talmannens besked efter onsdagens talmansrunda bekräftar dödläget i regeringsbildningen. Frågan är när talmannen tar till sitt skarpaste vapen, att tvinga fram en statsministeromröstning i riksdagen.",
+      "pubDate": "2026-09-30T16:53:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Besked dröjer om Mohamed Alis ledighetsansökan",
+      "link": "https://www.sverigesradio.se/artikel/9310526",
+      "description": "Talmannen har ännu inte fattat beslut om Vänsterpartiets riksdagsledamot, Mohamed Alis ledighetsansökan. Mohamed Ali kryssades in i riksdagen för Vänsterpartiet. Därefter inleddes en utredning om misstänkt valfusk, bland annat efter uppgifter om förkryssade valsedlar och att personer ska ha skjutsats till vallokalerna. Ali är inte själv delgiven någon misstanke om brott. Mohamed Ali har varit frånvarande sedan riksdagen öppnade för terminen.",
+      "pubDate": "2026-09-30T15:44:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "M",
-        "SD",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "JUST NU: ”Patetiskt försök”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=2e0ed29c-9866-4942-a7bd-e88983c61423",
-      "description": "Mohamsson (L) till angrepp mot Magdalena Andersson",
-      "pubDate": "2026-09-30T10:26:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
-      "title": "Miljöpartiet slår tillbaka mot ”felaktiga uppgifter”",
-      "link": "https://www.expressen.se/nyheter/politik/miljopartiet-slar-tillbaka-mot-felaktiga-uppgifter/",
-      "description": "Miljöpartiet slår fast att det finns en rödgrön majoritet i riksdagen, men vill ändå att sonderingsuppdraget ska gå till Ulf Kristersson. – Det har funnits en hel del prat om ett blått alternativ, säger Daniel Helldén. Samtidigt slår språkrören tillbaka mot ”felaktiga uppgifter” om möten mellan de rödgröna partierna – utan V.",
-      "pubDate": "2026-09-30T10:22:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "MP"
-      ]
-    },
-    {
-      "title": "Insändare. (V)em som helst kan inte leda landet",
-      "link": "https://www.dn.se/insandare/v-em-som-helst-kan-inte-leda-landet/",
-      "description": "INSÄNDARE. När det gäller ordningen i Vänsterpartiet under det senaste året har den haft mycket övrigt att önska. Partiet saknar nödvändig koll på sina medlemmar och även den mogenhet och ansvarskänsla som man har rätt att kräva av personer i landets ledning, skriver Lars Hagman.",
-      "pubDate": "2026-09-30T09:41:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "V"
       ]
     },
     {
-      "title": "Busch: Rösta om Andersson som statsminister",
-      "link": "https://www.expressen.se/nyheter/politik/busch-rosta-om-andersson-som-statsminister/",
-      "description": "Riksdagen borde rösta om Magdalena Andersson som statsminister. Det tycker flera av Tidöledarna. – Det skulle till exempel kunna vara nästa vecka, säger Ebba Busch.&nbsp;",
-      "pubDate": "2026-09-30T09:38:29Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Lyssna på väljarna och släpp in V i regeringen",
-      "link": "https://www.dn.se/insandare/lyssna-pa-valjarna-och-slapp-in-v-i-regeringen/",
-      "description": "INSÄNDARE. Det är självbedrägeri att hävda att Vänsterpartiet precis som Sverigedemokraterna är ett ytterkantsparti. Gökungen SD måste ut ur boet om vi inte ska få ett permanent djupt splittrat samhälle, skriver Sven Svedulf.",
-      "pubDate": "2026-09-30T09:36:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Sudda ut de rödblå linjerna",
-      "link": "https://www.dn.se/insandare/sudda-ut-de-rodbla-linjerna/",
-      "description": "INSÄNDARE. De värsta röda linjerna finns faktiskt mellan Socialdemokraterna och Moderaterna. Gå ihop med Centerpartiet och bilda en bred mittenregering och var de vuxna i rummet i stället för de största barnen i sandlådan, skriver Marko Huttunen.",
-      "pubDate": "2026-09-30T09:14:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Dadgostars krav på C: Är problemet",
-      "link": "https://www.expressen.se/nyheter/politik/dadgostars-krav-pa-c-ar-problemet/",
-      "description": "Det är Centerpartiets vägran som blockerar samtal om en ny regering, menar Nooshi Dadgostar (V). Hon utesluter därför inte att C-ledaren Elisabeth Thand Ringqvist kan få uppdraget att sondera. –&nbsp;Det är problemet att Centerpartiet inte kan välja, säger hon. C-ledaren Thand Ringqvist slår tillbaka: – Det stämmer inte, säger hon.",
-      "pubDate": "2026-09-30T08:31:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Chatta om regeringsbildningen",
-      "link": "https://www.expressen.se/nyheter/politik/chatta-om-regeringsbildningen/",
-      "description": "Regeringsfrågan är öppen igen. Idag träffar Andreas Norlén partierna för att undersöka om det finns en enad majoritet i riksdagen. Vilka röda linjer måste suddas ut och vad händer nu? Chatta med Expressens politikreporter Anette Holmqvist klockan 11.00.&nbsp;",
-      "pubDate": "2026-09-30T08:30:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "SD vill stoppa höjning av drivmedelspriser",
-      "link": "https://www.svt.se/nyheter/inrikes/svt-erfar-sd-vill-stoppa-hojning-av-drivmedelspriser",
-      "description": "Den 1 oktober löper den första delen av den tillfälliga skattesänkningen på drivmedel ut. Sverigedemokraterna lägger nu ett utskottsinitiativ för att stoppa ”chockhöjningen” av drivmedelspriser. – Omvärldsläget har inte förändrats, säger Jimmie Åkesson (SD) på en presskonferens.",
-      "pubDate": "2026-09-30T07:25:14Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "EU-undantag löper ut – SD vill ha kvar lägre bränslepriser",
+      "link": "https://www.sverigesradio.se/artikel/9310556",
+      "description": "Sverige har under året fått bland EU:s lägsta drivmedelspriser efter sänkta skatter och ett särskilt EU-undantag. I morgon höjs skatten i ett första steg, och den 30 november löper EU-undantaget ut. Sverigedemokraterna vill förlänga sänkningarna, men ett nytt undantag måste först föreslås av EU-kommissionen och sedan godkännas enhälligt av medlemsländerna.",
+      "pubDate": "2026-09-30T15:42:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD"
       ]
     },
     {
-      "title": "Snecker (V): Det behövs för att linjerna ska luckras upp",
-      "link": "https://www.svt.se/nyheter/inrikes/snecker-v-det-behovs-for-att-linjerna-ska-luckras-upp",
-      "description": "Flera partier har markerat röda linjer mot varandra. Nu ska kraven försöka knådas ut under onsdagens nya talmansrundor. – Jag tror att det kommer att behöva ta några statsministeromröstningar, säger tidigare riksdagsledamot Linda Snecker (V).",
-      "pubDate": "2026-09-30T06:56:41Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "Man spottade på Richard Jomshof – döms",
+      "link": "https://www.expressen.se/nyheter/sverige/man-spottade-pa-richard-jomshof-doms/",
+      "description": "En 45-årig man döms för att ha spottat på Richard Jomshof i samband med en konsert. Motivet var att han ogillar SD-toppens politiska uppfattningar. Straffet blir dagsböter på nästan 25&nbsp;000 kronor.",
+      "pubDate": "2026-09-30T15:24:12Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "MP",
+        "SD"
+      ]
+    },
+    {
+      "title": "Furtenbach: ”Talmannen har hamnat i en besvärlig situation”",
+      "link": "https://www.sverigesradio.se/artikel/9310536",
+      "description": "Riksdagens talman Andreas Norlén (M) samtalade med samtliga partiledare under onsdagen. Talmannen har nu en tuff uppgift, enligt Ekots inrikespolitiske kommentator Fredrik Furtenbach. ”Ingen vill försöka bli statsminister nu, eftersom alla räknar med att de tidiga försöken ändå kommer att misslyckas”, säger Fredrik Furtenbach.",
+      "pubDate": "2026-09-30T15:14:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
         "Regeringsbildning"
       ]
     },
     {
-      "title": "Dags för andra talmansrundan",
-      "link": "https://www.dn.se/sverige/dags-for-andra-talmansrundan/",
-      "description": "Partiledare efter partiledare har på onsdagen träffat talmannen Andreas Norlén som för andra gången ska försöka ge någon uppdrag att bilda regeringsunderlag. Utgångsläget är dock mörkt – ingen visar tecken på att vilja få det. – Jag tycker att det rimliga är att man prövar Magdalena Andersson (S), säger Jimmie Åkesson (SD).",
-      "pubDate": "2026-09-30T06:25:43Z",
+      "title": "Inget nytt sonderingsuppdrag – C och V i ordkrig",
+      "link": "https://www.dn.se/sverige/inget-nytt-sonderingsuppdrag-c-och-v-i-ordkrig/",
+      "description": "Onsdagens talmansrundor ledde inte till något nytt sonderingsuppdrag. I stället fortsätter skyttegravskriget mellan Vänsterpartiet och Centern. – Det är svårt att bilda en regering när Centerpartiet inte är tydliga med vilket block de vill ingå i, säger V-ledaren Nooshi Dadgostar.",
+      "pubDate": "2026-09-30T15:11:21Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Fortsatt dödläge i regeringsfrågan – besked senare i veckan",
+      "link": "https://www.sverigesradio.se/artikel/9310465",
+      "description": "Fortsatt dödläge råder i regeringsfrågan och talman Andreas Norlén uppger på onsdagseftermiddagen att han planerar att ge mer information om regeringsbildningen senare i veckan. Efter möten med partiledarna fanns inga nya besked, samtidigt som Centerpartiet står fast vid sitt nej till både en skarp vänstersväng och sverigedemokratisk politik. Samtidigt som Vänsterpartiet kräver plats i en regering och Liberalerna kritiserar de rödgröna, återstår flera låsningar i spelet om makten.",
+      "pubDate": "2026-09-30T14:58:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
         "SD",
+        "V",
+        "C",
+        "L",
         "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Respektera väljarnas tydliga nej till Tidö 2.0",
+      "link": "https://www.dn.se/insandare/respektera-valjarnas-tydliga-nej-till-tido-2-0/",
+      "description": "INSÄNDARE. En majoritet av väljarna vill inte ha en politik som gör Sverige mer ojämlikt och auktoritärt. Det måste vara ett övergripande mål när de rödgröna partierna förhandlar om en ny regering, skriver Bo Gunnarsson.",
+      "pubDate": "2026-09-30T14:50:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "S-profilens otippade regeringsförslag: V och C i regering 2028",
+      "link": "https://www.svt.se/nyheter/inrikes/s-profilens-otippade-regeringsforslag-v-och-c-i-regering-2028",
+      "description": "Socialdemokraterna kommer inte att vilja bilda regering med Vänsterpartiet – men kan komma att lova V ministerposter längre fram. Det säger Annika Strandhäll (S) i Politikbyrån.",
+      "pubDate": "2026-09-30T14:23:22Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Nu får Magdalena Andersson sluta skylla ifrån sig",
+      "link": "https://www.dn.se/insandare/nu-far-magdalena-andersson-sluta-skylla-ifran-sig/",
+      "description": "INSÄNDARE. Det är bara som partiledaren för det största partiet i riksdagen som kan åstadkomma resultat i regeringsfrågan. Så nu får S-ledaren Magdalena Andersson sätta fart och inte skylla på någon annan, skriver Christina Nilsson.",
+      "pubDate": "2026-09-30T14:16:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Jomshof öppnar för en regering utan SD",
+      "link": "https://www.expressen.se/nyheter/politik/jomshof-oppnar-for-en-regering-utan-sd/",
+      "description": "SD-toppen Richard Jomshof öppnar för att partiet kan släppa kravet på ministerposter i en intervju med Kvartal . – Men vi kommer ju inte göra det gratis, säger han. Uttalandet väcker kraftiga reaktioner i partiet – samtidigt som det riktas SD-kritik mot intervjun. Åkesson är tydlig med att det är han som bestämmer. ”Som alla vet så är det jag som tecknar firma för partiet i den här frågan”, skriver han på X.",
+      "pubDate": "2026-09-30T14:00:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Orimligt att 648 personryss kan ge riksdagsplats",
+      "link": "https://www.dn.se/insandare/svar-orimligt-att-648-personryss-kan-ge-riksdagsplats/",
+      "description": "SVAR PÅ INSÄNDARE. Det är orimligt en promilles personkryss av ett partis totala röster ska kunna räcka för att få en riksdagsplats. Exemplet med vänsterpartisten Mohamed Abdukardir Ali i Borlänge visat att systemet med personkryss måste avskaffas, skriver Magnus Hübinette.",
+      "pubDate": "2026-09-30T13:31:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "SD agerar för att stoppa skattehöjningar på bensin",
+      "link": "https://www.dn.se/sverige/sd-agerar-for-att-stoppa-skattehojningar-pa-bensin/",
+      "description": "Sverigedemokraterna agerar i riksdagen för att stoppa de skattehöjningar på bensin och diesel som väntar i höst. – Gör vi ingenting så väntar en kostnadschock, säger Oscar Sjöstedt (SD).",
+      "pubDate": "2026-09-30T13:25:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
       ]
     }
   ],
@@ -409,6 +396,16 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Kvartal Idag: Kritiken mot Tidö – ”struntade” i Järva",
+      "link": "https://pod.space/kvartal/kvartal-idag-kritiken-mot-tido-struntade-i-jarva",
+      "description": "Kvartal Idag besöker Rinkeby. Ska staten be samerna om ursäkt? Piloter i knivbråk på flyg till Israel. Och rödgrönt maktspel i Aktuelltstudion. Programledare: Cassandra Alm.",
+      "pubDate": "2026-09-30T13:56:09Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
     {
       "title": "Inläst: En politisk kameleont checkar ut",
       "link": "https://pod.space/kvartal/inlast-en-politisk-kameleont-checkar-ut",
@@ -579,18 +576,6 @@
       "sourceType": "podcast",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Därför är det tyst från ”V-bunkern”",
-      "link": "https://pod.space/kvartal/kvartal-idag-darfor-ar-det-tyst-fran-v-bunkern",
-      "description": "Från Vänsterpartiet intet nytt. Personkryssen, Somalia och miljonaffären. Bohlin-intervjun ”blev inte bra”. Uppgifter: USA kan utöka militär närvaro på Grönland. Dianas bror: Charles var ”yr av glädje”. Programledare: Staffan Dopping.",
-      "pubDate": "2026-09-22T13:46:20Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V"
       ]
     }
   ]
