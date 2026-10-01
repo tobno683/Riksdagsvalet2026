@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T07:19:02.999806Z",
+  "updated_at": "2026-10-01T14:37:37.193300Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,98 @@
   ],
   "news": [
     {
-      "title": "Statsvetarna: Det är Ulf Kristerssons plan för sonderingarna",
-      "link": "https://www.expressen.se/nyheter/politik/statsvetarna-det-ar-ulf-kristerssons-plan-for-sonderingarna-/",
-      "description": "Ulf Kristersson (M) har sagt att Tidösamarbetet var ”ett projekt för förra mandatperioden”.&nbsp; Han kommer att undersöka möjligheten att bilda en minoritetsregering som får stöd av andra partier när han får sonderingsuppdraget, tror statsvetare. &nbsp; – Min gissning är att sådana diskussioner redan pågår, säger Jenny Madestam.&nbsp;",
-      "pubDate": "2026-10-01T06:21:33Z",
+      "title": "Rödgrön offensiv i riksdagen mot utvisningarna",
+      "link": "https://www.dn.se/sverige/rodgron-offensiv-i-riksdagen-mot-utvisningarna/",
+      "description": "I skuggan av den tröga regeringsbildningen försöker de rödgröna partierna enas i riksdagen om ett nytt migrationspolitiskt förslag. Målsättningen är att stoppa utvisningar av unga människor. – Det viktigaste för att lösa det här är att få en ny regering på plats, säger Ida Karkiainen (S).",
+      "pubDate": "2026-10-01T14:34:14Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Sänk skatter för företagare så att fler unga kan få jobb",
+      "link": "https://www.dn.se/insandare/svar-sank-skatter-for-foretagare-sa-att-fler-unga-kan-fa-jobb/",
+      "description": "SVAR PÅ INSÄNDARE. Min oro är att de rödgröna partierna underskattar företagens villkor när de talar om ungdomarnas framtid. Den som lovar fler jobb måste också svara på vad som ska få fler småföretagare att våga anställa, skriver pappan och småföretagaren Staffan Eriksson.",
+      "pubDate": "2026-10-01T12:55:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Det är dags att Vänsterpartiet tar ett stort steg tillbaka",
+      "link": "https://www.dn.se/insandare/det-ar-dags-att-vansterpartiet-tar-ett-stort-steg-tillbaka/",
+      "description": "INSÄNDARE. Mer än halva väljarkåren vill att alla gröna och röda visar mognad att bilda en regering med gemensamma värderingar som grund. Därför är det nu läge för Vänsterpartiet att backa genom att lyssna på opinionen och inte kräva ministerposter, skriver Roland Hedblad.",
+      "pubDate": "2026-10-01T12:44:21Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Svar: Centern gör precis vad partiets väljare önskar",
+      "link": "https://www.dn.se/insandare/svar-centern-gor-precis-vad-partiets-valjare-onskar/",
+      "description": "SVAR PÅ INSÄNDARE. Nej till samarbete med antidemokrater är en avgörande röd linje för Centerpartiet och gäller höger och vänster. Tack, Centern, för att ni står upp för demokratiska och liberala grundvärderingar, skriver den nya C-väljaren Leif Lind.",
+      "pubDate": "2026-10-01T12:33:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Chatt: Ställ din fråga om läget i svensk politik",
+      "link": "https://www.svt.se/nyheter/inrikes/chatt-stall-dina-fragor-om-laget-i-svensk-politik",
+      "description": "Låst läge i regeringsbildningen på den rödgröna sidan och fortfarande ovisst vad talmannens nästa steg blir. Vad undrar du om inrikespolitiken just nu?",
+      "pubDate": "2026-10-01T11:42:59Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kris eller krig under regeringsbildningen – så kan Sverige agera",
+      "link": "https://www.svt.se/nyheter/inrikes/krig-eller-kris-under-regeringsbildningen-sa-kan-sverige-agera",
+      "description": "En förvärrad säkerhetskris eller en väpnad attack mot Sverige, eller ett annat Natoland, skulle kräva snabba beslut. Så hur skulle en övergångsregering kunna agera? – Man löser det som behöver lösas och hanterar det som inte kan vänta på den nya regeringen, säger Marika Ericson, folkrättsjurist och prefekt vid Försvarshögskolan.",
+      "pubDate": "2026-10-01T10:36:02Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. C måste sluta visa fingret",
+      "link": "https://www.dn.se/insandare/c-maste-sluta-visa-fingret/",
+      "description": "INSÄNDARE. På vanlig svenska har Centerpartiets ledning ”lurat skjortan” av ett stort antal medborgare i valet. Nu är det bråttom att C slutar med att ”visa fingret” mot partier som har mycket större demokratiskt stöd bland medborgarna än vad de själva är i närheten av, skriver Leif Petersén.",
+      "pubDate": "2026-10-01T08:34:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Därför har Socialdemokraternas plan kört fast",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/darfor-har-socialdemokraternas-plan-kort-fast/",
+      "description": "Regeringsfrågan skulle lösas genom utpressning. Men de andra vill inte spela med.",
+      "pubDate": "2026-10-01T08:08:35Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M"
+        "S"
       ]
     },
     {
@@ -150,30 +233,6 @@
       ]
     },
     {
-      "title": "Besked dröjer om Mohamed Alis ledighetsansökan",
-      "link": "https://www.sverigesradio.se/artikel/9310526",
-      "description": "Talmannen har ännu inte fattat beslut om Vänsterpartiets riksdagsledamot, Mohamed Alis ledighetsansökan. Mohamed Ali kryssades in i riksdagen för Vänsterpartiet. Därefter inleddes en utredning om misstänkt valfusk, bland annat efter uppgifter om förkryssade valsedlar och att personer ska ha skjutsats till vallokalerna. Ali är inte själv delgiven någon misstanke om brott. Mohamed Ali har varit frånvarande sedan riksdagen öppnade för terminen.",
-      "pubDate": "2026-09-30T15:44:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "EU-undantag löper ut – SD vill ha kvar lägre bränslepriser",
-      "link": "https://www.sverigesradio.se/artikel/9310556",
-      "description": "Sverige har under året fått bland EU:s lägsta drivmedelspriser efter sänkta skatter och ett särskilt EU-undantag. I morgon höjs skatten i ett första steg, och den 30 november löper EU-undantaget ut. Sverigedemokraterna vill förlänga sänkningarna, men ett nytt undantag måste först föreslås av EU-kommissionen och sedan godkännas enhälligt av medlemsländerna.",
-      "pubDate": "2026-09-30T15:42:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "Inget nytt sonderingsuppdrag – C och V i ordkrig",
       "link": "https://www.dn.se/sverige/inget-nytt-sonderingsuppdrag-c-och-v-i-ordkrig/",
       "description": "Onsdagens talmansrundor ledde inte till något nytt sonderingsuppdrag. I stället fortsätter skyttegravskriget mellan Vänsterpartiet och Centern. – Det är svårt att bilda en regering när Centerpartiet inte är tydliga med vilket block de vill ingå i, säger V-ledaren Nooshi Dadgostar.",
@@ -195,70 +254,21 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "S-profilens otippade regeringsförslag: V och C i regering 2028",
-      "link": "https://www.svt.se/nyheter/inrikes/s-profilens-otippade-regeringsforslag-v-och-c-i-regering-2028",
-      "description": "Socialdemokraterna kommer inte att vilja bilda regering med Vänsterpartiet – men kan komma att lova V ministerposter längre fram. Det säger Annika Strandhäll (S) i Politikbyrån.",
-      "pubDate": "2026-09-30T14:23:22Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Nu får Magdalena Andersson sluta skylla ifrån sig",
-      "link": "https://www.dn.se/insandare/nu-far-magdalena-andersson-sluta-skylla-ifran-sig/",
-      "description": "INSÄNDARE. Det är bara som partiledaren för det största partiet i riksdagen som kan åstadkomma resultat i regeringsfrågan. Så nu får S-ledaren Magdalena Andersson sätta fart och inte skylla på någon annan, skriver Christina Nilsson.",
-      "pubDate": "2026-09-30T14:16:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Orimligt att 648 personkryss kan ge riksdagsplats",
-      "link": "https://www.dn.se/insandare/svar-orimligt-att-648-personryss-kan-ge-riksdagsplats/",
-      "description": "SVAR PÅ INSÄNDARE. Det är orimligt en promilles personkryss av ett partis totala röster ska kunna räcka för att få en riksdagsplats. Exemplet med vänsterpartisten Mohamed Abdukardir Ali i Borlänge visat att systemet med personkryss måste avskaffas, skriver Magnus Hübinette.",
-      "pubDate": "2026-09-30T13:31:43Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "SD agerar för att stoppa skattehöjningar på bensin",
-      "link": "https://www.dn.se/sverige/sd-agerar-for-att-stoppa-skattehojningar-pa-bensin/",
-      "description": "Sverigedemokraterna agerar i riksdagen för att stoppa de skattehöjningar på bensin och diesel som väntar i höst. – Gör vi ingenting så väntar en kostnadschock, säger Oscar Sjöstedt (SD).",
-      "pubDate": "2026-09-30T13:25:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "De kammade hem flest personkryss i Stockholm",
-      "link": "https://www.dn.se/sverige/de-kammade-hem-flest-personkryss-i-stockholm/",
-      "description": "Med alla distrikt räknade finns nu en topplista över de mest personkryssade kandidaterna i kommunvalet i Stockholm. Vänsterpartiet är ensamt om att ta flera platser på listan. – Vi är väldigt glada över det starka stöd vi har fått i Stockholm, inte minst i ytterstaden, säger Alexandra Mattson (V), gruppledare i staden.",
-      "pubDate": "2026-09-30T11:35:22Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Kommer Vänsterpartiet få en plats i regeringen?",
+      "link": "https://www.dagensarena.se/innehall/kommer-vansterpartiet-fa-en-plats-regeringen/",
+      "description": "Flammans chefredaktör Leonidas Aretakis om Vänsterpartiets roll i regeringsförhandlingarna. Inlägget Kommer Vänsterpartiet få en plats i regeringen? dök först upp på Dagens Arena .",
+      "pubDate": "2026-10-01T13:17:08Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "SD valfuskar mest",
       "link": "https://blog.zaramis.se/2026/10/01/sd-valfuskar-mest/",
@@ -367,6 +377,16 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "319. Så kan de rödgröna bli sams",
+      "link": "https://pod.space/politikrummet/319-sa-kan-de-rodgrona-bli-sams",
+      "description": "Ingen vill ha sonderingsuppdraget och ingen regering finns i sikte. Men i bakgrunden rör det sig – lite grann. I riksdagsstudion: Filippa Rogvall, Viktor Barth-Kron och Max V Karlsson.",
+      "pubDate": "2026-10-01T13:47:43Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
     {
       "title": "Kvartal Idag: Kritiken mot Tidö – ”struntade” i Järva",
       "link": "https://pod.space/kvartal/kvartal-idag-kritiken-mot-tido-struntade-i-jarva",
@@ -535,18 +555,6 @@
         "S",
         "V",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "”Hela valresultatet kan kastas om”",
-      "link": "https://pod.space/alskadepolitik/hela-valresultatet-kan-kastas-om",
-      "description": "Lever Centerpartiet i en fantasivärld – eller kan misstankarna om V bli deras sista halmstrå?&nbsp;Så kan misstankarna om valfusk i Borlänge påverka regeringsförhandlingarna.",
-      "pubDate": "2026-09-22T15:34:29Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "C"
       ]
     }
   ]
