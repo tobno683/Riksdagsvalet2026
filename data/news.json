@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T19:57:01.033569Z",
+  "updated_at": "2026-10-01T23:35:31.374670Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -93,7 +93,7 @@
     {
       "title": "SD-profilen öppnar för att backa från kravet om ministerposter",
       "link": "https://www.expressen.se/nyheter/politik/sd-profilen-oppnar-for-att-backa-fran-kravet/",
-      "description": "Sverigedemokraten Björn Söder öppnar för att släppa kravet på ministerposter.&nbsp; – Jag tycker det viktigaste är att vi inte får en vänsterregering, säger han till Svenska Dagbladet.&nbsp; Igår uppgav SD-ledaren Jimmie Åkesson att kravet om ministerposter fast.&nbsp;",
+      "description": "Sverigedemokraten Björn Söder öppnar för att släppa kravet på ministerposter.&nbsp; – Jag tycker det viktigaste är att vi inte får en vänsterregering, säger han till Svenska Dagbladet.&nbsp; Igår uppgav SD-ledaren Jimmie Åkesson att kravet om ministerposter står fast.&nbsp;",
       "pubDate": "2026-10-01T19:01:31Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -368,16 +368,6 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "Kan israeliska teknikföretag påverka det svenska valet?",
-      "link": "https://www.parabol.press/kan-israeliska-teknikforetag-paverka-det-svenska-valet/",
-      "description": "Israeliska BlackCore och Black Cube har kopplats till påverkansoperationer i flera länder.",
-      "pubDate": "2026-09-01T08:56:35Z",
-      "source": "Parabol",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=parabol.press&sz=64",
-      "sourceType": "blog",
-      "topics": []
     }
   ],
   "podcasts": [
