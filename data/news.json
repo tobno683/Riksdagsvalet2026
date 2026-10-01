@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:25:40.797730Z",
+  "updated_at": "2026-10-01T01:22:41.413690Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -140,18 +140,6 @@
       ]
     },
     {
-      "title": "Man spottade på Richard Jomshof – döms",
-      "link": "https://www.expressen.se/nyheter/sverige/man-spottade-pa-richard-jomshof-doms/",
-      "description": "En 45-årig man döms för att ha spottat på Richard Jomshof i samband med en konsert. Motivet var att han ogillar SD-toppens politiska uppfattningar. Straffet blir dagsböter på nästan 25&nbsp;000 kronor.",
-      "pubDate": "2026-09-30T15:24:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "Furtenbach: ”Talmannen har hamnat i en besvärlig situation”",
       "link": "https://www.sverigesradio.se/artikel/9310536",
       "description": "Riksdagens talman Andreas Norlén (M) samtalade med samtliga partiledare under onsdagen. Talmannen har nu en tuff uppgift, enligt Ekots inrikespolitiske kommentator Fredrik Furtenbach. ”Ingen vill försöka bli statsminister nu, eftersom alla räknar med att de tidiga försöken ändå kommer att misslyckas”, säger Fredrik Furtenbach.",
@@ -262,6 +250,18 @@
       "topics": [
         "V"
       ]
+    },
+    {
+      "title": "Insändare. (V)em som helst kan inte leda landet",
+      "link": "https://www.dn.se/insandare/v-em-som-helst-kan-inte-leda-landet/",
+      "description": "INSÄNDARE. När det gäller ordningen i Vänsterpartiet under det senaste året har den haft mycket övrigt att önska. Partiet saknar nödvändig koll på sina medlemmar och även den mogenhet och ansvarskänsla som man har rätt att kräva av personer i landets ledning, skriver Lars Hagman.",
+      "pubDate": "2026-09-30T09:41:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
     }
   ],
   "blogs": [
@@ -309,18 +309,6 @@
       "sourceType": "blog",
       "topics": [
         "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Logiskt att lämna sonderingsuppdraget",
-      "link": "https://www.dagensarena.se/opinion/logiskt-att-lamna-sonderingsuppdraget/",
-      "description": "Vänsterpartiet verkar tro att det räcker att övertyga S. Inlägget Logiskt att lämna sonderingsuppdraget dök först upp på Dagens Arena .",
-      "pubDate": "2026-09-28T08:48:13Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
         "V"
       ]
     },
