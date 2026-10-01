@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T01:22:41.413690Z",
+  "updated_at": "2026-10-01T07:19:02.999806Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,53 @@
   ],
   "news": [
     {
+      "title": "Statsvetarna: Det är Ulf Kristerssons plan för sonderingarna",
+      "link": "https://www.expressen.se/nyheter/politik/statsvetarna-det-ar-ulf-kristerssons-plan-for-sonderingarna-/",
+      "description": "Ulf Kristersson (M) har sagt att Tidösamarbetet var ”ett projekt för förra mandatperioden”.&nbsp; Han kommer att undersöka möjligheten att bilda en minoritetsregering som får stöd av andra partier när han får sonderingsuppdraget, tror statsvetare. &nbsp; – Min gissning är att sådana diskussioner redan pågår, säger Jenny Madestam.&nbsp;",
+      "pubDate": "2026-10-01T06:21:33Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Susanne Nyström: I måndags ställde Camilla Kvartoft valårets jobbigaste frågor",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-i-mandags-stallde-camilla-kvartoft-valarets-jobbigaste-fragor/",
+      "description": "Valrörelsens traditionella partiledardebatter och statsministerdueller ska inte ersättas av någonting annat. Men det finns gott om utrymme för klargörande komplement.",
+      "pubDate": "2026-10-01T04:30:54Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning",
+        "Debatt"
+      ]
+    },
+    {
+      "title": "Unga i Indien kräver att valmyndighetens chef avgår",
+      "link": "https://www.sverigesradio.se/artikel/9310232",
+      "description": "En stor valskandal skapar stor upprördhet i Indien där flera miljoner människor strukits ur vallängderna – och alltså inte får rösta. Exakt hur många är oklart men oppositionen hävdar att deras väljare är särskilt drabbade.&nbsp;&nbsp; Den växande ungdomsrörelsen i det så kallade kackerlackspartiet har kallat till stor manifestation den 2 oktober.",
+      "pubDate": "2026-10-01T04:01:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Regeringsbildningen 2018 – 134 dagar av dramatik och förhandlingar",
+      "link": "https://www.sverigesradio.se/artikel/9309591",
+      "description": "Från valdagen till att Sverige fick en regering på plats tog det 134 dagar efter valet 2018. Andreas Norlén var talman då också och har sagt att nuvarande regeringsbildningen inte kommer att få bli lika utdragen som då. Precis som nu fanns en mandatfördelning som försvårande och röda linjer som skapade dödlägen.",
+      "pubDate": "2026-10-01T03:55:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Ida Gabrielsson frontar Vänsterpartiet i regeringsfrågan",
       "link": "https://www.dn.se/sverige/ida-gabrielsson-frontar-vansterpartiet-i-regeringsfragan/",
       "description": "Ida Gabrielsson är Vänsterpartiets svar på Folkhälsomyndighetens Anders Tegnell. Hennes uppgift är att ständigt synas och hamra in sitt budskap oavsett hur hårt det blåser. Så vem är 44-åringen från Sandviken?",
@@ -88,19 +135,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Statsvetarna om talmannens nästa steg: ”Rimligaste”",
-      "link": "https://www.expressen.se/nyheter/politik/statsvetarna-om-talmannens-nasta-steg-rimligaste/",
-      "description": "Nej tack, är Anderssons och Kristerssons besked.&nbsp; Men någon måste få sonderingsuppdraget.&nbsp; Talmannen ska återkomma med besked senare i veckan.&nbsp; Statsvetare är kritiska till situationen.&nbsp; – Det är inte så här det var tänkt, säger Andreas Johansson Heinö.&nbsp;",
-      "pubDate": "2026-09-30T17:40:51Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
       ]
     },
     {
@@ -140,18 +174,6 @@
       ]
     },
     {
-      "title": "Furtenbach: ”Talmannen har hamnat i en besvärlig situation”",
-      "link": "https://www.sverigesradio.se/artikel/9310536",
-      "description": "Riksdagens talman Andreas Norlén (M) samtalade med samtliga partiledare under onsdagen. Talmannen har nu en tuff uppgift, enligt Ekots inrikespolitiske kommentator Fredrik Furtenbach. ”Ingen vill försöka bli statsminister nu, eftersom alla räknar med att de tidiga försöken ändå kommer att misslyckas”, säger Fredrik Furtenbach.",
-      "pubDate": "2026-09-30T15:14:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Inget nytt sonderingsuppdrag – C och V i ordkrig",
       "link": "https://www.dn.se/sverige/inget-nytt-sonderingsuppdrag-c-och-v-i-ordkrig/",
       "description": "Onsdagens talmansrundor ledde inte till något nytt sonderingsuppdrag. I stället fortsätter skyttegravskriget mellan Vänsterpartiet och Centern. – Det är svårt att bilda en regering när Centerpartiet inte är tydliga med vilket block de vill ingå i, säger V-ledaren Nooshi Dadgostar.",
@@ -162,22 +184,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Fortsatt dödläge i regeringsfrågan – besked senare i veckan",
-      "link": "https://www.sverigesradio.se/artikel/9310465",
-      "description": "Fortsatt dödläge råder i regeringsfrågan och talman Andreas Norlén uppger på onsdagseftermiddagen att han planerar att ge mer information om regeringsbildningen senare i veckan. Efter möten med partiledarna fanns inga nya besked, samtidigt som Centerpartiet står fast vid sitt nej till både en skarp vänstersväng och sverigedemokratisk politik. Samtidigt som Vänsterpartiet kräver plats i en regering och Liberalerna kritiserar de rödgröna, återstår flera låsningar i spelet om makten.",
-      "pubDate": "2026-09-30T14:58:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V",
-        "C",
-        "L",
-        "Regeringsbildning"
       ]
     },
     {
@@ -216,7 +222,7 @@
       ]
     },
     {
-      "title": "Insändare. Svar: Orimligt att 648 personryss kan ge riksdagsplats",
+      "title": "Insändare. Svar: Orimligt att 648 personkryss kan ge riksdagsplats",
       "link": "https://www.dn.se/insandare/svar-orimligt-att-648-personryss-kan-ge-riksdagsplats/",
       "description": "SVAR PÅ INSÄNDARE. Det är orimligt en promilles personkryss av ett partis totala röster ska kunna räcka för att få en riksdagsplats. Exemplet med vänsterpartisten Mohamed Abdukardir Ali i Borlänge visat att systemet med personkryss måste avskaffas, skriver Magnus Hübinette.",
       "pubDate": "2026-09-30T13:31:43Z",
@@ -250,21 +256,23 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "Insändare. (V)em som helst kan inte leda landet",
-      "link": "https://www.dn.se/insandare/v-em-som-helst-kan-inte-leda-landet/",
-      "description": "INSÄNDARE. När det gäller ordningen i Vänsterpartiet under det senaste året har den haft mycket övrigt att önska. Partiet saknar nödvändig koll på sina medlemmar och även den mogenhet och ansvarskänsla som man har rätt att kräva av personer i landets ledning, skriver Lars Hagman.",
-      "pubDate": "2026-09-30T09:41:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "SD valfuskar mest",
+      "link": "https://blog.zaramis.se/2026/10/01/sd-valfuskar-mest/",
+      "description": "Journalisten Victor Pressfeldt har gått igenom 5 000 incidentrapporter från vallokaler under valet. 77 rapporter kopplar ett parti till de rapporterade incidenterna. Sverigedemokraterna är det parti som försöker fuska mest medan Vänsterpartiet och Kristdemokraterna uppenbarligen i stort sett aldrig försöker påverka valet på ett otillåtet sätt. Läs mer … Inlägget SD valfuskar mest dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-10-01T05:34:44Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD",
+        "V",
+        "KD"
+      ]
+    },
     {
       "title": "Hetskampanj mot valresultatet",
       "link": "https://blog.zaramis.se/2026/09/30/hetskampanj-mot-valresultatet/",
@@ -298,19 +306,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "Magdalena Andersson ger upp utan att ens ha försökt",
-      "link": "https://blog.zaramis.se/2026/09/28/magdalena-andersson-ger-upp-utan-att-ens-ha-forsokt/",
-      "description": "Magdalena Andersson har varit totalt ointresserad av att söka samarbete med Vänsterpartiet trots att V var valets största vinnare. Samtidigt gjorde S ett av sina sämsta val under de senaste 100 åren. Nu kastar Andersson in handsken utan att ens ha försökt. Läs mer … Inlägget Magdalena Andersson ger upp utan att ens ha försökt dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-28T10:16:59Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
-      ]
     },
     {
       "title": "Moderaterna sätter sig som åklagare och domare över opinionsinstituten",
@@ -358,18 +353,6 @@
       "sourceType": "blog",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Moderaterna skjuter budbäraren",
-      "link": "https://ledarsidorna.se/moderaterna-skjuter-budbararen/",
-      "description": "När Moderaterna vill kalla in opinionsinstituten efter valet följer partiet exakt samma logik som USA:s president Donald Trump har drivit långt längre. Skillnaden ligger i medlen, inte i tanken. Skjut budbäraren, inte budskapet. Efter valet har Moderaterna reagerat kraftigt på mätningarna som gjordes inför det. Moderaternas biträdande partisekreterare Martin Borgs har meddelat att han ska [&#8230;]",
-      "pubDate": "2026-09-21T02:56:26Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
       ]
     },
     {
