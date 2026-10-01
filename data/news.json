@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T14:37:37.193300Z",
+  "updated_at": "2026-10-01T19:57:01.033569Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,128 @@
   ],
   "news": [
     {
+      "title": "Mystiska intrång hos flera finska riksdagsledamöter",
+      "link": "https://www.expressen.se/nyheter/varlden/mystiska-intrang-hos-flera-finska-riksdagsledamoter/",
+      "description": "Riksdagsledamöter i Finland har utsatts för misstänkta intrång i sina hem under en längre tid, bekräftar Jussi Halla-Aho, riksdagens talman. Statsminister Petteri Orpo håller det för ”mycket möjligt” att främmande makt ligger bakom.",
+      "pubDate": "2026-10-01T19:24:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "SD-profilen öppnar för att backa från kravet om ministerposter",
+      "link": "https://www.expressen.se/nyheter/politik/sd-profilen-oppnar-for-att-backa-fran-kravet/",
+      "description": "Sverigedemokraten Björn Söder öppnar för att släppa kravet på ministerposter.&nbsp; – Jag tycker det viktigaste är att vi inte får en vänsterregering, säger han till Svenska Dagbladet.&nbsp; Igår uppgav SD-ledaren Jimmie Åkesson att kravet om ministerposter fast.&nbsp;",
+      "pubDate": "2026-10-01T19:01:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "1 oktober: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/1-oktober-missa-inte-dagens-nyheter/",
+      "description": "Rödgrön offensiv, hyllad rörmokare och misslyckad avrättning – här är nyheterna du inte får missa från dagen.",
+      "pubDate": "2026-10-01T18:52:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Dyr vinter på ingång – här är fem prissmällar för hushållen",
+      "link": "https://www.svt.se/nyheter/inrikes/dyr-vinter-pa-ingang-har-ar-fem-prissmallar-for-hushallen",
+      "description": "En tuff vinter väntar när priserna på bränsle, el och räntor stiger. Samtidigt som Tidöregeringens lättnadspaket för hushållen fasas ut, råder det global brist på olja och gas på grund av kriget i Mellanöstern. – Vi befinner oss i ett väldigt osäkert läge, säger råvaruanalytikern Christian Kopfer.",
+      "pubDate": "2026-10-01T17:57:38Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "M-profilen: Så kan Kristersson locka C – och SD",
+      "link": "https://www.expressen.se/nyheter/politik/m-profilen-sa-kan-kristersson-locka-c-och-sd/",
+      "description": "Kristerssons dröm om en ”icke-socialistisk majoritet” ser avlägsen ut – om inte C ändrar sig kring SD. Men M-profilen Douglas Thor har ett förslag på hur man kan locka över dem. – Det skulle vara full pott, säger han.",
+      "pubDate": "2026-10-01T17:24:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Intrång i flera politikers hem i Finland: ”Tas på största allvar”",
+      "link": "https://www.sverigesradio.se/artikel/9311439",
+      "description": "I Finland har flera riksdagsledamöter drabbats av intrång i sina hem. Enligt statsminister Petteri Orpo är det \"mycket möjligt\" att främmande makt ligger bakom incidenterna. Intrången ska ha skett hos ett \"betydande antal\" finländska riksdagsledamöter från olika partier, under ett knappt års tid.",
+      "pubDate": "2026-10-01T17:18:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Beklagar felöversättning: ”Ska inte kunna hända”",
+      "link": "https://www.dn.se/varlden/beklagar-feloversattning-ska-inte-kunna-handa/",
+      "description": "Torsdagens rättegång i Istanbul mot Joakim Medin sköts fram med hänvisning till oklarheter kring ett beslut från svenska regeringen. Justitieminister Gunnar Strömmer (M) bekräftar nu att det blivit en felöversättning.",
+      "pubDate": "2026-10-01T16:24:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Gissén: Personkemin mellan partiledarna har blivit betydligt bättre",
+      "link": "https://www.sverigesradio.se/artikel/9311410",
+      "description": "En lyssnare undrar om personkemin mellan partiledarna har blivit bättre eller sämre än vid tidigare regeringsbildningar. Personkemin är nog generellt betydligt bättre än det ser ut att vara, säger Helena Gissén, Ekots inrikespolitiska kommentator. Men hon tar upp exemplet när Vänsterpartiet röstade för en moderat talman. ”Praxis säger att det största partiet från det vinnande laget ska få talmansposten. Det tyckte framför allt Socialdemokraterna var ett oerhört svek”, säger hon.",
+      "pubDate": "2026-10-01T15:37:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Låst läge i regeringsbildandet – så vanligt är det",
+      "link": "https://www.sverigesradio.se/artikel/9311399",
+      "description": "Lyssnaren Leo skriver: ”Jag tror många upplever att regeringsbildandet är på sandlådenivå, är det vanligt att det är så här pass låsta lägen som det är nu eller sticker det här valet ut?” Mest likt den nuvarande situationen kan man säga är 2018 när Liberalerna och Centerpartiet bytte sida. Den regeringsbildningen tog 134 dagar, säger Ekots inrikespolitiska kommentator Helena Gissén. ”Det händer att det blir väldigt svårt. Det finns många partier och matematiken räcker inte för att ett eller två partier tillsammans ska kunna få majoritet.”",
+      "pubDate": "2026-10-01T15:27:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "L",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Helena Gissén: ”Hoppande majoriteter verkar ingen tro på längre”",
+      "link": "https://www.sverigesradio.se/artikel/9311390",
+      "description": "”Det här med hoppande majoriteter verkar ingen tro på längre”, säger Helena Gissén, Ekots inrikespolitiska kommentator. Hon svarar på lyssnarnas frågor, där en lyssnare undrar hur olika konstellationer kan se ut. Men att Andersson (S) och Kristersson (M) skulle lägga sig platt och bli stödpartier är inte troligt, menar Gissén. Alla verkar relativt överens om att det behövs en stabil majoritetsregering och att den som får statsministerposten ska veta att den får igenom sin budget, säger hon.",
+      "pubDate": "2026-10-01T15:15:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Rödgrön offensiv i riksdagen mot utvisningarna",
       "link": "https://www.dn.se/sverige/rodgron-offensiv-i-riksdagen-mot-utvisningarna/",
       "description": "I skuggan av den tröga regeringsbildningen försöker de rödgröna partierna enas i riksdagen om ett nytt migrationspolitiskt förslag. Målsättningen är att stoppa utvisningar av unga människor. – Det viktigaste för att lösa det här är att få en ny regering på plats, säger Ida Karkiainen (S).",
@@ -136,124 +258,6 @@
       "topics": [
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Kris eller krig under regeringsbildningen – så kan Sverige agera",
-      "link": "https://www.svt.se/nyheter/inrikes/krig-eller-kris-under-regeringsbildningen-sa-kan-sverige-agera",
-      "description": "En förvärrad säkerhetskris eller en väpnad attack mot Sverige, eller ett annat Natoland, skulle kräva snabba beslut. Så hur skulle en övergångsregering kunna agera? – Man löser det som behöver lösas och hanterar det som inte kan vänta på den nya regeringen, säger Marika Ericson, folkrättsjurist och prefekt vid Försvarshögskolan.",
-      "pubDate": "2026-10-01T10:36:02Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. C måste sluta visa fingret",
-      "link": "https://www.dn.se/insandare/c-maste-sluta-visa-fingret/",
-      "description": "INSÄNDARE. På vanlig svenska har Centerpartiets ledning ”lurat skjortan” av ett stort antal medborgare i valet. Nu är det bråttom att C slutar med att ”visa fingret” mot partier som har mycket större demokratiskt stöd bland medborgarna än vad de själva är i närheten av, skriver Leif Petersén.",
-      "pubDate": "2026-10-01T08:34:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Därför har Socialdemokraternas plan kört fast",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/darfor-har-socialdemokraternas-plan-kort-fast/",
-      "description": "Regeringsfrågan skulle lösas genom utpressning. Men de andra vill inte spela med.",
-      "pubDate": "2026-10-01T08:08:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Susanne Nyström: I måndags ställde Camilla Kvartoft valårets jobbigaste frågor",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-i-mandags-stallde-camilla-kvartoft-valarets-jobbigaste-fragor/",
-      "description": "Valrörelsens traditionella partiledardebatter och statsministerdueller ska inte ersättas av någonting annat. Men det finns gott om utrymme för klargörande komplement.",
-      "pubDate": "2026-10-01T04:30:54Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning",
-        "Debatt"
-      ]
-    },
-    {
-      "title": "Unga i Indien kräver att valmyndighetens chef avgår",
-      "link": "https://www.sverigesradio.se/artikel/9310232",
-      "description": "En stor valskandal skapar stor upprördhet i Indien där flera miljoner människor strukits ur vallängderna – och alltså inte får rösta. Exakt hur många är oklart men oppositionen hävdar att deras väljare är särskilt drabbade.&nbsp;&nbsp; Den växande ungdomsrörelsen i det så kallade kackerlackspartiet har kallat till stor manifestation den 2 oktober.",
-      "pubDate": "2026-10-01T04:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Regeringsbildningen 2018 – 134 dagar av dramatik och förhandlingar",
-      "link": "https://www.sverigesradio.se/artikel/9309591",
-      "description": "Från valdagen till att Sverige fick en regering på plats tog det 134 dagar efter valet 2018. Andreas Norlén var talman då också och har sagt att nuvarande regeringsbildningen inte kommer att få bli lika utdragen som då. Precis som nu fanns en mandatfördelning som försvårande och röda linjer som skapade dödlägen.",
-      "pubDate": "2026-10-01T03:55:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ida Gabrielsson frontar Vänsterpartiet i regeringsfrågan",
-      "link": "https://www.dn.se/sverige/ida-gabrielsson-frontar-vansterpartiet-i-regeringsfragan/",
-      "description": "Ida Gabrielsson är Vänsterpartiets svar på Folkhälsomyndighetens Anders Tegnell. Hennes uppgift är att ständigt synas och hamra in sitt budskap oavsett hur hårt det blåser. Så vem är 44-åringen från Sandviken?",
-      "pubDate": "2026-09-30T18:06:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "”Frågan är när talmannen tar till sitt skarpaste vapen”",
-      "link": "https://www.svt.se/nyheter/inrikes/fragan-ar-nar-talmannen-tar-till-sitt-skarpaste-vapen",
-      "description": "Talmannens besked efter onsdagens talmansrunda bekräftar dödläget i regeringsbildningen. Frågan är när talmannen tar till sitt skarpaste vapen, att tvinga fram en statsministeromröstning i riksdagen.",
-      "pubDate": "2026-09-30T16:53:04Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Inget nytt sonderingsuppdrag – C och V i ordkrig",
-      "link": "https://www.dn.se/sverige/inget-nytt-sonderingsuppdrag-c-och-v-i-ordkrig/",
-      "description": "Onsdagens talmansrundor ledde inte till något nytt sonderingsuppdrag. I stället fortsätter skyttegravskriget mellan Vänsterpartiet och Centern. – Det är svårt att bilda en regering när Centerpartiet inte är tydliga med vilket block de vill ingå i, säger V-ledaren Nooshi Dadgostar.",
-      "pubDate": "2026-09-30T15:11:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. Respektera väljarnas tydliga nej till Tidö 2.0",
-      "link": "https://www.dn.se/insandare/respektera-valjarnas-tydliga-nej-till-tido-2-0/",
-      "description": "INSÄNDARE. En majoritet av väljarna vill inte ha en politik som gör Sverige mer ojämlikt och auktoritärt. Det måste vara ett övergripande mål när de rödgröna partierna förhandlar om en ny regering, skriver Bo Gunnarsson.",
-      "pubDate": "2026-09-30T14:50:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
