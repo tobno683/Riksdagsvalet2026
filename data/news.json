@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T20:13:13.771780Z",
+  "updated_at": "2026-10-02T23:53:37.031590Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "V om C:s mötesinvit: ”Lite med armbågen”",
+      "link": "https://www.expressen.se/nyheter/politik/v-om-cs-motesinvit-lite-med-armbagen/",
+      "description": "Att Vänsterpartiet har bjudits in till samtal med C, S och MP har skett ”lite med armbågen”. Det menar vice partiledare Ida Gabrielsson. – Men det är ett bra första steg, säger hennes partikollega Maria Forsberg i SVT.",
+      "pubDate": "2026-10-02T20:21:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "”Kod röd” i svenskfavoriten – varnar för extremväder",
       "link": "https://www.expressen.se/nyheter/vader/kod-rod-i-svenskfavoriten-varnar-for-extremvader/",
@@ -167,21 +179,6 @@
       ]
     },
     {
-      "title": "Furtenbach: ”Misstron kunde ju nästan inte vara större mellan V och C”",
-      "link": "https://www.sverigesradio.se/artikel/9311932",
-      "description": "Det är tydligt att talmannen Andreas Norlén har blivit påverkad av regeringsbildningen 2018 och har därför bytt taktik, menar Ekot inrikespolitiske kommentator Fredrik Furtenbach. Förutsättningarna för att det ska gå fortare för Magdalena Andersson (S) att försöka bilda regering finns, då uppdraget kommer avslutas med statsministeromröstning. Men enligt Furtenbach menar att det hänger på de rödgröna partierna. ”Misstron kunde ju nästan inte vara större mellan Vänsterpartiet och Centerpartiet”, säger Fredrik Furtenbach.",
-      "pubDate": "2026-10-02T10:48:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Tomas Ramberg: Andersson biter i det sura äpplet",
       "link": "https://www.dn.se/sverige/tomas-ramberg-andersson-biter-i-det-sura-applet/",
       "description": "Att Magdalena Andersson blir först ut att prövas som statsminister är surt för Socialdemokraterna men spelar ingen roll för vilken regering det blir. Samtidigt bjuder Centern på ett litet genombrott genom att bjuda in S, V och MP till samtal.",
@@ -201,18 +198,6 @@
       "pubDate": "2026-10-02T10:05:25Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Gissén: Ska fundera över helgen om låsningar kan luckras upp",
-      "link": "https://www.sverigesradio.se/artikel/9311856",
-      "description": "Att Magdalena Andersson (S) får tillbaka sonderingsuppdraget för att bilda regering av var knappast oväntat, enligt Ekots inrikespolitiska kommentatorn Helena Gissén. Något som Gissén däremot tyckte var intressant var att talmannen Andréas Norlén meddelande under fredagens pressträff att processen formellt inleds på måndag för att partierna ska få helgen till eftertanke, vilket hon kopplar till de rödgröna partiernas röda linjer i regeringsfrågan. ”De ska fundera över helgen på om det går att luckra upp de här låsningarna. Det är ju den konflikten som ser så svårlöslig ut” säger Helena Gissén.",
-      "pubDate": "2026-10-02T09:49:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
@@ -244,19 +229,6 @@
       ]
     },
     {
-      "title": "Magdalena Andersson (S) får tillbaka sonderingsuppdraget",
-      "link": "https://www.sverigesradio.se/artikel/9311770",
-      "description": "Magdalena Andersson (S) får tillbaka sonderingsuppdraget och ska återigen försöka bilda regering. Det säger talmannen Andreas Norlén under en pressträff. Talmannen säger även att sonderingsuppdraget ska avslutas med statsministeromröstning i riksdagen. ”Det är en signal om att det krävs eftertanke och omprövning för att processen ska kunna föras framåt”, säger talmannen.",
-      "pubDate": "2026-10-02T09:06:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Insändare. Medierna borde ha granskat de rödgröna hårdare",
       "link": "https://www.dn.se/insandare/medierna-borde-ha-granskat-de-rodgrona-hardare/",
       "description": "INSÄNDARE. Journalisternas viktigaste uppgift är inte att rapportera om kraschen efter att valet är över. Ändå behandlades oppositionen under stora delar av valrörelsen som ett möjligt regeringsunderlag, skriver Joe Formgren.",
@@ -267,9 +239,43 @@
       "topics": [
         "Regeringsbildning"
       ]
+    },
+    {
+      "title": "Snödränkta svenska ”Stormen” ballar ur totalt",
+      "link": "https://www.dn.se/kultur/snodrankta-svenska-stormen-ballar-ur-totalt/",
+      "description": "Josephine Bornebusch bjuder in den svenska skådespelareliten till ett kaotiskt och insnöat komedikalas i Netflix-filmen ”Stormen”. Knappast oförglömligt, men Fredrik Sahlin sänker garden och har rätt roligt.",
+      "pubDate": "2026-10-02T05:03:21Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "1 oktober: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/1-oktober-missa-inte-dagens-nyheter/",
+      "description": "Rödgrön offensiv, hyllad rörmokare och misslyckad avrättning – här är nyheterna du inte får missa från dagen.",
+      "pubDate": "2026-10-01T18:52:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "Kjell Östberg gisslar socialdemokratin",
+      "link": "https://www.dagensarena.se/innehall/kjell-ostberg-gisslar-socialdemokratin/",
+      "description": "Kjell Östbergs bok om Socialdemokratin förtjänar att tas på allvar. Inlägget Kjell Östberg gisslar socialdemokratin dök först upp på Dagens Arena .",
+      "pubDate": "2026-10-02T23:30:34Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Prorysk opinionsbildare bakom krav på omval",
       "link": "https://blog.zaramis.se/2026/10/02/prorysk-opinionsbildare-bakom-krav-pa-omval/",
