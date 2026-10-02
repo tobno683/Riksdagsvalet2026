@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T23:35:31.374670Z",
+  "updated_at": "2026-10-02T02:48:04.175279Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,16 @@
   ],
   "news": [
     {
+      "title": "UHR: Skjut upp svenskaprovet för medborgarskap",
+      "link": "https://www.sverigesradio.se/artikel/9309482",
+      "description": "Universitets- och högskolerådet, UHR, rekommenderar att det planerade svenskaprovet för de som söker medborgarskap skjuts upp i två år. Språktestet ska enligt nuvarande plan införas om ett år i oktober 2027 och är en del av de skärpta kraven på medborgarskap som Tidöpartierna redan har börjat införa. Det första medborgarskapsprovet i samhällskunskap genomfördes i augusti i år.",
+      "pubDate": "2026-10-02T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Mystiska intrång hos flera finska riksdagsledamöter",
       "link": "https://www.expressen.se/nyheter/varlden/mystiska-intrang-hos-flera-finska-riksdagsledamoter/",
       "description": "Riksdagsledamöter i Finland har utsatts för misstänkta intrång i sina hem under en längre tid, bekräftar Jussi Halla-Aho, riksdagens talman. Statsminister Petteri Orpo håller det för ”mycket möjligt” att främmande makt ligger bakom.",
@@ -121,18 +131,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "M-profilen: Så kan Kristersson locka C – och SD",
-      "link": "https://www.expressen.se/nyheter/politik/m-profilen-sa-kan-kristersson-locka-c-och-sd/",
-      "description": "Kristerssons dröm om en ”icke-socialistisk majoritet” ser avlägsen ut – om inte C ändrar sig kring SD. Men M-profilen Douglas Thor har ett förslag på hur man kan locka över dem. – Det skulle vara full pott, säger han.",
-      "pubDate": "2026-10-01T17:24:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
     },
     {
       "title": "Intrång i flera politikers hem i Finland: ”Tas på största allvar”",
