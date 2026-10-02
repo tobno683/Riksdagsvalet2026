@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T02:48:04.175279Z",
+  "updated_at": "2026-10-02T09:06:09.498765Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,7 +79,81 @@
   ],
   "news": [
     {
-      "title": "UHR: Skjut upp svenskaprovet för medborgarskap",
+      "title": "Uppgifter: Magdalena Andersson får sonderingsuppdraget",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-magdalena-andersson-far-sonderingsuppdraget/",
+      "description": "Socialdemokraternas partiledare Magdalena Andersson kommer att få sonderingsuppdraget – igen.&nbsp; Det erfar DN .&nbsp;",
+      "pubDate": "2026-10-02T08:39:11Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Forskaren om mystiska finska intrång: Tydlig upptrappning",
+      "link": "https://www.sverigesradio.se/artikel/9311745",
+      "description": "Flera finska riksdagsledamöter har utsatts för mystiska intrång i sina hem, under ett knappt års tid. Enligt Finlands statsminister är det mycket möjligt att främmande makt ligger bakom incidenterna. Det här är en operation som kräver en viss skicklighet och kompetens som man bara hittar hos underrättelsetjänster, säger Johan Matz, forskare vid Lunds universitet.",
+      "pubDate": "2026-10-02T08:37:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Medierna borde ha granskat de rödgröna hårdare",
+      "link": "https://www.dn.se/insandare/medierna-borde-ha-granskat-de-rodgrona-hardare/",
+      "description": "INSÄNDARE. Journalisternas viktigaste uppgift är inte att rapportera om kraschen efter att valet är över. Ändå behandlades oppositionen under stora delar av valrörelsen som ett möjligt regeringsunderlag, skriver Joe Formgren.",
+      "pubDate": "2026-10-02T07:44:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Därför syns Ygeman överallt just nu",
+      "link": "https://www.expressen.se/nyheter/politik/darfor-syns-ygeman-overallt-just-nu/",
+      "description": "För tio år sedan rådde Ygemania – nu syns Anders Ygeman, 56, ännu en gång överallt. Exministern har fått rollen som Socialdemokraternas talesperson i den stökiga regeringsbildningen. – Nu måste alla ta ett steg tillbaka, upprepar han gång på gång.",
+      "pubDate": "2026-10-02T07:30:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Anders Ygeman: Rimligt att det blir Ulf Kristersson",
+      "link": "https://www.expressen.se/nyheter/sverige/anders-ygeman-rimligt-att-det-blir-ulf-kristersson/",
+      "description": "Talman Andreas Norlén väntas i dag ge besked om vem som får sonderingsuppdraget. Statsvetaren Jenny Madestam tror att Magdalena Andersson kommer att få det. Anders Ygeman (S) är inte lika säker.&nbsp; – Vi tycker att det är rimligt att det blir Ulf, säger han i Morgonstudion.&nbsp;",
+      "pubDate": "2026-10-02T06:19:51Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Snödränkta svenska ”Stormen” ballar ur totalt",
+      "link": "https://www.dn.se/kultur/snodrankta-svenska-stormen-ballar-ur-totalt/",
+      "description": "Josephine Bornebusch bjuder in den svenska skådespelareliten till ett kaotiskt och insnöat komedikalas i Netflix-filmen ”Stormen”. Knappast oförglömligt, men Fredrik Sahlin sänker garden och har rätt roligt.",
+      "pubDate": "2026-10-02T05:03:21Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "UHR: Skjut upp svenskprovet för medborgarskap",
       "link": "https://www.sverigesradio.se/artikel/9309482",
       "description": "Universitets- och högskolerådet, UHR, rekommenderar att det planerade svenskaprovet för de som söker medborgarskap skjuts upp i två år. Språktestet ska enligt nuvarande plan införas om ett år i oktober 2027 och är en del av de skärpta kraven på medborgarskap som Tidöpartierna redan har börjat införa. Det första medborgarskapsprovet i samhällskunskap genomfördes i augusti i år.",
       "pubDate": "2026-10-02T01:00:00Z",
@@ -87,30 +161,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Mystiska intrång hos flera finska riksdagsledamöter",
-      "link": "https://www.expressen.se/nyheter/varlden/mystiska-intrang-hos-flera-finska-riksdagsledamoter/",
-      "description": "Riksdagsledamöter i Finland har utsatts för misstänkta intrång i sina hem under en längre tid, bekräftar Jussi Halla-Aho, riksdagens talman. Statsminister Petteri Orpo håller det för ”mycket möjligt” att främmande makt ligger bakom.",
-      "pubDate": "2026-10-01T19:24:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "SD-profilen öppnar för att backa från kravet om ministerposter",
-      "link": "https://www.expressen.se/nyheter/politik/sd-profilen-oppnar-for-att-backa-fran-kravet/",
-      "description": "Sverigedemokraten Björn Söder öppnar för att släppa kravet på ministerposter.&nbsp; – Jag tycker det viktigaste är att vi inte får en vänsterregering, säger han till Svenska Dagbladet.&nbsp; Igår uppgav SD-ledaren Jimmie Åkesson att kravet om ministerposter står fast.&nbsp;",
-      "pubDate": "2026-10-01T19:01:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
     },
     {
       "title": "1 oktober: Missa inte dagens nyheter",
@@ -157,48 +207,6 @@
       ]
     },
     {
-      "title": "Gissén: Personkemin mellan partiledarna har blivit betydligt bättre",
-      "link": "https://www.sverigesradio.se/artikel/9311410",
-      "description": "En lyssnare undrar om personkemin mellan partiledarna har blivit bättre eller sämre än vid tidigare regeringsbildningar. Personkemin är nog generellt betydligt bättre än det ser ut att vara, säger Helena Gissén, Ekots inrikespolitiska kommentator. Men hon tar upp exemplet när Vänsterpartiet röstade för en moderat talman. ”Praxis säger att det största partiet från det vinnande laget ska få talmansposten. Det tyckte framför allt Socialdemokraterna var ett oerhört svek”, säger hon.",
-      "pubDate": "2026-10-01T15:37:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Låst läge i regeringsbildandet – så vanligt är det",
-      "link": "https://www.sverigesradio.se/artikel/9311399",
-      "description": "Lyssnaren Leo skriver: ”Jag tror många upplever att regeringsbildandet är på sandlådenivå, är det vanligt att det är så här pass låsta lägen som det är nu eller sticker det här valet ut?” Mest likt den nuvarande situationen kan man säga är 2018 när Liberalerna och Centerpartiet bytte sida. Den regeringsbildningen tog 134 dagar, säger Ekots inrikespolitiska kommentator Helena Gissén. ”Det händer att det blir väldigt svårt. Det finns många partier och matematiken räcker inte för att ett eller två partier tillsammans ska kunna få majoritet.”",
-      "pubDate": "2026-10-01T15:27:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "L",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Helena Gissén: ”Hoppande majoriteter verkar ingen tro på längre”",
-      "link": "https://www.sverigesradio.se/artikel/9311390",
-      "description": "”Det här med hoppande majoriteter verkar ingen tro på längre”, säger Helena Gissén, Ekots inrikespolitiska kommentator. Hon svarar på lyssnarnas frågor, där en lyssnare undrar hur olika konstellationer kan se ut. Men att Andersson (S) och Kristersson (M) skulle lägga sig platt och bli stödpartier är inte troligt, menar Gissén. Alla verkar relativt överens om att det behövs en stabil majoritetsregering och att den som får statsministerposten ska veta att den får igenom sin budget, säger hon.",
-      "pubDate": "2026-10-01T15:15:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Rödgrön offensiv i riksdagen mot utvisningarna",
       "link": "https://www.dn.se/sverige/rodgron-offensiv-i-riksdagen-mot-utvisningarna/",
       "description": "I skuggan av den tröga regeringsbildningen försöker de rödgröna partierna enas i riksdagen om ett nytt migrationspolitiskt förslag. Målsättningen är att stoppa utvisningar av unga människor. – Det viktigaste för att lösa det här är att få en ny regering på plats, säger Ida Karkiainen (S).",
@@ -223,7 +231,7 @@
     {
       "title": "Insändare. Det är dags att Vänsterpartiet tar ett stort steg tillbaka",
       "link": "https://www.dn.se/insandare/det-ar-dags-att-vansterpartiet-tar-ett-stort-steg-tillbaka/",
-      "description": "INSÄNDARE. Mer än halva väljarkåren vill att alla gröna och röda visar mognad att bilda en regering med gemensamma värderingar som grund. Därför är det nu läge för Vänsterpartiet att backa genom att lyssna på opinionen och inte kräva ministerposter, skriver Roland Hedblad.",
+      "description": "INSÄNDARE. Mer än halva väljarkåren vill att alla gröna och röda visar mognad att bilda en regering med gemensamma värderingar som grund. Därför är det nu läge för Vänsterpartiet att backa genom att lyssna på opinionen och inte kräva ministerposter, skriver Ronald Hedblad.",
       "pubDate": "2026-10-01T12:44:21Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -244,21 +252,46 @@
         "C",
         "MP"
       ]
-    },
-    {
-      "title": "Chatt: Ställ din fråga om läget i svensk politik",
-      "link": "https://www.svt.se/nyheter/inrikes/chatt-stall-dina-fragor-om-laget-i-svensk-politik",
-      "description": "Låst läge i regeringsbildningen på den rödgröna sidan och fortfarande ovisst vad talmannens nästa steg blir. Vad undrar du om inrikespolitiken just nu?",
-      "pubDate": "2026-10-01T11:42:59Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Prorysk opinionsbildare bakom krav på omval",
+      "link": "https://blog.zaramis.se/2026/10/02/prorysk-opinionsbildare-bakom-krav-pa-omval/",
+      "description": "Tidningen Expo har visat att en person vid namn Robin Broman ligger bakom sajten ettfolk.se som bedriver propaganda om valfusk och för omval. Han kallar sig Leopold Hulinder på den aktuella sajten. Sajten ligger bakom uppmaningar att anmäla allt möjligt som valfusk vilket gjort att Valmyndigheten har blivit helt överbelastad. Läs mer … Inlägget Prorysk opinionsbildare bakom krav på omval dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-10-02T05:28:13Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Det valfuskande partiet – Sverigedemokraterna",
+      "link": "https://blog.zaramis.se/2026/10/02/det-valfuskande-partiet-sverigedemokraterna/",
+      "description": "Sverigedemokraterna är det parti som förekommer oftast i de incidentrapporter som valmyndigheten mottagit. Detta enligt de rapporter som redovisas på sajten Valkoll och kommer från Valmyndigheten. Som jag tidigare rapporterat förekommer SD oftare än andra partier i incidentrapporterna. Samtidigt ska det sägas att partier pekas ut väldigt sällan. SD förekommer i 17 rapporter av mer än 5 000. Läs mer … Inlägget Det valfuskande partiet &#8211; Sverigedemokraterna dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-10-02T04:53:57Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Sverige skattebombas tillbaka till förindustriell tid",
+      "link": "https://ledarsidorna.se/sverige-skattebombas-tillbaka-till-forindustriell-tid/",
+      "description": "Socialdemokraternas partiledare Magdalena Andersson har fått återkommande kritik mot sin otydlighet om vad hon vill med Sverige efter valet. En situation som innebär att hon efter valet har stor frihet i vilka vägval hon kan komma att göra. Något som partiets vänsterfalang kommit att utnyttja och i en framtid där Vänsterpartiets ökade inflytande ryckt närmare. [&#8230;]",
+      "pubDate": "2026-10-02T03:19:39Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Kommer Vänsterpartiet få en plats i regeringen?",
       "link": "https://www.dagensarena.se/innehall/kommer-vansterpartiet-fa-en-plats-regeringen/",
@@ -356,23 +389,73 @@
       ]
     },
     {
-      "title": "Vem är vänsterpartiets Mohamed Ali?",
-      "link": "https://ledarsidorna.se/vem-ar-vansterpartiets-mohamed-ali/",
-      "description": "Elva veckor före valet satt Vänsterpartiets blivande riksdagsledamot Mohamed Abdukardir Ali i Mogadishu och deltog i ett möte om det svenska valet och den somaliska diasporans roll. Samtidigt hade hans eget parti begränsad kunskap om vem han var samt vilka uppdrag och kontakter han hade. Den 29 juni 2026 publicerade Said Siyaad bilder från ett [&#8230;]",
-      "pubDate": "2026-09-21T17:07:08Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
+      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
+      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
+      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
+      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
       "sourceType": "blog",
       "topics": [
         "V"
+      ]
+    },
+    {
+      "title": "BREV 490 – Kartlägg människor efter deras ras.",
+      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
+      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
+      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
+      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "SD",
+        "C"
       ]
     }
   ],
   "podcasts": [
     {
+      "title": "Rak höger: Därför väljer de unga Moderaterna",
+      "link": "https://pod.space/kvartal/rak-hoger-darfor-valjer-de-unga-moderaterna",
+      "description": "Tre skolval i rad har Moderaterna blivit största parti. Ändå kretsar debatten om den unga högern kring Andrew Tate, incels och etnonationalism. Muf-ordföranden Douglas Thor möter en generation som passar dåligt in i den bilden. I Rak höger berättar han vad han tror är skälet till att M vinner där SD tappar – och om kravet från unga väljare som fick honom att ta strid mot den egna regeringen.",
+      "pubDate": "2026-10-02T06:59:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "319. Så kan de rödgröna bli sams",
       "link": "https://pod.space/politikrummet/319-sa-kan-de-rodgrona-bli-sams",
-      "description": "Ingen vill ha sonderingsuppdraget och ingen regering finns i sikte. Men i bakgrunden rör det sig – lite grann. I riksdagsstudion: Filippa Rogvall, Viktor Barth-Kron och Max V Karlsson.",
+      "description": "Ingen vill ha sonderingsuppdraget och ingen regering finns i sikte. Men i bakgrunden rör det sig – lite grann. I riksdagsstudion: Filippa Rogvall, Viktor Barth-Kron och Max V Karlsson. Ansvarig utgivare: Karin Olsson, Expressen AB.",
       "pubDate": "2026-10-01T13:47:43Z",
       "source": "Politikrummet",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -490,7 +573,7 @@
     {
       "title": "317. Hatade Ebba Busch Tidösamarbetet?",
       "link": "https://pod.space/politikrummet/317-hatade-ebba-busch-tidosamarbetet",
-      "description": "Live från Bokmässan: Viktor Barth-Kron intervjuar Maggie Strömberg och Torbjörn Nilsson, bokaktuella med historien om Tidösamarbetet. Om spriten, maktkampen och Ebba Buschs ihållande irritation.",
+      "description": "Live från Bokmässan: Viktor Barth-Kron intervjuar Maggie Strömberg och Torbjörn Nilsson, bokaktuella med historien om Tidösamarbetet. Om spriten, maktkampen och Ebba Buschs ihållande irritation. Ansvarig utgivare: Klas Granström, Expressen AB.",
       "pubDate": "2026-09-25T03:05:00Z",
       "source": "Politikrummet",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -533,20 +616,6 @@
       "sourceType": "podcast",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "316. Rödgrön kaoskartell",
-      "link": "https://pod.space/politikrummet/316-rodgron-kaoskartell",
-      "description": "Hur går det med Magdalena Anderssons regeringsbildning? Vem blir ny talman? Och vad har hänt med Vänsterpartiets utredning om kryssraketen i Borlänge – och det misstänkta valfusket? Politikrummet spelar in direkt från riksdagen efter en intensiv veckostart. Medverkande: Max V Karlsson, Anette Holmqvist och Viktor Barth-Kron. Ansvarig utgivare: Klas Granström.",
-      "pubDate": "2026-09-23T12:19:00Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
       ]
     }
   ]
