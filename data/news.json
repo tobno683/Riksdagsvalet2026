@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T15:55:26.589773Z",
+  "updated_at": "2026-10-02T20:13:13.771780Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,18 @@
   ],
   "news": [
     {
+      "title": "”Kod röd” i svenskfavoriten – varnar för extremväder",
+      "link": "https://www.expressen.se/nyheter/vader/kod-rod-i-svenskfavoriten-varnar-for-extremvader/",
+      "description": "Dåligt väder drar in över svenskfavoriten. Myndigheter har skickat nödmeddelande till personer på Kreta och kod röd har utlysts i regionen. Men Anna-Lena Andersson från Kalix är inte orolig. – Jag tycker inte det är någon fara alls överhuvudtaget.",
+      "pubDate": "2026-10-02T19:18:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Stockholm väntar med beslut om extern utredning om valet i Järva",
       "link": "https://www.dn.se/sverige/stockholm-vantar-med-beslut-om-extern-utredning-om-valet-i-jarva/",
       "description": "På fredagen träffades kommunstyrelsen i Stockholm för ett extrainsatt möte med anledning av misstänkt valfusk i Järva. Moderaternas krav på att tillsätta en omedelbar extern utredning om saken fick inget gehör. Karin Wanngård (S) säger att förslagen måste beredas först. Statsvetaren Erik Wångman har svårt att se varför frågan skulle undgå beredning.",
@@ -117,9 +129,9 @@
       ]
     },
     {
-      "title": "Centerledaren om inbjudan: ”Viktigt att komma vidare”",
+      "title": "Centerledaren om inbjudan: Ett sätt att öppna upp för diskussion",
       "link": "https://www.sverigesradio.se/artikel/9312147",
-      "description": "Centerpartiets partiledare Elisabeth Thand Ringqvist har bjudit in de rödgröna partierna till samtal. ”Det är viktigt att komma vidare i diskussionerna om hur vi kan få en regering för Sverige”, säger Thand Ringqvist till Ekot.",
+      "description": "Idag har alla partier på den rödgröna sidan tackat ja till ett gemensamt möte på inbjudan av Centerpartiet. Ett möte som mer ska handla om de breda politiska frågorna och inte om sakpolitik eller ministerposter menar Centerledaren Elisabeth Thand Ringqvist. \"Jag träffade talmannen i onsdags och han sa väldigt tydligt att vi måste börja fundera på sätt att öppna upp och komma vidare. Det här är ett sätt att öppna upp för en konstruktiv diskussion\", säger partiledaren i Studio Ett.",
       "pubDate": "2026-10-02T13:42:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -152,21 +164,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "Centerpartiet bjuder in V, S och MP till samtal",
-      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-bjuder-in-v-s-och-mp-till-samtal/",
-      "description": "Centerpartiet bjuder in Vänsterpartiet, Socialdemokraterna och Miljöpartiet till samtal – och de rödgröna säger ja. Innan Elisabeth Thand Ringqvist skickade inbjudan fick hon okej av sitt parti. –&nbsp;Det här är vårt sätt att vara konstruktiva i ett läge där vi också bidragit till låsningar, säger hon i en första kommentar till Expressen.",
-      "pubDate": "2026-10-02T12:00:40Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
       ]
     },
     {
@@ -260,12 +257,12 @@
       ]
     },
     {
-      "title": "Forskaren om mystiska finska intrång: Tydlig upptrappning",
-      "link": "https://www.sverigesradio.se/artikel/9311745",
-      "description": "Flera finska riksdagsledamöter har utsatts för mystiska intrång i sina hem, under ett knappt års tid. Enligt Finlands statsminister är det mycket möjligt att främmande makt ligger bakom incidenterna. Det här är en operation som kräver en viss skicklighet och kompetens som man bara hittar hos underrättelsetjänster, säger Johan Matz, forskare vid Lunds universitet.",
-      "pubDate": "2026-10-02T08:37:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Insändare. Medierna borde ha granskat de rödgröna hårdare",
+      "link": "https://www.dn.se/insandare/medierna-borde-ha-granskat-de-rodgrona-hardare/",
+      "description": "INSÄNDARE. Journalisternas viktigaste uppgift är inte att rapportera om kraschen efter att valet är över. Ändå behandlades oppositionen under stora delar av valrörelsen som ett möjligt regeringsunderlag, skriver Joe Formgren.",
+      "pubDate": "2026-10-02T07:44:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "Regeringsbildning"
