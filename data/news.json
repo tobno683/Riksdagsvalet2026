@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T09:06:09.498765Z",
+  "updated_at": "2026-10-02T15:55:26.589773Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,184 @@
   ],
   "news": [
     {
-      "title": "Uppgifter: Magdalena Andersson får sonderingsuppdraget",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-magdalena-andersson-far-sonderingsuppdraget/",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson kommer att få sonderingsuppdraget – igen.&nbsp; Det erfar DN .&nbsp;",
-      "pubDate": "2026-10-02T08:39:11Z",
+      "title": "Stockholm väntar med beslut om extern utredning om valet i Järva",
+      "link": "https://www.dn.se/sverige/stockholm-vantar-med-beslut-om-extern-utredning-om-valet-i-jarva/",
+      "description": "På fredagen träffades kommunstyrelsen i Stockholm för ett extrainsatt möte med anledning av misstänkt valfusk i Järva. Moderaternas krav på att tillsätta en omedelbar extern utredning om saken fick inget gehör. Karin Wanngård (S) säger att förslagen måste beredas först. Statsvetaren Erik Wångman har svårt att se varför frågan skulle undgå beredning.",
+      "pubDate": "2026-10-02T15:37:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "S, V och MP välkomnar Centerpartiets mötesinbjudan",
+      "link": "https://www.sverigesradio.se/artikel/9312319",
+      "description": "Socialdemokraternas Anders Ygeman säger att han bejakar att Magdalena Andersson återigen fått uppdraget att sondera möjligheten att bilda regering. Under dagen har Centerpartiet bjudit in de övriga rödgröna partierna till möte med företrädare för bland andra fack och näringsliv. Centerpartiet håller fast vid sin linje att Vänsterpartiet inte ska sitta i regering.",
+      "pubDate": "2026-10-02T14:57:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Efter C-invit – alla rödgröna partier i gemensamt möte",
+      "link": "https://www.svt.se/nyheter/inrikes/efter-c-invit-alla-rodgrona-partier-i-gemensamt-mote",
+      "description": "En möjlig islossning i regeringsfrågan. Från att inte ha kunnat fika tillsammans ska samtliga rödgröna partier ha gemensamma samtal med ”externa aktörer” efter inbjudan av Centerpartiet. – Det här klart en öppning mot att göra något konstruktivt, att sitta ner och prata om utmaningar för Sverige, säger Elisabeth Thand Ringqvist (C).",
+      "pubDate": "2026-10-02T14:06:03Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Centerledaren om inbjudan: ”Viktigt att komma vidare”",
+      "link": "https://www.sverigesradio.se/artikel/9312147",
+      "description": "Centerpartiets partiledare Elisabeth Thand Ringqvist har bjudit in de rödgröna partierna till samtal. ”Det är viktigt att komma vidare i diskussionerna om hur vi kan få en regering för Sverige”, säger Thand Ringqvist till Ekot.",
+      "pubDate": "2026-10-02T13:42:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Hur glad blev Magdalena Andersson av talmannens besked?",
+      "link": "https://www.dn.se/podd/alskade-politik/hur-glad-blev-magdalena-andersson-av-talmannens-besked/",
+      "description": "Andreas Norlén manar till eftertänksamhet under helgen – och C vill plötsligt träffa alla rödgröna. Hur lång tid tror talmannen att regeringsbildningen kommer ta?",
+      "pubDate": "2026-10-02T13:33:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. En kram mellan Ulf och Magdalena vore bra för Sverige",
+      "link": "https://www.dn.se/insandare/en-kram-mellan-ulf-och-magdalena-vore-bra-for-sverige/",
+      "description": "INSÄNDARE. Moderaterna och Socialdemokraterna är i stort sett överens i många centrala politiska frågor. Ett handlag och kanske en kram mellan S-ledaren Magdalena Andersson och M-ledaren Ulf Kristersson skulle innebära en energikick för hela Sverige inklusive näringslivet, skriver tidigare regiondirektören Svante Lönnbark.",
+      "pubDate": "2026-10-02T12:11:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Centerpartiet bjuder in V, S och MP till samtal",
+      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-bjuder-in-v-s-och-mp-till-samtal/",
+      "description": "Centerpartiet bjuder in Vänsterpartiet, Socialdemokraterna och Miljöpartiet till samtal – och de rödgröna säger ja. Innan Elisabeth Thand Ringqvist skickade inbjudan fick hon okej av sitt parti. –&nbsp;Det här är vårt sätt att vara konstruktiva i ett läge där vi också bidragit till låsningar, säger hon i en första kommentar till Expressen.",
+      "pubDate": "2026-10-02T12:00:40Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Furtenbach: ”Misstron kunde ju nästan inte vara större mellan V och C”",
+      "link": "https://www.sverigesradio.se/artikel/9311932",
+      "description": "Det är tydligt att talmannen Andreas Norlén har blivit påverkad av regeringsbildningen 2018 och har därför bytt taktik, menar Ekot inrikespolitiske kommentator Fredrik Furtenbach. Förutsättningarna för att det ska gå fortare för Magdalena Andersson (S) att försöka bilda regering finns, då uppdraget kommer avslutas med statsministeromröstning. Men enligt Furtenbach menar att det hänger på de rödgröna partierna. ”Misstron kunde ju nästan inte vara större mellan Vänsterpartiet och Centerpartiet”, säger Fredrik Furtenbach.",
+      "pubDate": "2026-10-02T10:48:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Andersson biter i det sura äpplet",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-andersson-biter-i-det-sura-applet/",
+      "description": "Att Magdalena Andersson blir först ut att prövas som statsminister är surt för Socialdemokraterna men spelar ingen roll för vilken regering det blir. Samtidigt bjuder Centern på ett litet genombrott genom att bjuda in S, V och MP till samtal.",
+      "pubDate": "2026-10-02T10:46:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Det här händer nu i sonderingsprocessen",
+      "link": "https://www.svt.se/nyheter/inrikes/det-har-hander-nu-i-sonderingsprocessen",
+      "description": "Socialdemokraternas partiledare Magdalena Andersson får tillbaka sonderingsuppdraget av Andreas Norlén. Det meddelade talmannen under en pressträff i riksdagshuset på fredagen. Formellt inleds Magdalena Anderssons förnyade sonderingsrunda på måndag. Därefter ska hon återkomma med rapport den 12 oktober.",
+      "pubDate": "2026-10-02T10:05:25Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
         "S"
+      ]
+    },
+    {
+      "title": "Gissén: Ska fundera över helgen om låsningar kan luckras upp",
+      "link": "https://www.sverigesradio.se/artikel/9311856",
+      "description": "Att Magdalena Andersson (S) får tillbaka sonderingsuppdraget för att bilda regering av var knappast oväntat, enligt Ekots inrikespolitiska kommentatorn Helena Gissén. Något som Gissén däremot tyckte var intressant var att talmannen Andréas Norlén meddelande under fredagens pressträff att processen formellt inleds på måndag för att partierna ska få helgen till eftertanke, vilket hon kopplar till de rödgröna partiernas röda linjer i regeringsfrågan. ”De ska fundera över helgen på om det går att luckra upp de här låsningarna. Det är ju den konflikten som ser så svårlöslig ut” säger Helena Gissén.",
+      "pubDate": "2026-10-02T09:49:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Magdalena Andersson får uppdraget att bilda regering – igen",
+      "link": "https://www.dn.se/sverige/magdalena-andersson-far-uppdraget-att-bilda-regering-igen/",
+      "description": "S-ledaren Magdalena Andersson får tillbaka uppdraget att bilda en regering. – Det är partiledarna som har nyckeln till att lösa det här. Inte jag, säger talman Andreas Norlén. Elisabeth Thand Ringqvist (C) vill lösa upp knutarna genom att först ha ett möte om läget i Sverige.",
+      "pubDate": "2026-10-02T09:48:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Birgitta Rubin: Utredningen om museerna är ett hastverk",
+      "link": "https://www.dn.se/kultur/birgitta-rubin-utredningen-om-museerna-ar-ett-hastverk/",
+      "description": "Förslaget att Medelhavsmuseet och Östasiatiska museet ska flytta ihop med Etnografiska museet ligger helt i linje med moderaternas nyliberala kulturpolitik. Min tolkning är att en samlokalisering från början legat i korten, skriver DN:s Birgitta Rubin.",
+      "pubDate": "2026-10-02T09:31:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Magdalena Andersson (S) får tillbaka sonderingsuppdraget",
+      "link": "https://www.sverigesradio.se/artikel/9311770",
+      "description": "Magdalena Andersson (S) får tillbaka sonderingsuppdraget och ska återigen försöka bilda regering. Det säger talmannen Andreas Norlén under en pressträff. Talmannen säger även att sonderingsuppdraget ska avslutas med statsministeromröstning i riksdagen. ”Det är en signal om att det krävs eftertanke och omprövning för att processen ska kunna föras framåt”, säger talmannen.",
+      "pubDate": "2026-10-02T09:06:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
       ]
     },
     {
@@ -100,157 +269,6 @@
       "sourceType": "news",
       "topics": [
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Medierna borde ha granskat de rödgröna hårdare",
-      "link": "https://www.dn.se/insandare/medierna-borde-ha-granskat-de-rodgrona-hardare/",
-      "description": "INSÄNDARE. Journalisternas viktigaste uppgift är inte att rapportera om kraschen efter att valet är över. Ändå behandlades oppositionen under stora delar av valrörelsen som ett möjligt regeringsunderlag, skriver Joe Formgren.",
-      "pubDate": "2026-10-02T07:44:32Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Därför syns Ygeman överallt just nu",
-      "link": "https://www.expressen.se/nyheter/politik/darfor-syns-ygeman-overallt-just-nu/",
-      "description": "För tio år sedan rådde Ygemania – nu syns Anders Ygeman, 56, ännu en gång överallt. Exministern har fått rollen som Socialdemokraternas talesperson i den stökiga regeringsbildningen. – Nu måste alla ta ett steg tillbaka, upprepar han gång på gång.",
-      "pubDate": "2026-10-02T07:30:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Anders Ygeman: Rimligt att det blir Ulf Kristersson",
-      "link": "https://www.expressen.se/nyheter/sverige/anders-ygeman-rimligt-att-det-blir-ulf-kristersson/",
-      "description": "Talman Andreas Norlén väntas i dag ge besked om vem som får sonderingsuppdraget. Statsvetaren Jenny Madestam tror att Magdalena Andersson kommer att få det. Anders Ygeman (S) är inte lika säker.&nbsp; – Vi tycker att det är rimligt att det blir Ulf, säger han i Morgonstudion.&nbsp;",
-      "pubDate": "2026-10-02T06:19:51Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Snödränkta svenska ”Stormen” ballar ur totalt",
-      "link": "https://www.dn.se/kultur/snodrankta-svenska-stormen-ballar-ur-totalt/",
-      "description": "Josephine Bornebusch bjuder in den svenska skådespelareliten till ett kaotiskt och insnöat komedikalas i Netflix-filmen ”Stormen”. Knappast oförglömligt, men Fredrik Sahlin sänker garden och har rätt roligt.",
-      "pubDate": "2026-10-02T05:03:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "UHR: Skjut upp svenskprovet för medborgarskap",
-      "link": "https://www.sverigesradio.se/artikel/9309482",
-      "description": "Universitets- och högskolerådet, UHR, rekommenderar att det planerade svenskaprovet för de som söker medborgarskap skjuts upp i två år. Språktestet ska enligt nuvarande plan införas om ett år i oktober 2027 och är en del av de skärpta kraven på medborgarskap som Tidöpartierna redan har börjat införa. Det första medborgarskapsprovet i samhällskunskap genomfördes i augusti i år.",
-      "pubDate": "2026-10-02T01:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "1 oktober: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/1-oktober-missa-inte-dagens-nyheter/",
-      "description": "Rödgrön offensiv, hyllad rörmokare och misslyckad avrättning – här är nyheterna du inte får missa från dagen.",
-      "pubDate": "2026-10-01T18:52:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Dyr vinter på ingång – här är fem prissmällar för hushållen",
-      "link": "https://www.svt.se/nyheter/inrikes/dyr-vinter-pa-ingang-har-ar-fem-prissmallar-for-hushallen",
-      "description": "En tuff vinter väntar när priserna på bränsle, el och räntor stiger. Samtidigt som Tidöregeringens lättnadspaket för hushållen fasas ut, råder det global brist på olja och gas på grund av kriget i Mellanöstern. – Vi befinner oss i ett väldigt osäkert läge, säger råvaruanalytikern Christian Kopfer.",
-      "pubDate": "2026-10-01T17:57:38Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Intrång i flera politikers hem i Finland: ”Tas på största allvar”",
-      "link": "https://www.sverigesradio.se/artikel/9311439",
-      "description": "I Finland har flera riksdagsledamöter drabbats av intrång i sina hem. Enligt statsminister Petteri Orpo är det \"mycket möjligt\" att främmande makt ligger bakom incidenterna. Intrången ska ha skett hos ett \"betydande antal\" finländska riksdagsledamöter från olika partier, under ett knappt års tid.",
-      "pubDate": "2026-10-01T17:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Beklagar felöversättning: ”Ska inte kunna hända”",
-      "link": "https://www.dn.se/varlden/beklagar-feloversattning-ska-inte-kunna-handa/",
-      "description": "Torsdagens rättegång i Istanbul mot Joakim Medin sköts fram med hänvisning till oklarheter kring ett beslut från svenska regeringen. Justitieminister Gunnar Strömmer (M) bekräftar nu att det blivit en felöversättning.",
-      "pubDate": "2026-10-01T16:24:04Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Rödgrön offensiv i riksdagen mot utvisningarna",
-      "link": "https://www.dn.se/sverige/rodgron-offensiv-i-riksdagen-mot-utvisningarna/",
-      "description": "I skuggan av den tröga regeringsbildningen försöker de rödgröna partierna enas i riksdagen om ett nytt migrationspolitiskt förslag. Målsättningen är att stoppa utvisningar av unga människor. – Det viktigaste för att lösa det här är att få en ny regering på plats, säger Ida Karkiainen (S).",
-      "pubDate": "2026-10-01T14:34:14Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Sänk skatter för företagare så att fler unga kan få jobb",
-      "link": "https://www.dn.se/insandare/svar-sank-skatter-for-foretagare-sa-att-fler-unga-kan-fa-jobb/",
-      "description": "SVAR PÅ INSÄNDARE. Min oro är att de rödgröna partierna underskattar företagens villkor när de talar om ungdomarnas framtid. Den som lovar fler jobb måste också svara på vad som ska få fler småföretagare att våga anställa, skriver pappan och småföretagaren Staffan Eriksson.",
-      "pubDate": "2026-10-01T12:55:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Insändare. Det är dags att Vänsterpartiet tar ett stort steg tillbaka",
-      "link": "https://www.dn.se/insandare/det-ar-dags-att-vansterpartiet-tar-ett-stort-steg-tillbaka/",
-      "description": "INSÄNDARE. Mer än halva väljarkåren vill att alla gröna och röda visar mognad att bilda en regering med gemensamma värderingar som grund. Därför är det nu läge för Vänsterpartiet att backa genom att lyssna på opinionen och inte kräva ministerposter, skriver Ronald Hedblad.",
-      "pubDate": "2026-10-01T12:44:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Centern gör precis vad partiets väljare önskar",
-      "link": "https://www.dn.se/insandare/svar-centern-gor-precis-vad-partiets-valjare-onskar/",
-      "description": "SVAR PÅ INSÄNDARE. Nej till samarbete med antidemokrater är en avgörande röd linje för Centerpartiet och gäller höger och vänster. Tack, Centern, för att ni står upp för demokratiska och liberala grundvärderingar, skriver den nya C-väljaren Leif Lind.",
-      "pubDate": "2026-10-01T12:33:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "MP"
       ]
     }
   ],
@@ -387,59 +405,22 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
-      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
-      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
-      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
-      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 490 – Kartlägg människor efter deras ras.",
-      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
-      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
-      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
-      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "C"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Hur glad blev Magdalena Andersson av talmannens besked?",
+      "link": "https://pod.space/alskadepolitik/hur-glad-blev-magdalena-andersson-av-talmannens-besked",
+      "description": "Andreas Norlén manar till eftertänksamhet under helgen – och C vill plötsligt träffa alla rödgröna. Hur lång tid tror talmannen att regeringsbildningen kommer ta?",
+      "pubDate": "2026-10-02T13:33:09Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Rak höger: Därför väljer de unga Moderaterna",
       "link": "https://pod.space/kvartal/rak-hoger-darfor-valjer-de-unga-moderaterna",
@@ -604,18 +585,6 @@
       "sourceType": "podcast",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Rak höger: Tre män på en krog förstod vad S glömt",
-      "link": "https://pod.space/kvartal/rak-hoger-tre-man-pa-en-krog-forstod-vad-s-glomt",
-      "description": "Socialdemokraten Daniel Suhonen sågar sitt partis valrörelse. Själv är jag verkligen inte socialdemokrat – ändå tycker jag att S fått för mycket kritik. De rödgröna vann trots allt valet. Vi talar om var klasspolitiken slutar och identitetspolitiken börjar, och varför Socialdemokraterna gör pannbiffar av sina begåvningar. Och vad hörde Suhonen tre män säga på en krog som fick honom att tro på socialismens återkomst?",
-      "pubDate": "2026-09-24T04:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S"
       ]
     }
   ]
