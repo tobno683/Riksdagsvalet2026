@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T23:53:37.031590Z",
+  "updated_at": "2026-10-03T02:34:41.092595Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,16 @@
     }
   ],
   "news": [
+    {
+      "title": "Ludvika sticker ut – här fick Mohamed Ali många personkryss",
+      "link": "https://www.sverigesradio.se/artikel/9312164",
+      "description": "Valmyndigheten har fått in flera konkreta tips som kan kopplas till utredningen om misstänkt valfusk vid valet i Borlänge, där riksdagsledamoten Mohamed Ali (V) fick flera personkryss. 19 av tipsen har hemligstämplats med hänvisning till sekretess för brottsutredningar eller det brottsförebyggande arbetet. Ekot har tagit del av flera av de hemligstämplade rapporterna, som bland annat handlar om påståenden i sociala medier under valet och förkryssade valsedlar. I grannkommunen Ludvika finns tre av de tio valdistrikt där Mohamed Ali fick flest personkryss.",
+      "pubDate": "2026-10-03T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "V om C:s mötesinvit: ”Lite med armbågen”",
       "link": "https://www.expressen.se/nyheter/politik/v-om-cs-motesinvit-lite-med-armbagen/",
@@ -251,16 +261,6 @@
       "topics": [
         "KD"
       ]
-    },
-    {
-      "title": "1 oktober: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/1-oktober-missa-inte-dagens-nyheter/",
-      "description": "Rödgrön offensiv, hyllad rörmokare och misslyckad avrättning – här är nyheterna du inte får missa från dagen.",
-      "pubDate": "2026-10-01T18:52:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
