@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T02:34:41.092595Z",
+  "updated_at": "2026-10-03T08:38:28.204873Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,44 @@
   ],
   "news": [
     {
+      "title": "Ipsos var pricksäkert – nu ska mätningarna bli ännu bättre",
+      "link": "https://www.dn.se/sverige/ipsos-var-pricksakert-nu-ska-matningarna-bli-annu-battre/",
+      "description": "Ipsos kom närmast partiernas valresultat av alla opinionsinstitut i den sista mätningen före valdagen. Men Moderaterna underskattades och nu börjar arbetet för att lyckas ännu bättre i nästa val. – Utmaningen är att förstå vad som är slump och vad som är systematiska fel, säger Nicklas Källebring på Ipsos.",
+      "pubDate": "2026-10-03T08:02:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "SD: Nej till att be samer om ursäkt",
+      "link": "https://www.svt.se/nyheter/inrikes/sd-nej-till-att-be-samer-om-ursakt",
+      "description": "I veckan krävde Sanningskommissionen för samiska folket att en offentlig ursäkt bör ske för statens övergrepp mot samerna. Men när SVT ställer frågan till riksdagspartierna tvekar flera av dem – och Sverigedemokraterna är helt emot. – Utgångspunkten är att vi inte vill tillgodose detta krav, säger Martin Kinnunen (SD).",
+      "pubDate": "2026-10-03T04:53:07Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Ledare: Magdalena Andersson kan inte låta V bromsa henne",
+      "link": "https://www.dn.se/ledare/magdalena-andersson-kan-inte-lata-v-bromsa-henne/",
+      "description": "Nooshi Dadgostar (V) och Ida Gabrielsson (V) pratar ofta om att de vill träffa centerpartisterna på en fika. Men det som krävs för att få en regering på plats är att Vänsterpartiet slutar att blockera alla diskussioner om ett politiskt program med sitt krav på ministerposter.",
+      "pubDate": "2026-10-03T03:09:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "Ludvika sticker ut – här fick Mohamed Ali många personkryss",
       "link": "https://www.sverigesradio.se/artikel/9312164",
       "description": "Valmyndigheten har fått in flera konkreta tips som kan kopplas till utredningen om misstänkt valfusk vid valet i Borlänge, där riksdagsledamoten Mohamed Ali (V) fick flera personkryss. 19 av tipsen har hemligstämplats med hänvisning till sekretess för brottsutredningar eller det brottsförebyggande arbetet. Ekot har tagit del av flera av de hemligstämplade rapporterna, som bland annat handlar om påståenden i sociala medier under valet och förkryssade valsedlar. I grannkommunen Ludvika finns tre av de tio valdistrikt där Mohamed Ali fick flest personkryss.",
@@ -87,30 +125,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "V om C:s mötesinvit: ”Lite med armbågen”",
-      "link": "https://www.expressen.se/nyheter/politik/v-om-cs-motesinvit-lite-med-armbagen/",
-      "description": "Att Vänsterpartiet har bjudits in till samtal med C, S och MP har skett ”lite med armbågen”. Det menar vice partiledare Ida Gabrielsson. – Men det är ett bra första steg, säger hennes partikollega Maria Forsberg i SVT.",
-      "pubDate": "2026-10-02T20:21:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "”Kod röd” i svenskfavoriten – varnar för extremväder",
-      "link": "https://www.expressen.se/nyheter/vader/kod-rod-i-svenskfavoriten-varnar-for-extremvader/",
-      "description": "Dåligt väder drar in över svenskfavoriten. Myndigheter har skickat nödmeddelande till personer på Kreta och kod röd har utlysts i regionen. Men Anna-Lena Andersson från Kalix är inte orolig. – Jag tycker inte det är någon fara alls överhuvudtaget.",
-      "pubDate": "2026-10-02T19:18:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
     },
     {
       "title": "Stockholm väntar med beslut om extern utredning om valet i Järva",
@@ -145,18 +159,6 @@
       "pubDate": "2026-10-02T14:06:03Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Centerledaren om inbjudan: Ett sätt att öppna upp för diskussion",
-      "link": "https://www.sverigesradio.se/artikel/9312147",
-      "description": "Idag har alla partier på den rödgröna sidan tackat ja till ett gemensamt möte på inbjudan av Centerpartiet. Ett möte som mer ska handla om de breda politiska frågorna och inte om sakpolitik eller ministerposter menar Centerledaren Elisabeth Thand Ringqvist. \"Jag träffade talmannen i onsdags och han sa väldigt tydligt att vi måste börja fundera på sätt att öppna upp och komma vidare. Det här är ett sätt att öppna upp för en konstruktiv diskussion\", säger partiledaren i Studio Ett.",
-      "pubDate": "2026-10-02T13:42:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "C"
@@ -264,6 +266,16 @@
     }
   ],
   "blogs": [
+    {
+      "title": "“Jag organiserade människorna”",
+      "link": "https://ledarsidorna.se/jag-organiserade-manniskorna/",
+      "description": "Abukar Aden, känd som Boss Caato, bekräftar att han mobiliserade somaliska väljare inför valet. Han beskriver sina kontakter med somaliska politiker som privata relationer. Samtidigt visar dokumentationen hur svenska föreningsbidrag, biståndsprojekt och nätverk knyter samman personer i Sverige med Somalias politiska institutioner. En central fråga blir, som följd av detta, vilka grupper som faktiskt företräds. [&#8230;]",
+      "pubDate": "2026-10-03T03:36:53Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Kjell Östberg gisslar socialdemokratin",
       "link": "https://www.dagensarena.se/innehall/kjell-ostberg-gisslar-socialdemokratin/",
@@ -411,6 +423,21 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: Classic Jomshof att prata lite mycket ibland",
+      "link": "https://pod.space/kvartal/veckopanelen-classic-jomshof-att-prata-lite-mycket-ibland",
+      "description": "Veckopanelen med Lasse Stjernkvist, Ann-Marie Begler och Carl Eos under ledning av Staffan Dopping. Först spelade partiledarna Svarte Petter, men nu återfår Magdalena Andersson talmannens uppdrag att sondera för en ny regering. Hur klokt var det av Vänsterpartiet att reta upp Socialdemokraterna genom att stödja Andreas Norlén i talmansvalet? Vad ska Centerpartiet göra nu, och finns det trots valresultatet ett blått regeringsalternativ om Andersson inte lyckas? SD-politikern Richard Jomshof ville inte att allmänheten skulle få veta hur han tänkte högt om kravet på SD-ministrar. Och hur ser publiken på att Sveriges Radio lägger ner hälsopodden med Agnes Wold?",
+      "pubDate": "2026-10-03T03:40:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "SD",
+        "V",
+        "C"
+      ]
+    },
     {
       "title": "Hur glad blev Magdalena Andersson av talmannens besked?",
       "link": "https://pod.space/alskadepolitik/hur-glad-blev-magdalena-andersson-av-talmannens-besked",
@@ -573,18 +600,6 @@
       "pubDate": "2026-09-24T15:00:20Z",
       "source": "Älskade politik",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Larm om påtryckningar vid vallokalerna",
-      "link": "https://pod.space/kvartal/kvartal-idag-larm-om-patryckningar-vid-vallokalerna",
-      "description": "Det visar rapporterna. Därför vill Trump imponera på Xi. Dadgostar pratar efter 67 timmar tystnad. Och ska abortlagen bara gälla kvinnor?. Programledare: Nathalie Rothschild.",
-      "pubDate": "2026-09-24T13:55:10Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": [
         "V"
