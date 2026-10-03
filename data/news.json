@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T14:01:19.001197Z",
+  "updated_at": "2026-10-03T18:02:43.655363Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -195,16 +195,6 @@
       ]
     },
     {
-      "title": "Ludvika sticker ut – här fick Mohamed Ali många personkryss",
-      "link": "https://www.sverigesradio.se/artikel/9312164",
-      "description": "Valmyndigheten har fått in flera konkreta tips som kan kopplas till utredningen om misstänkt valfusk vid valet i Borlänge, där riksdagsledamoten Mohamed Ali (V) fick flera personkryss. 19 av tipsen har hemligstämplats med hänvisning till sekretess för brottsutredningar eller det brottsförebyggande arbetet. Ekot har tagit del av flera av de hemligstämplade rapporterna, som bland annat handlar om påståenden i sociala medier under valet och förkryssade valsedlar. I grannkommunen Ludvika finns tre av de tio valdistrikt där Mohamed Ali fick flest personkryss.",
-      "pubDate": "2026-10-03T01:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Stockholm väntar med beslut om extern utredning om valet i Järva",
       "link": "https://www.dn.se/sverige/stockholm-vantar-med-beslut-om-extern-utredning-om-valet-i-jarva/",
       "description": "På fredagen träffades kommunstyrelsen i Stockholm för ett extrainsatt möte med anledning av misstänkt valfusk i Järva. Moderaternas krav på att tillsätta en omedelbar extern utredning om saken fick inget gehör. Karin Wanngård (S) säger att förslagen måste beredas först. Statsvetaren Erik Wångman har svårt att se varför frågan skulle undgå beredning.",
@@ -252,6 +242,19 @@
       "topics": [
         "S",
         "M"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Andersson biter i det sura äpplet",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-andersson-biter-i-det-sura-applet/",
+      "description": "Att Magdalena Andersson blir först ut att prövas som statsminister är surt för Socialdemokraterna men spelar ingen roll för vilken regering det blir. Samtidigt bjuder Centern på ett litet genombrott genom att bjuda in S, V och MP till samtal.",
+      "pubDate": "2026-10-02T10:46:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
       ]
     }
   ],
