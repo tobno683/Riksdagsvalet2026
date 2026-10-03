@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T08:38:28.204873Z",
+  "updated_at": "2026-10-03T14:01:19.001197Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,98 @@
   ],
   "news": [
     {
+      "title": "Svensksomalier känner sig utpekade efter valet",
+      "link": "https://www.dn.se/sverige/svensksomalier-kanner-sig-utpekade-efter-valet/",
+      "description": "Misstankarna om valfusk i Borlänge och Järva, där svensksomaliska V-politiker har kryssats in, har lett till att många svensksomalier känner sig misstänkliggjorda. De har anklagats för klanröstning, påstådd ”organiserad påverkan” och i vissa fall kallats skadedjur.",
+      "pubDate": "2026-10-03T13:38:51Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Bild om svenskt valfusk sprids utomlands",
+      "link": "https://www.svt.se/nyheter/inrikes/bild-om-svenskt-valfusk-sprids-utomlands",
+      "description": "Diskussionen om Sverige utomlands har efter riksdagsvalet till stor del handlat om valfusk, och eldats på av stora invandringskritiska konton.",
+      "pubDate": "2026-10-03T13:03:42Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Det här talar emot att regeringsbildningen slutar i extraval",
+      "link": "https://www.svt.se/nyheter/inrikes/det-har-talar-emot-att-regeringsbildningen-slutar-i-extraval",
+      "description": "Läget i politiken ser låst ut – och redan nu talas det om extraval. Men hur sannolikt är det att svenska folket kallas till valurnorna på nytt? Här är några saker som talar emot ett extraval.",
+      "pubDate": "2026-10-03T10:34:52Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Malmö räknade med nedflyttning redan före premiären: ”Vi är realister”",
+      "link": "https://www.dn.se/sport/malmo-raknade-med-nedflyttning-redan-fore-premiaren-vi-ar-realister/",
+      "description": "Först skulle minskat stöd från sponsorer och ekonomiska hinder markera slutet för Malmö FBC:s tid i SSL. Sedan kom en swishkampanj och innebandylaget räddades – i en säsong. – Säsongen blir en träningsmöjlighet inför allsvenskan nästa år, säger målvakten Maja Lindsjö.",
+      "pubDate": "2026-10-03T10:02:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Valfusk präglar bilden av Sverige utomlands",
+      "link": "https://www.sverigesradio.se/artikel/9312350",
+      "description": "Internationella samtal om Sverige kretsar kring riksdagsvalet och valfusk, konstaterar Svenska Institutet. Hundratusen publiceringar om valfusk har gjorts i sociala medier och medier efter valet, enligt myndigheten, som gör stora mätningar på 53 olika språk. ”Det är tunga konton i en migrationskritisk miljö som har miljontals följare och driver på den här trafiken”, säger generaldirektör Madeleine Sjöstedt.",
+      "pubDate": "2026-10-03T10:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "De är i politisk minoritet på sitt gymnasium",
+      "link": "https://www.dn.se/sverige/de-ar-i-politisk-minoritet-pa-sitt-gymnasium/",
+      "description": "På Danderydsskolan där nästa alla röstar höger stämplas centerpartisten Melker Nordström som ”sosse”. På Söderskolan där MP fick egen majoritet väcker moderaten Loke Hedman starka reaktioner. Hur är det att sticka ut på en plats där man hänger varje dag?",
+      "pubDate": "2026-10-03T09:57:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "V välkomnar C:s inbjudan – Knutson: ”Första steg mot islossning”",
+      "link": "https://www.svt.se/nyheter/inrikes/v-valkomnar-cs-inbjudan-knutson-forsta-steg-mot-islossning",
+      "description": "Vänsterpartiet välkomnar Centerpartiets inbjudan till ett gemensamt möte med alla rödgröna partier. C står fast vid kravet att V inte ska sitta i regering, men SVT:s politiska kommentator Mats Knutson ser en förändring hos partierna. – Med tanke på det hårda tonläge som varit kan det här vara ett första steg mot en islossning, säger han i Rapport.",
+      "pubDate": "2026-10-03T09:28:58Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Statsvetare om oväntade inviten: ”Fiffigt drag”",
+      "link": "https://www.dn.se/sverige/statsvetare-om-ovantade-inviten-fiffigt-drag/",
+      "description": "C-ledarens invit till S, V och MP kommer parallellt med att Magdalena Andersson fått i uppdrag att sondera för en ny regering. Ett oväntat drag, menar de statsvetare som DN talat med. – Det är att sätt för Centerpartiet att visa att de inte bara sätter sig på tvären, säger Oskar Hultin Bäcksten.",
+      "pubDate": "2026-10-03T09:05:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
       "title": "Ipsos var pricksäkert – nu ska mätningarna bli ännu bättre",
       "link": "https://www.dn.se/sverige/ipsos-var-pricksakert-nu-ska-matningarna-bli-annu-battre/",
       "description": "Ipsos kom närmast partiernas valresultat av alla opinionsinstitut i den sista mätningen före valdagen. Men Moderaterna underskattades och nu börjar arbetet för att lyckas ännu bättre i nästa val. – Utmaningen är att förstå vad som är slump och vad som är systematiska fel, säger Nicklas Källebring på Ipsos.",
@@ -103,20 +195,6 @@
       ]
     },
     {
-      "title": "Ledare: Magdalena Andersson kan inte låta V bromsa henne",
-      "link": "https://www.dn.se/ledare/magdalena-andersson-kan-inte-lata-v-bromsa-henne/",
-      "description": "Nooshi Dadgostar (V) och Ida Gabrielsson (V) pratar ofta om att de vill träffa centerpartisterna på en fika. Men det som krävs för att få en regering på plats är att Vänsterpartiet slutar att blockera alla diskussioner om ett politiskt program med sitt krav på ministerposter.",
-      "pubDate": "2026-10-03T03:09:58Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Ludvika sticker ut – här fick Mohamed Ali många personkryss",
       "link": "https://www.sverigesradio.se/artikel/9312164",
       "description": "Valmyndigheten har fått in flera konkreta tips som kan kopplas till utredningen om misstänkt valfusk vid valet i Borlänge, där riksdagsledamoten Mohamed Ali (V) fick flera personkryss. 19 av tipsen har hemligstämplats med hänvisning till sekretess för brottsutredningar eller det brottsförebyggande arbetet. Ekot har tagit del av flera av de hemligstämplade rapporterna, som bland annat handlar om påståenden i sociala medier under valet och förkryssade valsedlar. I grannkommunen Ludvika finns tre av de tio valdistrikt där Mohamed Ali fick flest personkryss.",
@@ -136,20 +214,6 @@
       "sourceType": "news",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "S, V och MP välkomnar Centerpartiets mötesinbjudan",
-      "link": "https://www.sverigesradio.se/artikel/9312319",
-      "description": "Socialdemokraternas Anders Ygeman säger att han bejakar att Magdalena Andersson återigen fått uppdraget att sondera möjligheten att bilda regering. Under dagen har Centerpartiet bjudit in de övriga rödgröna partierna till möte med företrädare för bland andra fack och näringsliv. Centerpartiet håller fast vid sin linje att Vänsterpartiet inte ska sitta i regering.",
-      "pubDate": "2026-10-02T14:57:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     },
     {
@@ -189,83 +253,22 @@
         "S",
         "M"
       ]
-    },
-    {
-      "title": "Tomas Ramberg: Andersson biter i det sura äpplet",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-andersson-biter-i-det-sura-applet/",
-      "description": "Att Magdalena Andersson blir först ut att prövas som statsminister är surt för Socialdemokraterna men spelar ingen roll för vilken regering det blir. Samtidigt bjuder Centern på ett litet genombrott genom att bjuda in S, V och MP till samtal.",
-      "pubDate": "2026-10-02T10:46:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Det här händer nu i sonderingsprocessen",
-      "link": "https://www.svt.se/nyheter/inrikes/det-har-hander-nu-i-sonderingsprocessen",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson får tillbaka sonderingsuppdraget av Andreas Norlén. Det meddelade talmannen under en pressträff i riksdagshuset på fredagen. Formellt inleds Magdalena Anderssons förnyade sonderingsrunda på måndag. Därefter ska hon återkomma med rapport den 12 oktober.",
-      "pubDate": "2026-10-02T10:05:25Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson får uppdraget att bilda regering – igen",
-      "link": "https://www.dn.se/sverige/magdalena-andersson-far-uppdraget-att-bilda-regering-igen/",
-      "description": "S-ledaren Magdalena Andersson får tillbaka uppdraget att bilda en regering. – Det är partiledarna som har nyckeln till att lösa det här. Inte jag, säger talman Andreas Norlén. Elisabeth Thand Ringqvist (C) vill lösa upp knutarna genom att först ha ett möte om läget i Sverige.",
-      "pubDate": "2026-10-02T09:48:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Birgitta Rubin: Utredningen om museerna är ett hastverk",
-      "link": "https://www.dn.se/kultur/birgitta-rubin-utredningen-om-museerna-ar-ett-hastverk/",
-      "description": "Förslaget att Medelhavsmuseet och Östasiatiska museet ska flytta ihop med Etnografiska museet ligger helt i linje med moderaternas nyliberala kulturpolitik. Min tolkning är att en samlokalisering från början legat i korten, skriver DN:s Birgitta Rubin.",
-      "pubDate": "2026-10-02T09:31:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Insändare. Medierna borde ha granskat de rödgröna hårdare",
-      "link": "https://www.dn.se/insandare/medierna-borde-ha-granskat-de-rodgrona-hardare/",
-      "description": "INSÄNDARE. Journalisternas viktigaste uppgift är inte att rapportera om kraschen efter att valet är över. Ändå behandlades oppositionen under stora delar av valrörelsen som ett möjligt regeringsunderlag, skriver Joe Formgren.",
-      "pubDate": "2026-10-02T07:44:32Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Snödränkta svenska ”Stormen” ballar ur totalt",
-      "link": "https://www.dn.se/kultur/snodrankta-svenska-stormen-ballar-ur-totalt/",
-      "description": "Josephine Bornebusch bjuder in den svenska skådespelareliten till ett kaotiskt och insnöat komedikalas i Netflix-filmen ”Stormen”. Knappast oförglömligt, men Fredrik Sahlin sänker garden och har rätt roligt.",
-      "pubDate": "2026-10-02T05:03:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Röstade fattiga på vänstern för att de är fattiga eller rasifierade?",
+      "link": "https://blog.zaramis.se/2026/10/03/rostade-fattiga-pa-vanstern-for-att-de-ar-fattiga-eller-rasifierade/",
+      "description": "Tobias Hübinette argumenterar på sin blogg och i en artikel i Parabol skriven tillsammans med Catrin Lundström för att förorterna i Sverige framförallt röstar på Vänsterpartiet och Socialdemokraterna för att de är just rasifierade (invandrare eller barn till invandrare). Jag menar att detta är fel. Min åsikt är att de röstar vänster för att de är fattiga och arbetarklass. Läs mer … Inlägget Röstade fattiga på vänstern för att de är fattiga eller rasifierade? dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-10-03T10:53:04Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "“Jag organiserade människorna”",
       "link": "https://ledarsidorna.se/jag-organiserade-manniskorna/",
