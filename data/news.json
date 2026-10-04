@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T12:35:52.123559Z",
+  "updated_at": "2026-10-04T17:09:15.935187Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,20 @@
   ],
   "news": [
     {
+      "title": "Centerns väg till makten: ”Taggtråd och valium”",
+      "link": "https://www.dn.se/sverige/centerns-vag-till-makten-taggtrad-och-valium/",
+      "description": "Under de senaste åtta åren har Centerpartiets motvilja mot Vänsterpartiet fått regeringar att spricka, budgetar att falla och statsministrar att avgå. Nu står C och V återigen i fokus när Magdalena Andersson försöker få ihop sin regering. Kan Centerpartiet försonas med sin motpart den här gången?",
+      "pubDate": "2026-10-04T13:22:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "Insändare. Ge C i uppdrag att bilda en bred mittenregering",
       "link": "https://www.dn.se/insandare/ge-c-i-uppdrag-att-bilda-en-bred-mittenregering/",
       "description": "INSÄNDARE. I min värld skulle en regering med Moderaterna, Socialdemokraterna och Centerpartiet vara en önskedröm. Detta är ingen dröm, utan vore en fantastiskt kraftfull markering av en levande demokrati, skriver Göte Gunnarsson.",
@@ -107,7 +121,7 @@
     {
       "title": "Statsvetaren: C verkar ha gett upp tanken på mittenregering",
       "link": "https://www.sverigesradio.se/artikel/9312735",
-      "description": "Nyligen bjöd centerledaren Elisabeth Thand Ringqvist in samtliga partiledare på den rödgröna sidan till ett möte för att hitta samsyn i de stora politiska frågorna. Ett möte som visar på att Centerpartiet släppt idén om att få ihop en mittenregeringen. Det menar Statsvetaren Tommy Möller på Stockholms universitet. Samtidigt kvarstår partiernas röda linjer mot varandra vilket gör den här regeringsbildningen svår att lösa men de finns två möjliga vägar fram anser Tommy Möller.",
+      "description": "Nyligen bjöd centerledaren Elisabeth Thand Ringqvist in samtliga partiledare på den rödgröna sidan till ett möte för att hitta samsyn i de stora politiska frågorna. Ett möte som visar på att Centerpartiet släppt idén om att få ihop en mittenregering. Det menar statsvetaren Tommy Möller på Stockholms universitet. Samtidigt kvarstår partiernas röda linjer mot varandra vilket gör den här regeringsbildningen svår att lösa men de finns två möjliga vägar fram, anser Tommy Möller.",
       "pubDate": "2026-10-04T11:26:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -186,16 +200,6 @@
       "topics": [
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Martin Liby Troein: Den här siffran säger allt om maktbalansen i svensk politik",
-      "link": "https://www.dn.se/ledare/martin-liby-troein-den-har-siffran-sager-allt-om-maktbalansen-i-svensk-politik/",
-      "description": "Det finns en konstant i svensk politik de senaste 12 åren: de tre rödgröna partierna når inte högre än till 43 procent – vill de ha makt måste de klara av att kompromissa högerut.",
-      "pubDate": "2026-10-04T03:27:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Trög regeringsbildning kan försena reformer: ”Riskerar förlorat år”",
