@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T17:09:15.935187Z",
+  "updated_at": "2026-10-04T20:15:34.889797Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,69 @@
     }
   ],
   "news": [
+    {
+      "title": "Thand Ringqvist: Röda linjerna bleknar inte",
+      "link": "https://www.dn.se/sverige/thand-ringqvist-roda-linjerna-bleknar-inte/",
+      "description": "Centerpartiets invit innebär inte att de röda linjerna mot Vänsterpartiet har bleknat. Det säger Elisabeth Thand Ringqvist i SVT:s Agenda inför fredagens rödgröna möte. – Det är inte en korrekt analys, säger C-ledaren.",
+      "pubDate": "2026-10-04T20:04:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist: ”Våra  röda linjer ligger fast”",
+      "link": "https://www.expressen.se/nyheter/sverige/thand-ringqvist-vara--roda-linjer-ligger-fast/",
+      "description": "Centerpartiet står fast vid sin röda linje: Vänsterpartiet kommer inte att släppas in i en regering. Det säger Elisabeth Thand Ringqvist i SVT:s Agenda . Men hon vill inte svara på om partiet är redo att gå ända till extraval.",
+      "pubDate": "2026-10-04T19:44:55Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist: Viktigt att ha gemensam bild",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a2731e9e-7e4a-4c75-a269-06a896b27540",
+      "description": "Thand Ringqvist i SVT",
+      "pubDate": "2026-10-04T19:25:12Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "22 och 24 år – och ideologiska fiender: Här är riksdagens yngsta ledamöter",
+      "link": "https://www.dn.se/sverige/22-och-24-ar-och-ideologiska-fiender-har-ar-riksdagens-yngsta-ledamoter/",
+      "description": "Denice Westerberg (SD) och Hanna Lindqvist (MP) är födda på 2000-talet och har precis börjat sina nya jobb – som riksdagsledamöter. – Jag tänkte aldrig att jag skulle sitta i riksdagen som 24-åring när jag var 16 och gick på min första Ungsvenskarna-träff, säger Denice Westerberg.",
+      "pubDate": "2026-10-04T17:54:23Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Susanne Nyström: Det finns bara ett sätt för regeringsbildningen att röra sig framåt",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-det-finns-bara-ett-satt-for-regeringsbildningen-att-rora-sig-framat/",
+      "description": "Ulf Kristersson (M) är fullt medveten om vad som krävs för att nästa regering ska kunna bildas. Det har han visat i flera intervjuer och i sitt brev till talmannen.",
+      "pubDate": "2026-10-04T17:32:13Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Centerns väg till makten: ”Taggtråd och valium”",
       "link": "https://www.dn.se/sverige/centerns-vag-till-makten-taggtrad-och-valium/",
@@ -166,18 +229,6 @@
       ]
     },
     {
-      "title": "Regeringskaoset kan stoppa rödgröna reformer",
-      "link": "https://www.expressen.se/nyheter/politik/regeringskaoset-kan-stoppa-rodgrona-reformer/",
-      "description": "Klockan tickar för de rödgröna.&nbsp; Missar de att få ihop en regering i tid kan flera utlovade reformer få vänta – i värsta fall till 2028. – Vi har bråttom, säger Janine Alm Ericson, Miljöpartiet, till Ekot .",
-      "pubDate": "2026-10-04T07:40:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "Hjälpte Ismail Abdo med vapen – kopplas till Linda Staafs släkt",
       "link": "https://www.sverigesradio.se/artikel/9311943",
       "description": "En tidigare okänd huvudman utreds nu i den internationella brottshärva polisen kallar för Operation Candy, där tre av de misstänkta har släktkopplingar till den höga polischefen Linda Staaf. Kaliber kan nu avslöja att huvudmannen hjälpt gängledaren Ismail Abdo med vapen i Sveriges blodigaste gängkrig. ”Det är klart att han har en avgörande roll som huvudman i Opi-candy. Absolut”, säger Tomas Stakeberg Jansson är polisens chef för svenskledda operation Candy.",
@@ -211,50 +262,6 @@
       "sourceType": "news",
       "topics": [
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Svensksomalier känner sig utpekade efter valet",
-      "link": "https://www.dn.se/sverige/svensksomalier-kanner-sig-utpekade-efter-valet/",
-      "description": "Misstankarna om valfusk i Borlänge och Järva, där svensksomaliska V-politiker har kryssats in, har lett till att många svensksomalier känner sig misstänkliggjorda. De har anklagats för klanröstning, påstådd ”organiserad påverkan” och i vissa fall kallats skadedjur.",
-      "pubDate": "2026-10-03T13:38:51Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Bild om svenskt valfusk sprids utomlands",
-      "link": "https://www.svt.se/nyheter/inrikes/bild-om-svenskt-valfusk-sprids-utomlands",
-      "description": "Diskussionen om Sverige utomlands har efter riksdagsvalet till stor del handlat om valfusk, och eldats på av stora invandringskritiska konton.",
-      "pubDate": "2026-10-03T13:03:42Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Det här talar emot att regeringsbildningen slutar i extraval",
-      "link": "https://www.svt.se/nyheter/inrikes/det-har-talar-emot-att-regeringsbildningen-slutar-i-extraval",
-      "description": "Läget i politiken ser låst ut – och redan nu talas det om extraval. Men hur sannolikt är det att svenska folket kallas till valurnorna på nytt? Här är några saker som talar emot ett extraval.",
-      "pubDate": "2026-10-03T10:34:52Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Malmö räknade med nedflyttning redan före premiären: ”Vi är realister”",
-      "link": "https://www.dn.se/sport/malmo-raknade-med-nedflyttning-redan-fore-premiaren-vi-ar-realister/",
-      "description": "Först skulle minskat stöd från sponsorer och ekonomiska hinder markera slutet för Malmö FBC:s tid i SSL. Sedan kom en swishkampanj och innebandylaget räddades – i en säsong. – Säsongen blir en träningsmöjlighet inför allsvenskan nästa år, säger målvakten Maja Lindsjö.",
-      "pubDate": "2026-10-03T10:02:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     }
   ],
