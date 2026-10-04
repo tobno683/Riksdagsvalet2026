@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T06:05:09.618451Z",
+  "updated_at": "2026-10-04T12:35:52.123559Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,91 @@
     }
   ],
   "news": [
+    {
+      "title": "Insändare. Ge C i uppdrag att bilda en bred mittenregering",
+      "link": "https://www.dn.se/insandare/ge-c-i-uppdrag-att-bilda-en-bred-mittenregering/",
+      "description": "INSÄNDARE. I min värld skulle en regering med Moderaterna, Socialdemokraterna och Centerpartiet vara en önskedröm. Detta är ingen dröm, utan vore en fantastiskt kraftfull markering av en levande demokrati, skriver Göte Gunnarsson.",
+      "pubDate": "2026-10-04T11:49:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Efter Liberalernas tapp i Stockholm: ”Pågår gigantisk renovering”",
+      "link": "https://www.dn.se/sverige/efter-liberalernas-tapp-i-stockholm-pagar-gigantisk-renovering/",
+      "description": "Efter att ha piskats med låga opinionssiffror slutade Liberalernas tumultartade vår med ett ökat väljarstöd i riksdagen. Samtidigt åkte de ur 39 kommuner och sjönk med tre procentenheter i Stockholm. Gruppledaren Gulan Avci (L) nämner fokus på utanförskapsområden som en nyckel i hur partiet ska bygga sig starka igen. – Det är nu det börjar, säger hon.",
+      "pubDate": "2026-10-04T11:46:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Statsvetaren: C verkar ha gett upp tanken på mittenregering",
+      "link": "https://www.sverigesradio.se/artikel/9312735",
+      "description": "Nyligen bjöd centerledaren Elisabeth Thand Ringqvist in samtliga partiledare på den rödgröna sidan till ett möte för att hitta samsyn i de stora politiska frågorna. Ett möte som visar på att Centerpartiet släppt idén om att få ihop en mittenregeringen. Det menar Statsvetaren Tommy Möller på Stockholms universitet. Samtidigt kvarstår partiernas röda linjer mot varandra vilket gör den här regeringsbildningen svår att lösa men de finns två möjliga vägar fram anser Tommy Möller.",
+      "pubDate": "2026-10-04T11:26:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Rödgröna oense om 13 av 17 ekonomifrågor – så kan kompromisserna se ut",
+      "link": "https://www.svt.se/nyheter/inrikes/rodgrona-oense-om-13-av-17-ekonomifragor-sa-kan-kompromisserna-se-ut",
+      "description": "De rödgröna partierna är överens på bara fyra av 17 punkter som rör skatter, bidrag och vad staten ska lägga pengar på. Det visar en genomgång av frågor om ekonomi som SVT ställt till partierna före valet.",
+      "pubDate": "2026-10-04T10:23:39Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Anders Svensson: Ska årets val kallas för rödlinjevalet?",
+      "link": "https://www.dn.se/kultur/anders-svensson-ska-arets-val-kallas-for-rodlinjevalet/",
+      "description": "Vi minns kosackvalet, löntagarfondsvalet och alliansvalet – men årets riksdagsval har inte fått något smeknamn som satt sig. Språktidningens Anders Svensson har ett förslag: rödlinjevalet.",
+      "pubDate": "2026-10-04T10:02:06Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Låt V styra socialdepartementet",
+      "link": "https://www.dn.se/insandare/lat-v-styra-socialdepartementet/",
+      "description": "INSÄNDARE. I en regeringsbildning med fyra rödgröna partier bör Vänsterpartiet få ansvar för de sociala frågorna. Varför skulle inte Centerpartiet kunna tolerera att V får detta departement med tillhörande ministerpost? undrar Bernt Ersson.",
+      "pubDate": "2026-10-04T08:24:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Regeringskaoset kan stoppa rödgröna reformer",
+      "link": "https://www.expressen.se/nyheter/politik/regeringskaoset-kan-stoppa-rodgrona-reformer/",
+      "description": "Klockan tickar för de rödgröna.&nbsp; Missar de att få ihop en regering i tid kan flera utlovade reformer få vänta – i värsta fall till 2028. – Vi har bråttom, säger Janine Alm Ericson, Miljöpartiet, till Ekot .",
+      "pubDate": "2026-10-04T07:40:55Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "Hjälpte Ismail Abdo med vapen – kopplas till Linda Staafs släkt",
       "link": "https://www.sverigesradio.se/artikel/9311943",
@@ -167,95 +252,21 @@
       "topics": [
         "MP"
       ]
-    },
-    {
-      "title": "De är i politisk minoritet på sitt gymnasium",
-      "link": "https://www.dn.se/sverige/de-ar-i-politisk-minoritet-pa-sitt-gymnasium/",
-      "description": "På Danderydsskolan där nästa alla röstar höger stämplas centerpartisten Melker Nordström som ”sosse”. På Söderskolan där MP fick egen majoritet väcker moderaten Loke Hedman starka reaktioner. Hur är det att sticka ut på en plats där man hänger varje dag?",
-      "pubDate": "2026-10-03T09:57:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "V välkomnar C:s inbjudan – Knutson: ”Första steg mot islossning”",
-      "link": "https://www.svt.se/nyheter/inrikes/v-valkomnar-cs-inbjudan-knutson-forsta-steg-mot-islossning",
-      "description": "Vänsterpartiet välkomnar Centerpartiets inbjudan till ett gemensamt möte med alla rödgröna partier. C står fast vid kravet att V inte ska sitta i regering, men SVT:s politiska kommentator Mats Knutson ser en förändring hos partierna. – Med tanke på det hårda tonläge som varit kan det här vara ett första steg mot en islossning, säger han i Rapport.",
-      "pubDate": "2026-10-03T09:28:58Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Statsvetare om oväntade inviten: ”Fiffigt drag”",
-      "link": "https://www.dn.se/sverige/statsvetare-om-ovantade-inviten-fiffigt-drag/",
-      "description": "C-ledarens invit till S, V och MP kommer parallellt med att Magdalena Andersson fått i uppdrag att sondera för en ny regering. Ett oväntat drag, menar de statsvetare som DN talat med. – Det är att sätt för Centerpartiet att visa att de inte bara sätter sig på tvären, säger Oskar Hultin Bäcksten.",
-      "pubDate": "2026-10-03T09:05:07Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Ipsos var pricksäkert – nu ska mätningarna bli ännu bättre",
-      "link": "https://www.dn.se/sverige/ipsos-var-pricksakert-nu-ska-matningarna-bli-annu-battre/",
-      "description": "Ipsos kom närmast partiernas valresultat av alla opinionsinstitut i den sista mätningen före valdagen. Men Moderaterna underskattades och nu börjar arbetet för att lyckas ännu bättre i nästa val. – Utmaningen är att förstå vad som är slump och vad som är systematiska fel, säger Nicklas Källebring på Ipsos.",
-      "pubDate": "2026-10-03T08:02:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "SD: Nej till att be samer om ursäkt",
-      "link": "https://www.svt.se/nyheter/inrikes/sd-nej-till-att-be-samer-om-ursakt",
-      "description": "I veckan krävde Sanningskommissionen för samiska folket att en offentlig ursäkt bör ske för statens övergrepp mot samerna. Men när SVT ställer frågan till riksdagspartierna tvekar flera av dem – och Sverigedemokraterna är helt emot. – Utgångspunkten är att vi inte vill tillgodose detta krav, säger Martin Kinnunen (SD).",
-      "pubDate": "2026-10-03T04:53:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Stockholm väntar med beslut om extern utredning om valet i Järva",
-      "link": "https://www.dn.se/sverige/stockholm-vantar-med-beslut-om-extern-utredning-om-valet-i-jarva/",
-      "description": "På fredagen träffades kommunstyrelsen i Stockholm för ett extrainsatt möte med anledning av misstänkt valfusk i Järva. Moderaternas krav på att tillsätta en omedelbar extern utredning om saken fick inget gehör. Karin Wanngård (S) säger att förslagen måste beredas först. Statsvetaren Erik Wångman har svårt att se varför frågan skulle undgå beredning.",
-      "pubDate": "2026-10-02T15:37:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Efter C-invit – alla rödgröna partier i gemensamt möte",
-      "link": "https://www.svt.se/nyheter/inrikes/efter-c-invit-alla-rodgrona-partier-i-gemensamt-mote",
-      "description": "En möjlig islossning i regeringsfrågan. Från att inte ha kunnat fika tillsammans ska samtliga rödgröna partier ha gemensamma samtal med ”externa aktörer” efter inbjudan av Centerpartiet. – Det här klart en öppning mot att göra något konstruktivt, att sitta ner och prata om utmaningar för Sverige, säger Elisabeth Thand Ringqvist (C).",
-      "pubDate": "2026-10-02T14:06:03Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Försåg gängkriget mellan Foxtrot och Rumba med vapen",
+      "link": "https://blog.zaramis.se/2026/10/04/forsag-gangkriget-mellan-foxtrot-och-rumba-med-vapen/",
+      "description": "I mars i år rapporterade EU:s polissamarbete Europol att de knäckt ett internationellt brottssyndikat i en operation de kallade Candy. Misstankarna var bland annat synnerligen grova narkotikabrott, penningtvätt och bokföringsbrott. Polischefen Linda Staaf fick i samband med detta lämna sitt uppdrag som Sveriges Europolchef. Det berodde på grund av risken för jäv. Detta då tre personer med släktkopplingar till henne blev misstänkta. Läs mer … Inlägget Försåg gängkriget mellan Foxtrot och Rumba med vapen dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-10-04T12:08:11Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "Röstade fattiga på vänstern för att de är fattiga eller rasifierade?",
       "link": "https://blog.zaramis.se/2026/10/03/rostade-fattiga-pa-vanstern-for-att-de-ar-fattiga-eller-rasifierade/",
@@ -338,20 +349,6 @@
       "sourceType": "blog",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "SD valfuskar mest",
-      "link": "https://blog.zaramis.se/2026/10/01/sd-valfuskar-mest/",
-      "description": "Journalisten Victor Pressfeldt har gått igenom 5 000 incidentrapporter från vallokaler under valet. 77 rapporter kopplar ett parti till de rapporterade incidenterna. Sverigedemokraterna är det parti som försöker fuska mest medan Vänsterpartiet och Kristdemokraterna uppenbarligen i stort sett aldrig försöker påverka valet på ett otillåtet sätt. Läs mer … Inlägget SD valfuskar mest dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-10-01T05:34:44Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD",
-        "V",
-        "KD"
       ]
     },
     {
