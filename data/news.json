@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T21:31:12.012077Z",
+  "updated_at": "2026-10-04T00:10:37.579743Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -123,16 +123,6 @@
       ]
     },
     {
-      "title": "Valfusk präglar bilden av Sverige utomlands",
-      "link": "https://www.sverigesradio.se/artikel/9312350",
-      "description": "Internationella samtal om Sverige kretsar kring riksdagsvalet och valfusk, konstaterar Svenska Institutet. Hundratusen publiceringar om valfusk har gjorts i sociala medier och medier efter valet, enligt myndigheten, som gör stora mätningar på 53 olika språk. ”Det är tunga konton i en migrationskritisk miljö som har miljontals följare och driver på den här trafiken”, säger generaldirektör Madeleine Sjöstedt.",
-      "pubDate": "2026-10-03T10:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "De är i politisk minoritet på sitt gymnasium",
       "link": "https://www.dn.se/sverige/de-ar-i-politisk-minoritet-pa-sitt-gymnasium/",
       "description": "På Danderydsskolan där nästa alla röstar höger stämplas centerpartisten Melker Nordström som ”sosse”. På Söderskolan där MP fick egen majoritet väcker moderaten Loke Hedman starka reaktioner. Hur är det att sticka ut på en plats där man hänger varje dag?",
@@ -254,6 +244,19 @@
       "sourceType": "news",
       "topics": [
         "S"
+      ]
+    },
+    {
+      "title": "Magdalena Andersson får uppdraget att bilda regering – igen",
+      "link": "https://www.dn.se/sverige/magdalena-andersson-far-uppdraget-att-bilda-regering-igen/",
+      "description": "S-ledaren Magdalena Andersson får tillbaka uppdraget att bilda en regering. – Det är partiledarna som har nyckeln till att lösa det här. Inte jag, säger talman Andreas Norlén. Elisabeth Thand Ringqvist (C) vill lösa upp knutarna genom att först ha ett möte om läget i Sverige.",
+      "pubDate": "2026-10-02T09:48:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
       ]
     }
   ],
