@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T00:10:37.579743Z",
+  "updated_at": "2026-10-04T06:05:09.618451Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,52 @@
     }
   ],
   "news": [
+    {
+      "title": "Hjälpte Ismail Abdo med vapen – kopplas till Linda Staafs släkt",
+      "link": "https://www.sverigesradio.se/artikel/9311943",
+      "description": "En tidigare okänd huvudman utreds nu i den internationella brottshärva polisen kallar för Operation Candy, där tre av de misstänkta har släktkopplingar till den höga polischefen Linda Staaf. Kaliber kan nu avslöja att huvudmannen hjälpt gängledaren Ismail Abdo med vapen i Sveriges blodigaste gängkrig. ”Det är klart att han har en avgörande roll som huvudman i Opi-candy. Absolut”, säger Tomas Stakeberg Jansson är polisens chef för svenskledda operation Candy.",
+      "pubDate": "2026-10-04T05:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Björn Wiman: Regeringsdramat låter som när Lars Norén skildrar dödsriket",
+      "link": "https://www.dn.se/kultur/bjorn-wiman-regeringsdramat-later-som-nar-lars-noren-skildrar-dodsriket/",
+      "description": "Den svenska regeringsbildningen är inte det enda skälet till att misströsta om framtiden. Men på längre sikt går utvecklingen ändå i rätt riktning, skriver Björn Wiman.",
+      "pubDate": "2026-10-04T04:33:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Martin Liby Troein: Den här siffran säger allt om maktbalansen i svensk politik",
+      "link": "https://www.dn.se/ledare/martin-liby-troein-den-har-siffran-sager-allt-om-maktbalansen-i-svensk-politik/",
+      "description": "Det finns en konstant i svensk politik de senaste 12 åren: de tre rödgröna partierna når inte högre än till 43 procent – vill de ha makt måste de klara av att kompromissa högerut.",
+      "pubDate": "2026-10-04T03:27:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Trög regeringsbildning kan försena reformer: ”Riskerar förlorat år”",
+      "link": "https://www.sverigesradio.se/artikel/9311180",
+      "description": "Det tröga regeringsbildandet riskerar att leda till försenat reformarbete då de rödgröna kanske inte hinner lämna in en höstbudget i tid. I vissa fall kan förändringar göras i efterhand i en ändringsbudget, t. ex. i vårbudgeten, men till exempel den statliga inkomstskatten kan endast ändras på hösten. ”Det blir ett förlorat år för många stora reformer om det inte finns en enighet om budgeten innan dess,” säger Lisa Pelling på den fackföreningsnära tankesmedjan Arena Idé.",
+      "pubDate": "2026-10-04T01:13:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Svensksomalier känner sig utpekade efter valet",
       "link": "https://www.dn.se/sverige/svensksomalier-kanner-sig-utpekade-efter-valet/",
@@ -207,57 +253,6 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "Insändare. En kram mellan Ulf och Magdalena vore bra för Sverige",
-      "link": "https://www.dn.se/insandare/en-kram-mellan-ulf-och-magdalena-vore-bra-for-sverige/",
-      "description": "INSÄNDARE. Moderaterna och Socialdemokraterna är i stort sett överens i många centrala politiska frågor. Ett handlag och kanske en kram mellan S-ledaren Magdalena Andersson och M-ledaren Ulf Kristersson skulle innebära en energikick för hela Sverige inklusive näringslivet, skriver tidigare regiondirektören Svante Lönnbark.",
-      "pubDate": "2026-10-02T12:11:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Andersson biter i det sura äpplet",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-andersson-biter-i-det-sura-applet/",
-      "description": "Att Magdalena Andersson blir först ut att prövas som statsminister är surt för Socialdemokraterna men spelar ingen roll för vilken regering det blir. Samtidigt bjuder Centern på ett litet genombrott genom att bjuda in S, V och MP till samtal.",
-      "pubDate": "2026-10-02T10:46:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Det här händer nu i sonderingsprocessen",
-      "link": "https://www.svt.se/nyheter/inrikes/det-har-hander-nu-i-sonderingsprocessen",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson får tillbaka sonderingsuppdraget av Andreas Norlén. Det meddelade talmannen under en pressträff i riksdagshuset på fredagen. Formellt inleds Magdalena Anderssons förnyade sonderingsrunda på måndag. Därefter ska hon återkomma med rapport den 12 oktober.",
-      "pubDate": "2026-10-02T10:05:25Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson får uppdraget att bilda regering – igen",
-      "link": "https://www.dn.se/sverige/magdalena-andersson-far-uppdraget-att-bilda-regering-igen/",
-      "description": "S-ledaren Magdalena Andersson får tillbaka uppdraget att bilda en regering. – Det är partiledarna som har nyckeln till att lösa det här. Inte jag, säger talman Andreas Norlén. Elisabeth Thand Ringqvist (C) vill lösa upp knutarna genom att först ha ett möte om läget i Sverige.",
-      "pubDate": "2026-10-02T09:48:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
     }
   ],
   "blogs": [
@@ -360,18 +355,6 @@
       ]
     },
     {
-      "title": "Hetskampanj mot valresultatet",
-      "link": "https://blog.zaramis.se/2026/09/30/hetskampanj-mot-valresultatet/",
-      "description": "Det bedrivs en hetskampanj mot valresultatet, mot valets stora segrare vänsterpartiet och mot somalier. Kampanjen som drivs i de stora tidningarna, SVT, Sveriges Radio och TV4, på ledarsidor och i nyhetsartiklar består till stor del av rasistiska påhopp och lögner. Läs mer … Inlägget Hetskampanj mot valresultatet dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-09-30T07:55:52Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "De “äldste” fördelar mandaten",
       "link": "https://ledarsidorna.se/de-aldste-fordelar-mandaten/",
       "description": "Vänsterpartiets nyvalde riksdagsledamot Illyas Hassan stod på plats åtta på partiets lista i Stockholms kommun. Hans kampanj bland somaliska väljare organiserades av en liten krets män i Stockholm som i somalisk offentlighet kallas ”de äldste”. Kretsen har i femton år byggt anseende genom insamlingar, idrott och värdskap vid utländska besök. Den tar emot somaliska ministrar [&#8230;]",
@@ -427,18 +410,6 @@
       "sourceType": "blog",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "BREV 496 – Till slut måste Centern välja sin egen avrättningsmetod.",
-      "link": "https://jensganman.substack.com/p/brev-496-till-slut-maste-centern",
-      "description": "Thand Ringqvist har spelat bort sina kort / Han l&#229;ter som Kalle Stropp / SR & SVT borde g&#246;ra en Office Space / Jag blev som i s&#229;ngen &#8221;M&#229;nga barn &#228;r bruna&#8221; / As falls Marseille, so falls Rinkeby / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
       ]
     }
   ],
