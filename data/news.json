@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T20:15:34.889797Z",
+  "updated_at": "2026-10-04T23:19:56.057695Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,44 @@
     }
   ],
   "news": [
+    {
+      "title": "Elisabeth Thand Ringqvist (C): ”Röda linjerna ligger fast”",
+      "link": "https://www.svt.se/nyheter/inrikes/elisabeth-thand-ringqvist-c-roda-linjerna-ligger-fast",
+      "description": "Elisabeth Thand Ringqvist (C) håller fast vid sina röda linjer. Samtidigt ser hon fredagens möte med samtliga rödgröna partier som ett steg framåt. – Det är ett sätt att se om vi har några som helst gemensamma ingångar, säger hon i fredagskvällens Agenda.",
+      "pubDate": "2026-10-04T21:09:23Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Efter S:s historiskt dåliga valresultat: Intern kritik mot valstrategin",
+      "link": "https://www.svt.se/nyheter/inrikes/efter-ss-historiskt-daliga-valresultat-intern-kritik-mot-valstrategin",
+      "description": "Socialdemokraterna gjorde sitt sämsta val någonsin med 27,6 procent av rösterna. Nu riktas hård kritik från egna partimedlemmar mot partiets valstrategi där fokuset på den egna partiledaren samt skrämsel om SD-ministrar i en Tidöregering har fått ta mer plats än sakpolitiken.",
+      "pubDate": "2026-10-04T20:55:10Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "De rödgröna partierna möts på fredag",
+      "link": "https://www.sverigesradio.se/artikel/9312823",
+      "description": "Centerpartiet kommer att träffa de övriga rödgröna partierna på fredag, säger Elisabeth Thand Ringqvist (C) i SVT:s Agenda. Samtidigt betonar C-ledaren att de röda linjerna mot Vänsterpartiet står kvar. Socialdemokraternas vice gruppledare Anders Ygeman säger att han hoppas på öppningar under veckan inför mötet.",
+      "pubDate": "2026-10-04T20:30:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
     {
       "title": "Thand Ringqvist: Röda linjerna bleknar inte",
       "link": "https://www.dn.se/sverige/thand-ringqvist-roda-linjerna-bleknar-inte/",
@@ -227,42 +265,6 @@
         "C",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Hjälpte Ismail Abdo med vapen – kopplas till Linda Staafs släkt",
-      "link": "https://www.sverigesradio.se/artikel/9311943",
-      "description": "En tidigare okänd huvudman utreds nu i den internationella brottshärva polisen kallar för Operation Candy, där tre av de misstänkta har släktkopplingar till den höga polischefen Linda Staaf. Kaliber kan nu avslöja att huvudmannen hjälpt gängledaren Ismail Abdo med vapen i Sveriges blodigaste gängkrig. ”Det är klart att han har en avgörande roll som huvudman i Opi-candy. Absolut”, säger Tomas Stakeberg Jansson är polisens chef för svenskledda operation Candy.",
-      "pubDate": "2026-10-04T05:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Björn Wiman: Regeringsdramat låter som när Lars Norén skildrar dödsriket",
-      "link": "https://www.dn.se/kultur/bjorn-wiman-regeringsdramat-later-som-nar-lars-noren-skildrar-dodsriket/",
-      "description": "Den svenska regeringsbildningen är inte det enda skälet till att misströsta om framtiden. Men på längre sikt går utvecklingen ändå i rätt riktning, skriver Björn Wiman.",
-      "pubDate": "2026-10-04T04:33:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Trög regeringsbildning kan försena reformer: ”Riskerar förlorat år”",
-      "link": "https://www.sverigesradio.se/artikel/9311180",
-      "description": "Det tröga regeringsbildandet riskerar att leda till försenat reformarbete då de rödgröna kanske inte hinner lämna in en höstbudget i tid. I vissa fall kan förändringar göras i efterhand i en ändringsbudget, t. ex. i vårbudgeten, men till exempel den statliga inkomstskatten kan endast ändras på hösten. ”Det blir ett förlorat år för många stora reformer om det inte finns en enighet om budgeten innan dess,” säger Lisa Pelling på den fackföreningsnära tankesmedjan Arena Idé.",
-      "pubDate": "2026-10-04T01:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
@@ -401,18 +403,6 @@
       "link": "https://ledarsidorna.se/klanerna-valjer-partier/",
       "description": "När den somaliska formen av parlamentarism möter det svenska valsystemet uppstår både friktion och synergieffekter. Det var inte vänsterpartiets valberedningar eller väljare som valde sina kandidater eller ledamöter. Det var den somaliska klanlogiken, den parlamentariska traditionen och valkollegiet som utsåg vilka svenska partier som kom att bli plattformar för att kanalisera företrädarna. Mannen som skrev [&#8230;]",
       "pubDate": "2026-09-24T19:27:26Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Besök på somalisk ministernivå i Borlänge",
-      "link": "https://ledarsidorna.se/besok-pa-somalisk-ministerniva-i-borlange/",
-      "description": "Vänsterpartiets nyvalde riksdagsledamot Mohamed Abdukardir Ali visar sig komma från, eller stå nära, ett speciellt maktkluster i den somaliska politiska miljön. En miljö med goda kontakter inom den somaliska säkerhetstjänsten som genomfört besök i Borlänge på ministernivå vid minst två tillfällen under den förra mandatperioden. Den somaliska föreningen Tayo i Borlänge utgör en form av [&#8230;]",
-      "pubDate": "2026-09-24T03:17:41Z",
       "source": "Ledarsidorna",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
