@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T02:09:17.843234Z",
+  "updated_at": "2026-10-05T09:16:47.724671Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,57 @@
   ],
   "news": [
     {
+      "title": "Sánchez utlyser nyval",
+      "link": "https://www.sverigesradio.se/artikel/9312912",
+      "description": "Spaniens premiärminister Pedro Sánchez utlyser nyval efter att hans regering inte fått igenom sina förslag för att lösa landets bostadskris, meddelar han i ett tv-sänt tal på måndagsmorgonen. Nyvalet kommer att hållas 29 november. Bostadspaketet, i huvudsak bestående av två olika lagar, lades fram efter det att en 87-årig kvinna vräktes från sin lägenhet i Madrid – vilket har fått spanjorernas ilska över bostadskrisen att kulminera. Men förslagen röstades ner i det spanska parlamentet, vilket visar att Sánchez regeringsunderlag är ett väldigt skört bygge, säger Sveriges Radios Sydeuropakorrespondent Cecilia Blomberg.",
+      "pubDate": "2026-10-05T07:12:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Svenska sparare kan drabbas av bostadsförslag i Berlin",
+      "link": "https://www.sverigesradio.se/artikel/9311377",
+      "description": "Vänsterpartiet Die Linke, som nyligen blev största parti i delstatsvalet i Berlin, vill lösa problemen med höga hyror genom att tvångsöverta de stora bostadsbolagen. Det här kan komma att innefatta även bolaget Heimstaden, som till stor del ägs av svenska pensionssparare. Alecta och Folksam är stora ägare. Bolagen skulle kompenseras, men bara med mellan 40 tilll 60 procent av marknadsvärdet, enligt Die Linke i Berlin.",
+      "pubDate": "2026-10-05T05:08:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ledare: Vänsterpartiets ”sanning” är ingen sanning",
+      "link": "https://www.dn.se/ledare/vansterpartiets-sanning-ar-ingen-sanning/",
+      "description": "Det är respektlöst att vilja bygga en regering på Vänsterpartiets mandat utan att partiet har ministerposter, säger V-företrädare. Det skulle ingen annan gå med på. Verkligen?",
+      "pubDate": "2026-10-05T04:13:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Internt missnöje med S-valstrategi",
+      "link": "https://www.expressen.se/nyheter/politik/internt-missnoje-med-s-valstrategi/",
+      "description": "Socialdemokraterna gjorde sitt sämsta val sedan demokratin infördes och nu är flera inom partiet kritiska till valstrategin.&nbsp; De menar att den fokuserade för mycket på Magdalena Andersson som person och 12 möjliga SD-ministrar om högern vann, rapporterar SVT. &nbsp;",
+      "pubDate": "2026-10-05T03:56:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Elisabeth Thand Ringqvist (C): ”Röda linjerna ligger fast”",
       "link": "https://www.svt.se/nyheter/inrikes/elisabeth-thand-ringqvist-c-roda-linjerna-ligger-fast",
-      "description": "Elisabeth Thand Ringqvist (C) håller fast vid sina röda linjer. Samtidigt ser hon fredagens möte med samtliga rödgröna partier som ett steg framåt. – Det är ett sätt att se om vi har några som helst gemensamma ingångar, säger hon i fredagskvällens Agenda.",
+      "description": "Elisabeth Thand Ringqvist (C) håller fast vid sina röda linjer. Samtidigt ser hon fredagens möte med samtliga rödgröna partier som ett steg framåt. – Det är ett sätt att se om vi har några som helst gemensamma ingångar.",
       "pubDate": "2026-10-04T21:09:23Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
@@ -93,7 +141,7 @@
     {
       "title": "Efter S:s historiskt dåliga valresultat: Intern kritik mot valstrategin",
       "link": "https://www.svt.se/nyheter/inrikes/efter-ss-historiskt-daliga-valresultat-intern-kritik-mot-valstrategin",
-      "description": "Socialdemokraterna gjorde sitt sämsta val någonsin med 27,6 procent av rösterna. Nu riktas hård kritik från egna partimedlemmar mot partiets valstrategi där fokuset på den egna partiledaren samt skrämsel om SD-ministrar i en Tidöregering har fått ta mer plats än sakpolitiken.",
+      "description": "Socialdemokraterna gjorde sitt sämsta val någonsin. Nu riktas hård kritik från egna partimedlemmar mot partiets valstrategi där fokuset på den egna partiledaren samt skrämsel om SD-ministrar i en Tidöregering har fått ta mer plats än sakpolitiken.",
       "pubDate": "2026-10-04T20:55:10Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
@@ -126,31 +174,6 @@
       "sourceType": "news",
       "topics": [
         "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist: ”Våra  röda linjer ligger fast”",
-      "link": "https://www.expressen.se/nyheter/sverige/thand-ringqvist-vara--roda-linjer-ligger-fast/",
-      "description": "Centerpartiet står fast vid sin röda linje: Vänsterpartiet kommer inte att släppas in i en regering. Det säger Elisabeth Thand Ringqvist i SVT:s Agenda . Men hon vill inte svara på om partiet är redo att gå ända till extraval.",
-      "pubDate": "2026-10-04T19:44:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist: Viktigt att ha gemensam bild",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=a2731e9e-7e4a-4c75-a269-06a896b27540",
-      "description": "Thand Ringqvist i SVT",
-      "pubDate": "2026-10-04T19:25:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "C"
       ]
     },
@@ -241,30 +264,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Anders Svensson: Ska årets val kallas för rödlinjevalet?",
-      "link": "https://www.dn.se/kultur/anders-svensson-ska-arets-val-kallas-for-rodlinjevalet/",
-      "description": "Vi minns kosackvalet, löntagarfondsvalet och alliansvalet – men årets riksdagsval har inte fått något smeknamn som satt sig. Språktidningens Anders Svensson har ett förslag: rödlinjevalet.",
-      "pubDate": "2026-10-04T10:02:06Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Insändare. Låt V styra socialdepartementet",
-      "link": "https://www.dn.se/insandare/lat-v-styra-socialdepartementet/",
-      "description": "INSÄNDARE. I en regeringsbildning med fyra rödgröna partier bör Vänsterpartiet få ansvar för de sociala frågorna. Varför skulle inte Centerpartiet kunna tolerera att V får detta departement med tillhörande ministerpost? undrar Bernt Ersson.",
-      "pubDate": "2026-10-04T08:24:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
@@ -325,18 +324,6 @@
       "sourceType": "blog",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Det valfuskande partiet – Sverigedemokraterna",
-      "link": "https://blog.zaramis.se/2026/10/02/det-valfuskande-partiet-sverigedemokraterna/",
-      "description": "Sverigedemokraterna är det parti som förekommer oftast i de incidentrapporter som valmyndigheten mottagit. Detta enligt de rapporter som redovisas på sajten Valkoll och kommer från Valmyndigheten. Som jag tidigare rapporterat förekommer SD oftare än andra partier i incidentrapporterna. Samtidigt ska det sägas att partier pekas ut väldigt sällan. SD förekommer i 17 rapporter av mer än 5 000. Läs mer … Inlägget Det valfuskande partiet &#8211; Sverigedemokraterna dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-10-02T04:53:57Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
       ]
     },
     {
