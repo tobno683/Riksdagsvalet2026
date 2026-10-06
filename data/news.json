@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T00:25:52.724338Z",
+  "updated_at": "2026-10-06T06:36:11.321131Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,16 +79,40 @@
   ],
   "news": [
     {
-      "title": "Bussolycka utanför Växjö – flera till sjukhus",
-      "link": "https://www.expressen.se/nyheter/sverige/bussolycka-utanfor-vaxjo-flera-till-sjukhus/",
-      "description": "En ung man, i övre tonåren, har dött efter en bussolycka mellan Alvesta och Växjö. 14 personer har förts till sjukhus, varav två intensivvårdas. ”Mina tankar går till alla drabbade och deras anhöriga”, skriver statsminister Ulf Kristersson (M) i en kommentar.",
-      "pubDate": "2026-10-05T19:41:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "FOI: Amerikanska rymdvapen påverkar Sverige",
+      "link": "https://www.sverigesradio.se/artikel/9305097",
+      "description": "USA:s besked att man nu har vapen i rymden är något som kommer att påverka Sverige, det menar Anna Maria Wårlind, forskare på Totalförsvarets forskningsinstitut (FOI). Enligt henne är uttalandet från USA förvånande och något som alla länder med verksamhet i rymden måste ta hänsyn till. I mitten av september meddelade USA, som första nation, att man har vapen i omloppsbana runt jorden.",
+      "pubDate": "2026-10-06T04:20:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "Regeringsbildning"
+        "MP"
+      ]
+    },
+    {
+      "title": "På lätt ironisk prosa tar Strömberg och Nilsson med sig läsarna tillbaka till åren med Tidö",
+      "link": "https://www.dn.se/kultur/pa-latt-ironisk-prosa-tar-stromberg-och-nilsson-med-sig-lasarna-tillbaka-till-aren-med-tido/",
+      "description": "Tidö är inte nödvändigtvis historia, men den politiska historien om de senaste fyra åren är redan skriven. DN:s Jan Eklund roas och oroas av SvD-journalisternas skildring av Ulf Kristerssons regering.",
+      "pubDate": "2026-10-06T04:19:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "”Fröken Snusk är för snuskig för SD”",
+      "link": "https://www.dn.se/podd/armstrong-sokolnicki/froken-snusk-ar-for-snuskig-for-sd/",
+      "description": "Var det Fröken Snusk och Rasmus Gozzi som sänkte Sverigedemokraterna i valet? Har Amanda en oplockad gås med Jonas Gardell? Och vad vill egentligen Centerpartiet med sitt stormöte på fredag? Amanda och Kirsty sitter på svaren.",
+      "pubDate": "2026-10-06T00:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
       ]
     },
     {
@@ -141,19 +165,6 @@
       ]
     },
     {
-      "title": "Centerpartiet fortsätter samtalen till höger: ”Naturligt”",
-      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-fortsatter-samtalen-till-hoger-naturligt/",
-      "description": "Elisabeth Thand Ringqvist (C) har bjudit in alla de rödgröna partiledarna till möte på fredag. Samtidigt fortsätter C att sondera högerut –&nbsp;för en regering utan V eller SD. Den goda relationen till Ebba Busch (KD) framhålls särskilt.",
-      "pubDate": "2026-10-05T14:56:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD"
-      ]
-    },
-    {
       "title": "Partiledarna på plats under rödgröna ödesmötet",
       "link": "https://www.dn.se/sverige/partiledarna-pa-plats-under-odesmotet/",
       "description": "De sista detaljerna finslipas nu inför de rödgrönas ödesmöte på fredag. Enligt uppgifter till DN kommer de högsta företrädarna för varje parti att delta i mötet.",
@@ -162,19 +173,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Källor: Andersson och Dadgostar ska mötas",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=5d8f6d6f-af03-44c1-bd2b-208ee0a1e000",
-      "description": "Dadgostar och Andersson, enligt SvD",
-      "pubDate": "2026-10-05T14:45:49Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
     },
     {
       "title": "SD möblerar om – byter ut kända företrädare",
@@ -215,18 +213,6 @@
       ]
     },
     {
-      "title": "Sánchez utlyser nyval",
-      "link": "https://www.sverigesradio.se/artikel/9312912",
-      "description": "Spaniens premiärminister Pedro Sánchez utlyser nyval efter att hans regering inte fått igenom sina förslag för att lösa landets bostadskris, meddelar han i ett tv-sänt tal på måndagsmorgonen. Nyvalet kommer att hållas 29 november. Bostadspaketet, i huvudsak bestående av två olika lagar, lades fram efter det att en 87-årig kvinna vräktes från sin lägenhet i Madrid – vilket har fått spanjorernas ilska över bostadskrisen att kulminera. Men förslagen röstades ner i det spanska parlamentet, vilket visar att Sánchez regeringsunderlag är ett väldigt skört bygge, säger Sveriges Radios Sydeuropakorrespondent Cecilia Blomberg.",
-      "pubDate": "2026-10-05T07:12:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Elisabeth Thand Ringqvist (C): ”Röda linjerna ligger fast”",
       "link": "https://www.svt.se/nyheter/inrikes/elisabeth-thand-ringqvist-c-roda-linjerna-ligger-fast",
       "description": "Elisabeth Thand Ringqvist (C) håller fast vid sina röda linjer. Samtidigt ser hon fredagens möte med samtliga rödgröna partier som ett steg framåt. – Det är ett sätt att se om vi har några som helst gemensamma ingångar.",
@@ -261,6 +247,18 @@
       "topics": [
         "V",
         "C"
+      ]
+    },
+    {
+      "title": "22 och 24 år – och ideologiska fiender: Här är riksdagens yngsta ledamöter",
+      "link": "https://www.dn.se/sverige/22-och-24-ar-och-ideologiska-fiender-har-ar-riksdagens-yngsta-ledamoter/",
+      "description": "Denice Westerberg (SD) och Hanna Lindqvist (MP) är födda på 2000-talet och har precis börjat sina nya jobb – som riksdagsledamöter. – Jag tänkte aldrig att jag skulle sitta i riksdagen som 24-åring när jag var 16 och gick på min första Ungsvenskarna-träff, säger Denice Westerberg.",
+      "pubDate": "2026-10-04T17:54:23Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
       ]
     }
   ],
@@ -357,18 +355,6 @@
       "sourceType": "blog",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Klanerna väljer partier",
-      "link": "https://ledarsidorna.se/klanerna-valjer-partier/",
-      "description": "När den somaliska formen av parlamentarism möter det svenska valsystemet uppstår både friktion och synergieffekter. Det var inte vänsterpartiets valberedningar eller väljare som valde sina kandidater eller ledamöter. Det var den somaliska klanlogiken, den parlamentariska traditionen och valkollegiet som utsåg vilka svenska partier som kom att bli plattformar för att kanalisera företrädarna. Mannen som skrev [&#8230;]",
-      "pubDate": "2026-09-24T19:27:26Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
       ]
     }
   ],
