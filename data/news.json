@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T13:43:38.958455Z",
+  "updated_at": "2026-10-06T19:10:09.886027Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,129 @@
   ],
   "news": [
     {
+      "title": "Insändare. M bör släppa fram en rödgrön regering utan V",
+      "link": "https://www.dn.se/insandare/m-bor-slappa-fram-en-rodgron-regering-utan-v/",
+      "description": "INSÄNDARE. Det är dags för mer oortodoxa lösningar för att få slut på regeringsförhandlingarna. Tidöpartierna bör släppa fram en rödgrön regering utan Vänsterpartiet och därmed behålla makten i riksdagen, skriver Bengt Eriksson.",
+      "pubDate": "2026-10-06T17:16:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Överens om stopp för tonårs-utvisningar: ”Finns en press på att enas”",
+      "link": "https://www.sverigesradio.se/artikel/9314354",
+      "description": "De fyra rödgröna partierna – Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Centerpartiet – är överens om att tillfälligt stoppa de så kallade tonårs-utvisningarna. Eftersom partierna nu har majoritet i riksdagen och i utskottet som jobbar med frågan är detta möjligt. ”Det finns ju en press om att enas såklart, och jag tror att det fortfarande finns åsiktsskillnader mellan de här partierna”, säger Ekots politikkommentator Fredrik Furtenbach.",
+      "pubDate": "2026-10-06T16:51:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Ola Larsmo: Var de svenska utvandrarna flyktingar?",
+      "link": "https://www.dn.se/kultur/ola-larsmo-var-de-svenska-utvandrarna-flyktingar/",
+      "description": "Efter att Fredrik Lindström i ”På spåret” refererat till Karl Oskar och Kristina som ”flyktingar” har det brakat loss i sociala medier. Ola Larsmo reder ut frågan.",
+      "pubDate": "2026-10-06T16:48:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Andersson: Ingen har suddat ut någon röd linje",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-ingen-har-suddat-ut-nagon-rod-linje/",
+      "description": "S-ledaren Magdalena Andersson har haft samtal med alla rödgröna partiledare.&nbsp; Men de röda linjerna mellan partierna består. – Det är ingen som har suddat ut någon röd linje, säger hon.",
+      "pubDate": "2026-10-06T16:42:24Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "SD-toppen avfärdar snacket om petning: Haft dialog med Jimmie",
+      "link": "https://www.sverigesradio.se/artikel/9314245",
+      "description": "Idag blev det klart vilka partier och politiker som får de viktiga ordförandeposterna i riksdagens olika utskott, störst rotation blir det för Sverigedemokraterna. Oscar Sjöstedt, tidigare ekonomiskpolitisk talesperson och ledamot i finansutskottet, är ny ordförande i konstitutionsutskottet. Tobias Andersson, som tidigare hade en tung post som ordförande i näringsutskottet, blir istället placerad i utbildningsutskottet. Ludwig Aspling, tidigare migrationspolitisk talesperson och ledamot i socialförsäkringsutskottet, blir placerad i EU-nämnden. Dessa förändringar ses som petningar, men vad gäller Oscar Sjöstedt håller han inte med om det: ”Jag har haft en jättebra dialog med Jimmie. Och vi är överens.”",
+      "pubDate": "2026-10-06T15:52:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "SD:s Mattias Karlsson blir ordförande i kulturutskottet: ”Har beskrivits som kulturkrigare deluxe”",
+      "link": "https://www.dn.se/kultur/sds-mattias-karlsson-blir-ordforande-i-kulturutskottet-har-beskrivits-som-kulturkrigare-deluxe/",
+      "description": "Mattias Karlsson har länge varit tongivande i Sverigedemokraterna. Nu blir han kulturutskottets nya ordförande. – Jag vet att jag beskrivs som en kulturkrigare deluxe. I den här rollen så kommer jag framför allt att försöka betona samförstånd, säger han.",
+      "pubDate": "2026-10-06T15:37:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "”De andra spelar roller i Vänsterpartiets pjäs”",
+      "link": "https://www.dn.se/podd/alskade-politik/de-andra-spelar-roller-i-vansterpartiets-pjas/",
+      "description": "Centerpartiet har bjudit in de andra rödgröna partierna till ett möte – blir det islossning eller är det spel för gallerierna. Och de får de sexigaste utskotten.",
+      "pubDate": "2026-10-06T15:13:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Uppgifter: S vill locka KD med ”drömpost”",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-s-vill-locka-kd-med-drompost/",
+      "description": "Socialdemokraterna i Stockholm vill hålla V utanför styret. Nu erbjuder man i&nbsp;stället en ”drömpost” för att locka över KD, skriver SvD . – KD:s trovärdighet i Stockholm och i riksdagen står på spel, säger en källa med insyn till Expressen.",
+      "pubDate": "2026-10-06T14:59:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Strömmers stöd till de rödgröna  – om tonårsutvisningarna",
       "link": "https://www.expressen.se/nyheter/politik/strommers-stod-till-de-rodgrona-om-tonarsutvisningarna/",
       "description": "De rödgröna partierna har enats för att stoppa tonårsutvisningarna. Nu får de stöd från justitieminister Gunnar Strömmer (M). – Det finns en väldigt stor öppenhet att åstadkomma det.",
-      "pubDate": "2026-10-06T13:41:03Z",
+      "pubDate": "2026-10-06T14:41:27Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M"
+      ]
+    },
+    {
+      "title": "Magdalena Andersson: ”Ingen som suddat ut någon röd linje”",
+      "link": "https://www.sverigesradio.se/artikel/9314293",
+      "description": "Inför fredagens möte med de rödgröna partierna, som Centerpartiet har bjudit in till, ligger de röda linjerna fortsatt kvar, enligt Socialdemokraternas partiledare Magdalena Andersson. Hon säger att det pågår fortsatta diskussioner mellan partierna.&nbsp; ”Jag har haft bra samtal med alla partiledare för de rödgröna partierna, och jag ser fram emot mötet som Centerpartiet initierade på fredag”, säger Magdalena Andersson.",
+      "pubDate": "2026-10-06T14:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
       ]
     },
     {
@@ -118,7 +232,7 @@
     {
       "title": "Daniel Alling om Patriot-beskedet: ”Tydligt budskap till Ryssland”",
       "link": "https://www.sverigesradio.se/artikel/9314160",
-      "description": "Sverige skickar Patriotluftvärn till Polen för att försvara Natos östra gräns, det meddelade statsminister Ulf Kristersson under en pressträff med försvarsministern, utrikesministern och justitieministern. Enligt Daniel Alling, Sveriges Radios internationella korrespondent, vill övergångsregeringen visa internt och internationellt att Sveriges säkerhet fungerar och att de tar ansvar innan en ny regering finns på plats. \"Det är ett tydligt budskap till Ryssland, och även till Ukraina, att Sverige är djupt inblandad i den här frågan och ser den som prioriterad”, säger Daniel Alling.",
+      "description": "Sverige skickar Patriot-luftvärn till Polen för att försvara Natos östra gräns, det meddelade statsminister Ulf Kristersson under en pressträff med försvarsministern, utrikesministern och justitieministern. Enligt Daniel Alling, Sveriges Radios internationella korrespondent, vill övergångsregeringen visa internt och internationellt att Sveriges säkerhet fungerar och att de tar ansvar innan en ny regering finns på plats. \"Det är ett tydligt budskap till Ryssland, och även till Ukraina, att Sverige är djupt inblandad i den här frågan och ser den som prioriterad”, säger Daniel Alling.",
       "pubDate": "2026-10-06T13:20:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -129,7 +243,7 @@
       ]
     },
     {
-      "title": "Försvarsmakten nobbar Centerns möte: ”Inte prioriterat”",
+      "title": "Försvarsmakten nobbar centerns möte: ”Inte prioriterat”",
       "link": "https://www.sverigesradio.se/artikel/9314142",
       "description": "Försvarsmakten tackar nej till att delta på Centerpartiets uppmärksammade möte på fredag, då partiet samlar de andra rödgröna partierna, men också bjudit in organisationer och myndigheter för en genomgång av läget för Sverige. Partiet är hemlighetsfullt om vilka externa aktörer som bjudits in, men klart är att såväl LO som Saco och TCO deltar liksom Polisen och Konjunkturinstitutet. Det var för knappt en vecka sedan som Centerpartiets partiledare Elisabeth Thand Ringqvist bjöd in till möte för att komma ifrån den låst situationen i regeringsbildningen.",
       "pubDate": "2026-10-06T13:02:00Z",
@@ -153,119 +267,6 @@
         "M",
         "MP"
       ]
-    },
-    {
-      "title": "Regeringen skickar luftvärn till Polen",
-      "link": "https://www.sverigesradio.se/artikel/9314110",
-      "description": "Regeringen skickar svenskt luftvärn till Polen, för att försvara Natos östra gräns. Det säger statsminister Ulf Kristersson (M), under en pressträff på tisdagen. ”Det nya, som vi inte gjort förut, är att vi också på plats kommer bidra med luftvärnssystemet Patriot till den insatsen”, säger statsministern. Syftet är att skydda Natos logistikhubb i Polen och se till att allt försvarsmateriel kan skickas till Ukraina.",
-      "pubDate": "2026-10-06T12:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Missen: Valdeltagande över 170 procent",
-      "link": "https://www.expressen.se/nyheter/politik/missen-valdeltagande-over-170-procent/",
-      "description": "I fyra valdistrikt i Norrtälje var valdeltagandet i regionvalet en bra bit över 100 procent. Upptäckten gjordes av Victor Pressfeldt, frilansjournalist och doktor i historia.&nbsp; – Är det till exempel över 95 procents valdeltagande borde det dyka upp en varningsflagga, säger han till Sydsvenskan .&nbsp;",
-      "pubDate": "2026-10-06T12:34:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Statsministern om säkerhetsläget",
-      "link": "https://www.expressen.se/nyheter/sverige/statsministern-om-sakerhetslaget/",
-      "description": "Sverige kommer att skicka Patriotluftvärn till Polens östra gräns. Statsminister Ulf Kristersson ger tillsammans med flera regeringskollegor en lägesbild kring säkerhetsläget.&nbsp; – Det händer som ni vet väldigt mycket, säger Ulf Kristersson (M).&nbsp;",
-      "pubDate": "2026-10-06T11:57:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "De rödgröna överens om stopplag för tonårsutvisningar",
-      "link": "https://www.sverigesradio.se/artikel/9314048",
-      "description": "Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Centerpartiet enades under tisdagen om att ta fram ett förslag till stopplag till de uppmärksammade tonårsutvisningarna. Det är den första frågan som de rödgröna är överens om efter valet. ”Vi har enats om det bland de fyra partierna. Det här har tagits upp idag på utskottssammanträdet och ärendet är nu bordlagt till nästa sammanträde för behandling”, säger riksdagsledamoten Ida Karkiainen (S). Vid nästa sammanträde med socialförsäkringsutskottet, kommer förslaget att klubbas, för att sedan läggas fram i riksdagen för beslut. Hur snabbt beslutet kan tas och hur många som berörs är oklart.",
-      "pubDate": "2026-10-06T11:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "Flera tunga SD-profiler får nya uppdrag: ”Vemodigt”",
-      "link": "https://www.svt.se/nyheter/inrikes/flera-tunga-sd-profiler-forlorar-sina-uppdrag-vemodigt",
-      "description": "Sverigedemokraterna gör en stor rockad och flera toppnamn får nya uppdrag. Oscar Sjöstedt beskriver det som att man toppar laget. Andra är mer förvånade. – Jag trivdes bra i näringsutskottet, säger Tobias Andersson.",
-      "pubDate": "2026-10-06T11:35:09Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "”Allvarlig attack”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=9da5a5ac-4e53-4221-895d-ef95f5635cf8",
-      "description": "Kristersson om träffade fartygen i Svarta havet",
-      "pubDate": "2026-10-06T11:29:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Middagsmöte mellan Andersson och Dadgostar",
-      "link": "https://www.expressen.se/nyheter/politik/middagsmote-mellan-andersson-och-dadgostar/",
-      "description": "Magdalena Andersson och Nooshi Dadgostar har haft möte – som avrundades med en middag. Under mötet diskuterade partitoppar bland annat S syn på att ta in Vänsterpartiet i regeringen, erfar Expressen.",
-      "pubDate": "2026-10-06T11:28:08Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "De rödgröna överens: Tonårsutvisningarna stoppas",
-      "link": "https://www.dn.se/sverige/de-rodgrona-overens-tonarsutvisningarna-stoppas/",
-      "description": "De fyra rödgröna partierna är överens om att tillfälligt stoppa de så kallade tonårsutvisningarna. – Det här är ett väldigt tydligt besked om att Sveriges riksdag så fort som möjligt vill sätta stopp för de här utvisningarna, säger V-ledaren Nooshi Dadgostar.",
-      "pubDate": "2026-10-06T11:15:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Låt de rödgröna bråka färdigt",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/lat-de-rodgrona-braka-fardigt/",
-      "description": "Att Socialdemokraternas stödpartier blivit självmedvetna är inte en kris för demokratin. Låt de rödgröna bråka färdigt – en gång för alla.",
-      "pubDate": "2026-10-06T10:27:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
     }
   ],
   "blogs": [
@@ -279,19 +280,6 @@
       "sourceType": "blog",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Röstade fattiga på vänstern för att de är fattiga eller rasifierade?",
-      "link": "https://blog.zaramis.se/2026/10/03/rostade-fattiga-pa-vanstern-for-att-de-ar-fattiga-eller-rasifierade/",
-      "description": "Tobias Hübinette argumenterar på sin blogg och i en artikel i Parabol skriven tillsammans med Catrin Lundström för att förorterna i Sverige framförallt röstar på Vänsterpartiet och Socialdemokraterna för att de är just rasifierade (invandrare eller barn till invandrare). Jag menar att detta är fel. Min åsikt är att de röstar vänster för att de är fattiga och arbetarklass. Läs mer … Inlägget Röstade fattiga på vänstern för att de är fattiga eller rasifierade? dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-10-03T10:53:04Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
       ]
     },
     {
@@ -365,6 +353,19 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "”De andra spelar roller i Vänsterpartiets pjäs”",
+      "link": "https://pod.space/alskadepolitik/de-andra-spelar-roller-i-vansterpartiets-pjas",
+      "description": "Centerpartiet har bjudit in de andra rödgröna partierna till ett möte – blir det islossning eller är det spel för gallerierna. Och de får de sexigaste utskotten.",
+      "pubDate": "2026-10-06T15:13:26Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
     {
       "title": "320. Då faller Andersson",
       "link": "https://pod.space/politikrummet/320-da-faller-andersson",
@@ -534,18 +535,6 @@
       "topics": [
         "SD",
         "V"
-      ]
-    },
-    {
-      "title": "317. Hatade Ebba Busch Tidösamarbetet?",
-      "link": "https://pod.space/politikrummet/317-hatade-ebba-busch-tidosamarbetet",
-      "description": "Live från Bokmässan: Viktor Barth-Kron intervjuar Maggie Strömberg och Torbjörn Nilsson, bokaktuella med historien om Tidösamarbetet. Om spriten, maktkampen och Ebba Buschs ihållande irritation. Ansvarig utgivare: Klas Granström, Expressen AB.",
-      "pubDate": "2026-09-25T03:05:00Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "KD"
       ]
     }
   ]
