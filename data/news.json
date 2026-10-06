@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T19:10:09.886027Z",
+  "updated_at": "2026-10-06T23:08:03.582944Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,18 @@
   ],
   "news": [
     {
+      "title": "Ommöblering i SD: ”Ingenting annat än en petning”",
+      "link": "https://www.svt.se/nyheter/inrikes/ommoblering-i-sd-ingenting-annat-an-en-petning",
+      "description": "Tunga profiler inom Sverigedemokraterna flyttas till nya utskott och en av förflyttningarna kan ses som en regelrätt petning, enligt SVT:s politikreporter Daniel Ingmo. Samtidigt stiger nya, eller snarare nygamla namn, fram för att ta över.",
+      "pubDate": "2026-10-06T21:28:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Insändare. M bör släppa fram en rödgrön regering utan V",
       "link": "https://www.dn.se/insandare/m-bor-slappa-fram-en-rodgron-regering-utan-v/",
       "description": "INSÄNDARE. Det är dags för mer oortodoxa lösningar för att få slut på regeringsförhandlingarna. Tidöpartierna bör släppa fram en rödgrön regering utan Vänsterpartiet och därmed behålla makten i riksdagen, skriver Bengt Eriksson.",
@@ -91,7 +103,7 @@
       ]
     },
     {
-      "title": "Överens om stopp för tonårs-utvisningar: ”Finns en press på att enas”",
+      "title": "Överens om stopp för tonårsutvisningar: ”Finns en press på att enas”",
       "link": "https://www.sverigesradio.se/artikel/9314354",
       "description": "De fyra rödgröna partierna – Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Centerpartiet – är överens om att tillfälligt stoppa de så kallade tonårs-utvisningarna. Eftersom partierna nu har majoritet i riksdagen och i utskottet som jobbar med frågan är detta möjligt. ”Det finns ju en press om att enas såklart, och jag tror att det fortfarande finns åsiktsskillnader mellan de här partierna”, säger Ekots politikkommentator Fredrik Furtenbach.",
       "pubDate": "2026-10-06T16:51:00Z",
@@ -168,30 +180,6 @@
       ]
     },
     {
-      "title": "Uppgifter: S vill locka KD med ”drömpost”",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-s-vill-locka-kd-med-drompost/",
-      "description": "Socialdemokraterna i Stockholm vill hålla V utanför styret. Nu erbjuder man i&nbsp;stället en ”drömpost” för att locka över KD, skriver SvD . – KD:s trovärdighet i Stockholm och i riksdagen står på spel, säger en källa med insyn till Expressen.",
-      "pubDate": "2026-10-06T14:59:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Strömmers stöd till de rödgröna  – om tonårsutvisningarna",
-      "link": "https://www.expressen.se/nyheter/politik/strommers-stod-till-de-rodgrona-om-tonarsutvisningarna/",
-      "description": "De rödgröna partierna har enats för att stoppa tonårsutvisningarna. Nu får de stöd från justitieminister Gunnar Strömmer (M). – Det finns en väldigt stor öppenhet att åstadkomma det.",
-      "pubDate": "2026-10-06T14:41:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Magdalena Andersson: ”Ingen som suddat ut någon röd linje”",
       "link": "https://www.sverigesradio.se/artikel/9314293",
       "description": "Inför fredagens möte med de rödgröna partierna, som Centerpartiet har bjudit in till, ligger de röda linjerna fortsatt kvar, enligt Socialdemokraternas partiledare Magdalena Andersson. Hon säger att det pågår fortsatta diskussioner mellan partierna.&nbsp; ”Jag har haft bra samtal med alla partiledare för de rödgröna partierna, och jag ser fram emot mötet som Centerpartiet initierade på fredag”, säger Magdalena Andersson.",
@@ -256,15 +244,30 @@
       ]
     },
     {
-      "title": "Strömmer krävs på svar om svenska fångarna i Estland",
-      "link": "https://www.expressen.se/nyheter/sverige/strommer-kravs-pa-svar-om-svenska-fangarna-i-estland--/",
-      "description": "Justitieminister Gunnar Strömmer, M, kallas nu till justitieutskottet för att förklara sig om problemen med fängelseprojektet i Estland. Efter Expressens granskning vill utskottet ha svar. – Regeringen har drivit igenom ett dyrt prestigeprojekt som nu väcker allvarliga frågor, säger Miljöpartiets rättspolitiska talesperson Ulrika Westerlund.",
-      "pubDate": "2026-10-06T12:48:28Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Regeringen skickar luftvärn till Polen",
+      "link": "https://www.sverigesradio.se/artikel/9314110",
+      "description": "Sverige skickar luftvärnsförband till östra Polen, för att försvara Natos gräns. Det meddelade statsminister Ulf Kristersson (M) och försvarsminister Pål Jonson under en pressträff på tisdagen. Syftet är att skydda Natos logistikhubb i Polen och se till att allt försvarsmateriel kan skickas till Ukraina. ”De kommer att skydda luftrummet över Polen”, säger Pål Jonson.",
+      "pubDate": "2026-10-06T12:39:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "De rödgröna överens om stopplag för tonårsutvisningar",
+      "link": "https://www.sverigesradio.se/artikel/9314048",
+      "description": "Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Centerpartiet enades under tisdagen om att ta fram ett förslag till stopplag till de uppmärksammade tonårsutvisningarna. Det är den första frågan som de rödgröna är överens om efter valet. ”Vi har enats om det bland de fyra partierna. Det här har tagits upp idag på utskottssammanträdet och ärendet är nu bordlagt till nästa sammanträde för behandling”, säger riksdagsledamoten Ida Karkiainen (S). Vid nästa sammanträde med socialförsäkringsutskottet, kommer förslaget att klubbas, för att sedan läggas fram i riksdagen för beslut. Hur snabbt beslutet kan tas och hur många som berörs är oklart.",
+      "pubDate": "2026-10-06T11:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
         "MP"
       ]
     }
