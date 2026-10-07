@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T02:30:54.589719Z",
+  "updated_at": "2026-10-07T09:27:08.815286Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,40 @@
   ],
   "news": [
     {
+      "title": "Kravet: ”Vapenvila”  för alla röda linjer",
+      "link": "https://www.expressen.se/nyheter/politik/kravet-vapenvila--for-alla-roda-linjer/",
+      "description": "De rödgröna saknar vinnarmentalitet, tycker Grön ungdom.&nbsp; Nu kräver de ”en vapenvila” för alla röda linjer. – Vi har inte all tid i världen, säger språkrör Anton Bylin.",
+      "pubDate": "2026-10-07T09:13:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "V-veteranen pekar ut budgeten: Börja förhandla",
+      "link": "https://www.expressen.se/nyheter/politik/v-veteranen-pekar-ut-budgeten-borja-forhandla/",
+      "description": "Magdalena Anderssons sondering för en ny regering går trögt. Men nu kommer V-veteranen Ulla Andersson, som många gånger förhandlat med S-ledaren, med ett konkret råd: ”Börja förhandla budgeten och se vad ni kan komma överens om rödgröna”, skriver hon på X.",
+      "pubDate": "2026-10-07T08:02:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Anna Hedenmo: Ursäkta, men hur löjliga regeringsutspel tål Sverige?",
+      "link": "https://www.dn.se/ledare/anna-hedenmo-ursakta-men-hur-lojliga-regeringsutspel-tal-sverige/",
+      "description": "Hur ser det som händer i Sverige ut för omvärlden? Reaktionen från Wall Street Journals stjärna visar hur absurt bråket kring regeringsbildningen är. KOLUMNEN. Anna Hedenmo är journalist och fristående kolumnist på DN:s ledarsida.",
+      "pubDate": "2026-10-07T03:43:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Ommöblering i SD: ”Ingenting annat än en petning”",
       "link": "https://www.svt.se/nyheter/inrikes/ommoblering-i-sd-ingenting-annat-an-en-petning",
       "description": "Tunga profiler inom Sverigedemokraterna flyttas till nya utskott och en av förflyttningarna kan ses som en regelrätt petning, enligt SVT:s politikreporter Daniel Ingmo. Samtidigt stiger nya, eller snarare nygamla namn, fram för att ta över.",
@@ -130,18 +164,6 @@
       ]
     },
     {
-      "title": "Andersson: Ingen har suddat ut någon röd linje",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-ingen-har-suddat-ut-nagon-rod-linje/",
-      "description": "S-ledaren Magdalena Andersson har haft samtal med alla rödgröna partiledare.&nbsp; Men de röda linjerna mellan partierna består. – Det är ingen som har suddat ut någon röd linje, säger hon.",
-      "pubDate": "2026-10-06T16:42:24Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "SD-toppen avfärdar snacket om petning: Haft dialog med Jimmie",
       "link": "https://www.sverigesradio.se/artikel/9314245",
       "description": "Idag blev det klart vilka partier och politiker som får de viktiga ordförandeposterna i riksdagens olika utskott, störst rotation blir det för Sverigedemokraterna. Oscar Sjöstedt, tidigare ekonomiskpolitisk talesperson och ledamot i finansutskottet, är ny ordförande i konstitutionsutskottet. Tobias Andersson, som tidigare hade en tung post som ordförande i näringsutskottet, blir istället placerad i utbildningsutskottet. Ludwig Aspling, tidigare migrationspolitisk talesperson och ledamot i socialförsäkringsutskottet, blir placerad i EU-nämnden. Dessa förändringar ses som petningar, men vad gäller Oscar Sjöstedt håller han inte med om det: ”Jag har haft en jättebra dialog med Jimmie. Och vi är överens.”",
@@ -167,19 +189,6 @@
       ]
     },
     {
-      "title": "”De andra spelar roller i Vänsterpartiets pjäs”",
-      "link": "https://www.dn.se/podd/alskade-politik/de-andra-spelar-roller-i-vansterpartiets-pjas/",
-      "description": "Centerpartiet har bjudit in de andra rödgröna partierna till ett möte – blir det islossning eller är det spel för gallerierna. Och de får de sexigaste utskotten.",
-      "pubDate": "2026-10-06T15:13:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Magdalena Andersson: ”Ingen som suddat ut någon röd linje”",
       "link": "https://www.sverigesradio.se/artikel/9314293",
       "description": "Inför fredagens möte med de rödgröna partierna, som Centerpartiet har bjudit in till, ligger de röda linjerna fortsatt kvar, enligt Socialdemokraternas partiledare Magdalena Andersson. Hon säger att det pågår fortsatta diskussioner mellan partierna.&nbsp; ”Jag har haft bra samtal med alla partiledare för de rödgröna partierna, och jag ser fram emot mötet som Centerpartiet initierade på fredag”, säger Magdalena Andersson.",
@@ -190,18 +199,6 @@
       "topics": [
         "S",
         "C"
-      ]
-    },
-    {
-      "title": "Karlsson (SD) vill se över situationen för kulturarvsinstitutionerna",
-      "link": "https://www.sverigesradio.se/artikel/9314077",
-      "description": "Kulturutskottets nya ordförande, Sverigedemokraten Mattias Karlsson, vill se över det som han beskriver som en problematisk situation för flera av landets kulturarvsinstitutioner. ”Det är olyckligt tycker jag när staten motarbetar snarare än stödjer våra anrika kulturarvsinstitutioner”, säger han till Ekot. Uttalandet kommer efter att Armémuseum i Stockholm i veckan meddelade att man lämnar sina lokaler på Östermalm, dels på grund av att hyran chockhöjts men också på grund av att man vill till bättre lokaler.",
-      "pubDate": "2026-10-06T13:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     },
     {
@@ -218,57 +215,50 @@
       ]
     },
     {
-      "title": "Daniel Alling om Patriot-beskedet: ”Tydligt budskap till Ryssland”",
-      "link": "https://www.sverigesradio.se/artikel/9314160",
-      "description": "Sverige skickar Patriot-luftvärn till Polen för att försvara Natos östra gräns, det meddelade statsminister Ulf Kristersson under en pressträff med försvarsministern, utrikesministern och justitieministern. Enligt Daniel Alling, Sveriges Radios internationella korrespondent, vill övergångsregeringen visa internt och internationellt att Sveriges säkerhet fungerar och att de tar ansvar innan en ny regering finns på plats. \"Det är ett tydligt budskap till Ryssland, och även till Ukraina, att Sverige är djupt inblandad i den här frågan och ser den som prioriterad”, säger Daniel Alling.",
-      "pubDate": "2026-10-06T13:20:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Försvarsmakten nobbar centerns möte: ”Inte prioriterat”",
-      "link": "https://www.sverigesradio.se/artikel/9314142",
-      "description": "Försvarsmakten tackar nej till att delta på Centerpartiets uppmärksammade möte på fredag, då partiet samlar de andra rödgröna partierna, men också bjudit in organisationer och myndigheter för en genomgång av läget för Sverige. Partiet är hemlighetsfullt om vilka externa aktörer som bjudits in, men klart är att såväl LO som Saco och TCO deltar liksom Polisen och Konjunkturinstitutet. Det var för knappt en vecka sedan som Centerpartiets partiledare Elisabeth Thand Ringqvist bjöd in till möte för att komma ifrån den låst situationen i regeringsbildningen.",
-      "pubDate": "2026-10-06T13:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Regeringen skickar luftvärn till Polen",
-      "link": "https://www.sverigesradio.se/artikel/9314110",
-      "description": "Sverige skickar luftvärnsförband till östra Polen, för att försvara Natos gräns. Det meddelade statsminister Ulf Kristersson (M) och försvarsminister Pål Jonson under en pressträff på tisdagen. Syftet är att skydda Natos logistikhubb i Polen och se till att allt försvarsmateriel kan skickas till Ukraina. ”De kommer att skydda luftrummet över Polen”, säger Pål Jonson.",
-      "pubDate": "2026-10-06T12:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "De rödgröna överens om stopplag för tonårsutvisningar",
-      "link": "https://www.sverigesradio.se/artikel/9314048",
-      "description": "Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Centerpartiet enades under tisdagen om att ta fram ett förslag till stopplag till de uppmärksammade tonårsutvisningarna. Det är den första frågan som de rödgröna är överens om efter valet. ”Vi har enats om det bland de fyra partierna. Det här har tagits upp idag på utskottssammanträdet och ärendet är nu bordlagt till nästa sammanträde för behandling”, säger riksdagsledamoten Ida Karkiainen (S). Vid nästa sammanträde med socialförsäkringsutskottet, kommer förslaget att klubbas, för att sedan läggas fram i riksdagen för beslut. Hur snabbt beslutet kan tas och hur många som berörs är oklart.",
-      "pubDate": "2026-10-06T11:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Flera tunga SD-profiler får nya uppdrag: ”Vemodigt”",
+      "link": "https://www.svt.se/nyheter/inrikes/flera-tunga-sd-profiler-forlorar-sina-uppdrag-vemodigt",
+      "description": "Sverigedemokraterna gör en stor rockad och flera toppnamn får nya uppdrag. Oscar Sjöstedt beskriver det som att man toppar laget. Andra är mer förvånade. – Jag trivdes bra i näringsutskottet, säger Tobias Andersson.",
+      "pubDate": "2026-10-06T11:35:09Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "V",
-        "C",
-        "MP"
+        "SD"
+      ]
+    },
+    {
+      "title": "De rödgröna överens: Tonårsutvisningarna stoppas",
+      "link": "https://www.dn.se/sverige/de-rodgrona-overens-tonarsutvisningarna-stoppas/",
+      "description": "De fyra rödgröna partierna är överens om att tillfälligt stoppa de så kallade tonårsutvisningarna. – Det här är ett väldigt tydligt besked om att Sveriges riksdag så fort som möjligt vill sätta stopp för de här utvisningarna, säger V-ledaren Nooshi Dadgostar.",
+      "pubDate": "2026-10-06T11:15:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Rödgröna partierna eniga om att stoppa tonårsutvisningar",
+      "link": "https://www.svt.se/nyheter/inrikes/rodgrona-partierna-eniga-om-att-stoppa-tonarsutvisningar",
+      "description": "De rödgröna partierna har enats om ett gemensamt utskottsinitiativ för att stoppa de så kallade tonårsutvisningarna. – Det innehåller ett förslag på en stopplag, säger Annika Hirvonen (MP).",
+      "pubDate": "2026-10-06T10:08:48Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "På lätt ironisk prosa tar Strömberg och Nilsson med sig läsarna tillbaka till åren med Tidö",
+      "link": "https://www.dn.se/kultur/pa-latt-ironisk-prosa-tar-stromberg-och-nilsson-med-sig-lasarna-tillbaka-till-aren-med-tido/",
+      "description": "Tidö är inte nödvändigtvis historia, men den politiska historien om de senaste fyra åren är redan skriven. DN:s Jan Eklund roas och oroas av SvD-journalisternas skildring av Ulf Kristerssons regering.",
+      "pubDate": "2026-10-06T04:19:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
       ]
     }
   ],
@@ -356,6 +346,16 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Inläst: Så blev tonårsutvisningar en valvinnare för S",
+      "link": "https://pod.space/kvartal/inlast-sa-blev-tonarsutvisningar-en-valvinnare-for-s",
+      "description": "Det blev en av oppositionens starkaste symbolfrågor i valrörelsen 2026. Men vägen dit är mer komplicerad än den politiska berättelsen ger sken av. De regler som i hög grad bidrog till att skapa ”tonårsutvisningarna” infördes 2016 av S och MP, och samma partier styrde när de permanentades 2021. När frågan sedan exploderade politiskt hade S alltså själv lagt en viktig del av grunden – samtidigt som partiet kunde använda konsekvenserna för att angripa Tidöregeringens migrationspolitik. Hur kunde det bli så? Av Jörgen Huitfeldt Inläsare: Jörgen Huitfeldt",
+      "pubDate": "2026-10-07T04:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
     {
       "title": "”De andra spelar roller i Vänsterpartiets pjäs”",
       "link": "https://pod.space/alskadepolitik/de-andra-spelar-roller-i-vansterpartiets-pjas",
@@ -524,19 +524,6 @@
       "sourceType": "podcast",
       "topics": [
         "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Fredagsintervjun: Dadgostar har ansträngt sig för att bli regeringsduglig",
-      "link": "https://pod.space/kvartal/fredagsintervjun-bade-v-och-sd-har-anstrangt-sig-for-att-bli-regeringsdugliga",
-      "description": "Tidigare talmannen Per Westerberg intervjuas av Magnus Thorén. När han lämnade riksdagen för tolv år sedan var det som den ledamot som suttit längst. Vad säger den tidigare moderate näringsministern och talmannen under flera år Per Westerberg om turbulensen på hans tidigare arbetsplats just nu, med röda linjer och misstänkt fiffel med personkryss och köpta röster i Dalarna? Och vilken är hans förklaring till att så mycket i politiken fortfarande kretsar kring Jimmie Åkesson?",
-      "pubDate": "2026-09-25T10:50:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
         "V"
       ]
     }
