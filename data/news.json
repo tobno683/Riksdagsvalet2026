@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T09:27:08.815286Z",
+  "updated_at": "2026-10-07T16:44:19.968316Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,151 @@
   ],
   "news": [
     {
+      "title": "Internt tryck inför rödgrönt toppmöte: ”Skarpaste gränsen”",
+      "link": "https://www.svt.se/nyheter/inrikes/internt-tryck-infor-rodgront-toppmote-skarpaste-gransen",
+      "description": "C-ledaren Elisabeth Thand Ringqvst har samlat till rödgrönt toppmöte. Internt finns ett tryck på att hålla fast vid C:s röda linjer – samtidigt som partiet inte vill ge sken av att vara den som sinkar regeringsbildningen. – Det finns en bild av att C har varit problemet, säger en C-källa.",
+      "pubDate": "2026-10-07T16:02:40Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Dags att S klipper banden med V, MP och C",
+      "link": "https://www.dn.se/insandare/dags-att-s-klipper-banden-med-v-mp-och-c/",
+      "description": "INSÄNDARE. Socialdemokraterna hör inte längre ihop med de rödgröna ytterlighetspartierna eller det fanatiska Centerpartiet. S måste orka stå allena eller så småningom gå ihop med andra mer moderata krafter, skriver Päivi Rissanen.",
+      "pubDate": "2026-10-07T15:32:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Migrationsverket pausar inte tonårsutvisningarna",
+      "link": "https://www.dn.se/sverige/migrationsverket-pausar-inte-tonarsutvisningarna/",
+      "description": "Migrationsverket kommer inte att agera på de rödgrönas utskottsinitiativ om att stoppa tonårsutvisningarna i nuläget. – Vi får fundera på om vi behöver kalla Migrationsverket till utskottet, säger Niels Paarup-Petersen (C).",
+      "pubDate": "2026-10-07T14:41:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Bah Kuhnke (MP) om systerpartiets Israelpolitik: ”Fruktansvärd”",
+      "link": "https://www.sverigesradio.se/artikel/9314881",
+      "description": "Miljöpartiets EU-parlamentariker reagerar starkt på beskedet från systerpartiet De Gröna i England och Wales som nu likställer sionism med rasism och förordar en enstatslösning där Israel infogas i Palestina. ”Jag vill verkligen understryka att jag och Miljöpartiet tar fullständigt avstånd från den där resolutionen”, säger EU-parlamentariker Isabella Lövin till Ekot. Frågan lär tas upp när det europeiska gröna partiet EGP har kongress i Warszawa i december.",
+      "pubDate": "2026-10-07T14:18:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Anderssons balansgång: S-väljarna splittrade om V-ministrar",
+      "link": "https://www.dn.se/sverige/anderssons-balansgang-s-valjarna-splittrade-om-v-ministrar/",
+      "description": "Centerväljarna vill gärna att Elisabeth Thand Ringqvist blir ministerkollega med Magdalena Andersson. Det visar en undersökning från DN/Ipsos. Men många socialdemokrater kommer att bli missnöjda om inte Vänsterpartiet också får vara med.",
+      "pubDate": "2026-10-07T14:13:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Svalgoperationer på småbarn får fortsätta på privata kliniker",
+      "link": "https://www.dn.se/sverige/svalgoperationer-pa-smabarn-far-fortsatta-pa-privata-kliniker/",
+      "description": "Svalgoperationer på förskolebarn i Region Stockholm föreslogs flytta till akutsjukhus för att öka patientsäkerheten. Men Centerpartiet har satt stopp för planerna – med hjälp av Sverigedemokraterna.",
+      "pubDate": "2026-10-07T13:05:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "KD-politiker: Blev angripen under torgmöte i Eskilstuna",
+      "link": "https://www.expressen.se/nyheter/politik/kd-politiker-blev-angripen-under-torgmote-i-eskilstuna/",
+      "description": "Kristdemokraterna i Eskilstuna anordnade under dagen en manifestation till minne av den 7 oktober. Då utbröt tumult efter att en man tagit sig fram och rivit ner en israelisk flagga, säger lokalpolitikern Joakim Widell till E-kuriren. &nbsp; – Jag får tag i hans jacka och då försöker han slå mig.",
+      "pubDate": "2026-10-07T12:56:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Brittiska Green Party och ledaren portas från Israel",
+      "link": "https://www.dn.se/varlden/brittiska-green-party-och-ledaren-portas-fran-israel/",
+      "description": "LONDON. Reaktionerna på det brittiska miljöpartiets beslut att klassa all sionism som rasism har varit kraftfulla. Relationen mellan Storbritannien och Israel blir allt sämre.",
+      "pubDate": "2026-10-07T11:58:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Protesterna i Indien växer – miljontals har inte fått rösta",
+      "link": "https://www.sverigesradio.se/artikel/9314840",
+      "description": "Protesterna växer mot valmyndigheten i Indien efter uppgifter om att nära 130 miljoner namn strukits från vallängderna. Demonstranter kräver att valkommissionens chef avgår. ”En del har lyckats få rätt gentemot Valmyndigheten och satts på listorna igen, andra inte”, säger Ekots Sydasienkorrespondent Naila Saleem.",
+      "pubDate": "2026-10-07T11:45:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Talmannens plan: Möjligt att rösta om Andersson nästa vecka",
+      "link": "https://www.expressen.se/nyheter/politik/talmannens-plan-votering-om-andersson-nasta-vecka/",
+      "description": "Talman Andreas Norlén kallar in riksdagen. Förberedelserna är gjorda för att hålla en möjlig omröstning om Magdalena Andersson (S) som statsminister – redan nästa vecka.",
+      "pubDate": "2026-10-07T11:44:56Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Så blir styret i Stockholms stad: ”Historisk majoritet”",
+      "link": "https://www.dn.se/sverige/sa-blir-styret-i-stockholms-stad-historisk-majoritet/",
+      "description": "Miljöpartiet gick framåt i valet medan Socialdemokraterna och Vänsterpartiet backade. Nu står det klart att en rödgrön majoritet fortsätter styra i Stockholms stad. Fördelningen av antalet borgarrådsposter är oförändrad.",
+      "pubDate": "2026-10-07T11:26:51Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "MP"
+      ]
+    },
+    {
+      "title": "Allt om C-mötet – äger rum på Högberga gård på Lidingö",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-det-c-motet-ager-rum-pa-hogberga-gard-pa-lidingo/",
+      "description": "På fredag ska alla rödgröna partiledare träffas i samma rum. Nu står det klart att mötet hålls på exklusiva Högberga gård på Lidingö. Flera gäster är inbjudna.&nbsp;",
+      "pubDate": "2026-10-07T09:32:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Kravet: ”Vapenvila”  för alla röda linjer",
       "link": "https://www.expressen.se/nyheter/politik/kravet-vapenvila--for-alla-roda-linjer/",
       "description": "De rödgröna saknar vinnarmentalitet, tycker Grön ungdom.&nbsp; Nu kräver de ”en vapenvila” för alla röda linjer. – Vi har inte all tid i världen, säger språkrör Anton Bylin.",
@@ -87,18 +232,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "V-veteranen pekar ut budgeten: Börja förhandla",
-      "link": "https://www.expressen.se/nyheter/politik/v-veteranen-pekar-ut-budgeten-borja-forhandla/",
-      "description": "Magdalena Anderssons sondering för en ny regering går trögt. Men nu kommer V-veteranen Ulla Andersson, som många gånger förhandlat med S-ledaren, med ett konkret råd: ”Börja förhandla budgeten och se vad ni kan komma överens om rödgröna”, skriver hon på X.",
-      "pubDate": "2026-10-07T08:02:01Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
     },
     {
       "title": "Anna Hedenmo: Ursäkta, men hur löjliga regeringsutspel tål Sverige?",
@@ -123,158 +256,9 @@
       "topics": [
         "SD"
       ]
-    },
-    {
-      "title": "Insändare. M bör släppa fram en rödgrön regering utan V",
-      "link": "https://www.dn.se/insandare/m-bor-slappa-fram-en-rodgron-regering-utan-v/",
-      "description": "INSÄNDARE. Det är dags för mer oortodoxa lösningar för att få slut på regeringsförhandlingarna. Tidöpartierna bör släppa fram en rödgrön regering utan Vänsterpartiet och därmed behålla makten i riksdagen, skriver Bengt Eriksson.",
-      "pubDate": "2026-10-06T17:16:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Överens om stopp för tonårsutvisningar: ”Finns en press på att enas”",
-      "link": "https://www.sverigesradio.se/artikel/9314354",
-      "description": "De fyra rödgröna partierna – Socialdemokraterna, Vänsterpartiet, Miljöpartiet och Centerpartiet – är överens om att tillfälligt stoppa de så kallade tonårs-utvisningarna. Eftersom partierna nu har majoritet i riksdagen och i utskottet som jobbar med frågan är detta möjligt. ”Det finns ju en press om att enas såklart, och jag tror att det fortfarande finns åsiktsskillnader mellan de här partierna”, säger Ekots politikkommentator Fredrik Furtenbach.",
-      "pubDate": "2026-10-06T16:51:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "Ola Larsmo: Var de svenska utvandrarna flyktingar?",
-      "link": "https://www.dn.se/kultur/ola-larsmo-var-de-svenska-utvandrarna-flyktingar/",
-      "description": "Efter att Fredrik Lindström i ”På spåret” refererat till Karl Oskar och Kristina som ”flyktingar” har det brakat loss i sociala medier. Ola Larsmo reder ut frågan.",
-      "pubDate": "2026-10-06T16:48:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "SD-toppen avfärdar snacket om petning: Haft dialog med Jimmie",
-      "link": "https://www.sverigesradio.se/artikel/9314245",
-      "description": "Idag blev det klart vilka partier och politiker som får de viktiga ordförandeposterna i riksdagens olika utskott, störst rotation blir det för Sverigedemokraterna. Oscar Sjöstedt, tidigare ekonomiskpolitisk talesperson och ledamot i finansutskottet, är ny ordförande i konstitutionsutskottet. Tobias Andersson, som tidigare hade en tung post som ordförande i näringsutskottet, blir istället placerad i utbildningsutskottet. Ludwig Aspling, tidigare migrationspolitisk talesperson och ledamot i socialförsäkringsutskottet, blir placerad i EU-nämnden. Dessa förändringar ses som petningar, men vad gäller Oscar Sjöstedt håller han inte med om det: ”Jag har haft en jättebra dialog med Jimmie. Och vi är överens.”",
-      "pubDate": "2026-10-06T15:52:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "SD:s Mattias Karlsson blir ordförande i kulturutskottet: ”Har beskrivits som kulturkrigare deluxe”",
-      "link": "https://www.dn.se/kultur/sds-mattias-karlsson-blir-ordforande-i-kulturutskottet-har-beskrivits-som-kulturkrigare-deluxe/",
-      "description": "Mattias Karlsson har länge varit tongivande i Sverigedemokraterna. Nu blir han kulturutskottets nya ordförande. – Jag vet att jag beskrivs som en kulturkrigare deluxe. I den här rollen så kommer jag framför allt att försöka betona samförstånd, säger han.",
-      "pubDate": "2026-10-06T15:37:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson: ”Ingen som suddat ut någon röd linje”",
-      "link": "https://www.sverigesradio.se/artikel/9314293",
-      "description": "Inför fredagens möte med de rödgröna partierna, som Centerpartiet har bjudit in till, ligger de röda linjerna fortsatt kvar, enligt Socialdemokraternas partiledare Magdalena Andersson. Hon säger att det pågår fortsatta diskussioner mellan partierna.&nbsp; ”Jag har haft bra samtal med alla partiledare för de rödgröna partierna, och jag ser fram emot mötet som Centerpartiet initierade på fredag”, säger Magdalena Andersson.",
-      "pubDate": "2026-10-06T14:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Sverige skickar Patriotsystem till Polen",
-      "link": "https://www.dn.se/sverige/sverige-skickar-patriotsystem-till-polen/",
-      "description": "Sverige skickar luftvärnssystemet Patriot till Polen. Uppgiften blir att skydda transporter av krigsmateriel till Ukraina, meddelar statsminister Ulf Kristersson. – Det ryska hotet är inte nytt, utan ständigt närvarande och kommer i nya skepnader, säger han.",
-      "pubDate": "2026-10-06T13:31:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Flera tunga SD-profiler får nya uppdrag: ”Vemodigt”",
-      "link": "https://www.svt.se/nyheter/inrikes/flera-tunga-sd-profiler-forlorar-sina-uppdrag-vemodigt",
-      "description": "Sverigedemokraterna gör en stor rockad och flera toppnamn får nya uppdrag. Oscar Sjöstedt beskriver det som att man toppar laget. Andra är mer förvånade. – Jag trivdes bra i näringsutskottet, säger Tobias Andersson.",
-      "pubDate": "2026-10-06T11:35:09Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "De rödgröna överens: Tonårsutvisningarna stoppas",
-      "link": "https://www.dn.se/sverige/de-rodgrona-overens-tonarsutvisningarna-stoppas/",
-      "description": "De fyra rödgröna partierna är överens om att tillfälligt stoppa de så kallade tonårsutvisningarna. – Det här är ett väldigt tydligt besked om att Sveriges riksdag så fort som möjligt vill sätta stopp för de här utvisningarna, säger V-ledaren Nooshi Dadgostar.",
-      "pubDate": "2026-10-06T11:15:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Rödgröna partierna eniga om att stoppa tonårsutvisningar",
-      "link": "https://www.svt.se/nyheter/inrikes/rodgrona-partierna-eniga-om-att-stoppa-tonarsutvisningar",
-      "description": "De rödgröna partierna har enats om ett gemensamt utskottsinitiativ för att stoppa de så kallade tonårsutvisningarna. – Det innehåller ett förslag på en stopplag, säger Annika Hirvonen (MP).",
-      "pubDate": "2026-10-06T10:08:48Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "På lätt ironisk prosa tar Strömberg och Nilsson med sig läsarna tillbaka till åren med Tidö",
-      "link": "https://www.dn.se/kultur/pa-latt-ironisk-prosa-tar-stromberg-och-nilsson-med-sig-lasarna-tillbaka-till-aren-med-tido/",
-      "description": "Tidö är inte nödvändigtvis historia, men den politiska historien om de senaste fyra åren är redan skriven. DN:s Jan Eklund roas och oroas av SvD-journalisternas skildring av Ulf Kristerssons regering.",
-      "pubDate": "2026-10-06T04:19:43Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
     }
   ],
   "blogs": [
-    {
-      "title": "Försåg gängkriget mellan Foxtrot och Rumba med vapen",
-      "link": "https://blog.zaramis.se/2026/10/04/forsag-gangkriget-mellan-foxtrot-och-rumba-med-vapen/",
-      "description": "I mars i år rapporterade EU:s polissamarbete Europol att de knäckt ett internationellt brottssyndikat i en operation de kallade Candy. Misstankarna var bland annat synnerligen grova narkotikabrott, penningtvätt och bokföringsbrott. Polischefen Linda Staaf fick i samband med detta lämna sitt uppdrag som Sveriges Europolchef. Det berodde på grund av risken för jäv. Detta då tre personer med släktkopplingar till henne blev misstänkta. Läs mer … Inlägget Försåg gängkriget mellan Foxtrot och Rumba med vapen dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-10-04T12:08:11Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
-    },
     {
       "title": "“Jag organiserade människorna”",
       "link": "https://ledarsidorna.se/jag-organiserade-manniskorna/",
@@ -346,6 +330,16 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Kvartal Idag: Därför förlorade Mohamed Ali bidragen",
+      "link": "https://pod.space/kvartal/kvartal-idag-darfor-forlorade-mohamed-ali-bidragen",
+      "description": "Stängdes av efter missade möten. Var kan de rödgröna komma överens? Så påverkas Israel tre år efter massakern. Och miljardär pekas ut som terrorfinansiär. Programledare Cassandra Alm.",
+      "pubDate": "2026-10-07T13:56:52Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
     {
       "title": "Inläst: Så blev tonårsutvisningar en valvinnare för S",
       "link": "https://pod.space/kvartal/inlast-sa-blev-tonarsutvisningar-en-valvinnare-for-s",
@@ -513,19 +507,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": []
-    },
-    {
-      "title": "Veckopanelen: Dadgostar lät trött och nästan utbränd",
-      "link": "https://pod.space/kvartal/veckopanelen-dadgostar-lat-nastan-utbrand",
-      "description": "Veckopanelen med Max Jerneck, Maria Wetterstrand och Ivar Arpi under ledning av Staffan Dopping. Skakar marken under Nooshi Dadgostars fötter, och vad ska hända med Vänsterpartiets kryssraket Mohamed Ali? Misstänkt valfusk, både i Borlänge och Järva, personvalssystemet och partiernas valsedlar diskuteras intensivt, och i nästa vecka ska Magdalena Andersson berätta för en nyvald talman hur det går med regeringssonderingarna. Och vad menar kritiska medieforskare med att journalisterna var för fokuserade på regeringsfrågan och att de påverkade valutgången?",
-      "pubDate": "2026-09-26T03:40:40Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "V"
-      ]
     }
   ]
 }
