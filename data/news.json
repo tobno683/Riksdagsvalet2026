@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T16:44:19.968316Z",
+  "updated_at": "2026-10-07T21:40:42.348516Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,44 @@
   ],
   "news": [
     {
+      "title": "C till V: ”Ett jättestort problem kvarstår”",
+      "link": "https://www.svt.se/nyheter/inrikes/c-till-v-ett-jattestort-problem-kvarstar",
+      "description": "Låst läge mellan Centerpartiet och Vänsterpartiet. I onsdagskvällens Aktuellt möttes Martin Ådahl (C) och Ida Gabrielsson (V) för att diskutera partiernas röda linjer och vad som skulle krävas för att komma vidare. – Det är ett jättestort problem som kvarstår, säger Ådahl och syftar på antisemitism inom Vänsterpartiet.",
+      "pubDate": "2026-10-07T20:36:17Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "V-toppen Ida Gabrielssons kritik mot S: ”Sätta lite press”",
+      "link": "https://www.expressen.se/nyheter/politik/v-toppen-ida-gabrielssons-kritik-mot-s-satta-lite-press/",
+      "description": "Socialdemokraterna säger inte vilka partier man vill bilda regering med.&nbsp; Vänsterpartiets vice partiledare Ida Gabrielsson är kritisk.&nbsp; – Jag tror att man behöver sätta lite press, säger hon i ”Aktuellt”.&nbsp;",
+      "pubDate": "2026-10-07T20:24:47Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Samuel Danofsky: Sionism är inte rasism – men antisionism kan vara det",
+      "link": "https://www.dn.se/kultur/samuel-danofsky-sionism-ar-inte-rasism-men-antisionism-kan-vara-det/",
+      "description": "I helgen stämplade det brittiska miljöpartiet sionism som rasism – det senaste exemplet på hur antisionism blivit en accepterad form av antisemitism. Den här formen av judehat måste synliggöras och stoppas, skriver Samuel Danofsky.",
+      "pubDate": "2026-10-07T17:17:23Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
       "title": "Internt tryck inför rödgrönt toppmöte: ”Skarpaste gränsen”",
       "link": "https://www.svt.se/nyheter/inrikes/internt-tryck-infor-rodgront-toppmote-skarpaste-gransen",
       "description": "C-ledaren Elisabeth Thand Ringqvst har samlat till rödgrönt toppmöte. Internt finns ett tryck på att hålla fast vid C:s röda linjer – samtidigt som partiet inte vill ge sken av att vara den som sinkar regeringsbildningen. – Det finns en bild av att C har varit problemet, säger en C-källa.",
@@ -153,18 +191,6 @@
       ]
     },
     {
-      "title": "KD-politiker: Blev angripen under torgmöte i Eskilstuna",
-      "link": "https://www.expressen.se/nyheter/politik/kd-politiker-blev-angripen-under-torgmote-i-eskilstuna/",
-      "description": "Kristdemokraterna i Eskilstuna anordnade under dagen en manifestation till minne av den 7 oktober. Då utbröt tumult efter att en man tagit sig fram och rivit ner en israelisk flagga, säger lokalpolitikern Joakim Widell till E-kuriren. &nbsp; – Jag får tag i hans jacka och då försöker han slå mig.",
-      "pubDate": "2026-10-07T12:56:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
       "title": "Brittiska Green Party och ledaren portas från Israel",
       "link": "https://www.dn.se/varlden/brittiska-green-party-och-ledaren-portas-fran-israel/",
       "description": "LONDON. Reaktionerna på det brittiska miljöpartiets beslut att klassa all sionism som rasism har varit kraftfulla. Relationen mellan Storbritannien och Israel blir allt sämre.",
@@ -187,19 +213,6 @@
       "topics": []
     },
     {
-      "title": "Talmannens plan: Möjligt att rösta om Andersson nästa vecka",
-      "link": "https://www.expressen.se/nyheter/politik/talmannens-plan-votering-om-andersson-nasta-vecka/",
-      "description": "Talman Andreas Norlén kallar in riksdagen. Förberedelserna är gjorda för att hålla en möjlig omröstning om Magdalena Andersson (S) som statsminister – redan nästa vecka.",
-      "pubDate": "2026-10-07T11:44:56Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Så blir styret i Stockholms stad: ”Historisk majoritet”",
       "link": "https://www.dn.se/sverige/sa-blir-styret-i-stockholms-stad-historisk-majoritet/",
       "description": "Miljöpartiet gick framåt i valet medan Socialdemokraterna och Vänsterpartiet backade. Nu står det klart att en rödgrön majoritet fortsätter styra i Stockholms stad. Fördelningen av antalet borgarrådsposter är oförändrad.",
@@ -214,38 +227,6 @@
       ]
     },
     {
-      "title": "Allt om C-mötet – äger rum på Högberga gård på Lidingö",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-det-c-motet-ager-rum-pa-hogberga-gard-pa-lidingo/",
-      "description": "På fredag ska alla rödgröna partiledare träffas i samma rum. Nu står det klart att mötet hålls på exklusiva Högberga gård på Lidingö. Flera gäster är inbjudna.&nbsp;",
-      "pubDate": "2026-10-07T09:32:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kravet: ”Vapenvila”  för alla röda linjer",
-      "link": "https://www.expressen.se/nyheter/politik/kravet-vapenvila--for-alla-roda-linjer/",
-      "description": "De rödgröna saknar vinnarmentalitet, tycker Grön ungdom.&nbsp; Nu kräver de ”en vapenvila” för alla röda linjer. – Vi har inte all tid i världen, säger språkrör Anton Bylin.",
-      "pubDate": "2026-10-07T09:13:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Anna Hedenmo: Ursäkta, men hur löjliga regeringsutspel tål Sverige?",
-      "link": "https://www.dn.se/ledare/anna-hedenmo-ursakta-men-hur-lojliga-regeringsutspel-tal-sverige/",
-      "description": "Hur ser det som händer i Sverige ut för omvärlden? Reaktionen från Wall Street Journals stjärna visar hur absurt bråket kring regeringsbildningen är. KOLUMNEN. Anna Hedenmo är journalist och fristående kolumnist på DN:s ledarsida.",
-      "pubDate": "2026-10-07T03:43:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Ommöblering i SD: ”Ingenting annat än en petning”",
       "link": "https://www.svt.se/nyheter/inrikes/ommoblering-i-sd-ingenting-annat-an-en-petning",
       "description": "Tunga profiler inom Sverigedemokraterna flyttas till nya utskott och en av förflyttningarna kan ses som en regelrätt petning, enligt SVT:s politikreporter Daniel Ingmo. Samtidigt stiger nya, eller snarare nygamla namn, fram för att ta över.",
@@ -255,6 +236,30 @@
       "sourceType": "news",
       "topics": [
         "SD"
+      ]
+    },
+    {
+      "title": "Insändare. M bör släppa fram en rödgrön regering utan V",
+      "link": "https://www.dn.se/insandare/m-bor-slappa-fram-en-rodgron-regering-utan-v/",
+      "description": "INSÄNDARE. Det är dags för mer oortodoxa lösningar för att få slut på regeringsförhandlingarna. Tidöpartierna bör släppa fram en rödgrön regering utan Vänsterpartiet och därmed behålla makten i riksdagen, skriver Bengt Eriksson.",
+      "pubDate": "2026-10-06T17:16:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ola Larsmo: Var de svenska utvandrarna flyktingar?",
+      "link": "https://www.dn.se/kultur/ola-larsmo-var-de-svenska-utvandrarna-flyktingar/",
+      "description": "Efter att Fredrik Lindström i ”På spåret” refererat till Karl Oskar och Kristina som ”flyktingar” har det brakat loss i sociala medier. Ola Larsmo reder ut frågan.",
+      "pubDate": "2026-10-06T16:48:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
       ]
     }
   ],
@@ -315,18 +320,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "Moderaterna sätter sig som åklagare och domare över opinionsinstituten",
-      "link": "https://ledarsidorna.se/moderaterna-satter-sig-som-aklagare-och-domare-over-opinionsinstituten/",
-      "description": "Ett parti som kallar till sig mätföretag för att de ska förklara varför siffrorna inte behagade partiet ägnar sig inte åt metodkritik. Varje sådant tendens från politiska partier, även svenska, försöker disciplinera en fri marknad och oberoende forskning. Den taktiken används i Peking, Moskva och Washington. Där den nått framgång. Det mest nedslående är idag [&#8230;]",
-      "pubDate": "2026-09-26T17:07:40Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
     }
   ],
   "podcasts": [
