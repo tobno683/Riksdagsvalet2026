@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T15:00:40.266031Z",
+  "updated_at": "2026-10-08T20:32:11.125304Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,69 @@
   ],
   "news": [
     {
+      "title": "Håller fast vid röda linjen: ”Centerns väljare ogillar Vänsterpartiet”",
+      "link": "https://www.sverigesradio.se/artikel/9316028",
+      "description": "På fredag träffas de fyra rödgröna partierna efter att Elisabeth Thand Ringqvist (C) bjudit in dem för att försöka komma ifrån den låst situationen i regeringsbildningen. Samtidigt står Centerpartiet fast vid sin röda linje mot Vänsterpartiet. Kravet verkar ha stöd bland de egna väljarna, säger Ekots inrikespolitiske kommentator Fredrik Furtenbach.",
+      "pubDate": "2026-10-08T17:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Signalen till partiledarna inför mötet: ”Ge er inte in i det”",
+      "link": "https://www.dn.se/sverige/signalen-till-partiledarna-infor-motet-ge-er-inte-in-i-det/",
+      "description": "På fredag samlas de fyra rödgröna partiledarna för att diskutera vägen framåt. Centerpartiet vill att partierna ska få en bild av läget i Sverige – från särskilt inbjudna gäster. – Var beredd på överraskningar, säger Jakob Hallgren på Utrikespolitiska institutet.",
+      "pubDate": "2026-10-08T17:24:42Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Nu kan S och C lura sig själva ett tag till",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/nu-kan-s-och-c-lura-sig-sjalva-ett-tag-till/",
+      "description": "Socialdemokraterna och Centern får sitt hett efterlängtade mittenstyre – i Region Stockholm. För regeringsbildningen lär det mest leda till ytterligare besvär.",
+      "pubDate": "2026-10-08T15:53:22Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "\"Hemliga” bastumötet med Busch: Dubbla och dunkla signaler från C",
+      "link": "https://www.dn.se/podd/alskade-politik/hemliga-bastumotet-med-busch-dubbla-och-dunkla-signaler-fran-c/",
+      "description": "På fredagen ska de rödgröna partiledarna träffas för första gången sedan valet. Men vad betyder Thand-Ringqvists bastudejt med KD-ledaren dagen innan?",
+      "pubDate": "2026-10-08T15:03:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Svenska stjärnan positiv till hjälp att frysa ägg: ”Kan finnas stress”",
+      "link": "https://www.dn.se/sport/svenska-stjarnan-positiv-till-hjalp-att-frysa-agg-kan-finnas-stress/",
+      "description": "Spanska fotbollsförbundet erbjuder sina landslagsspelare möjligheten att frysa in sina ägg. En bra idé för att inte känna stress över den biologiska klockan, tycker svenska mittbacken Amanda Ilestedt. Men forskaren Angelica Lindén Hirschberg höjer ett varningens finger. – Man får inte invaggas i en falsk tro, säger hon.",
+      "pubDate": "2026-10-08T15:02:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
       "title": "Ministern om Ekots avslöjande: ”Måste gå till botten”",
       "link": "https://www.sverigesradio.se/artikel/9315563",
       "description": "Efter Ekots avslöjande om Skatteverkets hantering av amerikanska molntjänster kommer regeringen att kallas till riksdagens skatteutskott. Det står klart efter torsdagens utskottssammanträde. Initiativet togs i går av Socialdemokraterna där Niklas Karlsson (S) beskriver uppgifterna som mycket allvarliga och vill veta vad regeringen visste. Finansminister Elisabeth Svantesson (M) uppger att även hon vill gå till botten med uppgifterna.",
@@ -150,43 +213,6 @@
       ]
     },
     {
-      "title": "Sprickan inför mötet – vägrar diskutera brännande frågan",
-      "link": "https://www.expressen.se/nyheter/politik/sprickan-infor-motet-vagrar-diskutera-brannande-fragan/",
-      "description": "Nära fyra veckor efter valet möts till slut de rödgröna partiledarna. Men redan på förhand är de oense – om vad de ska prata om. – Då får de väl stå och stirra på varandra ett tag, säger statsvetaren Jonas Hinnfors.",
-      "pubDate": "2026-10-08T12:24:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "KD-toppen om nya styret med S: ”Synd”",
-      "link": "https://www.expressen.se/nyheter/politik/kd-toppen-om-nya-styret-med-s-synd/",
-      "description": "KD och Liberalerna byter sida i Stockholm – för att ingå i S-lett styre. Enligt Kristdemokraterna går det inte att jämföra med rikspolitiken. – Men det vore ju så&nbsp;klart väldigt välkommet om Centerpartiet hittar hem till borgerligheten, säger KD-toppen Carl-Johan Schiller.",
-      "pubDate": "2026-10-08T12:13:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD",
-        "L"
-      ]
-    },
-    {
-      "title": "Busch och Thand Ringqvist i ”bastumöte”",
-      "link": "https://www.expressen.se/nyheter/politik/busch-och-thand-ringqvist-i-bastumote-nm7bg/",
-      "description": "Elisabeth Thand Ringqvist och KD-ledaren Ebba Busch har bastat ihop, rapporterar Aftonbladet. Platsen för mötet var Hellasgården i södra Stockholm. ”Centerpartiet har fört och för samtal med samtliga partier som vi kan tänka oss att sitta i regering med”, skriver C:s presstjänst till Expressen.&nbsp;",
-      "pubDate": "2026-10-08T12:03:18Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD"
-      ]
-    },
-    {
       "title": "Finansminister Elisabeth Svantesson (M) presenterar ekonomisk prognos",
       "link": "https://www.svt.se/nyheter/inrikes/finansminister-elisabeth-svantesson-m-presenterar-ekonomisk-prognos",
       "description": "Finansminister Elisabeth Svantesson (M) presenterar en ny prognos för den ekonomiska utvecklingen. Hon håller en pressträff på Rosenbad, som SVT sände. – Nu lämnar vi lågkonjunkturen och går in i ett mer normalt konjunkturläge inför nästa år, säger Elisabeth Svantesson (M).",
@@ -234,35 +260,22 @@
         "S",
         "M"
       ]
-    },
-    {
-      "title": "Busch och Thand Ringqvist i \"bastumöte\"",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=5c22dddc-3966-45e5-83ab-3eeb49ed0be7",
-      "description": "Partiledarnas hemliga möte avslöjat, rapporterar Aftonbladet",
-      "pubDate": "2026-10-08T11:07:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD"
-      ]
-    },
-    {
-      "title": "SSU: Vänsterpartiet pausar hela det politiska landskapet",
-      "link": "https://www.sverigesradio.se/artikel/9315601",
-      "description": "SSU:s ordförande Moska Hassas riktar nu kritik mot Vänsterpartiets agerande i de pågående försöken att få till en regering - och tycker att partiet borde tänka om. ”Just nu pausar de hela det politiska landskapet, genom sina ministerkrav. Det tycker jag är synd och det är faktiskt inte förtroendeingivande mot de väljare som har röstat på det rödgröna blocket och det förtroende man har gett”, säger Moska Hassas. På måndag ska Socialdemokraternas partiledare Magdalena Andersson rapportera till talmannen hur det går med försöken att bilda en regering.",
-      "pubDate": "2026-10-08T10:40:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Kommer Centerpartiet släppa sina röda linjer?",
+      "link": "https://www.dagensarena.se/innehall/kommer-centerpartiet-slappa-sina-roda-linjer/",
+      "description": "Veckans avsnitt av Magasinet handlar om Centerpartiets roll i regeringsbildningen. Inlägget Kommer Centerpartiet släppa sina röda linjer? dök först upp på Dagens Arena .",
+      "pubDate": "2026-10-08T15:24:15Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "“Jag organiserade människorna”",
       "link": "https://ledarsidorna.se/jag-organiserade-manniskorna/",
@@ -310,6 +323,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "\"Hemliga” bastumötet med Busch: Dubbla och dunkla signaler från C",
+      "link": "https://pod.space/alskadepolitik/hemliga-bastumotet-med-busch-dubbla-och-dunkla-signaler-fran-c",
+      "description": "På fredagen ska de rödgröna partiledarna träffas för första gången sedan valet. Men vad betyder Thand-Ringqvists bastudejt med KD-ledaren dagen innan?",
+      "pubDate": "2026-10-08T15:03:29Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "KD"
+      ]
+    },
     {
       "title": "321. Då backar Centerpartiet",
       "link": "https://pod.space/politikrummet/321-da-backar-centerpartiet",
@@ -479,16 +504,6 @@
         "M",
         "V"
       ]
-    },
-    {
-      "title": "Inläst: Valet med det lilla extra",
-      "link": "https://pod.space/kvartal/inlast-valet-med-det-lilla-extra",
-      "description": "Det har blivit ett politiskt och medialt tema som plockas fram i tid och otid, så ock denna gång. Men historien lär oss att det så gott som aldrig blir extraval. Det är nästan lika osannolikt som att ett parti åker ur riksdagen. Av Staffan Dopping Inläsare: Staffan Dopping",
-      "pubDate": "2026-09-27T04:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
     }
   ]
 }
