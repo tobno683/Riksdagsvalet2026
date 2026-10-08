@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T07:36:55.830587Z",
+  "updated_at": "2026-10-08T15:00:40.266031Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,35 +79,130 @@
   ],
   "news": [
     {
-      "title": "Jimmie Åkesson: SD gör sig redo för tiden efter Tidö",
-      "link": "https://www.dn.se/sverige/jimmie-akesson-sd-gor-sig-redo-for-tiden-efter-tido/",
-      "description": "Sverigedemokraterna gör sig redo för tiden efter Tidö. Det menar Jimmie Åkesson, som även anklagar samarbetspartierna för att ha tagit åt sig äran för SD:s reformer. ”Bakom regeringskansliets kulisser har Sverigedemokraterna varit motorn i hela samarbetet”, skriver Åkesson på Expressen Debatt.",
-      "pubDate": "2026-10-08T07:11:50Z",
+      "title": "Ministern om Ekots avslöjande: ”Måste gå till botten”",
+      "link": "https://www.sverigesradio.se/artikel/9315563",
+      "description": "Efter Ekots avslöjande om Skatteverkets hantering av amerikanska molntjänster kommer regeringen att kallas till riksdagens skatteutskott. Det står klart efter torsdagens utskottssammanträde. Initiativet togs i går av Socialdemokraterna där Niklas Karlsson (S) beskriver uppgifterna som mycket allvarliga och vill veta vad regeringen visste. Finansminister Elisabeth Svantesson (M) uppger att även hon vill gå till botten med uppgifterna.",
+      "pubDate": "2026-10-08T14:31:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "S kallar Forssell till utskott – hoppas på samarbete om tonårsutvisningarna",
+      "link": "https://www.dn.se/sverige/s-kallar-forssell-till-utskott-hoppas-pa-samarbete-om-tonarsutvisningarna/",
+      "description": "Efter de senaste turerna kring tonårsutvisningarna vill Socialdemokraterna kalla migrationsminister Johan Forssell (M) till socialförsäkringsutskottet. – Vi vill få hans bild av hur frågan om tonårsutvisningar har beretts i Regeringskansliet, säger Ida Karkiainen (S).",
+      "pubDate": "2026-10-08T14:29:35Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "SD"
+        "S"
       ]
     },
     {
-      "title": "Thand Ringqvist (C) om nya möten med V: ”Får se”",
-      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvist-c-om-nya-moten-med-v-far-se/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist bestämde sig för att bjuda in till ett rödgrönt möte efter förra veckans samtal med talmannen. Beroende på hur det går kan det bli fler möten med V och Nooshi Dadgostar, säger hon till SvD. &nbsp; – Vi får se efter fredag hur det blir.&nbsp;",
-      "pubDate": "2026-10-08T05:16:30Z",
+      "title": "Björn Wiman: Valet av Anne Carson är värt att fira med läsk och popcorn",
+      "link": "https://www.dn.se/kultur/bjorn-wiman-valet-av-anne-carson-ar-vart-att-fira-med-lask-och-popcorn/",
+      "description": "Anne Carson är Svenska Akademiens svar på Christopher Nolans film ”The Odyssey”. Hon visar att antikens myter kan göra människans plats i världen tidlös, skriver Björn Wiman.",
+      "pubDate": "2026-10-08T13:52:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Elisabeth Svantesson: Svensk ekonomi går som tåget",
+      "link": "https://www.dn.se/sverige/elisabeth-svantesson-svensk-ekonomi-gar-som-taget/",
+      "description": "Svensk ekonomi går urstarkt och tillväxten ökar mer än väntat i år. Det är beskedet från finansminister Elisabeth Svantesson (M) i en ny prognos. – Det här är glada besked, säger hon.",
+      "pubDate": "2026-10-08T13:49:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Rödgröna kan ändra Sveriges linje mot Israel",
+      "link": "https://www.dn.se/sverige/rodgrona-kan-andra-sveriges-linje-mot-israel/",
+      "description": "De rödgröna partierna kan vara på väg att ändra Sveriges linje mot Israel och kräva att EU fryser handelsavtalet med landet. Det vore inte lämpligt just nu, enligt utrikesminister Maria Malmer Stenergard (M).",
+      "pubDate": "2026-10-08T13:38:44Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "S är rädda för  väljarflykt till V",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/s-ar-radda-for--valjarflykt-till-v/",
+      "description": "För första gången sen valet möts de rödgröna partiledarna – på en kursgård på Lidingö. Är Thand Ringqvist på väg att mjukna? Och vad säger egentligen Socialdemokraterna om att ge ministerposter till Vänsterpartiet? Lyssna på ”Politikrummet”.",
+      "pubDate": "2026-10-08T13:01:30Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
         "V",
         "C"
       ]
     },
     {
-      "title": "Finska modellen testas när Centern bjuder in till möte",
-      "link": "https://www.sverigesradio.se/artikel/9315247",
-      "description": "Imorgon samlas de rödgröna partierna till ett uppmärksammat möte på initiativ av Centerpartiet. Syftet är att tillsammans med externa aktörer försöka hitta samsyn i de stora politiska frågorna, en metod som länge använts i Finland. ”Känns som man hoppat över ett väldigt viktigt steg”, säger Thomas Karv, statsvetare på Mittuniversitetet, om det kommande mötet mellan de rödgröna partierna.",
-      "pubDate": "2026-10-08T03:00:00Z",
+      "title": "Sprickan inför mötet – vägrar diskutera brännande frågan",
+      "link": "https://www.expressen.se/nyheter/politik/sprickan-infor-motet-vagrar-diskutera-brannande-fragan/",
+      "description": "Nära fyra veckor efter valet möts till slut de rödgröna partiledarna. Men redan på förhand är de oense – om vad de ska prata om. – Då får de väl stå och stirra på varandra ett tag, säger statsvetaren Jonas Hinnfors.",
+      "pubDate": "2026-10-08T12:24:38Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "KD-toppen om nya styret med S: ”Synd”",
+      "link": "https://www.expressen.se/nyheter/politik/kd-toppen-om-nya-styret-med-s-synd/",
+      "description": "KD och Liberalerna byter sida i Stockholm – för att ingå i S-lett styre. Enligt Kristdemokraterna går det inte att jämföra med rikspolitiken. – Men det vore ju så&nbsp;klart väldigt välkommet om Centerpartiet hittar hem till borgerligheten, säger KD-toppen Carl-Johan Schiller.",
+      "pubDate": "2026-10-08T12:13:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Busch och Thand Ringqvist i ”bastumöte”",
+      "link": "https://www.expressen.se/nyheter/politik/busch-och-thand-ringqvist-i-bastumote-nm7bg/",
+      "description": "Elisabeth Thand Ringqvist och KD-ledaren Ebba Busch har bastat ihop, rapporterar Aftonbladet. Platsen för mötet var Hellasgården i södra Stockholm. ”Centerpartiet har fört och för samtal med samtliga partier som vi kan tänka oss att sitta i regering med”, skriver C:s presstjänst till Expressen.&nbsp;",
+      "pubDate": "2026-10-08T12:03:18Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "KD"
+      ]
+    },
+    {
+      "title": "Finansminister Elisabeth Svantesson (M) presenterar ekonomisk prognos",
+      "link": "https://www.svt.se/nyheter/inrikes/finansminister-elisabeth-svantesson-m-presenterar-ekonomisk-prognos",
+      "description": "Finansminister Elisabeth Svantesson (M) presenterar en ny prognos för den ekonomiska utvecklingen. Hon håller en pressträff på Rosenbad, som SVT sände. – Nu lämnar vi lågkonjunkturen och går in i ett mer normalt konjunkturläge inför nästa år, säger Elisabeth Svantesson (M).",
+      "pubDate": "2026-10-08T11:44:29Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "SKR i möte med de rödgröna partierna: ”Sluta med riktade bidrag”",
+      "link": "https://www.sverigesradio.se/artikel/9315495",
+      "description": "Centerpartiet samlar de rödgröna partierna till möte i morgon tillsammans med myndigheter och organisationer. Något som kan komma att diskuteras är AI, Ryssland och kommunernas ekonomi. SKR vill se långsiktiga statsbidrag till välfärden, samtidigt som Saco lyfter hur utbildningar måste anpassas till AI och Utrikespolitiska institutet varnar för ett skarpare omvärldsläge. I samtalen tecknas också en bredare bild av hur ekonomin, arbetsmarknaden och Europas säkerhet hänger ihop.",
+      "pubDate": "2026-10-08T11:23:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
@@ -116,151 +211,53 @@
       ]
     },
     {
-      "title": "Ex-ministern: ”En myt att man har stort inflytande i en regering”",
-      "link": "https://www.svt.se/nyheter/inrikes/ex-ministern-en-myt-att-man-har-stort-inflytande-i-en-regering",
-      "description": "Tidigare S-ministern Anders Sundström tror att V skulle få stort genomslag för sin politik som stödparti till en regering. Men idén sågas av Aron Etzler, tidigare partisekreterare för Vänsterpartiet. – Man får tänka efter lite när partiet som själva tycker att regeringsmakten är det viktigaste som finns säger ”men för ert parti är det här ointressant”, säger han i Politikbyrån.",
-      "pubDate": "2026-10-08T02:21:36Z",
+      "title": "Kritik från C-nära organisationer efter partiets mötesdiss",
+      "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-c-nara-organisationer-efter-partiets-motesdiss",
+      "description": "Varken Företagarna, LRF eller Almega är inbjudna till Centerpartiets möte på fredag. Partiledningen vill inte att sammankomsten ska ses som ett ”centermöte” – men de C-nära organisationerna är kritiska. – Det är anmärkningsvärt att man inte bjudit in oss, säger Företagarnas Magnus Demervall.",
+      "pubDate": "2026-10-08T11:18:31Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "C till V: ”Ett jättestort problem kvarstår”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-till-v-ett-jattestort-problem-kvarstar",
-      "description": "Låst läge mellan Centerpartiet och Vänsterpartiet. I onsdagskvällens Aktuellt möttes Martin Ådahl (C) och Ida Gabrielsson (V) för att diskutera partiernas röda linjer och vad som skulle krävas för att komma vidare. – Det är ett jättestort problem som kvarstår, säger Ådahl och syftar på antisemitism inom Vänsterpartiet.",
-      "pubDate": "2026-10-07T20:36:17Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
         "C"
       ]
     },
     {
-      "title": "Samuel Danofsky: Sionism är inte rasism – men antisionism kan vara det",
-      "link": "https://www.dn.se/kultur/samuel-danofsky-sionism-ar-inte-rasism-men-antisionism-kan-vara-det/",
-      "description": "I helgen stämplade det brittiska miljöpartiet sionism som rasism – det senaste exemplet på hur antisionism blivit en accepterad form av antisemitism. Den här formen av judehat måste synliggöras och stoppas, skriver Samuel Danofsky.",
-      "pubDate": "2026-10-07T17:17:23Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Internt tryck inför rödgrönt toppmöte: ”Skarpaste gränsen”",
-      "link": "https://www.svt.se/nyheter/inrikes/internt-tryck-infor-rodgront-toppmote-skarpaste-gransen",
-      "description": "C-ledaren Elisabeth Thand Ringqvst har samlat till rödgrönt toppmöte. Internt finns ett tryck på att hålla fast vid C:s röda linjer – samtidigt som partiet inte vill ge sken av att vara den som sinkar regeringsbildningen. – Det finns en bild av att C har varit problemet, säger en C-källa.",
-      "pubDate": "2026-10-07T16:02:40Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Dags att S klipper banden med V, MP och C",
-      "link": "https://www.dn.se/insandare/dags-att-s-klipper-banden-med-v-mp-och-c/",
-      "description": "INSÄNDARE. Socialdemokraterna hör inte längre ihop med de rödgröna ytterlighetspartierna eller det fanatiska Centerpartiet. S måste orka stå allena eller så småningom gå ihop med andra mer moderata krafter, skriver Päivi Rissanen.",
-      "pubDate": "2026-10-07T15:32:35Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Regeringen ska svara på frågor efter Ekots granskning",
+      "link": "https://www.sverigesradio.se/artikel/9315534",
+      "description": "Under torsdagen avslutade skatteutskottet i riksdagen ett möte där Socialdemokaterna begärde att kalla in finansminister Elisabeth Svantesson (M) för att svara på frågor om Skatteverket och molntjänster. Socialdemokraternas begäran kommer efter Ekots avslöjande om att Skatteverket rundade sina egna dataskyddsombud när man införde amerikanska molntjänster i stor skala, och drev igenom införandet trots en uttrycklig avrådan. ”Det är lite oklart vem som kommer, men någon från regeringen kommer att få svara på frågor om Skatteverket och molntjänsterna”, säger Ekots grävreporter Mikael Grill Pettersson, som gjort granskningen.",
+      "pubDate": "2026-10-08T11:16:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "C"
+        "M"
       ]
     },
     {
-      "title": "Migrationsverket pausar inte tonårsutvisningarna",
-      "link": "https://www.dn.se/sverige/migrationsverket-pausar-inte-tonarsutvisningarna/",
-      "description": "Migrationsverket kommer inte att agera på de rödgrönas utskottsinitiativ om att stoppa tonårsutvisningarna i nuläget. – Vi får fundera på om vi behöver kalla Migrationsverket till utskottet, säger Niels Paarup-Petersen (C).",
-      "pubDate": "2026-10-07T14:41:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Busch och Thand Ringqvist i \"bastumöte\"",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=5c22dddc-3966-45e5-83ab-3eeb49ed0be7",
+      "description": "Partiledarnas hemliga möte avslöjat, rapporterar Aftonbladet",
+      "pubDate": "2026-10-08T11:07:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "C",
+        "KD"
+      ]
     },
     {
-      "title": "Anderssons balansgång: S-väljarna splittrade om V-ministrar",
-      "link": "https://www.dn.se/sverige/anderssons-balansgang-s-valjarna-splittrade-om-v-ministrar/",
-      "description": "Centerväljarna vill gärna att Elisabeth Thand Ringqvist blir ministerkollega med Magdalena Andersson. Det visar en undersökning från DN/Ipsos. Men många socialdemokrater kommer att bli missnöjda om inte Vänsterpartiet också får vara med.",
-      "pubDate": "2026-10-07T14:13:58Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "SSU: Vänsterpartiet pausar hela det politiska landskapet",
+      "link": "https://www.sverigesradio.se/artikel/9315601",
+      "description": "SSU:s ordförande Moska Hassas riktar nu kritik mot Vänsterpartiets agerande i de pågående försöken att få till en regering - och tycker att partiet borde tänka om. ”Just nu pausar de hela det politiska landskapet, genom sina ministerkrav. Det tycker jag är synd och det är faktiskt inte förtroendeingivande mot de väljare som har röstat på det rödgröna blocket och det förtroende man har gett”, säger Moska Hassas. På måndag ska Socialdemokraternas partiledare Magdalena Andersson rapportera till talmannen hur det går med försöken att bilda en regering.",
+      "pubDate": "2026-10-08T10:40:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Svalgoperationer på småbarn får fortsätta på privata kliniker",
-      "link": "https://www.dn.se/sverige/svalgoperationer-pa-smabarn-far-fortsatta-pa-privata-kliniker/",
-      "description": "Svalgoperationer på förskolebarn i Region Stockholm föreslogs flytta till akutsjukhus för att öka patientsäkerheten. Men Centerpartiet har satt stopp för planerna – med hjälp av Sverigedemokraterna.",
-      "pubDate": "2026-10-07T13:05:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Brittiska Green Party och ledaren portas från Israel",
-      "link": "https://www.dn.se/varlden/brittiska-green-party-och-ledaren-portas-fran-israel/",
-      "description": "LONDON. Reaktionerna på det brittiska miljöpartiets beslut att klassa all sionism som rasism har varit kraftfulla. Relationen mellan Storbritannien och Israel blir allt sämre.",
-      "pubDate": "2026-10-07T11:58:43Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Så blir styret i Stockholms stad: ”Historisk majoritet”",
-      "link": "https://www.dn.se/sverige/sa-blir-styret-i-stockholms-stad-historisk-majoritet/",
-      "description": "Miljöpartiet gick framåt i valet medan Socialdemokraterna och Vänsterpartiet backade. Nu står det klart att en rödgrön majoritet fortsätter styra i Stockholms stad. Fördelningen av antalet borgarrådsposter är oförändrad.",
-      "pubDate": "2026-10-07T11:26:51Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "MP"
-      ]
-    },
-    {
-      "title": "Ommöblering i SD: ”Ingenting annat än en petning”",
-      "link": "https://www.svt.se/nyheter/inrikes/ommoblering-i-sd-ingenting-annat-an-en-petning",
-      "description": "Tunga profiler inom Sverigedemokraterna flyttas till nya utskott och en av förflyttningarna kan ses som en regelrätt petning, enligt SVT:s politikreporter Daniel Ingmo. Samtidigt stiger nya, eller snarare nygamla namn, fram för att ta över.",
-      "pubDate": "2026-10-06T21:28:37Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Insändare. M bör släppa fram en rödgrön regering utan V",
-      "link": "https://www.dn.se/insandare/m-bor-slappa-fram-en-rodgron-regering-utan-v/",
-      "description": "INSÄNDARE. Det är dags för mer oortodoxa lösningar för att få slut på regeringsförhandlingarna. Tidöpartierna bör släppa fram en rödgrön regering utan Vänsterpartiet och därmed behålla makten i riksdagen, skriver Bengt Eriksson.",
-      "pubDate": "2026-10-06T17:16:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "V"
       ]
     }
@@ -313,6 +310,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "321. Då backar Centerpartiet",
+      "link": "https://pod.space/politikrummet/321-da-backar-centerpartiet",
+      "description": "För första gången sedan valet möts de rödgröna partiledarna – på en kursgård på Lidingö. Är Thand Ringqvist på väg att mjukna? I studion: Filippa Rogvall, Viktor Barth-Kron, Anette Holmqvist och Max V Karlsson. Producent: Anna Westman Swantesson Ljudklipp från SVT Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-10-08T12:51:43Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "C"
+      ]
+    },
     {
       "title": "Kvartal Idag: Därför förlorade Mohamed Ali bidragen",
       "link": "https://pod.space/kvartal/kvartal-idag-darfor-forlorade-mohamed-ali-bidragen",
@@ -476,16 +485,6 @@
       "link": "https://pod.space/kvartal/inlast-valet-med-det-lilla-extra",
       "description": "Det har blivit ett politiskt och medialt tema som plockas fram i tid och otid, så ock denna gång. Men historien lär oss att det så gott som aldrig blir extraval. Det är nästan lika osannolikt som att ett parti åker ur riksdagen. Av Staffan Dopping Inläsare: Staffan Dopping",
       "pubDate": "2026-09-27T04:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
-    },
-    {
-      "title": "Djupet: Spökhusen i Ställdalen",
-      "link": "https://pod.space/kvartal/djupet-spokhusen-i-stalldalen",
-      "description": "Två veckor efter valet har Djupet åkt till Ljusnarsberg, en av Sveriges kommuner med de allra fattigaste invånarna, där en av tio har skulder hos Kronofogden, där utflyttningen är stor och där de som stannar kvar och jobbar får försörja allt fler äldre. Och där den stora huvudvärken för lokalpolitikerna sedan flera är de rikskända spökhusen i Ställdalen, och att orten blivit känd för så kallad vandaliseringsturism. Vad säger politiker och de som bor här om vad de hoppas på efter valet?",
-      "pubDate": "2026-09-27T04:00:00Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
