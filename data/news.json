@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:24:14.826609Z",
+  "updated_at": "2026-10-08T07:36:55.830587Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,55 @@
   ],
   "news": [
     {
+      "title": "Jimmie Åkesson: SD gör sig redo för tiden efter Tidö",
+      "link": "https://www.dn.se/sverige/jimmie-akesson-sd-gor-sig-redo-for-tiden-efter-tido/",
+      "description": "Sverigedemokraterna gör sig redo för tiden efter Tidö. Det menar Jimmie Åkesson, som även anklagar samarbetspartierna för att ha tagit åt sig äran för SD:s reformer. ”Bakom regeringskansliets kulisser har Sverigedemokraterna varit motorn i hela samarbetet”, skriver Åkesson på Expressen Debatt.",
+      "pubDate": "2026-10-08T07:11:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist (C) om nya möten med V: ”Får se”",
+      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvist-c-om-nya-moten-med-v-far-se/",
+      "description": "C-ledaren Elisabeth Thand Ringqvist bestämde sig för att bjuda in till ett rödgrönt möte efter förra veckans samtal med talmannen. Beroende på hur det går kan det bli fler möten med V och Nooshi Dadgostar, säger hon till SvD. &nbsp; – Vi får se efter fredag hur det blir.&nbsp;",
+      "pubDate": "2026-10-08T05:16:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Finska modellen testas när Centern bjuder in till möte",
+      "link": "https://www.sverigesradio.se/artikel/9315247",
+      "description": "Imorgon samlas de rödgröna partierna till ett uppmärksammat möte på initiativ av Centerpartiet. Syftet är att tillsammans med externa aktörer försöka hitta samsyn i de stora politiska frågorna, en metod som länge använts i Finland. ”Känns som man hoppat över ett väldigt viktigt steg”, säger Thomas Karv, statsvetare på Mittuniversitetet, om det kommande mötet mellan de rödgröna partierna.",
+      "pubDate": "2026-10-08T03:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ex-ministern: ”En myt att man har stort inflytande i en regering”",
+      "link": "https://www.svt.se/nyheter/inrikes/ex-ministern-en-myt-att-man-har-stort-inflytande-i-en-regering",
+      "description": "Tidigare S-ministern Anders Sundström tror att V skulle få stort genomslag för sin politik som stödparti till en regering. Men idén sågas av Aron Etzler, tidigare partisekreterare för Vänsterpartiet. – Man får tänka efter lite när partiet som själva tycker att regeringsmakten är det viktigaste som finns säger ”men för ert parti är det här ointressant”, säger han i Politikbyrån.",
+      "pubDate": "2026-10-08T02:21:36Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "C till V: ”Ett jättestort problem kvarstår”",
       "link": "https://www.svt.se/nyheter/inrikes/c-till-v-ett-jattestort-problem-kvarstar",
       "description": "Låst läge mellan Centerpartiet och Vänsterpartiet. I onsdagskvällens Aktuellt möttes Martin Ådahl (C) och Ida Gabrielsson (V) för att diskutera partiernas röda linjer och vad som skulle krävas för att komma vidare. – Det är ett jättestort problem som kvarstår, säger Ådahl och syftar på antisemitism inom Vänsterpartiet.",
@@ -89,19 +138,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "V-toppen Ida Gabrielssons kritik mot S: ”Sätta lite press”",
-      "link": "https://www.expressen.se/nyheter/politik/v-toppen-ida-gabrielssons-kritik-mot-s-satta-lite-press/",
-      "description": "Socialdemokraterna säger inte vilka partier man vill bilda regering med.&nbsp; Vänsterpartiets vice partiledare Ida Gabrielsson är kritisk.&nbsp; – Jag tror att man behöver sätta lite press, säger hon i ”Aktuellt”.&nbsp;",
-      "pubDate": "2026-10-07T20:24:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     },
     {
@@ -152,18 +188,6 @@
       "topics": []
     },
     {
-      "title": "Bah Kuhnke (MP) om systerpartiets Israelpolitik: ”Fruktansvärd”",
-      "link": "https://www.sverigesradio.se/artikel/9314881",
-      "description": "Miljöpartiets EU-parlamentariker reagerar starkt på beskedet från systerpartiet De Gröna i England och Wales som nu likställer sionism med rasism och förordar en enstatslösning där Israel infogas i Palestina. ”Jag vill verkligen understryka att jag och Miljöpartiet tar fullständigt avstånd från den där resolutionen”, säger EU-parlamentariker Isabella Lövin till Ekot. Frågan lär tas upp när det europeiska gröna partiet EGP har kongress i Warszawa i december.",
-      "pubDate": "2026-10-07T14:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "Anderssons balansgång: S-väljarna splittrade om V-ministrar",
       "link": "https://www.dn.se/sverige/anderssons-balansgang-s-valjarna-splittrade-om-v-ministrar/",
       "description": "Centerväljarna vill gärna att Elisabeth Thand Ringqvist blir ministerkollega med Magdalena Andersson. Det visar en undersökning från DN/Ipsos. Men många socialdemokrater kommer att bli missnöjda om inte Vänsterpartiet också får vara med.",
@@ -203,16 +227,6 @@
       ]
     },
     {
-      "title": "Protesterna i Indien växer – miljontals har inte fått rösta",
-      "link": "https://www.sverigesradio.se/artikel/9314840",
-      "description": "Protesterna växer mot valmyndigheten i Indien efter uppgifter om att nära 130 miljoner namn strukits från vallängderna. Demonstranter kräver att valkommissionens chef avgår. ”En del har lyckats få rätt gentemot Valmyndigheten och satts på listorna igen, andra inte”, säger Ekots Sydasienkorrespondent Naila Saleem.",
-      "pubDate": "2026-10-07T11:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Så blir styret i Stockholms stad: ”Historisk majoritet”",
       "link": "https://www.dn.se/sverige/sa-blir-styret-i-stockholms-stad-historisk-majoritet/",
       "description": "Miljöpartiet gick framåt i valet medan Socialdemokraterna och Vänsterpartiet backade. Nu står det klart att en rödgrön majoritet fortsätter styra i Stockholms stad. Fördelningen av antalet borgarrådsposter är oförändrad.",
@@ -248,18 +262,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Ola Larsmo: Var de svenska utvandrarna flyktingar?",
-      "link": "https://www.dn.se/kultur/ola-larsmo-var-de-svenska-utvandrarna-flyktingar/",
-      "description": "Efter att Fredrik Lindström i ”På spåret” refererat till Karl Oskar och Kristina som ”flyktingar” har det brakat loss i sociala medier. Ola Larsmo reder ut frågan.",
-      "pubDate": "2026-10-06T16:48:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     }
   ],
@@ -308,130 +310,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "BREV 498 – Regeringsmissbildningen.",
-      "link": "https://jensganman.substack.com/p/brev-498-regeringsmissbildningen",
-      "description": "En orgie i idioti / De r&#246;dgr&#246;nas f&#246;rs&#246;k att bilda regering b&#246;r klassas som systemfarlig / V&#228;rldens dyraste ljud / Gl&#246;m aldrig socialdemokraternas syn p&#229; begreppet &#8221;l&#246;fte&#8221; / N&#228;r Hirvonen h&#246;ll med mig /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 496 – Till slut måste Centern välja sin egen avrättningsmetod.",
-      "link": "https://jensganman.substack.com/p/brev-496-till-slut-maste-centern",
-      "description": "Thand Ringqvist har spelat bort sina kort / Han l&#229;ter som Kalle Stropp / SR & SVT borde g&#246;ra en Office Space / Jag blev som i s&#229;ngen &#8221;M&#229;nga barn &#228;r bruna&#8221; / As falls Marseille, so falls Rinkeby / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
-      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
-      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
-      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
-      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 490 – Kartlägg människor efter deras ras.",
-      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
-      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
-      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
-      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 488 – Ett rop på hjälp inifrån SD.",
-      "link": "https://jensganman.substack.com/p/brev-488-ett-rop-pa-hjalp-inifran",
-      "description": "&#196;r Baudin socialdemokraternas svar p&#229; Barney Gumble? / Ku Klux Klan-r&#246;sterna i Orten &#228;r ett faktum vare sig DN vill eller ej / &#196;r Petra Lundh ett geni? / En fl&#228;ngpropp tar sig ton i 100% / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 487 – Obduktion av socialdemokratins valresultat.",
-      "link": "https://jensganman.substack.com/p/brev-487-obduktion-av-socialdemokratins",
-      "description": "&#8230; och SD:s / Hon &#228;r Sveriges mest oansvariga partiledare / Jimmies dundertabbe / Medan Dadgostar sov ruset av sig / Islamisterna beh&#246;ver inte S / S&#229; skulle Allard ha hanterats / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 483 – Rösta på svennehoran.",
-      "link": "https://jensganman.substack.com/p/brev-483-rosta-pa-svennehoran",
-      "description": "Kvartoft serverade Liberalerna 4% p&#229; ett silverfat / De Iran-v&#228;nliga tj&#228;nstem&#228;nnen m&#229;ste bort / S utopiska midsommardr&#246;m / Ebba f&#246;rsa sig i SVT / Bolunds osynliga monokel&#246;ga M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "BREV 482 – Sverige har INTE blivit tystare, Magdalena.",
-      "link": "https://jensganman.substack.com/p/brev-482-sverige-har-inte-blivit",
-      "description": "Gammelmedia st&#229;r med rumpan bar och alla ser det / N&#228;r Expressen kastade skit p&#229; invandrarna i Rinkeby / Fascinerande intervju med monstrets kusin / Mohamsson vinner i l&#228;ngden &#8211; Busch g&#246;r det inte /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "KD",
-        "L"
-      ]
     }
   ],
   "podcasts": [
