@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T19:08:15.395093Z",
+  "updated_at": "2026-10-09T23:21:48.103443Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,19 @@
   ],
   "news": [
     {
+      "title": "Damberg (S): Samtal om budget nästa steg i regeringsfrågan",
+      "link": "https://www.expressen.se/nyheter/politik/damberg-s-samtal-om-budget-nasta-steg-i-regeringsfragan/",
+      "description": "I november ska en ny budget antas.&nbsp; Mikael Damberg (S) menar att budgetsamtal mellan de rödgröna partierna är ett naturligt nästa steg i regeringsbildningen.&nbsp; – Jag ser fram emot att att vi ska förhandla om en ny riktning för Sverige, säger han till Dagens industri. &nbsp;",
+      "pubDate": "2026-10-09T21:05:32Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Statsvetaren om rödgröna mötet: ”Inte rört sig ett dugg”",
       "link": "https://www.expressen.se/nyheter/politik/statsvetaren-om-rodgrona-motet-inte-rort-sig-ett-dugg/",
       "description": "De rödgröna partierna har träffats, men regeringsfrågan diskuterades aldrig. S, V, C och MP verkar exakt lika oense som de var för en månad sedan, bedömer statsvetaren Tommy Möller. – Jag kan inte se att det har rört sig framåt ett dugg, säger han.",
@@ -142,7 +155,7 @@
     {
       "title": "C-ledaren efter mötet: Regeringsfrågan kom inte upp",
       "link": "https://www.sverigesradio.se/artikel/9316856",
-      "description": "Mötet på Lidingö där politiker från de rödgröna partierna och myndigheter träffats under fredagen är över. Centerpartiets partiledare Elisabeth Thand Ringqvist beskriver mötet som ett sätt att få en lägesbild över Sverige just nu. Hon hänvisar frågor om regeringsbildandet till Socialdemokraternas ledare Magdalena Andersson.",
+      "description": "Mötet på Lidingö där politiker från de rödgröna partierna och myndigheter träffats under fredagen är över. Centerpartiets partiledare Elisabeth Thand Ringqvist beskriver mötet som en lägesgenomgång av Sverige just nu. Hon hänvisar frågor om regeringsbildandet till Socialdemokraternas ledare Magdalena Andersson.",
       "pubDate": "2026-10-09T15:28:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -213,16 +226,6 @@
       "topics": []
     },
     {
-      "title": "Partiledarna på plats inför rödgröna mötet",
-      "link": "https://www.expressen.se/nyheter/politik/partiledarna-pa-plats-infor-rodgrona-motet/",
-      "description": "Nu möts de rödgröna partierna. Men regeringsfrågan står inte på dagordningen, trots V:s krav. I stället fick partiledarna sakpolitiska dragningar – och i salen rådde fokus. – Det var väldigt lite mobilscrollande, säger TCO:s ordförande Therese Svanström.",
-      "pubDate": "2026-10-09T10:53:08Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Insändare. Tre nycklar kan dyrka upp låsningen mellan C och V",
       "link": "https://www.dn.se/insandare/tre-nycklar-kan-dyrka-upp-lasningen-mellan-c-och-v/",
       "description": "INSÄNDARE. Om ett regeringsskifte ska bli verklighet måste både Centerpartiet och Vänsterpartiet ge och få. Dessa partier behöver vara stolta över att behöva bita i det sura äpplet av komplexa kompromisser, skriver Rasmus Nertlinge.",
@@ -265,6 +268,18 @@
     }
   ],
   "blogs": [
+    {
+      "title": "FEMYSO i centrum när Europaparlamentet kräver strategi mot islamistisk entrism",
+      "link": "https://ledarsidorna.se/femyso-i-centrum-nar-europaparlamentet-kraver-strategi-mot-islamistisk-entrism/",
+      "description": "Muslimska brödraskapets nätverksorganisation FEMYSO reagerade kraftigt på Europaparlamentets antagna strategi mot islamistisk entrism inom EU. Men även om resolutionen som sådan inte innebär några omedelbara begränsningar så är den antagna texten ett hårt slag mot Brödraskapet. Där bland annat de svenska socialdemokraterna klev fram som allierad med det islamistiska nätverket vid voteringen. Europaparlamentet antog den [&#8230;]",
+      "pubDate": "2026-10-09T22:04:41Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "S efter valet: Tvärnit",
       "link": "https://ledarsidorna.se/s-efter-valet-tvarnit/",
@@ -325,16 +340,6 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "Hur svenska staten byggde det somaliska klan-nätverket",
-      "link": "https://ledarsidorna.se/hur-svenska-staten-byggde-det-somaliska-klan-natverket/",
-      "description": "Debatten om Borlängevalet har handlat om förkryssade valsedlar och ordet klan. Men det material, inte bara medieuppgifter, som finns tillgängligt i främst öppna arkiv och andra källor visar dock något annat. Det visar ett öppet och personligt nätverksbygge mellan Somalias försvars- och säkerhetsledning och två svensksomaliska nätverk. Nätverket byggdes steg för steg med svenska offentliga [&#8230;]",
-      "pubDate": "2026-09-29T01:54:43Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
     }
   ],
   "podcasts": [
