@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T06:53:44.663635Z",
+  "updated_at": "2026-10-09T13:56:08.602218Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,92 +79,33 @@
   ],
   "news": [
     {
-      "title": "V-raseriet mot valet av Högberga: ”Tragiskt”",
-      "link": "https://www.expressen.se/nyheter/politik/v-raseriet-mot-valet-av-hogberga-tragiskt/",
-      "description": "De rödgröna möts på fredag på Högberga gård på Lidingö. Ett ”tragiskt” val av plats, tycker V-toppen Håkan Svenneling. – Väljer man att vara i en av Sveriges rikaste kommuner så tycker jag att det signalerar någonting, säger han.",
-      "pubDate": "2026-10-09T05:49:40Z",
+      "title": "Bildförvirringen: Första rödgröna fotot raderades",
+      "link": "https://www.expressen.se/nyheter/politik/bildforvirringen-forsta-rodgrona-fotot-raderades/",
+      "description": "De rödgröna partiledarna har samlats på Högberga gård, på inbjudan av C. Men det första gemensamma gruppfotot raderades direkt.",
+      "pubDate": "2026-10-09T12:37:02Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
     {
-      "title": "Bygget av Sirius succé höll på att kosta Ola Andersson livet",
-      "link": "https://www.dn.se/sport/bygget-av-sirius-succe-holl-pa-att-kosta-ola-andersson-livet/",
-      "description": "Ola Andersson var huvudperson i att skapa succén som kan bli Sirius första allsvenska guld. Priset han betalade var högt. – Vi brukar säga att det är blåsvarta hjärtan i Sirius. Jag har satsat ett av dem i den här klubben i form av hjärtinfarkten.",
-      "pubDate": "2026-10-09T04:47:39Z",
+      "title": "Rödgröna partiledare i ödesmöte: ”Alla måste ge och ta”",
+      "link": "https://www.dn.se/sverige/rodgrona-partiledare-i-odesmote-alla-maste-ge-och-ta/",
+      "description": "I spöregn och kuling samlas de rödgröna partiernas ledare för första gången sedan valet. På vägen in till fredagens möte välkomnar de Centerpartiets initiativ. – Alla partier måste vara beredda att ge och ta, säger Magdalena Andersson (S).",
+      "pubDate": "2026-10-09T11:46:38Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Johannes Klenell: Tänk om människor i Järva faktiskt oroar sig för hyrorna, jobben och välfärden?",
-      "link": "https://www.dn.se/kultur/johannes-klenell-tank-om-manniskor-i-jarva-faktiskt-oroar-sig-for-hyrorna-jobben-och-valfarden/",
-      "description": "Tidöpartierna lyckas inte locka väljare i Järvaområdet i Stockholm. Vad kan det bero på? Med alla diffusa anklagelser om misstänkt valfusk avslöjar högerrösterna sig själva, skriver Johannes Klenell.",
-      "pubDate": "2026-10-09T04:39:07Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Andersson rasar i förtroende – Kristersson mer populär",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-rasar-i-fortroende-kristersson-mer-popular/",
-      "description": "Förtroendet för Magdalena Andersson störtdyker, visar en ny mätning från TV4/Novus. För första gången någonsin är det nu Ulf Kristersson som toppar förtroendelistan. – Det är ju en radikal förändring, säger Torbjörn Sjöström, vd på Novus.&nbsp; Missa inga politiknyheter - ladda ned Expressens app här &nbsp;",
-      "pubDate": "2026-10-09T04:26:08Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Vänsterpartiets resa mot makten: ”Det är nu eller aldrig”",
-      "link": "https://www.dn.se/sverige/vansterpartiets-resa-mot-makten-det-ar-nu-eller-aldrig/",
-      "description": "Januariavtalets ”förnedringsklausul” var en chock för V. De slog tillbaka genom att fälla Stefan Löfven – och blev övertygade om att det lönar sig att sätta hårt mot hårt. Efter valet 2026 står nästa strid: den om ministerposter. – Det är nu eller aldrig, säger en V-källa.",
-      "pubDate": "2026-10-09T04:14:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Nu vill Åkesson skaffa nya vänner",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/nu-vill-akesson-skaffa-nya-vanner/",
-      "description": "Lite i skuggan av dokusåpan ”Bonde försöker slippa fru”, med Centerpartiet och Ida Gabrielsson (V) i huvudrollerna, har Jimmie Åkesson begått eftervalsanalys.&nbsp;",
-      "pubDate": "2026-10-09T04:03:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
         "C"
       ]
     },
     {
-      "title": "Ny mätning: C-väljare ser hellre regering med V än extraval",
-      "link": "https://www.svt.se/nyheter/inrikes/ny-matning-c-valjare-ser-hellre-regering-med-v-an-extraval",
-      "description": "Centerpartiets väljare ser hellre att partiet ingår i regering med S, MP och V – än att Sverige går till extraval. Det visar en mätning som Indikator Opinion gjort på uppdrag av SVT. – Centerpartiets väljare har i allt större utsträckning börjat placera sig till vänster, säger opinionschefen Per Oleskog Tryggvason.",
-      "pubDate": "2026-10-09T03:58:10Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Lärarkritik mot Centerpartiets rödgröna möte",
-      "link": "https://www.sverigesradio.se/artikel/9315973",
-      "description": "Anna Olskog som är ordförande för Sveriges Lärare är starkt kritisk till att lärarfacket inte är inbjudet till det möte som de rödgröna partierna ska ha på fredagseftermiddagen, på initiativ av Centerpartiet och kallar det för ”orimligt”. ”Skola och utbildning måste komma betydligt högre upp på den rödgröna dagordningen”, säger Anna Olskog. Med på mötet är förutom flera ledande representanter för de rödgröna partierna, också en rad samhällsaktörer, exempelvis arbetsmarknadens parter.",
-      "pubDate": "2026-10-09T01:00:00Z",
+      "title": "Mattsson: ”Man vill inte framstå som den som är omöjlig”",
+      "link": "https://www.sverigesradio.se/artikel/9316520",
+      "description": "På Högberga gård på Lidingö möts nu de rödgröna partierna efter att Centerpartiet bjudit in till samtal. Utöver företrädare från partierna deltar samhällsaktörer, som fack, näringsliv och polis, i vad Centerpartiet kallat en ”gemensam lägesgenomgång”. ”När det gäller den här typen av förhandlingar så handlar det mycket om att man vill inte framstå som den som är omöjlig och omöjliggör allting. I slutändan hotar ett extraval och det är inget parti som vill vara ansvarigt för det” säger Ekots politikreporter Pontus Mattsson som är på plats.",
+      "pubDate": "2026-10-09T11:38:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
@@ -173,88 +114,152 @@
       ]
     },
     {
-      "title": "Håller fast vid röda linjen: ”Centerns väljare ogillar Vänsterpartiet”",
-      "link": "https://www.sverigesradio.se/artikel/9316028",
-      "description": "På fredag träffas de fyra rödgröna partierna efter att Elisabeth Thand Ringqvist (C) bjudit in dem för att försöka komma ifrån den låst situationen i regeringsbildningen. Samtidigt står Centerpartiet fast vid sin röda linje mot Vänsterpartiet. Kravet verkar ha stöd bland de egna väljarna, säger Ekots inrikespolitiske kommentator Fredrik Furtenbach.",
-      "pubDate": "2026-10-08T17:41:00Z",
+      "title": "Chatt: Ställ din fråga om läget i svensk politik",
+      "link": "https://www.svt.se/nyheter/inrikes/chatt-stall-din-fraga-om-laget-i-svensk-politik",
+      "description": "De rödgröna partierna träffas för första gången sedan valet under ordnade former. På Högberga gård ska experter föreläsa för de fyra partierna om läget i landet – blir detta islossningen som kan leda fram till regeringsförhandlingar? Vad undrar om om läget i svensk politik?",
+      "pubDate": "2026-10-09T10:56:35Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Partiledarna på plats inför rödgröna mötet",
+      "link": "https://www.expressen.se/nyheter/politik/partiledarna-pa-plats-infor-rodgrona-motet/",
+      "description": "Nu möts de rödgröna partierna. Men regeringsfrågan står inte på dagordningen, trots V:s krav. I stället fick partiledarna sakpolitiska dragningar – och i salen rådde fokus. – Det var väldigt lite mobilscrollande, säger TCO:s ordförande Therese Svanström.",
+      "pubDate": "2026-10-09T10:53:08Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Thand Ringvqist: Regeringsfrågan inte på dagordningen",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=b7ba6d74-9cbc-448c-959d-c96f2528ae73",
+      "description": "Thand Ringqvist inför rödgröna mötet",
+      "pubDate": "2026-10-09T10:37:21Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Pressen på Andersson: Kalla till möten i helgen",
+      "link": "https://www.expressen.se/nyheter/politik/pressen-pa-andersson-kalla-till-moten-i-helgen/",
+      "description": "Magdalena Anderssons förtroende störtdyker. Internt i Socialdemokraterna tror man att det är den tröga regeringsbildningen som spökar. Samtidigt ökar pressen på S-ledaren att ta fler initiativ för att få ihop sitt lag efter Högbergamötet – redan i helgen. Nu kommenterar Andersson själv opinionsraset.",
+      "pubDate": "2026-10-09T10:03:21Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Tre nycklar kan dyrka upp låsningen mellan C och V",
+      "link": "https://www.dn.se/insandare/tre-nycklar-kan-dyrka-upp-lasningen-mellan-c-och-v/",
+      "description": "INSÄNDARE. Om ett regeringsskifte ska bli verklighet måste både Centerpartiet och Vänsterpartiet ge och få. Dessa partier behöver vara stolta över att behöva bita i det sura äpplet av komplexa kompromisser, skriver Rasmus Nertlinge.",
+      "pubDate": "2026-10-09T09:38:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "V-toppen inför ödesmötet: ”Tough shit – då får man tugga i sig det”",
+      "link": "https://www.dn.se/sverige/v-toppen-infor-odesmotet-tough-shit-da-far-man-tugga-i-sig-det/",
+      "description": "På fredagen möts toppolitiker från de fyra rödgröna partierna för första gången tillsammans. Vänsterpartiets Ida Gabrielsson tror inte Magdalena Andersson (S) klarar en statsministeromröstning efter mötet. – Jag tror inte på någon trollspösituation där det kommer bli helt fantastiskt och så löser allt sig efter fredagen, säger hon.",
+      "pubDate": "2026-10-09T09:36:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Christian Zedigs pappas vädjan till Mette Frederiksen",
+      "link": "https://www.expressen.se/nyheter/sverige/christian-zedigs-pappas-vadjan-till-mette-frederiksen/",
+      "description": "Den svenske polisen Christian Zedig slogs ihjäl i Köpenhamn i somras. Straffet för Nkumba Ludovic Tshiembe blev ett års fängelse. Nu vill Zedigs pappa att Danmarks statsminister ska träffa honom. ”Min Christian ska inte dö förgäves”, skriver han på Facebook.&nbsp;",
+      "pubDate": "2026-10-09T09:25:58Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Gabrielsson bjöd in Ådahl (C) till bastumöte",
+      "link": "https://www.sverigesradio.se/artikel/9316336",
+      "description": "Igår ska Centerpartiets Elisabeth Thand Ringqvist och Kristdemokraternas Ebba Busch ha badat bastu – dagen innan det stora mötet mellan de rödgröna partierna och flera myndigheter på Lidingö. Men enligt &nbsp;Vänsterpartiets vice partiledare Ida Gabrielsson hade även hon redan sedan tidigare bjudit in C-toppen Martin Ådahl till att bada bastu, vilket även Dagens Industri har rapporterat om. ”Så det blev ju lite snott kanske,” säger Gabrielsson till Ekot.",
+      "pubDate": "2026-10-09T08:55:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V",
         "C",
-        "Regeringsbildning"
+        "KD"
       ]
     },
     {
-      "title": "Signalen till partiledarna inför mötet: ”Ge er inte in i det”",
-      "link": "https://www.dn.se/sverige/signalen-till-partiledarna-infor-motet-ge-er-inte-in-i-det/",
-      "description": "På fredag samlas de fyra rödgröna partiledarna för att diskutera vägen framåt. Centerpartiet vill att partierna ska få en bild av läget i Sverige – från särskilt inbjudna gäster. – Var beredd på överraskningar, säger Jakob Hallgren på Utrikespolitiska institutet.",
-      "pubDate": "2026-10-08T17:24:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Gissén: Inget tyder på att C kommer erkänna V",
+      "link": "https://www.sverigesradio.se/artikel/9316284",
+      "description": "I eftermiddag möts de rödgröna partierna på Högberga gård på Lidingö i Stockholm. Mötet sker på initiativ av Centerpartiet som, utöver MP, S och V, även har bjudit in en rad samhällsaktörer till det partiet kallar en ”gemensam lägesgenomgång”. Enligt Ekots inrikespolitiska kommentator Helena Gissén finns det dock inget som pekar på att Centerpartiet är på väg att släppa sin röda linje mot Vänsterpartiet.",
+      "pubDate": "2026-10-09T08:22:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "”Ett extraval vore en mardröm för S”",
+      "link": "https://www.svt.se/nyheter/inrikes/ett-extraval-vore-en-mardrom-for-s",
+      "description": "Centerpartiet räknar kallt med att Socialdemokraterna håller fast vid sin motvilja mot V i regeringen. Lika kallt räknar Vänsterpartiet med att S aldrig kommer låta det gå till ett extraval. Och där har partiet en poäng – Magdalena Andersson (S) kan svårligen möta väljarna med budskapet: ”Förlåt, jag lyckades inte bilda regering, var god rösta igen”.",
+      "pubDate": "2026-10-09T07:27:11Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Experten inför rödgröna partiernas möte: ”Pressen behövs”",
+      "link": "https://www.sverigesradio.se/artikel/9316199",
+      "description": "Mötet i dag där de rödgröna partierna samlas, på initiativ av Centerpartiet, kan bli en möjlighet till omstart. Den bedömningen gör Lars-Johan Åge, professor i förhandling och medling vid högskolan i Gävle. ”Problemet har ju varit de här röda linjerna, som har genomgående som har synt för både allmänheten och media. Jag tror att mötet idag det är ett sätt att luckra upp dem på något sätt”, säger han i en intervju i P1 Morgon. Mötet äger rum i eftermiddag på en konferensgård på Lidingö.",
+      "pubDate": "2026-10-09T07:11:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "C"
       ]
     },
     {
-      "title": "Svenska stjärnan positiv till hjälp att frysa ägg: ”Kan finnas stress”",
-      "link": "https://www.dn.se/sport/svenska-stjarnan-positiv-till-hjalp-att-frysa-agg-kan-finnas-stress/",
-      "description": "Spanska fotbollsförbundet erbjuder sina landslagsspelare möjligheten att frysa in sina ägg. En bra idé för att inte känna stress över den biologiska klockan, tycker svenska mittbacken Amanda Ilestedt. Men forskaren Angelica Lindén Hirschberg höjer ett varningens finger. – Man får inte invaggas i en falsk tro, säger hon.",
-      "pubDate": "2026-10-08T15:02:40Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Ministern om Ekots avslöjande: ”Måste gå till botten”",
-      "link": "https://www.sverigesradio.se/artikel/9315563",
-      "description": "Efter Ekots avslöjande om Skatteverkets hantering av amerikanska molntjänster kommer regeringen att kallas till riksdagens skatteutskott. Det står klart efter torsdagens utskottssammanträde. Initiativet togs i går av Socialdemokraterna där Niklas Karlsson (S) beskriver uppgifterna som mycket allvarliga och vill veta vad regeringen visste. Finansminister Elisabeth Svantesson (M) uppger att även hon vill gå till botten med uppgifterna.",
-      "pubDate": "2026-10-08T14:31:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "S kallar Forssell till utskott – hoppas på samarbete om tonårsutvisningarna",
-      "link": "https://www.dn.se/sverige/s-kallar-forssell-till-utskott-hoppas-pa-samarbete-om-tonarsutvisningarna/",
-      "description": "Efter de senaste turerna kring tonårsutvisningarna vill Socialdemokraterna kalla migrationsminister Johan Forssell (M) till socialförsäkringsutskottet. – Vi vill få hans bild av hur frågan om tonårsutvisningar har beretts i Regeringskansliet, säger Ida Karkiainen (S).",
-      "pubDate": "2026-10-08T14:29:35Z",
+      "title": "Bygget av Sirius succé höll på att kosta Ola Andersson livet",
+      "link": "https://www.dn.se/sport/bygget-av-sirius-succe-holl-pa-att-kosta-ola-andersson-livet/",
+      "description": "Ola Andersson har varit huvudperson i att skapa succén som kan bli Sirius första allsvenska guld. Priset han betalat är högt. – Vi brukar säga att det är blåsvarta hjärtan i Sirius. Jag har satsat ett av dem i den här klubben i form av hjärtinfarkten.",
+      "pubDate": "2026-10-09T04:47:39Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Björn Wiman: Valet av Anne Carson är värt att fira med läsk och popcorn",
-      "link": "https://www.dn.se/kultur/bjorn-wiman-valet-av-anne-carson-ar-vart-att-fira-med-lask-och-popcorn/",
-      "description": "Anne Carson är Svenska Akademiens svar på Christopher Nolans film ”The Odyssey”. Hon visar att antikens myter kan göra människans plats i världen tidlös, skriver Björn Wiman.",
-      "pubDate": "2026-10-08T13:52:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Elisabeth Svantesson: Svensk ekonomi går som tåget",
-      "link": "https://www.dn.se/sverige/elisabeth-svantesson-svensk-ekonomi-gar-som-taget/",
-      "description": "Svensk ekonomi går urstarkt och tillväxten ökar mer än väntat i år. Det är beskedet från finansminister Elisabeth Svantesson (M) i en ny prognos. – Det här är glada besked, säger hon.",
-      "pubDate": "2026-10-08T13:49:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     }
   ],
@@ -332,6 +337,30 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Fredagsintervjun: Det tog tid för Kristersson och Åkesson att förstå varandra",
+      "link": "https://pod.space/kvartal/fredagsintervjun-det-tog-tid-for-kristersson-och-akesson-att-forsta-varandra",
+      "description": "Maggie Strömberg och Torbjörn Nilsson intervjuas av Magnus Thorén. Ett historiskt konservativt styre som under åren 2022 fram till i år fick en hel del gjort. Men där misstro, bråk och svåra kriser också på allvar hotade samarbetet. I en ny bok ger de politiska journalisterna Maggie Strömberg och Torbjörn Nilsson en bild av Tidö-åren som –kanske– skulle kunna fungera som manual för hur Magdalena Andersson ska få ihop sitt spretande lag?",
+      "pubDate": "2026-10-09T10:50:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Rak höger: Därför är Esaiasson förbannad på kollegorna",
+      "link": "https://pod.space/kvartal/rak-hoger-darfor-ar-esaiasson-forbannad-pa-kollegorna",
+      "description": "Hur funkar ett samhälle där våld är en fungerande konfliktlösning? Jag frågar Peter Esaiasson, professor i statsvetenskap vid Göteborgs universitet, om detta. Och om etnisk röstmobilisering och varför vägen till en tryggare förort kan börja vid soprummet. Dessutom pratar vi om varför forskarkollegornas larm om att Tidöregeringen hotar demokratin gör honom förbannad. Esaiasson pekar på ett inslag i svensk politik som får honom att dra motsatt slutsats – och det handlar om vad högern accepterar.",
+      "pubDate": "2026-10-09T07:22:50Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
     {
       "title": "\"Hemliga” bastumötet med Busch: Dubbla och dunkla signaler från C",
       "link": "https://pod.space/alskadepolitik/hemliga-bastumotet-med-busch-dubbla-och-dunkla-signaler-fran-c",
@@ -485,33 +514,6 @@
       "sourceType": "podcast",
       "topics": [
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "318. Hemliga mötet utan V",
-      "link": "https://pod.space/politikrummet/318-hemliga-motet-utan-v",
-      "description": "Magdalena Andersson ger upp sitt försök att bilda regering efter Vänsterpartiets besked att stötta Andreas Norlén. Har S-ledaren en plan? Politikrummet spelar in direkt från riksdagen efter talmansvalet. Medverkande: Filippa Rogvall, Max V Karlsson, Anette Holmqvist och Viktor Barth-Kron. Ljudklipp från SVT. Ansvarig utgivare: Klas Granström, Expressen AB.",
-      "pubDate": "2026-09-28T18:00:58Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Är det öppet krig nu mellan S och V?",
-      "link": "https://pod.space/alskadepolitik/ar-det-oppet-krig-nu-mellan-s-och-v",
-      "description": "V stöder Moderaternas talmanskandidat och Magdalena Andersson lämnar tillbaka sonderingsuppdraget. Varför är det så sårigt mellan Socialdemokraterna och Vänsterpartiet?",
-      "pubDate": "2026-09-28T14:31:00Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M",
-        "V"
       ]
     }
   ]
