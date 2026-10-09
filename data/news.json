@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T20:32:11.125304Z",
+  "updated_at": "2026-10-09T00:45:28.154178Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -199,20 +199,6 @@
       "topics": []
     },
     {
-      "title": "S är rädda för  väljarflykt till V",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/s-ar-radda-for--valjarflykt-till-v/",
-      "description": "För första gången sen valet möts de rödgröna partiledarna – på en kursgård på Lidingö. Är Thand Ringqvist på väg att mjukna? Och vad säger egentligen Socialdemokraterna om att ge ministerposter till Vänsterpartiet? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-10-08T13:01:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Finansminister Elisabeth Svantesson (M) presenterar ekonomisk prognos",
       "link": "https://www.svt.se/nyheter/inrikes/finansminister-elisabeth-svantesson-m-presenterar-ekonomisk-prognos",
       "description": "Finansminister Elisabeth Svantesson (M) presenterar en ny prognos för den ekonomiska utvecklingen. Hon håller en pressträff på Rosenbad, som SVT sände. – Nu lämnar vi lågkonjunkturen och går in i ett mer normalt konjunkturläge inför nästa år, säger Elisabeth Svantesson (M).",
@@ -259,6 +245,19 @@
       "topics": [
         "S",
         "M"
+      ]
+    },
+    {
+      "title": "SSU: Vänsterpartiet pausar hela det politiska landskapet",
+      "link": "https://www.sverigesradio.se/artikel/9315601",
+      "description": "SSU:s ordförande Moska Hassas riktar nu kritik mot Vänsterpartiets agerande i de pågående försöken att få till en regering - och tycker att partiet borde tänka om. ”Just nu pausar de hela det politiska landskapet, genom sina ministerkrav. Det tycker jag är synd och det är faktiskt inte förtroendeingivande mot de väljare som har röstat på det rödgröna blocket och det förtroende man har gett”, säger Moska Hassas. På måndag ska Socialdemokraternas partiledare Magdalena Andersson rapportera till talmannen hur det går med försöken att bilda en regering.",
+      "pubDate": "2026-10-08T10:40:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
       ]
     }
   ],
