@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T13:56:08.602218Z",
+  "updated_at": "2026-10-09T19:08:15.395093Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,95 @@
   ],
   "news": [
     {
+      "title": "Statsvetaren om rödgröna mötet: ”Inte rört sig ett dugg”",
+      "link": "https://www.expressen.se/nyheter/politik/statsvetaren-om-rodgrona-motet-inte-rort-sig-ett-dugg/",
+      "description": "De rödgröna partierna har träffats, men regeringsfrågan diskuterades aldrig. S, V, C och MP verkar exakt lika oense som de var för en månad sedan, bedömer statsvetaren Tommy Möller. – Jag kan inte se att det har rört sig framåt ett dugg, säger han.",
+      "pubDate": "2026-10-09T18:56:26Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Furtenbach: ”Det mesta talar för en omröstning i riksdagen”",
+      "link": "https://www.sverigesradio.se/artikel/9316901",
+      "description": "Mötet mellan de rödgröna partiledarna på fredagen löste inte knutarna mellan partierna, och inget tyder på att en rödgrön regering kommit närmare. Ekots inrikespolitiske kommentator Fredrik Furtenbach säger att Centerpartiet kan ha bjudit in de övriga partierna av taktiska skäl. ”Det mesta talar för att riksdagen snart har en omröstning som Magdalena Andersson (S) inte klarar”, säger han.",
+      "pubDate": "2026-10-09T17:40:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Mohamed Ali (V) kommer närvara i riksdagen på måndag",
+      "link": "https://www.sverigesradio.se/artikel/9316533",
+      "description": "Vänsterpartisten Mohamed Ali kommer att närvara i riksdagen på måndag, säger han till Ekot. Det pågår en polisutredning om misstänkt otillbörligt verkande vid röstning, där ingen hittills delgivits misstanke, men där Mohamed Alis inval berörs. Mohamed Ali säger att han nekar till all inblandning i eventuellt valfusk och att han inte har blivit kontaktad av polisen i den pågående utredningen.",
+      "pubDate": "2026-10-09T17:36:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "”Dödläget består i regeringsfrågan”",
+      "link": "https://www.svt.se/nyheter/inrikes/dodlaget-bestar-i-regeringsfragan",
+      "description": "Mötet på Högberga gård blev ingen murbräcka för att bryta dödläget i regeringsfrågan. Positionerna tycks lika låsta som tidigare. Om talmannen vill ha en statsministeromröstning i riksdagen redan nästa vecka lär S-ledaren Magdalena Andersson bli nedröstad.",
+      "pubDate": "2026-10-09T16:46:49Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Andersson (S): Jag ska reflektera under helgen",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-s-jag-ska-reflektera-under-helgen/",
+      "description": "Ett bra möte.&nbsp; Men inget nytt om regeringsbildningen.&nbsp; – Nu ska jag under helgen reflektera över nästa steg, hur jag ska ta det här vidare, säger Socialdemokraternas ledare Magdalena Andersson.&nbsp; Hon har inte bjudit in partierna till något nytt möte.&nbsp;",
+      "pubDate": "2026-10-09T16:05:57Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C-ledaren efter mötet: Regeringsfrågan kom inte upp",
+      "link": "https://www.sverigesradio.se/artikel/9316856",
+      "description": "Mötet på Lidingö där politiker från de rödgröna partierna och myndigheter träffats under fredagen är över. Centerpartiets partiledare Elisabeth Thand Ringqvist beskriver mötet som ett sätt att få en lägesbild över Sverige just nu. Hon hänvisar frågor om regeringsbildandet till Socialdemokraternas ledare Magdalena Andersson.",
+      "pubDate": "2026-10-09T15:28:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Centerledaren: ”Viktigt att visa att vi kan sitta i samma rum”",
+      "link": "https://www.sverigesradio.se/artikel/9316762",
+      "description": "För första gången sedan valet samlas de rödgröna partierna till ett gemensamt möte, samtidigt som regeringsfrågan fortfarande är låst. Centerpartiet hoppas på ett bättre samtalsklimat, medan Vänsterpartiet vill tala om regeringsbildningen och kräver plats i en regering. På måndag ska Magdalena Andersson (S) lämna besked till talmannen om hon ska fortsätta med sina försök att bilda regering.",
+      "pubDate": "2026-10-09T14:23:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Bildförvirringen: Första rödgröna fotot raderades",
       "link": "https://www.expressen.se/nyheter/politik/bildforvirringen-forsta-rodgrona-fotot-raderades/",
       "description": "De rödgröna partiledarna har samlats på Högberga gård, på inbjudan av C. Men det första gemensamma gruppfotot raderades direkt.",
@@ -89,16 +178,16 @@
       "topics": []
     },
     {
-      "title": "Rödgröna partiledare i ödesmöte: ”Alla måste ge och ta”",
+      "title": "Efter rödgröna mötet – Andersson måste bestämma sig i helgen",
       "link": "https://www.dn.se/sverige/rodgrona-partiledare-i-odesmote-alla-maste-ge-och-ta/",
-      "description": "I spöregn och kuling samlas de rödgröna partiernas ledare för första gången sedan valet. På vägen in till fredagens möte välkomnar de Centerpartiets initiativ. – Alla partier måste vara beredda att ge och ta, säger Magdalena Andersson (S).",
+      "description": "Fyra timmars möte löste inte knutarna i regeringsbildningen, men de rödgröna partiledarna var ändå nöjda med att till slut ha träffats alla fyra. – Nu ska jag under helgen reflektera över nästa steg, säger Magdalena Andersson (S).",
       "pubDate": "2026-10-09T11:46:38Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "C"
+        "Regeringsbildning"
       ]
     },
     {
@@ -134,31 +223,6 @@
       "topics": []
     },
     {
-      "title": "Thand Ringvqist: Regeringsfrågan inte på dagordningen",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=b7ba6d74-9cbc-448c-959d-c96f2528ae73",
-      "description": "Thand Ringqvist inför rödgröna mötet",
-      "pubDate": "2026-10-09T10:37:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Pressen på Andersson: Kalla till möten i helgen",
-      "link": "https://www.expressen.se/nyheter/politik/pressen-pa-andersson-kalla-till-moten-i-helgen/",
-      "description": "Magdalena Anderssons förtroende störtdyker. Internt i Socialdemokraterna tror man att det är den tröga regeringsbildningen som spökar. Samtidigt ökar pressen på S-ledaren att ta fler initiativ för att få ihop sitt lag efter Högbergamötet – redan i helgen. Nu kommenterar Andersson själv opinionsraset.",
-      "pubDate": "2026-10-09T10:03:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Insändare. Tre nycklar kan dyrka upp låsningen mellan C och V",
       "link": "https://www.dn.se/insandare/tre-nycklar-kan-dyrka-upp-lasningen-mellan-c-och-v/",
       "description": "INSÄNDARE. Om ett regeringsskifte ska bli verklighet måste både Centerpartiet och Vänsterpartiet ge och få. Dessa partier behöver vara stolta över att behöva bita i det sura äpplet av komplexa kompromisser, skriver Rasmus Nertlinge.",
@@ -186,45 +250,6 @@
       ]
     },
     {
-      "title": "Christian Zedigs pappas vädjan till Mette Frederiksen",
-      "link": "https://www.expressen.se/nyheter/sverige/christian-zedigs-pappas-vadjan-till-mette-frederiksen/",
-      "description": "Den svenske polisen Christian Zedig slogs ihjäl i Köpenhamn i somras. Straffet för Nkumba Ludovic Tshiembe blev ett års fängelse. Nu vill Zedigs pappa att Danmarks statsminister ska träffa honom. ”Min Christian ska inte dö förgäves”, skriver han på Facebook.&nbsp;",
-      "pubDate": "2026-10-09T09:25:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Gabrielsson bjöd in Ådahl (C) till bastumöte",
-      "link": "https://www.sverigesradio.se/artikel/9316336",
-      "description": "Igår ska Centerpartiets Elisabeth Thand Ringqvist och Kristdemokraternas Ebba Busch ha badat bastu – dagen innan det stora mötet mellan de rödgröna partierna och flera myndigheter på Lidingö. Men enligt &nbsp;Vänsterpartiets vice partiledare Ida Gabrielsson hade även hon redan sedan tidigare bjudit in C-toppen Martin Ådahl till att bada bastu, vilket även Dagens Industri har rapporterat om. ”Så det blev ju lite snott kanske,” säger Gabrielsson till Ekot.",
-      "pubDate": "2026-10-09T08:55:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "KD"
-      ]
-    },
-    {
-      "title": "Gissén: Inget tyder på att C kommer erkänna V",
-      "link": "https://www.sverigesradio.se/artikel/9316284",
-      "description": "I eftermiddag möts de rödgröna partierna på Högberga gård på Lidingö i Stockholm. Mötet sker på initiativ av Centerpartiet som, utöver MP, S och V, även har bjudit in en rad samhällsaktörer till det partiet kallar en ”gemensam lägesgenomgång”. Enligt Ekots inrikespolitiska kommentator Helena Gissén finns det dock inget som pekar på att Centerpartiet är på väg att släppa sin röda linje mot Vänsterpartiet.",
-      "pubDate": "2026-10-09T08:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "”Ett extraval vore en mardröm för S”",
       "link": "https://www.svt.se/nyheter/inrikes/ett-extraval-vore-en-mardrom-for-s",
       "description": "Centerpartiet räknar kallt med att Socialdemokraterna håller fast vid sin motvilja mot V i regeringen. Lika kallt räknar Vänsterpartiet med att S aldrig kommer låta det gå till ett extraval. Och där har partiet en poäng – Magdalena Andersson (S) kan svårligen möta väljarna med budskapet: ”Förlåt, jag lyckades inte bilda regering, var god rösta igen”.",
@@ -236,30 +261,6 @@
         "S",
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Experten inför rödgröna partiernas möte: ”Pressen behövs”",
-      "link": "https://www.sverigesradio.se/artikel/9316199",
-      "description": "Mötet i dag där de rödgröna partierna samlas, på initiativ av Centerpartiet, kan bli en möjlighet till omstart. Den bedömningen gör Lars-Johan Åge, professor i förhandling och medling vid högskolan i Gävle. ”Problemet har ju varit de här röda linjerna, som har genomgående som har synt för både allmänheten och media. Jag tror att mötet idag det är ett sätt att luckra upp dem på något sätt”, säger han i en intervju i P1 Morgon. Mötet äger rum i eftermiddag på en konferensgård på Lidingö.",
-      "pubDate": "2026-10-09T07:11:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bygget av Sirius succé höll på att kosta Ola Andersson livet",
-      "link": "https://www.dn.se/sport/bygget-av-sirius-succe-holl-pa-att-kosta-ola-andersson-livet/",
-      "description": "Ola Andersson har varit huvudperson i att skapa succén som kan bli Sirius första allsvenska guld. Priset han betalat är högt. – Vi brukar säga att det är blåsvarta hjärtan i Sirius. Jag har satsat ett av dem i den här klubben i form av hjärtinfarkten.",
-      "pubDate": "2026-10-09T04:47:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     }
   ],
