@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T23:21:48.103443Z",
+  "updated_at": "2026-10-10T02:28:27.578949Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "SD:s partisekreterare: ”Slöjförbudet missade målet”",
+      "link": "https://www.sverigesradio.se/artikel/9316705",
+      "description": "”Det är min personliga uppfattning att det missar i huvudsak målet med de lägsta åldrarna, med barn som inte får välja själva”, säger Mattias Bäckström Johansson i Ekots lördagsintervju . Sverigedemokraterna backade mest av alla partier i riksdagsvalet. Efter fyra år i Tidösamarbetet ska partiet fokusera på att ta fram ny politik, bland annat på välfärdsområdet, som skola och omsorg. ”Vi har en stor potential att kunna bygga förtroende i vissa av dem”, säger säger Bäckström Johansson.",
+      "pubDate": "2026-10-10T02:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Damberg (S): Samtal om budget nästa steg i regeringsfrågan",
       "link": "https://www.expressen.se/nyheter/politik/damberg-s-samtal-om-budget-nasta-steg-i-regeringsfragan/",
@@ -181,16 +193,6 @@
       ]
     },
     {
-      "title": "Bildförvirringen: Första rödgröna fotot raderades",
-      "link": "https://www.expressen.se/nyheter/politik/bildforvirringen-forsta-rodgrona-fotot-raderades/",
-      "description": "De rödgröna partiledarna har samlats på Högberga gård, på inbjudan av C. Men det första gemensamma gruppfotot raderades direkt.",
-      "pubDate": "2026-10-09T12:37:02Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Efter rödgröna mötet – Andersson måste bestämma sig i helgen",
       "link": "https://www.dn.se/sverige/rodgrona-partiledare-i-odesmote-alla-maste-ge-och-ta/",
       "description": "Fyra timmars möte löste inte knutarna i regeringsbildningen, men de rödgröna partiledarna var ändå nöjda med att till slut ha träffats alla fyra. – Nu ska jag under helgen reflektera över nästa steg, säger Magdalena Andersson (S).",
@@ -201,18 +203,6 @@
       "topics": [
         "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Mattsson: ”Man vill inte framstå som den som är omöjlig”",
-      "link": "https://www.sverigesradio.se/artikel/9316520",
-      "description": "På Högberga gård på Lidingö möts nu de rödgröna partierna efter att Centerpartiet bjudit in till samtal. Utöver företrädare från partierna deltar samhällsaktörer, som fack, näringsliv och polis, i vad Centerpartiet kallat en ”gemensam lägesgenomgång”. ”När det gäller den här typen av förhandlingar så handlar det mycket om att man vill inte framstå som den som är omöjlig och omöjliggör allting. I slutändan hotar ett extraval och det är inget parti som vill vara ansvarigt för det” säger Ekots politikreporter Pontus Mattsson som är på plats.",
-      "pubDate": "2026-10-09T11:38:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     },
     {
@@ -264,6 +254,18 @@
         "S",
         "V",
         "C"
+      ]
+    },
+    {
+      "title": "Bygget av Sirius succé höll på att kosta Ola Andersson livet",
+      "link": "https://www.dn.se/sport/bygget-av-sirius-succe-holl-pa-att-kosta-ola-andersson-livet/",
+      "description": "Ola Andersson har varit huvudperson i att skapa succén som kan bli Sirius första allsvenska guld. Priset han betalat är högt. – Vi brukar säga att det är blåsvarta hjärtan i Sirius. Jag har satsat ett av dem i den här klubben i form av hjärtinfarkten.",
+      "pubDate": "2026-10-09T04:47:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     }
   ],
