@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T14:52:58.001343Z",
+  "updated_at": "2026-10-10T19:00:38.005608Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,32 @@
   ],
   "news": [
     {
+      "title": "Ida Gabrielsson (V) svingar mot Centerpartiet",
+      "link": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-v-svingar-mot-centerpartiet/",
+      "description": "Vänsterpartiets vice partiledare Ida Gabrielsson svingar mot Centerpartiet igen.&nbsp; I ett inlägg på X kritiserar hon idén om en mittenregering.&nbsp; ”Låt Thand Ringqvist sondera och när hon inte hittar mitten, kanske det är möjligt för C att välja sida”.&nbsp;",
+      "pubDate": "2026-10-10T17:29:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "SD-toppen: Tidösamarbetet en förklaring till partiets tapp",
+      "link": "https://www.sverigesradio.se/artikel/9317102",
+      "description": "En förklaring till att Sverigedemokraterna backade i årets val och förlorade väljare till Moderaterna, är den gångna mandatperiodens regeringssamarbete. Det säger Mattias Bäckström Johansson, Sverigedemokraternas partisekreterare, i Ekots lördagsintervju. ”Man förlorar lite av sin identitet om man har den här typen av samverkan”, säger Mattias Bäckström Johansson.",
+      "pubDate": "2026-10-10T15:20:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
+    {
       "title": "Kristersson: ”Beklagar” USA:s avtal med Ryssland",
       "link": "https://www.expressen.se/nyheter/sverige/kristersson-beklagar-usas-avtal-med-ryssland/",
       "description": "Statsminister Ulf Kristersson (M) kommenterar beskedet att Donald Trump och Vladimir Putin ingått ett avtal om att Ryssland ska leverera rysk diesel till USA.&nbsp; ”Vi beklagar USA:s överenskommelse”, skriver han på X.&nbsp;",
@@ -104,16 +130,6 @@
       ]
     },
     {
-      "title": "Massprotester och växande samhällskritik i Indien",
-      "link": "https://www.sverigesradio.se/artikel/9316909",
-      "description": "Abhijeet Dipke, grundaren av proteströrelsen Kackerlackspartiet, har frihetsberövats av indisk polis inför den massdemonstration som ska genomföras i New Delhi på lördagen, uppger partiet själva enligt Reuters. Det är det ungdomsdrivna Kackerlackspartiet som uppmanat människor att sluta upp och kräva att valmyndighetens chef avgår.&nbsp;Han anses ligga bakom att 130 miljoner människor strukits från vallängderna. Men det är inte bara bland unga som missnöjet växer över samhällets brister och landet kokar. ”För tystades människor på olika sätt men nu är vi inte lika rädda längre”, säger Gaurav Sen.",
-      "pubDate": "2026-10-10T05:56:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "SD-toppen: Slöjförbudet kostade oss unga väljare",
       "link": "https://www.svt.se/nyheter/inrikes/sd-toppen-slojforbudet-kostade-oss-unga-valjare",
       "description": "SD-toppen Tobias Andersson petades från sitt tunga uppdrag i riksdagen i veckan. Nu riktar han kritik mot partiets valstrategi – och pekar särskilt ut ett förslag som orsaken till att Sverigedemokraterna tappade unga väljare i valet. – Utspelet om slöjförbud saknade nyans, förklaring och argumentationsunderlag, säger han.",
@@ -124,55 +140,6 @@
       "topics": [
         "S",
         "SD"
-      ]
-    },
-    {
-      "title": "Amanda Sokolnicki: Spelet mot Centern avslöjar högerns dubbelmoral",
-      "link": "https://www.dn.se/ledare/amanda-sokolnicki-spelet-mot-centern-avslojar-hogerns-dubbelmoral/",
-      "description": "Plötsligt hyllar Tidöhögern den tidigare kommunisten – eftersom Centerpartiet förlorar på det. Hur står det egentligen till med principerna?",
-      "pubDate": "2026-10-10T03:09:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "SD:s partisekreterare: ”Slöjförbudet missade målet”",
-      "link": "https://www.sverigesradio.se/artikel/9316705",
-      "description": "”Det är min personliga uppfattning att det missar i huvudsak målet med de lägsta åldrarna, med barn som inte får välja själva”, säger Mattias Bäckström Johansson i Ekots lördagsintervju . Sverigedemokraterna backade mest av alla partier i riksdagsvalet. Efter fyra år i Tidösamarbetet ska partiet fokusera på att ta fram ny politik, bland annat på välfärdsområdet, som skola och omsorg. ”Vi har en stor potential att kunna bygga förtroende i vissa av dem”, säger säger Bäckström Johansson.",
-      "pubDate": "2026-10-10T02:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Furtenbach: ”Det mesta talar för en omröstning i riksdagen”",
-      "link": "https://www.sverigesradio.se/artikel/9316901",
-      "description": "Mötet mellan de rödgröna partiledarna på fredagen löste inte knutarna mellan partierna, och inget tyder på att en rödgrön regering kommit närmare. Ekots inrikespolitiske kommentator Fredrik Furtenbach säger att Centerpartiet kan ha bjudit in de övriga partierna av taktiska skäl. ”Det mesta talar för att riksdagen snart har en omröstning som Magdalena Andersson (S) inte klarar”, säger han.",
-      "pubDate": "2026-10-09T17:40:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Mohamed Ali (V) kommer närvara i riksdagen på måndag",
-      "link": "https://www.sverigesradio.se/artikel/9316533",
-      "description": "Vänsterpartisten Mohamed Ali kommer att närvara i riksdagen på måndag, säger han till Ekot. Det pågår en polisutredning om misstänkt otillbörligt verkande vid röstning, där ingen hittills delgivits misstanke, men där Mohamed Alis inval berörs. Mohamed Ali säger att han nekar till all inblandning i eventuellt valfusk och att han inte har blivit kontaktad av polisen i den pågående utredningen.",
-      "pubDate": "2026-10-09T17:36:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -262,6 +229,40 @@
       "sourceType": "news",
       "topics": [
         "S"
+      ]
+    },
+    {
+      "title": "Johannes Klenell: Tänk om människor i Järva faktiskt oroar sig för hyrorna, jobben och välfärden?",
+      "link": "https://www.dn.se/kultur/johannes-klenell-tank-om-manniskor-i-jarva-faktiskt-oroar-sig-for-hyrorna-jobben-och-valfarden/",
+      "description": "Tidöpartierna lyckas inte locka väljare i Järvaområdet i Stockholm. Vad kan det bero på? Med alla diffusa anklagelser om misstänkt valfusk avslöjar högerrösterna sig själva, skriver Johannes Klenell.",
+      "pubDate": "2026-10-09T04:39:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Vänsterpartiets resa mot makten: ”Det är nu eller aldrig”",
+      "link": "https://www.dn.se/sverige/vansterpartiets-resa-mot-makten-det-ar-nu-eller-aldrig/",
+      "description": "Januariavtalets ”förnedringsklausul” var en chock för V. De slog tillbaka genom att fälla Stefan Löfven – och blev övertygade om att det lönar sig att sätta hårt mot hårt. Efter valet 2026 står nästa strid: den om ministerposter. – Det är nu eller aldrig, säger en V-källa.",
+      "pubDate": "2026-10-09T04:14:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ny mätning: C-väljare ser hellre regering med V än extraval",
+      "link": "https://www.svt.se/nyheter/inrikes/ny-matning-c-valjare-ser-hellre-regering-med-v-an-extraval",
+      "description": "Centerpartiets väljare ser hellre att partiet ingår i regering med S, MP och V – än att Sverige går till extraval. Det visar en mätning som Indikator Opinion gjort på uppdrag av SVT. – Centerpartiets väljare har i allt större utsträckning börjat placera sig till vänster, säger opinionschefen Per Oleskog Tryggvason.",
+      "pubDate": "2026-10-09T03:58:10Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
       ]
     }
   ],
