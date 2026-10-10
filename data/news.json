@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T08:46:45.824944Z",
+  "updated_at": "2026-10-10T14:52:58.001343Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,31 @@
   ],
   "news": [
     {
+      "title": "Kristersson: ”Beklagar” USA:s avtal med Ryssland",
+      "link": "https://www.expressen.se/nyheter/sverige/kristersson-beklagar-usas-avtal-med-ryssland/",
+      "description": "Statsminister Ulf Kristersson (M) kommenterar beskedet att Donald Trump och Vladimir Putin ingått ett avtal om att Ryssland ska leverera rysk diesel till USA.&nbsp; ”Vi beklagar USA:s överenskommelse”, skriver han på X.&nbsp;",
+      "pubDate": "2026-10-10T14:27:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Socialdemokraterna vill öppna regemente mot ÖB:s vilja",
+      "link": "https://www.dn.se/sverige/socialdemokraterna-vill-oppna-regemente-mot-obs-vilja/",
+      "description": "KIRUNA. Här är staden där Socialdemokraterna utlovat ett nytt regemente. Men Försvarsmakten varnar för problem med rekryteringen. Till och med hemvärnet tvingas använda sig av ”fly in, fly out”.",
+      "pubDate": "2026-10-10T08:56:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Massprotester och växande samhällskritik i Indien",
       "link": "https://www.sverigesradio.se/artikel/9316909",
       "description": "Abhijeet Dipke, grundaren av proteströrelsen Kackerlackspartiet, har frihetsberövats av indisk polis inför den massdemonstration som ska genomföras i New Delhi på lördagen, uppger partiet själva enligt Reuters. Det är det ungdomsdrivna Kackerlackspartiet som uppmanat människor att sluta upp och kräva att valmyndighetens chef avgår.&nbsp;Han anses ligga bakom att 130 miljoner människor strukits från vallängderna. Men det är inte bara bland unga som missnöjet växer över samhällets brister och landet kokar. ”För tystades människor på olika sätt men nu är vi inte lika rädda längre”, säger Gaurav Sen.",
@@ -87,31 +112,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "SD-topparna dömer ut slöjförbudet: ”Saknade nyans”",
-      "link": "https://www.expressen.se/nyheter/politik/sd-topparna-domer-ut-slojforbudet-saknade-nyans-/",
-      "description": "Sverigedemokraterna gick till val på att helt förbjuda slöja. Det borde man kanske inte ha gjort, enligt SD-topparna Tobias Andersson och Mattias Bäckström Johansson. – Utspelet om slöjförbud saknade nyans, förklaring och argumentationsunderlag, säger Andersson till SVT. &nbsp;",
-      "pubDate": "2026-10-10T05:52:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "SD:s partisekreterare: Mål med slöjförbud missades",
-      "link": "https://www.expressen.se/nyheter/politik/sds-partisekreterare-mal-med-slojforbud-missades/",
-      "description": "Sverigedemokraternas förslag om totalt slöjförbud, som partiet gick till val på, var för långtgående, uppger partisekreteraren Mattias Bäckström Johansson i SR Ekots lördagsintervju .",
-      "pubDate": "2026-10-10T05:12:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
     },
     {
       "title": "SD-toppen: Slöjförbudet kostade oss unga väljare",
@@ -189,34 +189,6 @@
       ]
     },
     {
-      "title": "C-ledaren efter mötet: Regeringsfrågan kom inte upp",
-      "link": "https://www.sverigesradio.se/artikel/9316856",
-      "description": "Mötet på Lidingö där politiker från de rödgröna partierna och myndigheter träffats under fredagen är över. Centerpartiets partiledare Elisabeth Thand Ringqvist beskriver mötet som en lägesgenomgång av Sverige just nu. Hon hänvisar frågor om regeringsbildandet till Socialdemokraternas ledare Magdalena Andersson.",
-      "pubDate": "2026-10-09T15:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Centerledaren: ”Viktigt att visa att vi kan sitta i samma rum”",
-      "link": "https://www.sverigesradio.se/artikel/9316762",
-      "description": "För första gången sedan valet samlas de rödgröna partierna till ett gemensamt möte, samtidigt som regeringsfrågan fortfarande är låst. Centerpartiet hoppas på ett bättre samtalsklimat, medan Vänsterpartiet vill tala om regeringsbildningen och kräver plats i en regering. På måndag ska Magdalena Andersson (S) lämna besked till talmannen om hon ska fortsätta med sina försök att bilda regering.",
-      "pubDate": "2026-10-09T14:23:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Efter rödgröna mötet – Andersson måste bestämma sig i helgen",
       "link": "https://www.dn.se/sverige/rodgrona-partiledare-i-odesmote-alla-maste-ge-och-ta/",
       "description": "Fyra timmars möte löste inte knutarna i regeringsbildningen, men de rödgröna partiledarna var ändå nöjda med att till slut ha träffats alla fyra. – Nu ska jag under helgen reflektera över nästa steg, säger Magdalena Andersson (S).",
@@ -264,6 +236,32 @@
         "S",
         "V",
         "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "”Ett extraval vore en mardröm för S”",
+      "link": "https://www.svt.se/nyheter/inrikes/ett-extraval-vore-en-mardrom-for-s",
+      "description": "Centerpartiet räknar kallt med att Socialdemokraterna håller fast vid sin motvilja mot V i regeringen. Lika kallt räknar Vänsterpartiet med att S aldrig kommer låta det gå till ett extraval. Och där har partiet en poäng – Magdalena Andersson (S) kan svårligen möta väljarna med budskapet: ”Förlåt, jag lyckades inte bilda regering, var god rösta igen”.",
+      "pubDate": "2026-10-09T07:27:11Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Bygget av Sirius succé höll på att kosta Ola Andersson livet",
+      "link": "https://www.dn.se/sport/bygget-av-sirius-succe-holl-pa-att-kosta-ola-andersson-livet/",
+      "description": "Ola Andersson har varit huvudperson i att skapa succén som kan bli Sirius första allsvenska guld. Priset han betalat är högt. – Vi brukar säga att det är blåsvarta hjärtan i Sirius. Jag har satsat ett av dem i den här klubben i form av hjärtinfarkten.",
+      "pubDate": "2026-10-09T04:47:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     }
   ],
