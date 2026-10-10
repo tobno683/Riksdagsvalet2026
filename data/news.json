@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T19:00:38.005608Z",
+  "updated_at": "2026-10-10T22:16:03.313464Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -102,19 +102,6 @@
       "topics": [
         "M",
         "SD"
-      ]
-    },
-    {
-      "title": "Kristersson: ”Beklagar” USA:s avtal med Ryssland",
-      "link": "https://www.expressen.se/nyheter/sverige/kristersson-beklagar-usas-avtal-med-ryssland/",
-      "description": "Statsminister Ulf Kristersson (M) kommenterar beskedet att Donald Trump och Vladimir Putin ingått ett avtal om att Ryssland ska leverera rysk diesel till USA.&nbsp; ”Vi beklagar USA:s överenskommelse”, skriver han på X.&nbsp;",
-      "pubDate": "2026-10-10T14:27:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
       ]
     },
     {
@@ -263,6 +250,18 @@
       "sourceType": "news",
       "topics": [
         "C"
+      ]
+    },
+    {
+      "title": "Finansminister Elisabeth Svantesson (M) presenterar ekonomisk prognos",
+      "link": "https://www.svt.se/nyheter/inrikes/finansminister-elisabeth-svantesson-m-presenterar-ekonomisk-prognos",
+      "description": "Finansminister Elisabeth Svantesson (M) presenterar en ny prognos för den ekonomiska utvecklingen. Hon håller en pressträff på Rosenbad, som SVT sände. – Nu lämnar vi lågkonjunkturen och går in i ett mer normalt konjunkturläge inför nästa år, säger Elisabeth Svantesson (M).",
+      "pubDate": "2026-10-08T11:44:29Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
       ]
     }
   ],
