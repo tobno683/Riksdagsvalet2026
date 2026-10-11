@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T07:23:26.458286Z",
+  "updated_at": "2026-10-11T14:14:12.497597Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,18 @@
   ],
   "news": [
     {
+      "title": "Guide: Nästa steg i regeringsförhandlingarna",
+      "link": "https://www.sverigesradio.se/artikel/9317238",
+      "description": "I fredags samlades de rödgröna partierna på en kursgård på Lidingö utanför Stockholm, tillsammans med bland andra företrädare för fackföreningar, näringsliv och polisen. Socialdemokraternas ledare Magdalena Andersson har sagt att hon ska ta helgen efter mötet och reflektera inför hennes deadline på måndag att rapportera till talmannen om sitt sonderingsuppdrag. ”Ett bra tips nu är att utrusta sig med tålamod för det mesta talar för en väldigt utdragen process”, säger Helena Gissén, Ekots inrikespolitiska kommentator.",
+      "pubDate": "2026-10-11T10:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Tre gripna ledare i Kackerlackspartiet har släppts",
       "link": "https://www.sverigesradio.se/artikel/9317214",
       "description": "Tre ledare i proteströrelsen Kackerlackspartiet som greps i New Delhi i Indien igår har släppts, uppger deras advokat enligt AFP. De greps tillsammans med minst 2 000 andra personer i samband med den manifestation mot landets valmyndighet som proteströrelsen kallat till. Demonstranterna kräver att chefen för valmyndigheten avgår efter uppgifter om att miljontals väljare strukits ur vallängderna.",
@@ -125,19 +137,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "SD-toppen: Tidösamarbetet en förklaring till partiets tapp",
-      "link": "https://www.sverigesradio.se/artikel/9317102",
-      "description": "En förklaring till att Sverigedemokraterna backade i årets val och förlorade väljare till Moderaterna, är den gångna mandatperiodens regeringssamarbete. Det säger Mattias Bäckström Johansson, Sverigedemokraternas partisekreterare, i Ekots lördagsintervju. ”Man förlorar lite av sin identitet om man har den här typen av samverkan”, säger Mattias Bäckström Johansson.",
-      "pubDate": "2026-10-10T15:20:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD"
       ]
     },
     {
@@ -215,20 +214,6 @@
       ]
     },
     {
-      "title": "V-toppen inför ödesmötet: ”Tough shit – då får man tugga i sig det”",
-      "link": "https://www.dn.se/sverige/v-toppen-infor-odesmotet-tough-shit-da-far-man-tugga-i-sig-det/",
-      "description": "På fredagen möts toppolitiker från de fyra rödgröna partierna för första gången tillsammans. Vänsterpartiets Ida Gabrielsson tror inte Magdalena Andersson (S) klarar en statsministeromröstning efter mötet. – Jag tror inte på någon trollspösituation där det kommer bli helt fantastiskt och så löser allt sig efter fredagen, säger hon.",
-      "pubDate": "2026-10-09T09:36:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "”Ett extraval vore en mardröm för S”",
       "link": "https://www.svt.se/nyheter/inrikes/ett-extraval-vore-en-mardrom-for-s",
       "description": "Centerpartiet räknar kallt med att Socialdemokraterna håller fast vid sin motvilja mot V i regeringen. Lika kallt räknar Vänsterpartiet med att S aldrig kommer låta det gå till ett extraval. Och där har partiet en poäng – Magdalena Andersson (S) kan svårligen möta väljarna med budskapet: ”Förlåt, jag lyckades inte bilda regering, var god rösta igen”.",
@@ -243,22 +228,34 @@
       ]
     },
     {
-      "title": "Bygget av Sirius succé höll på att kosta Ola Andersson livet",
-      "link": "https://www.dn.se/sport/bygget-av-sirius-succe-holl-pa-att-kosta-ola-andersson-livet/",
-      "description": "Ola Andersson har varit huvudperson i att skapa succén som kan bli Sirius första allsvenska guld. Priset han betalat är högt. – Vi brukar säga att det är blåsvarta hjärtan i Sirius. Jag har satsat ett av dem i den här klubben i form av hjärtinfarkten.",
-      "pubDate": "2026-10-09T04:47:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Ny mätning: C-väljare ser hellre regering med V än extraval",
       "link": "https://www.svt.se/nyheter/inrikes/ny-matning-c-valjare-ser-hellre-regering-med-v-an-extraval",
       "description": "Centerpartiets väljare ser hellre att partiet ingår i regering med S, MP och V – än att Sverige går till extraval. Det visar en mätning som Indikator Opinion gjort på uppdrag av SVT. – Centerpartiets väljare har i allt större utsträckning börjat placera sig till vänster, säger opinionschefen Per Oleskog Tryggvason.",
       "pubDate": "2026-10-09T03:58:10Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Finansminister Elisabeth Svantesson (M) presenterar ekonomisk prognos",
+      "link": "https://www.svt.se/nyheter/inrikes/finansminister-elisabeth-svantesson-m-presenterar-ekonomisk-prognos",
+      "description": "Finansminister Elisabeth Svantesson (M) presenterar en ny prognos för den ekonomiska utvecklingen. Hon håller en pressträff på Rosenbad, som SVT sände. – Nu lämnar vi lågkonjunkturen och går in i ett mer normalt konjunkturläge inför nästa år, säger Elisabeth Svantesson (M).",
+      "pubDate": "2026-10-08T11:44:29Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Kritik från C-nära organisationer efter partiets mötesdiss",
+      "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-c-nara-organisationer-efter-partiets-motesdiss",
+      "description": "Varken Företagarna, LRF eller Almega är inbjudna till Centerpartiets möte på fredag. Partiledningen vill inte att sammankomsten ska ses som ett ”centermöte” – men de C-nära organisationerna är kritiska. – Det är anmärkningsvärt att man inte bjudit in oss, säger Företagarnas Magnus Demervall.",
+      "pubDate": "2026-10-08T11:18:31Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
