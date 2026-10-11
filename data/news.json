@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T19:02:52.638632Z",
+  "updated_at": "2026-10-11T23:00:05.967376Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "C-toppen Martin Ådahls flört med KD och L: ”Fundera”",
+      "link": "https://www.expressen.se/nyheter/politik/c-toppen-martin-adahls-flort-med-kd-och-l-fundera/",
+      "description": "De rödgröna partierna hade ett lyckat möte i fredags.&nbsp; Men Martin Ådahl (C) öppnar för att KD och L kan vara del av regeringsunderlaget. &nbsp; – Det är många partier som måste fundera på hur de kan bidra till en positiv sakpolitik, säger han i SVT:s ”Agenda”. &nbsp;",
+      "pubDate": "2026-10-11T20:22:02Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Ministern ifrågasätter nya kravet om tonårsutvisningar: ”Oklart”",
       "link": "https://www.sverigesradio.se/artikel/9317310",
@@ -172,20 +184,6 @@
       "topics": [
         "SD",
         "MP"
-      ]
-    },
-    {
-      "title": "Ledare: Dags att låta Vänsterpartiet bekänna färg",
-      "link": "https://www.dn.se/ledare/dags-att-lata-vansterpartiet-bekanna-farg/",
-      "description": "Nästa vecka väntar en första statsministervotering. Ingenting pekar på att Magdalena Andersson kommer att klara den – men det är inte ett skäl att inte försöka.",
-      "pubDate": "2026-10-11T03:47:29Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
       ]
     },
     {
