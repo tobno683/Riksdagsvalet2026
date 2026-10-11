@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T22:16:03.313464Z",
+  "updated_at": "2026-10-11T01:05:16.862357Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Utan ny regering kan stopp på tonårsutvisningar dröja",
+      "link": "https://www.sverigesradio.se/artikel/9317168",
+      "description": "Dom rödgröna partiernas löfte att införa en stopplag mot tonårsutvisningar kan ta lång tid att genomföra, säger socialdemokraternas migrationspolitiska talesperson Ida Karkiainen. Orsaken är att det är svårt för riksdagen att driva en hel lagstiftningsprocess som regeringen normalt hanterar. ”Bland annat genom att bjuda in migrationsminister Johan Forssell till socialförsäkringsutskottet försöker vi nu få till en bred överenskommelse, det hade varit bra för alla som väntar på besked”, säger Karkiainen.",
+      "pubDate": "2026-10-11T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Ida Gabrielsson (V) svingar mot Centerpartiet",
       "link": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-v-svingar-mot-centerpartiet/",
@@ -250,18 +262,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "Finansminister Elisabeth Svantesson (M) presenterar ekonomisk prognos",
-      "link": "https://www.svt.se/nyheter/inrikes/finansminister-elisabeth-svantesson-m-presenterar-ekonomisk-prognos",
-      "description": "Finansminister Elisabeth Svantesson (M) presenterar en ny prognos för den ekonomiska utvecklingen. Hon håller en pressträff på Rosenbad, som SVT sände. – Nu lämnar vi lågkonjunkturen och går in i ett mer normalt konjunkturläge inför nästa år, säger Elisabeth Svantesson (M).",
-      "pubDate": "2026-10-08T11:44:29Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     }
   ],
