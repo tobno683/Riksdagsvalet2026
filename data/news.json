@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T14:14:12.497597Z",
+  "updated_at": "2026-10-11T19:02:52.638632Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,67 @@
     }
   ],
   "news": [
+    {
+      "title": "Ministern ifrågasätter nya kravet om tonårsutvisningar: ”Oklart”",
+      "link": "https://www.sverigesradio.se/artikel/9317310",
+      "description": "Socialdemokraternas migrationspolitiska talesperson Ida Karkiainen vill att migrationsminister Johan Forssell ska hjälpa dem ta fram en stopplag för tonårsutvisningarna. Det skulle påskynda processen, i stället för den krångligare vägen via riksdagsutskottet, enligt Karkiainen.&nbsp; Nu svarar migrationsminister Johan Forssell (M) att han inte kan ta ställning till deras krav förrän de rödgröna förtydligar vad lagen skulle innebära.",
+      "pubDate": "2026-10-11T18:39:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Rockaden inom SD – och bråken som följt",
+      "link": "https://www.expressen.se/nyheter/politik/rockaden-inom-sd--och-braken-som-foljt/",
+      "description": "Efter valet har Åkesson ritat om i SD-toppen. Samtidigt blåser en intern storm om väljartappet. Och om partiets väg framåt.",
+      "pubDate": "2026-10-11T16:48:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Zelenskyj om påstådda vapenvilan: ”Nyheter för mig”",
+      "link": "https://www.sverigesradio.se/artikel/9317314",
+      "description": "Donald Trump säger att Ryssland och Ukraina enats om en energivapenvila, men Ukrainas president Volodymyr Zelenskyj säger att han inte känner till någon sådan uppgörelse. Samtidigt säger Zelenskyj att Ukraina kan acceptera ett avtal om Moskva går med på det. Sveriges Radios Washington-korrespondent Ginna Lindberg kopplar Trumps utspel till både löften om lägre bränslepriser i USA och rollen som möjlig fredsmäklare.",
+      "pubDate": "2026-10-11T16:14:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "S-ledarens möte med talmannen skjuts upp – det händer nu",
+      "link": "https://www.dn.se/sverige/s-ledarens-mote-med-talmannen-skjuts-upp-det-hander-nu/",
+      "description": "Magdalena Andersson (S) möte med talmannen har skjutits upp till tisdag. Då ska hon meddela om hon har ett regeringsunderlag eller inte. Allt tyder på att det är fortsatt låsta positioner och ingen rödgrön regering är på plats. – Min gissning är att det här kommer att ta ett tag, säger statsvetaren Malena Rosén Sundström.",
+      "pubDate": "2026-10-11T16:12:44Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Anderssons besked till talmannen dröjer – blir först på tisdag",
+      "link": "https://www.sverigesradio.se/artikel/9317302",
+      "description": "Det blir först på tisdag som Socialdemokraternas partiledare Magdalena Andersson kommer att rapportera till talmannen. Hon ska då lämna en rapport med anledning av uppdraget att sondera förutsättningarna för att bilda en regering. Mötet äger rum på talmannens kontor kl 11, enligt ett pressmeddelande från riksdagen. När hon fick uppdraget var beskedet att hon skulle lämna rapport senast på måndagen 12 oktober.",
+      "pubDate": "2026-10-11T14:54:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Guide: Nästa steg i regeringsförhandlingarna",
       "link": "https://www.sverigesradio.se/artikel/9317238",
@@ -178,19 +239,6 @@
       ]
     },
     {
-      "title": "Efter rödgröna mötet – Andersson måste bestämma sig i helgen",
-      "link": "https://www.dn.se/sverige/rodgrona-partiledare-i-odesmote-alla-maste-ge-och-ta/",
-      "description": "Fyra timmars möte löste inte knutarna i regeringsbildningen, men de rödgröna partiledarna var ändå nöjda med att till slut ha träffats alla fyra. – Nu ska jag under helgen reflektera över nästa steg, säger Magdalena Andersson (S).",
-      "pubDate": "2026-10-09T11:46:38Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Chatt: Ställ din fråga om läget i svensk politik",
       "link": "https://www.svt.se/nyheter/inrikes/chatt-stall-din-fraga-om-laget-i-svensk-politik",
       "description": "De rödgröna partierna träffas för första gången sedan valet under ordnade former. På Högberga gård ska experter föreläsa för de fyra partierna om läget i landet – blir detta islossningen som kan leda fram till regeringsförhandlingar? Vad undrar om om läget i svensk politik?",
@@ -210,56 +258,6 @@
       "sourceType": "news",
       "topics": [
         "V",
-        "C"
-      ]
-    },
-    {
-      "title": "”Ett extraval vore en mardröm för S”",
-      "link": "https://www.svt.se/nyheter/inrikes/ett-extraval-vore-en-mardrom-for-s",
-      "description": "Centerpartiet räknar kallt med att Socialdemokraterna håller fast vid sin motvilja mot V i regeringen. Lika kallt räknar Vänsterpartiet med att S aldrig kommer låta det gå till ett extraval. Och där har partiet en poäng – Magdalena Andersson (S) kan svårligen möta väljarna med budskapet: ”Förlåt, jag lyckades inte bilda regering, var god rösta igen”.",
-      "pubDate": "2026-10-09T07:27:11Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Ny mätning: C-väljare ser hellre regering med V än extraval",
-      "link": "https://www.svt.se/nyheter/inrikes/ny-matning-c-valjare-ser-hellre-regering-med-v-an-extraval",
-      "description": "Centerpartiets väljare ser hellre att partiet ingår i regering med S, MP och V – än att Sverige går till extraval. Det visar en mätning som Indikator Opinion gjort på uppdrag av SVT. – Centerpartiets väljare har i allt större utsträckning börjat placera sig till vänster, säger opinionschefen Per Oleskog Tryggvason.",
-      "pubDate": "2026-10-09T03:58:10Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Finansminister Elisabeth Svantesson (M) presenterar ekonomisk prognos",
-      "link": "https://www.svt.se/nyheter/inrikes/finansminister-elisabeth-svantesson-m-presenterar-ekonomisk-prognos",
-      "description": "Finansminister Elisabeth Svantesson (M) presenterar en ny prognos för den ekonomiska utvecklingen. Hon håller en pressträff på Rosenbad, som SVT sände. – Nu lämnar vi lågkonjunkturen och går in i ett mer normalt konjunkturläge inför nästa år, säger Elisabeth Svantesson (M).",
-      "pubDate": "2026-10-08T11:44:29Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Kritik från C-nära organisationer efter partiets mötesdiss",
-      "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-c-nara-organisationer-efter-partiets-motesdiss",
-      "description": "Varken Företagarna, LRF eller Almega är inbjudna till Centerpartiets möte på fredag. Partiledningen vill inte att sammankomsten ska ses som ett ”centermöte” – men de C-nära organisationerna är kritiska. – Det är anmärkningsvärt att man inte bjudit in oss, säger Företagarnas Magnus Demervall.",
-      "pubDate": "2026-10-08T11:18:31Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "C"
       ]
     }
