@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T09:29:04.826460Z",
+  "updated_at": "2026-10-12T19:12:55.311116Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,14 +79,126 @@
   ],
   "news": [
     {
-      "title": "Motala säger nej till kärnkraftverk",
-      "link": "https://www.expressen.se/nyheter/sverige/motala-sager-nej-till-karnkraftverk/",
-      "description": "Motalas nya rödgröna styre säger nej till att bygga kärnreaktorer i kommunen, rapporterar P4 Östergötland .",
-      "pubDate": "2026-10-12T05:35:24Z",
+      "title": "Politiker efter granskningen:  ”Strider mot sunt förnuft”",
+      "link": "https://www.expressen.se/nyheter/krim/politiker-efter-granskningen--strider-mot-sunt-fornuft/",
+      "description": "Efter Expressens avslöjanden om sexuella kränkningar och otrygghet på kvinnoanstalten i Ystad vill politiker förhindra att biologiska män sitter tillsammans med kvinnor – oavsett juridiskt kön. – Jag tycker att den här situationen strider mot sunt förnuft, säger Teresa Carvalho, rättspolitisk talesperson för Socialdemokraterna.&nbsp;",
+      "pubDate": "2026-10-12T19:00:51Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "12 oktober: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/sverige/12-oktober-missa-inte-dagens-nyheter/",
+      "description": "Andersson kan fällas i omröstning denna vecka, skådespelaren Pierre Lindstedt är död och svenska elevers betyg oförändrade trots Pisa-raset – här är dagens nyheter.",
+      "pubDate": "2026-10-12T18:59:23Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "Björn efter comebacken: ”Vi har kommit ur situationen”",
+      "link": "https://www.dn.se/sport/bjorn-efter-comebacken-vi-har-kommit-ur-situationen/",
+      "description": "Hon missade hela VM-kvalet i våras och tvingades se Sverige tappa poäng efter poäng. Nu är Nathalie Björn tillbaka på planen. – Det har varit otroligt tufft att inte kunna vara med och påverka, säger mittbacksstjärnan inför playoffreturen mot Litauen.",
+      "pubDate": "2026-10-12T17:04:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "Rasistbråk i SD:  ”På frammarsch”",
+      "link": "https://www.expressen.se/nyheter/politik/rasistbrak-i-sd--pa-frammarsch/",
+      "description": "”Rena rasister” har flyttat fram positionerna i SD, vittnar partikällor. Konflikten om svenskhet har blivit ett infekterat storbråk. – Det Jomshof säger nu har fått folk uteslutna tidigare, säger en person. Andra anklagar partiledningen för att vilja tysta kritiker.",
+      "pubDate": "2026-10-12T16:55:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "V-topp i hemligt brev till MP: ”Det är inte för sent”",
+      "link": "https://www.expressen.se/nyheter/politik/v-topp-i-hemligt-brev-till-mp-det-ar-inte-for-sent/",
+      "description": "Vänsterpartiets toppnamn i region Stockholm tar till ett ovanligt drag för att stoppa planerna på ett högersamarbete. Anna Sehlin (V) sätter press på MP att säga nej –&nbsp;i ett hemligt brev till partiets ledamöter: ”Det är inte för sent. Miljöpartiet i regionen har fortfarande ett val”.",
+      "pubDate": "2026-10-12T16:06:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "MP"
+      ]
+    },
+    {
+      "title": "Mohamed Ali sjukskriver sig efter ledighet",
+      "link": "https://www.sverigesradio.se/artikel/9317966",
+      "description": "Vänsterpartisten Mohamed Ali har sjukskrivit sig från riksdagen, och det är fortfarande oklart hur länge han blir borta. Frånvaron kommer efter två veckor av ledighet i samband med utredningen som pågår i kopplat till att han blev inkryssad i riksdagen. Ali har inte delgivits misstanke om brott. Samtidigt dröjer talmannens besked om ledigheten.",
+      "pubDate": "2026-10-12T15:14:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Efter rödgröna mötet – detta väntar Magdalena Andersson",
+      "link": "https://www.svt.se/nyheter/inrikes/efter-rodgrona-motet-detta-vantar-magdalena-andersson",
+      "description": "Trots att de rödgröna partiledarna hållit ett första gemensamt möte ser det ut att dröja innan Sverige får en ny regering. Här är vad som väntar Magdalena Andersson (S) de kommande dagarna.",
+      "pubDate": "2026-10-12T15:06:15Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "S krisar i historiskt röda Ådalen: ”Vi måste vara mer lyhörda”",
+      "link": "https://www.svt.se/nyheter/inrikes/s-krisar-i-historiskt-roda-adalen-vi-maste-vara-mer-lyhorda",
+      "description": "Socialdemokraterna gjorde ett historiskt dåligt resultat i riksdagsvalet. Nu har väljare börjat överge partiet – till och med i arbetarrörelsens hjärtland, det röda Ådalen.",
+      "pubDate": "2026-10-12T14:49:16Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Andersson kan fällas redan denna vecka",
+      "link": "https://www.dn.se/sverige/andersson-kan-fallas-redan-denna-vecka/",
+      "description": "Mycket pekar mot att Magdalena Andersson fälls i en statsministeromröstning senare i veckan. Den bedömningen gör DN:s källor i de rödgröna partierna. På tisdagen måste S-ledaren ge besked till talmannen om hur det går med regeringsbildningen.",
+      "pubDate": "2026-10-12T14:14:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Magdalena Anderssons problem: C får inte förnedras",
+      "link": "https://www.dn.se/podd/alskade-politik/magdalena-anderssons-problem-c-far-inte-fornedras/",
+      "description": "Sa Elisabeth Thand Ringqvist plötsligt det hon egentligen tänker i en intervju i TV4 – och har S-ledaren kommit någon vart med sonderingarna efter rödgröna Lidingömötet?",
+      "pubDate": "2026-10-12T14:04:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
     },
     {
       "title": "Susanne Nyström: Nooshi Dadgostar kan vara på väg att göra årets största misstag",
@@ -98,30 +210,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Ministern ifrågasätter nya kravet om tonårsutvisningar: ”Oklart”",
-      "link": "https://www.sverigesradio.se/artikel/9317310",
-      "description": "Socialdemokraternas migrationspolitiska talesperson Ida Karkiainen vill att migrationsminister Johan Forssell ska hjälpa dem ta fram en stopplag för tonårsutvisningarna. Det skulle påskynda processen, i stället för den krångligare vägen via riksdagsutskottet, enligt Karkiainen.&nbsp; Nu svarar migrationsminister Johan Forssell (M) att han inte kan ta ställning till deras krav förrän de rödgröna förtydligar vad lagen skulle innebära.",
-      "pubDate": "2026-10-11T18:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Zelenskyj om påstådda vapenvilan: ”Nyheter för mig”",
-      "link": "https://www.sverigesradio.se/artikel/9317314",
-      "description": "Donald Trump säger att Ryssland och Ukraina enats om en energivapenvila, men Ukrainas president Volodymyr Zelenskyj säger att han inte känner till någon sådan uppgörelse. Samtidigt säger Zelenskyj att Ukraina kan acceptera ett avtal om Moskva går med på det. Sveriges Radios Washington-korrespondent Ginna Lindberg kopplar Trumps utspel till både löften om lägre bränslepriser i USA och rollen som möjlig fredsmäklare.",
-      "pubDate": "2026-10-11T16:14:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     },
     {
@@ -151,18 +239,6 @@
       ]
     },
     {
-      "title": "Socialdemokraterna vill öppna regemente mot ÖB:s vilja",
-      "link": "https://www.dn.se/sverige/socialdemokraterna-vill-oppna-regemente-mot-obs-vilja/",
-      "description": "KIRUNA. Här är staden där Socialdemokraterna utlovat ett nytt regemente. Men Försvarsmakten varnar för problem med rekryteringen. Till och med hemvärnet tvingas använda sig av ”fly in, fly out”.",
-      "pubDate": "2026-10-10T08:56:18Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "SD-toppen: Slöjförbudet kostade oss unga väljare",
       "link": "https://www.svt.se/nyheter/inrikes/sd-toppen-slojforbudet-kostade-oss-unga-valjare",
       "description": "SD-toppen Tobias Andersson petades från sitt tunga uppdrag i riksdagen i veckan. Nu riktar han kritik mot partiets valstrategi – och pekar särskilt ut ett förslag som orsaken till att Sverigedemokraterna tappade unga väljare i valet. – Utspelet om slöjförbud saknade nyans, förklaring och argumentationsunderlag, säger han.",
@@ -186,79 +262,6 @@
       "topics": [
         "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Chatt: Ställ din fråga om läget i svensk politik",
-      "link": "https://www.svt.se/nyheter/inrikes/chatt-stall-din-fraga-om-laget-i-svensk-politik",
-      "description": "De rödgröna partierna träffas för första gången sedan valet under ordnade former. På Högberga gård ska experter föreläsa för de fyra partierna om läget i landet – blir detta islossningen som kan leda fram till regeringsförhandlingar? Vad undrar om om läget i svensk politik?",
-      "pubDate": "2026-10-09T10:56:35Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Insändare. Tre nycklar kan dyrka upp låsningen mellan C och V",
-      "link": "https://www.dn.se/insandare/tre-nycklar-kan-dyrka-upp-lasningen-mellan-c-och-v/",
-      "description": "INSÄNDARE. Om ett regeringsskifte ska bli verklighet måste både Centerpartiet och Vänsterpartiet ge och få. Dessa partier behöver vara stolta över att behöva bita i det sura äpplet av komplexa kompromisser, skriver Rasmus Nertlinge.",
-      "pubDate": "2026-10-09T09:38:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "”Ett extraval vore en mardröm för S”",
-      "link": "https://www.svt.se/nyheter/inrikes/ett-extraval-vore-en-mardrom-for-s",
-      "description": "Centerpartiet räknar kallt med att Socialdemokraterna håller fast vid sin motvilja mot V i regeringen. Lika kallt räknar Vänsterpartiet med att S aldrig kommer låta det gå till ett extraval. Och där har partiet en poäng – Magdalena Andersson (S) kan svårligen möta väljarna med budskapet: ”Förlåt, jag lyckades inte bilda regering, var god rösta igen”.",
-      "pubDate": "2026-10-09T07:27:11Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Ny mätning: C-väljare ser hellre regering med V än extraval",
-      "link": "https://www.svt.se/nyheter/inrikes/ny-matning-c-valjare-ser-hellre-regering-med-v-an-extraval",
-      "description": "Centerpartiets väljare ser hellre att partiet ingår i regering med S, MP och V – än att Sverige går till extraval. Det visar en mätning som Indikator Opinion gjort på uppdrag av SVT. – Centerpartiets väljare har i allt större utsträckning börjat placera sig till vänster, säger opinionschefen Per Oleskog Tryggvason.",
-      "pubDate": "2026-10-09T03:58:10Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Finansminister Elisabeth Svantesson (M) presenterar ekonomisk prognos",
-      "link": "https://www.svt.se/nyheter/inrikes/finansminister-elisabeth-svantesson-m-presenterar-ekonomisk-prognos",
-      "description": "Finansminister Elisabeth Svantesson (M) presenterar en ny prognos för den ekonomiska utvecklingen. Hon håller en pressträff på Rosenbad, som SVT sände. – Nu lämnar vi lågkonjunkturen och går in i ett mer normalt konjunkturläge inför nästa år, säger Elisabeth Svantesson (M).",
-      "pubDate": "2026-10-08T11:44:29Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Kritik från C-nära organisationer efter partiets mötesdiss",
-      "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-c-nara-organisationer-efter-partiets-motesdiss",
-      "description": "Varken Företagarna, LRF eller Almega är inbjudna till Centerpartiets möte på fredag. Partiledningen vill inte att sammankomsten ska ses som ett ”centermöte” – men de C-nära organisationerna är kritiska. – Det är anmärkningsvärt att man inte bjudit in oss, säger Företagarnas Magnus Demervall.",
-      "pubDate": "2026-10-08T11:18:31Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     }
   ],
@@ -326,6 +329,32 @@
   ],
   "podcasts": [
     {
+      "title": "Magdalena Anderssons problem: C får inte förnedras",
+      "link": "https://pod.space/alskadepolitik/magdalena-anderssons-problem-c-far-inte-fornedras",
+      "description": "Sa Elisabeth Thand Ringqvist plötsligt det hon egentligen tänker i en intervju i TV4 – och har S-ledaren kommit någon vart med sonderingarna efter rödgröna Lidingömötet?",
+      "pubDate": "2026-10-12T14:04:02Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "322. Storbråk i SD",
+      "link": "https://pod.space/politikrummet/322-storbrak-i-sd",
+      "description": "Magdalena Andersson skjuter upp sin rapport till talmannen. Samtidigt bubblar ett storbråk inom Sverigedemokraterna. I riksdagsstudion: Filippa Rogvall, Max V Karlsson och Viktor Barth-Kron. Producent: Anna Westman Swantesson Ljudklipp från Sveriges Radio Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-10-12T12:19:49Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
       "title": "Inläst: När valvinnaren inte får regera",
       "link": "https://pod.space/kvartal/inlast-nar-valvinnaren-inte-far-regera",
       "description": "Två val i rad har gett Sverige en märklig parlamentarisk paradox. Bakom den finns en grundlagsändring som skulle göra regeringsbildningen tydligare – men den nya ordningen har i stället blivit en fabrik för svaga regeringar med ett svårbedömt mandat, skriver Johan Wennström. Inläsare: Cassandra Alm",
@@ -389,7 +418,7 @@
       "topics": []
     },
     {
-      "title": "\"Hemliga” bastumötet med Busch: Dubbla och dunkla signaler från C",
+      "title": "”Hemliga” bastumötet med Busch: Dubbla och dunkla signaler från C",
       "link": "https://pod.space/alskadepolitik/hemliga-bastumotet-med-busch-dubbla-och-dunkla-signaler-fran-c",
       "description": "På fredagen ska de rödgröna partiledarna träffas för första gången sedan valet. Men vad betyder Thand-Ringqvists bastudejt med KD-ledaren dagen innan?",
       "pubDate": "2026-10-08T15:03:29Z",
@@ -485,28 +514,6 @@
         "S",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Rak höger: Därför väljer de unga Moderaterna",
-      "link": "https://pod.space/kvartal/rak-hoger-darfor-valjer-de-unga-moderaterna",
-      "description": "Tre skolval i rad har Moderaterna blivit största parti. Ändå kretsar debatten om den unga högern kring Andrew Tate, incels och etnonationalism. Muf-ordföranden Douglas Thor möter en generation som passar dåligt in i den bilden. I Rak höger berättar han vad han tror är skälet till att M vinner där SD tappar – och om kravet från unga väljare som fick honom att ta strid mot den egna regeringen.",
-      "pubDate": "2026-10-02T06:59:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "319. Så kan de rödgröna bli sams",
-      "link": "https://pod.space/politikrummet/319-sa-kan-de-rodgrona-bli-sams",
-      "description": "Ingen vill ha sonderingsuppdraget och ingen regering finns i sikte. Men i bakgrunden rör det sig – lite grann. I riksdagsstudion: Filippa Rogvall, Viktor Barth-Kron och Max V Karlsson. Ansvarig utgivare: Karin Olsson, Expressen AB.",
-      "pubDate": "2026-10-01T13:47:43Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
     }
   ]
 }
