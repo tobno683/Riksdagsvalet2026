@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T02:05:52.960506Z",
+  "updated_at": "2026-10-12T09:29:04.826460Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,25 @@
   ],
   "news": [
     {
-      "title": "C-toppen Martin Ådahls flört med KD och L: ”Fundera”",
-      "link": "https://www.expressen.se/nyheter/politik/c-toppen-martin-adahls-flort-med-kd-och-l-fundera/",
-      "description": "De rödgröna partierna hade ett lyckat möte i fredags.&nbsp; Men Martin Ådahl (C) öppnar för att KD och L kan vara del av regeringsunderlaget. &nbsp; – Det är många partier som måste fundera på hur de kan bidra till en positiv sakpolitik, säger han i SVT:s ”Agenda”. &nbsp;",
-      "pubDate": "2026-10-11T20:22:02Z",
+      "title": "Motala säger nej till kärnkraftverk",
+      "link": "https://www.expressen.se/nyheter/sverige/motala-sager-nej-till-karnkraftverk/",
+      "description": "Motalas nya rödgröna styre säger nej till att bygga kärnreaktorer i kommunen, rapporterar P4 Östergötland .",
+      "pubDate": "2026-10-12T05:35:24Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Susanne Nyström: Nooshi Dadgostar kan vara på väg att göra årets största misstag",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-nooshi-dadgostar-kan-vara-pa-vag-att-gora-arets-storsta-misstag/",
+      "description": "Just nu kretsar svensk politik kring en ynka fråga: Vilka tar plats i regeringen? Betydligt färre nämner att det inte alltid är kul eller lätt att sitta i Rosenbad.",
+      "pubDate": "2026-10-12T04:11:55Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
       "topics": [
-        "Regeringsbildning"
+        "V"
       ]
     },
     {
@@ -100,18 +110,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Rockaden inom SD – och bråken som följt",
-      "link": "https://www.expressen.se/nyheter/politik/rockaden-inom-sd--och-braken-som-foljt/",
-      "description": "Efter valet har Åkesson ritat om i SD-toppen. Samtidigt blåser en intern storm om väljartappet. Och om partiets väg framåt.",
-      "pubDate": "2026-10-11T16:48:01Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     },
     {
@@ -137,30 +135,6 @@
       "topics": [
         "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Anderssons besked till talmannen dröjer – blir först på tisdag",
-      "link": "https://www.sverigesradio.se/artikel/9317302",
-      "description": "Det blir först på tisdag som Socialdemokraternas partiledare Magdalena Andersson kommer att rapportera till talmannen. Hon ska då lämna en rapport med anledning av uppdraget att sondera förutsättningarna för att bilda en regering. Mötet äger rum på talmannens kontor kl 11, enligt ett pressmeddelande från riksdagen. När hon fick uppdraget var beskedet att hon skulle lämna rapport senast på måndagen 12 oktober.",
-      "pubDate": "2026-10-11T14:54:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Guide: Nästa steg i regeringsförhandlingarna",
-      "link": "https://www.sverigesradio.se/artikel/9317238",
-      "description": "I fredags samlades de rödgröna partierna på en kursgård på Lidingö utanför Stockholm, tillsammans med bland andra företrädare för fackföreningar, näringsliv och polisen. Socialdemokraternas ledare Magdalena Andersson har sagt att hon ska ta helgen efter mötet och reflektera inför hennes deadline på måndag att rapportera till talmannen om sitt sonderingsuppdrag. ”Ett bra tips nu är att utrusta sig med tålamod för det mesta talar för en väldigt utdragen process”, säger Helena Gissén, Ekots inrikespolitiska kommentator.",
-      "pubDate": "2026-10-11T10:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -262,9 +236,45 @@
       "topics": [
         "C"
       ]
+    },
+    {
+      "title": "Finansminister Elisabeth Svantesson (M) presenterar ekonomisk prognos",
+      "link": "https://www.svt.se/nyheter/inrikes/finansminister-elisabeth-svantesson-m-presenterar-ekonomisk-prognos",
+      "description": "Finansminister Elisabeth Svantesson (M) presenterar en ny prognos för den ekonomiska utvecklingen. Hon håller en pressträff på Rosenbad, som SVT sände. – Nu lämnar vi lågkonjunkturen och går in i ett mer normalt konjunkturläge inför nästa år, säger Elisabeth Svantesson (M).",
+      "pubDate": "2026-10-08T11:44:29Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Kritik från C-nära organisationer efter partiets mötesdiss",
+      "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-c-nara-organisationer-efter-partiets-motesdiss",
+      "description": "Varken Företagarna, LRF eller Almega är inbjudna till Centerpartiets möte på fredag. Partiledningen vill inte att sammankomsten ska ses som ett ”centermöte” – men de C-nära organisationerna är kritiska. – Det är anmärkningsvärt att man inte bjudit in oss, säger Företagarnas Magnus Demervall.",
+      "pubDate": "2026-10-08T11:18:31Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Kremls skuggor över Socialdemokraternas utrikes- och säkerhetspolitik",
+      "link": "https://ledarsidorna.se/kremls-skuggor-over-socialdemokraternas-utrikes-och-sakerhetspolitik/",
+      "description": "I dagens läge, där ett alltmer pressat och samtidigt aggressivt Ryssland upprätthåller tryck genom hybridmedel och minoritetsretorik mot NATO-medlemmarna i Baltikum framstår Socialdemokraternas nedtoning av närområdesfokus som en återgång till en tidigare linje. En positionering som i högre grad sammanfaller med Kremls preferenser än den nuvarande mer NATO-anpassade politiken. I en intervju med POLITICO i [&#8230;]",
+      "pubDate": "2026-10-12T03:25:43Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "FEMYSO i centrum när Europaparlamentet kräver strategi mot islamistisk entrism",
       "link": "https://ledarsidorna.se/femyso-i-centrum-nar-europaparlamentet-kraver-strategi-mot-islamistisk-entrism/",
@@ -288,19 +298,6 @@
       "topics": [
         "S",
         "V"
-      ]
-    },
-    {
-      "title": "Kommer Centerpartiet släppa sina röda linjer?",
-      "link": "https://www.dagensarena.se/innehall/kommer-centerpartiet-slappa-sina-roda-linjer/",
-      "description": "Veckans avsnitt av Magasinet handlar om Centerpartiets roll i regeringsbildningen. Inlägget Kommer Centerpartiet släppa sina röda linjer? dök först upp på Dagens Arena .",
-      "pubDate": "2026-10-08T15:24:15Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C",
-        "Regeringsbildning"
       ]
     },
     {
