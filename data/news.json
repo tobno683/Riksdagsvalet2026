@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T23:00:05.967376Z",
+  "updated_at": "2026-10-12T02:05:52.960506Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -164,16 +164,6 @@
       ]
     },
     {
-      "title": "Tre gripna ledare i Kackerlackspartiet har släppts",
-      "link": "https://www.sverigesradio.se/artikel/9317214",
-      "description": "Tre ledare i proteströrelsen Kackerlackspartiet som greps i New Delhi i Indien igår har släppts, uppger deras advokat enligt AFP. De greps tillsammans med minst 2 000 andra personer i samband med den manifestation mot landets valmyndighet som proteströrelsen kallat till. Demonstranterna kräver att chefen för valmyndigheten avgår efter uppgifter om att miljontals väljare strukits ur vallängderna.",
-      "pubDate": "2026-10-11T07:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Fossil olja i höstsäsongens fleecetröja",
       "link": "https://www.svt.se/nyheter/inrikes/fossil-olja-i-hostsasongens-fleecetroja",
       "description": "Många favoriter i höst- och vintergarderoben, som fleece och fuskpäls, är tillverkade av polyester – ett material som görs av fossil olja. Och trots modeindustrins mål om att minska växthusgasutsläppen ökar användningen av polyesterfibrer. – Textilindustrin borde försöka fokusera på att återvinna sina egna produkter, säger polymerteknikexperten Dan Åkesson.",
@@ -184,18 +174,6 @@
       "topics": [
         "SD",
         "MP"
-      ]
-    },
-    {
-      "title": "Utan ny regering kan stopp av tonårsutvisningar dröja",
-      "link": "https://www.sverigesradio.se/artikel/9317168",
-      "description": "Dom rödgröna partiernas löfte att införa en stopplag mot tonårsutvisningar kan ta lång tid att genomföra, säger socialdemokraternas migrationspolitiska talesperson Ida Karkiainen. Orsaken är att det är svårt för riksdagen att driva en hel lagstiftningsprocess som regeringen normalt hanterar. ”Bland annat genom att bjuda in migrationsminister Johan Forssell till socialförsäkringsutskottet försöker vi nu få till en bred överenskommelse, det hade varit bra för alla som väntar på besked”, säger Karkiainen.",
-      "pubDate": "2026-10-11T01:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -256,6 +234,32 @@
       "sourceType": "news",
       "topics": [
         "V",
+        "C"
+      ]
+    },
+    {
+      "title": "”Ett extraval vore en mardröm för S”",
+      "link": "https://www.svt.se/nyheter/inrikes/ett-extraval-vore-en-mardrom-for-s",
+      "description": "Centerpartiet räknar kallt med att Socialdemokraterna håller fast vid sin motvilja mot V i regeringen. Lika kallt räknar Vänsterpartiet med att S aldrig kommer låta det gå till ett extraval. Och där har partiet en poäng – Magdalena Andersson (S) kan svårligen möta väljarna med budskapet: ”Förlåt, jag lyckades inte bilda regering, var god rösta igen”.",
+      "pubDate": "2026-10-09T07:27:11Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Ny mätning: C-väljare ser hellre regering med V än extraval",
+      "link": "https://www.svt.se/nyheter/inrikes/ny-matning-c-valjare-ser-hellre-regering-med-v-an-extraval",
+      "description": "Centerpartiets väljare ser hellre att partiet ingår i regering med S, MP och V – än att Sverige går till extraval. Det visar en mätning som Indikator Opinion gjort på uppdrag av SVT. – Centerpartiets väljare har i allt större utsträckning börjat placera sig till vänster, säger opinionschefen Per Oleskog Tryggvason.",
+      "pubDate": "2026-10-09T03:58:10Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
         "C"
       ]
     }
