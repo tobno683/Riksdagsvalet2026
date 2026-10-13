@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T01:29:11.563609Z",
+  "updated_at": "2026-10-13T08:04:46.467493Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,25 @@
   ],
   "news": [
     {
-      "title": "Politiker efter granskningen:  ”Strider mot sunt förnuft”",
-      "link": "https://www.expressen.se/nyheter/krim/politiker-efter-granskningen--strider-mot-sunt-fornuft/",
-      "description": "Efter Expressens avslöjanden om sexuella kränkningar och otrygghet på kvinnoanstalten i Ystad vill politiker förhindra att biologiska män sitter tillsammans med kvinnor – oavsett juridiskt kön. – Jag tycker att den här situationen strider mot sunt förnuft, säger Teresa Carvalho, rättspolitisk talesperson för Socialdemokraterna.&nbsp;",
-      "pubDate": "2026-10-12T19:00:51Z",
+      "title": "MP-topp vill se rödgrön budget: Inte Tidös politik",
+      "link": "https://www.expressen.se/nyheter/politik/mp-topp-vill-se-rodgron-budget-inte-tidos-politik/",
+      "description": "SSU kräver ett stopp för röda linjer – och att de rödgröna omgående börjar förhandla. Även MP ser budgeten som en ingång i det låsta läget. –&nbsp;Ingen av oss kan vilja styra på Tidös ekonomiska politik. Den blir dessutom bara verklig med SD:s stöd, säger Janine Alm Ericson, MP:s ekonomiska talesperson.",
+      "pubDate": "2026-10-13T03:59:37Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "\"Är det rimligt att veta så mycket om ett par bröst?\"",
+      "link": "https://www.dn.se/podd/armstrong-sokolnicki/ar-det-rimligt-att-veta-sa-mycket-om-ett-par-brost/",
+      "description": "Är det rimligt att vi vet mer om Sydney Sweeneys bröst än om Danmark? Hur ställer sig Amanda till Café Bambinos anklagelser om att DN:s ledarsida är misogyn? Vad tycker Kirsty att Liberalernas nya namn borde vara? Kirsty och Amanda reder ut i DN:s studio.",
+      "pubDate": "2026-10-13T00:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
       "topics": [
-        "S"
+        "L"
       ]
     },
     {
@@ -112,30 +122,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Rasistbråk i SD:  ”På frammarsch”",
-      "link": "https://www.expressen.se/nyheter/politik/rasistbrak-i-sd--pa-frammarsch/",
-      "description": "”Rena rasister” har flyttat fram positionerna i SD, vittnar partikällor. Konflikten om svenskhet har blivit ett infekterat storbråk. – Det Jomshof säger nu har fått folk uteslutna tidigare, säger en person. Andra anklagar partiledningen för att vilja tysta kritiker.",
-      "pubDate": "2026-10-12T16:55:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Mohamed Ali sjukskriver sig efter ledighet",
-      "link": "https://www.sverigesradio.se/artikel/9317966",
-      "description": "Vänsterpartisten Mohamed Ali har sjukskrivit sig från riksdagen, och det är fortfarande oklart hur länge han blir borta. Frånvaron kommer efter två veckor av ledighet i samband med utredningen som pågår i kopplat till att han blev inkryssad i riksdagen. Ali har inte delgivits misstanke om brott. Samtidigt dröjer talmannens besked om ledigheten.",
-      "pubDate": "2026-10-12T15:14:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     },
     {
       "title": "Efter rödgröna mötet – detta väntar Magdalena Andersson",
@@ -260,6 +246,20 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "”Ett extraval vore en mardröm för S”",
+      "link": "https://www.svt.se/nyheter/inrikes/ett-extraval-vore-en-mardrom-for-s",
+      "description": "Centerpartiet räknar kallt med att Socialdemokraterna håller fast vid sin motvilja mot V i regeringen. Lika kallt räknar Vänsterpartiet med att S aldrig kommer låta det gå till ett extraval. Och där har partiet en poäng – Magdalena Andersson (S) kan svårligen möta väljarna med budskapet: ”Förlåt, jag lyckades inte bilda regering, var god rösta igen”.",
+      "pubDate": "2026-10-09T07:27:11Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
     }
   ],
   "blogs": [
