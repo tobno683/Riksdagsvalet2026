@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T16:09:46.834315Z",
+  "updated_at": "2026-10-13T21:22:52.249414Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,98 @@
   ],
   "news": [
     {
+      "title": "Frida Spång: ”Befolkningen är väldigt uppdelad”",
+      "link": "https://www.sverigesradio.se/artikel/9318898",
+      "description": "En första statsministeromröstning om Magdalena Andersson väntar på torsdag. Men det är fortfarande låst på den rödgröna sidan. Frida Spång tycker att regeringsbildningen har blivit svår att följa och att väljarna lämnas med många frågetecken.",
+      "pubDate": "2026-10-13T20:29:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Henrik Juserius: Kan minska människors förtroende för politiken",
+      "link": "https://www.sverigesradio.se/artikel/9318900",
+      "description": "En första statsministeromröstning om Magdalena Andersson väntar på torsdag. Men det är fortfarande låst på den rödgröna sidan. Henric Juserius tror att en utdragen regeringsbildning kan minska människors förtroende för politiken.",
+      "pubDate": "2026-10-13T20:28:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Jan Hård: ”Håll inte på och dravla runt”",
+      "link": "https://www.sverigesradio.se/artikel/9318893",
+      "description": "En första statsministeromröstning om Magdalena Andersson väntar på torsdag. Men det är fortfarande låst på den rödgröna sidan. Jan Hård är kritisk till att regeringsbildningen drar ut på tiden.",
+      "pubDate": "2026-10-13T20:28:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "13 oktober: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/sverige/13-oktober-missa-inte-dagens-nyheter/",
+      "description": "Riksdagen ska rösta om Magdalena Andersson som statsminister, minst tio saknas i Svarta havet efter attacker utanför Bulgarien och ny svensk kross i VM-playoff – här är dagens nyheter.",
+      "pubDate": "2026-10-13T19:22:51Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Mohamsson och Åkesson  såg Sveriges överkörning",
+      "link": "https://www.expressen.se/nyheter/politik/mohamsson-och-akesson--sag-sveriges-overkorning/",
+      "description": "Jimmie Åkesson (SD) och Simona Mohamsson (L) är öppna med sin fotbollskärlek.&nbsp; I kväll tittade de på när Sveriges damlandslag krossade Litauen.&nbsp;",
+      "pubDate": "2026-10-13T18:38:18Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "Lisa Magnusson: Är det kvinnohat att himla med ögonen åt Nooshi Dadgostar?",
+      "link": "https://www.dn.se/ledare/lisa-magnusson-ar-det-kvinnohat-att-himla-med-ogonen-at-nooshi-dadgostar/",
+      "description": "DN:s ledarsida har en misogyn ton som andas ”sätt på er bh och lite maskara, platta håret, era jävlar”. Det hävdar författaren Tone Schunnesson och Aftonbladets kulturchef, Karin Pettersson.",
+      "pubDate": "2026-10-13T18:13:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Analys: ”Det är dags att kliva upp ur sandlådan”",
+      "link": "https://www.svt.se/nyheter/inrikes/analys-det-ar-dags-att-kliva-upp-ur-sandladan",
+      "description": "Risken är uppenbar att turerna kring regeringsbildningen enbart uppfattas som politisk teater. Ansvaret vilar tungt på S-ledaren Magdalena Andersson, men också på Vänsterpartiet och Centerpartiet, vars oförenliga krav förhindrar en rödgrön regering. En utdragen process i riksdagen under hösten, med statsministeromröstningar som redan på förhand är dömda att misslyckas, leder sannolikt till ett skadat förtroende inte bara för inblandade partier utan även för det politiska systemet i stort.",
+      "pubDate": "2026-10-13T16:59:38Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Insändare. Låt S och MP bilda regering med stöd av V och C",
       "link": "https://www.dn.se/insandare/lat-s-och-mp-bilda-regering-med-stod-av-v-och-c/",
       "description": "INSÄNDARE. Det vore en bättre väg framåt för Vänsterpartiet och Centerpartiet att stå utanför en kommande rödgrön regering. Då kan dessa partiet förhandla budget och riksdagsbeslut i stället för att riskera ett extraval, skriver Bengt Bengtsson.",
@@ -143,30 +235,16 @@
       ]
     },
     {
-      "title": "Liberalerna om S-nobben:  ”Kan träffa Andersson”",
-      "link": "https://www.expressen.se/nyheter/politik/liberalerna-om-s-nobben--kan-traffa-andersson/",
-      "description": "En kalenderkrock hindrade mötet mellan Magdalena Andersson och Simona Mohamsson. Men L-ledaren är öppen för att ses. – Vi kan givetvis träffa henne för att säga att vi kommer att rösta rött om hon vill det, säger Mohamssons pressekreterare.",
-      "pubDate": "2026-10-13T14:25:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Är Anderssons misslyckande Kristerssons chans?",
+      "link": "https://www.dn.se/podd/alskade-politik/ar-anderssons-misslyckande-kristerssons-chans/",
+      "description": "Socialdemokraternas ledare lyckades inte med sonderingsuppdraget. Men ska ändå ställas inför omröstning. Vem tar över sen – blir det Ulf Kristersson? Har vi en regering innan jul? Och vem styr egentligen Sverige under tiden?",
+      "pubDate": "2026-10-13T14:12:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "L"
-      ]
-    },
-    {
-      "title": "Då går Sverige mot ett extraval",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/da-gar-sverige-mot-ett-extraval/",
-      "description": "Alla räknar med att Magdalena Andersson faller i en första statsministeromröstning på torsdag. Hur många till krävs innan vi har en regering?&nbsp; Och har Ebba Busch börjat förbereda sig för extraval? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-10-13T14:18:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "KD",
-        "Regeringsbildning"
+        "M"
       ]
     },
     {
@@ -184,18 +262,6 @@
       ]
     },
     {
-      "title": "KD lämnar förhandlingar om mittenstyre i Stockholm",
-      "link": "https://www.expressen.se/nyheter/politik/kd-lamnar-forhandlingar-om-mittenstyre-i-stockholm-/",
-      "description": "KD och MP lämnar förhandlingarna i Region Stockholm. Därmed spricker S plan om ett nytt mittenstyre. – Det är Socialdemokraternas ansvar att få ihop en koalition, som största parti, säger gruppledaren Carl-Johan Schiller (KD). Nu är tiden knapp till deadline.",
-      "pubDate": "2026-10-13T13:51:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Alla partier överens om stopplag mot tonårsutvisningarna",
       "link": "https://www.sverigesradio.se/artikel/9318574",
       "description": "Alla riksdagspartier ställer sig nu bakom en stopplag för de så kallade ungdomsutvisningarna, efter ett möte i socialförsäkringsutskottet. De rödgröna drev kravet, och Moderaterna säger att de delar bilden av att skötsamma unga drabbas, samtidigt som utskottet nu ska ta fram ett lagförslag. Det ovanliga utskottsbeslutet kan också bli en signal till Migrationsverket om att pausa utvisningarna igen.",
@@ -205,74 +271,6 @@
       "sourceType": "news",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Förödmjukat centerparti större problem för Andersson",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-forodmjukat-centerparti-storre-problem-for-andersson/",
-      "description": "Regeringsbildningen handlar nu om att rädda ansiktet på Centerpartiet. Magdalena Andersson är inte särskilt ledsen över att tvingas gå mot ett nederlag i torsdagens statsministeromröstning, eftersom hon behöver vinna tid för en lösning som Centern kan svälja.",
-      "pubDate": "2026-10-13T12:52:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Gissén: Norlén gav en känga till Liberalerna",
-      "link": "https://www.sverigesradio.se/artikel/9318431",
-      "description": "Riksdagen kommer att rösta om Madalena Andersson (S) i en första statsministeromröstning, meddelar talmannen Andreas Norlén. Det blir en omröstning om Andersson som statsminister för en enpartiregering. ”Norlén gav också en känga till Liberalerna, som inte hade hittat en tid att träffa Magdalena Andersson”, säger Ekots inrikespolitiska kommentator Helena Gissén.",
-      "pubDate": "2026-10-13T10:50:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Andreas Norlén: Blir omröstning om Magdalena Andersson (S) som statsminister",
-      "link": "https://www.svt.se/nyheter/inrikes/andreas-norlen-blir-omrostning-om-magdalena-andersson",
-      "description": "Det blir en omröstning om Magdalena Andersson (S) som statsminister för en socialdemokratisk enpartiregering. Det säger talman Andreas Norlén på en pressträff. – Rimligen innebär det stegvis ökad press på partierna att värdera sina alternativ.",
-      "pubDate": "2026-10-13T10:22:49Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson avslutar försök att bilda regering",
-      "link": "https://www.sverigesradio.se/artikel/9318413",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson ger upp uppdraget att bilda en ny regering. ”Min sammantagna bedömning är att det har skett framsteg men att det i nuläget saknas förutsättningar för att bilda en regering som kan tolereras av riksdagen. Det handlar inte minst om oförenliga ställningstaganden i regeringsfrågan” sa Andersson under pressträff på tisdagen. Riksdagen kommer ändå att rösta om henne i en första statsministeromröstning, meddelar talmannen Andreas Norlén. Det blir omröstning om Andersson som statsminister för en enpartiregering.",
-      "pubDate": "2026-10-13T10:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Gissén: ”Låter inte särskilt intresserad av V i regeringen”",
-      "link": "https://www.sverigesradio.se/artikel/9318373",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson hoppar av uppdraget att bilda en ny regering. Det meddelade hon till talmannen i dag. En motsättning i regeringsfrågan har varit Centerpartiets och Vänsterpartiets röda linjer och Andersson sa under pressträffen att oförenliga ställningstaganden vad gäller regeringsfrågan återstår. ”Hon hoppas att de ska på ett eller annat sätt sudda sina röda linjer. Men det är bara att konstatera att hon själv inte låter särskilt intresserad av att släppa in V i regeringen” säger Ekots politiska kommentator Helena Gissén.",
-      "pubDate": "2026-10-13T10:06:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     }
   ],
