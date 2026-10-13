@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T19:12:55.311116Z",
+  "updated_at": "2026-10-13T01:29:11.563609Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -123,19 +123,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "V-topp i hemligt brev till MP: ”Det är inte för sent”",
-      "link": "https://www.expressen.se/nyheter/politik/v-topp-i-hemligt-brev-till-mp-det-ar-inte-for-sent/",
-      "description": "Vänsterpartiets toppnamn i region Stockholm tar till ett ovanligt drag för att stoppa planerna på ett högersamarbete. Anna Sehlin (V) sätter press på MP att säga nej –&nbsp;i ett hemligt brev till partiets ledamöter: ”Det är inte för sent. Miljöpartiet i regionen har fortfarande ett val”.",
-      "pubDate": "2026-10-12T16:06:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "MP"
       ]
     },
     {
@@ -263,6 +250,16 @@
         "S",
         "Regeringsbildning"
       ]
+    },
+    {
+      "title": "Chatt: Ställ din fråga om läget i svensk politik",
+      "link": "https://www.svt.se/nyheter/inrikes/chatt-stall-din-fraga-om-laget-i-svensk-politik",
+      "description": "De rödgröna partierna träffas för första gången sedan valet under ordnade former. På Högberga gård ska experter föreläsa för de fyra partierna om läget i landet – blir detta islossningen som kan leda fram till regeringsförhandlingar? Vad undrar om om läget i svensk politik?",
+      "pubDate": "2026-10-09T10:56:35Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     }
   ],
   "blogs": [
@@ -312,19 +309,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
       "topics": []
-    },
-    {
-      "title": "Sverige skattebombas tillbaka till förindustriell tid",
-      "link": "https://ledarsidorna.se/sverige-skattebombas-tillbaka-till-forindustriell-tid/",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson har fått återkommande kritik mot sin otydlighet om vad hon vill med Sverige efter valet. En situation som innebär att hon efter valet har stor frihet i vilka vägval hon kan komma att göra. Något som partiets vänsterfalang kommit att utnyttja och i en framtid där Vänsterpartiets ökade inflytande ryckt närmare. [&#8230;]",
-      "pubDate": "2026-10-02T03:19:39Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
-      ]
     }
   ],
   "podcasts": [
