@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T10:22:23.600284Z",
+  "updated_at": "2026-10-14T15:16:45.666136Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,75 @@
   ],
   "news": [
     {
+      "title": "Ulf Kristersson: ”Alla lösningar är helt osannolika”",
+      "link": "https://www.sverigesradio.se/artikel/9319532",
+      "description": "KD-ledaren Ebba Busch sade i en intervju med Ekot att det pågår samtal om möjligheten att få till en mitten-högerregering. Statsminister Ulf Kristersson är förtegen om vad han gör i det här avseendet. ”Jag för samtal som jag tror skulle kunna på något vis vara konstruktiva i något läge, men de samtalen håller jag med de personerna”, säger Ulf Kristersson. Moderatledaren Ulf Kristersson pekar på en ytterst komplicerad regeringsbildning, och säger att alla lösningar är ”helt osannolika”.",
+      "pubDate": "2026-10-14T14:57:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kristersson: Inga förutsättningar för en icke-socialistisk regering",
+      "link": "https://www.dn.se/sverige/kristersson-inga-forutsattningar-for-en-icke-socialistisk-regering/",
+      "description": "Statsminister Ulf Kristersson (M) ser inte att det just nu finns några förutsättningar för att han ska kunna bilda en regering. – Att slänga bort omröstningar som man vet misslyckas är att slösa på svenska folkets tålamod, säger han.",
+      "pubDate": "2026-10-14T14:38:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Per Molander: Vänsterpartiet borde ta efter Sverigedemokraterna",
+      "link": "https://www.dn.se/kultur/per-molander-vansterpartiet-borde-ta-efter-sverigedemokraterna/",
+      "description": "Vänsterpartiet borde beakta förhandlingsteorins grundregler. Varför skulle inte V kunna göra en liknande resa mot makten som SD har gjort, frågar sig Per Molander.",
+      "pubDate": "2026-10-14T12:13:16Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Martin Norrby pekas ut som ny Luf-ordförande",
+      "link": "https://www.expressen.se/nyheter/politik/martin-norrby-pekas-ut-som-ny-luf-ordforande/",
+      "description": "Martin Norrby, 24, väntas ta över Liberala ungdomsförbundet – och vill läka den sargade relationen till moderpartiet. Han bryr sig noll om Simona Mohamsson dricker öl med Jimmie Åkesson. – Det skiter jag fullständigt i, säger Norrby.",
+      "pubDate": "2026-10-14T12:09:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "Rödgröna sprickan: ”Olyckligt sätt att styra”",
+      "link": "https://www.svt.se/nyheter/inrikes/rodgrona-sprickan-olyckligt-satt-att-styra",
+      "description": "Miljöpartiet vill att de rödgröna partierna börjar förhandla ekonomisk politik – trots att de inte är överens i regeringsfrågan. – Det borde vi ha börjat prata om för längesen, säger MP-toppen Janine Alm Ericson. Men Vänsterpartiet nobbar hennes idé.",
+      "pubDate": "2026-10-14T10:35:14Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "MP"
+      ]
+    },
+    {
       "title": "”Ge Thand Ringqvist uppdraget”",
       "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=fe2b1692-8442-4fed-8723-ee25f4f12116",
-      "description": "V-toppens ord om sonderingen",
+      "description": "Gabrielsson om sonderingen",
       "pubDate": "2026-10-14T09:40:10Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -101,19 +167,6 @@
       "topics": [
         "S",
         "Opinion"
-      ]
-    },
-    {
-      "title": "Anderssons hemliga krav på V: ”Känsliga frågor”",
-      "link": "https://www.expressen.se/nyheter/politik/anderssons-hemliga-krav-pa-v-kansliga-fragor/",
-      "description": "S-ledaren Magdalena Andersson avslöjar att det pågår diskussioner med V. Enligt vad Expressen erfar ställer S krav på V – kopplat till avslöjanden om terrorhyllningar och antisemitism. – Det finns åtgärder som Vänsterpartiet behöver göra om de ska sitta i en regering, säger Andersson i TV4.",
-      "pubDate": "2026-10-14T08:28:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     },
     {
@@ -158,19 +211,6 @@
       ]
     },
     {
-      "title": "Små förändringar – men MP ökar i SVT/Verian",
-      "link": "https://www.expressen.se/nyheter/politik/sma-forandringar-men-mp-okar-i-svtverian/",
-      "description": "De första opinionsmätningarna efter valet har nu släppts. I SVT/Verian och Novus ökar M kraftigt, samtidigt som alla rödgröna, förutom MP, backar. – Det är möjligt att MP har gynnats av sin återhållsamma roll i regeringsbildningen, säger Per Söderpalm, opinionsansvarig på Verian, till SVT. &nbsp;",
-      "pubDate": "2026-10-14T04:06:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Opinion",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "SVT/Verian: MP ökar i första mätningen efter valet",
       "link": "https://www.svt.se/nyheter/inrikes/svtverian-mp-okar-i-forsta-matningen-efter-valet",
       "description": "Miljöpartiet ökar i den första opinionsmätningen efter valet, samtidigt som Moderaterna fortsätter att stärkas. Det visar SVT/Verians väljarbarometer för oktober. – Det är möjligt att MP har gynnats av sin återhållsamma roll i regeringsbildningen, säger Per Söderpalm, opinionsansvarig på Verian.",
@@ -201,59 +241,6 @@
       ]
     },
     {
-      "title": "Ledare: Hur länge tänker S-ledaren dalta med Dadgostar?",
-      "link": "https://www.dn.se/ledare/hur-lange-tanker-s-ledaren-dalta-med-dadgostar/",
-      "description": "Magdalena Andersson kommer att förlora statsministervoteringen på torsdag, och ingen är förvånad. Vad som däremot är anmärkningsvärt är att hon inte ens tog sig till förhandlingsbordet.",
-      "pubDate": "2026-10-14T03:07:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Frida Spång: ”Befolkningen är väldigt uppdelad”",
-      "link": "https://www.sverigesradio.se/artikel/9318898",
-      "description": "En första statsministeromröstning om Magdalena Andersson väntar på torsdag. Men det är fortfarande låst på den rödgröna sidan. Frida Spång tycker att regeringsbildningen har blivit svår att följa och att väljarna lämnas med många frågetecken.",
-      "pubDate": "2026-10-13T20:29:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Henrik Juserius: Kan minska människors förtroende för politiken",
-      "link": "https://www.sverigesradio.se/artikel/9318900",
-      "description": "En första statsministeromröstning om Magdalena Andersson väntar på torsdag. Men det är fortfarande låst på den rödgröna sidan. Henric Juserius tror att en utdragen regeringsbildning kan minska människors förtroende för politiken.",
-      "pubDate": "2026-10-13T20:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Jan Hård: ”Håll inte på och dravla runt”",
-      "link": "https://www.sverigesradio.se/artikel/9318893",
-      "description": "En första statsministeromröstning om Magdalena Andersson väntar på torsdag. Men det är fortfarande låst på den rödgröna sidan. Jan Hård är kritisk till att regeringsbildningen drar ut på tiden.",
-      "pubDate": "2026-10-13T20:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "13 oktober: Missa inte dagens nyheter",
       "link": "https://www.dn.se/sverige/13-oktober-missa-inte-dagens-nyheter/",
       "description": "Riksdagen ska rösta om Magdalena Andersson som statsminister, minst tio saknas i Svarta havet efter attacker utanför Bulgarien och ny svensk kross i VM-playoff – här är dagens nyheter.",
@@ -267,15 +254,31 @@
       ]
     },
     {
-      "title": "Lisa Magnusson: Är det kvinnohat att himla med ögonen åt Nooshi Dadgostar?",
-      "link": "https://www.dn.se/ledare/lisa-magnusson-ar-det-kvinnohat-att-himla-med-ogonen-at-nooshi-dadgostar/",
-      "description": "DN:s ledarsida har en misogyn ton som andas ”sätt på er bh och lite maskara, platta håret, era jävlar”. Det hävdar författaren Tone Schunnesson och Aftonbladets kulturchef, Karin Pettersson.",
-      "pubDate": "2026-10-13T18:13:28Z",
+      "title": "Analys: ”Det är dags att kliva upp ur sandlådan”",
+      "link": "https://www.svt.se/nyheter/inrikes/analys-det-ar-dags-att-kliva-upp-ur-sandladan",
+      "description": "Risken är uppenbar att turerna kring regeringsbildningen enbart uppfattas som politisk teater. Ansvaret vilar tungt på S-ledaren Magdalena Andersson, men också på Vänsterpartiet och Centerpartiet, vars oförenliga krav förhindrar en rödgrön regering. En utdragen process i riksdagen under hösten, med statsministeromröstningar som redan på förhand är dömda att misslyckas, leder sannolikt till ett skadat förtroende inte bara för inblandade partier utan även för det politiska systemet i stort.",
+      "pubDate": "2026-10-13T16:59:38Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Låt S och MP bilda regering med stöd av V och C",
+      "link": "https://www.dn.se/insandare/lat-s-och-mp-bilda-regering-med-stod-av-v-och-c/",
+      "description": "INSÄNDARE. Det vore en bättre väg framåt för Vänsterpartiet och Centerpartiet att stå utanför en kommande rödgrön regering. Då kan dessa partiet förhandla budget och riksdagsbeslut i stället för att riskera ett extraval, skriver Bengt Bengtsson.",
+      "pubDate": "2026-10-13T16:04:49Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V"
+        "V",
+        "C"
       ]
     }
   ],
@@ -329,6 +332,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Kvartal Idag: Vilka ”hemliga krav” har Andersson på V?",
+      "link": "https://pod.space/kvartal/kvartal-idag-vilka-hemliga-krav-har-andersson-pa-v",
+      "description": "Payam Moula om S-ledarens lista. Nya anfall efter Trumps ”energivapenvila”. Elever på Sigtuna tvingades slicka golvet. Och är det för sent för en rödgrön budget? Programledare Cassandra Alm.",
+      "pubDate": "2026-10-14T14:05:58Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Är Anderssons misslyckande Kristerssons chans?",
       "link": "https://pod.space/alskadepolitik/ar-anderssons-misslyckande-kristerssons-chans",
@@ -498,19 +513,6 @@
       "sourceType": "podcast",
       "topics": [
         "V",
-        "C"
-      ]
-    },
-    {
-      "title": "320. Då faller Andersson",
-      "link": "https://pod.space/politikrummet/320-da-faller-andersson",
-      "description": "Centerpartiet bjuder in de rödgröna partierna till samtal – samtidigt tickar klockan för Magdalena Andersson. I studion: Filippa Rogvall, Viktor Barth-Kron och Anette Holmqvist. Ljudklipp från SVT. Ansvarig utgivare: Klas Granström, Expressen AB.",
-      "pubDate": "2026-10-05T11:50:28Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
         "C"
       ]
     }
