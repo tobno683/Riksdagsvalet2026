@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T00:24:52.457486Z",
+  "updated_at": "2026-10-14T05:06:19.800355Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,101 @@
   ],
   "news": [
     {
+      "title": "Årets mäktigaste på sociala medier",
+      "link": "https://www.sverigesradio.se/artikel/9318950",
+      "description": "Sverigedemokraterna behåller sin maktställning i sociala medier, enligt årets Maktbarometer, som ges ut av Medieakademin. På andra plats kommer SVT och på tredje plats Aftonbladet. Föreningen har kartlagt vilka som når ut mest till svenskarna på Facebook, Instagram, Youtube, Tiktok och X.&nbsp; Humorgruppen JLC är de första nöjesprofilerna på listan och kommer på femte plats. De tappar en position från förra året men går om familjen Lundell, som går från en andraplats till sjua på listan. Årets tio mäktigaste Sverigedemokraterna SVT Aftonbladet Expressen JLC TV4 Familjen Lundell Moderaterna Socialdemokraterna 100 procent",
+      "pubDate": "2026-10-14T04:28:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "V-toppens kritik mot C: ”Måste släppa det”",
+      "link": "https://www.sverigesradio.se/artikel/9318922",
+      "description": "Nu borde Centerpartiet få sondera mittenalternativ så att vi kan komma vidare, menar Vänsterpartiets vice partiledare, Ida Gabrielsson. ”Det tror jag är viktigt att man kör i botten”, säger hon. Gårdagens besked från S-ledaren Magdalena Andersson visade att det fortfarande var låst läge mellan de rödgröna partierna. Ida Gabrielsson riktar även kritik mot Socialdemokraterna för att inte ha varit tydliga med att de som regeringsbildare kan tänka sig en fyrpartiregering.",
+      "pubDate": "2026-10-14T04:15:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Små förändringar – men MP ökar i SVT/Verian",
+      "link": "https://www.expressen.se/nyheter/politik/sma-forandringar-men-mp-okar-i-svtverian/",
+      "description": "De första opinionsmätningarna efter valet har nu släppts. I SVT/Verian och Novus ökar M kraftigt, samtidigt som alla rödgröna, förutom MP, backar. – Det är möjligt att MP har gynnats av sin återhållsamma roll i regeringsbildningen, säger Per Söderpalm, opinionsansvarig på Verian, till SVT. &nbsp;",
+      "pubDate": "2026-10-14T04:06:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Opinion",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Nytt kvittningssystem i riksdagen kan dröja till nästa år",
+      "link": "https://www.expressen.se/nyheter/politik/nytt-kvittningssystem-i-riksdagen-kan-droja-till-nasta-ar/",
+      "description": "Den första omröstningen i riksdagen rycker allt närmare. Utan att något kvittningssystem finns på plats. Därmed består osäkerheten kring riksdagens voteringar. Ett nytt system kan dröja till efter årsskiftet, uppger nu flera personer inom Tidöpartierna.",
+      "pubDate": "2026-10-14T03:51:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "SVT/Verian: MP ökar i första mätningen efter valet",
+      "link": "https://www.svt.se/nyheter/inrikes/svtverian-mp-okar-i-forsta-matningen-efter-valet",
+      "description": "Miljöpartiet ökar i den första opinionsmätningen efter valet, samtidigt som Moderaterna fortsätter att stärkas. Det visar SVT/Verians väljarbarometer för oktober. – Det är möjligt att MP har gynnats av sin återhållsamma roll i regeringsbildningen, säger Per Söderpalm, opinionsansvarig på Verian.",
+      "pubDate": "2026-10-14T03:48:05Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "MP",
+        "Opinion",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "13 styren klara – SD får mer inflytande i regionerna",
+      "link": "https://www.sverigesradio.se/artikel/9318784",
+      "description": "När styret av 13 av 21 regioner presenterats står det klart att Sverigedemokraterna tar plats i tre styren och blir samarbetsparti till ytterligare ett och stärker därmed sitt inflytande i regionerna. Även Vänsterpartiet har stor möjlighet till det. V är med i slutförhandlingarna kring rödgröna maktskiften i både Östergötland och Gävleborg och tar sig in i styret av region Gotland, Dalarna och Örebro. I 8 av de 13 regionerna blir det olika former av blocköverskridande styren, ledda av Socialdemokraterna. Där ingår oftast Centerpartiet.",
+      "pubDate": "2026-10-14T03:33:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Ledare: Hur länge tänker S-ledaren dalta med Dadgostar?",
+      "link": "https://www.dn.se/ledare/hur-lange-tanker-s-ledaren-dalta-med-dadgostar/",
+      "description": "Magdalena Andersson kommer att förlora statsministervoteringen på torsdag, och ingen är förvånad. Vad som däremot är anmärkningsvärt är att hon inte ens tog sig till förhandlingsbordet.",
+      "pubDate": "2026-10-14T03:07:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Frida Spång: ”Befolkningen är väldigt uppdelad”",
       "link": "https://www.sverigesradio.se/artikel/9318898",
       "description": "En första statsministeromröstning om Magdalena Andersson väntar på torsdag. Men det är fortfarande låst på den rödgröna sidan. Frida Spång tycker att regeringsbildningen har blivit svår att följa och att väljarna lämnas med många frågetecken.",
@@ -128,19 +223,6 @@
       "topics": [
         "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Mohamsson och Åkesson  såg Sveriges överkörning",
-      "link": "https://www.expressen.se/nyheter/politik/mohamsson-och-akesson--sag-sveriges-overkorning/",
-      "description": "Jimmie Åkesson (SD) och Simona Mohamsson (L) är öppna med sin fotbollskärlek.&nbsp; I kväll tittade de på när Sveriges damlandslag krossade Litauen.&nbsp;",
-      "pubDate": "2026-10-13T18:38:18Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
       ]
     },
     {
@@ -194,83 +276,6 @@
       "topics": [
         "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Professorn: Så kan V och C hitta en väg framåt",
-      "link": "https://www.sverigesradio.se/artikel/9318703",
-      "description": "Låsningarna på den rödgröna sidan ligger fast. Ändå tror många bedömare att de rödgröna har störst chans att bilda regering. Men Vänsterpartiets krav på att få sitta i regering kan skapa en öppning, enligt Jonas Hinnfors, professor emeritus i statsvetenskap vid Göteborgs universitet. \"Då skulle jag tro att de är beredda att gå rätt långt i sakfrågekompromiss, om man bara får vara med i regeringen så att det här glastaket sprängs”, säger han.",
-      "pubDate": "2026-10-13T15:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Bjud in alla partiledare att se slutet av ”Babylon Berlin”",
-      "link": "https://www.dn.se/insandare/bjud-in-alla-partiledare-att-se-slutet-av-babylon-berlin/",
-      "description": "INSÄNDARE. Det finns anledning för S-ledaren Magdalena Andersson att som ledare för det största riksdagspartiet anordna en särskild tv-kväll. Sista säsongen av den tyska tv-serien ”Babylon Berlin” bör ses av alla åtta partiledare tillsammans, skriver Olov Törnqvist.",
-      "pubDate": "2026-10-13T15:25:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Helena Gissén: ”Väcker en hel del frågetecken”",
-      "link": "https://www.sverigesradio.se/artikel/9318726",
-      "description": "Ebba Busch (KD) säger att det pågår samtal om en mitten-högerregering, men mycket talar för att vägen dit är svår. En sådan lösning med M, KD, L och C skulle sannolikt kräva passivt stöd från SD, något Centerpartiet länge sagt nej till. Ekots politiska kommentator, Helena Gissén, säger att Centerpartiets kontakter åt höger kan vara ett sätt att pressa Vänsterpartiet i regeringsfrågan.",
-      "pubDate": "2026-10-13T15:14:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "KD"
-      ]
-    },
-    {
-      "title": "Är Anderssons misslyckande Kristerssons chans?",
-      "link": "https://www.dn.se/podd/alskade-politik/ar-anderssons-misslyckande-kristerssons-chans/",
-      "description": "Socialdemokraternas ledare lyckades inte med sonderingsuppdraget. Men ska ändå ställas inför omröstning. Vem tar över sen – blir det Ulf Kristersson? Har vi en regering innan jul? Och vem styr egentligen Sverige under tiden?",
-      "pubDate": "2026-10-13T14:12:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Busch om mitten-högerregering: Jobbar direkt med involverade parter",
-      "link": "https://www.sverigesradio.se/artikel/9318660",
-      "description": "Det pågår samtal om möjligheterna att få till en mitten-högerregering, det uppger Kristdemokraternas partiledare Ebba Busch i en intervju med Ekot. Det efter att Magdalena Andersson i nuläget gett upp försöken att bilda en regering. ”Jag tror att det finns en väg framåt, men den jobbar jag för direkt med de parter som är involverade”, säger Ebba Busch (KD). Häromdagen syntes Ebba Busch (KD) och Elisabeth Thand Ringqvist (C) på bild efter att ha bastat tillsammans. Nu säger Busch att hon har goda samtal med flera parter.",
-      "pubDate": "2026-10-13T14:07:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "KD"
-      ]
-    },
-    {
-      "title": "Alla partier överens om stopplag mot tonårsutvisningarna",
-      "link": "https://www.sverigesradio.se/artikel/9318574",
-      "description": "Alla riksdagspartier ställer sig nu bakom en stopplag för de så kallade ungdomsutvisningarna, efter ett möte i socialförsäkringsutskottet. De rödgröna drev kravet, och Moderaterna säger att de delar bilden av att skötsamma unga drabbas, samtidigt som utskottet nu ska ta fram ett lagförslag. Det ovanliga utskottsbeslutet kan också bli en signal till Migrationsverket om att pausa utvisningarna igen.",
-      "pubDate": "2026-10-13T12:57:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     }
   ],
