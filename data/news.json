@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T15:16:45.666136Z",
+  "updated_at": "2026-10-14T19:31:48.628520Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,69 @@
   ],
   "news": [
     {
+      "title": "Åkesson och Mohamsson  spelade biljard och drack öl",
+      "link": "https://www.expressen.se/nyheter/politik/akesson-och-mohamsson--spelade-biljard-och-drack-ol/",
+      "description": "Jimmie Åkesson (SD) och Simona Mohamsson (L) gick på fotbollsmatch ihop. Efter slutsignal fortsatte duon sin festkväll – med biljard till efter midnatt. SD-ledaren bar en tröja med texten ”Team Ebba”.",
+      "pubDate": "2026-10-14T18:44:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
+    {
+      "title": "Insändare. Tänk utanför den egna boxen",
+      "link": "https://www.dn.se/insandare/tank-utanfor-den-egna-boxen/",
+      "description": "INSÄNDARE. Det är dags att Centerpartiet och Vänsterpartiet tar sitt ansvar för att ro regeringsbildningen i hamn. Väljarna har bett om en resa i rätt riktning som omfattar hela landet och som tryggar goda livsbetingelser för alla invånare, skriver Birgitta Ekerot.",
+      "pubDate": "2026-10-14T18:16:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Susanne Nyström: Vad i hela friden håller Simona Mohamsson på med?",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-vad-i-hela-friden-haller-simona-mohamsson-pa-med/",
+      "description": "Liberalerna har gått ifrån att vara trevligt och belevat parti, befolkat av städade före detta elevrådsrepresentanter, till att spydigt håna kollegor som anstränger sig.",
+      "pubDate": "2026-10-14T17:02:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Kriminalvården kallas upp till justitieutskottet",
+      "link": "https://www.expressen.se/nyheter/krim/kriminalvarden-kallas-upp-till-justitieutskottet/",
+      "description": "Efter Expressens avslöjanden om sexuella kränkningar och otrygghet på kvinnoanstalten i Ystad kräver Kristdemokraterna att Kriminalvården kallas till justitieutskottet för att svara på frågor. – Det här är akut, säger Larry Söder, KD:s rättspolitiska talesperson.",
+      "pubDate": "2026-10-14T16:57:27Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Hammarbys tröjsponsor kopplas till ryskorganiserad penningtvätt: ”Jätteallvarligt”",
+      "link": "https://www.dn.se/sport/hammarbys-trojsponsor-kopplas-till-ryskorganiserad-penningtvatt-jatteallvarligt/",
+      "description": "Finanspolisen flaggar i en ny rapport för ryskorganiserad ”penningtvätt i industriell skala” på svensk mark. Det framkommer att bankkonton hos Hammarbys huvudsponsor Revolut utnyttjas i upplägget. – Vi ser självklart jätteallvarligt på det, säger Hammarby Fotbolls försäljningschef Tomas Lindgren till Idrottsbranschen.",
+      "pubDate": "2026-10-14T15:56:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
       "title": "Ulf Kristersson: ”Alla lösningar är helt osannolika”",
       "link": "https://www.sverigesradio.se/artikel/9319532",
       "description": "KD-ledaren Ebba Busch sade i en intervju med Ekot att det pågår samtal om möjligheten att få till en mitten-högerregering. Statsminister Ulf Kristersson är förtegen om vad han gör i det här avseendet. ”Jag för samtal som jag tror skulle kunna på något vis vara konstruktiva i något läge, men de samtalen håller jag med de personerna”, säger Ulf Kristersson. Moderatledaren Ulf Kristersson pekar på en ytterst komplicerad regeringsbildning, och säger att alla lösningar är ”helt osannolika”.",
@@ -119,19 +182,6 @@
       ]
     },
     {
-      "title": "Martin Norrby pekas ut som ny Luf-ordförande",
-      "link": "https://www.expressen.se/nyheter/politik/martin-norrby-pekas-ut-som-ny-luf-ordforande/",
-      "description": "Martin Norrby, 24, väntas ta över Liberala ungdomsförbundet – och vill läka den sargade relationen till moderpartiet. Han bryr sig noll om Simona Mohamsson dricker öl med Jimmie Åkesson. – Det skiter jag fullständigt i, säger Norrby.",
-      "pubDate": "2026-10-14T12:09:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "L"
-      ]
-    },
-    {
       "title": "Rödgröna sprickan: ”Olyckligt sätt att styra”",
       "link": "https://www.svt.se/nyheter/inrikes/rodgrona-sprickan-olyckligt-satt-att-styra",
       "description": "Miljöpartiet vill att de rödgröna partierna börjar förhandla ekonomisk politik – trots att de inte är överens i regeringsfrågan. – Det borde vi ha börjat prata om för längesen, säger MP-toppen Janine Alm Ericson. Men Vänsterpartiet nobbar hennes idé.",
@@ -142,31 +192,6 @@
       "topics": [
         "V",
         "MP"
-      ]
-    },
-    {
-      "title": "”Ge Thand Ringqvist uppdraget”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=fe2b1692-8442-4fed-8723-ee25f4f12116",
-      "description": "Gabrielsson om sonderingen",
-      "pubDate": "2026-10-14T09:40:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Hade ärlighet kostat S valet?",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/hade-arlighet-kostat-s-valet/",
-      "description": "Både förhandlingsläget och opinionsläget kunde varit roligare för Socialdemokraterna. Men man slapp i alla fall förlora valet på grund av överdriven ärlighet.",
-      "pubDate": "2026-10-14T09:15:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Opinion"
       ]
     },
     {
@@ -183,34 +208,6 @@
       ]
     },
     {
-      "title": "Årets mäktigaste på sociala medier",
-      "link": "https://www.sverigesradio.se/artikel/9318950",
-      "description": "Sverigedemokraterna behåller sin maktställning i sociala medier, enligt årets Maktbarometer, som ges ut av Medieakademin. På andra plats kommer SVT och på tredje plats Aftonbladet. Föreningen har kartlagt vilka som når ut mest till svenskarna på Facebook, Instagram, Youtube, Tiktok och X.&nbsp; Humorgruppen JLC är de första nöjesprofilerna på listan och kommer på femte plats. De tappar en position från förra året men går om familjen Lundell, som går från en andraplats till sjua på listan. Årets tio mäktigaste Sverigedemokraterna SVT Aftonbladet Expressen JLC TV4 Familjen Lundell Moderaterna Socialdemokraterna 100 procent",
-      "pubDate": "2026-10-14T04:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD"
-      ]
-    },
-    {
-      "title": "V-toppens kritik mot C: ”Måste släppa det”",
-      "link": "https://www.sverigesradio.se/artikel/9318922",
-      "description": "Nu borde Centerpartiet få sondera mittenalternativ så att vi kan komma vidare, menar Vänsterpartiets vice partiledare, Ida Gabrielsson. ”Det tror jag är viktigt att man kör i botten”, säger hon. Gårdagens besked från S-ledaren Magdalena Andersson visade att det fortfarande var låst läge mellan de rödgröna partierna. Ida Gabrielsson riktar även kritik mot Socialdemokraterna för att inte ha varit tydliga med att de som regeringsbildare kan tänka sig en fyrpartiregering.",
-      "pubDate": "2026-10-14T04:15:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "SVT/Verian: MP ökar i första mätningen efter valet",
       "link": "https://www.svt.se/nyheter/inrikes/svtverian-mp-okar-i-forsta-matningen-efter-valet",
       "description": "Miljöpartiet ökar i den första opinionsmätningen efter valet, samtidigt som Moderaterna fortsätter att stärkas. Det visar SVT/Verians väljarbarometer för oktober. – Det är möjligt att MP har gynnats av sin återhållsamma roll i regeringsbildningen, säger Per Söderpalm, opinionsansvarig på Verian.",
@@ -223,21 +220,6 @@
         "MP",
         "Opinion",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "13 styren klara – SD får mer inflytande i regionerna",
-      "link": "https://www.sverigesradio.se/artikel/9318784",
-      "description": "När styret av 13 av 21 regioner presenterats står det klart att Sverigedemokraterna tar plats i tre styren och blir samarbetsparti till ytterligare ett och stärker därmed sitt inflytande i regionerna. Även Vänsterpartiet har stor möjlighet till det. V är med i slutförhandlingarna kring rödgröna maktskiften i både Östergötland och Gävleborg och tar sig in i styret av region Gotland, Dalarna och Örebro. I 8 av de 13 regionerna blir det olika former av blocköverskridande styren, ledda av Socialdemokraterna. Där ingår oftast Centerpartiet.",
-      "pubDate": "2026-10-14T03:33:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V",
-        "C"
       ]
     },
     {
@@ -279,6 +261,19 @@
       "topics": [
         "V",
         "C"
+      ]
+    },
+    {
+      "title": "Statsvetare: Omröstningen inget hinder för Andersson",
+      "link": "https://www.dn.se/sverige/statsvetare-omrostningen-inget-hinder-for-andersson/",
+      "description": "Riksdagen kommer med allra största sannolikhet rösta nej till Magdalena Andersson på torsdag. Men det betyder inte att hennes chanser att bilda regering har försämrats, menar statsvetare. – Det utgör inte alls något hinder för henne att bli statsminister, säger Oskar Hultin Bäckersten på Mälardalens universitet.",
+      "pubDate": "2026-10-13T15:57:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
       ]
     }
   ],
