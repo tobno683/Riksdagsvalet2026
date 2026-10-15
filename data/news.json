@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T15:25:01.722514Z",
+  "updated_at": "2026-10-15T19:17:03.885124Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,46 @@
   ],
   "news": [
     {
+      "title": "”Nu ökar pressen på Magdalena Andersson”",
+      "link": "https://www.svt.se/nyheter/inrikes/nu-okar-pressen-pa-magdalena-andersson",
+      "description": "Det tydliga nederlaget i statsministeromröstningen var visserligen väntat, men är samtidigt symboliskt jobbigt för Magdalena Andersson, som utropat sig till valvinnare och firat med tårta på partihögkvarteret. Nu tar Sverige ett steg närmare ett extraval och därmed ökar pressen på inblandade partier.",
+      "pubDate": "2026-10-15T18:46:28Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Centerns nya taktik för att hålla V borta",
+      "link": "https://www.expressen.se/nyheter/politik/centerns-nya-taktik-for-att-halla-v-borta/",
+      "description": "Vänsterpartiets motstånd mot Nato och det militära DCA-avtalet.&nbsp; Det är röda skynken som visar varför Nooshi Dadgostar ska hållas utanför en rödgrön regering, anser Elisabeth Thand Ringqvist. – Vi kan inte sitta i regering med dem, säger hon.",
+      "pubDate": "2026-10-15T18:31:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Thand Ringqvists nya öppning för V",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/thand-ringqvists-nya-oppning-for-v/",
+      "description": "Motståndet mot Vänsterpartiet är kompakt i Socialdemokraternas högsta ledning. Vem tvingas backa?&nbsp; Och har Centerpartiet ett nytt besked i regeringsfrågan?&nbsp; Lyssna på ”Politikrummet”.&nbsp;",
+      "pubDate": "2026-10-15T15:29:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "Ginna Lindberg: ”Trump försöker få valet att handla om honom”",
       "link": "https://www.sverigesradio.se/artikel/9320220",
       "description": "I USA går valrörelsen in på slutspurten inför mellanårsvalet den 3:e november. Makten i kongressen står på spel, och president Donald Trump har intensifierat sina försök att rädda republikanernas majoritet. ”Frågan är vem som vinner mest på att Donald Trump nu är republikanernas stora vallokomotiv”, säger Sveriges Radios USA-korrespondent, Ginna Lindberg.",
@@ -113,6 +153,18 @@
       "topics": [
         "M",
         "C"
+      ]
+    },
+    {
+      "title": "Trump backar om direktsändning av avrättning",
+      "link": "https://www.sverigesradio.se/artikel/9320375",
+      "description": "USA:s president Donald Trump uppger nu att man inte kommer att direktsända den planerade avrättningen av den tidigare militären Nidal Hasan som är dömd för massmord. ”Trump verkar ha lyssnat på kritiken, och det har verkligen varit en storm av kritik”, säger Sveriges Radios USA-korrespondent Ginna Lindberg. Planerna har fått kritik från både demokrater och republikaner.",
+      "pubDate": "2026-10-15T14:32:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
       ]
     },
     {
@@ -170,19 +222,6 @@
       ]
     },
     {
-      "title": "Kompakt motstånd i S mot V-regering",
-      "link": "https://www.expressen.se/nyheter/politik/kompakt-motstand-i-s-mot-v-regering/",
-      "description": "Motståndet mot att släppa in V i regeringen är kompakt i Socialdemokraternas innersta krets, erfar Expressen. – Det här är frågor som jag nu diskuterar, svarar Magdalena Andersson. Samtidigt börjar allt fler ifrågasätta partiledningens strategi. –&nbsp;Man borde gett fan i att hacka på Vänsterpartiet, säger S-profilen Göran Greider.",
-      "pubDate": "2026-10-15T12:48:22Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
       "title": "De rödgröna: Därför ska Kristersson få uppdraget",
       "link": "https://www.svt.se/nyheter/inrikes/de-rodgrona-darfor-ska-kristersson-fa-uppdraget",
       "description": "På torsdagen föll Magdalena Andersson i den första statsministeromröstningen efter valet. Resultatet blev 99 röster för och 248 röster emot med två frånvarande riksdagsledamöter. Vem som ska få sonderingsuppdraget nu är inte klart men flera rödgröna partiledare vill att uppdraget går till Ulf Kristersson.",
@@ -194,19 +233,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "MP och V nobbar C:s förslag om ren S-regering",
-      "link": "https://www.expressen.se/nyheter/sverige/mp-och-v-nobbar-cs-forslag-om-ren-s-regering/",
-      "description": "Elisabeth Thand Ringqvist och C kan släppa fram en renodlad S-regering, med stöd av V och MP. Det förslaget säger både MP och V nej till. – Det skulle bli en högerregering, svarar Nooshi Dadgostar.",
-      "pubDate": "2026-10-15T11:35:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
       ]
     },
     {
@@ -245,32 +271,6 @@
       "sourceType": "news",
       "topics": [
         "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. C borde kunna byta sida utan större svekdebatt",
-      "link": "https://www.dn.se/insandare/c-borde-kunna-byta-sida-utan-storre-svekdebatt/",
-      "description": "INSÄNDARE. Sverige behöver en tillväxtvänlig ekonomisk politik och att de fyra forna allianspartierna åter gör gemensam sak. Om inte får Centerpartiet förmodligen bita i det sura äpplet och ingå i samma regering som Vänsterpartiet, skriver Staffan Ericsson.",
-      "pubDate": "2026-10-15T10:44:49Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "EU-ledarna rasar över USA:s dieselavtal med Ryssland: ”Gåva till Putin”",
-      "link": "https://www.dn.se/varlden/eu-ledarna-rasar-over-usas-dieselavtal-med-ryssland-gava-till-putin/",
-      "description": "BRYSSEL. USA:s ryska dieselaffärer ritar om spelplanen på nytt och får EU:s ledare att se rött. – Det är otroligt bekymmersamt och vi beklagar det djupt, säger statsminister Ulf Kristersson på väg in till mötet. Samtidigt fortsätter fler EU-länder att importera olja och gas från Ryssland.",
-      "pubDate": "2026-10-15T10:06:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
         "Regeringsbildning"
       ]
     }
