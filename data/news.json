@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T10:56:57.983791Z",
+  "updated_at": "2026-10-15T15:25:01.722514Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,163 @@
   ],
   "news": [
     {
+      "title": "Ginna Lindberg: ”Trump försöker få valet att handla om honom”",
+      "link": "https://www.sverigesradio.se/artikel/9320220",
+      "description": "I USA går valrörelsen in på slutspurten inför mellanårsvalet den 3:e november. Makten i kongressen står på spel, och president Donald Trump har intensifierat sina försök att rädda republikanernas majoritet. ”Frågan är vem som vinner mest på att Donald Trump nu är republikanernas stora vallokomotiv”, säger Sveriges Radios USA-korrespondent, Ginna Lindberg.",
+      "pubDate": "2026-10-15T15:11:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Uppgift: C vänder sig högerut i Stockholm",
+      "link": "https://www.expressen.se/nyheter/politik/uppgift-c-vander-sig-hogerut-i-stockholm/",
+      "description": "Centerpartiet i Region Stockholm planerar en högersväng, erfar Expressen. Enligt uppgift övervägs ett lokalt samarbete med stöd av SD – något som tidigare var uteslutet men möjliggjorts av ett låst läge i förhandlingarna. Beskedet har chockat de övriga rödgröna partierna.",
+      "pubDate": "2026-10-15T15:06:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Fredrik Furtenbach: ”Inte rört sig en millimeter”",
+      "link": "https://www.sverigesradio.se/artikel/9320218",
+      "description": "Centerpartiet har föreslagit en ren S-regering som både C, V och MP skulle stödja utan att sitta i den. Fredrik Furtenbach, Ekots politikkommentator, kommenterar C:s förslag och berättar vad som händer härnäst i partiernas försök att bilda en regering. ”Det troligaste nästa steg är att någon får sondera igen, troligtvis Ulf Kristersson”, säger han.",
+      "pubDate": "2026-10-15T14:44:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Nytt gräl om straffskärpningar mellan S och M",
+      "link": "https://www.dn.se/sverige/nytt-gral-om-straffskarpningar-mellan-s-och-m/",
+      "description": "Justitieminister Gunnar Strömmer (M) och Kriminalvårdens generaldirektör Rikard Jermsten kallas till justitieutskottet för att redogöra för bristen på fängelseplatser. – Vi går nu mot ett allvarligt läge, säger utskottsordförande Teresa Carvalho (S).",
+      "pubDate": "2026-10-15T14:11:23Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Vänsterpartiets olyckliga kärlek till Centern",
+      "link": "https://www.dn.se/podd/alskade-politik/vansterpartiets-olyckliga-karlek-till-centern/",
+      "description": "Trånar V efter C och har Elisabeth Thand Ringqvist en röd linje mot sig själv? På torsdagen röstades Magdalena Andersson ner i en första (dramatisk?) statsministeromröstning.",
+      "pubDate": "2026-10-15T14:07:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "De rödgröna står kvar på ruta ett",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/de-rodgrona-star-kvar-pa-ruta-ett/",
+      "description": "Det kommer ta tid, mässar alla inblandade i den rödgröna regeringsbildningen.&nbsp; Det är menat som en prognos, men börjar allt mer låta som en besvärjelse.",
+      "pubDate": "2026-10-15T14:03:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C öppnar för S-regering efter Anderssons fall",
+      "link": "https://www.sverigesradio.se/artikel/9320254",
+      "description": "Efter att Magdalena Andersson som väntat föll i statsministeromröstningen i riksdagen så är positionerna fortsatt låsta. Men Centerledaren Elisabeth Thand Ringquist öppnar idag dörren för en Socialdemokratisk enpartiregering - om Vänsterpartiet och Miljöpartiet släpper sina krav om att sitta i regering. Nu kommer talmannen att samtal med alla partiledare, igen - för att imorgon ge besked om vad som sker härnäst.",
+      "pubDate": "2026-10-15T13:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kompakt motstånd i S mot V-regering",
+      "link": "https://www.expressen.se/nyheter/politik/kompakt-motstand-i-s-mot-v-regering/",
+      "description": "Motståndet mot att släppa in V i regeringen är kompakt i Socialdemokraternas innersta krets, erfar Expressen. – Det här är frågor som jag nu diskuterar, svarar Magdalena Andersson. Samtidigt börjar allt fler ifrågasätta partiledningens strategi. –&nbsp;Man borde gett fan i att hacka på Vänsterpartiet, säger S-profilen Göran Greider.",
+      "pubDate": "2026-10-15T12:48:22Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "De rödgröna: Därför ska Kristersson få uppdraget",
+      "link": "https://www.svt.se/nyheter/inrikes/de-rodgrona-darfor-ska-kristersson-fa-uppdraget",
+      "description": "På torsdagen föll Magdalena Andersson i den första statsministeromröstningen efter valet. Resultatet blev 99 röster för och 248 röster emot med två frånvarande riksdagsledamöter. Vem som ska få sonderingsuppdraget nu är inte klart men flera rödgröna partiledare vill att uppdraget går till Ulf Kristersson.",
+      "pubDate": "2026-10-15T12:33:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "MP och V nobbar C:s förslag om ren S-regering",
+      "link": "https://www.expressen.se/nyheter/sverige/mp-och-v-nobbar-cs-forslag-om-ren-s-regering/",
+      "description": "Elisabeth Thand Ringqvist och C kan släppa fram en renodlad S-regering, med stöd av V och MP. Det förslaget säger både MP och V nej till. – Det skulle bli en högerregering, svarar Nooshi Dadgostar.",
+      "pubDate": "2026-10-15T11:35:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Helena Gissén: ”Ett stort nederlag för Magdalena Andersson”",
+      "link": "https://www.sverigesradio.se/artikel/9320119",
+      "description": "I den första av fyra statsministeromröstingar innan ett eventuellt extraval, var svaret från riksdagen nej till socialdemokraternas partiledare Magdalena Andersson. Sveriges Radios politikkommentator Helena Gissén kommenterar utfallet. ”Det var väntat, och naturligtvis ett stort nederlag för Magdalena Andersson”, säger hon.",
+      "pubDate": "2026-10-15T11:35:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Riksdagen säger nej till Magdalena Andersson som statsminister",
+      "link": "https://www.dn.se/sverige/riksdagen-sager-nej-till-magdalena-andersson-som-statsminister/",
+      "description": "S-ledaren Magdalena Andersson förlorade statsministeromröstningen i riksdagen med stor marginal. Samtliga partier utom Socialdemokraterna röstade nej till henne som statsminister. – Jag kommer att fortsätta arbeta med olika partier i riksdagen för att hitta en väg framåt, säger Magdalena Andersson.",
+      "pubDate": "2026-10-15T11:21:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Alla andra partier röstade nej till Andersson (S) som statsminister",
       "link": "https://www.sverigesradio.se/artikel/9320064",
       "description": "Under torsdagen har riksdagen hållit en statsministeromröstning om Socialdemokratiska ledaren Magdalena Andersson. Som förväntat lyckades hon inte samla tillräckligt med ledamöter bakom sig som statsminister – och alla utom Socialdemokraterna själva, röstade nej. ”För mig har det varit tydligt sedan valnatten att det kommer krävas ett antal statsministeromröstningar innan en ny regering är på plats ”, säger Magdalena Andersson.",
@@ -114,170 +271,6 @@
       "sourceType": "news",
       "topics": [
         "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ulf Kristersson (M) ska tala med talmannen",
-      "link": "https://www.sverigesradio.se/artikel/9320016",
-      "description": "Statsministern och moderatledaren Ulf Kristersson kommer att lämna toppmötet i Bryssel en stund under torsdagseftermiddagen för att tala med talmannen Andreas Norlén, säger han till Ekot. ”Jag kommer att gå undan här i eftermiddag och att ha ett samtal med talmannen för att också diskutera vad som är nästa steg”, säger han. Vid lunchtid under torsdagen ska riksdagen rösta om Magdalena Andersson (S) ska väljas till statsminister – en omröstning hon väntas förlora.",
-      "pubDate": "2026-10-15T09:30:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson om gripna svensken: ”Ska undersöka”",
-      "link": "https://www.sverigesradio.se/artikel/9320015",
-      "description": "En svensk medborgare har gripits av ryska underrättelsetjänsten efter att olagligen ha korsat gränsen, skriver den ryska statliga nyhetsbyrån Tass. Enligt Tass ska svensken ha tjänstgjort i Ukraina som gruppchef för en drönarenhet. Nu kommenterar statsminister Ulf Kristersson händelsen. ”Vi hart bara fått medieuppgifterna, men vi ska via vår ambassad i Moskva försöka undersöka vad det här handlar om”, säger han.",
-      "pubDate": "2026-10-15T09:27:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Varning för storkoalition som skulle stärka V och SD",
-      "link": "https://www.dn.se/insandare/varning-for-storkoalition-som-skulle-starka-v-och-sd/",
-      "description": "INSÄNDARE. Doften av maktens köttgrytor har alltid kunna leda Socialdemokraterna till märkliga konstellationer och svek. Troligen skulle en storkoalition av tysk modell innebära att ytterflankerna stärks och att Vänsterpartiet och Sverigedemokraterna växer, skriver Peter Strand, före detta utredare och föredragande i riksdagen.",
-      "pubDate": "2026-10-15T09:04:24Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Kompakt motstånd i S mot V-regering",
-      "link": "https://www.expressen.se/nyheter/politik/kompakt-motstand-i-s-mot-v-regering/",
-      "description": "Motståndet mot att släppa in V i regeringen är kompakt i Socialdemokraternas innersta krets, erfar Expressen. – Det här är frågor som jag nu diskuterar, svarar Magdalena Andersson. Samtidigt börjar allt fler ifrågasätta partiledningens strategi. –&nbsp;Man borde gett fan i att hacka på Vänsterpartiet, säger S-profilen Göran Greider.",
-      "pubDate": "2026-10-15T08:15:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "C- och V-veteranerna ryker ihop om regeringsbildningen: ”Oförskämd”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-och-v-veteranerna-ryker-ihop-om-regeringsbildningen-oforskamd",
-      "description": "Centerpartiets tidigare partiledare Maud Olofsson och Vänsterpartiets före detta ekonomisk-politiska talesperson Ulla Andersson debatterade regeringsbildning i onsdagens Aktuellt. Men punkterna som de båda höll med om var få.",
-      "pubDate": "2026-10-15T07:36:37Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist: Vi kommer rösta nej till Andersson",
-      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvist-vi-kommer-rosta-nej-till-andersson/",
-      "description": "I dag ska Magdalena Andersson prövas som statsministerkandidat i kammaren.&nbsp; Centerpartiet kommer att rösta nej.&nbsp; – Det är avgörande för oss att en ny regering för en politik förankrad i mitten, säger Elisabeth Thand Ringqvist.&nbsp;",
-      "pubDate": "2026-10-15T06:48:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Röstar nej till Andersson",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=db9ed383-907a-41bd-81e7-e759ee04d8ac",
-      "description": "Thand Ringqvists besked till TV4",
-      "pubDate": "2026-10-15T06:39:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Experten svarar: Detta är en statsministeromröstning",
-      "link": "https://www.dn.se/sverige/experten-svarar-detta-ar-en-statsministeromrostning/",
-      "description": "När riksdagen röstar om Magdalena Andersson som statsminister på torsdagen väntas hon falla. Varför ser vägen till en regeringsbildning ut som den gör – och varför har vi just fyra statsministeromröstningar? En avvägningsfråga, enligt Hans Hegeland, doktor i statsvetenskap.",
-      "pubDate": "2026-10-15T04:33:06Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Vad undrar du om dagens statsministeromröstning?",
-      "link": "https://www.svt.se/nyheter/inrikes/vad-undrar-du-om-dagens-statsministeromrostning",
-      "description": "I dag, torsdag, ska riksdagen rösta om Magdalena Andersson (S) som statsminister för en enpartiregering. Vad undrar du om omröstningen? Fråga SVT:s politikreporter Erik Nilsson.",
-      "pubDate": "2026-10-15T03:38:48Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "”Magdalena Andersson behöver en plan B”",
-      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-behover-en-plan-b",
-      "description": "Magdalena Andersson tonar ner betydelsen av att bli nedröstad i den första statsministeromröstningen. Att den nesan bara är ett nödvändigt ont för att till sist bli tolererad av riksdagen. Men frågan är om Socialdemokraterna verkligen har en plan för det läge som uppstått.",
-      "pubDate": "2026-10-15T03:38:37Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Riksdagen röstar om Magdalena Andersson (S) som statsminister",
-      "link": "https://www.sverigesradio.se/artikel/9319716",
-      "description": "Under torsdagen kommer riksdagen att ha den första statsministeromröstningen efter valet, det är stödet för Magdalena Andersson som ska prövas i kammaren. Ingen räknar med att hon kommer att få majoritet, inte ens hon själv, eftersom både de gamla Tidö-partierna samt Miljöpartiet och Vänsterpartiet sagt att de kommer att rösta nej. Statsvetarprofessor Jonas Hinnfors berättar vad som kan hända nu.",
-      "pubDate": "2026-10-15T02:03:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "MP",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Tänk utanför den egna boxen",
-      "link": "https://www.dn.se/insandare/tank-utanfor-den-egna-boxen/",
-      "description": "INSÄNDARE. Det är dags att Centerpartiet och Vänsterpartiet tar sitt ansvar för att ro regeringsbildningen i hamn. Väljarna har bett om en resa i rätt riktning som omfattar hela landet och som tryggar goda livsbetingelser för alla invånare, skriver Birgitta Ekerot.",
-      "pubDate": "2026-10-14T18:16:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
         "Regeringsbildning"
       ]
     }
@@ -344,6 +337,47 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "324. C öppnar för Dadgostar",
+      "link": "https://pod.space/politikrummet/324-c-oppnar-for-dadgostar",
+      "description": "Motståndet mot Vänsterpartiet är kompakt i Socialdemokraternas högsta ledning. Vem tvingas backa? Och har Centerpartiet ett nytt besked i regeringsfrågan? I riksdagsstudion: Filippa Rogvall, Max V Karlsson, Anette Holmqvist och Viktor Barth-Kron. Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-10-15T15:23:01Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Vänsterpartiets olyckliga kärlek till Centern",
+      "link": "https://pod.space/alskadepolitik/vansterpartiets-olyckliga-karlek-till-centern",
+      "description": "Trånar V efter C och har Elisabeth Thand Ringqvist en röd linje mot sig själv? På torsdagen röstades Magdalena Andersson ner i en första (dramatisk?) statsministeromröstning.",
+      "pubDate": "2026-10-15T14:07:09Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kvartal Idag: Sverige drivs närmare ett extra val",
+      "link": "https://pod.space/kvartal/kvartal-idag-sverige-drivs-narmare-ett-extra-val",
+      "description": "Efter Magdalena Anderssons nederlag. Budgetbråk i EU – Sverige sätter emot. Vargjakten kan bli största sedan 2010. Foxprofil försvarar Trumps nya talesperson. Programledare: Cassandra Alm.",
+      "pubDate": "2026-10-15T13:49:04Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Kvartal Idag: Vilka ”hemliga krav” har Andersson på V?",
       "link": "https://pod.space/kvartal/kvartal-idag-vilka-hemliga-krav-har-andersson-pa-v",
@@ -492,39 +526,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "podcast",
       "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Därför förlorade Mohamed Ali bidragen",
-      "link": "https://pod.space/kvartal/kvartal-idag-darfor-forlorade-mohamed-ali-bidragen",
-      "description": "Stängdes av efter missade möten. Var kan de rödgröna komma överens? Så påverkas Israel tre år efter massakern. Och miljardär pekas ut som terrorfinansiär. Programledare Cassandra Alm.",
-      "pubDate": "2026-10-07T13:56:52Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
-    },
-    {
-      "title": "Inläst: Så blev tonårsutvisningar en valvinnare för S",
-      "link": "https://pod.space/kvartal/inlast-sa-blev-tonarsutvisningar-en-valvinnare-for-s",
-      "description": "Det blev en av oppositionens starkaste symbolfrågor i valrörelsen 2026. Men vägen dit är mer komplicerad än den politiska berättelsen ger sken av. De regler som i hög grad bidrog till att skapa ”tonårsutvisningarna” infördes 2016 av S och MP, och samma partier styrde när de permanentades 2021. När frågan sedan exploderade politiskt hade S alltså själv lagt en viktig del av grunden – samtidigt som partiet kunde använda konsekvenserna för att angripa Tidöregeringens migrationspolitik. Hur kunde det bli så? Av Jörgen Huitfeldt Inläsare: Jörgen Huitfeldt",
-      "pubDate": "2026-10-07T04:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
-    },
-    {
-      "title": "”De andra spelar roller i Vänsterpartiets pjäs”",
-      "link": "https://pod.space/alskadepolitik/de-andra-spelar-roller-i-vansterpartiets-pjas",
-      "description": "Centerpartiet har bjudit in de andra rödgröna partierna till ett möte – blir det islossning eller är det spel för gallerierna. Och de får de sexigaste utskotten.",
-      "pubDate": "2026-10-06T15:13:26Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V",
         "C"
       ]
     }
