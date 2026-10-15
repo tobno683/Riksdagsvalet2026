@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T01:01:48.174817Z",
+  "updated_at": "2026-10-15T06:00:20.352913Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,16 +79,56 @@
   ],
   "news": [
     {
-      "title": "Åkesson och Mohamsson  spelade biljard och drack öl",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-och-mohamsson--spelade-biljard-och-drack-ol/",
-      "description": "Jimmie Åkesson (SD) och Simona Mohamsson (L) gick på fotbollsmatch ihop. Efter slutsignal fortsatte duon sin festkväll – med biljard till efter midnatt. SD-ledaren bar en tröja med texten ”Team Ebba”.",
-      "pubDate": "2026-10-14T18:44:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Experten svarar: Detta är en statsministeromröstning",
+      "link": "https://www.dn.se/sverige/experten-svarar-detta-ar-en-statsministeromrostning/",
+      "description": "När riksdagen röstar om Magdalena Andersson som statsminister på torsdagen väntas hon falla. Varför ser vägen till en regeringsbildning ut som den gör – och varför har vi just fyra statsministeromröstningar? En avvägningsfråga, enligt Hans Hegeland, doktor i statsvetenskap.",
+      "pubDate": "2026-10-15T04:33:06Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "SD",
-        "L"
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Vad undrar du om dagens statsministeromröstning?",
+      "link": "https://www.svt.se/nyheter/inrikes/vad-undrar-du-om-dagens-statsministeromrostning",
+      "description": "I dag, torsdag, ska riksdagen rösta om Magdalena Andersson (S) som statsminister för en enpartiregering. Vad undrar du om omröstningen? Fråga SVT:s politikreporter Erik Nilsson.",
+      "pubDate": "2026-10-15T03:38:48Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "”Magdalena Andersson behöver en plan B”",
+      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-behover-en-plan-b",
+      "description": "Magdalena Andersson tonar ner betydelsen av att bli nedröstad i den första statsministeromröstningen. Att den nesan bara är ett nödvändigt ont för att till sist bli tolererad av riksdagen. Men frågan är om Socialdemokraterna verkligen har en plan för det läge som uppstått.",
+      "pubDate": "2026-10-15T03:38:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Riksdagen röstar om Magdalena Andersson (S) som statsminister",
+      "link": "https://www.sverigesradio.se/artikel/9319716",
+      "description": "Under torsdagen kommer riksdagen att ha den första statsministeromröstningen efter valet, det är stödet för Magdalena Andersson som ska prövas i kammaren. Ingen räknar med att hon kommer att få majoritet, inte ens hon själv, eftersom både de gamla Tidö-partierna och Vänsterpartiet sagt att de kommer att rösta nej. Statsvetarprofessor Jonas Hinnfors berättar vad som kan hända nu.",
+      "pubDate": "2026-10-15T02:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
       ]
     },
     {
@@ -118,18 +158,6 @@
       ]
     },
     {
-      "title": "Kriminalvården kallas upp till justitieutskottet",
-      "link": "https://www.expressen.se/nyheter/krim/kriminalvarden-kallas-upp-till-justitieutskottet/",
-      "description": "Efter Expressens avslöjanden om sexuella kränkningar och otrygghet på kvinnoanstalten i Ystad kräver Kristdemokraterna att Kriminalvården kallas till justitieutskottet för att svara på frågor. – Det här är akut, säger Larry Söder, KD:s rättspolitiska talesperson.",
-      "pubDate": "2026-10-14T16:57:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
       "title": "Hammarbys tröjsponsor kopplas till ryskorganiserad penningtvätt: ”Jätteallvarligt”",
       "link": "https://www.dn.se/sport/hammarbys-trojsponsor-kopplas-till-ryskorganiserad-penningtvatt-jatteallvarligt/",
       "description": "Finanspolisen flaggar i en ny rapport för ryskorganiserad ”penningtvätt i industriell skala” på svensk mark. Det framkommer att bankkonton hos Hammarbys huvudsponsor Revolut utnyttjas i upplägget. – Vi ser självklart jätteallvarligt på det, säger Hammarby Fotbolls försäljningschef Tomas Lindgren till Idrottsbranschen.",
@@ -139,20 +167,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Ulf Kristersson: ”Alla lösningar är helt osannolika”",
-      "link": "https://www.sverigesradio.se/artikel/9319532",
-      "description": "KD-ledaren Ebba Busch sade i en intervju med Ekot att det pågår samtal om möjligheten att få till en mitten-högerregering. Statsminister Ulf Kristersson är förtegen om vad han gör i det här avseendet. ”Jag för samtal som jag tror skulle kunna på något vis vara konstruktiva i något läge, men de samtalen håller jag med de personerna”, säger Ulf Kristersson. Moderatledaren Ulf Kristersson pekar på en ytterst komplicerad regeringsbildning, och säger att alla lösningar är ”helt osannolika”.",
-      "pubDate": "2026-10-14T14:57:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "KD",
-        "Regeringsbildning"
       ]
     },
     {
@@ -262,22 +276,21 @@
         "V",
         "C"
       ]
-    },
-    {
-      "title": "Statsvetare: Omröstningen inget hinder för Andersson",
-      "link": "https://www.dn.se/sverige/statsvetare-omrostningen-inget-hinder-for-andersson/",
-      "description": "Riksdagen kommer med allra största sannolikhet rösta nej till Magdalena Andersson på torsdag. Men det betyder inte att hennes chanser att bilda regering har försämrats, menar statsvetare. – Det utgör inte alls något hinder för henne att bli statsminister, säger Oskar Hultin Bäckersten på Mälardalens universitet.",
-      "pubDate": "2026-10-13T15:57:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "S och det Muslimska brödraskapet – 30 år av opinionsbildning",
+      "link": "https://ledarsidorna.se/s-och-det-muslimska-brodraskapet-30-ar-av-opinionsbildning/",
+      "description": "Från en konferens på Lidingö 1995 till en votering i Europaparlamentet löper en rät linje av opinionsbildning, beslut och samarbeten. Det den dåvarande utrikesministern tog initiativ till kunde kanske inte krönas med framgång i parlamentet trettio år senare men bli väl synligt för alla. Effekterna av socialdemokraternas opinionsbildning tillsammans med det Muslimska brödraskapet. När Sverige [&#8230;]",
+      "pubDate": "2026-10-15T03:21:24Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Nobelpriset mumma för rödgrön regering",
       "link": "https://www.dagensarena.se/opinion/nobelpriset-mumma-rodgron-regering/",
