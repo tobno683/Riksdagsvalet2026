@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:26:39.133399Z",
+  "updated_at": "2026-10-16T23:44:05.908050Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,19 @@
     }
   ],
   "news": [
+    {
+      "title": "Kristersson efter EU-toppmötet: ”Långt ifrån varandra”",
+      "link": "https://www.sverigesradio.se/artikel/9321389",
+      "description": "EU-toppmötet i Bryssel präglades av stor osäkerhet. Bland annat kring hur man ska enas om en ny budget, hur man ska stötta Ukraina och hur man ska hantera migrationen. Inga framsteg gjordes och nu flyttas det upp till högsta nivå , EU:s ordförande Antonio Costa ska leda förhandlingarna framåt. ”Det finns inte en gnutta av enighet i detta”, sa statsminister Ulf Kristersson.",
+      "pubDate": "2026-10-16T22:12:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Expert: Sverige skulle kunna ge Patriotrobotar till Ukraina",
       "link": "https://www.dn.se/varlden/expert-sverige-skulle-kunna-ge-patriotrobotar-till-ukraina/",
@@ -215,18 +228,6 @@
       ]
     },
     {
-      "title": "Efter Vänsterns kryssraket – M-ledamot vill ändra lagen",
-      "link": "https://www.expressen.se/nyheter/politik/efter-vansterns-kryssraket-m-ledamot-vill-andra-lagen/",
-      "description": "Vänsterpartisten Mohamed Ali kryssade sig in i riksdagen efter sju månader som svensk medborgare. Nu vill moderaten Louise Meijer att grundlagen ändras.",
-      "pubDate": "2026-10-16T12:44:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Sveriges lärare om SKR:s utspel: Skulle inte säga dubbelreglering",
       "link": "https://www.sverigesradio.se/artikel/9320978",
       "description": "Facket Sveriges lärare svarar nu på Sveriges kommuner och regioners utspel att säga upp kollektivavtalet på frågan om arbetstider. Den nya lagstiftningen som reglerar lärares undervisningstid och planeringstid går inte ihop med reglerna i avtalet, enligt SKR. ”Man kan också se det som att lagstiftningen och avtalet kompletterar varandra. Jag skulle inte säga dubbelreglering”, säger Moa Andersson, förhandlingschef på fackförbundet Sveriges lärare.",
@@ -265,6 +266,19 @@
     }
   ],
   "blogs": [
+    {
+      "title": "S säkerhetspolitiska doktrin: Lämna Kreml ifred",
+      "link": "https://ledarsidorna.se/s-sakerhetspolitiska-doktrin-lamna-kreml-ifred/",
+      "description": "Magdalena Anderssons spontana kritik mot det svenska engagemanget i Östersjöregionen i en intervju i Politico fick i sig stark kritik. Det fokus som regeringen Kristersson satt vill Kreml av lätt insedda och historiska skäl skall upphöra. Med socialdemokraternas kritik mot ett säkerhetspolitiskt fokus på det svenska närområdet formas en socialdemokratisk säkerhetspolitisk doktrin som har djupa [&#8230;]",
+      "pubDate": "2026-10-16T22:06:00Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
     {
       "title": "Kristdemokraterna – inget oskyldigt ”mittenparti”",
       "link": "https://www.dagensarena.se/opinion/kristdemokraterna-inget-oskyldigt-mittenparti/",
