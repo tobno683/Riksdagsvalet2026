@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T09:58:13.594414Z",
+  "updated_at": "2026-10-16T14:28:51.087277Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,102 @@
   ],
   "news": [
     {
+      "title": "Fredrik Furtenbach: ”Talmannens jobb är ovanligt svårt den här gången”",
+      "link": "https://www.sverigesradio.se/artikel/9321115",
+      "description": "På fredagen har det gått 33 dagar sedan Sverige gick till val. Talmannen Andreas Norlén har kallat till pressträff på måndag, med anledning av nästa steg i regeringsbildningen. Att partierna är oeniga om vem som bör få uppdraget att sondera, gör talmannens jobb ovanligt svårt just nu, enligt Ekots inrikespolitiska kommentator Fredrik Furtenbach. Kan talmannen tvinga någon att sondera? Och vilka scenarier väntar framåt? Hör Fredrik Furtenbach förklara läget i regeringsbildningen.",
+      "pubDate": "2026-10-16T14:16:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Beskedet om Mohamed Ali (V): Tillträder ”inom kort”",
+      "link": "https://www.expressen.se/nyheter/politik/beskedet-om-mohamed-ali-v-tilltrader-inom-kort/",
+      "description": "V-kryssraketen Mohamed Ali har varit frånvarande sen han valdes in i riksdagen. Först tog han en timeout, sen sjukskrev han sig – men nu ska han tillträda ”inom kort”, meddelar Vänsterpartiet. Han har bland annat fått en ny bild på risdagens hemsida.",
+      "pubDate": "2026-10-16T14:09:37Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Sandeep protesterar i New Delhi: ”Det är min rätt”",
+      "link": "https://www.sverigesradio.se/artikel/9321116",
+      "description": "I Indien fortsatte Kackerlackspartiets protester mot landets styre. Grundaren av proteströrelsen har idag frihetsberövats, enligt partiet. På Cannought Place i centrala New Delhi har många människor samlats. Demonstranterna kräver valmyndighetens chefs avgång. Här möts de av polis och paramilitära styrkor. En av demonstranterna, Sandeep, säger till Ekot att han vill utöva sin rätt att demonstrera, resa en flagga.",
+      "pubDate": "2026-10-16T13:54:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Så mycket kan ett extra val kosta",
+      "link": "https://www.sverigesradio.se/artikel/9321073",
+      "description": "Sverige har inte fått någon ny regering efter valet, igår torsdag stoppade riksdagen i en omröstning Socialdemokraternas Magdalena Andersson från att bli statsminister. Efter fyra misslyckade statsministeromröstningar blir det automatiskt extra val och det ska sedan hållas inom tre månader efter det att regeringen har utlyst det. ”Nästan exakt som ett ordinarie val bara mycket mer begränsad tid\", säger Valmyndighetens kanslichef Anna Nyqvist.",
+      "pubDate": "2026-10-16T13:31:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ebba Busch tror inte på  utplåning av mänskligheten",
+      "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-tror-inte-pa-utplaning-av-manskligheten",
+      "description": "Kan AI innebära slutet för mänskligheten? Nej, tror både Mikael Damberg (S) och Ebba Busch (KD). – Men jag tycker att man ska ta den frågan på allvar, säger hon.",
+      "pubDate": "2026-10-16T13:21:27Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "KD"
+      ]
+    },
+    {
+      "title": "Efter Vänsterns kryssraket – M-ledamot vill ändra lagen",
+      "link": "https://www.expressen.se/nyheter/politik/efter-vansterns-kryssraket-m-ledamot-vill-andra-lagen/",
+      "description": "Vänsterpartisten Mohamed Ali kryssade sig in i riksdagen efter sju månader som svensk medborgare. Nu vill moderaten Louise Meijer att grundlagen ändras.",
+      "pubDate": "2026-10-16T12:44:21Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Sveriges lärare om SKR:s utspel: Skulle inte säga dubbelreglering",
+      "link": "https://www.sverigesradio.se/artikel/9320978",
+      "description": "Facket Sveriges lärare svarar nu på Sveriges kommuner och regioners utspel att säga upp kollektivavtalet på frågan om arbetstider. Den nya lagstiftningen som reglerar lärares undervisningstid och planeringstid går inte ihop med reglerna i avtalet, enligt SKR. ”Man kan också se det som att lagstiftningen och avtalet kompletterar varandra. Jag skulle inte säga dubbelreglering”, säger Moa Andersson, förhandlingschef på fackförbundet Sveriges lärare.",
+      "pubDate": "2026-10-16T12:01:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Lyckades knäcka den politiska nöten: C kliver in i rödgrönt styre",
+      "link": "https://www.dn.se/sverige/lyckades-knacka-den-politiska-noten-c-kliver-in-i-rodgront-styre/",
+      "description": "Sveriges näst största region har knäckt den politiska nöten. Västra Götaland kommer att styras av S, MP, V – och C, som även regionalt gick till val på att inte sitta i en sån konstellation. – Vi stiger in i detta för att få fart framåt, säger Cecilia Andersson (C).",
+      "pubDate": "2026-10-16T10:15:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Besvikelse i KD efter att SD snuvat partiet på utskottspost",
       "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-kd-efter-att-sd-snuvat-partiet-pa-utskottspost",
       "description": "Att Sverigedemokraterna knep ordförandeposten i socialutskottet har väckt känslor i KD. Källor vittnar nu om en dragkamp om vårdfrågan till höger i politiken. – Vi tar gärna ansvar för välfärdsfrågorna, säger Ebba Busch (KD).",
@@ -90,28 +186,6 @@
         "SD",
         "KD"
       ]
-    },
-    {
-      "title": "Andersson i fortsatta möten: Gediget schema",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-i-fortsatta-moten-gediget-schema/",
-      "description": "Talmannen ska ge besked om vem som ska sondera härnäst – när Magdalena Andersson nu har röstats ned. Samtidigt fortsätter S-ledaren försöken att få ihop de rödgröna.&nbsp; –&nbsp;Jag har naturligtvis ett gediget schema med möten och telefonsamtal, säger hon.",
-      "pubDate": "2026-10-16T05:02:53Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Fyra av tio rödgröna nobbar V-ministrar",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ea419fa4-d445-4ec7-ac2d-bd0b1e9a48fd",
-      "description": "Undersökning från TV4/Novus",
-      "pubDate": "2026-10-16T04:26:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Insändare. Byt ut ”demokratisk socialism” mot socialliberalism",
@@ -165,21 +239,6 @@
       ]
     },
     {
-      "title": "Vänsterpartiets olyckliga kärlek till Centern",
-      "link": "https://www.dn.se/podd/alskade-politik/vansterpartiets-olyckliga-karlek-till-centern/",
-      "description": "Trånar V efter C och har Elisabeth Thand Ringqvist en röd linje mot sig själv? På torsdagen röstades Magdalena Andersson ner i en första (dramatisk?) statsministeromröstning.",
-      "pubDate": "2026-10-15T14:07:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "De rödgröna: Därför ska Kristersson få uppdraget",
       "link": "https://www.svt.se/nyheter/inrikes/de-rodgrona-darfor-ska-kristersson-fa-uppdraget",
       "description": "På torsdagen föll Magdalena Andersson i den första statsministeromröstningen efter valet. Resultatet blev 99 röster för och 248 röster emot med två frånvarande riksdagsledamöter. Vem som ska få sonderingsuppdraget nu är inte klart men flera rödgröna partiledare vill att uppdraget går till Ulf Kristersson.",
@@ -198,74 +257,6 @@
       "link": "https://www.dn.se/sverige/riksdagen-sager-nej-till-magdalena-andersson-som-statsminister/",
       "description": "S-ledaren Magdalena Andersson förlorade statsministeromröstningen i riksdagen med stor marginal. Samtliga partier utom Socialdemokraterna röstade nej till henne som statsminister. – Jag kommer att fortsätta arbeta med olika partier i riksdagen för att hitta en väg framåt, säger Magdalena Andersson.",
       "pubDate": "2026-10-15T11:21:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. C borde kunna byta sida utan större svekdebatt",
-      "link": "https://www.dn.se/insandare/c-borde-kunna-byta-sida-utan-storre-svekdebatt/",
-      "description": "INSÄNDARE. Sverige behöver en tillväxtvänlig ekonomisk politik och att de fyra forna allianspartierna åter gör gemensam sak. Om inte får Centerpartiet förmodligen bita i det sura äpplet och ingå i samma regering som Vänsterpartiet, skriver Staffan Ericsson.",
-      "pubDate": "2026-10-15T10:44:49Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "EU-ledarna rasar över USA:s dieselavtal med Ryssland: ”Gåva till Putin”",
-      "link": "https://www.dn.se/varlden/eu-ledarna-rasar-over-usas-dieselavtal-med-ryssland-gava-till-putin/",
-      "description": "BRYSSEL. USA:s ryska dieselaffärer ritar om spelplanen på nytt och får EU:s ledare att se rött. – Det är otroligt bekymmersamt och vi beklagar det djupt, säger statsminister Ulf Kristersson på väg in till mötet. Samtidigt fortsätter fler EU-länder att importera olja och gas från Ryssland.",
-      "pubDate": "2026-10-15T10:06:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Varning för storkoalition som skulle stärka V och SD",
-      "link": "https://www.dn.se/insandare/varning-for-storkoalition-som-skulle-starka-v-och-sd/",
-      "description": "INSÄNDARE. Doften av maktens köttgrytor har alltid kunna leda Socialdemokraterna till märkliga konstellationer och svek. Troligen skulle en storkoalition av tysk modell innebära att ytterflankerna stärks och att Vänsterpartiet och Sverigedemokraterna växer, skriver Peter Strand, före detta utredare och föredragande i riksdagen.",
-      "pubDate": "2026-10-15T09:04:24Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "C- och V-veteranerna ryker ihop om regeringsbildningen: ”Oförskämd”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-och-v-veteranerna-ryker-ihop-om-regeringsbildningen-oforskamd",
-      "description": "Centerpartiets tidigare partiledare Maud Olofsson och Vänsterpartiets före detta ekonomisk-politiska talesperson Ulla Andersson debatterade regeringsbildning i onsdagens Aktuellt. Men punkterna som de båda höll med om var få.",
-      "pubDate": "2026-10-15T07:36:37Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Experten svarar: Detta är en statsministeromröstning",
-      "link": "https://www.dn.se/sverige/experten-svarar-detta-ar-en-statsministeromrostning/",
-      "description": "När riksdagen röstar om Magdalena Andersson som statsminister på torsdagen väntas hon falla. Varför ser vägen till en regeringsbildning ut som den gör – och varför har vi just fyra statsministeromröstningar? En avvägningsfråga, enligt Hans Hegeland, doktor i statsvetenskap.",
-      "pubDate": "2026-10-15T04:33:06Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -339,6 +330,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Fredagsintervjun: Våra ungdomar vågar inte stå emot islamisterna",
+      "link": "https://pod.space/kvartal/fredagsintervjun-vara-ungdomar-vagar-inte-sta-emot-islamisterna",
+      "description": "Egenföretagaren och tidigare Mp-politikern Rebwar Hassan intervjuas av Magnus Thorén. 2017 uteslöts stockholmspolitikern Rebwar Hassan ur Miljöpartiet. Han gjorde det efter att ha varnat för en växande islamism inom partiet, och för att politisk islam enligt honom alltmer hotar vårt öppna samhälle. Hur ser han på de här varningarna idag och har de politiska partierna blivit bättre på att identifiera och motverka infiltration? Och vilka är hans tankar om Västerpartiets framgångar i många förorter? Behöver vi oroa oss för klanröstning, eller handlar framgångarna mer om att svensk höger lämnat ”walk over” i utsatta områden?",
+      "pubDate": "2026-10-16T10:50:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "324. C öppnar för Dadgostar",
       "link": "https://pod.space/politikrummet/324-c-oppnar-for-dadgostar",
@@ -517,18 +520,6 @@
       "sourceType": "podcast",
       "topics": [
         "KD"
-      ]
-    },
-    {
-      "title": "321. Då backar Centerpartiet",
-      "link": "https://pod.space/politikrummet/321-da-backar-centerpartiet",
-      "description": "För första gången sedan valet möts de rödgröna partiledarna – på en kursgård på Lidingö. Är Thand Ringqvist på väg att mjukna? I studion: Filippa Rogvall, Viktor Barth-Kron, Anette Holmqvist och Max V Karlsson. Producent: Anna Westman Swantesson Ljudklipp från SVT Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-10-08T12:51:43Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "C"
       ]
     }
   ]
