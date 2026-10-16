@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T05:13:32.281239Z",
+  "updated_at": "2026-10-16T09:58:13.594414Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,19 @@
   ],
   "news": [
     {
+      "title": "Besvikelse i KD efter att SD snuvat partiet på utskottspost",
+      "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-kd-efter-att-sd-snuvat-partiet-pa-utskottspost",
+      "description": "Att Sverigedemokraterna knep ordförandeposten i socialutskottet har väckt känslor i KD. Källor vittnar nu om en dragkamp om vårdfrågan till höger i politiken. – Vi tar gärna ansvar för välfärdsfrågorna, säger Ebba Busch (KD).",
+      "pubDate": "2026-10-16T09:02:26Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
+      ]
+    },
+    {
       "title": "Andersson i fortsatta möten: Gediget schema",
       "link": "https://www.expressen.se/nyheter/politik/andersson-i-fortsatta-moten-gediget-schema/",
       "description": "Talmannen ska ge besked om vem som ska sondera härnäst – när Magdalena Andersson nu har röstats ned. Samtidigt fortsätter S-ledaren försöken att få ihop de rödgröna.&nbsp; –&nbsp;Jag har naturligtvis ett gediget schema med möten och telefonsamtal, säger hon.",
@@ -114,18 +127,6 @@
       ]
     },
     {
-      "title": "Romina Pourmokhtari om C: ”Lovat enhörningar”",
-      "link": "https://www.expressen.se/nyheter/politik/romina-pourmokhtari-om-c-lovat-enhorningar/",
-      "description": "Centerpartiet har lovat ”enhörningar och regnbågar”, enligt L-toppen Romina Pourmokhtari. Hon skjuter ner Centerns dröm om ett mittenstyre. – De förespråkar en linje ingen annan vill se, säger hon till Svenska Dagbladet.",
-      "pubDate": "2026-10-15T22:01:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "15 oktober: Missa inte dagens nyheter",
       "link": "https://www.dn.se/varlden/15-oktober-missa-inte-dagens-nyheter/",
       "description": "Nej till Andersson som statsminister, svensk gripen i Ryssland och EU rasar över dieselavtal – här är dagens nyheter.",
@@ -149,44 +150,6 @@
       "topics": [
         "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Centerns nya taktik för att hålla V borta",
-      "link": "https://www.expressen.se/nyheter/politik/centerns-nya-taktik-for-att-halla-v-borta/",
-      "description": "Vänsterpartiets motstånd mot Nato och det militära DCA-avtalet.&nbsp; Det är röda skynken som visar varför Nooshi Dadgostar ska hållas utanför en rödgrön regering, anser Elisabeth Thand Ringqvist. – Vi kan inte sitta i regering med dem, säger hon.",
-      "pubDate": "2026-10-15T18:31:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Ginna Lindberg: ”Trump försöker få valet att handla om honom”",
-      "link": "https://www.sverigesradio.se/artikel/9320220",
-      "description": "I USA går valrörelsen in på slutspurten inför mellanårsvalet den 3:e november. Makten i kongressen står på spel, och president Donald Trump har intensifierat sina försök att rädda republikanernas majoritet. ”Frågan är vem som vinner mest på att Donald Trump nu är republikanernas stora vallokomotiv”, säger Sveriges Radios USA-korrespondent, Ginna Lindberg.",
-      "pubDate": "2026-10-15T15:11:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Fredrik Furtenbach: ”Inte rört sig en millimeter”",
-      "link": "https://www.sverigesradio.se/artikel/9320218",
-      "description": "Centerpartiet har föreslagit en ren S-regering som både C, V och MP skulle stödja utan att sitta i den. Fredrik Furtenbach, Ekots politikkommentator, kommenterar C:s förslag och berättar vad som händer härnäst i partiernas försök att bilda en regering. ”Det troligaste nästa steg är att någon får sondera igen, troligtvis Ulf Kristersson”, säger han.",
-      "pubDate": "2026-10-15T14:44:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
       ]
     },
     {
@@ -266,6 +229,48 @@
       "sourceType": "news",
       "topics": [
         "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Varning för storkoalition som skulle stärka V och SD",
+      "link": "https://www.dn.se/insandare/varning-for-storkoalition-som-skulle-starka-v-och-sd/",
+      "description": "INSÄNDARE. Doften av maktens köttgrytor har alltid kunna leda Socialdemokraterna till märkliga konstellationer och svek. Troligen skulle en storkoalition av tysk modell innebära att ytterflankerna stärks och att Vänsterpartiet och Sverigedemokraterna växer, skriver Peter Strand, före detta utredare och föredragande i riksdagen.",
+      "pubDate": "2026-10-15T09:04:24Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "C- och V-veteranerna ryker ihop om regeringsbildningen: ”Oförskämd”",
+      "link": "https://www.svt.se/nyheter/inrikes/c-och-v-veteranerna-ryker-ihop-om-regeringsbildningen-oforskamd",
+      "description": "Centerpartiets tidigare partiledare Maud Olofsson och Vänsterpartiets före detta ekonomisk-politiska talesperson Ulla Andersson debatterade regeringsbildning i onsdagens Aktuellt. Men punkterna som de båda höll med om var få.",
+      "pubDate": "2026-10-15T07:36:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Experten svarar: Detta är en statsministeromröstning",
+      "link": "https://www.dn.se/sverige/experten-svarar-detta-ar-en-statsministeromrostning/",
+      "description": "När riksdagen röstar om Magdalena Andersson som statsminister på torsdagen väntas hon falla. Varför ser vägen till en regeringsbildning ut som den gör – och varför har vi just fyra statsministeromröstningar? En avvägningsfråga, enligt Hans Hegeland, doktor i statsvetenskap.",
+      "pubDate": "2026-10-15T04:33:06Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
         "Regeringsbildning"
       ]
     }
