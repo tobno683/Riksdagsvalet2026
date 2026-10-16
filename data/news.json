@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T22:31:20.365479Z",
+  "updated_at": "2026-10-16T00:52:05.034477Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -277,6 +277,18 @@
   ],
   "blogs": [
     {
+      "title": "Kristdemokraterna – inget oskyldigt ”mittenparti”",
+      "link": "https://www.dagensarena.se/opinion/kristdemokraterna-inget-oskyldigt-mittenparti/",
+      "description": "KD har en extrem hållning när det gäller demokrati och klimat. Inlägget Kristdemokraterna – inget oskyldigt ”mittenparti” dök först upp på Dagens Arena .",
+      "pubDate": "2026-10-15T23:15:09Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
       "title": "S och det Muslimska brödraskapet – 30 år av opinionsbildning",
       "link": "https://ledarsidorna.se/s-och-det-muslimska-brodraskapet-30-ar-av-opinionsbildning/",
       "description": "Från en konferens på Lidingö 1995 till en votering i Europaparlamentet löper en rät linje av opinionsbildning, beslut och samarbeten. Det den dåvarande utrikesministern tog initiativ till kunde kanske inte krönas med framgång i parlamentet trettio år senare men bli väl synligt för alla. Effekterna av socialdemokraternas opinionsbildning tillsammans med det Muslimska brödraskapet. När Sverige [&#8230;]",
@@ -287,16 +299,6 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Nobelpriset mumma för rödgrön regering",
-      "link": "https://www.dagensarena.se/opinion/nobelpriset-mumma-rodgron-regering/",
-      "description": "Vad kan vi lära oss av ekonomipristagarna? Inlägget Nobelpriset mumma för rödgrön regering dök först upp på Dagens Arena .",
-      "pubDate": "2026-10-13T10:35:11Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
     },
     {
       "title": "Kremls skuggor över Socialdemokraternas utrikes- och säkerhetspolitik",
