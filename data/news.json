@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T00:52:05.034477Z",
+  "updated_at": "2026-10-16T05:13:32.281239Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,41 @@
   ],
   "news": [
     {
+      "title": "Andersson i fortsatta möten: Gediget schema",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-i-fortsatta-moten-gediget-schema/",
+      "description": "Talmannen ska ge besked om vem som ska sondera härnäst – när Magdalena Andersson nu har röstats ned. Samtidigt fortsätter S-ledaren försöken att få ihop de rödgröna.&nbsp; –&nbsp;Jag har naturligtvis ett gediget schema med möten och telefonsamtal, säger hon.",
+      "pubDate": "2026-10-16T05:02:53Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Fyra av tio rödgröna nobbar V-ministrar",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=ea419fa4-d445-4ec7-ac2d-bd0b1e9a48fd",
+      "description": "Undersökning från TV4/Novus",
+      "pubDate": "2026-10-16T04:26:58Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Byt ut ”demokratisk socialism” mot socialliberalism",
+      "link": "https://www.dn.se/insandare/byt-ut-demokratisk-socialism-mot-socialliberalism/",
+      "description": "INSÄNDARE. Jag har i flera val röstat på Socialdemokraterna, men skulle aldrig i livet kalla mig för socialist. Ett alternativ vore att stryka ”demokratisk socialism” ur partiprogrammet och i stället ta över begreppet socialliberalism från Liberalerna, skriver Tycho Tullberg.",
+      "pubDate": "2026-10-16T03:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L"
+      ]
+    },
+    {
       "title": "Romina Pourmokhtari om C: ”Lovat enhörningar”",
       "link": "https://www.expressen.se/nyheter/politik/romina-pourmokhtari-om-c-lovat-enhorningar/",
       "description": "Centerpartiet har lovat ”enhörningar och regnbågar”, enligt L-toppen Romina Pourmokhtari. Hon skjuter ner Centerns dröm om ett mittenstyre. – De förespråkar en linje ingen annan vill se, säger hon till Svenska Dagbladet.",
@@ -155,18 +190,6 @@
       ]
     },
     {
-      "title": "Trump backar om direktsändning av avrättning",
-      "link": "https://www.sverigesradio.se/artikel/9320375",
-      "description": "USA:s president Donald Trump uppger nu att man inte kommer att direktsända den planerade avrättningen av den tidigare militären Nidal Hasan som är dömd för massmord. ”Trump verkar ha lyssnat på kritiken, och det har verkligen varit en storm av kritik”, säger Sveriges Radios USA-korrespondent Ginna Lindberg. Planerna har fått kritik från både demokrater och republikaner.",
-      "pubDate": "2026-10-15T14:32:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "Nytt gräl om straffskärpningar mellan S och M",
       "link": "https://www.dn.se/sverige/nytt-gral-om-straffskarpningar-mellan-s-och-m/",
       "description": "Justitieminister Gunnar Strömmer (M) och Kriminalvårdens generaldirektör Rikard Jermsten kallas till justitieutskottet för att redogöra för bristen på fängelseplatser. – Vi går nu mot ett allvarligt läge, säger utskottsordförande Teresa Carvalho (S).",
@@ -194,21 +217,6 @@
       ]
     },
     {
-      "title": "C öppnar för S-regering efter Anderssons fall",
-      "link": "https://www.sverigesradio.se/artikel/9320254",
-      "description": "Efter att Magdalena Andersson som väntat föll i statsministeromröstningen i riksdagen så är positionerna fortsatt låsta. Men Centerledaren Elisabeth Thand Ringquist öppnar idag dörren för en Socialdemokratisk enpartiregering - om Vänsterpartiet och Miljöpartiet släpper sina krav om att sitta i regering. Nu kommer talmannen att samtal med alla partiledare, igen - för att imorgon ge besked om vad som sker härnäst.",
-      "pubDate": "2026-10-15T13:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "MP",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "De rödgröna: Därför ska Kristersson få uppdraget",
       "link": "https://www.svt.se/nyheter/inrikes/de-rodgrona-darfor-ska-kristersson-fa-uppdraget",
       "description": "På torsdagen föll Magdalena Andersson i den första statsministeromröstningen efter valet. Resultatet blev 99 röster för och 248 röster emot med två frånvarande riksdagsledamöter. Vem som ska få sonderingsuppdraget nu är inte klart men flera rödgröna partiledare vill att uppdraget går till Ulf Kristersson.",
@@ -219,19 +227,6 @@
       "topics": [
         "S",
         "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Helena Gissén: ”Ett stort nederlag för Magdalena Andersson”",
-      "link": "https://www.sverigesradio.se/artikel/9320119",
-      "description": "I den första av fyra statsministeromröstingar innan ett eventuellt extraval, var svaret från riksdagen nej till socialdemokraternas partiledare Magdalena Andersson. Sveriges Radios politikkommentator Helena Gissén kommenterar utfallet. ”Det var väntat, och naturligtvis ett stort nederlag för Magdalena Andersson”, säger hon.",
-      "pubDate": "2026-10-15T11:35:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
         "Regeringsbildning"
       ]
     },
@@ -249,19 +244,6 @@
       ]
     },
     {
-      "title": "Alla andra partier röstade nej till Andersson (S) som statsminister",
-      "link": "https://www.sverigesradio.se/artikel/9320064",
-      "description": "Under torsdagen har riksdagen hållit en statsministeromröstning om Socialdemokratiska ledaren Magdalena Andersson. Som förväntat lyckades hon inte samla tillräckligt med ledamöter bakom sig som statsminister – och alla utom Socialdemokraterna själva, röstade nej. ”För mig har det varit tydligt sedan valnatten att det kommer krävas ett antal statsministeromröstningar innan en ny regering är på plats ”, säger Magdalena Andersson.",
-      "pubDate": "2026-10-15T10:52:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Insändare. C borde kunna byta sida utan större svekdebatt",
       "link": "https://www.dn.se/insandare/c-borde-kunna-byta-sida-utan-storre-svekdebatt/",
       "description": "INSÄNDARE. Sverige behöver en tillväxtvänlig ekonomisk politik och att de fyra forna allianspartierna åter gör gemensam sak. Om inte får Centerpartiet förmodligen bita i det sura äpplet och ingå i samma regering som Vänsterpartiet, skriver Staffan Ericsson.",
@@ -272,6 +254,19 @@
       "topics": [
         "V",
         "C"
+      ]
+    },
+    {
+      "title": "EU-ledarna rasar över USA:s dieselavtal med Ryssland: ”Gåva till Putin”",
+      "link": "https://www.dn.se/varlden/eu-ledarna-rasar-over-usas-dieselavtal-med-ryssland-gava-till-putin/",
+      "description": "BRYSSEL. USA:s ryska dieselaffärer ritar om spelplanen på nytt och får EU:s ledare att se rött. – Det är otroligt bekymmersamt och vi beklagar det djupt, säger statsminister Ulf Kristersson på väg in till mötet. Samtidigt fortsätter fler EU-länder att importera olja och gas från Ryssland.",
+      "pubDate": "2026-10-15T10:06:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
       ]
     }
   ],
