@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T14:28:51.087277Z",
+  "updated_at": "2026-10-16T18:15:34.479309Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,82 @@
   ],
   "news": [
     {
+      "title": "Expert: Sverige skulle kunna ge Patriotrobotar till Ukraina",
+      "link": "https://www.dn.se/varlden/expert-sverige-skulle-kunna-ge-patriotrobotar-till-ukraina/",
+      "description": "Ukraina uppges nu ha slut på Patriotrobotar efter höstens allt mer intensiva ryska anfall mot el- och värmeanläggningar. Militärexperten Johan Huovinen säger att Sverige skulle kunna avvara robotar till Ukraina, men statsminister Ulf Kristersson anser att de behövs för Sveriges eget försvar.",
+      "pubDate": "2026-10-16T18:12:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Centerpartiets SD-nej luckras upp i landet",
+      "link": "https://www.expressen.se/nyheter/politik/centerpartiets-sd-nej-luckras-upp-i-landet/",
+      "description": "Centerpartiets nej till SD luckras upp runtom i landet – nu bubblar frågan i centerkretsar. I Växjö ska C styra med aktivt stöd av SD. –&nbsp;Vi har ingen direktkontakt, de låter Moderaterna föra samtalen med oss, säger Pernilla Wikeland (SD).",
+      "pubDate": "2026-10-16T17:02:36Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Bråk bakom kulisserna: C vägrar delta i rödgröna möten",
+      "link": "https://www.dn.se/sverige/brak-bakom-kulisserna-c-vagrar-delta-i-rodgrona-moten/",
+      "description": "S, V, MP och C kom efter valet överens om att säkra en rödgrön majoritet i riksdagens utskott. Men ett organiserat samarbete vill Centerpartiet inte vara med på. – Jag är väldigt förvånad över Centerpartiets inställning, säger Samuel Gonzalez Westling, Vänsterpartiets gruppledare.",
+      "pubDate": "2026-10-16T16:08:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Centern nobbar rödgröna möten",
+      "link": "https://www.expressen.se/nyheter/politik/centern-nobbar-rodgrona-moten/",
+      "description": "De fyra rödgröna partierna har bildat ”kartell” för att säkra majoritet i riksdagen. Men C dyker inte upp på gemensamma möten. – Det skapar osäkerhet kring vilka som faktiskt utgör riksdagens majoritet, säger V-gruppledaren Samuel Gonzalez Westling.",
+      "pubDate": "2026-10-16T16:05:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Kristersson: Inte min tur att sondera ny regering",
+      "link": "https://www.sverigesradio.se/artikel/9321260",
+      "description": "Statsminister Ulf Kristersson tycker inte att det är han, som i det här läget ska ha sonderingsuppdraget för en ny svensk regering. Men om han får frågan, så säger han inte nej till talmannen. ”Det är klart att finns det förutsättningar, om någonting håller på att förändras, då ska alla veta att jag inte är blyg. Jag kommer inte undvika att pröva en sådan regeringsbildning som jag tycker skulle vara bra för Sverige”, säger Ulf Kristersson (M).",
+      "pubDate": "2026-10-16T15:11:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. C bör acceptera V-tjänstemän i Regeringskansliet",
+      "link": "https://www.dn.se/insandare/c-bor-acceptera-v-tjansteman-i-regeringskansliet/",
+      "description": "INSÄNDARE. Ett extraval, som troligen skulle sluta med ett Tidö 2.0, skulle kunna drabba Vänsterpartiet mer än något annat parti. Centerpartiet har historiskt lyckats med regeringskompromisser med Socialdemokraterna flera gånger, liksom med Alliansen, och kan nog även kompromissa med V till slut, skriver Håkan Lennerstad.",
+      "pubDate": "2026-10-16T14:50:38Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "Fredrik Furtenbach: ”Talmannens jobb är ovanligt svårt den här gången”",
       "link": "https://www.sverigesradio.se/artikel/9321115",
       "description": "På fredagen har det gått 33 dagar sedan Sverige gick till val. Talmannen Andreas Norlén har kallat till pressträff på måndag, med anledning av nästa steg i regeringsbildningen. Att partierna är oeniga om vem som bör få uppdraget att sondera, gör talmannens jobb ovanligt svårt just nu, enligt Ekots inrikespolitiska kommentator Fredrik Furtenbach. Kan talmannen tvinga någon att sondera? Och vilka scenarier väntar framåt? Hör Fredrik Furtenbach förklara läget i regeringsbildningen.",
@@ -93,7 +169,7 @@
     {
       "title": "Beskedet om Mohamed Ali (V): Tillträder ”inom kort”",
       "link": "https://www.expressen.se/nyheter/politik/beskedet-om-mohamed-ali-v-tilltrader-inom-kort/",
-      "description": "V-kryssraketen Mohamed Ali har varit frånvarande sen han valdes in i riksdagen. Först tog han en timeout, sen sjukskrev han sig – men nu ska han tillträda ”inom kort”, meddelar Vänsterpartiet. Han har bland annat fått en ny bild på risdagens hemsida.",
+      "description": "V-kryssraketen Mohamed Ali har varit frånvarande sen han valdes in i riksdagen. Först tog han en timeout, sen sjukskrev han sig – men nu ska han tillträda ”inom kort”, meddelar Vänsterpartiet. Han har bland annat fått en ny bild på riksdagens hemsida. – Han är inte delgiven misstanke för något brott så det är naturligt att han tillträder, säger V:s gruppledare Samuel Gonzalez Westling till Dagens ETC .",
       "pubDate": "2026-10-16T14:09:37Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -185,84 +261,6 @@
       "topics": [
         "SD",
         "KD"
-      ]
-    },
-    {
-      "title": "Insändare. Byt ut ”demokratisk socialism” mot socialliberalism",
-      "link": "https://www.dn.se/insandare/byt-ut-demokratisk-socialism-mot-socialliberalism/",
-      "description": "INSÄNDARE. Jag har i flera val röstat på Socialdemokraterna, men skulle aldrig i livet kalla mig för socialist. Ett alternativ vore att stryka ”demokratisk socialism” ur partiprogrammet och i stället ta över begreppet socialliberalism från Liberalerna, skriver Tycho Tullberg.",
-      "pubDate": "2026-10-16T03:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
-      "title": "15 oktober: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/15-oktober-missa-inte-dagens-nyheter/",
-      "description": "Nej till Andersson som statsminister, svensk gripen i Ryssland och EU rasar över dieselavtal – här är dagens nyheter.",
-      "pubDate": "2026-10-15T19:27:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "”Nu ökar pressen på Magdalena Andersson”",
-      "link": "https://www.svt.se/nyheter/inrikes/nu-okar-pressen-pa-magdalena-andersson",
-      "description": "Det tydliga nederlaget i statsministeromröstningen var visserligen väntat, men är samtidigt symboliskt jobbigt för Magdalena Andersson, som utropat sig till valvinnare och firat med tårta på partihögkvarteret. Nu tar Sverige ett steg närmare ett extraval och därmed ökar pressen på inblandade partier.",
-      "pubDate": "2026-10-15T18:46:28Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Nytt gräl om straffskärpningar mellan S och M",
-      "link": "https://www.dn.se/sverige/nytt-gral-om-straffskarpningar-mellan-s-och-m/",
-      "description": "Justitieminister Gunnar Strömmer (M) och Kriminalvårdens generaldirektör Rikard Jermsten kallas till justitieutskottet för att redogöra för bristen på fängelseplatser. – Vi går nu mot ett allvarligt läge, säger utskottsordförande Teresa Carvalho (S).",
-      "pubDate": "2026-10-15T14:11:23Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "De rödgröna: Därför ska Kristersson få uppdraget",
-      "link": "https://www.svt.se/nyheter/inrikes/de-rodgrona-darfor-ska-kristersson-fa-uppdraget",
-      "description": "På torsdagen föll Magdalena Andersson i den första statsministeromröstningen efter valet. Resultatet blev 99 röster för och 248 röster emot med två frånvarande riksdagsledamöter. Vem som ska få sonderingsuppdraget nu är inte klart men flera rödgröna partiledare vill att uppdraget går till Ulf Kristersson.",
-      "pubDate": "2026-10-15T12:33:04Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Riksdagen säger nej till Magdalena Andersson som statsminister",
-      "link": "https://www.dn.se/sverige/riksdagen-sager-nej-till-magdalena-andersson-som-statsminister/",
-      "description": "S-ledaren Magdalena Andersson förlorade statsministeromröstningen i riksdagen med stor marginal. Samtliga partier utom Socialdemokraterna röstade nej till henne som statsminister. – Jag kommer att fortsätta arbeta med olika partier i riksdagen för att hitta en väg framåt, säger Magdalena Andersson.",
-      "pubDate": "2026-10-15T11:21:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     }
   ],
