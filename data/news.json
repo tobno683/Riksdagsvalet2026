@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T11:00:39.723469Z",
+  "updated_at": "2026-10-17T14:05:11.258895Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,31 @@
     }
   ],
   "news": [
+    {
+      "title": "MP-irritationen mot C efter beskedet: ”Bara spel”",
+      "link": "https://www.dn.se/sverige/mp-irritationen-mot-c-efter-beskedet-bara-spel/",
+      "description": "C-ledaren säger att partiet kan rösta ja till en ren S-regering. Det väcker frustration i Miljöpartiet som står fast vid kravet om ministerposter. – Centerpartiet har backat in sig i ett hörn, säger Grön Ungdoms språkrör Anton Bylin.",
+      "pubDate": "2026-10-17T11:56:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Insändare. Dags att ta hand om det arbetande folket",
+      "link": "https://www.dn.se/insandare/dags-att-ta-hand-om-det-arbetande-folket/",
+      "description": "INSÄNDARE. Det ska löna sig att arbeta i Sverige, men det ska också finnas ett skydd när man inte kan jobba. Det är dags för våra politiker att börja ta hand om det arbetande folket, skriver ställningsbyggaren Kennie Sven John Lindberg.",
+      "pubDate": "2026-10-17T08:13:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
     {
       "title": "Kristersson om Gui Minhai: Högt prioriterat",
       "link": "https://www.expressen.se/nyheter/sverige/kristersson-om-gui-minhai-hogt-prioriterat/",
@@ -242,30 +267,6 @@
       "topics": [
         "S",
         "KD"
-      ]
-    },
-    {
-      "title": "Sveriges lärare om SKR:s utspel: Skulle inte säga dubbelreglering",
-      "link": "https://www.sverigesradio.se/artikel/9320978",
-      "description": "Facket Sveriges lärare svarar nu på Sveriges kommuner och regioners utspel att säga upp kollektivavtalet på frågan om arbetstider. Den nya lagstiftningen som reglerar lärares undervisningstid och planeringstid går inte ihop med reglerna i avtalet, enligt SKR. ”Man kan också se det som att lagstiftningen och avtalet kompletterar varandra. Jag skulle inte säga dubbelreglering”, säger Moa Andersson, förhandlingschef på fackförbundet Sveriges lärare.",
-      "pubDate": "2026-10-16T12:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Lyckades knäcka den politiska nöten: C kliver in i rödgrönt styre",
-      "link": "https://www.dn.se/sverige/lyckades-knacka-den-politiska-noten-c-kliver-in-i-rodgront-styre/",
-      "description": "Sveriges näst största region har knäckt den politiska nöten. Västra Götaland kommer att styras av S, MP, V – och C, som även regionalt gick till val på att inte sitta i en sån konstellation. – Vi stiger in i detta för att få fart framåt, säger Cecilia Andersson (C).",
-      "pubDate": "2026-10-16T10:15:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     }
   ],
