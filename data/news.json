@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T01:49:10.297969Z",
+  "updated_at": "2026-10-17T06:19:25.454101Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,19 @@
   ],
   "news": [
     {
+      "title": "Amanda Sokolnicki: Nu rör vi oss i snabb takt mot ett extra val",
+      "link": "https://www.dn.se/ledare/amanda-sokolnicki-nu-ror-vi-oss-i-snabb-takt-mot-ett-extra-val/",
+      "description": "Centerpartiet måste komma ut i verkligheten, säger Vänsterpartiet. Den verkligheten ser ut att bli ett extra val.",
+      "pubDate": "2026-10-17T03:24:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "Kristersson efter EU-toppmötet: ”Långt ifrån varandra”",
       "link": "https://www.sverigesradio.se/artikel/9321389",
       "description": "EU-toppmötet i Bryssel präglades av stor osäkerhet. Bland annat kring hur man ska enas om en ny budget, hur man ska stötta Ukraina och hur man ska hantera migrationen. Inga framsteg gjordes och nu flyttas det upp till högsta nivå , EU:s ordförande Antonio Costa ska leda förhandlingarna framåt. ”Det finns inte en gnutta av enighet i detta”, sa statsminister Ulf Kristersson.",
@@ -105,19 +118,6 @@
       ]
     },
     {
-      "title": "Centerpartiets SD-nej luckras upp i landet",
-      "link": "https://www.expressen.se/nyheter/politik/centerpartiets-sd-nej-luckras-upp-i-landet/",
-      "description": "Centerpartiets nej till SD luckras upp runtom i landet – nu bubblar frågan i centerkretsar. I Växjö ska C styra med aktivt stöd av SD. –&nbsp;Vi har ingen direktkontakt, de låter Moderaterna föra samtalen med oss, säger Pernilla Wikeland (SD).",
-      "pubDate": "2026-10-16T17:02:36Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
       "title": "Bråk bakom kulisserna: C vägrar delta i rödgröna möten",
       "link": "https://www.dn.se/sverige/brak-bakom-kulisserna-c-vagrar-delta-i-rodgrona-moten/",
       "description": "S, V, MP och C kom efter valet överens om att säkra en rödgrön majoritet i riksdagens utskott. Men ett organiserat samarbete vill Centerpartiet inte vara med på. – Jag är väldigt förvånad över Centerpartiets inställning, säger Samuel Gonzalez Westling, Vänsterpartiets gruppledare.",
@@ -129,16 +129,6 @@
         "V",
         "C"
       ]
-    },
-    {
-      "title": "Centern nobbar rödgröna möten",
-      "link": "https://www.expressen.se/nyheter/politik/centern-nobbar-rodgrona-moten/",
-      "description": "De fyra rödgröna partierna har bildat ”kartell” för att säkra majoritet i riksdagen. Men C dyker inte upp på gemensamma möten. – Det skapar osäkerhet kring vilka som faktiskt utgör riksdagens majoritet, säger V-gruppledaren Samuel Gonzalez Westling.",
-      "pubDate": "2026-10-16T16:05:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Kristersson: Inte min tur att sondera ny regering",
@@ -264,13 +254,26 @@
         "S",
         "L"
       ]
+    },
+    {
+      "title": "15 oktober: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/15-oktober-missa-inte-dagens-nyheter/",
+      "description": "Nej till Andersson som statsminister, svensk gripen i Ryssland och EU rasar över dieselavtal – här är dagens nyheter.",
+      "pubDate": "2026-10-15T19:27:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
     }
   ],
   "blogs": [
     {
       "title": "S säkerhetspolitiska doktrin: Lämna Kreml ifred",
       "link": "https://ledarsidorna.se/s-sakerhetspolitiska-doktrin-lamna-kreml-ifred/",
-      "description": "Magdalena Anderssons spontana kritik mot det svenska engagemanget i Östersjöregionen i en intervju i Politico fick i sig stark kritik. Det fokus som regeringen Kristersson satt vill Kreml av lätt insedda och historiska skäl skall upphöra. Med socialdemokraternas kritik mot ett säkerhetspolitiskt fokus på det svenska närområdet formas en socialdemokratisk säkerhetspolitisk doktrin som har djupa [&#8230;]",
+      "description": "Magdalena Anderssons spontana kritik mot det svenska engagemanget i Östersjöregionen i en intervju i Politico fick i sig stark kritik. Det fokus som regeringen Kristersson satt vill Kreml av lätt insedda och historiska skäl skall upphöra. Med socialdemokraternas kritik mot ett säkerhetspolitiskt fokus på det svenska närområdet formadess en socialdemokratisk säkerhetspolitisk doktrin som har djupa [&#8230;]",
       "pubDate": "2026-10-16T22:06:00Z",
       "source": "Ledarsidorna",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
@@ -343,6 +346,19 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: Alla kan se att de inte vill sitta i samma rum",
+      "link": "https://pod.space/kvartal/veckopanelen-alla-kan-se-att-de-inte-vill-sitta-i-samma-rum",
+      "description": "Veckopanelen med Dana Pourkomeylian, Chang Frick och Payam Moula under ledning av Jörgen Huitfeldt. Regeringsbildningssåpan går vidare. Samtidigt som inget konkret egentligen har hänt: Låsningarna är kvar och varken förhandlingar eller någon uppgörelse finns i sikte. Borde det rödgröna laget ha förberett sig bättre inför en valseger? Näste sonderare väntas bli Ulf Kristersson. Men vad kan han göra som bryter dödläget? Motvind för Ukraina när USA vänder landet ryggen. Och ska manliga brottslingar som bytt juridiskt kön få avtjäna sitt straff bland biologiska kvinnor?",
+      "pubDate": "2026-10-17T03:45:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Fredagsintervjun: Våra ungdomar vågar inte stå emot islamisterna",
       "link": "https://pod.space/kvartal/fredagsintervjun-vara-ungdomar-vagar-inte-sta-emot-islamisterna",
@@ -522,18 +538,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": []
-    },
-    {
-      "title": "”Hemliga” bastumötet med Busch: Dubbla och dunkla signaler från C",
-      "link": "https://pod.space/alskadepolitik/hemliga-bastumotet-med-busch-dubbla-och-dunkla-signaler-fran-c",
-      "description": "På fredagen ska de rödgröna partiledarna träffas för första gången sedan valet. Men vad betyder Thand-Ringqvists bastudejt med KD-ledaren dagen innan?",
-      "pubDate": "2026-10-08T15:03:29Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "KD"
-      ]
     }
   ]
 }
