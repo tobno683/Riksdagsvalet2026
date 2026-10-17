@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T19:33:49.433815Z",
+  "updated_at": "2026-10-17T21:48:52.670457Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -117,19 +117,6 @@
       ]
     },
     {
-      "title": "Kristersson efter EU-toppmötet: ”Långt ifrån varandra”",
-      "link": "https://www.sverigesradio.se/artikel/9321389",
-      "description": "EU-toppmötet i Bryssel präglades av stor osäkerhet. Bland annat kring hur man ska enas om en ny budget, hur man ska stötta Ukraina och hur man ska hantera migrationen. Inga framsteg gjordes och nu flyttas det upp till högsta nivå , EU:s ordförande Antonio Costa ska leda förhandlingarna framåt. ”Det finns inte en gnutta av enighet i detta”, sa statsminister Ulf Kristersson.",
-      "pubDate": "2026-10-16T22:12:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Expert: Sverige skulle kunna ge Patriotrobotar till Ukraina",
       "link": "https://www.dn.se/varlden/expert-sverige-skulle-kunna-ge-patriotrobotar-till-ukraina/",
       "description": "Ukraina uppges nu ha slut på Patriotrobotar efter höstens allt mer intensiva ryska anfall mot el- och värmeanläggningar. Militärexperten Johan Huovinen säger att Sverige skulle kunna avvara robotar till Ukraina, men statsminister Ulf Kristersson anser att de behövs för Sveriges eget försvar.",
@@ -221,19 +208,6 @@
       ]
     },
     {
-      "title": "15 oktober: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/15-oktober-missa-inte-dagens-nyheter/",
-      "description": "Nej till Andersson som statsminister, svensk gripen i Ryssland och EU rasar över dieselavtal – här är dagens nyheter.",
-      "pubDate": "2026-10-15T19:27:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "”Nu ökar pressen på Magdalena Andersson”",
       "link": "https://www.svt.se/nyheter/inrikes/nu-okar-pressen-pa-magdalena-andersson",
       "description": "Det tydliga nederlaget i statsministeromröstningen var visserligen väntat, men är samtidigt symboliskt jobbigt för Magdalena Andersson, som utropat sig till valvinnare och firat med tårta på partihögkvarteret. Nu tar Sverige ett steg närmare ett extraval och därmed ökar pressen på inblandade partier.",
@@ -272,6 +246,32 @@
         "S",
         "V",
         "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Vad undrar du om dagens statsministeromröstning?",
+      "link": "https://www.svt.se/nyheter/inrikes/vad-undrar-du-om-dagens-statsministeromrostning",
+      "description": "I dag, torsdag, ska riksdagen rösta om Magdalena Andersson (S) som statsminister för en enpartiregering. Vad undrar du om omröstningen? Fråga SVT:s politikreporter Erik Nilsson.",
+      "pubDate": "2026-10-15T03:38:48Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "”Magdalena Andersson behöver en plan B”",
+      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-behover-en-plan-b",
+      "description": "Magdalena Andersson tonar ner betydelsen av att bli nedröstad i den första statsministeromröstningen. Att den nesan bara är ett nödvändigt ont för att till sist bli tolererad av riksdagen. Men frågan är om Socialdemokraterna verkligen har en plan för det läge som uppstått.",
+      "pubDate": "2026-10-15T03:38:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
         "Regeringsbildning"
       ]
     }
