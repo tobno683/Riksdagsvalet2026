@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T23:44:05.908050Z",
+  "updated_at": "2026-10-17T01:49:10.297969Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -180,18 +180,6 @@
       ]
     },
     {
-      "title": "Beskedet om Mohamed Ali (V): Tillträder ”inom kort”",
-      "link": "https://www.expressen.se/nyheter/politik/beskedet-om-mohamed-ali-v-tilltrader-inom-kort/",
-      "description": "V-kryssraketen Mohamed Ali har varit frånvarande sen han valdes in i riksdagen. Först tog han en timeout, sen sjukskrev han sig – men nu ska han tillträda ”inom kort”, meddelar Vänsterpartiet. Han har bland annat fått en ny bild på riksdagens hemsida. – Han är inte delgiven misstanke för något brott så det är naturligt att han tillträder, säger V:s gruppledare Samuel Gonzalez Westling till Dagens ETC .",
-      "pubDate": "2026-10-16T14:09:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Sandeep protesterar i New Delhi: ”Det är min rätt”",
       "link": "https://www.sverigesradio.se/artikel/9321116",
       "description": "I Indien fortsatte Kackerlackspartiets protester mot landets styre. Grundaren av proteströrelsen har idag frihetsberövats, enligt partiet. På Cannought Place i centrala New Delhi har många människor samlats. Demonstranterna kräver valmyndighetens chefs avgång. Här möts de av polis och paramilitära styrkor. En av demonstranterna, Sandeep, säger till Ekot att han vill utöva sin rätt att demonstrera, resa en flagga.",
@@ -262,6 +250,19 @@
       "topics": [
         "SD",
         "KD"
+      ]
+    },
+    {
+      "title": "Insändare. Byt ut ”demokratisk socialism” mot socialliberalism",
+      "link": "https://www.dn.se/insandare/byt-ut-demokratisk-socialism-mot-socialliberalism/",
+      "description": "INSÄNDARE. Jag har i flera val röstat på Socialdemokraterna, men skulle aldrig i livet kalla mig för socialist. Ett alternativ vore att stryka ”demokratisk socialism” ur partiprogrammet och i stället ta över begreppet socialliberalism från Liberalerna, skriver Tycho Tullberg.",
+      "pubDate": "2026-10-16T03:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "L"
       ]
     }
   ],
