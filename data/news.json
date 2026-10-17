@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T06:19:25.454101Z",
+  "updated_at": "2026-10-17T11:00:39.723469Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,45 @@
     }
   ],
   "news": [
+    {
+      "title": "Kristersson om Gui Minhai: Högt prioriterat",
+      "link": "https://www.expressen.se/nyheter/sverige/kristersson-om-gui-minhai-hogt-prioriterat/",
+      "description": "Ulf Kristersson tog nyligen upp fallet Gui Minhai med Kinas utrikesminister.&nbsp; Det skriver statsministern på elvaårsdagen av att den fängslade svensk-kinesiska förläggaren Gui Minhai frihetsberövades av Kina.",
+      "pubDate": "2026-10-17T07:17:32Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Experter: Det blir talmannens nästa drag",
+      "link": "https://www.expressen.se/nyheter/politik/experter-det-blir-talmannens-nasta-drag/",
+      "description": "Ulf Kristersson (M) kommer att få sonderingsuppdraget på måndag, tror experter.&nbsp; Först på ringlistan är Elisabeth Thand Ringqvist (C) och Jimmie Åkesson (SD).&nbsp; – Frågan är: Har han ens ambitionen att få ihop det? säger statsvetaren Andreas Johansson Heinö.&nbsp;",
+      "pubDate": "2026-10-17T06:45:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "V-toppen Ida Gabrielssons attack mot DN: ”Människoförakt”",
+      "link": "https://www.expressen.se/nyheter/politik/v-toppen-ida-gabrielssons-attack-mot-dn-manniskoforakt/",
+      "description": "Vänsterpartiets ledare Nooshi Dadgostar fick kritik i en ledartext i Dagens Nyheter.&nbsp; Vice partiledare Ida Gabrielsson rasar nu mot tidningen.&nbsp; Hon skriver på plattformen X att ledarsidan ofta osar av ett ”människoförakt” och man försöker ”mästra från ovan”. &nbsp;&nbsp;&nbsp;&nbsp;",
+      "pubDate": "2026-10-17T06:20:55Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Amanda Sokolnicki: Nu rör vi oss i snabb takt mot ett extra val",
       "link": "https://www.dn.se/ledare/amanda-sokolnicki-nu-ror-vi-oss-i-snabb-takt-mot-ett-extra-val/",
@@ -227,45 +266,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Besvikelse i KD efter att SD snuvat partiet på utskottspost",
-      "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-kd-efter-att-sd-snuvat-partiet-pa-utskottspost",
-      "description": "Att Sverigedemokraterna knep ordförandeposten i socialutskottet har väckt känslor i KD. Källor vittnar nu om en dragkamp om vårdfrågan till höger i politiken. – Vi tar gärna ansvar för välfärdsfrågorna, säger Ebba Busch (KD).",
-      "pubDate": "2026-10-16T09:02:26Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Insändare. Byt ut ”demokratisk socialism” mot socialliberalism",
-      "link": "https://www.dn.se/insandare/byt-ut-demokratisk-socialism-mot-socialliberalism/",
-      "description": "INSÄNDARE. Jag har i flera val röstat på Socialdemokraterna, men skulle aldrig i livet kalla mig för socialist. Ett alternativ vore att stryka ”demokratisk socialism” ur partiprogrammet och i stället ta över begreppet socialliberalism från Liberalerna, skriver Tycho Tullberg.",
-      "pubDate": "2026-10-16T03:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
-      "title": "15 oktober: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/15-oktober-missa-inte-dagens-nyheter/",
-      "description": "Nej till Andersson som statsminister, svensk gripen i Ryssland och EU rasar över dieselavtal – här är dagens nyheter.",
-      "pubDate": "2026-10-15T19:27:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     }
   ],
