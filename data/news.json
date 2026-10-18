@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:46:26.014713Z",
+  "updated_at": "2026-10-18T21:59:23.591893Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,14 +79,42 @@
   ],
   "news": [
     {
+      "title": "Strömmer (M) om regeringsbildningen: ”Finns låsningar”",
+      "link": "https://www.svt.se/nyheter/inrikes/strommer-m-om-regeringsbildningen-finns-lasningar",
+      "description": "Andersson röstades ner som statsminister i torsdags och imorgon kommer talmannens besked om vad som händer nu. Många menar att Kristersson borde få sondera – men är Moderaterna redo att bygga en ny regering till höger? – Om vi i något skede ska pröva möjligheten att bilda borgerlig regering så måste fem partier vara i spel. Där är vi inte idag, säger justitieminister Gunnar Strömmer (M) i Agenda.",
+      "pubDate": "2026-10-18T21:41:15Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "M-toppen Gunnar Strömmers skogsflört med C: ”Väldig samsyn”",
+      "link": "https://www.expressen.se/nyheter/politik/m-toppen-gunnar-strommers-skogsflort-med-c-valdig-samsyn/",
+      "description": "Kan Moderaterna locka Centerpartiet högerut genom att lova dem stort genomslag i skogspolitiken?&nbsp; – Jag och många andra vet att när det kommer till skogsfrågorna, som är centrala både för Centerpartiet och för Moderaterna, så finns en väldig samsyn, säger Gunnar Strömmer (M) i SVT:s ”Agenda”. &nbsp;&nbsp;",
+      "pubDate": "2026-10-18T20:32:02Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
       "title": "Uppgifter: V planerar sabotera nytt mittenstyre i Stockholm",
       "link": "https://www.expressen.se/nyheter/politik/uppgifter-v-planerar-sabotera-nytt-mittenstyre-i-stockholm/",
-      "description": "Vänsterpartiet planerar att sätta käppar i hjulet för samtalen om ett nytt styre i Region Stockholm, enligt uppgifter till Expressen. Ordern ska ha kommit från partiledningen. – De har meddelat oss att de avser stötta Moderaterna till ordförande i regionstyrelsen, säger en källa med insyn.",
+      "description": "Vänsterpartiet planerar att sätta käppar i hjulet för samtalen om ett nytt styre i Region Stockholm, enligt uppgifter till Expressen. Ordern ska ha kommit från partiledningen. – De har meddelat oss att de avser stötta Moderaterna till ordförande i regionstyrelsen, säger en källa med insyn. ”Socialdemokraterna har tappat kontrollen”, svarar V-toppen Anna Sehlin.",
       "pubDate": "2026-10-18T19:19:55Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
         "M",
         "V"
       ]
@@ -152,18 +180,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Därför kan Elisabeth Thand Ringqvist (C) få sondera",
-      "link": "https://www.expressen.se/nyheter/politik/darfor-kan-elisabeth-thand-ringqvist-c-fa-sondera/",
-      "description": "Elisabeth Thand Ringqvist (C) vill fortfarande se en regering ”i mitten av svensk politik”. Att ge henne sonderingsuppdraget framöver kanske skulle bidra till att luckra upp låsningar, tror experter.&nbsp; – Det är mycket möjligt att hon får det, säger Malin Lernfelt, chefredaktör för Liberala nyhetsbyrån.&nbsp;",
-      "pubDate": "2026-10-18T12:12:32Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
     },
     {
       "title": "Insändare. V bör tänka om och acceptera rollen som stödparti",
@@ -248,19 +264,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Expert: Sverige skulle kunna ge Patriotrobotar till Ukraina",
-      "link": "https://www.dn.se/varlden/expert-sverige-skulle-kunna-ge-patriotrobotar-till-ukraina/",
-      "description": "Ukraina uppges nu ha slut på Patriotrobotar efter höstens allt mer intensiva ryska anfall mot el- och värmeanläggningar. Militärexperten Johan Huovinen säger att Sverige skulle kunna avvara robotar till Ukraina, men statsminister Ulf Kristersson anser att de behövs för Sveriges eget försvar.",
-      "pubDate": "2026-10-16T18:12:18Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
       ]
     }
   ],
