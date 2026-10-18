@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T06:43:25.866987Z",
+  "updated_at": "2026-10-18T11:49:49.113777Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,34 @@
   ],
   "news": [
     {
+      "title": "Insändare. V bör tänka om och acceptera rollen som stödparti",
+      "link": "https://www.dn.se/insandare/v-bor-tanka-om-och-acceptera-rollen-som-stodparti/",
+      "description": "INSÄNDARE. I utbyte mot stöd för en S+MP-regering skulle Vänsterpartiet kunna få samma inflytande som Sverigedemokraterna haft på Tidöregeringen. Ändra era krav så att Sverige inte riskerar ytterligare fyra år av en Tidöregering som följer SD:s krav, skriver Anita Lilburn.",
+      "pubDate": "2026-10-18T10:23:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Centerpartiet behöver lämna sin ytterkantspolitik",
+      "link": "https://www.dn.se/insandare/centerpartiet-behover-lamna-sin-ytterkantspolitik/",
+      "description": "INSÄNDARE. C-ledaren Elisabeth Thand Ringqvist talar ständigt om ”ytterkant” samtidigt som hon själv står för extrema åsikter. Det är dags att hon sätter igång arbetet tillsammans med de andra partierna hon gick till val med, skriver Ulf Lundström.",
+      "pubDate": "2026-10-18T10:01:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
       "title": "Hemliga C-planen: Slå mot de rödgröna",
       "link": "https://www.expressen.se/nyheter/politik/hemliga-c-planen-sla-mot-de-rodgrona/",
-      "description": "MP är tillväxtfientliga, V skadar svensk ekonomi – och S tror att staten löser allt. Det är några av budskapen i Centerpartiets hemliga strategi inför valet, som Expressen tagit del av. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
+      "description": "MP är tillväxtfientliga, V skadar svensk ekonomi – och S tror att staten löser allt. Det är några av budskapen i Centerpartiets hemliga strategi inför valet, som Expressen tagit del av. Trots det förhandlar nu C med S och MP i region Stockholm. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
       "pubDate": "2026-10-18T04:53:52Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -192,7 +217,7 @@
     {
       "title": "Insändare. C bör acceptera V-tjänstemän i Regeringskansliet",
       "link": "https://www.dn.se/insandare/c-bor-acceptera-v-tjansteman-i-regeringskansliet/",
-      "description": "INSÄNDARE. Ett extraval, som troligen skulle sluta med ett Tidö 2.0, skulle kunna drabba Vänsterpartiet mer än något annat parti. Centerpartiet har historiskt lyckats med regeringskompromisser med Socialdemokraterna flera gånger, liksom med Alliansen, och kan nog även kompromissa med V till slut, skriver Håkan Lennerstad.",
+      "description": "INSÄNDARE. Ett extra val, som troligen skulle sluta med ett Tidö 2.0, skulle kunna drabba Vänsterpartiet mer än något annat parti. Centerpartiet har historiskt lyckats med regeringskompromisser med Socialdemokraterna flera gånger, liksom med Alliansen, och kan nog även kompromissa med V till slut, skriver Håkan Lennerstad.",
       "pubDate": "2026-10-16T14:50:38Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -214,18 +239,6 @@
       "topics": [
         "S",
         "KD"
-      ]
-    },
-    {
-      "title": "Lyckades knäcka den politiska nöten: C kliver in i rödgrönt styre",
-      "link": "https://www.dn.se/sverige/lyckades-knacka-den-politiska-noten-c-kliver-in-i-rodgront-styre/",
-      "description": "Sveriges näst största region har knäckt den politiska nöten. Västra Götaland kommer att styras av S, MP, V – och C, som även regionalt gick till val på att inte sitta i en sån konstellation. – Vi stiger in i detta för att få fart framåt, säger Cecilia Andersson (C).",
-      "pubDate": "2026-10-16T10:15:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -252,19 +265,6 @@
       "topics": [
         "S",
         "L"
-      ]
-    },
-    {
-      "title": "”Nu ökar pressen på Magdalena Andersson”",
-      "link": "https://www.svt.se/nyheter/inrikes/nu-okar-pressen-pa-magdalena-andersson",
-      "description": "Det tydliga nederlaget i statsministeromröstningen var visserligen väntat, men är samtidigt symboliskt jobbigt för Magdalena Andersson, som utropat sig till valvinnare och firat med tårta på partihögkvarteret. Nu tar Sverige ett steg närmare ett extraval och därmed ökar pressen på inblandade partier.",
-      "pubDate": "2026-10-15T18:46:28Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     }
   ],
