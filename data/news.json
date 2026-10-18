@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T14:58:50.990721Z",
+  "updated_at": "2026-10-18T17:47:28.197038Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,19 @@
     }
   ],
   "news": [
+    {
+      "title": "Vänsterpartiets löfte om Nato: Vi skriver under direkt",
+      "link": "https://www.expressen.se/nyheter/politik/vansterpartiets-lofte-om-nato-vi-skriver-under-direkt/",
+      "description": "Centerpartiets ledare Elisabeth Thand Ringqvist lyfte motståndet mot Nato och försvarsavtalet med USA som exempel på varför Vänsterpartiet är olämpligt i regeringen.&nbsp; Nu kontrar V med ett löfte om att inte riva upp någonting.&nbsp; ”Vi skulle kunna skriva under direkt i dag om C tar fram formuleringar!”, skriver V-toppen Ida Gabrielsson på X.&nbsp;",
+      "pubDate": "2026-10-18T17:39:10Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
     {
       "title": "Åkesson bjuder in Thand Ringqvist till möte",
       "link": "https://www.sverigesradio.se/artikel/9321784",
@@ -209,19 +222,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Amanda Sokolnicki: Nu rör vi oss i snabb takt mot ett extra val",
-      "link": "https://www.dn.se/ledare/amanda-sokolnicki-nu-ror-vi-oss-i-snabb-takt-mot-ett-extra-val/",
-      "description": "Centerpartiet måste komma ut i verkligheten, säger Vänsterpartiet. Den verkligheten ser ut att bli ett extra val.",
-      "pubDate": "2026-10-17T03:24:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
       ]
     },
     {
