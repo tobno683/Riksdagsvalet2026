@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T11:49:49.113777Z",
+  "updated_at": "2026-10-18T14:58:50.990721Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,54 @@
   ],
   "news": [
     {
+      "title": "Åkesson bjuder in Thand Ringqvist till möte",
+      "link": "https://www.sverigesradio.se/artikel/9321784",
+      "description": "Sverigedemokraternas ledare Jimmie Åkesson bjuder in Centerpartiets Elisabeth Thand Ringqvist till ett ”förutsättningslöst samtal om det parlamentariska läget\", skriver han på sociala medier. I brevet skriver han att ett utdraget dödläge riskerar att bli direkt skadligt för Sverige. Han skriver att Sverigedemokraterna inte har några röda linjer, men att partiets linje om att de antingen kommer ingå i en regering eller att vara i opposition ligger fast.",
+      "pubDate": "2026-10-18T14:35:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Jimmie Åkessons brev till Elisabeth Thand Ringqvist",
+      "link": "https://www.expressen.se/nyheter/politik/jimmie-akessons-brev-till-elisabeth-thand-ringqvist/",
+      "description": "Jimmie Åkesson (SD) bjuder in Elisabeth Thand Ringqvist (C) till ett möte.&nbsp; Han menar att Sverige snabbt behöver få en ny regering på plats. &nbsp;&nbsp; ”Sverige har helt enkelt inte råd med en politisk låsning som tillåts fortsätta i det oändliga” , skriver han på X.&nbsp;",
+      "pubDate": "2026-10-18T14:26:09Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Tre rödgröna ungdomsförbund förhandlingsredo – men CUF säger nej",
+      "link": "https://www.dn.se/sverige/tre-rodgrona-ungdomsforbund-forhandlingsredo-men-cuf-sager-nej/",
+      "description": "Lås in er och kom inte ut utan regering – tycker SSU och Ung Vänster. Det går för långsamt, tycker Grön ungdom. – Det finns inget att anmärka på, jag tycker Elisabeth sköter sig exemplariskt, säger Emelie Rossheim (CUF). Så här tycker ungdomsförbunden att moderpartierna ska lösa regeringsfrågan.",
+      "pubDate": "2026-10-18T12:14:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Därför kan Elisabeth Thand Ringqvist (C) få sondera",
+      "link": "https://www.expressen.se/nyheter/politik/darfor-kan-elisabeth-thand-ringqvist-c-fa-sondera/",
+      "description": "Elisabeth Thand Ringqvist (C) vill fortfarande se en regering ”i mitten av svensk politik”. Att ge henne sonderingsuppdraget framöver kanske skulle bidra till att luckra upp låsningar, tror experter.&nbsp; – Det är mycket möjligt att hon får det, säger Malin Lernfelt, chefredaktör för Liberala nyhetsbyrån.&nbsp;",
+      "pubDate": "2026-10-18T12:12:32Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
       "title": "Insändare. V bör tänka om och acceptera rollen som stödparti",
       "link": "https://www.dn.se/insandare/v-bor-tanka-om-och-acceptera-rollen-som-stodparti/",
       "description": "INSÄNDARE. I utbyte mot stöd för en S+MP-regering skulle Vänsterpartiet kunna få samma inflytande som Sverigedemokraterna haft på Tidöregeringen. Ändra era krav så att Sverige inte riskerar ytterligare fyra år av en Tidöregering som följer SD:s krav, skriver Anita Lilburn.",
@@ -98,18 +146,6 @@
       "pubDate": "2026-10-18T10:01:37Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Hemliga C-planen: Slå mot de rödgröna",
-      "link": "https://www.expressen.se/nyheter/politik/hemliga-c-planen-sla-mot-de-rodgrona/",
-      "description": "MP är tillväxtfientliga, V skadar svensk ekonomi – och S tror att staten löser allt. Det är några av budskapen i Centerpartiets hemliga strategi inför valet, som Expressen tagit del av. Trots det förhandlar nu C med S och MP i region Stockholm. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
-      "pubDate": "2026-10-18T04:53:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "C"
@@ -226,45 +262,6 @@
         "S",
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Ebba Busch tror inte på  utplåning av mänskligheten",
-      "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-tror-inte-pa-utplaning-av-manskligheten",
-      "description": "Kan AI innebära slutet för mänskligheten? Nej, tror både Mikael Damberg (S) och Ebba Busch (KD). – Men jag tycker att man ska ta den frågan på allvar, säger hon.",
-      "pubDate": "2026-10-16T13:21:27Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "KD"
-      ]
-    },
-    {
-      "title": "Besvikelse i KD efter att SD snuvat partiet på utskottspost",
-      "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-kd-efter-att-sd-snuvat-partiet-pa-utskottspost",
-      "description": "Att Sverigedemokraterna knep ordförandeposten i socialutskottet har väckt känslor i KD. Källor vittnar nu om en dragkamp om vårdfrågan till höger i politiken. – Vi tar gärna ansvar för välfärdsfrågorna, säger Ebba Busch (KD).",
-      "pubDate": "2026-10-16T09:02:26Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "KD"
-      ]
-    },
-    {
-      "title": "Insändare. Byt ut ”demokratisk socialism” mot socialliberalism",
-      "link": "https://www.dn.se/insandare/byt-ut-demokratisk-socialism-mot-socialliberalism/",
-      "description": "INSÄNDARE. Jag har i flera val röstat på Socialdemokraterna, men skulle aldrig i livet kalla mig för socialist. Ett alternativ vore att stryka ”demokratisk socialism” ur partiprogrammet och i stället ta över begreppet socialliberalism från Liberalerna, skriver Tycho Tullberg.",
-      "pubDate": "2026-10-16T03:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "L"
       ]
     }
   ],
