@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T01:46:58.818432Z",
+  "updated_at": "2026-10-18T06:43:25.866987Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,53 @@
     }
   ],
   "news": [
+    {
+      "title": "Hemliga C-planen: Slå mot de rödgröna",
+      "link": "https://www.expressen.se/nyheter/politik/hemliga-c-planen-sla-mot-de-rodgrona/",
+      "description": "MP är tillväxtfientliga, V skadar svensk ekonomi – och S tror att staten löser allt. Det är några av budskapen i Centerpartiets hemliga strategi inför valet, som Expressen tagit del av. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
+      "pubDate": "2026-10-18T04:53:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Liten orkidé symbol för rödgrön konflikt – skogspolitiken splittrar",
+      "link": "https://www.svt.se/nyheter/inrikes/liten-orkide-symbol-for-rodgron-konflikt-skogspolitiken-splittrar",
+      "description": "Skogspolitiken kan bli en svår knäckfråga i förhandlingarna om en rödgrön regering. Centerpartiet och Miljöpartiet står långt ifrån varandra.",
+      "pubDate": "2026-10-18T03:59:53Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Tre frågor där tuffa strider väntar mellan de rödgröna partierna",
+      "link": "https://www.svt.se/nyheter/inrikes/tre-fragor-dar-tuffa-strider-vantar-mellan-de-rodgrona-partierna",
+      "description": "Synen på SD, att utsläppen ska ner och att tonårsutvisningar ska stoppas – där är de rödgröna överens. Men i flera centrala politiska områden spretar viljorna. SVT:s politikreporter reder ut positionerna i stridsfrågorna.",
+      "pubDate": "2026-10-18T03:56:27Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ystadfallet väcker ny debatt om lagen om juridiskt kön",
+      "link": "https://www.sverigesradio.se/artikel/9321223",
+      "description": "Fallet på kvinnofängelset i Ystad har blåst liv i striden om den nya könstillhörighetslagen och satt press på Moderaterna, som utlovat en utredning. Kritiker, som SD, vill se tydligare lagstiftning där biologiskt kön väger tyngre, medan MP menar att ansvaret ligger hos Kriminalvården att skydda intagna. På torsdag är Kriminalvårdens generaldirektör Rikard Jermsten kallad till riksdagens justitieutskott.",
+      "pubDate": "2026-10-18T02:58:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
     {
       "title": "MP-irritationen mot C efter beskedet: ”Bara spel”",
       "link": "https://www.dn.se/sverige/mp-irritationen-mot-c-efter-beskedet-bara-spel/",
@@ -212,61 +259,6 @@
       "link": "https://www.svt.se/nyheter/inrikes/nu-okar-pressen-pa-magdalena-andersson",
       "description": "Det tydliga nederlaget i statsministeromröstningen var visserligen väntat, men är samtidigt symboliskt jobbigt för Magdalena Andersson, som utropat sig till valvinnare och firat med tårta på partihögkvarteret. Nu tar Sverige ett steg närmare ett extraval och därmed ökar pressen på inblandade partier.",
       "pubDate": "2026-10-15T18:46:28Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "De rödgröna: Därför ska Kristersson få uppdraget",
-      "link": "https://www.svt.se/nyheter/inrikes/de-rodgrona-darfor-ska-kristersson-fa-uppdraget",
-      "description": "På torsdagen föll Magdalena Andersson i den första statsministeromröstningen efter valet. Resultatet blev 99 röster för och 248 röster emot med två frånvarande riksdagsledamöter. Vem som ska få sonderingsuppdraget nu är inte klart men flera rödgröna partiledare vill att uppdraget går till Ulf Kristersson.",
-      "pubDate": "2026-10-15T12:33:04Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C- och V-veteranerna ryker ihop om regeringsbildningen: ”Oförskämd”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-och-v-veteranerna-ryker-ihop-om-regeringsbildningen-oforskamd",
-      "description": "Centerpartiets tidigare partiledare Maud Olofsson och Vänsterpartiets före detta ekonomisk-politiska talesperson Ulla Andersson debatterade regeringsbildning i onsdagens Aktuellt. Men punkterna som de båda höll med om var få.",
-      "pubDate": "2026-10-15T07:36:37Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Vad undrar du om dagens statsministeromröstning?",
-      "link": "https://www.svt.se/nyheter/inrikes/vad-undrar-du-om-dagens-statsministeromrostning",
-      "description": "I dag, torsdag, ska riksdagen rösta om Magdalena Andersson (S) som statsminister för en enpartiregering. Vad undrar du om omröstningen? Fråga SVT:s politikreporter Erik Nilsson.",
-      "pubDate": "2026-10-15T03:38:48Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "”Magdalena Andersson behöver en plan B”",
-      "link": "https://www.svt.se/nyheter/inrikes/magdalena-andersson-behover-en-plan-b",
-      "description": "Magdalena Andersson tonar ner betydelsen av att bli nedröstad i den första statsministeromröstningen. Att den nesan bara är ett nödvändigt ont för att till sist bli tolererad av riksdagen. Men frågan är om Socialdemokraterna verkligen har en plan för det läge som uppstått.",
-      "pubDate": "2026-10-15T03:38:37Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
