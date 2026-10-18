@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T17:47:28.197038Z",
+  "updated_at": "2026-10-18T19:46:26.014713Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,32 @@
     }
   ],
   "news": [
+    {
+      "title": "Uppgifter: V planerar sabotera nytt mittenstyre i Stockholm",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-v-planerar-sabotera-nytt-mittenstyre-i-stockholm/",
+      "description": "Vänsterpartiet planerar att sätta käppar i hjulet för samtalen om ett nytt styre i Region Stockholm, enligt uppgifter till Expressen. Ordern ska ha kommit från partiledningen. – De har meddelat oss att de avser stötta Moderaterna till ordförande i regionstyrelsen, säger en källa med insyn.",
+      "pubDate": "2026-10-18T19:19:55Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Statsvetaren om Åkessons brev: ”Inget att förlora”",
+      "link": "https://www.expressen.se/nyheter/politik/statsvetaren-om-akessons-brev-inget-att-forlora/",
+      "description": "Centerpartiet har en röd linje mot Sverigedemokraterna.&nbsp; Trots det vill Jimmie Åkesson (SD) nu träffa Elisabeth Thand Ringqvist (C) och prata om det parlamentariska läget och de låsningar som finns.&nbsp; – SD har inget att förlora oavsett utfall här, säger statsvetaren Andreas Johansson Heinö.&nbsp;",
+      "pubDate": "2026-10-18T17:45:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
     {
       "title": "Vänsterpartiets löfte om Nato: Vi skriver under direkt",
       "link": "https://www.expressen.se/nyheter/politik/vansterpartiets-lofte-om-nato-vi-skriver-under-direkt/",
@@ -235,33 +261,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Bråk bakom kulisserna: C vägrar delta i rödgröna möten",
-      "link": "https://www.dn.se/sverige/brak-bakom-kulisserna-c-vagrar-delta-i-rodgrona-moten/",
-      "description": "S, V, MP och C kom efter valet överens om att säkra en rödgrön majoritet i riksdagens utskott. Men ett organiserat samarbete vill Centerpartiet inte vara med på. – Jag är väldigt förvånad över Centerpartiets inställning, säger Samuel Gonzalez Westling, Vänsterpartiets gruppledare.",
-      "pubDate": "2026-10-16T16:08:01Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. C bör acceptera V-tjänstemän i Regeringskansliet",
-      "link": "https://www.dn.se/insandare/c-bor-acceptera-v-tjansteman-i-regeringskansliet/",
-      "description": "INSÄNDARE. Ett extra val, som troligen skulle sluta med ett Tidö 2.0, skulle kunna drabba Vänsterpartiet mer än något annat parti. Centerpartiet har historiskt lyckats med regeringskompromisser med Socialdemokraterna flera gånger, liksom med Alliansen, och kan nog även kompromissa med V till slut, skriver Håkan Lennerstad.",
-      "pubDate": "2026-10-16T14:50:38Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     }
   ],
