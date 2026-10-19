@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T02:04:30.476853Z",
+  "updated_at": "2026-10-19T07:56:57.352087Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,41 @@
   ],
   "news": [
     {
+      "title": "SD bjuder in C till möte – då kan det bli en ny högerallians",
+      "link": "https://www.svt.se/nyheter/inrikes/sd-bjuder-in-c-till-mote-da-kan-det-bli-en-ny-hogerallians",
+      "description": "I helgen bjöd SD:s partiledare Jimmie Åkesson in C-ledaren Elisabeth Thand Ringqvist till ett möte. I ett öppet brev, som publicerats på X, ber han C att överväga att släppa sina låsningar gentemot SD. – Det finns en möjlighet att centern går tillbaka till att se till sakpolitiken, säger Adam Danieli, idéchef på Timbro som inte utesluter ett samarbete där både C och SD ingår.",
+      "pubDate": "2026-10-19T07:07:20Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Alex Schulman: Det är generande att se att vi lade våra röster på barn",
+      "link": "https://www.dn.se/sverige/alex-schulman-det-ar-generande-att-se-att-vi-lade-vara-roster-pa-barn/",
+      "description": "Vi var 6 834 413 vuxna som röstade i riksdagsvalet i september. Nu vet vi att vi röstade på barn. Jag känner mig lurad.",
+      "pubDate": "2026-10-19T04:25:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Gunnar Strömmer (M) om skjutningen i Älvsjö: ”Väldigt obehagligt”",
+      "link": "https://www.svt.se/nyheter/inrikes/gunnar-strommer-m-om-skjutningen-i-alvsjo-valdigt-obehagligt",
+      "description": "Kvinnan som dödades i fredags arbetade med att hjälpa ungdomar. Hon dog efter att ha blivit skjuten på en idrottsanläggning och händelsen har lett till stor oro. – Det är klart att det känns väldigt, väldigt obehagligt, säger justitieminister Gunnar Strömmer (M).",
+      "pubDate": "2026-10-19T03:45:20Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
       "title": "M och S hittar varandra i kommunerna – över 50 styren",
       "link": "https://www.sverigesradio.se/artikel/9321291",
       "description": "Efter valet har Moderaterna och Socialdemokraterna kommit överens om att styra tillsammans i över 50 kommuner. I drygt 30 av dem blir det en fortsättning på tidigare samarbeten medan det är helt nytt i drygt 20 av kommunerna. Samtidigt spricker nästan 20 styren där partierna styrt ihop innan valet. I Bollnäs går M och S skilda vägar. I Eskilstuna går man in på fjärde mandatperioden tillsammans. I Trelleborg kom det nya samarbetet som en överraskning för många.",
@@ -103,72 +138,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "M-toppen Gunnar Strömmers skogsflört med C: ”Väldig samsyn”",
-      "link": "https://www.expressen.se/nyheter/politik/m-toppen-gunnar-strommers-skogsflort-med-c-valdig-samsyn/",
-      "description": "Kan Moderaterna locka Centerpartiet högerut genom att lova dem stort genomslag i skogspolitiken?&nbsp; – Jag och många andra vet att när det kommer till skogsfrågorna, som är centrala både för Centerpartiet och för Moderaterna, så finns en väldig samsyn, säger Gunnar Strömmer (M) i SVT:s ”Agenda”. &nbsp;&nbsp;",
-      "pubDate": "2026-10-18T20:32:02Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Uppgifter: V planerar sabotera nytt mittenstyre i Stockholm",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-v-planerar-sabotera-nytt-mittenstyre-i-stockholm/",
-      "description": "Vänsterpartiet planerar att sätta käppar i hjulet för samtalen om ett nytt styre i Region Stockholm, enligt uppgifter till Expressen. Ordern ska ha kommit från partiledningen. – De har meddelat oss att de avser stötta Moderaterna till ordförande i regionstyrelsen, säger en källa med insyn. ”Socialdemokraterna har tappat kontrollen”, svarar V-toppen Anna Sehlin.",
-      "pubDate": "2026-10-18T19:19:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V"
-      ]
-    },
-    {
-      "title": "Statsvetaren om Åkessons brev: ”Inget att förlora”",
-      "link": "https://www.expressen.se/nyheter/politik/statsvetaren-om-akessons-brev-inget-att-forlora/",
-      "description": "Centerpartiet har en röd linje mot Sverigedemokraterna.&nbsp; Trots det vill Jimmie Åkesson (SD) nu träffa Elisabeth Thand Ringqvist (C) och prata om det parlamentariska läget och de låsningar som finns.&nbsp; – SD har inget att förlora oavsett utfall här, säger statsvetaren Andreas Johansson Heinö.&nbsp;",
-      "pubDate": "2026-10-18T17:45:01Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Vänsterpartiets löfte om Nato: Vi skriver under direkt",
-      "link": "https://www.expressen.se/nyheter/politik/vansterpartiets-lofte-om-nato-vi-skriver-under-direkt/",
-      "description": "Centerpartiets ledare Elisabeth Thand Ringqvist lyfte motståndet mot Nato och försvarsavtalet med USA som exempel på varför Vänsterpartiet är olämpligt i regeringen.&nbsp; Nu kontrar V med ett löfte om att inte riva upp någonting.&nbsp; ”Vi skulle kunna skriva under direkt i dag om C tar fram formuleringar!”, skriver V-toppen Ida Gabrielsson på X.&nbsp;",
-      "pubDate": "2026-10-18T17:39:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Åkesson bjuder in Thand Ringqvist till möte",
-      "link": "https://www.sverigesradio.se/artikel/9321784",
-      "description": "Sverigedemokraternas ledare Jimmie Åkesson bjuder in Centerpartiets Elisabeth Thand Ringqvist till ett ”förutsättningslöst samtal om det parlamentariska läget\", skriver han på sociala medier. I brevet skriver han att ett utdraget dödläge riskerar att bli direkt skadligt för Sverige. Han skriver att Sverigedemokraterna inte har några röda linjer, men att partiets linje om att de antingen kommer ingå i en regering eller att vara i opposition ligger fast.",
-      "pubDate": "2026-10-18T14:35:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
       ]
     },
     {
@@ -255,16 +224,43 @@
       ]
     },
     {
-      "title": "Expert: Sverige skulle kunna ge Patriotrobotar till Ukraina",
-      "link": "https://www.dn.se/varlden/expert-sverige-skulle-kunna-ge-patriotrobotar-till-ukraina/",
-      "description": "Ukraina uppges nu ha slut på Patriotrobotar efter höstens allt mer intensiva ryska anfall mot el- och värmeanläggningar. Militärexperten Johan Huovinen säger att Sverige skulle kunna avvara robotar till Ukraina, men statsminister Ulf Kristersson anser att de behövs för Sveriges eget försvar.",
-      "pubDate": "2026-10-16T18:12:18Z",
+      "title": "Insändare. C bör acceptera V-tjänstemän i Regeringskansliet",
+      "link": "https://www.dn.se/insandare/c-bor-acceptera-v-tjansteman-i-regeringskansliet/",
+      "description": "INSÄNDARE. Ett extra val, som troligen skulle sluta med ett Tidö 2.0, skulle kunna drabba Vänsterpartiet mer än något annat parti. Centerpartiet har historiskt lyckats med regeringskompromisser med Socialdemokraterna flera gånger, liksom med Alliansen, och kan nog även kompromissa med V till slut, skriver Håkan Lennerstad.",
+      "pubDate": "2026-10-16T14:50:38Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "Regeringsbildning"
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Ebba Busch tror inte på  utplåning av mänskligheten",
+      "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-tror-inte-pa-utplaning-av-manskligheten",
+      "description": "Kan AI innebära slutet för mänskligheten? Nej, tror både Mikael Damberg (S) och Ebba Busch (KD). – Men jag tycker att man ska ta den frågan på allvar, säger hon.",
+      "pubDate": "2026-10-16T13:21:27Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "KD"
+      ]
+    },
+    {
+      "title": "Besvikelse i KD efter att SD snuvat partiet på utskottspost",
+      "link": "https://www.svt.se/nyheter/inrikes/besvikelse-i-kd-efter-att-sd-snuvat-partiet-pa-utskottspost",
+      "description": "Att Sverigedemokraterna knep ordförandeposten i socialutskottet har väckt känslor i KD. Källor vittnar nu om en dragkamp om vårdfrågan till höger i politiken. – Vi tar gärna ansvar för välfärdsfrågorna, säger Ebba Busch (KD).",
+      "pubDate": "2026-10-16T09:02:26Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "KD"
       ]
     }
   ],
@@ -340,19 +336,6 @@
       "sourceType": "blog",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "S efter valet: Tvärnit",
-      "link": "https://ledarsidorna.se/s-efter-valet-tvarnit/",
-      "description": "Två nyligen publicerade opinionsundersökningar vittnar sammantaget om Socialdemokraternas innevarande och accelererande problem. Problem som bottnar i ett svagt ledarskap långt ifrån självbilden och där dagens partiledning ser ut att ha medialt kapitulerat inför Vänsterpartiets drivna och målmedvetna ledning. Enligt DN/Ipsos har Vänsterpartiets ledning ett starkt stöd bland de egna väljarna för kravet på ministerposter. Samtidigt [&#8230;]",
-      "pubDate": "2026-10-09T04:04:05Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
       ]
     }
   ],
