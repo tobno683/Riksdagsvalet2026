@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T15:09:16.675860Z",
+  "updated_at": "2026-10-19T20:39:22.697087Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,102 @@
   ],
   "news": [
     {
+      "title": "Därför sonderar Thand Ringqvist (C): ”Vill visa väljare och medlemmar”",
+      "link": "https://www.expressen.se/nyheter/politik/darfor-sonderar-thand-ringqvist-c-vill-visa-valjare-och-medlemmar/",
+      "description": "Elisabeth Thand Ringqvist (C) vet redan att det inte blir någon mittenregering, enligt statsvetare. Poängen med att sondera är att kunna visa väljare och medlemmar att man verkligen har försökt – innan man väljer sida. – Svängrummet ökar, säger Andreas Johansson Heinö.",
+      "pubDate": "2026-10-19T19:50:54Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Oscar Jonsson: Hultqvist vill ha ett regemente till – det gör inte Sverige säkrare",
+      "link": "https://www.dn.se/ledare/oscar-jonsson-hultqvist-vill-ha-ett-regemente-till-det-gor-inte-sverige-sakrare/",
+      "description": "Socialdemokraterna vill dra försvarspolitiken i en riktning – läxorna från Ukraina pekar åt ett helt annat håll. KOLUMNEN. Oscar Jonsson är doktor i rysk krigföring och fristående kolumnist på Dagens Nyheters ledarsida.",
+      "pubDate": "2026-10-19T18:19:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Kristersson och UD om kravellerna i Europa",
+      "link": "https://www.expressen.se/nyheter/varlden/kristersson-och-ud-om-kravellerna-i-europa/",
+      "description": "Kravallerna i Frankrike fortsätter. Nu uppmanar UD svenska turister att undvika folksamlingar. ”Vi är många som med bestörtning följt de senaste dagarnas våldsamma upplopp på flera håll i Europa”, skriver statsminister Ulf Kristersson (M) på X.",
+      "pubDate": "2026-10-19T17:27:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Schulmans rödgröna ilska: ”Rösta er åt helvete”",
+      "link": "https://www.expressen.se/nyheter/politik/schulmans-rodgrona-ilska-rosta-er-at-helvete/",
+      "description": "De rödgröna partiernas oförmåga att bilda regering väcker ilska bland opinionsbildare.&nbsp; Medieprofilen Alex Schulman känner sig lurad, skriver han i DN: ”Se gärna till att lösa det här, och om ni inte gör det så lovar vi att rösta er åt helvete i extravalet”.",
+      "pubDate": "2026-10-19T17:13:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Tomas Ramberg: Thand Ringqvist får själv gräva mittens grav",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-far-sjalv-grava-mittens-grav/",
+      "description": "Talmannen pressar Centern att lägga korten på bordet. Korten kommer att visa sig vara precis så svaga som alla andra partier sagt – det finns inget mittenalternativ. Frågan är hur centerledaren Elisabeth Thand Ringqvist vill gå vidare efter att ha tvingats begrava sin favoritregering.",
+      "pubDate": "2026-10-19T16:56:42Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Vad ska Centerledaren göra hela veckan?",
+      "link": "https://www.dn.se/podd/alskade-politik/vad-ska-centerledaren-gora-hela-veckan/",
+      "description": "I 36 dagar efter valet har Sverige saknat en ny regering och nu meddelar talmannen Andreas Norlén (M) att C-ledaren Elisabeth Thand Ringqvist får det tredje sonderingsuppdraget av honom.",
+      "pubDate": "2026-10-19T16:21:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist hoppas på fem partier i mittenregering",
+      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvist-hoppas-pa-fem-partier-i-mittenregering/",
+      "description": "C-ledaren Elisabeth Thand Ringqvist har fått talmannens sonderingsuppdrag. Hon hoppas på en regering med C, S, MP, L och KD, erfar Expressen. –&nbsp;Min ambition är att bidra till en lösning på regeringsfrågan, säger hon själv. Samtliga partier har tackat ja till möte med C-ledaren.",
+      "pubDate": "2026-10-19T15:46:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Dödläge i Region Stockholm – fullmäktige skjuts upp",
+      "link": "https://www.sverigesradio.se/artikel/9324278",
+      "description": "Det politiska läget i Region Stockholm är låst, och regionfullmäktiges första sammanträde skjuts upp i två veckor. Socialdemokraterna försöker bilda ett minoritetsstyre med MP, L och C, medan Vänsterpartiet, vars mandat behövs, hålls utanför. Bakom uppskjutandet finns hot om oväntade röstningar, arga anklagelser och en varning för att mötet annars kunde blivit kaosartat.",
+      "pubDate": "2026-10-19T15:13:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
       "title": "Furtenbach: Nån ny regering är knappast i sikte nu",
       "link": "https://www.sverigesradio.se/artikel/9323374",
       "description": "Centerledaren Elisabeth Thand Ringqvist får sonderingsuppdraget av talmannen, något som inte är särskilt oväntat enligt Ekots inrikespolitiska kommentator Fredrik Furtenbach. Centerpartiet vill se en mittenregering och att centern skulle få sondera är ett alternativ som diskuterats ibland. Andemeningen brukar vara att centern vill ha en omöjlig regering, säger Fredrik Furtenbach. ”Jag tror att många uppfattar detta som ett sätt att bocka av centerns lösning på regeringsfrågan, och förhoppningen då är att man sen kan gå vidare till annat”, säger Furtenbach.",
@@ -100,45 +196,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "Ödesmötet mellan Thand och Åkesson",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/odesmotet-mellan-thand-och-akesson/",
-      "description": "Talmannen låter Elisabeth Thand Ringqvist sondera – kommer hon att köra mitten i botten?&nbsp; Och vad säger egentligen bråket i Region Stockholm om regeringsbildningen? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-10-19T14:36:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Tänk om C faktiskt vill ha ett extraval?",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/tank-om-c-faktiskt-vill-ha-ett-extraval/",
-      "description": "Det rör sig i sonderingsansvariga Centerpartiet. Frågan är bara vartåt.",
-      "pubDate": "2026-10-19T14:23:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Bråk om styret i Region Stockholm – mötet skjuts upp",
-      "link": "https://www.expressen.se/nyheter/politik/avgorande-mote-i-region-stockholm-skjuts-upp/",
-      "description": "Det första regionfullmäktigemötet i Stockholm skjuts upp. Det efter att V – som hålls utanför förhandlingarna – planerat att stötta en moderat ordförande, enligt uppgifter. Något som får S-toppen Aida Hadzialic att rasa. ” Moderaterna och Vänsterpartiet har gått ihop för att sabotera alla förutsättningar för ett minoritetsstyre i mitten ”, skriver hon.",
-      "pubDate": "2026-10-19T14:06:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V"
       ]
     },
     {
@@ -167,19 +224,6 @@
       ]
     },
     {
-      "title": "Thand Ringqvist (C) får sonderingsuppdraget – det händer nu",
-      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvist-c-far-sonderingsuppdraget-det-hander-nu/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist får sonderingsuppdraget av talmannen. Men betyder det att hon kan bli statsminister? Och vad händer härnäst? Här är det du behöver veta just nu.",
-      "pubDate": "2026-10-19T12:26:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Insändare. Skamligt att Kristersson fortfarande talar för Sverige",
       "link": "https://www.dn.se/insandare/skamligt-att-kristersson-fortfarande-talar-for-sverige/",
       "description": "INSÄNDARE. Tiden att bilda en ny regering i Sverige måste kraftigt förkortas genom en ändring av vår konstitution. Valet av statsminister bör ske senast en vecka efter att det officiella valresultatet fastställts, skriver Arne Lindquist.",
@@ -191,20 +235,6 @@
         "M",
         "MP",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Peter Hultqvists ilska efter domen mot Henrik Landerholm",
-      "link": "https://www.expressen.se/nyheter/politik/peter-hultqvists-ilska-efter-domen-mot-henrik-landerholm/",
-      "description": "Henrik Landerholm döms i hovrätten. Nu rasar Socialdemokraterna –&nbsp;och lovar att återuppta granskningen i riksdagen. – Nu får det vara slutmörkat, Ulf Kristersson, säger Peter Hultqvist (S). Även Miljöpartiet vill att Kristersson kallas till förhör.",
-      "pubDate": "2026-10-19T12:04:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "MP"
       ]
     },
     {
@@ -233,45 +263,6 @@
         "S",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristerssons känga mot rödgröna efter sonderingsbeskedet",
-      "link": "https://www.expressen.se/nyheter/politik/kristersson-efter-sonderingsbeskedet/",
-      "description": "Talmannen har gett C-ledaren Elisabeth Thand Ringqvist i uppdrag att sondera. Rätt beslut, menar Ulf Kristersson (M), som också riktar en känga till den rödgröna sidan. ”Rimligt att de får uttömma alla olika alternativ”, säger han i en kommentar. Magdalena Andersson (S) ser fram emot att föra fortsatta samtal med partiledarna. &nbsp; ”Det är viktigt att alla alternativ prövas”, säger hon.&nbsp;",
-      "pubDate": "2026-10-19T11:50:51Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Talmannen ger Elisabeth Thand Ringqvist (C) sonderingsuppdraget",
-      "link": "https://www.svt.se/nyheter/inrikes/talmannen-ger-elisabeth-thand-rinqvist-c-sonderingsuppdraget",
-      "description": "Elisabeth Thand Ringqvist (C) får sonderingsuppdraget av talmannen. – Det verkade rimligt att ta avstamp i det så kallade mittenalternativet, säger Andreas Norlén på en pressträff. C-ledaren bjuder nu in alla partiledare till samtal – men vill själv inte bli statsminister.",
-      "pubDate": "2026-10-19T11:45:33Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Talmannen: Thand Ringqvist (C) får sonderingsuppdraget",
-      "link": "https://www.sverigesradio.se/artikel/9322173",
-      "description": "Talman Andreas Norlén (M) har bett Elisabeth Thand Ringqvist (C) att sondera möjligheterna till en regering som kan tolereras och rapportera tillbaka om en vecka. C-ledaren ska då främst undersöka möjligheten till en mittenregering. Talmannen bedömer att ingen tydlig framgång skett i processen att bilda regering på något håll hittills.",
-      "pubDate": "2026-10-19T11:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     }
   ],
@@ -351,6 +342,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Vad ska Centerledaren göra hela veckan?",
+      "link": "https://pod.space/alskadepolitik/vad-ska-centerledaren-gora-hela-veckan",
+      "description": "I 36 dagar efter valet har Sverige saknat en ny regering och nu meddelar talmannen Andreas Norlén (M) att C-ledaren Elisabeth Thand Ringqvist får det tredje sonderingsuppdraget av honom.",
+      "pubDate": "2026-10-19T16:21:00Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "C"
+      ]
+    },
     {
       "title": "325. Åkessons ödesmöte",
       "link": "https://pod.space/politikrummet/325-akessons-odesmote",
@@ -530,21 +533,6 @@
       "sourceType": "podcast",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Veckopanelen: Mötet på Lidingö är ju löjligt",
-      "link": "https://pod.space/kvartal/veckopanelen-motet-pa-lidingo-ar-ju-lojligt",
-      "description": "Veckopanelen med Pernilla Zethraeus, Torbjörn Elensky och Thomas Gür under ledning av Staffan Dopping. Blir regeringssonderaren Magdalena Andersson klar till på måndag? Centerpartiets möte med de andra rödgröna partierna om lägesbilden pågick medan Veckopanelen spelades in. Vad var grejen egentligen med mötet på konferensgården i Lidingö? Sverigedemokraterna rumsterar om bland talespersoner och i riksdagens utskott. Vad är SD-strategin här? Vänsterpartiets kryssraket Mohamed Ali blev svensk medborgare på osanna uppgifter om sina skulder. Minnet av 7 oktober vållar både sorg, ilska och hat. Och franska skolor brinner och vandaliseras. Varför sker det just i Frankrike?",
-      "pubDate": "2026-10-10T03:40:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "SD",
-        "V",
-        "C"
       ]
     }
   ]
