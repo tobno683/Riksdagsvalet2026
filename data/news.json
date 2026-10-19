@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:54:43.111240Z",
+  "updated_at": "2026-10-19T02:04:30.476853Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,19 @@
     }
   ],
   "news": [
+    {
+      "title": "M och S hittar varandra i kommunerna – över 50 styren",
+      "link": "https://www.sverigesradio.se/artikel/9321291",
+      "description": "Efter valet har Moderaterna och Socialdemokraterna kommit överens om att styra tillsammans i över 50 kommuner. I drygt 30 av dem blir det en fortsättning på tidigare samarbeten medan det är helt nytt i drygt 20 av kommunerna. Samtidigt spricker nästan 20 styren där partierna styrt ihop innan valet. I Bollnäs går M och S skilda vägar. I Eskilstuna går man in på fjärde mandatperioden tillsammans. I Trelleborg kom det nya samarbetet som en överraskning för många.",
+      "pubDate": "2026-10-19T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
     {
       "title": "Strömmer (M) om regeringsbildningen: ”Finns låsningar”",
       "link": "https://www.svt.se/nyheter/inrikes/strommer-m-om-regeringsbildningen-finns-lasningar",
@@ -252,20 +265,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. C bör acceptera V-tjänstemän i Regeringskansliet",
-      "link": "https://www.dn.se/insandare/c-bor-acceptera-v-tjansteman-i-regeringskansliet/",
-      "description": "INSÄNDARE. Ett extra val, som troligen skulle sluta med ett Tidö 2.0, skulle kunna drabba Vänsterpartiet mer än något annat parti. Centerpartiet har historiskt lyckats med regeringskompromisser med Socialdemokraterna flera gånger, liksom med Alliansen, och kan nog även kompromissa med V till slut, skriver Håkan Lennerstad.",
-      "pubDate": "2026-10-16T14:50:38Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     }
   ],
