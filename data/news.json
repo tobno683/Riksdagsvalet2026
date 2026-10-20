@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T00:00:01.394968Z",
+  "updated_at": "2026-10-20T03:41:18.648722Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -150,18 +150,6 @@
       ]
     },
     {
-      "title": "Thand Ringqvist hoppas på fem partier i mittenregering",
-      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvist-hoppas-pa-fem-partier-i-mittenregering/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist har fått talmannens sonderingsuppdrag. Hon hoppas på en regering med C, S, MP, L och KD, erfar Expressen. –&nbsp;Min ambition är att bidra till en lösning på regeringsfrågan, säger hon själv. Samtliga partier har tackat ja till möte med C-ledaren.",
-      "pubDate": "2026-10-19T15:46:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "Dödläge i Region Stockholm – fullmäktige skjuts upp",
       "link": "https://www.sverigesradio.se/artikel/9324278",
       "description": "Det politiska läget i Region Stockholm är låst, och regionfullmäktiges första sammanträde skjuts upp i två veckor. Socialdemokraterna försöker bilda ett minoritetsstyre med MP, L och C, medan Vänsterpartiet, vars mandat behövs, hålls utanför. Bakom uppskjutandet finns hot om oväntade röstningar, arga anklagelser och en varning för att mötet annars kunde blivit kaosartat.",
@@ -252,21 +240,45 @@
       ]
     },
     {
-      "title": "Helena Gissén: ”Thand Ringqvist är inte aktuell som statsminister”",
-      "link": "https://www.sverigesradio.se/artikel/9322192",
-      "description": "Elisabeth Thand Ringqvist (C) får uppdrag att sondera möjligheterna till en mittenregering, vilket inte är helt oväntat då flera partier föreslagit detta, säger Helena Gissén, Ekots inrikespolitiska kommentator. ”Hon är inte aktuell för statsministerfrågan utan om det blir en mittenregering är det Magdalena Andersson som skulle bli statsminister”, säger Gissén. Helena Gissén beskriver läget med de låsta regeringsförhandlingarna som allvarligt och talmannen sa själv under pressträffen på måndagen att han inte ser att det gjorts några framsteg.",
-      "pubDate": "2026-10-19T11:51:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Talmannen ger Elisabeth Thand Ringqvist (C) sonderingsuppdraget",
+      "link": "https://www.svt.se/nyheter/inrikes/talmannen-ger-elisabeth-thand-rinqvist-c-sonderingsuppdraget",
+      "description": "Elisabeth Thand Ringqvist (C) får sonderingsuppdraget av talmannen. – Det verkade rimligt att ta avstamp i det så kallade mittenalternativet, säger Andreas Norlén på en pressträff. C-ledaren bjuder nu in alla partiledare till samtal – men vill själv inte bli statsminister.",
+      "pubDate": "2026-10-19T11:45:33Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
         "C",
         "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Efter stökiga förhandlingarna: Regionfullmäktige i Stockholm skjuts upp",
+      "link": "https://www.dn.se/sverige/efter-stokiga-forhandlingarna-regionfullmaktige-i-stockholm-kan-skjutas-upp/",
+      "description": "Vänsterpartiet har öppnat för att rösta på Moderaternas kandidat till regionstyrelseordförande, enligt uppgifter till DN. Nu står det klart att sammanträdet skjuts upp.",
+      "pubDate": "2026-10-19T09:48:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
       ]
     }
   ],
   "blogs": [
+    {
+      "title": "Sveriges Unga Muslimer lade grunden för Brödraskapet i Europa",
+      "link": "https://ledarsidorna.se/sveriges-unga-muslimer-lade-grunden-for-brodraskapet-i-europa/",
+      "description": "Vid voteringen i Europaparlamentet om att anta en resolution som skulle motverka islamistisk entrism i EU röstade fem socialdemokrater nej vid voteringen. Detta efter omfattande påverkansarbete av den muslimska organisationen FEMYSO. En organisation som har sitt ursprung i Sverige och kan kopplas direkt till det Muslimska brödraskapet. Det idag nedlagda Sveriges Unga Muslimer bildades 1990–1991. [&#8230;]",
+      "pubDate": "2026-10-20T03:22:55Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Logiskt men hopplöst",
       "link": "https://www.dagensarena.se/opinion/logiskt-men-hopplost/",
@@ -321,18 +333,6 @@
       "link": "https://ledarsidorna.se/kremls-skuggor-over-socialdemokraternas-utrikes-och-sakerhetspolitik/",
       "description": "I dagens läge, där ett alltmer pressat och samtidigt aggressivt Ryssland upprätthåller tryck genom hybridmedel och minoritetsretorik mot NATO-medlemmarna i Baltikum framstår Socialdemokraternas nedtoning av närområdesfokus som en återgång till en tidigare linje. En positionering som i högre grad sammanfaller med Kremls preferenser än den nuvarande mer NATO-anpassade politiken. I en intervju med POLITICO i [&#8230;]",
       "pubDate": "2026-10-12T03:25:43Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "FEMYSO i centrum när Europaparlamentet kräver strategi mot islamistisk entrism",
-      "link": "https://ledarsidorna.se/femyso-i-centrum-nar-europaparlamentet-kraver-strategi-mot-islamistisk-entrism/",
-      "description": "Muslimska brödraskapets nätverksorganisation FEMYSO reagerade kraftigt på Europaparlamentets antagna strategi mot islamistisk entrism inom EU. Men även om resolutionen som sådan inte innebär några omedelbara begränsningar så är den antagna texten ett hårt slag mot Brödraskapet. Där bland annat de svenska socialdemokraterna klev fram som allierad med det islamistiska nätverket vid voteringen. Europaparlamentet antog den [&#8230;]",
-      "pubDate": "2026-10-09T22:04:41Z",
       "source": "Ledarsidorna",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
