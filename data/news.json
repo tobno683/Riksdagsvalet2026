@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T08:57:12.104004Z",
+  "updated_at": "2026-10-20T13:59:31.275220Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,42 @@
     }
   ],
   "news": [
+    {
+      "title": "Gissén: De rödgröna partierna räddast för extraval",
+      "link": "https://www.sverigesradio.se/artikel/9324863",
+      "description": "Centerpartiets ledare Elisabeth Thand Ringqvist har fått i uppdrag att undersöka möjligheterna för en mittenregering. Men läget verkar allt mer låst, enligt Ekots politikkommentator Helena Gissén. ”Skulle väljarna uppfatta att det är Centerpartiet som blockerar alla lösningar åt både höger och vänster får man anta att deras rädsla för extraval växer”, säger Helena Gissén.",
+      "pubDate": "2026-10-20T12:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tiden har ”runnit ut” – C skissar på eget förslag",
+      "link": "https://www.svt.se/nyheter/inrikes/tiden-har-runnit-ut-c-skissar-pa-eget-forslag",
+      "description": "Det ser osannolikt ut att de rödgröna partierna ska hinna få ihop en gemensam budget – som MP har önskat. Nu förbereder sig Centerpartiet på att lägga in ett eget förslag. – C är naturligtvis fria att göra precis som de vill, men det vore bättre om vi hade kommit framåt i förhandlingar, säger MP-toppen Janine Alm Ericson.",
+      "pubDate": "2026-10-20T11:06:46Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Insändare. Kristersson bör släppa fram en rödgrön regering utan V",
+      "link": "https://www.dn.se/insandare/kristersson-bor-slappa-fram-en-rodgron-regering-utan-v/",
+      "description": "INSÄNDARE. Det finns ett sätt att bryta den parlamentariska knuten och bli svikare för somliga och hjälte för många. Och slår Ulf Kristersson (M) in en murbräcka mot samarbetet på vänstersidan kan han sannolikt driva igenom en högerbudget, skriver Lars Hjälmberg.",
+      "pubDate": "2026-10-20T08:57:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
     {
       "title": "Daniel Helldén får riksdagsarvode – och över 20 000 i pension från Stockholms stad",
       "link": "https://www.dn.se/sverige/daniel-hellden-far-riksdagsarvode-och-over-20-000-i-pension-fran-stockholms-stad/",
@@ -158,18 +194,6 @@
       ]
     },
     {
-      "title": "Oscar Jonsson: Hultqvist vill ha ett regemente till – det gör inte Sverige säkrare",
-      "link": "https://www.dn.se/ledare/oscar-jonsson-hultqvist-vill-ha-ett-regemente-till-det-gor-inte-sverige-sakrare/",
-      "description": "Socialdemokraterna vill dra försvarspolitiken i en riktning – läxorna från Ukraina pekar åt ett helt annat håll. KOLUMNEN. Oscar Jonsson är doktor i rysk krigföring och fristående kolumnist på Dagens Nyheters ledarsida.",
-      "pubDate": "2026-10-19T18:19:04Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Tomas Ramberg: Thand Ringqvist får själv gräva mittens grav",
       "link": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-far-sjalv-grava-mittens-grav/",
       "description": "Talmannen pressar Centern att lägga korten på bordet. Korten kommer att visa sig vara precis så svaga som alla andra partier sagt – det finns inget mittenalternativ. Frågan är hur centerledaren Elisabeth Thand Ringqvist vill gå vidare efter att ha tvingats begrava sin favoritregering.",
@@ -241,33 +265,6 @@
       "topics": [
         "M",
         "MP",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Talmannen: Centerledaren får sonderingsuppdraget",
-      "link": "https://www.dn.se/sverige/talmannen-centerledaren-far-sonderingsuppdraget/",
-      "description": "Nu har turen gått till C-ledaren Elisabeth Thand Ringqvist för att undersöka möjligheterna att bilda regering. – Hon har själv pekat ut ett antal partier som hon tycker borde ingå ett regeringssamarbete med Magdalena Andersson som statsminister, säger talmannen Andreas Norlén om sitt beslut.",
-      "pubDate": "2026-10-19T11:51:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Talmannen ger Elisabeth Thand Ringqvist (C) sonderingsuppdraget",
-      "link": "https://www.svt.se/nyheter/inrikes/talmannen-ger-elisabeth-thand-rinqvist-c-sonderingsuppdraget",
-      "description": "Elisabeth Thand Ringqvist (C) får sonderingsuppdraget av talmannen. – Det verkade rimligt att ta avstamp i det så kallade mittenalternativet, säger Andreas Norlén på en pressträff. C-ledaren bjuder nu in alla partiledare till samtal – men vill själv inte bli statsminister.",
-      "pubDate": "2026-10-19T11:45:33Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
         "Regeringsbildning"
       ]
     }
