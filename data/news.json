@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T13:59:31.275220Z",
+  "updated_at": "2026-10-20T18:21:12.536256Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,126 @@
   ],
   "news": [
     {
+      "title": "Kristersson V-ilska efter misstänkta valfusket",
+      "link": "https://www.expressen.se/nyheter/politik/kristersson-v-ilska-efter-misstankta-valfusket/",
+      "description": "Polisen har slagit till mot flera adresser i Borlänge i utredningen om misstänkt valfusk. Nu riktar statsminister Ulf Kristersson hård kritik mot Vänsterpartiets hantering av härvan. – Jag tycker att det är rätt anmärkningsvärt att man har så dålig koll på ledande kandidater, säger han till Expressen.",
+      "pubDate": "2026-10-20T17:51:26Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "M-ledaren Ulf Kristerssons ord om maktplanen: ”Har aldrig dolt”",
+      "link": "https://www.expressen.se/nyheter/politik/m-ledaren-ulf-kristerssons-ord-om-maktplanen-har-aldrig-dolt/",
+      "description": "Elisabeth Thand Ringqvist (C) har haft ett möte med Magdalena Andersson (S) på S-kansliet i riksdagen. &nbsp; Ulf Kristersson (M) ska träffa C-ledaren senare i veckan.&nbsp; Han vill se en ny omröstning om S-ledaren som statsminister och är öppen för att pröva stödet för en icke-socialistisk majoritet framöver.&nbsp; – Det har jag aldrig dolt, jag är beredd att pröva den tanken.&nbsp;",
+      "pubDate": "2026-10-20T17:04:11Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Andersson (S) om ny votering om henne som statsminister: ”Inte på kartan”",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-s-om-ny-votering-om-henne-som-statsminister-inte-pa-kartan/",
+      "description": "Elisabeth Thand Ringqvist (C) sonderar möjligheten att bilda en mittenregering med Magdalena Andersson (S) som statsminister.&nbsp; De har haft ett möte i riksdagen på tisdagen.&nbsp; S-ledaren vill inte svara på om vi har kommit närmare en ny regering.&nbsp; – Det är bra att man också får pröva det här alternativet. Hur det går får hon svara på.&nbsp;",
+      "pubDate": "2026-10-20T17:00:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Efter statsministerfiaskot: Tiden rinner ut för rödgrön budget",
+      "link": "https://www.dn.se/sverige/efter-statsministerfiaskot-tiden-rinner-ut-for-rodgron-budget/",
+      "description": "De rödgröna partierna har gett upp förhoppningarna om att lägga fram en gemensam budget i höst. – Tiden rinner i väg, säger Mikael Damberg (S).",
+      "pubDate": "2026-10-20T17:00:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "V: Vi fäller alla minoritetsstyren i Region Stockholm",
+      "link": "https://www.dn.se/sverige/v-vi-faller-alla-minoritetsstyren-i-region-stockholm/",
+      "description": "Vänsterpartiet i Region Stockholm kommer rösta emot alla minoritetsstyren som man inte ingår i och i stället rösta för motkandidaten. Partiledningen har varit med i samtalen som ledde fram till beslutet, säger gruppledaren Anna Sehlin till DN. – Precis så var det när vi gick med på januariavtalet 2018 på nationell nivå. Det misstaget gör vi inte om, säger Sehlin (V).",
+      "pubDate": "2026-10-20T15:25:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kristersson: Andersson borde prövas igen",
+      "link": "https://www.sverigesradio.se/artikel/9325072",
+      "description": "Moderaternas partiledare, statsminister Ulf Kristersson anser att det rimliga vore att Socialdemokraternas partiledare Magdalena Andersson prövas i nästa statsministeromröstning. ”Den frågan har inte varit på kartan, vad jag känner till”, säger Magdalena Andersson (S). Talman Andreas Norlén gav på sin pressträff i måndags inget besked om centerledaren Elisabeth Thand Ringqvists sonderingsuppdrag ska följas av en andra statsministeromröstning.",
+      "pubDate": "2026-10-20T15:09:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Inga nya besked om när Mohamed Ali dyker upp i riksdagen",
+      "link": "https://www.sverigesradio.se/artikel/9325075",
+      "description": "Vänsterpartiet ger inget besked om när nyvalde riksdagsledamoten Mohamed Ali börjar arbeta i riksdagen, trots att han varit frånvarande sedan öppningen i september. Efter att talmannen nekat ledighet sjukanmälde han sig förra veckan, samtidigt som rapporteringen om hans skulder och skuldsanering fortsatt. Samuel Gonzalez Westling, gruppledare för Vänsterpartiet, räknar med att Ali kommer att betala av sina skulder.",
+      "pubDate": "2026-10-20T14:53:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kristersson om KU:s granskning av Landerholmsaffären",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a94a3375-7cd9-4d4e-9f39-8f4dc67fa99d",
+      "description": "Kommenterar KU-granskningen av affären",
+      "pubDate": "2026-10-20T14:06:11Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Statsvetare om Moderaternas maktstrategi: ”Ganska bra scenario”",
+      "link": "https://www.expressen.se/nyheter/politik/statsvetare-om-moderaternas-maktstrategi-ganska-bra-scenario/",
+      "description": "Elisabeth Thand Ringqvist (C) fick sonderingsuppdraget av talmannen.&nbsp; Det kan gynna Ulf Kristersson (M), tror statsvetare.&nbsp; – För Moderaterna är det här ett ganska bra scenario, säger Andreas Johansson Heinö.&nbsp;",
+      "pubDate": "2026-10-20T13:56:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
       "title": "Gissén: De rödgröna partierna räddast för extraval",
       "link": "https://www.sverigesradio.se/artikel/9324863",
       "description": "Centerpartiets ledare Elisabeth Thand Ringqvist har fått i uppdrag att undersöka möjligheterna för en mittenregering. Men läget verkar allt mer låst, enligt Ekots politikkommentator Helena Gissén. ”Skulle väljarna uppfatta att det är Centerpartiet som blockerar alla lösningar åt både höger och vänster får man anta att deras rädsla för extraval växer”, säger Helena Gissén.",
@@ -139,18 +259,6 @@
       ]
     },
     {
-      "title": "Elisabeth Thand Ringqvist om mittenregering: ”Öppna ögon”",
-      "link": "https://www.expressen.se/nyheter/politik/elisabeth-thand-ringqvist-om-mittenregering-oppna-ogon/",
-      "description": "C-ledaren ser förutsättningar för en mittenregering – trots de andras tydliga motvilja.&nbsp; – I det här läget behövs det en del tålamod för att verkligen se vad som går att göra, säger Elisabeth Thand Ringqvist i TV4 Nyhetsmorgon.&nbsp;",
-      "pubDate": "2026-10-20T07:44:22Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "C-ledaren: ”Våra röda linjer mot V och SD ligger fast”",
       "link": "https://www.sverigesradio.se/artikel/9324586",
       "description": "Centerledaren Elisabeth Thand Ringqvist har fått talmannens uppdrag att undersöka möjligheten att bilda en ny regering. Hennes tänkta mittenalternativ omfattar fem partier: Från Miljöpartiet och Socialdemokraterna till Centerpartiet, Liberalerna och Kristdemokraterna. Samtidigt har Centerpartiet satt upp tydliga gränser. ”Det är många som måste fundera på sina röda linjer, men våra röda linjer mot Vänsterpartiet och Sverigedemokraterna ligger fast”, säger Elisabeth Thand Ringqvist i P1 Morgon.",
@@ -166,106 +274,6 @@
         "KD",
         "L",
         "MP"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist (C) om chanserna för en mittenregering: ”Utesluter ingenting på förhand”",
-      "link": "https://www.svt.se/nyheter/inrikes/thand-ringqvist-c-om-chanserna-for-en-mittenregering-utesluter-ingenting-pa-forhand",
-      "description": "På måndagen meddelade talman Andreas Norlén att han lämnar över sonderingsuppdraget till Centerpartiets partiledare Elisabeth Thand Ringqvist. – Jag har bokat in möten med alla partiledare men det kommer främst att vara de som jag har sagt kan vara en del av en mittenregering, säger hon i Morgonstudion.",
-      "pubDate": "2026-10-20T05:20:33Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Ledare: Det här är vad C-ledaren borde säga till Nooshi Dadgostar",
-      "link": "https://www.dn.se/ledare/det-har-ar-vad-c-ledaren-borde-saga-till-nooshi-dadgostar/",
-      "description": "Det finns en tydlig fördel med att Elisabeth Thand Ringqvist ska sondera för en ny regering. Hon kan samtala med Nooshi Dadgostar utan en massa ståhej.",
-      "pubDate": "2026-10-20T04:06:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Thand Ringqvist får själv gräva mittens grav",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-far-sjalv-grava-mittens-grav/",
-      "description": "Talmannen pressar Centern att lägga korten på bordet. Korten kommer att visa sig vara precis så svaga som alla andra partier sagt – det finns inget mittenalternativ. Frågan är hur centerledaren Elisabeth Thand Ringqvist vill gå vidare efter att ha tvingats begrava sin favoritregering.",
-      "pubDate": "2026-10-19T16:56:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Vad ska Centerledaren göra hela veckan?",
-      "link": "https://www.dn.se/podd/alskade-politik/vad-ska-centerledaren-gora-hela-veckan/",
-      "description": "I 36 dagar efter valet har Sverige saknat en ny regering och nu meddelar talmannen Andreas Norlén (M) att C-ledaren Elisabeth Thand Ringqvist får det tredje sonderingsuppdraget av honom.",
-      "pubDate": "2026-10-19T16:21:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist: ”Tydliga röda linjer även för en mittenregering”",
-      "link": "https://www.dn.se/sverige/thand-ringqvist-tydliga-roda-linjer-aven-for-en-mittenregering/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist får en vecka på sig för att utreda om det går att skapa en regering i mitten av svensk politik. – Det är svåra förutsättningar eftersom det finns tydliga låsningar även i ett mittenalternativ, säger hon.",
-      "pubDate": "2026-10-19T14:38:23Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "”Ett oväntat drag av talmannen – men det kan löna sig”",
-      "link": "https://www.svt.se/nyheter/inrikes/ett-ovantat-drag-av-talmannen-men-det-kan-lona-sig",
-      "description": "Att ge sonderingsuppdraget till Elisabeth Thand Ringqvist (C) redan nu var ett oväntat drag av talmannnen. Men det visar hur låst läget är och att Centerpartiet benhårt håller fast vid sin röda linje mot V-ministrar. Och möjligen kan försöket att på allvar testa partiets dröm om en lösning i mitten vara det som krävs för att processen ska börja röra sig framåt.",
-      "pubDate": "2026-10-19T13:54:21Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist får sonderingsuppdraget – detta händer nu",
-      "link": "https://www.dn.se/sverige/thand-ringqvist-far-sonderingsuppdraget-detta-hander-nu/",
-      "description": "På måndagen meddelade talman Andreas Norlén att Centerpartiets partiledare Elisabeth Thand Ringqvist får uppdraget att undersöka förutsättningarna för att bilda en regering. Detta händer med regeringsbildningen nu.",
-      "pubDate": "2026-10-19T13:16:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Skamligt att Kristersson fortfarande talar för Sverige",
-      "link": "https://www.dn.se/insandare/skamligt-att-kristersson-fortfarande-talar-for-sverige/",
-      "description": "INSÄNDARE. Tiden att bilda en ny regering i Sverige måste kraftigt förkortas genom en ändring av vår konstitution. Valet av statsminister bör ske senast en vecka efter att det officiella valresultatet fastställts, skriver Arne Lindquist.",
-      "pubDate": "2026-10-19T12:23:07Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "MP",
-        "Regeringsbildning"
       ]
     }
   ],
