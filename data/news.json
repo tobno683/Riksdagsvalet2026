@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T03:41:18.648722Z",
+  "updated_at": "2026-10-20T08:57:12.104004Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,14 +79,81 @@
   ],
   "news": [
     {
-      "title": "Därför sonderar Thand Ringqvist (C): ”Vill visa väljare och medlemmar”",
-      "link": "https://www.expressen.se/nyheter/politik/darfor-sonderar-thand-ringqvist-c-vill-visa-valjare-och-medlemmar/",
-      "description": "Elisabeth Thand Ringqvist (C) vet redan att det inte blir någon mittenregering, enligt statsvetare. Poängen med att sondera är att kunna visa väljare och medlemmar att man verkligen har försökt – innan man väljer sida. – Svängrummet ökar, säger Andreas Johansson Heinö.",
-      "pubDate": "2026-10-19T19:50:54Z",
+      "title": "Daniel Helldén får riksdagsarvode – och över 20 000 i pension från Stockholms stad",
+      "link": "https://www.dn.se/sverige/daniel-hellden-far-riksdagsarvode-och-over-20-000-i-pension-fran-stockholms-stad/",
+      "description": "Daniel Helldén får över 80 000 kronor i lön per månad som riksdagsledamot och partiledare för Miljöpartiet. Utöver det får han 20 766 kronor per månad i visstidspension från Stockholms stad – helt enligt reglerna.",
+      "pubDate": "2026-10-20T08:14:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Landsbygden rör sig högerut – Moderaterna ökar i 56 kommuner",
+      "link": "https://www.svt.se/nyheter/inrikes/landsbygden-ror-sig-hogerut-moderaterna-okar-i-56-kommuner",
+      "description": "Moderaterna är landsbygdens vinnare i riksdagsvalet. Det visar SVT:s genomgång. Partiet gick framåt i samtliga 56 landsbygdskommuner. – Det har skett ett historiskt skifte, säger Daniel Jansson på SOM-institutet.",
+      "pubDate": "2026-10-20T07:54:54Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Elisabeth Thand Ringqvist om mittenregering: ”Öppna ögon”",
+      "link": "https://www.expressen.se/nyheter/politik/elisabeth-thand-ringqvist-om-mittenregering-oppna-ogon/",
+      "description": "C-ledaren ser förutsättningar för en mittenregering – trots de andras tydliga motvilja.&nbsp; – I det här läget behövs det en del tålamod för att verkligen se vad som går att göra, säger Elisabeth Thand Ringqvist i TV4 Nyhetsmorgon.&nbsp;",
+      "pubDate": "2026-10-20T07:44:22Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "C-ledaren: ”Våra röda linjer mot V och SD ligger fast”",
+      "link": "https://www.sverigesradio.se/artikel/9324586",
+      "description": "Centerledaren Elisabeth Thand Ringqvist har fått talmannens uppdrag att undersöka möjligheten att bilda en ny regering. Hennes tänkta mittenalternativ omfattar fem partier: Från Miljöpartiet och Socialdemokraterna till Centerpartiet, Liberalerna och Kristdemokraterna. Samtidigt har Centerpartiet satt upp tydliga gränser. ”Det är många som måste fundera på sina röda linjer, men våra röda linjer mot Vänsterpartiet och Sverigedemokraterna ligger fast”, säger Elisabeth Thand Ringqvist i P1 Morgon.",
+      "pubDate": "2026-10-20T07:14:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "V",
+        "C",
+        "KD",
+        "L",
+        "MP"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist (C) om chanserna för en mittenregering: ”Utesluter ingenting på förhand”",
+      "link": "https://www.svt.se/nyheter/inrikes/thand-ringqvist-c-om-chanserna-for-en-mittenregering-utesluter-ingenting-pa-forhand",
+      "description": "På måndagen meddelade talman Andreas Norlén att han lämnar över sonderingsuppdraget till Centerpartiets partiledare Elisabeth Thand Ringqvist. – Jag har bokat in möten med alla partiledare men det kommer främst att vara de som jag har sagt kan vara en del av en mittenregering, säger hon i Morgonstudion.",
+      "pubDate": "2026-10-20T05:20:33Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ledare: Det här är vad C-ledaren borde säga till Nooshi Dadgostar",
+      "link": "https://www.dn.se/ledare/det-har-ar-vad-c-ledaren-borde-saga-till-nooshi-dadgostar/",
+      "description": "Det finns en tydlig fördel med att Elisabeth Thand Ringqvist ska sondera för en ny regering. Hon kan samtala med Nooshi Dadgostar utan en massa ståhej.",
+      "pubDate": "2026-10-20T04:06:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
         "C"
       ]
     },
@@ -101,29 +168,6 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Kristersson och UD om kravellerna i Europa",
-      "link": "https://www.expressen.se/nyheter/varlden/kristersson-och-ud-om-kravellerna-i-europa/",
-      "description": "Kravallerna i Frankrike fortsätter. Nu uppmanar UD svenska turister att undvika folksamlingar. ”Vi är många som med bestörtning följt de senaste dagarnas våldsamma upplopp på flera håll i Europa”, skriver statsminister Ulf Kristersson (M) på X.",
-      "pubDate": "2026-10-19T17:27:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Schulmans rödgröna ilska: ”Rösta er åt helvete”",
-      "link": "https://www.expressen.se/nyheter/politik/schulmans-rodgrona-ilska-rosta-er-at-helvete/",
-      "description": "De rödgröna partiernas oförmåga att bilda regering väcker ilska bland opinionsbildare.&nbsp; Medieprofilen Alex Schulman känner sig lurad, skriver han i DN: ”Se gärna till att lösa det här, och om ni inte gör det så lovar vi att rösta er åt helvete i extravalet”.",
-      "pubDate": "2026-10-19T17:13:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Tomas Ramberg: Thand Ringqvist får själv gräva mittens grav",
@@ -144,31 +188,6 @@
       "pubDate": "2026-10-19T16:21:00Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Dödläge i Region Stockholm – fullmäktige skjuts upp",
-      "link": "https://www.sverigesradio.se/artikel/9324278",
-      "description": "Det politiska läget i Region Stockholm är låst, och regionfullmäktiges första sammanträde skjuts upp i två veckor. Socialdemokraterna försöker bilda ett minoritetsstyre med MP, L och C, medan Vänsterpartiet, vars mandat behövs, hålls utanför. Bakom uppskjutandet finns hot om oväntade röstningar, arga anklagelser och en varning för att mötet annars kunde blivit kaosartat.",
-      "pubDate": "2026-10-19T15:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Furtenbach: Nån ny regering är knappast i sikte nu",
-      "link": "https://www.sverigesradio.se/artikel/9323374",
-      "description": "Centerledaren Elisabeth Thand Ringqvist får sonderingsuppdraget av talmannen, något som inte är särskilt oväntat enligt Ekots inrikespolitiska kommentator Fredrik Furtenbach. Centerpartiet vill se en mittenregering och att centern skulle få sondera är ett alternativ som diskuterats ibland. Andemeningen brukar vara att centern vill ha en omöjlig regering, säger Fredrik Furtenbach. ”Jag tror att många uppfattar detta som ett sätt att bocka av centerns lösning på regeringsfrågan, och förhoppningen då är att man sen kan gå vidare till annat”, säger Furtenbach.",
-      "pubDate": "2026-10-19T14:55:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "C"
@@ -250,19 +269,6 @@
       "topics": [
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Efter stökiga förhandlingarna: Regionfullmäktige i Stockholm skjuts upp",
-      "link": "https://www.dn.se/sverige/efter-stokiga-forhandlingarna-regionfullmaktige-i-stockholm-kan-skjutas-upp/",
-      "description": "Vänsterpartiet har öppnat för att rösta på Moderaternas kandidat till regionstyrelseordförande, enligt uppgifter till DN. Nu står det klart att sammanträdet skjuts upp.",
-      "pubDate": "2026-10-19T09:48:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V"
       ]
     }
   ],
