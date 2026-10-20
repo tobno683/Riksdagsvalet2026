@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T18:21:12.536256Z",
+  "updated_at": "2026-10-20T21:45:42.590812Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,38 @@
     }
   ],
   "news": [
+    {
+      "title": "KD-kängan mot SD: ”Suck it up”",
+      "link": "https://www.expressen.se/nyheter/politik/kd-kangan-mot-sd-suck-it-up/",
+      "description": "KDU:s ordförande Louise Hammargren vill se en borgerlig regering, som samarbetar med C och SD.&nbsp; Hon uppmanar SD att släppa kravet på ministerposter.&nbsp; – Det gick så dåligt för SD i valet så de får bara suck it up, säger hon till Svenska Dagbladet. &nbsp;",
+      "pubDate": "2026-10-20T21:38:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Centerpartiet tar fram egen budget – kan hjälpa Tidö vinna",
+      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-tar-fram-egen-budget-kan-hjalpa-tido-vinna/",
+      "description": "De rödgröna partierna lär inte hinna ta fram en gemensam budgetmotion.&nbsp; Centerpartiet skissar på en egen budget.&nbsp; V-toppen Ida Gabrielsson kallar draget för ”oansvarigt”.&nbsp; ”Det agerandet innebär att den budget Tidö-partierna planerar att lägga fram i riksdagen kommer att vinna”, skriver hon på X.&nbsp;",
+      "pubDate": "2026-10-20T19:58:12Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "20 oktober: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/sverige/20-oktober-missa-inte-dagens-nyheter/",
+      "description": "Rödgröna ger upp hopp om budget, Saba, 24, sköts ihjäl i idrottshallen och skeppsvrak upptäckta på sjöbotten i Dalarna – här är dagens nyheter.",
+      "pubDate": "2026-10-20T19:21:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "Kristersson V-ilska efter misstänkta valfusket",
       "link": "https://www.expressen.se/nyheter/politik/kristersson-v-ilska-efter-misstankta-valfusket/",
@@ -174,31 +206,6 @@
       ]
     },
     {
-      "title": "Kristersson om KU:s granskning av Landerholmsaffären",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=a94a3375-7cd9-4d4e-9f39-8f4dc67fa99d",
-      "description": "Kommenterar KU-granskningen av affären",
-      "pubDate": "2026-10-20T14:06:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Statsvetare om Moderaternas maktstrategi: ”Ganska bra scenario”",
-      "link": "https://www.expressen.se/nyheter/politik/statsvetare-om-moderaternas-maktstrategi-ganska-bra-scenario/",
-      "description": "Elisabeth Thand Ringqvist (C) fick sonderingsuppdraget av talmannen.&nbsp; Det kan gynna Ulf Kristersson (M), tror statsvetare.&nbsp; – För Moderaterna är det här ett ganska bra scenario, säger Andreas Johansson Heinö.&nbsp;",
-      "pubDate": "2026-10-20T13:56:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
       "title": "Gissén: De rödgröna partierna räddast för extraval",
       "link": "https://www.sverigesradio.se/artikel/9324863",
       "description": "Centerpartiets ledare Elisabeth Thand Ringqvist har fått i uppdrag att undersöka möjligheterna för en mittenregering. Men läget verkar allt mer låst, enligt Ekots politikkommentator Helena Gissén. ”Skulle väljarna uppfatta att det är Centerpartiet som blockerar alla lösningar åt både höger och vänster får man anta att deras rädsla för extraval växer”, säger Helena Gissén.",
@@ -256,24 +263,6 @@
       "sourceType": "news",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "C-ledaren: ”Våra röda linjer mot V och SD ligger fast”",
-      "link": "https://www.sverigesradio.se/artikel/9324586",
-      "description": "Centerledaren Elisabeth Thand Ringqvist har fått talmannens uppdrag att undersöka möjligheten att bilda en ny regering. Hennes tänkta mittenalternativ omfattar fem partier: Från Miljöpartiet och Socialdemokraterna till Centerpartiet, Liberalerna och Kristdemokraterna. Samtidigt har Centerpartiet satt upp tydliga gränser. ”Det är många som måste fundera på sina röda linjer, men våra röda linjer mot Vänsterpartiet och Sverigedemokraterna ligger fast”, säger Elisabeth Thand Ringqvist i P1 Morgon.",
-      "pubDate": "2026-10-20T07:14:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V",
-        "C",
-        "KD",
-        "L",
-        "MP"
       ]
     }
   ],
