@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T10:22:31.187692Z",
+  "updated_at": "2026-10-21T15:25:57.948220Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,68 @@
     }
   ],
   "news": [
+    {
+      "title": "Lind om FN:s klimatlarm: ”Får inte tappa hoppet”",
+      "link": "https://www.expressen.se/nyheter/politik/lind-om-fns-klimatlarm-far-inte-tappa-hoppet/",
+      "description": "Parisavtalets klimatmål är kört – nu går vi mot 2,8 graders uppvärmning, enligt FN. Men svenska politiker är optimistiska. – Vi får inte tappa hoppet, säger Amanda Lind (MP). –&nbsp;Det finns en enorm osäkerhet här, säger Martin Kinnunen (SD).",
+      "pubDate": "2026-10-21T15:21:14Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Gellerbrant stämmer Socialdemokraterna för förtal",
+      "link": "https://www.dn.se/sverige/gellerbrant-stammer-socialdemokraterna-for-fortal/",
+      "description": "SD-tjänstemannen Gustav Gellerbrant stämmer Socialdemokraterna för grovt förtal, rapporterar Ekot. Det handlar om ett inlägg som S har publicerat på sociala medier strax innan valet.",
+      "pubDate": "2026-10-21T15:07:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Förbud mot bensin- och dieselbilar kan rivas upp – trots svenskt motstånd",
+      "link": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand",
+      "description": "Nya bensin- och dieselbilar kan få fortsätta säljas efter 2035 – efter en uppgörelse i EU-parlamentet mellan bland annat socialdemokrater och moderater. Men S i Sverige tycker att uppgörelsen är dålig. – Vi svenska socialdemokrater är ju starkt kritiska till det här, säger Åsa Westlund.",
+      "pubDate": "2026-10-21T14:27:34Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Succé för C i Överkalix – katastrof för S",
+      "link": "https://www.expressen.se/nyheter/politik/succe-for-c-i-overkalix-katastrof-for-s/",
+      "description": "Centerpartiet har ett nytt starkaste fäste i landet: Överkalix. Här ökar partiet med 29 procentenheter – samtidigt som Socialdemokraterna gör ett katastrofval. – Jag trodde att vi skulle backa men inte så här mycket, säger kommunalrådet Niclas Hökfors (S). Nu står det nya styret inför en budgetutmaning.",
+      "pubDate": "2026-10-21T13:52:10Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "SD-toppen Gustav Gellerbrant stämmer S för grovt förtal",
+      "link": "https://www.sverigesradio.se/artikel/9325662",
+      "description": "SD-toppen Gustav Gellerbrant stämmer Socialdemokraterna för grovt förtal. Detta efter ett inlägg i Socialdemokraternas sociala medier, som bland annat handlar om hans påstådda kopplingar till den ryska underrättelsesfären. ”Socialdemokraterna har passerat alla gränser för vad en tjänsteman ska behöva tolerera i den allmänna debatten”, säger Iman Bayazi, juridiskt ombud.",
+      "pubDate": "2026-10-21T12:15:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Okonventionella styrena med M och S hissas och dissas av väljarna",
       "link": "https://www.dn.se/sverige/okonventionella-styrena-med-m-och-s-hissas-och-dissas-av-valjarna/",
@@ -196,67 +258,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Thand Ringqvist får själv gräva mittens grav",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-far-sjalv-grava-mittens-grav/",
-      "description": "Talmannen pressar Centern att lägga korten på bordet. Korten kommer att visa sig vara precis så svaga som alla andra partier sagt – det finns inget mittenalternativ. Frågan är hur centerledaren Elisabeth Thand Ringqvist vill gå vidare efter att ha tvingats begrava sin favoritregering.",
-      "pubDate": "2026-10-19T16:56:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Vad ska Centerledaren göra hela veckan?",
-      "link": "https://www.dn.se/podd/alskade-politik/vad-ska-centerledaren-gora-hela-veckan/",
-      "description": "I 36 dagar efter valet har Sverige saknat en ny regering och nu meddelar talmannen Andreas Norlén (M) att C-ledaren Elisabeth Thand Ringqvist får det tredje sonderingsuppdraget av honom.",
-      "pubDate": "2026-10-19T16:21:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist: ”Tydliga röda linjer även för en mittenregering”",
-      "link": "https://www.dn.se/sverige/thand-ringqvist-tydliga-roda-linjer-aven-for-en-mittenregering/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist får en vecka på sig för att utreda om det går att skapa en regering i mitten av svensk politik. – Det är svåra förutsättningar eftersom det finns tydliga låsningar även i ett mittenalternativ, säger hon.",
-      "pubDate": "2026-10-19T14:38:23Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "”Ett oväntat drag av talmannen – men det kan löna sig”",
-      "link": "https://www.svt.se/nyheter/inrikes/ett-ovantat-drag-av-talmannen-men-det-kan-lona-sig",
-      "description": "Att ge sonderingsuppdraget till Elisabeth Thand Ringqvist (C) redan nu var ett oväntat drag av talmannnen. Men det visar hur låst läget är och att Centerpartiet benhårt håller fast vid sin röda linje mot V-ministrar. Och möjligen kan försöket att på allvar testa partiets dröm om en lösning i mitten vara det som krävs för att processen ska börja röra sig framåt.",
-      "pubDate": "2026-10-19T13:54:21Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist får sonderingsuppdraget – detta händer nu",
-      "link": "https://www.dn.se/sverige/thand-ringqvist-far-sonderingsuppdraget-detta-hander-nu/",
-      "description": "På måndagen meddelade talman Andreas Norlén att Centerpartiets partiledare Elisabeth Thand Ringqvist får uppdraget att undersöka förutsättningarna för att bilda en regering. Detta händer med regeringsbildningen nu.",
-      "pubDate": "2026-10-19T13:16:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
       ]
     }
   ],
