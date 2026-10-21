@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T15:25:57.948220Z",
+  "updated_at": "2026-10-21T19:25:15.812345Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,130 @@
   ],
   "news": [
     {
+      "title": "21 oktober: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/21-oktober-missa-inte-dagens-nyheter/",
+      "description": "Skräcken inom Socialdemokraterna, sågningen av SSAB och larmet från FN – här är dagens nyheter.",
+      "pubDate": "2026-10-21T19:00:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "S-raset i Norrland – tappar sitt grepp om makten",
+      "link": "https://www.expressen.se/nyheter/sverige/s-raset-i-norrland-tappar-sitt-grepp-om-makten/",
+      "description": "Socialdemokraterna tappar greppet om norr. Partiet rasar 13,1 procentenheter i Boden och 13,0 i Dorotea – och gör ett katastrofval i Överkalix och Åsele. I Kramfors förlorar man över hälften av sina mandat. – Vi har nog inte sett botten än, säger statsvetaren Simon Matti.",
+      "pubDate": "2026-10-21T18:19:49Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Nya regionstyret klart efter veckor av kaos",
+      "link": "https://www.dn.se/sverige/nya-regionstyret-klart-efter-veckor-av-kaos/",
+      "description": "38 dagar efter valet är ett nytt styre klart i Region Stockholm. Efter flera veckor av stökiga förhandlingar och svekanklagelser har Socialdemokraterna, Miljöpartiet, Centerpartiet, Kristdemokraterna och Liberalerna kommit överens om att styra tillsammans.",
+      "pubDate": "2026-10-21T17:42:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "KD",
+        "L",
+        "MP"
+      ]
+    },
+    {
+      "title": "Källor: Jomshof kan petas efter interna striden",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=00e2c8af-5683-4d63-914d-e9d05884d4e1",
+      "description": "Diskuteras på hög nivå, enligt SvD och TV4",
+      "pubDate": "2026-10-21T17:31:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Gustav Gellerbrant  anmäler S för förtal",
+      "link": "https://www.expressen.se/nyheter/politik/gustav-gellerbrant--anmaler-s-for-fortal/",
+      "description": "SD-toppen Gustav Gellerbrant anmäler Socialdemokraterna för grovt förtal för partiets inlägg i sociala medier om hans påstådda kopplingar till rysk underrättelsesfären genom sin sambo. S säger att man utgått från uppgifter i media.",
+      "pubDate": "2026-10-21T17:21:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Textilexperten: Vittnesmålen om arbetsvillkoren förvånar inte",
+      "link": "https://www.sverigesradio.se/artikel/9325953",
+      "description": "Arbetare hos en leverantör till lågpriskedjan Lager 157 vittnar om dåliga arbetsförhållanden, något som inte förvånar Jonas Larsson, universitetslektor på Textilhögskolan i Borås. När kläder är billiga är det någon annan som får betala, säger han. En svensk textilindustri skulle vara mer hållbar både ur miljösynpunkt och gällande arbetsvillkor men det skulle kosta därefter. ”Måste finnas kunder som vill betala priset för hållbara produkter”, säger Jonas Larsson.",
+      "pubDate": "2026-10-21T16:52:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Källor till SVT: Jomshofs uttalanden problematiska",
+      "link": "https://www.svt.se/nyheter/inrikes/kallor-till-svt-jomshofs-uttalanden-problematiska",
+      "description": "Vad är svenskhet? Frågan har splittrat Sverigedemokraterna på senare tid – och en het debatt har brutit ut. En person som utmanat partiets hållning är Richard Jomshof (SD). Flera personer ur partistyrelsen menar nu att uttalanden i frågan är problematiska, enligt SVT Nyheters källor.",
+      "pubDate": "2026-10-21T16:48:40Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "S-skräcken för extraval: ”Ökenvandring i åtta år”",
+      "link": "https://www.dn.se/sverige/s-skracken-for-extraval-okenvandring-i-atta-ar/",
+      "description": "Oron växer inom socialdemokratin för att man ska misslyckas i regeringsförhandlingarna och att partiet tvingas gå till extraval. – Då väntar en ökenvandring i åtta år, säger Daniel Färm, på S-tidningen Aktuellt i Politiken.",
+      "pubDate": "2026-10-21T16:03:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Här är frågorna som Mohamed Ali inte svarar på",
+      "link": "https://www.expressen.se/nyheter/sverige/har-ar-fragorna-som-mohamed-ali-inte-svarar-pa/",
+      "description": "Vänsterpartiet säger att Muhammed Ali måste få fullfölja sitt demokratiska uppdrag.&nbsp; Men i riksdagen syns han inte till – och frågetecknen är många. Här är frågorna han vägrar svara på.",
+      "pubDate": "2026-10-21T16:01:48Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "LO:s ordförande: ”Vi möter en ny sorts fiende i avtalsrörelsen”",
+      "link": "https://www.sverigesradio.se/artikel/9325899",
+      "description": "LO:s ordförande Johan Lindholm utmålade motparten arbetsgivarna i Svenskt Näringsliv som en fiende när LO-samordningen presenterades. Svenskt Näringslivs vice vd Mattias Dahl reagerar starkt. ”Att prata om fiendskap är helt verklighetsfrånvänt”, säger han. 11 av de 13 fackförbunden står bakom förslaget till gemensamma krav där högre löneökningar till lågavlönade är viktigt. Transport tycker inte att LO går tillräckligt långt när det gäller arbetstidsförkortning.",
+      "pubDate": "2026-10-21T15:44:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
       "title": "Lind om FN:s klimatlarm: ”Får inte tappa hoppet”",
       "link": "https://www.expressen.se/nyheter/politik/lind-om-fns-klimatlarm-far-inte-tappa-hoppet/",
       "description": "Parisavtalets klimatmål är kört – nu går vi mot 2,8 graders uppvärmning, enligt FN. Men svenska politiker är optimistiska. – Vi får inte tappa hoppet, säger Amanda Lind (MP). –&nbsp;Det finns en enorm osäkerhet här, säger Martin Kinnunen (SD).",
@@ -138,126 +262,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Okonventionella styrena med M och S hissas och dissas av väljarna",
-      "link": "https://www.dn.se/sverige/okonventionella-styrena-med-m-och-s-hissas-och-dissas-av-valjarna/",
-      "description": "I Strängnäs fortsätter man. I Linköping och på Gotland tar det slut. De okonventionella styrena som moderater och socialdemokrater haft tillsammans i drygt 60 kommuner fick väljarnas dom i valet i september. Samarbetena både hissas och dissas.",
-      "pubDate": "2026-10-21T09:31:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Gänget satte skräck i Sverige – sedan greps en efter en",
-      "link": "https://www.dn.se/sverige/ganget-satte-skrack-i-sverige-sedan-greps-en-efter-en/",
-      "description": "Dalennätverket var ett av gängen som fick våldet att explodera i Sverige. Men efter tillslag världen över har stora delar av ledarskiktet gripits. I stadsdelen där gänget växte fram andas boende ut. – Man kan få för sig att någon ska åka förbi på moped och skjuta. Men det händer inte längre, säger trebarnsmamman Petra Andersson.",
-      "pubDate": "2026-10-21T04:02:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "20 oktober: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/sverige/20-oktober-missa-inte-dagens-nyheter/",
-      "description": "Rödgröna ger upp hopp om budget, Saba, 24, sköts ihjäl i idrottshallen och skeppsvrak upptäckta på sjöbotten i Dalarna – här är dagens nyheter.",
-      "pubDate": "2026-10-20T19:21:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Efter statsministerfiaskot: Tiden rinner ut för rödgrön budget",
-      "link": "https://www.dn.se/sverige/efter-statsministerfiaskot-tiden-rinner-ut-for-rodgron-budget/",
-      "description": "De rödgröna partierna har gett upp förhoppningarna om att lägga fram en gemensam budget i höst. – Tiden rinner i väg, säger Mikael Damberg (S).",
-      "pubDate": "2026-10-20T17:00:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "V: Vi fäller alla minoritetsstyren i Region Stockholm",
-      "link": "https://www.dn.se/sverige/v-vi-faller-alla-minoritetsstyren-i-region-stockholm/",
-      "description": "Vänsterpartiet i Region Stockholm kommer rösta emot alla minoritetsstyren som man inte ingår i och i stället rösta för motkandidaten. Partiledningen har varit med i samtalen som ledde fram till beslutet, säger gruppledaren Anna Sehlin till DN. – Precis så var det när vi gick med på januariavtalet 2018 på nationell nivå. Det misstaget gör vi inte om, säger Sehlin (V).",
-      "pubDate": "2026-10-20T15:25:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Tiden har ”runnit ut” – C skissar på eget förslag",
-      "link": "https://www.svt.se/nyheter/inrikes/tiden-har-runnit-ut-c-skissar-pa-eget-forslag",
-      "description": "Det ser osannolikt ut att de rödgröna partierna ska hinna få ihop en gemensam budget – som MP har önskat. Nu förbereder sig Centerpartiet på att lägga in ett eget förslag. – C är naturligtvis fria att göra precis som de vill, men det vore bättre om vi hade kommit framåt i förhandlingar, säger MP-toppen Janine Alm Ericson.",
-      "pubDate": "2026-10-20T11:06:46Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. Kristersson bör släppa fram en rödgrön regering utan V",
-      "link": "https://www.dn.se/insandare/kristersson-bor-slappa-fram-en-rodgron-regering-utan-v/",
-      "description": "INSÄNDARE. Det finns ett sätt att bryta den parlamentariska knuten och bli svikare för somliga och hjälte för många. Och slår Ulf Kristersson (M) in en murbräcka mot samarbetet på vänstersidan kan han sannolikt driva igenom en högerbudget, skriver Lars Hjälmberg.",
-      "pubDate": "2026-10-20T08:57:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Daniel Helldén får riksdagsarvode – och över 20 000 i pension från Stockholms stad",
-      "link": "https://www.dn.se/sverige/daniel-hellden-far-riksdagsarvode-och-over-20-000-i-pension-fran-stockholms-stad/",
-      "description": "Daniel Helldén får över 80 000 kronor i lön per månad som riksdagsledamot och partiledare för Miljöpartiet. Utöver det får han 20 766 kronor per månad i visstidspension från Stockholms stad – helt enligt reglerna.",
-      "pubDate": "2026-10-20T08:14:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Landsbygden rör sig högerut – Moderaterna ökar i 56 kommuner",
-      "link": "https://www.svt.se/nyheter/inrikes/landsbygden-ror-sig-hogerut-moderaterna-okar-i-56-kommuner",
-      "description": "Moderaterna är landsbygdens vinnare i riksdagsvalet. Det visar SVT:s genomgång. Partiet gick framåt i samtliga 56 landsbygdskommuner. – Det har skett ett historiskt skifte, säger Daniel Jansson på SOM-institutet.",
-      "pubDate": "2026-10-20T07:54:54Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist (C) om chanserna för en mittenregering: ”Utesluter ingenting på förhand”",
-      "link": "https://www.svt.se/nyheter/inrikes/thand-ringqvist-c-om-chanserna-for-en-mittenregering-utesluter-ingenting-pa-forhand",
-      "description": "På måndagen meddelade talman Andreas Norlén att han lämnar över sonderingsuppdraget till Centerpartiets partiledare Elisabeth Thand Ringqvist. – Jag har bokat in möten med alla partiledare men det kommer främst att vara de som jag har sagt kan vara en del av en mittenregering, säger hon i Morgonstudion.",
-      "pubDate": "2026-10-20T05:20:33Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     }
   ],
