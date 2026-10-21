@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T19:25:15.812345Z",
+  "updated_at": "2026-10-21T22:32:15.549847Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,19 @@
   ],
   "news": [
     {
+      "title": "Insändare. Ge oss möjlighet att kasta ut Mohamed Ali ur riksdagen",
+      "link": "https://www.dn.se/insandare/ge-oss-mojlighet-att-kasta-ut-mohamed-ali-ur-riksdagen/",
+      "description": "INSÄNDARE. Ett eventuellt extra val i spåren av den pågående regeringskrisen handlar inte bara om vem som ska sitta i Rosenbad. Det handlar om att svenska folket måste ges en nödbroms för att med hjälp av demokratin kasta ut vänsterpartisten Mohamed Ali från riksdagen, skriver Cleaes Lind.",
+      "pubDate": "2026-10-21T21:51:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "MP"
+      ]
+    },
+    {
       "title": "21 oktober: Missa inte dagens nyheter",
       "link": "https://www.dn.se/varlden/21-oktober-missa-inte-dagens-nyheter/",
       "description": "Skräcken inom Socialdemokraterna, sågningen av SSAB och larmet från FN – här är dagens nyheter.",
@@ -145,7 +158,7 @@
     {
       "title": "Textilexperten: Vittnesmålen om arbetsvillkoren förvånar inte",
       "link": "https://www.sverigesradio.se/artikel/9325953",
-      "description": "Arbetare hos en leverantör till lågpriskedjan Lager 157 vittnar om dåliga arbetsförhållanden, något som inte förvånar Jonas Larsson, universitetslektor på Textilhögskolan i Borås. När kläder är billiga är det någon annan som får betala, säger han. En svensk textilindustri skulle vara mer hållbar både ur miljösynpunkt och gällande arbetsvillkor men det skulle kosta därefter. ”Måste finnas kunder som vill betala priset för hållbara produkter”, säger Jonas Larsson.",
+      "description": "Arbetare hos en leverantör till lågpriskedjan Lager 157 vittnar om dåliga arbetsförhållanden, något som inte förvånar Jonas Larsson, universitetslektor på Textilhögskolan i Borås. När kläder är billiga är det någon annan som får betala, säger han. En svensk textilindustri skulle vara mer hållbar både ur miljösynpunkt och gällande arbetsvillkor men det skulle kosta därefter, enligt Johan Larsson. ”Det förutsätter ju att människor vill betala priset för hållbara produkter”, säger Jonas Larsson.",
       "pubDate": "2026-10-21T16:52:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -237,19 +250,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "Succé för C i Överkalix – katastrof för S",
-      "link": "https://www.expressen.se/nyheter/politik/succe-for-c-i-overkalix-katastrof-for-s/",
-      "description": "Centerpartiet har ett nytt starkaste fäste i landet: Överkalix. Här ökar partiet med 29 procentenheter – samtidigt som Socialdemokraterna gör ett katastrofval. – Jag trodde att vi skulle backa men inte så här mycket, säger kommunalrådet Niclas Hökfors (S). Nu står det nya styret inför en budgetutmaning.",
-      "pubDate": "2026-10-21T13:52:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
       ]
     },
     {
