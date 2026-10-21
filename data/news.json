@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T05:04:05.141840Z",
+  "updated_at": "2026-10-21T10:22:31.187692Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,19 @@
   ],
   "news": [
     {
+      "title": "Okonventionella styrena med M och S hissas och dissas av väljarna",
+      "link": "https://www.dn.se/sverige/okonventionella-styrena-med-m-och-s-hissas-och-dissas-av-valjarna/",
+      "description": "I Strängnäs fortsätter man. I Linköping och på Gotland tar det slut. De okonventionella styrena som moderater och socialdemokrater haft tillsammans i drygt 60 kommuner fick väljarnas dom i valet i september. Samarbetena både hissas och dissas.",
+      "pubDate": "2026-10-21T09:31:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "Gänget satte skräck i Sverige – sedan greps en efter en",
       "link": "https://www.dn.se/sverige/ganget-satte-skrack-i-sverige-sedan-greps-en-efter-en/",
       "description": "Dalennätverket var ett av gängen som fick våldet att explodera i Sverige. Men efter tillslag världen över har stora delar av ledarskiktet gripits. I stadsdelen där gänget växte fram andas boende ut. – Man kan få för sig att någon ska åka förbi på moped och skjuta. Men det händer inte längre, säger trebarnsmamman Petra Andersson.",
@@ -88,28 +101,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "KD-kängan mot SD: ”Suck it up”",
-      "link": "https://www.expressen.se/nyheter/politik/kd-kangan-mot-sd-suck-it-up/",
-      "description": "KDU:s ordförande Louise Hammargren vill se en borgerlig regering, som samarbetar med C och SD.&nbsp; Hon uppmanar SD att släppa kravet på ministerposter.&nbsp; – Det gick så dåligt för SD i valet så de får bara suck it up, säger hon till Svenska Dagbladet. &nbsp;",
-      "pubDate": "2026-10-20T21:38:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Centerpartiet tar fram egen budget – kan hjälpa Tidö vinna",
-      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-tar-fram-egen-budget-kan-hjalpa-tido-vinna/",
-      "description": "De rödgröna partierna lär inte hinna ta fram en gemensam budgetmotion.&nbsp; Centerpartiet skissar på en egen budget.&nbsp; V-toppen Ida Gabrielsson kallar draget för ”oansvarigt”.&nbsp; ”Det agerandet innebär att den budget Tidö-partierna planerar att lägga fram i riksdagen kommer att vinna”, skriver hon på X.&nbsp;",
-      "pubDate": "2026-10-20T19:58:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     },
     {
@@ -145,45 +136,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Kristersson: Andersson borde prövas igen",
-      "link": "https://www.sverigesradio.se/artikel/9325072",
-      "description": "Moderaternas partiledare, statsminister Ulf Kristersson anser att det rimliga vore att Socialdemokraternas partiledare Magdalena Andersson prövas i nästa statsministeromröstning. ”Den frågan har inte varit på kartan, vad jag känner till”, säger Magdalena Andersson (S). Talman Andreas Norlén gav på sin pressträff i måndags inget besked om centerledaren Elisabeth Thand Ringqvists sonderingsuppdrag ska följas av en andra statsministeromröstning.",
-      "pubDate": "2026-10-20T15:09:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Inga nya besked om när Mohamed Ali dyker upp i riksdagen",
-      "link": "https://www.sverigesradio.se/artikel/9325075",
-      "description": "Vänsterpartiet ger inget besked om när nyvalde riksdagsledamoten Mohamed Ali börjar arbeta i riksdagen, trots att han varit frånvarande sedan öppningen i september. Efter att talmannen nekat ledighet sjukanmälde han sig förra veckan, samtidigt som rapporteringen om hans skulder och skuldsanering fortsatt. Samuel Gonzalez Westling, gruppledare för Vänsterpartiet, räknar med att Ali kommer att betala av sina skulder.",
-      "pubDate": "2026-10-20T14:53:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Gissén: De rödgröna partierna räddast för extraval",
-      "link": "https://www.sverigesradio.se/artikel/9324863",
-      "description": "Centerpartiets ledare Elisabeth Thand Ringqvist har fått i uppdrag att undersöka möjligheterna för en mittenregering. Men läget verkar allt mer låst, enligt Ekots politikkommentator Helena Gissén. ”Skulle väljarna uppfatta att det är Centerpartiet som blockerar alla lösningar åt både höger och vänster får man anta att deras rädsla för extraval växer”, säger Helena Gissén.",
-      "pubDate": "2026-10-20T12:03:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     },
     {
@@ -256,6 +208,55 @@
       "sourceType": "news",
       "topics": [
         "C"
+      ]
+    },
+    {
+      "title": "Vad ska Centerledaren göra hela veckan?",
+      "link": "https://www.dn.se/podd/alskade-politik/vad-ska-centerledaren-gora-hela-veckan/",
+      "description": "I 36 dagar efter valet har Sverige saknat en ny regering och nu meddelar talmannen Andreas Norlén (M) att C-ledaren Elisabeth Thand Ringqvist får det tredje sonderingsuppdraget av honom.",
+      "pubDate": "2026-10-19T16:21:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist: ”Tydliga röda linjer även för en mittenregering”",
+      "link": "https://www.dn.se/sverige/thand-ringqvist-tydliga-roda-linjer-aven-for-en-mittenregering/",
+      "description": "C-ledaren Elisabeth Thand Ringqvist får en vecka på sig för att utreda om det går att skapa en regering i mitten av svensk politik. – Det är svåra förutsättningar eftersom det finns tydliga låsningar även i ett mittenalternativ, säger hon.",
+      "pubDate": "2026-10-19T14:38:23Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "”Ett oväntat drag av talmannen – men det kan löna sig”",
+      "link": "https://www.svt.se/nyheter/inrikes/ett-ovantat-drag-av-talmannen-men-det-kan-lona-sig",
+      "description": "Att ge sonderingsuppdraget till Elisabeth Thand Ringqvist (C) redan nu var ett oväntat drag av talmannnen. Men det visar hur låst läget är och att Centerpartiet benhårt håller fast vid sin röda linje mot V-ministrar. Och möjligen kan försöket att på allvar testa partiets dröm om en lösning i mitten vara det som krävs för att processen ska börja röra sig framåt.",
+      "pubDate": "2026-10-19T13:54:21Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist får sonderingsuppdraget – detta händer nu",
+      "link": "https://www.dn.se/sverige/thand-ringqvist-far-sonderingsuppdraget-detta-hander-nu/",
+      "description": "På måndagen meddelade talman Andreas Norlén att Centerpartiets partiledare Elisabeth Thand Ringqvist får uppdraget att undersöka förutsättningarna för att bilda en regering. Detta händer med regeringsbildningen nu.",
+      "pubDate": "2026-10-19T13:16:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
       ]
     }
   ],
