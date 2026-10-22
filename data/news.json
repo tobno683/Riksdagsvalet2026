@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T20:38:44.914102Z",
+  "updated_at": "2026-10-22T23:44:10.377975Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -112,18 +112,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "Oliver Rosengren: Blir ingen fyradagarsvecka",
-      "link": "https://www.expressen.se/nyheter/politik/oliver-rosengren-blir-ingen-fyradagarsvecka/",
-      "description": "Stjärnskottet Oliver Rosengren blir Moderaternas talesperson i arbetsmarknadsfrågor.&nbsp; Han vill att svenskarna ska jobba hårdare –&nbsp;och räds inte ett extraval. – Det blir inga fyradagarsveckor i mitt Sverige, säger han.&nbsp;",
-      "pubDate": "2026-10-22T16:03:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     },
     {
@@ -255,6 +243,22 @@
       "sourceType": "news",
       "topics": [
         "S"
+      ]
+    },
+    {
+      "title": "Nya regionstyret klart efter veckor av kaos",
+      "link": "https://www.dn.se/sverige/nya-regionstyret-klart-efter-veckor-av-kaos/",
+      "description": "38 dagar efter valet är ett nytt styre klart i Region Stockholm. Efter flera veckor av stökiga förhandlingar och svekanklagelser har Socialdemokraterna, Miljöpartiet, Centerpartiet, Kristdemokraterna och Liberalerna kommit överens om att styra tillsammans.",
+      "pubDate": "2026-10-21T17:42:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "KD",
+        "L",
+        "MP"
       ]
     }
   ],
