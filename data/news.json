@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T17:23:11.346693Z",
+  "updated_at": "2026-10-22T20:38:44.914102Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,18 @@
   ],
   "news": [
     {
+      "title": "Varnar för stormbyar – då kommer Boelo",
+      "link": "https://www.expressen.se/nyheter/varnar-for-stormbyar-da-kommer-boelo/",
+      "description": "Stormen Boelo slår till mot Sverige på söndag. Det väntas rejält blåsigt väder. – Här och var kan det bli stormbyar, säger Katarina Andersson, meteorolog vid SMHI.",
+      "pubDate": "2026-10-22T18:45:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Mohamed Ali tänker behålla riksdagsplatsen",
       "link": "https://www.sverigesradio.se/artikel/9326818",
       "description": "Den nyinvalda vänsterpartistiska riksdagsledamoten Mohamed Ali tänker behålla sin riksdagsplats, säger han i en intervju med SVT . Han är också tydlig med att han inte sett några felaktigheter med sin valkampanj. ”Det är bra att det utreds faktiskt, men jag har kampanjat på ett väldigt bra sätt. Jag har varit i olika kommuner i Dalarna, träffat människor och knackat dörrar”, säger Mohamed Ali. Det pågår fortsatt en utredning som rör misstänkt valfusk i Borlänge, och Mohamed Ali säger till SVT att han inte delgivits någon misstanke om brott eller hört något från polisen.",
@@ -88,18 +100,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Varnar för stormbyar – då kommer Boelo",
-      "link": "https://www.expressen.se/nyheter/varnar-for-stormbyar-da-kommer-boelo/",
-      "description": "Stormen Boelo slår till mot Sverige på söndag. Det väntas rejält blåsigt väder. – Här och var kan det bli stormbyar, säger Katarina Andersson, meteorolog vid SMHI.",
-      "pubDate": "2026-10-22T16:33:41Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -184,18 +184,6 @@
       "topics": []
     },
     {
-      "title": "Här kan C styra med både SD och Vänstern",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/har-kan-c-styra-med-bade-sd-och-vanstern/",
-      "description": "Den breda mitten tar över i Region Stockholm. Hur resten av Sverige ser ut vill Centerpartiet helst tala tyst om.",
-      "pubDate": "2026-10-22T14:24:19Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "Ebba Busch: Elstöd kan bli aktuellt redan nu",
       "link": "https://www.sverigesradio.se/artikel/9326664",
       "description": "Höga elpriser riskerar att drabba hushåll och företag i vinter, det meddelade Energimyndigheten och energi- och näringsminister Ebba Busch (KD) på en pressträff under torsdagen. I södra Sverige är snittpriset för oktober just nu över gränsen för elstöd och håller det i sig månaden ut, blir aktuellt med högkostnadsskydd för hushållen i elområde 4, enligt ministern. ”Det kan bli en potentiellt sett stökig vinter”, säger Ebba Busch.",
@@ -205,20 +193,6 @@
       "sourceType": "news",
       "topics": [
         "KD"
-      ]
-    },
-    {
-      "title": "S-ilskan: Säljer ut vården till KD",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/s-ilskan-saljer-ut-varden-till-kd/",
-      "description": "Centerpartiet jublar över mittenstyret i Region Stockholm. Kommer Vänsterpartiet backa nu? Och vad vill Socialdemokraterna egentligen? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-10-22T14:02:42Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     },
     {
@@ -256,6 +230,31 @@
       "topics": [
         "M",
         "V"
+      ]
+    },
+    {
+      "title": "Insändare. Ge oss möjlighet att kasta ut Mohamed Ali ur riksdagen",
+      "link": "https://www.dn.se/insandare/ge-oss-mojlighet-att-kasta-ut-mohamed-ali-ur-riksdagen/",
+      "description": "INSÄNDARE. Ett eventuellt extra val i spåren av den pågående regeringskrisen handlar inte bara om vem som ska sitta i Rosenbad. Det handlar om att svenska folket måste ges en nödbroms för att med hjälp av demokratin kasta ut vänsterpartisten Mohamed Ali från riksdagen, skriver Claes Lind.",
+      "pubDate": "2026-10-21T21:51:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "MP"
+      ]
+    },
+    {
+      "title": "21 oktober: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/21-oktober-missa-inte-dagens-nyheter/",
+      "description": "Skräcken inom Socialdemokraterna, sågningen av SSAB och larmet från FN – här är dagens nyheter.",
+      "pubDate": "2026-10-21T19:00:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     }
   ],
