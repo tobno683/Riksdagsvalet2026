@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T06:12:58.797292Z",
+  "updated_at": "2026-10-22T12:09:21.738012Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,83 @@
   ],
   "news": [
     {
+      "title": "Tre misstänks i valfuskhärvan i Borlänge",
+      "link": "https://www.dn.se/sverige/tre-misstanks-i-valfuskharvan-i-borlange/",
+      "description": "Tre personer har delgivits misstanke om valfusk i Borlänge. Vänsterpartiets Mohamed Abdukardir Ali är inte en av dem, säger han till SVT.",
+      "pubDate": "2026-10-22T11:28:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kopierar Mamdani – för att göra storstäder borgerliga",
+      "link": "https://www.expressen.se/nyheter/politik/kopierar-mamdani--for-att-gora-storstader-borgerliga/",
+      "description": "Moderaten Samuel Jonsson, Timbro, tycker att högerpartierna varit för dåliga att locka storstadsväljare.&nbsp; Nu vill han vända trenden – genom att kopiera New Yorks borgmästare. –&nbsp;Mamdanikampanjen behöver inte vara Dadgostars, den kan lika gärna vara borgerlig.",
+      "pubDate": "2026-10-22T11:01:29Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Busch: ”Fruktbara samtal” med C",
+      "link": "https://www.expressen.se/nyheter/politik/busch-fruktbara-samtal-med-c/",
+      "description": "Ebba Busch och Elisabeth Thand Ringqvist har ”fruktbara samtal” om regeringsbildningen.&nbsp; Det säger KD-ledaren på en pressträff.&nbsp; – Det finns ett värde av att veta var man har varandra politiskt.&nbsp;",
+      "pubDate": "2026-10-22T10:46:28Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Skogsmullar döljer nazisympatier i ekofascistisk thriller",
+      "link": "https://www.dn.se/kultur/skogsmullar-doljer-nazisympatier-i-ekofascistisk-thriller/",
+      "description": "Svenska ”Nipster” kretsar kring en tystlåten tonåring som söker tröst på ett sommarkollo mot kalhyggen – och dras in i en mörk miljö av manipulation, hat och högerextremism. Ojämn, men också otäckt spännande i sin skildring av hur radikalisering kan bära naturromantisk mask, tycker Helena Lindblad.",
+      "pubDate": "2026-10-22T07:09:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "SVT/Verian: Kristersson (M) rusar i förtroende – Dadgostar (V) i botten",
+      "link": "https://www.svt.se/nyheter/inrikes/svtverian-kristersson-m-rusar-i-fortroende-dadgostar-v-i-botten",
+      "description": "Ulf Kristersson (M) får sin bästa notering någonsin i SVT/Verians senaste förtroendemätning för partiledarna. Samtidigt rasar vänsterledaren Nooshi Dadgostar (V).",
+      "pubDate": "2026-10-22T06:24:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "L-ledaren Simona Mohamsson: Vi står närmare SD än S",
+      "link": "https://www.expressen.se/nyheter/politik/l-ledaren-simona-mohamsson-vi-star-narmare-sd-an-s-/",
+      "description": "Simona Mohamsson stänger dörren till en mittenregering med Magdalena Andersson.&nbsp; Hon tar inte åt sig av talmannens pik att hon borde prata med alla under sonderingen och betonar att partiet står närmare SD än S.&nbsp; – Jag har ett förtroende för Jimmie Åkesson. Och det är genom förtroende som man bygger förändring i samhället, säger hon till Svenska Dagbladet. &nbsp;",
+      "pubDate": "2026-10-22T06:14:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "L"
+      ]
+    },
+    {
       "title": "Ytterligare två tunga avhopp på Svenska kraftnät",
       "link": "https://www.dn.se/sverige/ytterligare-tva-tunga-avhopp-pa-svenska-kraftnat/",
       "description": "Ytterligare två nyckelpersoner vid Svenska kraftnät har sagt upp sig, kan DN avslöja. Orsaken är missnöje med nya generaldirektören Maja Lundbäcks ledning. På torsdagen kräver Socialdemokraterna svar i näringsutskottet om läget på myndigheten. – Det har kommit många väldigt illavarslande signaler, säger S energipolitiske talesperson Fredrik Olovsson.",
@@ -93,7 +170,7 @@
     {
       "title": "C styr med SD och V i fler kommuner",
       "link": "https://www.sverigesradio.se/artikel/9325941",
-      "description": "Den här veckan undersöker Centerpartiet möjligheten för en mittenregering utan V och SD. Samtidigt har C inlett fler samarbeten i kommunerna med partierna som de har en röd linje i regeringsfrågan kring. C har hittills gjort upp om att styra med SD i sju kommuner och med V i 37 kommuner. Av de 200 av landets 290 kommuner som är färdigförhandlade ska Centerpartiet vara med och styra i hälften, oftast i blocköverskridande samarbeten.",
+      "description": "Den här veckan undersöker Centerpartiet möjligheten för en mittenregering utan V och SD. Samtidigt har C inlett fler samarbeten i kommunerna med partierna som de har en röd linje i regeringsfrågan kring. C hade på torsdagen gjort upp om att styra med SD i åtta kommuner och med V i runt 40 kommuner. Av de över 200 av landets 290 kommuner som är färdigförhandlade ska Centerpartiet vara med och styra i hälften, oftast i blocköverskridande samarbeten. Artikeln är uppdaterad med information om ytterligare klara styren i kommunerna",
       "pubDate": "2026-10-22T02:00:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -105,7 +182,7 @@
     {
       "title": "Insändare. Ge oss möjlighet att kasta ut Mohamed Ali ur riksdagen",
       "link": "https://www.dn.se/insandare/ge-oss-mojlighet-att-kasta-ut-mohamed-ali-ur-riksdagen/",
-      "description": "INSÄNDARE. Ett eventuellt extra val i spåren av den pågående regeringskrisen handlar inte bara om vem som ska sitta i Rosenbad. Det handlar om att svenska folket måste ges en nödbroms för att med hjälp av demokratin kasta ut vänsterpartisten Mohamed Ali från riksdagen, skriver Cleaes Lind.",
+      "description": "INSÄNDARE. Ett eventuellt extra val i spåren av den pågående regeringskrisen handlar inte bara om vem som ska sitta i Rosenbad. Det handlar om att svenska folket måste ges en nödbroms för att med hjälp av demokratin kasta ut vänsterpartisten Mohamed Ali från riksdagen, skriver Claes Lind.",
       "pubDate": "2026-10-21T21:51:40Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -128,18 +205,6 @@
       ]
     },
     {
-      "title": "S-raset i Norrland – tappar sitt grepp om makten",
-      "link": "https://www.expressen.se/nyheter/sverige/s-raset-i-norrland-tappar-sitt-grepp-om-makten/",
-      "description": "Socialdemokraterna tappar greppet om norr. Partiet rasar 13,1 procentenheter i Boden och 13,0 i Dorotea – och gör ett katastrofval i Överkalix och Åsele. I Kramfors förlorar man över hälften av sina mandat. – Vi har nog inte sett botten än, säger statsvetaren Simon Matti.",
-      "pubDate": "2026-10-21T18:19:49Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Nya regionstyret klart efter veckor av kaos",
       "link": "https://www.dn.se/sverige/nya-regionstyret-klart-efter-veckor-av-kaos/",
       "description": "38 dagar efter valet är ett nytt styre klart i Region Stockholm. Efter flera veckor av stökiga förhandlingar och svekanklagelser har Socialdemokraterna, Miljöpartiet, Centerpartiet, Kristdemokraterna och Liberalerna kommit överens om att styra tillsammans.",
@@ -152,18 +217,6 @@
         "C",
         "KD",
         "L",
-        "MP"
-      ]
-    },
-    {
-      "title": "Textilexperten: Vittnesmålen om arbetsvillkoren förvånar inte",
-      "link": "https://www.sverigesradio.se/artikel/9325953",
-      "description": "Arbetare hos en leverantör till lågpriskedjan Lager 157 vittnar om dåliga arbetsförhållanden, något som inte förvånar Jonas Larsson, universitetslektor på Textilhögskolan i Borås. När kläder är billiga är det någon annan som får betala, säger han. En svensk textilindustri skulle vara mer hållbar både ur miljösynpunkt och gällande arbetsvillkor men det skulle kosta därefter, enligt Johan Larsson. ”Det förutsätter ju att människor vill betala priset för hållbara produkter”, säger Jonas Larsson.",
-      "pubDate": "2026-10-21T16:52:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "MP"
       ]
     },
@@ -192,18 +245,6 @@
       ]
     },
     {
-      "title": "LO:s ordförande: ”Vi möter en ny sorts fiende i avtalsrörelsen”",
-      "link": "https://www.sverigesradio.se/artikel/9325899",
-      "description": "LO:s ordförande Johan Lindholm utmålade motparten arbetsgivarna i Svenskt Näringsliv som en fiende när LO-samordningen presenterades. Svenskt Näringslivs vice vd Mattias Dahl reagerar starkt. ”Att prata om fiendskap är helt verklighetsfrånvänt”, säger han. 11 av de 13 fackförbunden står bakom förslaget till gemensamma krav där högre löneökningar till lågavlönade är viktigt. Transport tycker inte att LO går tillräckligt långt när det gäller arbetstidsförkortning.",
-      "pubDate": "2026-10-21T15:44:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "Gellerbrant stämmer Socialdemokraterna för förtal",
       "link": "https://www.dn.se/sverige/gellerbrant-stammer-socialdemokraterna-for-fortal/",
       "description": "SD-tjänstemannen Gustav Gellerbrant stämmer Socialdemokraterna för grovt förtal, rapporterar Ekot. Det handlar om ett inlägg som S har publicerat på sociala medier strax innan valet.",
@@ -227,41 +268,6 @@
         "S",
         "M"
       ]
-    },
-    {
-      "title": "Okonventionella styrena med M och S hissas och dissas av väljarna",
-      "link": "https://www.dn.se/sverige/okonventionella-styrena-med-m-och-s-hissas-och-dissas-av-valjarna/",
-      "description": "I Strängnäs fortsätter man. I Linköping och på Gotland tar det slut. De okonventionella styrena som moderater och socialdemokrater haft tillsammans i drygt 60 kommuner fick väljarnas dom i valet i september. Samarbetena både hissas och dissas.",
-      "pubDate": "2026-10-21T09:31:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Gänget satte skräck i Sverige – sedan greps en efter en",
-      "link": "https://www.dn.se/sverige/ganget-satte-skrack-i-sverige-sedan-greps-en-efter-en/",
-      "description": "Dalennätverket var ett av gängen som fick våldet att explodera i Sverige. Men efter tillslag världen över har stora delar av ledarskiktet gripits. I stadsdelen där gänget växte fram andas boende ut. – Man kan få för sig att någon ska åka förbi på moped och skjuta. Men det händer inte längre, säger trebarnsmamman Petra Andersson.",
-      "pubDate": "2026-10-21T04:02:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "20 oktober: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/sverige/20-oktober-missa-inte-dagens-nyheter/",
-      "description": "Rödgröna ger upp hopp om budget, Saba, 24, sköts ihjäl i idrottshallen och skeppsvrak upptäckta på sjöbotten i Dalarna – här är dagens nyheter.",
-      "pubDate": "2026-10-20T19:21:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
@@ -287,18 +293,6 @@
       "sourceType": "blog",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Logiskt men hopplöst",
-      "link": "https://www.dagensarena.se/opinion/logiskt-men-hopplost/",
-      "description": "Thand Ringqvists runda en transportsträcka – men inför extraval kan läget ändras. Inlägget Logiskt men hopplöst dök först upp på Dagens Arena .",
-      "pubDate": "2026-10-19T12:57:48Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
       ]
     },
     {
