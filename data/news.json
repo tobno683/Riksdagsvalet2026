@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:09:21.738012Z",
+  "updated_at": "2026-10-22T17:23:11.346693Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,149 @@
   ],
   "news": [
     {
+      "title": "Mohamed Ali tänker behålla riksdagsplatsen",
+      "link": "https://www.sverigesradio.se/artikel/9326818",
+      "description": "Den nyinvalda vänsterpartistiska riksdagsledamoten Mohamed Ali tänker behålla sin riksdagsplats, säger han i en intervju med SVT . Han är också tydlig med att han inte sett några felaktigheter med sin valkampanj. ”Det är bra att det utreds faktiskt, men jag har kampanjat på ett väldigt bra sätt. Jag har varit i olika kommuner i Dalarna, träffat människor och knackat dörrar”, säger Mohamed Ali. Det pågår fortsatt en utredning som rör misstänkt valfusk i Borlänge, och Mohamed Ali säger till SVT att han inte delgivits någon misstanke om brott eller hört något från polisen.",
+      "pubDate": "2026-10-22T17:13:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Varnar för stormbyar – då kommer Boelo",
+      "link": "https://www.expressen.se/nyheter/varnar-for-stormbyar-da-kommer-boelo/",
+      "description": "Stormen Boelo slår till mot Sverige på söndag. Det väntas rejält blåsigt väder. – Här och var kan det bli stormbyar, säger Katarina Andersson, meteorolog vid SMHI.",
+      "pubDate": "2026-10-22T16:33:41Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "C drömmer om mitten – här är den hårda verkligheten",
+      "link": "https://www.dn.se/sverige/c-drommer-om-mitten-har-ar-den-harda-verkligheten/",
+      "description": "Det krävs både löftesbrott och kompromisser om hjärtefrågor – och sedan hotar svekdebatter. Elisabeth Thand Ringqvist (C) måste lösa upp många hårda knutar för att hennes drömregering ska bli verklighet. Här synar DN Centerledarens alternativ i sömmarna.",
+      "pubDate": "2026-10-22T16:19:50Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Oliver Rosengren: Blir ingen fyradagarsvecka",
+      "link": "https://www.expressen.se/nyheter/politik/oliver-rosengren-blir-ingen-fyradagarsvecka/",
+      "description": "Stjärnskottet Oliver Rosengren blir Moderaternas talesperson i arbetsmarknadsfrågor.&nbsp; Han vill att svenskarna ska jobba hårdare –&nbsp;och räds inte ett extraval. – Det blir inga fyradagarsveckor i mitt Sverige, säger han.&nbsp;",
+      "pubDate": "2026-10-22T16:03:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Moderata EU-politiker på tvärs mot regeringens linje",
+      "link": "https://www.sverigesradio.se/artikel/9326738",
+      "description": "Moderaternas EU-parlamentariker röstade för en större EU-budget för 2027, trots att den svenska regeringen driver en restriktiv budgetlinje. Europaparlamentet vill lägga drygt en miljard euro mer än EU-kommissionens förslag, medan medlemsländerna, inklusive Sverige, vill lägga ungefär en miljard mindre. Även parlamentarikerna från Centerpartiet och Miljöpartiet stödde den linje som nu blir Europaparlamentets ingång i slutförhandlingarna med ministerrådet.",
+      "pubDate": "2026-10-22T15:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Rödgröna eniga om stopplag: ”Tagit ett viktigt steg”",
+      "link": "https://www.sverigesradio.se/artikel/9326649",
+      "description": "De rödgröna partierna har enats om vilka som ska omfattas av den stopplag, gällande utvisningsbeslut av unga vuxna, som de vill införa. Lagen ska ge rätt till uppehållstillstånd i ytterligare 13 månader och omfatta minderåriga som vistats lagligt i Sverige med sin familj, men fått avslag på ansökan om uppehållstillstånd efter 20 juli 2021. Johan Forsell (M) anser dock att de rödgröna med sitt initiativ slår in öppna dörrar efter den reträtt som Tidö redan genomfört.",
+      "pubDate": "2026-10-22T15:58:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "SD-förslag om tidigarelagda straffskärpningar får nej",
+      "link": "https://www.sverigesradio.se/artikel/9326723",
+      "description": "Sverigedemokraternas förslag om att införa flera av de redan beslutade straffskärpningarna till år 2029, fick nej i justitieutskottet på torsdagen av den rödgröna majoriteten. Bland annat handlade det om den så kallade mängdrabatten. Enligt Kriminalvården saknas resurser för att genomföra alla förändringar till 2029, det behövs fler fängelseplatser enligt myndigheten. Socialdemokraterna vill i stället att förändringarna införs under flera år och att mängdrabatten för sexualbrott tas bort först.",
+      "pubDate": "2026-10-22T15:23:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "Rödgröna röstar ned snabbare straffskärpningar",
+      "link": "https://www.dn.se/sverige/rodgrona-rostar-ned-snabbare-straffskarpningar/",
+      "description": "SD:s förslag om att införa hela straffrättsreformen 2029 röstades ned i justitieutskottet. Enligt Kriminalvården behövs minst fem års förberedelser.",
+      "pubDate": "2026-10-22T15:14:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Migrationsverket öppnar för att pausa tonårsutvisningar",
+      "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-oppnar-for-att-pausa-tonarsutvisningar",
+      "description": "De rödgröna partierna har enats om vilka som ska omfattas av en stopplag för så kallade tonårsutvisningar. Nu öppnar Migrationsverket för att eventuellt pausa utvisningarna i väntan på ny lagstiftning. – Jag har inte stängt några dörrar, säger Maria Mindhammar, generaldirektör.",
+      "pubDate": "2026-10-22T15:06:46Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Här kan C styra med både SD och Vänstern",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/har-kan-c-styra-med-bade-sd-och-vanstern/",
+      "description": "Den breda mitten tar över i Region Stockholm. Hur resten av Sverige ser ut vill Centerpartiet helst tala tyst om.",
+      "pubDate": "2026-10-22T14:24:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ebba Busch: Elstöd kan bli aktuellt redan nu",
+      "link": "https://www.sverigesradio.se/artikel/9326664",
+      "description": "Höga elpriser riskerar att drabba hushåll och företag i vinter, det meddelade Energimyndigheten och energi- och näringsminister Ebba Busch (KD) på en pressträff under torsdagen. I södra Sverige är snittpriset för oktober just nu över gränsen för elstöd och håller det i sig månaden ut, blir aktuellt med högkostnadsskydd för hushållen i elområde 4, enligt ministern. ”Det kan bli en potentiellt sett stökig vinter”, säger Ebba Busch.",
+      "pubDate": "2026-10-22T14:22:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "S-ilskan: Säljer ut vården till KD",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/s-ilskan-saljer-ut-varden-till-kd/",
+      "description": "Centerpartiet jublar över mittenstyret i Region Stockholm. Kommer Vänsterpartiet backa nu? Och vad vill Socialdemokraterna egentligen? Lyssna på ”Politikrummet”.",
+      "pubDate": "2026-10-22T14:02:42Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "Tre misstänks i valfuskhärvan i Borlänge",
       "link": "https://www.dn.se/sverige/tre-misstanks-i-valfuskharvan-i-borlange/",
       "description": "Tre personer har delgivits misstanke om valfusk i Borlänge. Vänsterpartiets Mohamed Abdukardir Ali är inte en av dem, säger han till SVT.",
@@ -88,32 +231,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Kopierar Mamdani – för att göra storstäder borgerliga",
-      "link": "https://www.expressen.se/nyheter/politik/kopierar-mamdani--for-att-gora-storstader-borgerliga/",
-      "description": "Moderaten Samuel Jonsson, Timbro, tycker att högerpartierna varit för dåliga att locka storstadsväljare.&nbsp; Nu vill han vända trenden – genom att kopiera New Yorks borgmästare. –&nbsp;Mamdanikampanjen behöver inte vara Dadgostars, den kan lika gärna vara borgerlig.",
-      "pubDate": "2026-10-22T11:01:29Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Busch: ”Fruktbara samtal” med C",
-      "link": "https://www.expressen.se/nyheter/politik/busch-fruktbara-samtal-med-c/",
-      "description": "Ebba Busch och Elisabeth Thand Ringqvist har ”fruktbara samtal” om regeringsbildningen.&nbsp; Det säger KD-ledaren på en pressträff.&nbsp; – Det finns ett värde av att veta var man har varandra politiskt.&nbsp;",
-      "pubDate": "2026-10-22T10:46:28Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD",
-        "Regeringsbildning"
       ]
     },
     {
@@ -139,134 +256,6 @@
       "topics": [
         "M",
         "V"
-      ]
-    },
-    {
-      "title": "L-ledaren Simona Mohamsson: Vi står närmare SD än S",
-      "link": "https://www.expressen.se/nyheter/politik/l-ledaren-simona-mohamsson-vi-star-narmare-sd-an-s-/",
-      "description": "Simona Mohamsson stänger dörren till en mittenregering med Magdalena Andersson.&nbsp; Hon tar inte åt sig av talmannens pik att hon borde prata med alla under sonderingen och betonar att partiet står närmare SD än S.&nbsp; – Jag har ett förtroende för Jimmie Åkesson. Och det är genom förtroende som man bygger förändring i samhället, säger hon till Svenska Dagbladet. &nbsp;",
-      "pubDate": "2026-10-22T06:14:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "L"
-      ]
-    },
-    {
-      "title": "Ytterligare två tunga avhopp på Svenska kraftnät",
-      "link": "https://www.dn.se/sverige/ytterligare-tva-tunga-avhopp-pa-svenska-kraftnat/",
-      "description": "Ytterligare två nyckelpersoner vid Svenska kraftnät har sagt upp sig, kan DN avslöja. Orsaken är missnöje med nya generaldirektören Maja Lundbäcks ledning. På torsdagen kräver Socialdemokraterna svar i näringsutskottet om läget på myndigheten. – Det har kommit många väldigt illavarslande signaler, säger S energipolitiske talesperson Fredrik Olovsson.",
-      "pubDate": "2026-10-22T05:02:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "C styr med SD och V i fler kommuner",
-      "link": "https://www.sverigesradio.se/artikel/9325941",
-      "description": "Den här veckan undersöker Centerpartiet möjligheten för en mittenregering utan V och SD. Samtidigt har C inlett fler samarbeten i kommunerna med partierna som de har en röd linje i regeringsfrågan kring. C hade på torsdagen gjort upp om att styra med SD i åtta kommuner och med V i runt 40 kommuner. Av de över 200 av landets 290 kommuner som är färdigförhandlade ska Centerpartiet vara med och styra i hälften, oftast i blocköverskridande samarbeten. Artikeln är uppdaterad med information om ytterligare klara styren i kommunerna",
-      "pubDate": "2026-10-22T02:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. Ge oss möjlighet att kasta ut Mohamed Ali ur riksdagen",
-      "link": "https://www.dn.se/insandare/ge-oss-mojlighet-att-kasta-ut-mohamed-ali-ur-riksdagen/",
-      "description": "INSÄNDARE. Ett eventuellt extra val i spåren av den pågående regeringskrisen handlar inte bara om vem som ska sitta i Rosenbad. Det handlar om att svenska folket måste ges en nödbroms för att med hjälp av demokratin kasta ut vänsterpartisten Mohamed Ali från riksdagen, skriver Claes Lind.",
-      "pubDate": "2026-10-21T21:51:40Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "MP"
-      ]
-    },
-    {
-      "title": "21 oktober: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/21-oktober-missa-inte-dagens-nyheter/",
-      "description": "Skräcken inom Socialdemokraterna, sågningen av SSAB och larmet från FN – här är dagens nyheter.",
-      "pubDate": "2026-10-21T19:00:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Nya regionstyret klart efter veckor av kaos",
-      "link": "https://www.dn.se/sverige/nya-regionstyret-klart-efter-veckor-av-kaos/",
-      "description": "38 dagar efter valet är ett nytt styre klart i Region Stockholm. Efter flera veckor av stökiga förhandlingar och svekanklagelser har Socialdemokraterna, Miljöpartiet, Centerpartiet, Kristdemokraterna och Liberalerna kommit överens om att styra tillsammans.",
-      "pubDate": "2026-10-21T17:42:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "KD",
-        "L",
-        "MP"
-      ]
-    },
-    {
-      "title": "Källor till SVT: Jomshofs uttalanden problematiska",
-      "link": "https://www.svt.se/nyheter/inrikes/kallor-till-svt-jomshofs-uttalanden-problematiska",
-      "description": "Vad är svenskhet? Frågan har splittrat Sverigedemokraterna på senare tid – och en het debatt har brutit ut. En person som utmanat partiets hållning är Richard Jomshof (SD). Flera personer ur partistyrelsen menar nu att uttalanden i frågan är problematiska, enligt SVT Nyheters källor.",
-      "pubDate": "2026-10-21T16:48:40Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "S-skräcken för extraval: ”Ökenvandring i åtta år”",
-      "link": "https://www.dn.se/sverige/s-skracken-for-extraval-okenvandring-i-atta-ar/",
-      "description": "Oron växer inom socialdemokratin för att man ska misslyckas i regeringsförhandlingarna och att partiet tvingas gå till extraval. – Då väntar en ökenvandring i åtta år, säger Daniel Färm, på S-tidningen Aktuellt i Politiken.",
-      "pubDate": "2026-10-21T16:03:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Gellerbrant stämmer Socialdemokraterna för förtal",
-      "link": "https://www.dn.se/sverige/gellerbrant-stammer-socialdemokraterna-for-fortal/",
-      "description": "SD-tjänstemannen Gustav Gellerbrant stämmer Socialdemokraterna för grovt förtal, rapporterar Ekot. Det handlar om ett inlägg som S har publicerat på sociala medier strax innan valet.",
-      "pubDate": "2026-10-21T15:07:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Förbud mot bensin- och dieselbilar kan rivas upp – trots svenskt motstånd",
-      "link": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand",
-      "description": "Nya bensin- och dieselbilar kan få fortsätta säljas efter 2035 – efter en uppgörelse i EU-parlamentet mellan bland annat socialdemokrater och moderater. Men S i Sverige tycker att uppgörelsen är dålig. – Vi svenska socialdemokrater är ju starkt kritiska till det här, säger Åsa Westlund.",
-      "pubDate": "2026-10-21T14:27:34Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
       ]
     }
   ],
@@ -322,6 +311,31 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Rak höger: Greta är bensin på elden i Frankrike",
+      "link": "https://pod.space/kvartal/rak-hoger-greta-ar-bensin-pa-elden-i-frankrike",
+      "description": "När en butik brinner ser ägaren sitt livsverk förstöras. Någon annan ser början på en revolution. Hur hamnar vänsteraktivisten och plundraren på samma sida? Adam Cwejman, politisk redaktör på Göteborgs-Posten, gästar Rak höger om våldet i Frankrike, Greta Thunbergs roll och vilka som kan vinna på kaoset. Men först: Centerpartiets försök att hitta en regering utan att kliva över sina egna röda linjer.",
+      "pubDate": "2026-10-22T14:23:57Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "326. Dadgostar rasar",
+      "link": "https://pod.space/politikrummet/326-dadgostar-rasar",
+      "description": "Centerpartiet jublar över mittenstyret i Region Stockholm. Kommer Vänsterpartiet backa nu? I poddstudion: Filippa Rogvall, Viktor Barth-Kron och Max V Karlsson Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-10-22T13:38:00Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
     {
       "title": "Vad ska Centerledaren göra hela veckan?",
       "link": "https://pod.space/alskadepolitik/vad-ska-centerledaren-gora-hela-veckan",
@@ -489,30 +503,6 @@
       "topics": [
         "S",
         "SD"
-      ]
-    },
-    {
-      "title": "Inläst: När valvinnaren inte får regera",
-      "link": "https://pod.space/kvartal/inlast-nar-valvinnaren-inte-far-regera",
-      "description": "Två val i rad har gett Sverige en märklig parlamentarisk paradox. Bakom den finns en grundlagsändring som skulle göra regeringsbildningen tydligare – men den nya ordningen har i stället blivit en fabrik för svaga regeringar med ett svårbedömt mandat, skriver Johan Wennström. Inläsare: Cassandra Alm",
-      "pubDate": "2026-10-11T04:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Djupet: Kan vi lita på valet?",
-      "link": "https://pod.space/kvartal/djupet-kan-vi-lita-pa-valet",
-      "description": "Misstankar om valfusk har väckt frågor om tilliten till det svenska valsystemet. Samtidigt har Vänsterpartiets framgångar i utsatta områden utlöst en debatt om etnisk och religiös röstning – och om konflikter långt utanför Sveriges gränser kan påverka svenska val. Vad vet vi om misstankarna om valfusk, och vad säger valresultatet om demokratin och sammanhållningen i Sverige?",
-      "pubDate": "2026-10-11T03:40:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V"
       ]
     }
   ]
