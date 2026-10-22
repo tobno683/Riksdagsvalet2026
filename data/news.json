@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T01:03:07.538077Z",
+  "updated_at": "2026-10-22T06:12:58.797292Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,30 @@
   ],
   "news": [
     {
+      "title": "Ytterligare två tunga avhopp på Svenska kraftnät",
+      "link": "https://www.dn.se/sverige/ytterligare-tva-tunga-avhopp-pa-svenska-kraftnat/",
+      "description": "Ytterligare två nyckelpersoner vid Svenska kraftnät har sagt upp sig, kan DN avslöja. Orsaken är missnöje med nya generaldirektören Maja Lundbäcks ledning. På torsdagen kräver Socialdemokraterna svar i näringsutskottet om läget på myndigheten. – Det har kommit många väldigt illavarslande signaler, säger S energipolitiske talesperson Fredrik Olovsson.",
+      "pubDate": "2026-10-22T05:02:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "C styr med SD och V i fler kommuner",
+      "link": "https://www.sverigesradio.se/artikel/9325941",
+      "description": "Den här veckan undersöker Centerpartiet möjligheten för en mittenregering utan V och SD. Samtidigt har C inlett fler samarbeten i kommunerna med partierna som de har en röd linje i regeringsfrågan kring. C har hittills gjort upp om att styra med SD i sju kommuner och med V i 37 kommuner. Av de 200 av landets 290 kommuner som är färdigförhandlade ska Centerpartiet vara med och styra i hälften, oftast i blocköverskridande samarbeten.",
+      "pubDate": "2026-10-22T02:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
       "title": "Insändare. Ge oss möjlighet att kasta ut Mohamed Ali ur riksdagen",
       "link": "https://www.dn.se/insandare/ge-oss-mojlighet-att-kasta-ut-mohamed-ali-ur-riksdagen/",
       "description": "INSÄNDARE. Ett eventuellt extra val i spåren av den pågående regeringskrisen handlar inte bara om vem som ska sitta i Rosenbad. Det handlar om att svenska folket måste ges en nödbroms för att med hjälp av demokratin kasta ut vänsterpartisten Mohamed Ali från riksdagen, skriver Cleaes Lind.",
@@ -132,30 +156,6 @@
       ]
     },
     {
-      "title": "Källor: Jomshof kan petas efter interna striden",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=00e2c8af-5683-4d63-914d-e9d05884d4e1",
-      "description": "Diskuteras på hög nivå, enligt SvD och TV4",
-      "pubDate": "2026-10-21T17:31:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Gustav Gellerbrant  anmäler S för förtal",
-      "link": "https://www.expressen.se/nyheter/politik/gustav-gellerbrant--anmaler-s-for-fortal/",
-      "description": "SD-toppen Gustav Gellerbrant anmäler Socialdemokraterna för grovt förtal för partiets inlägg i sociala medier om hans påstådda kopplingar till rysk underrättelsesfären genom sin sambo. S säger att man utgått från uppgifter i media.",
-      "pubDate": "2026-10-21T17:21:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Textilexperten: Vittnesmålen om arbetsvillkoren förvånar inte",
       "link": "https://www.sverigesradio.se/artikel/9325953",
       "description": "Arbetare hos en leverantör till lågpriskedjan Lager 157 vittnar om dåliga arbetsförhållanden, något som inte förvånar Jonas Larsson, universitetslektor på Textilhögskolan i Borås. När kläder är billiga är det någon annan som får betala, säger han. En svensk textilindustri skulle vara mer hållbar både ur miljösynpunkt och gällande arbetsvillkor men det skulle kosta därefter, enligt Johan Larsson. ”Det förutsätter ju att människor vill betala priset för hållbara produkter”, säger Jonas Larsson.",
@@ -192,36 +192,12 @@
       ]
     },
     {
-      "title": "Här är frågorna som Mohamed Ali inte svarar på",
-      "link": "https://www.expressen.se/nyheter/sverige/har-ar-fragorna-som-mohamed-ali-inte-svarar-pa/",
-      "description": "Vänsterpartiet säger att Muhammed Ali måste få fullfölja sitt demokratiska uppdrag.&nbsp; Men i riksdagen syns han inte till – och frågetecknen är många. Här är frågorna han vägrar svara på.",
-      "pubDate": "2026-10-21T16:01:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "LO:s ordförande: ”Vi möter en ny sorts fiende i avtalsrörelsen”",
       "link": "https://www.sverigesradio.se/artikel/9325899",
       "description": "LO:s ordförande Johan Lindholm utmålade motparten arbetsgivarna i Svenskt Näringsliv som en fiende när LO-samordningen presenterades. Svenskt Näringslivs vice vd Mattias Dahl reagerar starkt. ”Att prata om fiendskap är helt verklighetsfrånvänt”, säger han. 11 av de 13 fackförbunden står bakom förslaget till gemensamma krav där högre löneökningar till lågavlönade är viktigt. Transport tycker inte att LO går tillräckligt långt när det gäller arbetstidsförkortning.",
       "pubDate": "2026-10-21T15:44:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Lind om FN:s klimatlarm: ”Får inte tappa hoppet”",
-      "link": "https://www.expressen.se/nyheter/politik/lind-om-fns-klimatlarm-far-inte-tappa-hoppet/",
-      "description": "Parisavtalets klimatmål är kört – nu går vi mot 2,8 graders uppvärmning, enligt FN. Men svenska politiker är optimistiska. – Vi får inte tappa hoppet, säger Amanda Lind (MP). –&nbsp;Det finns en enorm osäkerhet här, säger Martin Kinnunen (SD).",
-      "pubDate": "2026-10-21T15:21:14Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "MP"
@@ -253,19 +229,54 @@
       ]
     },
     {
-      "title": "SD-toppen Gustav Gellerbrant stämmer S för grovt förtal",
-      "link": "https://www.sverigesradio.se/artikel/9325662",
-      "description": "SD-toppen Gustav Gellerbrant stämmer Socialdemokraterna för grovt förtal. Detta efter ett inlägg i Socialdemokraternas sociala medier, som bland annat handlar om hans påstådda kopplingar till den ryska underrättelsesfären. ”Socialdemokraterna har passerat alla gränser för vad en tjänsteman ska behöva tolerera i den allmänna debatten”, säger Iman Bayazi, juridiskt ombud.",
-      "pubDate": "2026-10-21T12:15:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Okonventionella styrena med M och S hissas och dissas av väljarna",
+      "link": "https://www.dn.se/sverige/okonventionella-styrena-med-m-och-s-hissas-och-dissas-av-valjarna/",
+      "description": "I Strängnäs fortsätter man. I Linköping och på Gotland tar det slut. De okonventionella styrena som moderater och socialdemokrater haft tillsammans i drygt 60 kommuner fick väljarnas dom i valet i september. Samarbetena både hissas och dissas.",
+      "pubDate": "2026-10-21T09:31:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Gänget satte skräck i Sverige – sedan greps en efter en",
+      "link": "https://www.dn.se/sverige/ganget-satte-skrack-i-sverige-sedan-greps-en-efter-en/",
+      "description": "Dalennätverket var ett av gängen som fick våldet att explodera i Sverige. Men efter tillslag världen över har stora delar av ledarskiktet gripits. I stadsdelen där gänget växte fram andas boende ut. – Man kan få för sig att någon ska åka förbi på moped och skjuta. Men det händer inte längre, säger trebarnsmamman Petra Andersson.",
+      "pubDate": "2026-10-21T04:02:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
       ]
+    },
+    {
+      "title": "20 oktober: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/sverige/20-oktober-missa-inte-dagens-nyheter/",
+      "description": "Rödgröna ger upp hopp om budget, Saba, 24, sköts ihjäl i idrottshallen och skeppsvrak upptäckta på sjöbotten i Dalarna – här är dagens nyheter.",
+      "pubDate": "2026-10-20T19:21:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     }
   ],
   "blogs": [
+    {
+      "title": "Så avslöjades fusk med opinionsmätningar",
+      "link": "https://ledarsidorna.se/sa-avslojades-fusk-med-opinionsmatningar/",
+      "description": "En av opinionsföretagens största internationella branschorganisationer, AAPOR, gick under gårdagen ut med ett kraftigt fördömande av användandet av syntetiska undersökningar som bygger på bland annat AI. Uttalandet är i allra högsta grad relevant för Sverige där debatten om opinionsföretagens metoder knappt avslutats efter valrörelsen. I fyra månader levererade ett amerikanskt opinionsinstitut siffror som togs på [&#8230;]",
+      "pubDate": "2026-10-22T03:04:11Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "Opinion"
+      ]
+    },
     {
       "title": "Sveriges Unga Muslimer lade grunden för Brödraskapet i Europa",
       "link": "https://ledarsidorna.se/sveriges-unga-muslimer-lade-grunden-for-brodraskapet-i-europa/",
@@ -310,128 +321,6 @@
       "pubDate": "2026-10-15T03:21:24Z",
       "source": "Ledarsidorna",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Kremls skuggor över Socialdemokraternas utrikes- och säkerhetspolitik",
-      "link": "https://ledarsidorna.se/kremls-skuggor-over-socialdemokraternas-utrikes-och-sakerhetspolitik/",
-      "description": "I dagens läge, där ett alltmer pressat och samtidigt aggressivt Ryssland upprätthåller tryck genom hybridmedel och minoritetsretorik mot NATO-medlemmarna i Baltikum framstår Socialdemokraternas nedtoning av närområdesfokus som en återgång till en tidigare linje. En positionering som i högre grad sammanfaller med Kremls preferenser än den nuvarande mer NATO-anpassade politiken. I en intervju med POLITICO i [&#8230;]",
-      "pubDate": "2026-10-12T03:25:43Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 502 – Greta Thunberg, kaozturist.",
-      "link": "https://jensganman.substack.com/p/brev-501-greta-thunberg-kaozturist",
-      "description": "Som en fluga till en sockerbit / N&#229;gra intressanta passager ur &#8220;Mitt f&#246;rbjudna ansikte&#8221; och &#8220;En somalisk kvinnas ber&#228;ttelse&#8221; / Hoppas detta &#228;r Ulf Kristerssons strategi / Vogonen Kristina Lagerstr&#246;m /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "BREV 499 – Somalier är också människor.",
-      "link": "https://jensganman.substack.com/p/brev-499-somalier-ar-ocksa-manniskor",
-      "description": "Wallenberg och Thand Ringqvist i ett rum / Varf&#246;r st&#228;llde Gunnarsson inte fr&#229;gan? / Svart mans slav / Mediemakthavarinnornas maniska mimik. / Suhonen, Baude och v&#228;nsterns v&#228;mjeliga v&#229;ldsvurm / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 498 – Regeringsmissbildningen.",
-      "link": "https://jensganman.substack.com/p/brev-498-regeringsmissbildningen",
-      "description": "En orgie i idioti / De r&#246;dgr&#246;nas f&#246;rs&#246;k att bilda regering b&#246;r klassas som systemfarlig / V&#228;rldens dyraste ljud / Gl&#246;m aldrig socialdemokraternas syn p&#229; begreppet &#8221;l&#246;fte&#8221; / N&#228;r Hirvonen h&#246;ll med mig /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 496 – Till slut måste Centern välja sin egen avrättningsmetod.",
-      "link": "https://jensganman.substack.com/p/brev-496-till-slut-maste-centern",
-      "description": "Thand Ringqvist har spelat bort sina kort / Han l&#229;ter som Kalle Stropp / SR & SVT borde g&#246;ra en Office Space / Jag blev som i s&#229;ngen &#8221;M&#229;nga barn &#228;r bruna&#8221; / As falls Marseille, so falls Rinkeby / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
-      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
-      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 491 – Hollywood bör snarast köpa rättigheterna till Dadgostars somaliska cirkus.",
-      "link": "https://jensganman.substack.com/p/brev-491-hollywood-bor-snarast-kopa",
-      "description": "S&#229; skulle ett filmsynopsis kunna se ut / Frank Baude och KFLM(r) hade stortrivts i Mogadishu / Musuqmaasuqa ku yaalla Borl&#228;nge iyo Tj&#228;rna &#196;ngar! / F&#246;rslag p&#229; fler Svenska Sm&#228;rtpunkter / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 490 – Kartlägg människor efter deras ras.",
-      "link": "https://jensganman.substack.com/p/brev-490-kartlagg-manniskor-efter",
-      "description": "Extravalet riskerar att bli en katastrof / Skakande bilder fr&#229;n min och Thand Ringqvists gemensamma gymnasietid / Sofia Talvik och den kognitiva dissonansen / Vem ers&#228;tter Rubbestad h&#228;r? / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 489 – Magdalena Andersson: Soldrottning.",
-      "link": "https://jensganman.substack.com/p/brev-489-magdalena-andersson-soldrottning",
-      "description": "&#30683;&#30462; &#8211; Den oemotst&#229;ndliga kraftens paradox / Jomshofs bok pajade valet f&#246;r Tid&#246; / S&#229; bra var Thand Ringqvist p&#229; &#197;re Business Forum / VPK r&#228;ds inga extraval / Judehat &#8211; det nya afro-svenska / M.m",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 488 – Ett rop på hjälp inifrån SD.",
-      "link": "https://jensganman.substack.com/p/brev-488-ett-rop-pa-hjalp-inifran",
-      "description": "&#196;r Baudin socialdemokraternas svar p&#229; Barney Gumble? / Ku Klux Klan-r&#246;sterna i Orten &#228;r ett faktum vare sig DN vill eller ej / &#196;r Petra Lundh ett geni? / En fl&#228;ngpropp tar sig ton i 100% / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
       "sourceType": "blog",
       "topics": [
         "S"
