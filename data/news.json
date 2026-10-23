@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T12:54:59.901053Z",
+  "updated_at": "2026-10-23T17:32:56.007380Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,60 @@
   ],
   "news": [
     {
+      "title": "V:s gruppledare om Mohamed Ali: ”Fråga som ytterst avgörs av väljarna”",
+      "link": "https://www.sverigesradio.se/artikel/9327554",
+      "description": "Vänsterpartisten Mohamed Alis lämplighet som riksdagsledamot har ifrågasatts med tanke på hans stora skulder och relationen till myndigheterna. Paritets gruppledare i riskdagen, Samuel Gonzalez Westling, säger att det är en fråga för väljarna. ”Det upp till honom att visa att han kan bära det förtroendet”, säger han. I veckan delgavs tre personer misstanke om brott i samband med valfuskutredningen i Borlänge. Vänsterpartiet säger att de inte kan kommentera en pågående utredning.",
+      "pubDate": "2026-10-23T15:36:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kritiken i V: Krävs  en hårdare kontroll",
+      "link": "https://www.expressen.se/nyheter/sverige/kritiken-i-v-kravs--en-hardare-kontroll/",
+      "description": "Vänsterpartiets hantering av inkryssade ledamoten Mohamed Ali väcker kritik – även internt. Med bara 648 kryss tog han sig ända in i riksdagen. I partiet ifrågasätts nu rutinerna runt valberedningsarbetet. – Ali är inte ett isolerat problem, säger en källa.",
+      "pubDate": "2026-10-23T14:59:38Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "C-ledaren om mötet med Åkesson: ”Står nära varandra i vissa frågor”",
+      "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-om-motet-med-akesson-star-nara-varandra-i-vissa-fragor",
+      "description": "C-ledaren Elisabeth Thand Ringqvist har nu träffat alla partiledare – inklusive Jimmie Åkesson. Efter mötet säger hon att den röda linjen mot SD ligger fast, men att det finns vissa likheter mellan C och SD. – Det var ett uppriktigt och bra samtal, säger Elisabeth Thand Ringqvist (C) till SVT.",
+      "pubDate": "2026-10-23T14:46:42Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Busch råd: ”Kanske ska släppa fram en mitten-högerregering”",
+      "link": "https://www.sverigesradio.se/artikel/9327356",
+      "description": "Ebba Busch vill att Socialdemokraterna överväger att släppa fram en mitten-högerregering om Magdalena Andersson inte lyckas samla stöd i riksdagen. ” Ska man trycka Sverige mot ett extraval, eller släppa fram den konstellation som ändå blir störst därefter och klarar av att få ihop det”, säger KD-ledaren. Busch har i veckan haft samtal med den regeringssonderande Elisabeth Thand Ringqvist och hennes analys är att läget fortsatt är låst.",
+      "pubDate": "2026-10-23T14:19:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "KD"
+      ]
+    },
+    {
       "title": "Är Mohamed Ali Centerpartiets bästa vän?",
       "link": "https://www.dn.se/podd/alskade-politik/ar-mohamed-ali-centerpartiets-basta-van/",
-      "description": "Vänsterpartiet gjorde självmål i Dalarna. Kan Elisabeth Thand Ringqvists dröm om mitten bli verklighet nu? Samtidigt – Liberalernas Romina Pourmokhtari har kallat Centerns idé om mitten för en dröm om enhörningar. Vad har de andra partierna för åsikter om C-ledarens projekt?",
+      "description": "Vänsterpartiet gjorde självmål i Dalarna. Kan Elisabeth Thand Ringqvists dröm om mitten bli verklighet nu? Samtidigt – Liberalernas Romina Pourmokhtari har kallat Centerns idé om mitten för en dröm om enhörningar.",
       "pubDate": "2026-10-23T12:30:31Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -121,7 +172,7 @@
       ]
     },
     {
-      "title": "Ebba Busch (KD) om minskade klimatkrav på bilar: ”Idiotiskt”",
+      "title": "Ebba Busch (KD) om minskade klimatkrav: ”Idiotiskt”",
       "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-kd-om-minskade-klimatkrav-pa-bilar-idiotiskt",
       "description": "Avgående näringsminister Ebba Busch (KD) beklagar sparpaketet från Volvo Cars. Nu varnar hon för att minskade klimatambitioner i EU kan slå hårt mot svenska företag. – I grunden är det idiotiskt, säger hon.",
       "pubDate": "2026-10-23T12:14:31Z",
@@ -157,18 +208,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "Direktrapport | Regeringsbildningen efter valet 2026",
-      "link": "https://www.sverigesradio.se/artikel/9326455",
-      "description": "Det senaste om läget i svensk politik. Följ Ekots bevakning om regeringsbildningen efter riksdagsvalet den 13 september 2026.",
-      "pubDate": "2026-10-23T07:43:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
       ]
     },
     {
@@ -229,40 +268,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Migrationsverket öppnar för att pausa tonårsutvisningar",
-      "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-oppnar-for-att-pausa-tonarsutvisningar",
-      "description": "De rödgröna partierna har enats om vilka som ska omfattas av en stopplag för så kallade tonårsutvisningar. Nu öppnar Migrationsverket för att eventuellt pausa utvisningarna i väntan på ny lagstiftning. – Jag har inte stängt några dörrar, säger Maria Mindhammar, generaldirektör.",
-      "pubDate": "2026-10-22T15:06:46Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Tre misstänks i valfuskhärvan i Borlänge",
-      "link": "https://www.dn.se/sverige/tre-misstanks-i-valfuskharvan-i-borlange/",
-      "description": "Tre personer har delgivits misstanke om valfusk i Borlänge. Vänsterpartiets Mohamed Abdukardir Ali är inte en av dem, säger han till SVT.",
-      "pubDate": "2026-10-22T11:28:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Skogsmullar döljer nazisympatier i ekofascistisk thriller",
-      "link": "https://www.dn.se/kultur/skogsmullar-doljer-nazisympatier-i-ekofascistisk-thriller/",
-      "description": "Svenska ”Nipster” kretsar kring en tystlåten tonåring som söker tröst på ett sommarkollo mot kalhyggen – och dras in i en mörk miljö av manipulation, hat och högerextremism. Ojämn, men också otäckt spännande i sin skildring av hur radikalisering kan bära naturromantisk mask, tycker Helena Lindblad.",
-      "pubDate": "2026-10-22T07:09:07Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
     }
   ],
   "blogs": [
@@ -332,7 +337,7 @@
     {
       "title": "Är Mohamed Ali Centerpartiets bästa vän?",
       "link": "https://pod.space/alskadepolitik/ar-mohamed-ali-centerpartiets-basta-van",
-      "description": "Vänsterpartiet gjorde självmål i Dalarna. Kan Elisabeth Thand Ringqvists dröm om mitten bli verklighet nu? Samtidigt – Liberalernas Romina Pourmokhtari har kallat Centerns idé om mitten för en dröm om enhörningar. Vad har de andra partierna för åsikter om C-ledarens projekt?",
+      "description": "Vänsterpartiet gjorde självmål i Dalarna. Kan Elisabeth Thand Ringqvists dröm om mitten bli verklighet nu? Samtidigt – Liberalernas Romina Pourmokhtari har kallat Centerns idé om mitten för en dröm om enhörningar.",
       "pubDate": "2026-10-23T12:30:31Z",
       "source": "Älskade politik",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
