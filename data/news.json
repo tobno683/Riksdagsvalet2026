@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T07:45:27.058623Z",
+  "updated_at": "2026-10-23T12:54:59.901053Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,87 @@
   ],
   "news": [
     {
+      "title": "Är Mohamed Ali Centerpartiets bästa vän?",
+      "link": "https://www.dn.se/podd/alskade-politik/ar-mohamed-ali-centerpartiets-basta-van/",
+      "description": "Vänsterpartiet gjorde självmål i Dalarna. Kan Elisabeth Thand Ringqvists dröm om mitten bli verklighet nu? Samtidigt – Liberalernas Romina Pourmokhtari har kallat Centerns idé om mitten för en dröm om enhörningar. Vad har de andra partierna för åsikter om C-ledarens projekt?",
+      "pubDate": "2026-10-23T12:30:31Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "L"
+      ]
+    },
+    {
+      "title": "Insändare. Ge oss en smal mittenregering som leds av Busch",
+      "link": "https://www.dn.se/insandare/ge-oss-en-smal-mittenregering-som-leds-av-busch/",
+      "description": "INSÄNDARE. Sverige behöver en betydligt mer pragmatisk regeringsbildning – och det är dags att börja med det nu. KD-ledaren Ebba Busch som statsminister i en minoritetsregering med Centerpartiet och Liberalerna skulle ha möjlighet att tolereras av en majoritet av riksdagen, skriver liberalen J Pingo Lindström.",
+      "pubDate": "2026-10-23T12:22:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "KD",
+        "L",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ygemans SD-brev till talmannen: ”Allvarligt”",
+      "link": "https://www.expressen.se/nyheter/politik/ygemans-sd-brev-till-talmannen-allvarligt/",
+      "description": "I ett brev till talmannen pekar Socialdemokraterna ut Gustav Gellerbrant (SD) som en säkerhetsrisk. Det trots att Gellerbrant nyligen anmält S för grovt förtal. – Det handlar ytterst om Sveriges säkerhet, säger Anders Ygeman (S).",
+      "pubDate": "2026-10-23T12:21:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Ebba Busch (KD) om minskade klimatkrav på bilar: ”Idiotiskt”",
+      "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-kd-om-minskade-klimatkrav-pa-bilar-idiotiskt",
+      "description": "Avgående näringsminister Ebba Busch (KD) beklagar sparpaketet från Volvo Cars. Nu varnar hon för att minskade klimatambitioner i EU kan slå hårt mot svenska företag. – I grunden är det idiotiskt, säger hon.",
+      "pubDate": "2026-10-23T12:14:31Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Ebba Busch: S bör överväga att släppa fram Kristersson",
+      "link": "https://www.dn.se/sverige/ebba-busch-s-bor-overvaga-att-slappa-fram-kristersson/",
+      "description": "KD-ledaren Ebba Busch anser att Socialdemokraterna bör överväga att släppa fram Ulf Kristersson som statsminister, om de pågående regeringsförhandlingarna misslyckas. – Jag hoppas verkligen att det finns socialdemokrater som prövar den tanken, säger hon.",
+      "pubDate": "2026-10-23T11:02:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. C-ledaren bör lyssna på väljarna och förbjuda vinster",
+      "link": "https://www.dn.se/insandare/c-ledaren-bor-lyssna-pa-valjarna-och-forbjuda-vinster/",
+      "description": "INSÄNDARE. Regeringssonderaren Elisabeth Thand Ringqvist bör sätta sina privata ägarintressen åt sidan i frågan om vinster i välfärden. Varför följer partiledaren inte den uppfattning som en majoritet av Centerpartiets väljare har uttryckt? frågar sig Iwan Langermo.",
+      "pubDate": "2026-10-23T08:27:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
       "title": "Direktrapport | Regeringsbildningen efter valet 2026",
       "link": "https://www.sverigesradio.se/artikel/9326455",
       "description": "Det senaste om läget i svensk politik. Följ Ekots bevakning om regeringsbildningen efter riksdagsvalet den 13 september 2026.",
@@ -116,36 +197,12 @@
       ]
     },
     {
-      "title": "L: M höll tyst om SD-förhandlingar",
-      "link": "https://www.expressen.se/nyheter/politik/l-m-holl-tyst-om-sd-forhandlingar/",
-      "description": "Förhandlingen med Moderaterna gav SD ett par extra miljoner kronor i stöd i Stockholms stad. Uppgörelsen skedde bakom ryggen på de borgerliga allianskollegerna. – Jag blev förvånad, säger Gulan Avci (L).",
-      "pubDate": "2026-10-23T04:18:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "”Det var en enkel googling, men det finns många Mohamed Ali”",
       "link": "https://www.dn.se/sverige/det-var-en-enkel-googling-men-det-finns-manga-mohamed-ali/",
       "description": "Valberedningen googlade honom, men det fanns många med samma namn. Hur kunde Mohamed Ali ta sig hela vägen till riksdagen – och vem i Vänsterpartiet släppte fram honom? ”Vi har blivit förda bakom ljuset”, skriver valberedningens sammankallande i ett internt sms.",
       "pubDate": "2026-10-23T04:15:08Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Mohamed Ali tänker behålla riksdagsplatsen",
-      "link": "https://www.sverigesradio.se/artikel/9326818",
-      "description": "Den nyinvalda vänsterpartistiska riksdagsledamoten Mohamed Ali tänker behålla sin riksdagsplats, säger han i en intervju med SVT . Han är också tydlig med att han inte sett några felaktigheter med sin valkampanj. ”Det är bra att det utreds faktiskt, men jag har kampanjat på ett väldigt bra sätt. Jag har varit i olika kommuner i Dalarna, träffat människor och knackat dörrar”, säger Mohamed Ali. Det pågår fortsatt en utredning som rör misstänkt valfusk i Borlänge, och Mohamed Ali säger till SVT att han inte delgivits någon misstanke om brott eller hört något från polisen.",
-      "pubDate": "2026-10-22T17:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
@@ -162,30 +219,6 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "Moderata EU-politiker på tvärs mot regeringens linje",
-      "link": "https://www.sverigesradio.se/artikel/9326738",
-      "description": "Moderaternas EU-parlamentariker röstade för en större EU-budget för 2027, trots att den svenska regeringen driver en restriktiv budgetlinje. Europaparlamentet vill lägga drygt en miljard euro mer än EU-kommissionens förslag, medan medlemsländerna, inklusive Sverige, vill lägga ungefär en miljard mindre. Även parlamentarikerna från Centerpartiet och Miljöpartiet stödde den linje som nu blir Europaparlamentets ingång i slutförhandlingarna med ministerrådet.",
-      "pubDate": "2026-10-22T15:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "Rödgröna eniga om stopplag: ”Tagit ett viktigt steg”",
-      "link": "https://www.sverigesradio.se/artikel/9326649",
-      "description": "De rödgröna partierna har enats om vilka som ska omfattas av den stopplag, gällande utvisningsbeslut av unga vuxna, som de vill införa. Lagen ska ge rätt till uppehållstillstånd i ytterligare 13 månader och omfatta minderåriga som vistats lagligt i Sverige med sin familj, men fått avslag på ansökan om uppehållstillstånd efter 20 juli 2021. Johan Forsell (M) anser dock att de rödgröna med sitt initiativ slår in öppna dörrar efter den reträtt som Tidö redan genomfört.",
-      "pubDate": "2026-10-22T15:58:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Rödgröna röstar ned snabbare straffskärpningar",
@@ -228,32 +261,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "SVT/Verian: Kristersson (M) rusar i förtroende – Dadgostar (V) i botten",
-      "link": "https://www.svt.se/nyheter/inrikes/svtverian-kristersson-m-rusar-i-fortroende-dadgostar-v-i-botten",
-      "description": "Ulf Kristersson (M) får sin bästa notering någonsin i SVT/Verians senaste förtroendemätning för partiledarna. Samtidigt rasar vänsterledaren Nooshi Dadgostar (V).",
-      "pubDate": "2026-10-22T06:24:37Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Ge oss möjlighet att kasta ut Mohamed Ali ur riksdagen",
-      "link": "https://www.dn.se/insandare/ge-oss-mojlighet-att-kasta-ut-mohamed-ali-ur-riksdagen/",
-      "description": "INSÄNDARE. Ett eventuellt extra val i spåren av den pågående regeringskrisen handlar inte bara om vem som ska sitta i Rosenbad. Det handlar om att svenska folket måste ges en nödbroms för att med hjälp av demokratin kasta ut vänsterpartisten Mohamed Ali från riksdagen, skriver Claes Lind.",
-      "pubDate": "2026-10-21T21:51:40Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
         "MP"
       ]
     }
@@ -322,6 +329,33 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Är Mohamed Ali Centerpartiets bästa vän?",
+      "link": "https://pod.space/alskadepolitik/ar-mohamed-ali-centerpartiets-basta-van",
+      "description": "Vänsterpartiet gjorde självmål i Dalarna. Kan Elisabeth Thand Ringqvists dröm om mitten bli verklighet nu? Samtidigt – Liberalernas Romina Pourmokhtari har kallat Centerns idé om mitten för en dröm om enhörningar. Vad har de andra partierna för åsikter om C-ledarens projekt?",
+      "pubDate": "2026-10-23T12:30:31Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V",
+        "C",
+        "L"
+      ]
+    },
+    {
+      "title": "Fredagsintervjun: Min ilska mot S är genuin",
+      "link": "https://pod.space/kvartal/fredagsintervjun-min-ilska-mot-s-ar-genuin",
+      "description": "Liberalernas partiledare Simona Mohamsson intervjuas av Jörgen Huitfeldt. Bara veckor före valet var hon och Liberalerna uträknade. Men på valkvällen kunde Simona Mohamsson jubla över en upphämtning utan motstycke i modern politisk historia. Hur resonerade partiet internt, och hur klarade hon pressen? Samtidigt sonderar Centerledaren en mittenregering. Men Mohamsson vägrar kategoriskt att släppa fram en regering ledd av Magdalena Andersson.",
+      "pubDate": "2026-10-23T10:45:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "L"
+      ]
+    },
     {
       "title": "Rak höger: Greta är bensin på elden i Frankrike",
       "link": "https://pod.space/kvartal/rak-hoger-greta-ar-bensin-pa-elden-i-frankrike",
@@ -488,32 +522,6 @@
       "topics": [
         "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Magdalena Anderssons problem: C får inte förnedras",
-      "link": "https://pod.space/alskadepolitik/magdalena-anderssons-problem-c-far-inte-fornedras",
-      "description": "Sa Elisabeth Thand Ringqvist plötsligt det hon egentligen tänker i en intervju i TV4 – och har S-ledaren kommit någon vart med sonderingarna efter rödgröna Lidingömötet?",
-      "pubDate": "2026-10-12T14:04:02Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "322. Storbråk i SD",
-      "link": "https://pod.space/politikrummet/322-storbrak-i-sd",
-      "description": "Magdalena Andersson skjuter upp sin rapport till talmannen. Samtidigt bubblar ett storbråk inom Sverigedemokraterna. I riksdagsstudion: Filippa Rogvall, Max V Karlsson och Viktor Barth-Kron. Producent: Anna Westman Swantesson Ljudklipp från Sveriges Radio Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-10-12T12:19:49Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "SD"
       ]
     }
   ]
