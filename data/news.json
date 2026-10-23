@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T17:32:56.007380Z",
+  "updated_at": "2026-10-23T20:43:37.472786Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,30 @@
   ],
   "news": [
     {
+      "title": "DN Debatt. ”Utan nationella prov famlar svensk skola i blindo”",
+      "link": "https://www.dn.se/debatt/utan-nationella-prov-famlar-svensk-skola-i-blindo/",
+      "description": "DN DEBATT. Regeringen vill avskaffa de nationella proven i årskurs 3 och 6, samtidigt som skolan står inför stora reformer. Det blir då omöjligt att veta vilka, om några, av förändringarna höjer elevernas resultat. Lärare och föräldrar får också svårt att välja väg framåt. Proven måste behållas tills vidare, skriver 15 experter inom ekonomi och utbildning.",
+      "pubDate": "2026-10-23T18:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "SD-utspel om Mohamed Ali",
+      "link": "https://www.expressen.se/nyheter/politik/sd-om-v-ledamoten-ali-hor-inte-hemma-i-sverige/",
+      "description": "Riksdagsledamoten Mohamed Ali (V) ”hör inte hemma” i Sverige, skriver SD i ett utspel på X. Partiets presschef i EU tycker att han har agerat ”osvenskt”. Vänsterpartiet kallar inlägget för ”oacceptabelt och djupt beklagligt”.",
+      "pubDate": "2026-10-23T17:36:11Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "V:s gruppledare om Mohamed Ali: ”Fråga som ytterst avgörs av väljarna”",
       "link": "https://www.sverigesradio.se/artikel/9327554",
       "description": "Vänsterpartisten Mohamed Alis lämplighet som riksdagsledamot har ifrågasatts med tanke på hans stora skulder och relationen till myndigheterna. Paritets gruppledare i riskdagen, Samuel Gonzalez Westling, säger att det är en fråga för väljarna. ”Det upp till honom att visa att han kan bära det förtroendet”, säger han. I veckan delgavs tre personer misstanke om brott i samband med valfuskutredningen i Borlänge. Vänsterpartiet säger att de inte kan kommentera en pågående utredning.",
@@ -157,18 +181,6 @@
         "L",
         "MP",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ygemans SD-brev till talmannen: ”Allvarligt”",
-      "link": "https://www.expressen.se/nyheter/politik/ygemans-sd-brev-till-talmannen-allvarligt/",
-      "description": "I ett brev till talmannen pekar Socialdemokraterna ut Gustav Gellerbrant (SD) som en säkerhetsrisk. Det trots att Gellerbrant nyligen anmält S för grovt förtal. – Det handlar ytterst om Sveriges säkerhet, säger Anders Ygeman (S).",
-      "pubDate": "2026-10-23T12:21:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -258,16 +270,6 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "Rödgröna röstar ned snabbare straffskärpningar",
-      "link": "https://www.dn.se/sverige/rodgrona-rostar-ned-snabbare-straffskarpningar/",
-      "description": "SD:s förslag om att införa hela straffrättsreformen 2029 röstades ned i justitieutskottet. Enligt Kriminalvården behövs minst fem års förberedelser.",
-      "pubDate": "2026-10-22T15:14:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
