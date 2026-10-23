@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T02:13:58.598505Z",
+  "updated_at": "2026-10-23T07:45:27.058623Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,64 @@
   ],
   "news": [
     {
-      "title": "Varnar för stormbyar – då kommer Boelo",
-      "link": "https://www.expressen.se/nyheter/varnar-for-stormbyar-da-kommer-boelo/",
-      "description": "Stormen Boelo slår till mot Sverige på söndag. Det väntas rejält blåsigt väder. – Här och var kan det bli stormbyar, säger Katarina Andersson, meteorolog vid SMHI.",
-      "pubDate": "2026-10-22T18:45:19Z",
+      "title": "Direktrapport | Regeringsbildningen efter valet 2026",
+      "link": "https://www.sverigesradio.se/artikel/9326455",
+      "description": "Det senaste om läget i svensk politik. Följ Ekots bevakning om regeringsbildningen efter riksdagsvalet den 13 september 2026.",
+      "pubDate": "2026-10-23T07:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Filmlistan vecka 43: Lerig kroppsskräck laddar monstruösa ”Clayface”",
+      "link": "https://www.dn.se/kultur/filmlistan-vecka-43-lerig-kroppsskrack-laddar-monstruosa-clayface/",
+      "description": "En geggig Batman-skurk, en ekofascistisk sektledare och två drömmare i den svenska filmbranschen strålar samman på bio i helgen. DN:s filmredaktör Helena Lindblad listar veckan bästa filmer.",
+      "pubDate": "2026-10-23T07:24:14Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Johannes Klenell: Så blev jag och Annie Lööf valets stora vinnare",
+      "link": "https://www.dn.se/kultur/johannes-klenell-sa-blev-jag-och-annie-loof-valets-stora-vinnare/",
+      "description": "Regeringsbildningen drar ut på tiden men det betyder inte att alla är förlorare. Med Centerpartiet i en vågmästarroll kan det vara läge att köpa aktier i en skolkoncern – och det går bra nu, skriver Johannes Klenell.",
+      "pubDate": "2026-10-23T04:31:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "L: M höll tyst om SD-förhandlingar",
+      "link": "https://www.expressen.se/nyheter/politik/l-m-holl-tyst-om-sd-forhandlingar/",
+      "description": "Förhandlingen med Moderaterna gav SD ett par extra miljoner kronor i stöd i Stockholms stad. Uppgörelsen skedde bakom ryggen på de borgerliga allianskollegerna. – Jag blev förvånad, säger Gulan Avci (L).",
+      "pubDate": "2026-10-23T04:18:34Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S"
+        "M"
+      ]
+    },
+    {
+      "title": "”Det var en enkel googling, men det finns många Mohamed Ali”",
+      "link": "https://www.dn.se/sverige/det-var-en-enkel-googling-men-det-finns-manga-mohamed-ali/",
+      "description": "Valberedningen googlade honom, men det fanns många med samma namn. Hur kunde Mohamed Ali ta sig hela vägen till riksdagen – och vem i Vänsterpartiet släppte fram honom? ”Vi har blivit förda bakom ljuset”, skriver valberedningens sammankallande i ett internt sms.",
+      "pubDate": "2026-10-23T04:15:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
       ]
     },
     {
@@ -139,19 +188,6 @@
       "topics": []
     },
     {
-      "title": "SD-förslag om tidigarelagda straffskärpningar får nej",
-      "link": "https://www.sverigesradio.se/artikel/9326723",
-      "description": "Sverigedemokraternas förslag om att införa flera av de redan beslutade straffskärpningarna till år 2029, fick nej i justitieutskottet på torsdagen av den rödgröna majoriteten. Bland annat handlade det om den så kallade mängdrabatten. Enligt Kriminalvården saknas resurser för att genomföra alla förändringar till 2029, det behövs fler fängelseplatser enligt myndigheten. Socialdemokraterna vill i stället att förändringarna införs under flera år och att mängdrabatten för sexualbrott tas bort först.",
-      "pubDate": "2026-10-22T15:23:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
       "title": "Rödgröna röstar ned snabbare straffskärpningar",
       "link": "https://www.dn.se/sverige/rodgrona-rostar-ned-snabbare-straffskarpningar/",
       "description": "SD:s förslag om att införa hela straffrättsreformen 2029 röstades ned i justitieutskottet. Enligt Kriminalvården behövs minst fem års förberedelser.",
@@ -170,18 +206,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Ebba Busch: Elstöd kan bli aktuellt redan nu",
-      "link": "https://www.sverigesradio.se/artikel/9326664",
-      "description": "Höga elpriser riskerar att drabba hushåll och företag i vinter, det meddelade Energimyndigheten och energi- och näringsminister Ebba Busch (KD) på en pressträff under torsdagen. I södra Sverige är snittpriset för oktober just nu över gränsen för elstöd och håller det i sig månaden ut, blir aktuellt med högkostnadsskydd för hushållen i elområde 4, enligt ministern. ”Det kan bli en potentiellt sett stökig vinter”, säger Ebba Busch.",
-      "pubDate": "2026-10-22T14:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
     },
     {
       "title": "Tre misstänks i valfuskhärvan i Borlänge",
@@ -232,37 +256,21 @@
         "V",
         "MP"
       ]
-    },
-    {
-      "title": "21 oktober: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/21-oktober-missa-inte-dagens-nyheter/",
-      "description": "Skräcken inom Socialdemokraterna, sågningen av SSAB och larmet från FN – här är dagens nyheter.",
-      "pubDate": "2026-10-21T19:00:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Nya regionstyret klart efter veckor av kaos",
-      "link": "https://www.dn.se/sverige/nya-regionstyret-klart-efter-veckor-av-kaos/",
-      "description": "38 dagar efter valet är ett nytt styre klart i Region Stockholm. Efter flera veckor av stökiga förhandlingar och svekanklagelser har Socialdemokraterna, Miljöpartiet, Centerpartiet, Kristdemokraterna och Liberalerna kommit överens om att styra tillsammans.",
-      "pubDate": "2026-10-21T17:42:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "KD",
-        "L",
-        "MP"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "De låga förväntningarnas rasism",
+      "link": "https://ledarsidorna.se/de-laga-forvantningarnas-rasism/",
+      "description": "Vänsterpartiet låter meddela att partiet står bakom sin nyvalde riksdagsledamot Mohamed Ali. Samtidigt är det inte ointressant att granska hur motsvarande situationer kom att förändra minst fyra statsråds och riksdagsledamöters liv med avslutade politiska karriärer i förtid. Vänsterpartiets gruppledare Samuel Gonzalez Westling säger till SVT att all uppståndelse kring den nyligen tillträdde riksdagsledamoten Mohamed Ali [&#8230;]",
+      "pubDate": "2026-10-23T07:06:00Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Så avslöjades fusk med opinionsmätningar",
       "link": "https://ledarsidorna.se/sa-avslojades-fusk-med-opinionsmatningar/",
