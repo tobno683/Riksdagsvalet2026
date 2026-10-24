@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T16:07:00.466412Z",
+  "updated_at": "2026-10-24T18:52:48.852109Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -117,18 +117,6 @@
       ]
     },
     {
-      "title": "V:s gruppledare om Mohamed Ali: ”Fråga som ytterst avgörs av väljarna”",
-      "link": "https://www.sverigesradio.se/artikel/9327554",
-      "description": "Vänsterpartisten Mohamed Alis lämplighet som riksdagsledamot har ifrågasatts med tanke på hans stora skulder och relationen till myndigheterna. Paritets gruppledare i riskdagen, Samuel Gonzalez Westling, säger att det är en fråga för väljarna. ”Det upp till honom att visa att han kan bära det förtroendet”, säger han. I veckan delgavs tre personer misstanke om brott i samband med valfuskutredningen i Borlänge. Vänsterpartiet säger att de inte kan kommentera en pågående utredning.",
-      "pubDate": "2026-10-23T15:36:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "C-ledaren om mötet med Åkesson: ”Står nära varandra i vissa frågor”",
       "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-om-motet-med-akesson-star-nara-varandra-i-vissa-fragor",
       "description": "C-ledaren Elisabeth Thand Ringqvist har nu träffat alla partiledare – inklusive Jimmie Åkesson. Efter mötet säger hon att den röda linjen mot SD ligger fast, men att det finns vissa likheter mellan C och SD. – Det var ett uppriktigt och bra samtal, säger Elisabeth Thand Ringqvist (C) till SVT.",
@@ -209,19 +197,6 @@
       ]
     },
     {
-      "title": "Johannes Klenell: Så blev jag och Annie Lööf valets stora vinnare",
-      "link": "https://www.dn.se/kultur/johannes-klenell-sa-blev-jag-och-annie-loof-valets-stora-vinnare/",
-      "description": "Regeringsbildningen drar ut på tiden men det betyder inte att alla är förlorare. Med Centerpartiet i en vågmästarroll kan det vara läge att köpa aktier i en skolkoncern – och det går bra nu, skriver Johannes Klenell.",
-      "pubDate": "2026-10-23T04:31:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "”Det var en enkel googling, men det finns många Mohamed Ali”",
       "link": "https://www.dn.se/sverige/det-var-en-enkel-googling-men-det-finns-manga-mohamed-ali/",
       "description": "Valberedningen googlade honom, men det fanns många med samma namn. Hur kunde Mohamed Ali ta sig hela vägen till riksdagen – och vem i Vänsterpartiet släppte fram honom? ”Vi har blivit förda bakom ljuset”, skriver valberedningens sammankallande i ett internt sms.",
@@ -266,6 +241,31 @@
       "sourceType": "news",
       "topics": [
         "SD"
+      ]
+    },
+    {
+      "title": "Förbud mot bensin- och dieselbilar kan rivas upp – trots svenskt motstånd",
+      "link": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand",
+      "description": "Nya bensin- och dieselbilar kan få fortsätta säljas efter 2035 – efter en uppgörelse i EU-parlamentet mellan bland annat socialdemokrater och moderater. Men S i Sverige tycker att uppgörelsen är dålig. – Vi svenska socialdemokrater är ju starkt kritiska till det här, säger Åsa Westlund.",
+      "pubDate": "2026-10-21T14:27:34Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Tiden har ”runnit ut” – C skissar på eget förslag",
+      "link": "https://www.svt.se/nyheter/inrikes/tiden-har-runnit-ut-c-skissar-pa-eget-forslag",
+      "description": "Det ser osannolikt ut att de rödgröna partierna ska hinna få ihop en gemensam budget – som MP har önskat. Nu förbereder sig Centerpartiet på att lägga in ett eget förslag. – C är naturligtvis fria att göra precis som de vill, men det vore bättre om vi hade kommit framåt i förhandlingar, säger MP-toppen Janine Alm Ericson.",
+      "pubDate": "2026-10-20T11:06:46Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
       ]
     }
   ],
