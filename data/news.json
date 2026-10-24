@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T23:37:00.879125Z",
+  "updated_at": "2026-10-24T02:12:24.351229Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -109,18 +109,6 @@
       "pubDate": "2026-10-23T15:36:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Kritiken i V: Krävs  en hårdare kontroll",
-      "link": "https://www.expressen.se/nyheter/sverige/kritiken-i-v-kravs--en-hardare-kontroll/",
-      "description": "Vänsterpartiets hantering av inkryssade ledamoten Mohamed Ali väcker kritik – även internt. Med bara 648 kryss tog han sig ända in i riksdagen. I partiet ifrågasätts nu rutinerna runt valberedningsarbetet. – Ali är inte ett isolerat problem, säger en källa.",
-      "pubDate": "2026-10-23T14:59:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
@@ -270,6 +258,16 @@
       "topics": [
         "C"
       ]
+    },
+    {
+      "title": "Rödgröna röstar ned snabbare straffskärpningar",
+      "link": "https://www.dn.se/sverige/rodgrona-rostar-ned-snabbare-straffskarpningar/",
+      "description": "SD:s förslag om att införa hela straffrättsreformen 2029 röstades ned i justitieutskottet. Enligt Kriminalvården behövs minst fem års förberedelser.",
+      "pubDate": "2026-10-22T15:14:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     }
   ],
   "blogs": [
