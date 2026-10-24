@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T07:27:42.297085Z",
+  "updated_at": "2026-10-24T12:07:49.264872Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,32 @@
   ],
   "news": [
     {
+      "title": "Tomas Ramberg: Risken för extraval är överskattad",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-risken-for-extraval-ar-overskattad/",
+      "description": "Extraval är ordet för dagen i den svenska politiken. Från höger växer hoppet – från vänster skräcken – för att regeringsbildningen ska krascha. Men ett extraval vore ett oöverträffat rekord i politisk klantighet.",
+      "pubDate": "2026-10-24T11:50:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Lyssna på väljarna och ta in V i regeringen",
+      "link": "https://www.dn.se/insandare/lyssna-pa-valjarna-och-ta-in-v-i-regeringen/",
+      "description": "INSÄNDARE. Vänsterpartiet gjorde ett historiskt bra val samtidigt som Socialdemokraterna gick historiskt dåligt. Därför är det nu upp till S-ledaren Magdalena Andersson, Centerpartiet och övriga rödgröna partier att lägga prestige åt sidan och hitta en hållbar lösning, skriver Mohibul Ezdani Khan.",
+      "pubDate": "2026-10-24T08:18:22Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "DN Debatt. ”Utan nationella prov famlar svensk skola i blindo”",
       "link": "https://www.dn.se/debatt/utan-nationella-prov-famlar-svensk-skola-i-blindo/",
       "description": "DN DEBATT. Regeringen vill avskaffa de nationella proven i årskurs 3 och 6, samtidigt som skolan står inför stora reformer. Det blir då omöjligt att veta vilka, om några, av förändringarna höjer elevernas resultat. Lärare och föräldrar får också svårt att välja väg framåt. Proven måste behållas tills vidare, skriver 15 experter inom ekonomi och utbildning.",
@@ -113,34 +139,6 @@
       "topics": [
         "SD",
         "C"
-      ]
-    },
-    {
-      "title": "Busch råd: ”Kanske ska släppa fram en mitten-högerregering”",
-      "link": "https://www.sverigesradio.se/artikel/9327356",
-      "description": "Ebba Busch vill att Socialdemokraterna överväger att släppa fram en mitten-högerregering om Magdalena Andersson inte lyckas samla stöd i riksdagen. ” Ska man trycka Sverige mot ett extraval, eller släppa fram den konstellation som ändå blir störst därefter och klarar av att få ihop det”, säger KD-ledaren. Busch har i veckan haft samtal med den regeringssonderande Elisabeth Thand Ringqvist och hennes analys är att läget fortsatt är låst.",
-      "pubDate": "2026-10-23T14:19:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "KD"
-      ]
-    },
-    {
-      "title": "Är Mohamed Ali Centerpartiets bästa vän?",
-      "link": "https://www.dn.se/podd/alskade-politik/ar-mohamed-ali-centerpartiets-basta-van/",
-      "description": "Vänsterpartiet gjorde självmål i Dalarna. Kan Elisabeth Thand Ringqvists dröm om mitten bli verklighet nu? Samtidigt – Liberalernas Romina Pourmokhtari har kallat Centerns idé om mitten för en dröm om enhörningar.",
-      "pubDate": "2026-10-23T12:30:31Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "L"
       ]
     },
     {
@@ -236,28 +234,6 @@
       ]
     },
     {
-      "title": "C drömmer om mitten – här är den hårda verkligheten",
-      "link": "https://www.dn.se/sverige/c-drommer-om-mitten-har-ar-den-harda-verkligheten/",
-      "description": "Det krävs både löftesbrott och kompromisser om hjärtefrågor – och sedan hotar svekdebatter. Elisabeth Thand Ringqvist (C) måste lösa upp många hårda knutar för att hennes drömregering ska bli verklighet. Här synar DN Centerledarens alternativ i sömmarna.",
-      "pubDate": "2026-10-22T16:19:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Rödgröna röstar ned snabbare straffskärpningar",
-      "link": "https://www.dn.se/sverige/rodgrona-rostar-ned-snabbare-straffskarpningar/",
-      "description": "SD:s förslag om att införa hela straffrättsreformen 2029 röstades ned i justitieutskottet. Enligt Kriminalvården behövs minst fem års förberedelser.",
-      "pubDate": "2026-10-22T15:14:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Migrationsverket öppnar för att pausa tonårsutvisningar",
       "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-oppnar-for-att-pausa-tonarsutvisningar",
       "description": "De rödgröna partierna har enats om vilka som ska omfattas av en stopplag för så kallade tonårsutvisningar. Nu öppnar Migrationsverket för att eventuellt pausa utvisningarna i väntan på ny lagstiftning. – Jag har inte stängt några dörrar, säger Maria Mindhammar, generaldirektör.",
@@ -266,6 +242,31 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "SVT/Verian: Kristersson (M) rusar i förtroende – Dadgostar (V) i botten",
+      "link": "https://www.svt.se/nyheter/inrikes/svtverian-kristersson-m-rusar-i-fortroende-dadgostar-v-i-botten",
+      "description": "Ulf Kristersson (M) får sin bästa notering någonsin i SVT/Verians senaste förtroendemätning för partiledarna. Samtidigt rasar vänsterledaren Nooshi Dadgostar (V).",
+      "pubDate": "2026-10-22T06:24:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "Källor till SVT: Jomshofs uttalanden problematiska",
+      "link": "https://www.svt.se/nyheter/inrikes/kallor-till-svt-jomshofs-uttalanden-problematiska",
+      "description": "Vad är svenskhet? Frågan har splittrat Sverigedemokraterna på senare tid – och en het debatt har brutit ut. En person som utmanat partiets hållning är Richard Jomshof (SD). Flera personer ur partistyrelsen menar nu att uttalanden i frågan är problematiska, enligt SVT Nyheters källor.",
+      "pubDate": "2026-10-21T16:48:40Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
     }
   ],
   "blogs": [
