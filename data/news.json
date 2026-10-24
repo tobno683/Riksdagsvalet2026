@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T02:12:24.351229Z",
+  "updated_at": "2026-10-24T07:27:42.297085Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -88,18 +88,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "SD-utspel om Mohamed Ali",
-      "link": "https://www.expressen.se/nyheter/politik/sd-om-v-ledamoten-ali-hor-inte-hemma-i-sverige/",
-      "description": "Riksdagsledamoten Mohamed Ali (V) ”hör inte hemma” i Sverige, skriver SD i ett utspel på X. Partiets presschef i EU tycker att han har agerat ”osvenskt”. Vänsterpartiet kallar inlägget för ”oacceptabelt och djupt beklagligt”.",
-      "pubDate": "2026-10-23T17:36:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -268,6 +256,16 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "Migrationsverket öppnar för att pausa tonårsutvisningar",
+      "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-oppnar-for-att-pausa-tonarsutvisningar",
+      "description": "De rödgröna partierna har enats om vilka som ska omfattas av en stopplag för så kallade tonårsutvisningar. Nu öppnar Migrationsverket för att eventuellt pausa utvisningarna i väntan på ny lagstiftning. – Jag har inte stängt några dörrar, säger Maria Mindhammar, generaldirektör.",
+      "pubDate": "2026-10-22T15:06:46Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     }
   ],
   "blogs": [
@@ -334,6 +332,23 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: Grundlagen är som ett skruvstäd",
+      "link": "https://pod.space/kvartal/veckopanelen-grundlagen-ar-som-ett-skruvstad",
+      "description": "Veckopanelen med Lena Mellin, Stefan Stern och Lisa dos Santos under ledning av Staffan Dopping. Centerledaren sonderar för en regering i mitten. Men var finns Sveriges politiska mitten? Liberalernas Simona Mohamsson sätter i Fredagsintervjun tydligt ner foten&nbsp; i regeringsfrågan. Ulf Kristersson seglar uppåt i förtroende i SVT/Verian, medan Nooshi Dadgostar sjunker som en sten. Vänsterpartiets kryssraket Mohamed Ali gjorde till slut entré i riksdagen, men hur gick det när han mötte pressen? I Region Stockholm har liberaler och kristdemokrater gått ihop med socialdemokrater och miljöpartister, och i Frankrike bävar man för nya våldsamheter i helgen.",
+      "pubDate": "2026-10-24T03:40:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "KD",
+        "L",
+        "MP"
+      ]
+    },
     {
       "title": "Är Mohamed Ali Centerpartiets bästa vän?",
       "link": "https://pod.space/alskadepolitik/ar-mohamed-ali-centerpartiets-basta-van",
@@ -514,19 +529,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "323. Då blir det extraval",
-      "link": "https://pod.space/politikrummet/323-da-blir-det-extraval",
-      "description": "Alla räknar med att Magdalena Andersson faller i en första statsministeromröstning på torsdag. Hur många till krävs innan vi har en regering? I riksdagsstudion: Filippa Rogvall, Anette Holmqvist, Max V Karlsson och Viktor Barth-Kron. Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-10-13T13:49:00Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     }
   ]
