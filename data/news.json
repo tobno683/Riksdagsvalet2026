@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T01:22:31.283046Z",
+  "updated_at": "2026-10-25T06:21:21.576208Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,43 @@
     }
   ],
   "news": [
+    {
+      "title": "Mats Knutson: Därför kan inte C släppa den röda linjen mot SD",
+      "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-darfor-kan-inte-c-slappa-den-roda-linjen-mot-sd",
+      "description": "Centerpartiet håller fast vid sin röda linje mot Sverigedemokraterna. Det har partiledaren Elisabeth Thand Ringqvist upprepat flera gånger under veckan. Men varför sitter SD-motståndet så hårt inom C? – Det finns tre skäl, säger SVT:s inrikespolitiske kommentator Mats Knutson.",
+      "pubDate": "2026-10-25T04:38:41Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Ledare: Hur i hela friden kunde Vänsterpartiet missa det här?",
+      "link": "https://www.dn.se/ledare/hur-i-hela-friden-kunde-vansterpartiet-missa-det-har/",
+      "description": "Vänsterpartiet klarar inte av den mest grundläggande uppgiften för ett parti: Ha koll på vilka som placeras på listorna inför ett val.",
+      "pubDate": "2026-10-25T04:07:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Svårt för kommuner att planera när ny regering dröjer",
+      "link": "https://www.sverigesradio.se/artikel/9326564",
+      "description": "Regeringsbildningen drar ut på tiden vilket påverkar kommunernas och regionernas möjligheter att planera sin verksamhet. Det säger Anders Henriksson, ordförande i paraplyorganisationen Sveriges kommuner och regioner, SKR. Ovissheten handlar bland annat om ifall det blir nya satsningar på välfärden och i så fall vilka och i vilken form.",
+      "pubDate": "2026-10-25T03:38:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Tomas Ramberg: Risken för extraval är överskattad",
       "link": "https://www.dn.se/sverige/tomas-ramberg-risken-for-extraval-ar-overskattad/",
@@ -185,18 +222,6 @@
       ]
     },
     {
-      "title": "Filmlistan vecka 43: Lerig kroppsskräck laddar monstruösa ”Clayface”",
-      "link": "https://www.dn.se/kultur/filmlistan-vecka-43-lerig-kroppsskrack-laddar-monstruosa-clayface/",
-      "description": "En geggig Batman-skurk, en ekofascistisk sektledare och två drömmare i den svenska filmbranschen strålar samman på bio i helgen. DN:s filmredaktör Helena Lindblad listar veckan bästa filmer.",
-      "pubDate": "2026-10-23T07:24:14Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "”Det var en enkel googling, men det finns många Mohamed Ali”",
       "link": "https://www.dn.se/sverige/det-var-en-enkel-googling-men-det-finns-manga-mohamed-ali/",
       "description": "Valberedningen googlade honom, men det fanns många med samma namn. Hur kunde Mohamed Ali ta sig hela vägen till riksdagen – och vem i Vänsterpartiet släppte fram honom? ”Vi har blivit förda bakom ljuset”, skriver valberedningens sammankallande i ett internt sms.",
@@ -241,31 +266,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Förbud mot bensin- och dieselbilar kan rivas upp – trots svenskt motstånd",
-      "link": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand",
-      "description": "Nya bensin- och dieselbilar kan få fortsätta säljas efter 2035 – efter en uppgörelse i EU-parlamentet mellan bland annat socialdemokrater och moderater. Men S i Sverige tycker att uppgörelsen är dålig. – Vi svenska socialdemokrater är ju starkt kritiska till det här, säger Åsa Westlund.",
-      "pubDate": "2026-10-21T14:27:34Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Tiden har ”runnit ut” – C skissar på eget förslag",
-      "link": "https://www.svt.se/nyheter/inrikes/tiden-har-runnit-ut-c-skissar-pa-eget-forslag",
-      "description": "Det ser osannolikt ut att de rödgröna partierna ska hinna få ihop en gemensam budget – som MP har önskat. Nu förbereder sig Centerpartiet på att lägga in ett eget förslag. – C är naturligtvis fria att göra precis som de vill, men det vore bättre om vi hade kommit framåt i förhandlingar, säger MP-toppen Janine Alm Ericson.",
-      "pubDate": "2026-10-20T11:06:46Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     }
   ],
@@ -317,18 +317,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "S och det Muslimska brödraskapet – 30 år av opinionsbildning",
-      "link": "https://ledarsidorna.se/s-och-det-muslimska-brodraskapet-30-ar-av-opinionsbildning/",
-      "description": "Från en konferens på Lidingö 1995 till en votering i Europaparlamentet löper en rät linje av opinionsbildning, beslut och samarbeten. Det den dåvarande utrikesministern tog initiativ till kunde kanske inte krönas med framgång i parlamentet trettio år senare men bli väl synligt för alla. Effekterna av socialdemokraternas opinionsbildning tillsammans med det Muslimska brödraskapet. När Sverige [&#8230;]",
-      "pubDate": "2026-10-15T03:21:24Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
       ]
     }
   ],
