@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T06:21:21.576208Z",
+  "updated_at": "2026-10-25T11:50:13.550492Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,19 @@
     }
   ],
   "news": [
+    {
+      "title": "Insändare. Hade tonläget varit lika hårt om Ali hetat Andersson?",
+      "link": "https://www.dn.se/insandare/hade-tonlaget-varit-lika-hart-om-ali-hetat-andersson/",
+      "description": "INSÄNDARE. Om vi tillåter att mediala folkdomstolar skrämmer bort folkvalda som Mohamed Ali (V) underminerar vi i förlängningen valresultatet. Det är dags att rannsaka hyckleriet kring personvalen och acceptera folkviljan, skriver Fahimeh Nordborg, vänsterpartist och regionpolitiker i Västra Götaland.",
+      "pubDate": "2026-10-25T08:09:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Mats Knutson: Därför kan inte C släppa den röda linjen mot SD",
       "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-darfor-kan-inte-c-slappa-den-roda-linjen-mot-sd",
@@ -195,21 +208,6 @@
       ]
     },
     {
-      "title": "Ebba Busch: S bör överväga att släppa fram Kristersson",
-      "link": "https://www.dn.se/sverige/ebba-busch-s-bor-overvaga-att-slappa-fram-kristersson/",
-      "description": "KD-ledaren Ebba Busch anser att Socialdemokraterna bör överväga att släppa fram Ulf Kristersson som statsminister, om de pågående regeringsförhandlingarna misslyckas. – Jag hoppas verkligen att det finns socialdemokrater som prövar den tanken, säger hon.",
-      "pubDate": "2026-10-23T11:02:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Insändare. C-ledaren bör lyssna på väljarna och förbjuda vinster",
       "link": "https://www.dn.se/insandare/c-ledaren-bor-lyssna-pa-valjarna-och-forbjuda-vinster/",
       "description": "INSÄNDARE. Regeringssonderaren Elisabeth Thand Ringqvist bör sätta sina privata ägarintressen åt sidan i frågan om vinster i välfärden. Varför följer partiledaren inte den uppfattning som en majoritet av Centerpartiets väljare har uttryckt? frågar sig Iwan Langermo.",
@@ -219,18 +217,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "”Det var en enkel googling, men det finns många Mohamed Ali”",
-      "link": "https://www.dn.se/sverige/det-var-en-enkel-googling-men-det-finns-manga-mohamed-ali/",
-      "description": "Valberedningen googlade honom, men det fanns många med samma namn. Hur kunde Mohamed Ali ta sig hela vägen till riksdagen – och vem i Vänsterpartiet släppte fram honom? ”Vi har blivit förda bakom ljuset”, skriver valberedningens sammankallande i ett internt sms.",
-      "pubDate": "2026-10-23T04:15:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -267,9 +253,34 @@
       "topics": [
         "SD"
       ]
+    },
+    {
+      "title": "Förbud mot bensin- och dieselbilar kan rivas upp – trots svenskt motstånd",
+      "link": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand",
+      "description": "Nya bensin- och dieselbilar kan få fortsätta säljas efter 2035 – efter en uppgörelse i EU-parlamentet mellan bland annat socialdemokrater och moderater. Men S i Sverige tycker att uppgörelsen är dålig. – Vi svenska socialdemokrater är ju starkt kritiska till det här, säger Åsa Westlund.",
+      "pubDate": "2026-10-21T14:27:34Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Centern förfalskar sin egen historia",
+      "link": "https://blog.zaramis.se/2026/10/25/centern-forfalskar-sin-egen-historia/",
+      "description": "Centern förfalskar sin egen historia på partiets egen hemsida. Där framställs idylliskt hur Bondeförbundet som 1958 bytte namn till Centerpartiet har en obruten historia av att göra samhället mer rättvist och jämlikt. ”I mer än hundra år”, påstår partiet, ”har vi slagits för att människor ska få bestämma mer själva. För att vi ska ha ett hållbart samhälle”. I själva verket rymmer Centerns historia demokrati- och arbetarfientlighet plus inslag av agrarfascism. Läs mer … Inlägget Centern förfalskar sin egen historia dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-10-25T10:15:10Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
     {
       "title": "De låga förväntningarnas rasism",
       "link": "https://ledarsidorna.se/de-laga-forvantningarnas-rasism/",
