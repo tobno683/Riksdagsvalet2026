@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:29:01.646746Z",
+  "updated_at": "2026-10-25T21:03:38.198066Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,18 @@
   ],
   "news": [
     {
+      "title": "Mikael Damberg: ”Kommer inte hinna få ihop en budget”",
+      "link": "https://www.expressen.se/nyheter/politik/mikael-damberg-kommer-inte-hinna-fa-ihop-en-budget/",
+      "description": "De rödgröna partierna kommer inte presentera en gemensam budget till den 12 november. Det säger Mikael Damberg i SVT:s Agenda .&nbsp; – Det är nästan omöjligt, säger han.&nbsp;",
+      "pubDate": "2026-10-25T20:45:48Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Spelet bakom unika regionstyret i Stockholm: ”Ett riktigt fint köttben”",
       "link": "https://www.dn.se/sverige/spelet-bakom-unika-regionstyret-i-stockholm-ett-riktigt-fint-kottben/",
       "description": "Centern jublar och Socialdemokraterna ger bort sjukvården till KD. Det nya unika styret i Sveriges största region går helt på tvärs med blockgränserna i rikspolitiken. – Det är ett riktigt fint köttben, säger statsvetaren Magnus Hagevi.",
@@ -117,30 +129,6 @@
       ]
     },
     {
-      "title": "Ledare: Hur i hela friden kunde Vänsterpartiet missa det här?",
-      "link": "https://www.dn.se/ledare/hur-i-hela-friden-kunde-vansterpartiet-missa-det-har/",
-      "description": "Vänsterpartiet klarar inte av den mest grundläggande uppgiften för ett parti: Ha koll på vilka som placeras på listorna inför ett val.",
-      "pubDate": "2026-10-25T04:07:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Svårt för kommuner att planera när ny regering dröjer",
-      "link": "https://www.sverigesradio.se/artikel/9326564",
-      "description": "Regeringsbildningen drar ut på tiden vilket påverkar kommunernas och regionernas möjligheter att planera sin verksamhet. Det säger Anders Henriksson, ordförande i paraplyorganisationen Sveriges kommuner och regioner, SKR. Ovissheten handlar bland annat om ifall det blir nya satsningar på välfärden och i så fall vilka och i vilken form.",
-      "pubDate": "2026-10-25T03:38:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Tomas Ramberg: Risken för extraval är överskattad",
       "link": "https://www.dn.se/sverige/tomas-ramberg-risken-for-extraval-ar-overskattad/",
       "description": "Extraval är ordet för dagen i den svenska politiken. Från höger växer hoppet – från vänster skräcken – för att regeringsbildningen ska krascha. Men ett extraval vore ett oöverträffat rekord i politisk klantighet.",
@@ -164,18 +152,6 @@
         "S",
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "DN Debatt. ”Utan nationella prov famlar svensk skola i blindo”",
-      "link": "https://www.dn.se/debatt/utan-nationella-prov-famlar-svensk-skola-i-blindo/",
-      "description": "DN DEBATT. Regeringen vill avskaffa de nationella proven i årskurs 3 och 6, samtidigt som skolan står inför stora reformer. Det blir då omöjligt att veta vilka, om några, av förändringarna höjer elevernas resultat. Lärare och föräldrar får också svårt att välja väg framåt. Proven måste behållas tills vidare, skriver 15 experter inom ekonomi och utbildning.",
-      "pubDate": "2026-10-23T18:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     },
     {
@@ -264,6 +240,31 @@
       "sourceType": "news",
       "topics": [
         "SD"
+      ]
+    },
+    {
+      "title": "Förbud mot bensin- och dieselbilar kan rivas upp – trots svenskt motstånd",
+      "link": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand",
+      "description": "Nya bensin- och dieselbilar kan få fortsätta säljas efter 2035 – efter en uppgörelse i EU-parlamentet mellan bland annat socialdemokrater och moderater. Men S i Sverige tycker att uppgörelsen är dålig. – Vi svenska socialdemokrater är ju starkt kritiska till det här, säger Åsa Westlund.",
+      "pubDate": "2026-10-21T14:27:34Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Tiden har ”runnit ut” – C skissar på eget förslag",
+      "link": "https://www.svt.se/nyheter/inrikes/tiden-har-runnit-ut-c-skissar-pa-eget-forslag",
+      "description": "Det ser osannolikt ut att de rödgröna partierna ska hinna få ihop en gemensam budget – som MP har önskat. Nu förbereder sig Centerpartiet på att lägga in ett eget förslag. – C är naturligtvis fria att göra precis som de vill, men det vore bättre om vi hade kommit framåt i förhandlingar, säger MP-toppen Janine Alm Ericson.",
+      "pubDate": "2026-10-20T11:06:46Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
       ]
     }
   ],
