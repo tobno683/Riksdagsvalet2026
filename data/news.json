@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T21:03:38.198066Z",
+  "updated_at": "2026-10-25T23:22:59.531313Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -85,6 +85,18 @@
       "pubDate": "2026-10-25T20:45:48Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Politiskt jordskalv i Serbien – Vucic erkänner sig besegrad",
+      "link": "https://www.sverigesradio.se/artikel/9328157",
+      "description": "Aleksandar Vucic och hans nationalistiska regeringsparti SNS erkänner nederlag i parlamentsvalet i Serbien, rapporterar AFP. ”Historiskt ögonblick, Vucic har haft makten i 14 år”, det säger vår Östeuropakorrespondent, Henrik Damberg. Rättelse: Tidigare sades att Vucic är sittande president i Serbien. Det är fel. Rätt är att han avgick som president för några veckor sedan.",
+      "pubDate": "2026-10-25T20:38:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
@@ -253,18 +265,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "Tiden har ”runnit ut” – C skissar på eget förslag",
-      "link": "https://www.svt.se/nyheter/inrikes/tiden-har-runnit-ut-c-skissar-pa-eget-forslag",
-      "description": "Det ser osannolikt ut att de rödgröna partierna ska hinna få ihop en gemensam budget – som MP har önskat. Nu förbereder sig Centerpartiet på att lägga in ett eget förslag. – C är naturligtvis fria att göra precis som de vill, men det vore bättre om vi hade kommit framåt i förhandlingar, säger MP-toppen Janine Alm Ericson.",
-      "pubDate": "2026-10-20T11:06:46Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     }
   ],
