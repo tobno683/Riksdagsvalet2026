@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T15:08:37.169971Z",
+  "updated_at": "2026-10-25T18:29:01.646746Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Spelet bakom unika regionstyret i Stockholm: ”Ett riktigt fint köttben”",
+      "link": "https://www.dn.se/sverige/spelet-bakom-unika-regionstyret-i-stockholm-ett-riktigt-fint-kottben/",
+      "description": "Centern jublar och Socialdemokraterna ger bort sjukvården till KD. Det nya unika styret i Sveriges största region går helt på tvärs med blockgränserna i rikspolitiken. – Det är ett riktigt fint köttben, säger statsvetaren Magnus Hagevi.",
+      "pubDate": "2026-10-25T16:12:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Insändare. Hade tonläget varit lika hårt om Ali hetat Andersson?",
       "link": "https://www.dn.se/insandare/hade-tonlaget-varit-lika-hart-om-ali-hetat-andersson/",
@@ -253,19 +265,6 @@
       "topics": [
         "SD"
       ]
-    },
-    {
-      "title": "Förbud mot bensin- och dieselbilar kan rivas upp – trots svenskt motstånd",
-      "link": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand",
-      "description": "Nya bensin- och dieselbilar kan få fortsätta säljas efter 2035 – efter en uppgörelse i EU-parlamentet mellan bland annat socialdemokrater och moderater. Men S i Sverige tycker att uppgörelsen är dålig. – Vi svenska socialdemokrater är ju starkt kritiska till det här, säger Åsa Westlund.",
-      "pubDate": "2026-10-21T14:27:34Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
     }
   ],
   "blogs": [
@@ -315,19 +314,6 @@
       "sourceType": "blog",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "S säkerhetspolitiska doktrin: Lämna Kreml ifred",
-      "link": "https://ledarsidorna.se/s-sakerhetspolitiska-doktrin-lamna-kreml-ifred/",
-      "description": "Magdalena Anderssons spontana kritik mot det svenska engagemanget i Östersjöregionen i en intervju i Politico fick i sig stark kritik. Det fokus som regeringen Kristersson satt vill Kreml av lätt insedda och historiska skäl skall upphöra. Med socialdemokraternas kritik mot ett säkerhetspolitiskt fokus på det svenska närområdet formadess en socialdemokratisk säkerhetspolitisk doktrin som har djupa [&#8230;]",
-      "pubDate": "2026-10-16T22:06:00Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "M"
       ]
     }
   ],
