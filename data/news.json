@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T01:24:07.190905Z",
+  "updated_at": "2026-10-26T06:30:45.238166Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,30 @@
     }
   ],
   "news": [
+    {
+      "title": "Ledare: Regeringsbildningen är inte bara en såpopera – svenska folket har röstat för ny sakpolitik",
+      "link": "https://www.dn.se/ledare/regeringsbildningen-ar-inte-bara-en-sapopera-svenska-folket-har-rostat-for-ny-sakpolitik/",
+      "description": "När politiken reduceras till skådespel är det viktigt att minnas att valet handlade om sakpolitik.",
+      "pubDate": "2026-10-26T05:19:57Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Uppsala och Stockholm testar maxinkomst för att hyresgäster",
+      "link": "https://www.sverigesradio.se/artikel/9325790",
+      "description": "Uppsalahem inför maxinkomst för vissa lägenheter i attraktiva områden för att minska segregationen och skapa en mer blandad stad. Försöket gäller knappt 40 lägenheter i Uppsala, där den sökande måste tjäna under 24 400 kronor i månaden före skatt, En liknande modell finns hos Svenska bostäder i Stockholm medan Örebrobostäder visar intresse. ”Målet är att minska segregationen”, säger Elnaz Alizadeh (S), ordf i Uppsalahem. Moderaterna är kritiska till förslaget.",
+      "pubDate": "2026-10-26T05:13:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
     {
       "title": "Mikael Damberg: ”Kommer inte hinna få ihop en budget”",
       "link": "https://www.expressen.se/nyheter/politik/mikael-damberg-kommer-inte-hinna-fa-ihop-en-budget/",
@@ -241,34 +265,21 @@
         "M",
         "V"
       ]
-    },
-    {
-      "title": "Källor till SVT: Jomshofs uttalanden problematiska",
-      "link": "https://www.svt.se/nyheter/inrikes/kallor-till-svt-jomshofs-uttalanden-problematiska",
-      "description": "Vad är svenskhet? Frågan har splittrat Sverigedemokraterna på senare tid – och en het debatt har brutit ut. En person som utmanat partiets hållning är Richard Jomshof (SD). Flera personer ur partistyrelsen menar nu att uttalanden i frågan är problematiska, enligt SVT Nyheters källor.",
-      "pubDate": "2026-10-21T16:48:40Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Förbud mot bensin- och dieselbilar kan rivas upp – trots svenskt motstånd",
-      "link": "https://www.svt.se/nyheter/inrikes/forbudet-kan-rivas-upp-trots-svenskt-motstand",
-      "description": "Nya bensin- och dieselbilar kan få fortsätta säljas efter 2035 – efter en uppgörelse i EU-parlamentet mellan bland annat socialdemokrater och moderater. Men S i Sverige tycker att uppgörelsen är dålig. – Vi svenska socialdemokrater är ju starkt kritiska till det här, säger Åsa Westlund.",
-      "pubDate": "2026-10-21T14:27:34Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Svenskarna röstade för en annan politik",
+      "link": "https://blog.zaramis.se/2026/10/26/svenskarna-rostade-for-en-annan-politik/",
+      "description": "Svenskarna röstade för en annan politik men C och S tycks inte vilja acceptera det. Socialdemokraternas Magdalena Andersson fick möjlighet att försöka bilda regering två gånger. Hon och sossarna gjorde inte ett enda ordentlig försök. Inte ett enda ordentligt försök att bilda en regering. Läs mer … Inlägget Svenskarna röstade för en annan politik dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-10-26T06:20:49Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Centern förfalskar sin egen historia",
       "link": "https://blog.zaramis.se/2026/10/25/centern-forfalskar-sin-egen-historia/",
