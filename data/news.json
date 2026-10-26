@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:40:10.669772Z",
+  "updated_at": "2026-10-26T19:37:27.655018Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,151 @@
   ],
   "news": [
     {
+      "title": "Martin Ådahl (C): Vi försöker verkligen vara konstruktiva",
+      "link": "https://www.sverigesradio.se/artikel/9328849",
+      "description": "Martin Ådahl, ekonomiskpolitisk talesperson för Centerpartiet, bemöter i Studio Ett reaktionerna om att C borde släppa taget om idén om en mittenregering, efter Elisabeth Thand Ringqvists sonderingsuppdrag misslyckats. Enligt Ådahl är det inte aktuellt för Centerpartiet att släppa sina röda linjer mot V och SD. ”Där finns inte den här sakgemenskapen på samma sätt”, säger han.",
+      "pubDate": "2026-10-26T17:56:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Nu har både C och V tröttnat på Andersson",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-nu-har-bade-c-och-v-trottnat-pa-andersson/",
+      "description": "Centern spelar ett högt spel i regeringsfrågan. Trots att de andra partierna återigen släckt Elisabeth Thand Ringqvists hopp om en mittenregering trappar Centerledaren upp striden mot Vänsterpartiet. Socialdemokraterna kan inte längre hoppas att V och C självmant ska backa från sina krav.",
+      "pubDate": "2026-10-26T17:08:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "SD-topparna i öppet ordbråk om svenskhet",
+      "link": "https://www.expressen.se/nyheter/politik/sd-topparna-i-oppet-ordbrak-om-svenskhet/",
+      "description": "Vad gör en person svensk?&nbsp; Bråket inom Sverigedemokraterna om den saken fortsätter.&nbsp; SD-topparna Mattias Karlsson och Richard Jomshof går hårt åt varandra på Facebook. ”Vedervärdig hållning”, skriver Karlsson om Jomshofs syn på svenskhet.&nbsp; En partikälla tror att striden avgörs inom de närmaste veckorna.&nbsp;",
+      "pubDate": "2026-10-26T16:53:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "”Centern börjar ruttna på Socialdemokraterna”",
+      "link": "https://www.dn.se/podd/alskade-politik/centern-borjar-ruttna-pa-socialdemokraterna/",
+      "description": "Har C-ledaren verkligen begravt sin mittendröm – eller gäller det bara ”just nu”? Elisabeth Thand-Ringqvist har gett tillbaka sitt sonderingsuppdrag till talmannen. Men hände någonting alls under hennes vecka av samtal?",
+      "pubDate": "2026-10-26T16:13:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "S vill ha omröstning om Ulf Kristersson (M)",
+      "link": "https://www.sverigesradio.se/artikel/9328744",
+      "description": "C-ledaren Elisabeth Thand Ringqvist har gett upp försöket att få till en majoritet för en mittenregering, nu borde riksdagen rösta om Ulf Kristersson, säger S vice gruppledare Anders Ygeman. Det är partiernas olika låsningar och krav som omöjliggör en mittenregering, sa Thand Ringqvist på en presskonferens under måndagen. Anders Ygeman tycker att både Centern och Vänsterpartiet nu måste släppa sina röda linjer för att göra en ny regering möjlig.",
+      "pubDate": "2026-10-26T15:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Fortfarande hemligt vilka S vill regera med: ”Fel läge”",
+      "link": "https://www.svt.se/nyheter/inrikes/fortfarande-hemligt-vilka-s-vill-regera-med-fel-lage",
+      "description": "C-ledaren Elisabeth Thand Ringqvist vill att S berättar vilka partier de vill bilda regering med. Men S-toppen Anders Ygeman tycker inte att partiet behöver svara. – Det här är fel läge att dra upp nya röda linjer och skriva nya önskelistor, säger han.",
+      "pubDate": "2026-10-26T15:25:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Vilken roll kan de arabiska partierna spela?",
+      "link": "https://www.sverigesradio.se/artikel/9328508",
+      "description": "På tisdag den 27 oktober går Israel till val. De arabiska partierna kan spela en stor roll i det israeliska valet, trots att ingen vill ha något med dem att göra, menar Sveriges Radios Mellanösternkorrespondent Samar Hadrous. ”Oppositionen kan hamna i dilemma att behöva de arabiska partiernas stöd för att avsätta Netanyahu”, säger hon.",
+      "pubDate": "2026-10-26T15:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Så kan kriget i Gaza påverka valet",
+      "link": "https://www.sverigesradio.se/artikel/9327099",
+      "description": "På tisdag den 27 oktober går Israel till val. Sveriges Radios Mellanösternkorrespondent Samar Hadrous går genom de viktigaste frågorna inför det israeliska valet, där 7 oktober-attacken är en stor fråga. ”Kritikerna menar att de som ska granskas får välja sina egna granskare”, säger hon.",
+      "pubDate": "2026-10-26T15:01:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Israeliska valets viktigaste frågor",
+      "link": "https://www.sverigesradio.se/artikel/9327086",
+      "description": "På tisdag den 27 oktober går Israel till val. Sveriges Radios Mellanösternkorrespondent Samar Hadrous går genom de viktigaste frågorna inför det israeliska valet. ”Många bedömare beskriver valet som en folkomröstning om Netanyahu”, säger korrespondenten.",
+      "pubDate": "2026-10-26T15:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Mohamed Ali om skulderna: ”Jag var helt ärlig”",
+      "link": "https://www.dn.se/sverige/vs-mohamed-ali-om-skulderna-jag-var-helt-arlig/",
+      "description": "Vänsterpartiets kryssraket Mohamed Ali säger att han varit öppen med sina många skulder i kontakten med partiet. På frågan om någon försökt få honom att avstå riksdagsplatsen är han fåordig. – Det där vill jag inte kommentera, säger han till DN.",
+      "pubDate": "2026-10-26T14:55:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Irritationen växer –  frustrerat inom S",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/irritationen-vaxer-frustrerat-inom-s/",
+      "description": "Elisabeth Thand Ringqvist fortsätter drömma om mitten – nu med siktet på den fjärde statsministeromröstningen.&nbsp; Och vad pågår inom Socialdemokraterna? Lyssna på ”Politikrummet”.",
+      "pubDate": "2026-10-26T14:50:22Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kristersson om misstänkta könsstympningen: ”Övergrepp”",
+      "link": "https://www.expressen.se/nyheter/sverige/kristersson-om-misstankta-konsstympningen-overgrepp/",
+      "description": "En man är anhållen för grov misshandel i Uppsala. Enligt flera medier rör det sig om misstänkt könsstympning. Nu reagerar statsministern på uppgifterna.&nbsp; ”Fruktansvärda uppgifter” skriver Ulf Kristersson.&nbsp;",
+      "pubDate": "2026-10-26T14:10:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Insändare. Valen i Brasilien och Serbien bör inspirera Sverige",
       "link": "https://www.dn.se/insandare/valen-i-brasilien-och-serbien-bor-inspirera-sverige/",
       "description": "INSÄNDARE. Två ljus i den politiska tunneln tändes i helgen – i Sydamerikas största land och det som varit det mest ryssvänliga europeiska. Borde inte våra ledande politiker i vinnarlaget efter det svenska valet kunna följa folkviljan likt den som uppstod i Brasilien och Serbien? frågar den tidigare S-ministern Pierre Schori.",
@@ -110,152 +255,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Gissén efter C-ledarens misslyckande: ”Det har vi vetat väldigt länge”",
-      "link": "https://www.sverigesradio.se/artikel/9328287",
-      "description": "”Att det inte gick att få till en mittenregering, det har vi vetat väldigt länge” säger Ekots inrikespolitiska kommentator Helena Gissén efter beskedet från Elisabeth Thand Ringqvist. På måndagen träffade Centerpartiets ledare Thand Ringqvist talmannen Andreas Norlén och meddelade att hon misslyckats med uppdraget att sondera för en regering med stöd av mittenpartierna i riksdagen. Centerledaren verkar dock inte helt ha övergivit förhoppningen, menar Helena Gissén.",
-      "pubDate": "2026-10-26T10:50:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "C-ledaren: ”Ingen majoritet för en mittenregering”",
-      "link": "https://www.dn.se/sverige/c-ledaren-ingen-majoritet-for-en-mittenregering/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist misslyckades med att få ihop en regering. Hon begraver för tillfället sitt så kallade mittenalternativ men utesluter inte att det återuppstår längre fram. – Vid en fjärde omröstning skulle ett mittenalternativ vara möjligt, säger Elisabeth Thand Ringqvist.",
-      "pubDate": "2026-10-26T10:31:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Vad undrar du om regeringsbildandet?",
-      "link": "https://www.expressen.se/nyheter/politik/vad-undrar-du-om-regeringsbildandet/",
-      "description": "Elisabeth Thand Ringqvist har kommit med sitt besked: Min övergripande slutsats är att det finns en majoritet för en mittenpolitik men inte för en mittenregering.&nbsp; Frågorna är många om regeringsbildandet. Här är Max V Karlssons svar på läsarnas frågor.",
-      "pubDate": "2026-10-26T10:11:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Elisabeth Thand Ringqvist (C): Finns ingen majoritet för en mittenregering",
-      "link": "https://www.sverigesradio.se/artikel/9328262",
-      "description": "På måndagen träffade Centerpartiets ledare Elisabeth Thand Ringqvist talmannen Andreas Norlén. ”Samtalen har visat att det finns gemensamma utgångspunkter som skulle kunna ge gemensamma lösningar. Men det finns ingen majoritet för en mittenregering”, säger Thand Ringqvist . När hon fick en fråga om idén om mittenregering nu kan begravas svararde Centerledaren: ”Just nu kan vi begrava det”.",
-      "pubDate": "2026-10-26T10:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Skyttarna laddar inför VM – men riktar siktet mot OS",
-      "link": "https://www.dn.se/sport/skyttarna-laddar-infor-vm-men-riktar-siktet-mot-os/",
-      "description": "Den 2–14 november kommer det att skjutas för fullt i Doha, Qatar. Då avgörs nämligen VM i skytte. De svenska luftgevärsskyttarna Jesper Johansson och Victor Lindgren hoppas på medaljer, men det är inte tävlingens högsta pris. De första kvotplatserna för OS 2028 är vad man är ute efter. – Medaljen är sekundär, säger Lindgren.",
-      "pubDate": "2026-10-26T09:11:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist: Inget stöd för mittenregering",
-      "link": "https://www.expressen.se/nyheter/politik/elisabeth-thand-ringqvist-ger-besked-till-talmannen/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist ger upp. Det finns inget stöd för den mittenregering hon vill se. – Partiernas röda linjer mot varandra begränsar möjligheterna, säger hon. Talmannen kommer nu att ta kontakt med partierna igen.",
-      "pubDate": "2026-10-26T09:04:41Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "I dag presenterar Thand Ringqvist (C) sitt sonderingsuppdrag",
-      "link": "https://www.svt.se/nyheter/inrikes/i-dag-presenterar-thand-ringqvist-c-sitt-sonderingsuppdrag",
-      "description": "Centerledaren har haft sedan förra måndagen på sig att sondera möjligheterna till att bilda en regering. I dag klockan 10 rapporterar Elisabeth Thand Ringqvist tillbaka till talmannen om hur det har gått.",
-      "pubDate": "2026-10-26T07:04:38Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Kalena: Demokratin är alltid fylld av skräck i USA",
-      "link": "https://www.dn.se/kultur/kalena-demokratin-ar-alltid-fylld-av-skrack-i-usa/",
-      "description": "Kalena tänker med fasa på det kommande mellanårsvalet i USA. I Sverige blandas i stället regeringsbildningen med julpynt.",
-      "pubDate": "2026-10-26T06:30:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Uppsala och Stockholm testar maxinkomst för att hyresgäster",
-      "link": "https://www.sverigesradio.se/artikel/9325790",
-      "description": "Uppsalahem inför maxinkomst för vissa lägenheter i attraktiva områden för att minska segregationen och skapa en mer blandad stad. Försöket gäller knappt 40 lägenheter i Uppsala, där den sökande måste tjäna under 24 400 kronor i månaden före skatt, En liknande modell finns hos Svenska bostäder i Stockholm medan Örebrobostäder visar intresse. ”Målet är att minska segregationen”, säger Elnaz Alizadeh (S), ordf i Uppsalahem. Moderaterna är kritiska till förslaget.",
-      "pubDate": "2026-10-26T05:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Spelet bakom unika regionstyret i Stockholm: ”Ett riktigt fint köttben”",
-      "link": "https://www.dn.se/sverige/spelet-bakom-unika-regionstyret-i-stockholm-ett-riktigt-fint-kottben/",
-      "description": "Centern jublar och Socialdemokraterna ger bort sjukvården till KD. Det nya unika styret i Sveriges största region går helt på tvärs med blockgränserna i rikspolitiken. – Det är ett riktigt fint köttben, säger statsvetaren Magnus Hagevi.",
-      "pubDate": "2026-10-25T16:12:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Insändare. Hade tonläget varit lika hårt om Ali hetat Andersson?",
-      "link": "https://www.dn.se/insandare/hade-tonlaget-varit-lika-hart-om-ali-hetat-andersson/",
-      "description": "INSÄNDARE. Om vi tillåter att mediala folkdomstolar skrämmer bort folkvalda som Mohamed Ali (V) underminerar vi i förlängningen valresultatet. Det är dags att rannsaka hyckleriet kring personvalen och acceptera folkviljan, skriver Fahimeh Nordborg, vänsterpartist och regionpolitiker i Västra Götaland.",
-      "pubDate": "2026-10-25T08:09:29Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Mats Knutson: Därför kan inte C släppa den röda linjen mot SD",
-      "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-darfor-kan-inte-c-slappa-den-roda-linjen-mot-sd",
-      "description": "Centerpartiet håller fast vid sin röda linje mot Sverigedemokraterna. Det har partiledaren Elisabeth Thand Ringqvist upprepat flera gånger under veckan. Men varför sitter SD-motståndet så hårt inom C? – Det finns tre skäl, säger SVT:s inrikespolitiske kommentator Mats Knutson.",
-      "pubDate": "2026-10-25T04:38:41Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
         "C"
       ]
     }
@@ -335,6 +334,32 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "”Centern börjar ruttna på Socialdemokraterna”",
+      "link": "https://pod.space/alskadepolitik/centern-borjar-ruttna-pa-socialdemokraterna",
+      "description": "Har C-ledaren verkligen begravt sin mittendröm – eller gäller det bara ”just nu”? Elisabeth Thand-Ringqvist har gett tillbaka sitt sonderingsuppdrag till talmannen. Men hände någonting alls under hennes vecka av samtal?",
+      "pubDate": "2026-10-26T16:13:12Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "327. Då avgår Andersson",
+      "link": "https://pod.space/politikrummet/327-da-avgar-andersson",
+      "description": "Elisabeth Thand Ringqvist fortsätter drömma om mitten – nu med siktet på den fjärde statsministeromröstningen. I riksdagens poddstudio: Filippa Rogvall, Anette Holmqvist och Max V Karlsson. Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-10-26T14:04:19Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Veckopanelen: Grundlagen är som ett skruvstäd",
       "link": "https://pod.space/kvartal/veckopanelen-grundlagen-ar-som-ett-skruvstad",
@@ -507,31 +532,6 @@
       "sourceType": "podcast",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Vilka ”hemliga krav” har Andersson på V?",
-      "link": "https://pod.space/kvartal/kvartal-idag-vilka-hemliga-krav-har-andersson-pa-v",
-      "description": "Payam Moula om S-ledarens lista. Nya anfall efter Trumps ”energivapenvila”. Elever på Sigtuna tvingades slicka golvet. Och är det för sent för en rödgrön budget? Programledare Cassandra Alm.",
-      "pubDate": "2026-10-14T14:05:58Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Är Anderssons misslyckande Kristerssons chans?",
-      "link": "https://pod.space/alskadepolitik/ar-anderssons-misslyckande-kristerssons-chans",
-      "description": "Socialdemokraternas ledare lyckades inte med sonderingsuppdraget. Men ska ändå ställas inför omröstning. Vem tar över sen – blir det Ulf Kristersson? Har vi en regering innan jul? Och vem styr egentligen Sverige under tiden?",
-      "pubDate": "2026-10-13T14:12:36Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M"
       ]
     }
   ]
