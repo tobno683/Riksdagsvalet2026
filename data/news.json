@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T06:30:45.238166Z",
+  "updated_at": "2026-10-26T13:40:10.669772Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,10 +79,129 @@
   ],
   "news": [
     {
-      "title": "Ledare: Regeringsbildningen är inte bara en såpopera – svenska folket har röstat för ny sakpolitik",
-      "link": "https://www.dn.se/ledare/regeringsbildningen-ar-inte-bara-en-sapopera-svenska-folket-har-rostat-for-ny-sakpolitik/",
-      "description": "När politiken reduceras till skådespel är det viktigt att minnas att valet handlade om sakpolitik.",
-      "pubDate": "2026-10-26T05:19:57Z",
+      "title": "Insändare. Valen i Brasilien och Serbien bör inspirera Sverige",
+      "link": "https://www.dn.se/insandare/valen-i-brasilien-och-serbien-bor-inspirera-sverige/",
+      "description": "INSÄNDARE. Två ljus i den politiska tunneln tändes i helgen – i Sydamerikas största land och det som varit det mest ryssvänliga europeiska. Borde inte våra ledande politiker i vinnarlaget efter det svenska valet kunna följa folkviljan likt den som uppstod i Brasilien och Serbien? frågar den tidigare S-ministern Pierre Schori.",
+      "pubDate": "2026-10-26T12:26:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "C-ledaren: ”Inget stöd för en mittenregering”",
+      "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-inget-stod-for-en-mittenregering",
+      "description": "Elisabeth Thand Ringqvist (C) säger att hoppet om en mittenregering för tillfället kan begravas. Nu är det upp till de andra partierna att göra något åt sina röda linjer, säger C-ledaren. – Det vore bra om Socialdemokraterna sa vilken regering man vill se.",
+      "pubDate": "2026-10-26T11:37:12Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Ledare: Hånet mot Centern säger mycket – men inget om Centern",
+      "link": "https://www.dn.se/ledare/hanet-mot-centern-sager-mycket-men-inget-om-centern/",
+      "description": "Centerpartiet beskylls för röda linjer och att inte sätta sakpolitiken först. Som om detta inte främst gällde de andra partierna.",
+      "pubDate": "2026-10-26T11:31:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Gissén efter C-ledarens misslyckande: ”Det har vi vetat väldigt länge”",
+      "link": "https://www.sverigesradio.se/artikel/9328287",
+      "description": "”Att det inte gick att få till en mittenregering, det har vi vetat väldigt länge” säger Ekots inrikespolitiska kommentator Helena Gissén efter beskedet från Elisabeth Thand Ringqvist. På måndagen träffade Centerpartiets ledare Thand Ringqvist talmannen Andreas Norlén och meddelade att hon misslyckats med uppdraget att sondera för en regering med stöd av mittenpartierna i riksdagen. Centerledaren verkar dock inte helt ha övergivit förhoppningen, menar Helena Gissén.",
+      "pubDate": "2026-10-26T10:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "C-ledaren: ”Ingen majoritet för en mittenregering”",
+      "link": "https://www.dn.se/sverige/c-ledaren-ingen-majoritet-for-en-mittenregering/",
+      "description": "C-ledaren Elisabeth Thand Ringqvist misslyckades med att få ihop en regering. Hon begraver för tillfället sitt så kallade mittenalternativ men utesluter inte att det återuppstår längre fram. – Vid en fjärde omröstning skulle ett mittenalternativ vara möjligt, säger Elisabeth Thand Ringqvist.",
+      "pubDate": "2026-10-26T10:31:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Vad undrar du om regeringsbildandet?",
+      "link": "https://www.expressen.se/nyheter/politik/vad-undrar-du-om-regeringsbildandet/",
+      "description": "Elisabeth Thand Ringqvist har kommit med sitt besked: Min övergripande slutsats är att det finns en majoritet för en mittenpolitik men inte för en mittenregering.&nbsp; Frågorna är många om regeringsbildandet. Här är Max V Karlssons svar på läsarnas frågor.",
+      "pubDate": "2026-10-26T10:11:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Elisabeth Thand Ringqvist (C): Finns ingen majoritet för en mittenregering",
+      "link": "https://www.sverigesradio.se/artikel/9328262",
+      "description": "På måndagen träffade Centerpartiets ledare Elisabeth Thand Ringqvist talmannen Andreas Norlén. ”Samtalen har visat att det finns gemensamma utgångspunkter som skulle kunna ge gemensamma lösningar. Men det finns ingen majoritet för en mittenregering”, säger Thand Ringqvist . När hon fick en fråga om idén om mittenregering nu kan begravas svararde Centerledaren: ”Just nu kan vi begrava det”.",
+      "pubDate": "2026-10-26T10:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Skyttarna laddar inför VM – men riktar siktet mot OS",
+      "link": "https://www.dn.se/sport/skyttarna-laddar-infor-vm-men-riktar-siktet-mot-os/",
+      "description": "Den 2–14 november kommer det att skjutas för fullt i Doha, Qatar. Då avgörs nämligen VM i skytte. De svenska luftgevärsskyttarna Jesper Johansson och Victor Lindgren hoppas på medaljer, men det är inte tävlingens högsta pris. De första kvotplatserna för OS 2028 är vad man är ute efter. – Medaljen är sekundär, säger Lindgren.",
+      "pubDate": "2026-10-26T09:11:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist: Inget stöd för mittenregering",
+      "link": "https://www.expressen.se/nyheter/politik/elisabeth-thand-ringqvist-ger-besked-till-talmannen/",
+      "description": "C-ledaren Elisabeth Thand Ringqvist ger upp. Det finns inget stöd för den mittenregering hon vill se. – Partiernas röda linjer mot varandra begränsar möjligheterna, säger hon. Talmannen kommer nu att ta kontakt med partierna igen.",
+      "pubDate": "2026-10-26T09:04:41Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "I dag presenterar Thand Ringqvist (C) sitt sonderingsuppdrag",
+      "link": "https://www.svt.se/nyheter/inrikes/i-dag-presenterar-thand-ringqvist-c-sitt-sonderingsuppdrag",
+      "description": "Centerledaren har haft sedan förra måndagen på sig att sondera möjligheterna till att bilda en regering. I dag klockan 10 rapporterar Elisabeth Thand Ringqvist tillbaka till talmannen om hur det har gått.",
+      "pubDate": "2026-10-26T07:04:38Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Kalena: Demokratin är alltid fylld av skräck i USA",
+      "link": "https://www.dn.se/kultur/kalena-demokratin-ar-alltid-fylld-av-skrack-i-usa/",
+      "description": "Kalena tänker med fasa på det kommande mellanårsvalet i USA. I Sverige blandas i stället regeringsbildningen med julpynt.",
+      "pubDate": "2026-10-26T06:30:00Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -100,30 +219,6 @@
       "sourceType": "news",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Mikael Damberg: ”Kommer inte hinna få ihop en budget”",
-      "link": "https://www.expressen.se/nyheter/politik/mikael-damberg-kommer-inte-hinna-fa-ihop-en-budget/",
-      "description": "De rödgröna partierna kommer inte presentera en gemensam budget till den 12 november. Det säger Mikael Damberg i SVT:s Agenda .&nbsp; – Det är nästan omöjligt, säger han.&nbsp;",
-      "pubDate": "2026-10-25T20:45:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Politiskt jordskalv i Serbien – Vucic erkänner sig besegrad",
-      "link": "https://www.sverigesradio.se/artikel/9328157",
-      "description": "Aleksandar Vucic och hans nationalistiska regeringsparti SNS erkänner nederlag i parlamentsvalet i Serbien, rapporterar AFP. ”Historiskt ögonblick, Vucic har haft makten i 14 år”, det säger vår Östeuropakorrespondent, Henrik Damberg. Rättelse: Tidigare sades att Vucic är sittande president i Serbien. Det är fel. Rätt är att han avgick som president för några veckor sedan.",
-      "pubDate": "2026-10-25T20:38:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -163,111 +258,21 @@
         "SD",
         "C"
       ]
-    },
-    {
-      "title": "Tomas Ramberg: Risken för extraval är överskattad",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-risken-for-extraval-ar-overskattad/",
-      "description": "Extraval är ordet för dagen i den svenska politiken. Från höger växer hoppet – från vänster skräcken – för att regeringsbildningen ska krascha. Men ett extraval vore ett oöverträffat rekord i politisk klantighet.",
-      "pubDate": "2026-10-24T11:50:07Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Lyssna på väljarna och ta in V i regeringen",
-      "link": "https://www.dn.se/insandare/lyssna-pa-valjarna-och-ta-in-v-i-regeringen/",
-      "description": "INSÄNDARE. Vänsterpartiet gjorde ett historiskt bra val samtidigt som Socialdemokraterna gick historiskt dåligt. Därför är det nu upp till S-ledaren Magdalena Andersson, Centerpartiet och övriga rödgröna partier att lägga prestige åt sidan och hitta en hållbar lösning, skriver Mohibul Ezdani Khan.",
-      "pubDate": "2026-10-24T08:18:22Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "C-ledaren om mötet med Åkesson: ”Står nära varandra i vissa frågor”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-om-motet-med-akesson-star-nara-varandra-i-vissa-fragor",
-      "description": "C-ledaren Elisabeth Thand Ringqvist har nu träffat alla partiledare – inklusive Jimmie Åkesson. Efter mötet säger hon att den röda linjen mot SD ligger fast, men att det finns vissa likheter mellan C och SD. – Det var ett uppriktigt och bra samtal, säger Elisabeth Thand Ringqvist (C) till SVT.",
-      "pubDate": "2026-10-23T14:46:42Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. Ge oss en smal mittenregering som leds av Busch",
-      "link": "https://www.dn.se/insandare/ge-oss-en-smal-mittenregering-som-leds-av-busch/",
-      "description": "INSÄNDARE. Sverige behöver en betydligt mer pragmatisk regeringsbildning – och det är dags att börja med det nu. KD-ledaren Ebba Busch som statsminister i en minoritetsregering med Centerpartiet och Liberalerna skulle ha möjlighet att tolereras av en majoritet av riksdagen, skriver liberalen J Pingo Lindström.",
-      "pubDate": "2026-10-23T12:22:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "KD",
-        "L",
-        "MP",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ebba Busch (KD) om minskade klimatkrav: ”Idiotiskt”",
-      "link": "https://www.svt.se/nyheter/inrikes/ebba-busch-kd-om-minskade-klimatkrav-pa-bilar-idiotiskt",
-      "description": "Avgående näringsminister Ebba Busch (KD) beklagar sparpaketet från Volvo Cars. Nu varnar hon för att minskade klimatambitioner i EU kan slå hårt mot svenska företag. – I grunden är det idiotiskt, säger hon.",
-      "pubDate": "2026-10-23T12:14:31Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Insändare. C-ledaren bör lyssna på väljarna och förbjuda vinster",
-      "link": "https://www.dn.se/insandare/c-ledaren-bor-lyssna-pa-valjarna-och-forbjuda-vinster/",
-      "description": "INSÄNDARE. Regeringssonderaren Elisabeth Thand Ringqvist bör sätta sina privata ägarintressen åt sidan i frågan om vinster i välfärden. Varför följer partiledaren inte den uppfattning som en majoritet av Centerpartiets väljare har uttryckt? frågar sig Iwan Langermo.",
-      "pubDate": "2026-10-23T08:27:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Migrationsverket öppnar för att pausa tonårsutvisningar",
-      "link": "https://www.svt.se/nyheter/inrikes/migrationsverket-oppnar-for-att-pausa-tonarsutvisningar",
-      "description": "De rödgröna partierna har enats om vilka som ska omfattas av en stopplag för så kallade tonårsutvisningar. Nu öppnar Migrationsverket för att eventuellt pausa utvisningarna i väntan på ny lagstiftning. – Jag har inte stängt några dörrar, säger Maria Mindhammar, generaldirektör.",
-      "pubDate": "2026-10-22T15:06:46Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "SVT/Verian: Kristersson (M) rusar i förtroende – Dadgostar (V) i botten",
-      "link": "https://www.svt.se/nyheter/inrikes/svtverian-kristersson-m-rusar-i-fortroende-dadgostar-v-i-botten",
-      "description": "Ulf Kristersson (M) får sin bästa notering någonsin i SVT/Verians senaste förtroendemätning för partiledarna. Samtidigt rasar vänsterledaren Nooshi Dadgostar (V).",
-      "pubDate": "2026-10-22T06:24:37Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Sverigedemokraterna, arbetslösheten och de unga männen",
+      "link": "https://blog.zaramis.se/2026/10/26/sverigedemokraterna-arbetslosheten-och-de-unga-mannen/",
+      "description": "Detta är en kommentar till Lovisa Broströms artikel “Högerextremismens ekonomi” ur Brand. Artikeln har rönt välförtjänt uppmärksamhet för att den framhåller en ekonomisk förklaring till att vissa röstar på Sverigedemokraterna. Det handlar om unga män, framför allt utanför storstadsregionerna. Läs mer … Inlägget Sverigedemokraterna, arbetslösheten och de unga männen dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-10-26T07:01:07Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Svenskarna röstade för en annan politik",
       "link": "https://blog.zaramis.se/2026/10/26/svenskarna-rostade-for-en-annan-politik/",
@@ -333,7 +338,7 @@
     {
       "title": "Veckopanelen: Grundlagen är som ett skruvstäd",
       "link": "https://pod.space/kvartal/veckopanelen-grundlagen-ar-som-ett-skruvstad",
-      "description": "Veckopanelen med Lena Mellin, Stefan Stern och Lisa dos Santos under ledning av Staffan Dopping. Centerledaren sonderar för en regering i mitten. Men var finns Sveriges politiska mitten? Liberalernas Simona Mohamsson sätter i Fredagsintervjun tydligt ner foten&nbsp; i regeringsfrågan. Ulf Kristersson seglar uppåt i förtroende i SVT/Verian, medan Nooshi Dadgostar sjunker som en sten. Vänsterpartiets kryssraket Mohamed Ali gjorde till slut entré i riksdagen, men hur gick det när han mötte pressen? I Region Stockholm har liberaler och kristdemokrater gått ihop med socialdemokrater och miljöpartister, och i Frankrike bävar man för nya våldsamheter i helgen.",
+      "description": "Veckopanelen med Lena Mellin, Stefan Stern och Lisa dos Santos under ledning av Staffan Dopping. Centerledaren sonderar för en regering i mitten. Men var finns Sveriges politiska mitten? Liberalernas Simona Mohamsson sätter i Fredagsintervjun tydligt ner foten&nbsp; i regeringsfrågan. Ulf Kristersson seglar uppåt i förtroende i SVT/Verian, medan Nooshi Dadgostar sjunker som en sten. Vänsterpartiets kryssraket Mohamed Ali gjorde till slut entré i riksdagen, men hur gick det när han mötte pressen? I Region Stockholm har liberaler och kristdemokrater gått ihop med socialdemokrater och miljöpartister, och i Frankrike bävar man för nya våldsamheter i helgen. I diskussionen om Vänsterpartiet i Dalarna anges fel namn på den person som missade riksdagsplatsen. Namnet Frida Holmgren nämns, men rätt person är Kajsa Fredholm. Programledaren beklagar felet.",
       "pubDate": "2026-10-24T03:40:00Z",
       "source": "Kvartal",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
