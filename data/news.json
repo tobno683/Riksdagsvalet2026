@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:37:27.655018Z",
+  "updated_at": "2026-10-26T23:25:26.048248Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,31 @@
     }
   ],
   "news": [
+    {
+      "title": "S-profilen: Kristersson (M) blir statsminister",
+      "link": "https://www.expressen.se/nyheter/politik/s-profilen-kristersson-m-blir-statsminister-/",
+      "description": "Ulf Kristersson (M) blir statsminister igen, tror S-profilen Linn Svansbo.&nbsp; Orsaken: de ultimativa kraven från V och C.&nbsp; – Jag tror dessvärre att det är ditåt det barkar, säger hon till Dagens industri. &nbsp;",
+      "pubDate": "2026-10-26T20:25:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Statsvetaren: Nu kan C gå vidare med en plan B",
+      "link": "https://www.expressen.se/nyheter/politik/statsvetaren-nu-kan-c-ga-vidare-med-en-plan-b/",
+      "description": "Det finns inget stöd för en mittenregering.&nbsp; Nu kan Centerpartiet gå vidare med en plan B, säger statsvetaren Andreas Johansson Heinö.&nbsp; – Är det då att gå till vänster, till höger eller extra val? Det är de tre alternativen som återstår.&nbsp; Han utesluter dock inte att partiet hoppas att mittenregeringen ska bli aktuell igen senare i processen.&nbsp;",
+      "pubDate": "2026-10-26T20:24:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
     {
       "title": "Martin Ådahl (C): Vi försöker verkligen vara konstruktiva",
       "link": "https://www.sverigesradio.se/artikel/9328849",
@@ -165,26 +190,6 @@
       "topics": []
     },
     {
-      "title": "Så kan kriget i Gaza påverka valet",
-      "link": "https://www.sverigesradio.se/artikel/9327099",
-      "description": "På tisdag den 27 oktober går Israel till val. Sveriges Radios Mellanösternkorrespondent Samar Hadrous går genom de viktigaste frågorna inför det israeliska valet, där 7 oktober-attacken är en stor fråga. ”Kritikerna menar att de som ska granskas får välja sina egna granskare”, säger hon.",
-      "pubDate": "2026-10-26T15:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Israeliska valets viktigaste frågor",
-      "link": "https://www.sverigesradio.se/artikel/9327086",
-      "description": "På tisdag den 27 oktober går Israel till val. Sveriges Radios Mellanösternkorrespondent Samar Hadrous går genom de viktigaste frågorna inför det israeliska valet. ”Många bedömare beskriver valet som en folkomröstning om Netanyahu”, säger korrespondenten.",
-      "pubDate": "2026-10-26T15:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Mohamed Ali om skulderna: ”Jag var helt ärlig”",
       "link": "https://www.dn.se/sverige/vs-mohamed-ali-om-skulderna-jag-var-helt-arlig/",
       "description": "Vänsterpartiets kryssraket Mohamed Ali säger att han varit öppen med sina många skulder i kontakten med partiet. På frågan om någon försökt få honom att avstå riksdagsplatsen är han fåordig. – Det där vill jag inte kommentera, säger han till DN.",
@@ -194,33 +199,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Irritationen växer –  frustrerat inom S",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/irritationen-vaxer-frustrerat-inom-s/",
-      "description": "Elisabeth Thand Ringqvist fortsätter drömma om mitten – nu med siktet på den fjärde statsministeromröstningen.&nbsp; Och vad pågår inom Socialdemokraterna? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-10-26T14:50:22Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson om misstänkta könsstympningen: ”Övergrepp”",
-      "link": "https://www.expressen.se/nyheter/sverige/kristersson-om-misstankta-konsstympningen-overgrepp/",
-      "description": "En man är anhållen för grov misshandel i Uppsala. Enligt flera medier rör det sig om misstänkt könsstympning. Nu reagerar statsministern på uppgifterna.&nbsp; ”Fruktansvärda uppgifter” skriver Ulf Kristersson.&nbsp;",
-      "pubDate": "2026-10-26T14:10:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
       ]
     },
     {
@@ -247,12 +225,36 @@
       ]
     },
     {
-      "title": "Ledare: Hånet mot Centern säger mycket – men inget om Centern",
-      "link": "https://www.dn.se/ledare/hanet-mot-centern-sager-mycket-men-inget-om-centern/",
-      "description": "Centerpartiet beskylls för röda linjer och att inte sätta sakpolitiken först. Som om detta inte främst gällde de andra partierna.",
-      "pubDate": "2026-10-26T11:31:28Z",
+      "title": "C-ledaren: ”Ingen majoritet för en mittenregering”",
+      "link": "https://www.dn.se/sverige/c-ledaren-ingen-majoritet-for-en-mittenregering/",
+      "description": "C-ledaren Elisabeth Thand Ringqvist misslyckades med att få ihop en regering. Hon begraver för tillfället sitt så kallade mittenalternativ men utesluter inte att det återuppstår längre fram. – Vid en fjärde omröstning skulle ett mittenalternativ vara möjligt, säger Elisabeth Thand Ringqvist.",
+      "pubDate": "2026-10-26T10:31:41Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Skyttarna laddar inför VM – men riktar siktet mot OS",
+      "link": "https://www.dn.se/sport/skyttarna-laddar-infor-vm-men-riktar-siktet-mot-os/",
+      "description": "Den 2–14 november kommer det att skjutas för fullt i Doha, Qatar. Då avgörs nämligen VM i skytte. De svenska luftgevärsskyttarna Jesper Johansson och Victor Lindgren hoppas på medaljer, men det är inte tävlingens högsta pris. De första kvotplatserna för OS 2028 är vad man är ute efter. – Medaljen är sekundär, säger Lindgren.",
+      "pubDate": "2026-10-26T09:11:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "I dag presenterar Thand Ringqvist (C) sitt sonderingsuppdrag",
+      "link": "https://www.svt.se/nyheter/inrikes/i-dag-presenterar-thand-ringqvist-c-sitt-sonderingsuppdrag",
+      "description": "Centerledaren har haft sedan förra måndagen på sig att sondera möjligheterna till att bilda en regering. I dag klockan 10 rapporterar Elisabeth Thand Ringqvist tillbaka till talmannen om hur det har gått.",
+      "pubDate": "2026-10-26T07:04:38Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "C"
