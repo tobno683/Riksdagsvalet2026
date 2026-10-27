@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T02:11:50.438154Z",
+  "updated_at": "2026-10-27T08:04:34.523299Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,18 @@
   ],
   "news": [
     {
+      "title": "\"Stå för att ni är nepobabies!\"",
+      "link": "https://www.dn.se/podd/armstrong-sokolnicki/sta-for-att-ni-ar-nepobabies/",
+      "description": "Amie Bramme Sey vikarierar för Kirsty och undrar om Amanda någonsin stått på barrikaderna med en gatsten i handen. Dessutom: Räkna flintarna mest spännande på Elisabeth Thand Ringqvists pressträff, valet i Brasilien och nepobabies!",
+      "pubDate": "2026-10-27T00:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
       "title": "S-profilen: Kristersson (M) blir statsminister",
       "link": "https://www.expressen.se/nyheter/politik/s-profilen-kristersson-m-blir-statsminister-/",
       "description": "Ulf Kristersson (M) blir statsminister igen, tror S-profilen Linn Svansbo.&nbsp; Orsaken: de ultimativa kraven från V och C.&nbsp; – Jag tror dessvärre att det är ditåt det barkar, säger hon till Dagens industri. &nbsp;",
@@ -130,18 +142,6 @@
       ]
     },
     {
-      "title": "SD-topparna i öppet ordbråk om svenskhet",
-      "link": "https://www.expressen.se/nyheter/politik/sd-topparna-i-oppet-ordbrak-om-svenskhet/",
-      "description": "Vad gör en person svensk?&nbsp; Bråket inom Sverigedemokraterna om den saken fortsätter.&nbsp; SD-topparna Mattias Karlsson och Richard Jomshof går hårt åt varandra på Facebook. ”Vedervärdig hållning”, skriver Karlsson om Jomshofs syn på svenskhet.&nbsp; En partikälla tror att striden avgörs inom de närmaste veckorna.&nbsp;",
-      "pubDate": "2026-10-26T16:53:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
       "title": "”Centern börjar ruttna på Socialdemokraterna”",
       "link": "https://www.dn.se/podd/alskade-politik/centern-borjar-ruttna-pa-socialdemokraterna/",
       "description": "Har C-ledaren verkligen begravt sin mittendröm – eller gäller det bara ”just nu”? Elisabeth Thand-Ringqvist har gett tillbaka sitt sonderingsuppdrag till talmannen. Men hände någonting alls under hennes vecka av samtal?",
@@ -151,20 +151,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "S vill ha omröstning om Ulf Kristersson (M)",
-      "link": "https://www.sverigesradio.se/artikel/9328744",
-      "description": "C-ledaren Elisabeth Thand Ringqvist har gett upp försöket att få till en majoritet för en mittenregering, nu borde riksdagen rösta om Ulf Kristersson, säger S vice gruppledare Anders Ygeman. Det är partiernas olika låsningar och krav som omöjliggör en mittenregering, sa Thand Ringqvist på en presskonferens under måndagen. Anders Ygeman tycker att både Centern och Vänsterpartiet nu måste släppa sina röda linjer för att göra en ny regering möjlig.",
-      "pubDate": "2026-10-26T15:50:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V",
-        "C"
       ]
     },
     {
@@ -178,16 +164,6 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "Vilken roll kan de arabiska partierna spela?",
-      "link": "https://www.sverigesradio.se/artikel/9328508",
-      "description": "På tisdag den 27 oktober går Israel till val. De arabiska partierna kan spela en stor roll i det israeliska valet, trots att ingen vill ha något med dem att göra, menar Sveriges Radios Mellanösternkorrespondent Samar Hadrous. ”Oppositionen kan hamna i dilemma att behöva de arabiska partiernas stöd för att avsätta Netanyahu”, säger hon.",
-      "pubDate": "2026-10-26T15:03:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Mohamed Ali om skulderna: ”Jag var helt ärlig”",
@@ -258,6 +234,30 @@
       "sourceType": "news",
       "topics": [
         "C"
+      ]
+    },
+    {
+      "title": "Kalena: Demokratin är alltid fylld av skräck i USA",
+      "link": "https://www.dn.se/kultur/kalena-demokratin-ar-alltid-fylld-av-skrack-i-usa/",
+      "description": "Kalena tänker med fasa på det kommande mellanårsvalet i USA. I Sverige blandas i stället regeringsbildningen med julpynt.",
+      "pubDate": "2026-10-26T06:30:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Spelet bakom unika regionstyret i Stockholm: ”Ett riktigt fint köttben”",
+      "link": "https://www.dn.se/sverige/spelet-bakom-unika-regionstyret-i-stockholm-ett-riktigt-fint-kottben/",
+      "description": "Centern jublar och Socialdemokraterna ger bort sjukvården till KD. Det nya unika styret i Sveriges största region går helt på tvärs med blockgränserna i rikspolitiken. – Det är ett riktigt fint köttben, säger statsvetaren Magnus Hagevi.",
+      "pubDate": "2026-10-25T16:12:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     }
   ],
@@ -336,6 +336,20 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Under all kritik: Genusforskningens gräddfil hotas från vänster",
+      "link": "https://pod.space/kvartal/under-all-kritik-genusforskningens-graddfil-hotas-fran-vanster",
+      "description": "I Norge vill socialdemokraterna dra undan en av genusforskningens gräddfiler. I Sverige lät Tidöregeringen motsvarigheten vara. Anna-Karin och Ivar talar också om regeringsbildningen, där Centerpartiet tycks tro att samma röda linjer ska ge ett annat resultat.",
+      "pubDate": "2026-10-27T05:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "”Centern börjar ruttna på Socialdemokraterna”",
       "link": "https://pod.space/alskadepolitik/centern-borjar-ruttna-pa-socialdemokraterna",
@@ -522,18 +536,6 @@
         "V",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Sverige drivs närmare ett extra val",
-      "link": "https://pod.space/kvartal/kvartal-idag-sverige-drivs-narmare-ett-extra-val",
-      "description": "Efter Magdalena Anderssons nederlag. Budgetbråk i EU – Sverige sätter emot. Vargjakten kan bli största sedan 2010. Foxprofil försvarar Trumps nya talesperson. Programledare: Cassandra Alm.",
-      "pubDate": "2026-10-15T13:49:04Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S"
       ]
     }
   ]
