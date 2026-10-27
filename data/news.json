@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T08:04:34.523299Z",
+  "updated_at": "2026-10-27T14:43:09.464692Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,22 +79,107 @@
   ],
   "news": [
     {
-      "title": "\"Stå för att ni är nepobabies!\"",
-      "link": "https://www.dn.se/podd/armstrong-sokolnicki/sta-for-att-ni-ar-nepobabies/",
-      "description": "Amie Bramme Sey vikarierar för Kirsty och undrar om Amanda någonsin stått på barrikaderna med en gatsten i handen. Dessutom: Räkna flintarna mest spännande på Elisabeth Thand Ringqvists pressträff, valet i Brasilien och nepobabies!",
-      "pubDate": "2026-10-27T00:00:00Z",
+      "title": "Åtalas för hot mot Dadgostar",
+      "link": "https://www.expressen.se/nyheter/krim/atalas-for-hot-mot-dadgostar/",
+      "description": "En 35-årig kvinna åtalas för att ha hotat V-ledaren Nooshi Dadgostar. ”JAG SKA DÖDA DIG”, skrev hon i ett mejl enligt åtalet.",
+      "pubDate": "2026-10-27T14:25:28Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Finansministern: Då kommer övergångsbudgeten",
+      "link": "https://www.sverigesradio.se/artikel/9329304",
+      "description": "Regeringsförhandlingarna drar ut på tiden och finansminister Elisabeth Svantesson (M) kommer att lägga fram en opolitisk övergångsbudget. Den ska i princip vara en kopia av den senaste budgeten, det vill säga att myndigheterna får lika mycket pengar att jobba med som nu, men med vissa undantag för samhällsviktiga funktioner. Övergångsbudgeten som gäller för år 2027, oavsett om det skulle bildas en ny regering snart. Budgeten kommer läggas fram senast 12 november.",
+      "pubDate": "2026-10-27T13:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "”Röda linjer” vid regeringsbildningar nytt i svensk politik",
+      "link": "https://www.sverigesradio.se/artikel/9329217",
+      "description": "Både Magdalena Andersson (S) och Elisabeth Thand Ringqvist (C) har gett upp försöken att bilda regering och sagt att partiernas låsningar står i vägen. De så kallade röda linjerna i regeringsförhandlingar är relativt nya i svensk politik, säger statsvetarprofessor Tommy Möller. Ett klassiskt exempel på en röd linje som luckrades upp inför de politiska realiteterna&nbsp;var när Centerpartiet i valrörelsen 1976 lovade att stoppa kärnkraften, men fick delvis ändra linje efter valet.",
+      "pubDate": "2026-10-27T12:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Rödgröna måste ta ansvar för att skydda högerns offer",
+      "link": "https://www.dn.se/insandare/rodgrona-maste-ta-ansvar-for-att-skydda-hogerns-offer/",
+      "description": "INSÄNDARE. En Tidö 2.0-regering riskerar att göra klimataktivister, människor med utländsk bakgrund och hbtqi-personer till måltavlor. Skulle de rödgröna politikerna i stället sätta sina egna behov i främsta rummet är det lätt att känna förtvivlan, skriver Gunnar Berggren.",
+      "pubDate": "2026-10-27T12:48:44Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Storstäderna får rödgröna styren – ”Behöver inte ge Magdalena Andersson några råd”",
+      "link": "https://www.dn.se/sverige/storstaderna-far-rodgrona-styren-behover-inte-ge-magdalena-andersson-nagra-rad/",
+      "description": "Malmö höjer skatten men Göteborg och Stockholm ligger still. Samtidigt får stockholmarna behålla tre kronor mer per hundring jämfört med de andra. En sak är dock gemensam: Medan de har svårt att komma överens om regeringsmakten står det klart att S, V och MP ska styra landets tre största städer.",
+      "pubDate": "2026-10-27T11:47:02Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "C"
+        "S"
       ]
     },
     {
-      "title": "S-profilen: Kristersson (M) blir statsminister",
-      "link": "https://www.expressen.se/nyheter/politik/s-profilen-kristersson-m-blir-statsminister-/",
-      "description": "Ulf Kristersson (M) blir statsminister igen, tror S-profilen Linn Svansbo.&nbsp; Orsaken: de ultimativa kraven från V och C.&nbsp; – Jag tror dessvärre att det är ditåt det barkar, säger hon till Dagens industri. &nbsp;",
-      "pubDate": "2026-10-26T20:25:31Z",
+      "title": "Öronmärkta miljoner till kronprinsessans firande",
+      "link": "https://www.svt.se/nyheter/inrikes/oronmarkta-miljoner-till-kronprinsessans-firande",
+      "description": "Regeringen planerar att lägga en övergångsbudget – utan ny politik. Samtidigt skjuter finansministern till öronmärkta pengar till kronprinsessan Victorias 50-årsfirande nästa år. – Stora delar av svenska folket tycker att det är viktigt, säger Elisabeth Svantesson (M).",
+      "pubDate": "2026-10-27T11:34:33Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Vallöften får vänta i budgeten – kronprinsessans firande säkrat",
+      "link": "https://www.dn.se/sverige/valloften-far-vanta-i-budgeten-kronprinsessans-firande-sakrat/",
+      "description": "Den 12 november kommer finansminister Elisabeth Svantesson (M) att lägga fram en övergångsbudget – helt fri från vallöften och ny politik. Men kronprinsessan Victorias 50-årsfirande är säkrat. – Hon fyller 50 en gång, och det är nästa år, så jag tycker att det är helt rimligt, säger Svantesson.",
+      "pubDate": "2026-10-27T11:30:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Bekräftat: Stubb och Støre i samtal med Putin",
+      "link": "https://www.dn.se/varlden/bekraftat-stubb-och-store-i-samtal-med-putin/",
+      "description": "Ledarna från Norge och Finland har pratat med Rysslands president Vladimir Putin i telefon. Det bekräftar den norska statsministerns kansli och Kreml. – Min bild är att alla vill ha fred utom just Putin. Jag har rätt låga förväntningar på den här sortens samtal, säger Sveriges statsminister Ulf Kristersson.",
+      "pubDate": "2026-10-27T09:51:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Putin har pratat med Støre och Stubb",
+      "link": "https://www.expressen.se/nyheter/varlden/putin-har-pratat-med-store-och-stubb/",
+      "description": "Rysslands president Vladimir Putin har pratat med Norges statsminister Jonas Gahr Støre och Finlands president Alexander Stubb. Samtalet får Danmarks statsminister Mette Frederiksen att se rött. – Jag är mycket skeptisk. Det är inte koordinerat med oss andra.&nbsp; Ulf Kristersson (M) ryter ifrån mot Putin.&nbsp; ”Ryssland visar inga tecken på att det är fred de är ute efter, utan snarare underkastelse”. Missa inget om kriget i Ukraina - ladda ned Expressens app här",
+      "pubDate": "2026-10-27T09:38:11Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -104,24 +189,37 @@
       ]
     },
     {
-      "title": "Statsvetaren: Nu kan C gå vidare med en plan B",
-      "link": "https://www.expressen.se/nyheter/politik/statsvetaren-nu-kan-c-ga-vidare-med-en-plan-b/",
-      "description": "Det finns inget stöd för en mittenregering.&nbsp; Nu kan Centerpartiet gå vidare med en plan B, säger statsvetaren Andreas Johansson Heinö.&nbsp; – Är det då att gå till vänster, till höger eller extra val? Det är de tre alternativen som återstår.&nbsp; Han utesluter dock inte att partiet hoppas att mittenregeringen ska bli aktuell igen senare i processen.&nbsp;",
-      "pubDate": "2026-10-26T20:24:40Z",
+      "title": "Kristersson om Putin-samtalet: Ryssland är inte ute efter fred",
+      "link": "https://www.sverigesradio.se/artikel/9329099",
+      "description": "Norges statsminister Jonas Gahr Støre och Finlands president Alexander Stubb har pratat med Rysslands president Vladimir Putin, om kriget i Ukraina och kommande fredsförhandlingar. ”Tittar vi på vad det är som Ryssland nu gör på marken varje dag så tycker jag inte att det finns någonting som antyder att det är fred de är ute efter”, säger statsminister Ulf Kristersson (M) om samtalet. Danmarks statsminister Mette Fredriksen säger till danska TV2 att hon är ”mycket skeptisk till det norska och finska initiativet”.",
+      "pubDate": "2026-10-27T09:29:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "SD-toppen: Återkalla Mohamed Alis medborgarskap",
+      "link": "https://www.expressen.se/nyheter/sverige/sd-toppen-aterkalla-mohamed-alis-medborgarskap/",
+      "description": "SD har tidigare sagt att V-ledamoten Mohamed Ali ”inte hör hemma i Sverige”. Nu tycker SD-profilen Tobias Andersson att hans medborgarskap ska återkallas. ”Mohamed Ali är inte svensk för att han fick medborgarskap i februari”, skriver han på X. ”Det är tyvärr ingen nyhet att SD är ett rasistiskt parti med syfte att sprida hat mot personer som har annan bakgrund än svensk”, svarar V:s gruppledare Samuel Gonzalez Westling.",
+      "pubDate": "2026-10-27T09:26:03Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "C"
+        "S"
       ]
     },
     {
-      "title": "Martin Ådahl (C): Vi försöker verkligen vara konstruktiva",
-      "link": "https://www.sverigesradio.se/artikel/9328849",
-      "description": "Martin Ådahl, ekonomiskpolitisk talesperson för Centerpartiet, bemöter i Studio Ett reaktionerna om att C borde släppa taget om idén om en mittenregering, efter Elisabeth Thand Ringqvists sonderingsuppdrag misslyckats. Enligt Ådahl är det inte aktuellt för Centerpartiet att släppa sina röda linjer mot V och SD. ”Där finns inte den här sakgemenskapen på samma sätt”, säger han.",
-      "pubDate": "2026-10-26T17:56:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "\"Stå för att ni är nepobabies!\"",
+      "link": "https://www.dn.se/podd/armstrong-sokolnicki/sta-for-att-ni-ar-nepobabies/",
+      "description": "Amie Bramme Sey vikarierar för Kirsty och undrar om Amanda någonsin stått på barrikaderna med en gatsten i handen. Dessutom: Räkna flintarna mest spännande på Elisabeth Thand Ringqvists pressträff, valet i Brasilien och nepobabies!",
+      "pubDate": "2026-10-27T00:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "C"
@@ -139,18 +237,6 @@
         "S",
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "”Centern börjar ruttna på Socialdemokraterna”",
-      "link": "https://www.dn.se/podd/alskade-politik/centern-borjar-ruttna-pa-socialdemokraterna/",
-      "description": "Har C-ledaren verkligen begravt sin mittendröm – eller gäller det bara ”just nu”? Elisabeth Thand-Ringqvist har gett tillbaka sitt sonderingsuppdrag till talmannen. Men hände någonting alls under hennes vecka av samtal?",
-      "pubDate": "2026-10-26T16:13:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -175,89 +261,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Insändare. Valen i Brasilien och Serbien bör inspirera Sverige",
-      "link": "https://www.dn.se/insandare/valen-i-brasilien-och-serbien-bor-inspirera-sverige/",
-      "description": "INSÄNDARE. Två ljus i den politiska tunneln tändes i helgen – i Sydamerikas största land och det som varit det mest ryssvänliga europeiska. Borde inte våra ledande politiker i vinnarlaget efter det svenska valet kunna följa folkviljan likt den som uppstod i Brasilien och Serbien? frågar den tidigare S-ministern Pierre Schori.",
-      "pubDate": "2026-10-26T12:26:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "C-ledaren: ”Inget stöd för en mittenregering”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-inget-stod-for-en-mittenregering",
-      "description": "Elisabeth Thand Ringqvist (C) säger att hoppet om en mittenregering för tillfället kan begravas. Nu är det upp till de andra partierna att göra något åt sina röda linjer, säger C-ledaren. – Det vore bra om Socialdemokraterna sa vilken regering man vill se.",
-      "pubDate": "2026-10-26T11:37:12Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "C-ledaren: ”Ingen majoritet för en mittenregering”",
-      "link": "https://www.dn.se/sverige/c-ledaren-ingen-majoritet-for-en-mittenregering/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist misslyckades med att få ihop en regering. Hon begraver för tillfället sitt så kallade mittenalternativ men utesluter inte att det återuppstår längre fram. – Vid en fjärde omröstning skulle ett mittenalternativ vara möjligt, säger Elisabeth Thand Ringqvist.",
-      "pubDate": "2026-10-26T10:31:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Skyttarna laddar inför VM – men riktar siktet mot OS",
-      "link": "https://www.dn.se/sport/skyttarna-laddar-infor-vm-men-riktar-siktet-mot-os/",
-      "description": "Den 2–14 november kommer det att skjutas för fullt i Doha, Qatar. Då avgörs nämligen VM i skytte. De svenska luftgevärsskyttarna Jesper Johansson och Victor Lindgren hoppas på medaljer, men det är inte tävlingens högsta pris. De första kvotplatserna för OS 2028 är vad man är ute efter. – Medaljen är sekundär, säger Lindgren.",
-      "pubDate": "2026-10-26T09:11:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "I dag presenterar Thand Ringqvist (C) sitt sonderingsuppdrag",
-      "link": "https://www.svt.se/nyheter/inrikes/i-dag-presenterar-thand-ringqvist-c-sitt-sonderingsuppdrag",
-      "description": "Centerledaren har haft sedan förra måndagen på sig att sondera möjligheterna till att bilda en regering. I dag klockan 10 rapporterar Elisabeth Thand Ringqvist tillbaka till talmannen om hur det har gått.",
-      "pubDate": "2026-10-26T07:04:38Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Kalena: Demokratin är alltid fylld av skräck i USA",
-      "link": "https://www.dn.se/kultur/kalena-demokratin-ar-alltid-fylld-av-skrack-i-usa/",
-      "description": "Kalena tänker med fasa på det kommande mellanårsvalet i USA. I Sverige blandas i stället regeringsbildningen med julpynt.",
-      "pubDate": "2026-10-26T06:30:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Spelet bakom unika regionstyret i Stockholm: ”Ett riktigt fint köttben”",
-      "link": "https://www.dn.se/sverige/spelet-bakom-unika-regionstyret-i-stockholm-ett-riktigt-fint-kottben/",
-      "description": "Centern jublar och Socialdemokraterna ger bort sjukvården till KD. Det nya unika styret i Sveriges största region går helt på tvärs med blockgränserna i rikspolitiken. – Det är ett riktigt fint köttben, säger statsvetaren Magnus Hagevi.",
-      "pubDate": "2026-10-25T16:12:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     }
   ],
