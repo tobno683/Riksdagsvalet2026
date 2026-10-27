@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T19:44:02.442740Z",
+  "updated_at": "2026-10-27T23:18:14.495300Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,33 @@
   ],
   "news": [
     {
+      "title": "MP, KD och L säger emot C: Ingen samsyn i mitten",
+      "link": "https://www.expressen.se/nyheter/politik/mp-kd-och-l-sager-emot-c-ingen-samsyn-i-mitten/",
+      "description": "Centerledaren sa efter sonderingsveckan att det finns en ”majoritet för en mittenpolitik”. &nbsp; Men det stämmer inte, enligt företrädare för Miljöpartiet, Kristdemokraterna och Liberalerna.&nbsp; – Jag blev förvånad över att Elisabeth Thand Ringqvist drog den slutsatsen, säger MP-toppen Janine Alm Ericson till Dagens industri. &nbsp;",
+      "pubDate": "2026-10-27T20:32:57Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "KD",
+        "L",
+        "MP"
+      ]
+    },
+    {
+      "title": "M går kraftigt framåt",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0511fb01-cee3-4c9d-8843-d3695ae4edcb",
+      "description": "Ny opinionsmätning i DN/Ipsos • ”Varningssignal för rödgröna”",
+      "pubDate": "2026-10-27T19:54:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Opinion"
+      ]
+    },
+    {
       "title": "Kristersson: Olika uppfattningar om det är dags att tala med Putin",
       "link": "https://www.dn.se/sverige/kristersson-olika-uppfattningar-om-det-ar-dags-att-tala-med-putin/",
       "description": "HELSINGFORS. Statsminister Ulf Kristersson anser inte att han fått någon förklaring till Finlands och Norges initiativ att samtala med Ryssland. – Inte annat än att de tycker att det är dags att tala med Putin. Jag tror att det finns lite olika uppfattningar om det.",
@@ -92,18 +119,6 @@
       ]
     },
     {
-      "title": "M går kraftigt framåt",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0511fb01-cee3-4c9d-8843-d3695ae4edcb",
-      "description": "Ny opinionsmätning i DN/Ipsos • ”Varningssignal för rödgröna”",
-      "pubDate": "2026-10-27T18:50:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Opinion"
-      ]
-    },
-    {
       "title": "Filippa Torsvik, 22, är ny ledare för Centerstudenter",
       "link": "https://www.expressen.se/nyheter/politik/filippa-torsvik-22-ar-ny-ledare-for-centerstudenter/",
       "description": "Centerpartiet måste våga använda sin vågmästarroll för att pressa andra partier. Det säger C-studenters nya ordförande Filippa Torsvik, 22. Hon vill hålla dörren öppen till höger. – Det finns fortfarande många regeringsalternativ kvar på spelplanen.",
@@ -114,16 +129,6 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "Högt valdeltagande i Israel: ”det viktigaste jag upplevt”",
-      "link": "https://www.dn.se/varlden/hogt-valdeltagande-i-israel-det-viktigaste-jag-upplevt/",
-      "description": "Valdeltagandet i Israel går mot rekord och i vallokaler runt om i landet ringlar köerna långa på tisdagskvällen. Väljare beskriver valet som det viktigaste någonsin och som ett vägval för landets framtid. Netanyahu ville se förlängd röstningstid, men begäran avslogs och röstningen avslutas som planerat klockan 21 svensk tid.",
-      "pubDate": "2026-10-27T18:38:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Extraval hotar – så mycket kostar det skattebetalarna",
@@ -162,18 +167,6 @@
       ]
     },
     {
-      "title": "Spelet bakom Gahr Støres och Stubbs telefonsamtal med Putin",
-      "link": "https://www.expressen.se/nyheter/varlden/spelet-bakom-gahr-store-och-stubbs-telefonsamtal-med-putin/",
-      "description": "Jonas Gahr Støre och Alexander Stubb har pratat med Vladimir Putin i telefon.&nbsp; Ulf Kristersson och andra europeiska regeringschefer fick information om att samtalet skulle äga rum ungefär en timme innan.&nbsp; Han säger att det ”skulle vara riskabelt” om olika europeiska länder vill ha egna samtal med Ryssland.&nbsp; – Det krävs ett gemensamt europeiskt agerande mot Ryssland.&nbsp;",
-      "pubDate": "2026-10-27T16:20:22Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Labour stärker greppet – Burnham tar upp EU-frågan",
       "link": "https://www.sverigesradio.se/artikel/9329389",
       "description": "Socialdemokratiska Labour har fått nytt självförtroende efter Andy Burnhams första tid som Storbritanniens premiärminister och partiet har ökat tydligt i opinionsmätningarna. Burnham har många visioner men ansträngda statsfinanser och de flesta beslut hittills har handlat om små vardagsfrågor. Burnham har också valt att öppna upp för en ny debatt om förhållandet till Europa och en betydligt tätare relation.",
@@ -184,18 +177,6 @@
       "topics": [
         "S",
         "Opinion"
-      ]
-    },
-    {
-      "title": "Åtalas för hot mot Dadgostar",
-      "link": "https://www.expressen.se/nyheter/krim/atalas-for-hot-mot-dadgostar/",
-      "description": "En 35-årig kvinna åtalas för att ha hotat V-ledaren Nooshi Dadgostar. ”JAG SKA DÖDA DIG”, skrev hon i ett mejl enligt åtalet.",
-      "pubDate": "2026-10-27T14:25:28Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -257,9 +238,46 @@
       "topics": [
         "M"
       ]
+    },
+    {
+      "title": "Vallöften får vänta i budgeten – kronprinsessans firande säkrat",
+      "link": "https://www.dn.se/sverige/valloften-far-vanta-i-budgeten-kronprinsessans-firande-sakrat/",
+      "description": "Den 12 november kommer finansminister Elisabeth Svantesson (M) att lägga fram en övergångsbudget – helt fri från vallöften och ny politik. Men kronprinsessan Victorias 50-årsfirande är säkrat. – Hon fyller 50 en gång, och det är nästa år, så jag tycker att det är helt rimligt, säger Svantesson.",
+      "pubDate": "2026-10-27T11:30:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Bekräftat: Stubb och Støre i samtal med Putin",
+      "link": "https://www.dn.se/varlden/bekraftat-stubb-och-store-i-samtal-med-putin/",
+      "description": "Ledarna från Norge och Finland har pratat med Rysslands president Vladimir Putin i telefon. Det bekräftar den norska statsministerns kansli och Kreml. – Min bild är att alla vill ha fred utom just Putin. Jag har rätt låga förväntningar på den här sortens samtal, säger Sveriges statsminister Ulf Kristersson.",
+      "pubDate": "2026-10-27T09:51:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Vänstern mobiliserar kärlek till våldet",
+      "link": "https://ledarsidorna.se/vanstern-mobiliserar-karlek-till-valdet/",
+      "description": "De pågående skolprotesterna i Frankrike har börjat mobilisera delar av den våldsbejakande och våldstillämpande vänstern genom olika kampanjer. Våldsretoriken har djupa rötter inte bara inom Vänsterpartiet utan även inom klimatrörelsen. En våldsretorik som nu nått Järvafältet i Stockholm via än så länge okända avsändare. Den 17 oktober 2026 deltog enligt det franska inrikesministeriet omkring 550 [&#8230;]",
+      "pubDate": "2026-10-27T21:11:23Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Sverigedemokraterna, arbetslösheten och de unga männen",
       "link": "https://blog.zaramis.se/2026/10/26/sverigedemokraterna-arbetslosheten-och-de-unga-mannen/",
