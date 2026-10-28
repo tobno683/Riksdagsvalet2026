@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T02:26:55.088166Z",
+  "updated_at": "2026-10-28T08:47:48.308716Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,18 +79,38 @@
   ],
   "news": [
     {
-      "title": "MP, KD och L säger emot C: Ingen samsyn i mitten",
-      "link": "https://www.expressen.se/nyheter/politik/mp-kd-och-l-sager-emot-c-ingen-samsyn-i-mitten/",
-      "description": "Centerledaren sa efter sonderingsveckan att det finns en ”majoritet för en mittenpolitik”. &nbsp; Men det stämmer inte, enligt företrädare för Miljöpartiet, Kristdemokraterna och Liberalerna.&nbsp; – Jag blev förvånad över att Elisabeth Thand Ringqvist drog den slutsatsen, säger MP-toppen Janine Alm Ericson till Dagens industri. &nbsp;",
-      "pubDate": "2026-10-27T20:32:57Z",
+      "title": "Valmyndigheten: Vi är redo för extraval",
+      "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-vi-ar-redo-for-extraval",
+      "description": "Riksdagen har efter ett försök inte lyckats rösta fram en ny regering. Om man misslyckas med alla fyra försök väntar extraval. – Vi är redo, säger Valmyndighetens kanslichef Anna Nyqvist.",
+      "pubDate": "2026-10-28T08:30:14Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Orden om C:s vägval: ”För krångligt med rödgröna”",
+      "link": "https://www.expressen.se/nyheter/politik/orden-om-cs-vagval-for-krangligt-med-rodgrona/",
+      "description": "Det finns inget parlamentariskt stöd för Centerpartiets drömregering. Nu måste partiet luckra upp sin röda linje mot SD, menar C-tyckaren Karin Källström. – Partiet skulle gå sönder av att lyfta in vänsterpartister i en regering.",
+      "pubDate": "2026-10-28T07:49:51Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "C",
-        "KD",
-        "L",
-        "MP"
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Kritiken inifrån L: ”Utrensning av oliktänkare”",
+      "link": "https://www.sverigesradio.se/artikel/9327230",
+      "description": "Flera personer som ingått i en inflytelserik grupp som representerar Liberalerna i Sveriges kommuner och regioner, SKR, har nu avsatts eller uppmanats att sluta. En av dem är Gilbert Tribo, tidigare gruppledare för Liberalerna i Region Skåne. ”Vi tycker inte som partiledningen och då ska vi väck”, säger han. Liberalernas partisekreterare Fredrik Brange skriver att förändringarna beror på att vissa företrädare valt att inte kandidera till kommun- eller regionfullmäktige i valet.",
+      "pubDate": "2026-10-28T04:58:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L"
       ]
     },
     {
@@ -104,18 +124,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Filippa Torsvik, 22, är ny ledare för Centerstudenter",
-      "link": "https://www.expressen.se/nyheter/politik/filippa-torsvik-22-ar-ny-ledare-for-centerstudenter/",
-      "description": "Centerpartiet måste våga använda sin vågmästarroll för att pressa andra partier. Det säger C-studenters nya ordförande Filippa Torsvik, 22. Hon vill hålla dörren öppen till höger. – Det finns fortfarande många regeringsalternativ kvar på spelplanen.",
-      "pubDate": "2026-10-27T18:42:24Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     },
     {
@@ -140,19 +148,6 @@
       "sourceType": "news",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Labour stärker greppet – Burnham tar upp EU-frågan",
-      "link": "https://www.sverigesradio.se/artikel/9329389",
-      "description": "Socialdemokratiska Labour har fått nytt självförtroende efter Andy Burnhams första tid som Storbritanniens premiärminister och partiet har ökat tydligt i opinionsmätningarna. Burnham har många visioner men ansträngda statsfinanser och de flesta beslut hittills har handlat om små vardagsfrågor. Burnham har också valt att öppna upp för en ny debatt om förhållandet till Europa och en betydligt tätare relation.",
-      "pubDate": "2026-10-27T14:42:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Opinion"
       ]
     },
     {
