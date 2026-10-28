@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T15:33:49.673857Z",
+  "updated_at": "2026-10-28T20:38:26.523468Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,40 @@
   ],
   "news": [
     {
+      "title": "Blandade känslor bland väljarna efter jämnt val i Israel",
+      "link": "https://www.sverigesradio.se/artikel/9330282",
+      "description": "De preliminära valresultaten i Israel visar ett jämnt läge mellan blocken. 27-årige Nizan har röstat på Gadi Eisenkot och hoppas på ett regeringsskifte. 70-årige Amos har röstat på mittenvänsterpartiet Demokraterna och vill att oppositionen samarbetar med de arabiska partierna för att bilda regering. 23-åriga Daniella har röstat på Benjamin Netanyahu. Hon tycker att Israel behöver en ledare som är ”lite galen”, och inte är rädd. Men hon väntar med att fira.",
+      "pubDate": "2026-10-28T17:15:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Aliya och Najib utvisades till Somalia – i väntan på ny stopplag",
+      "link": "https://www.svt.se/nyheter/inrikes/aliya-och-najib-utvisades-till-somalia-i-vantan-pa-ny-stopplag",
+      "description": "I valrörelsen lovade de rödgröna partierna att stoppa de så kallade tonårsutvisningarna. Men i väntan på ny lagstiftning fortsätter unga vuxna att utvisas från Sverige. SVT träffade Aliya och Najib timmar innan de utvisades till Somalia. – Jag är jättebesviken. De säger i sociala medier att de vill stoppa dem, att de vill pausa. Men på riktigt så pausas det inte, säger Aliya.",
+      "pubDate": "2026-10-28T16:56:39Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Lawen Redar: SD är etnonationalister",
+      "link": "https://www.expressen.se/nyheter/politik/lawen-redar-sd-ar-etnonationalister/",
+      "description": "Sverigedemokraterna är ett etnonationalistiskt parti – oavsett vad man själv påstår. Det säger Lawen Redar (S) efter det infekterade SD-bråket. – Det handlar om den kanske värsta formen av rasism.",
+      "pubDate": "2026-10-28T15:53:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Jomshof om SD-bråket: Håller med Åkesson ”till 100 procent”",
       "link": "https://www.expressen.se/nyheter/politik/jomshof-om-sd-braket-haller-med-akesson-till-100-procent/",
       "description": "Bråket om svenskhet inom SD fortsätter. Efter den heta ordväxlingen med SD-toppen Mattias Karlsson kommer Richard Jomshof nu med ett nytt utspel. ”Det finns alltså ingen motsättning”, skriver han på X.",
@@ -125,31 +159,6 @@
       "topics": []
     },
     {
-      "title": "Orden om C:s vägval: ”För krångligt med rödgröna”",
-      "link": "https://www.expressen.se/nyheter/politik/orden-om-cs-vagval-for-krangligt-med-rodgrona/",
-      "description": "Det finns inget parlamentariskt stöd för Centerpartiets drömregering. Nu måste partiet luckra upp sin röda linje mot SD, menar C-tyckaren Karin Källström. – Partiet skulle gå sönder av att lyfta in vänsterpartister i en regering.",
-      "pubDate": "2026-10-28T07:49:51Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Kritiken inifrån L: ”Utrensning av oliktänkare”",
-      "link": "https://www.sverigesradio.se/artikel/9327230",
-      "description": "Flera personer som ingått i en inflytelserik grupp som representerar Liberalerna i Sveriges kommuner och regioner, SKR, har nu avsatts eller uppmanats att sluta. En av dem är Gilbert Tribo, tidigare gruppledare för Liberalerna i Region Skåne. ”Vi tycker inte som partiledningen och då ska vi väck”, säger han. Liberalernas partisekreterare Fredrik Brange skriver att förändringarna beror på att vissa företrädare valt att inte kandidera till kommun- eller regionfullmäktige i valet.",
-      "pubDate": "2026-10-28T04:58:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
       "title": "Kristersson: Olika uppfattningar om det är dags att tala med Putin",
       "link": "https://www.dn.se/sverige/kristersson-olika-uppfattningar-om-det-ar-dags-att-tala-med-putin/",
       "description": "HELSINGFORS. Statsminister Ulf Kristersson anser inte att han fått någon förklaring till Finlands och Norges initiativ att samtala med Ryssland. – Inte annat än att de tycker att det är dags att tala med Putin. Jag tror att det finns lite olika uppfattningar om det.",
@@ -167,18 +176,6 @@
       "link": "https://www.dn.se/sverige/dn-ipsos-kristersson-vinnare-nar-rodgrona-inte-far-ihop-regering/",
       "description": "Moderaterna fortsätter att gå starkt i opinionen och får sin högsta notering på mer än åtta år. Samtidigt har Tidöpartierna ett klart övertag på de rödgröna, visar DN/Ipsos mätning. – Det är en varningssignal till de rödgröna om det blir extra val, säger Nicklas Källebring på Ipsos.",
       "pubDate": "2026-10-27T17:34:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "M:s nya supersiffror: Vill de ha extraval?",
-      "link": "https://www.dn.se/podd/alskade-politik/ms-nya-supersiffror-vill-de-ha-extraval/",
-      "description": "Nya opinionssiffror från Ipsos visar att Tidöpartierna skulle kunna bilda regering vid ett extra val. Och Moderaterna har de högsta siffrorna på åtta år. Ändras Ulf Kristerssons status nu – eller är han fortfarande en \"lam anka\"?",
-      "pubDate": "2026-10-27T17:00:16Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -329,90 +326,6 @@
       "sourceType": "blog",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "BREV 510 – I Centerpartiet kan ingen höra dig skrika.",
-      "link": "https://jensganman.substack.com/p/brev-510-i-centerpartiet-kan-ingen",
-      "description": "Thand Ringqvist &#8211; politisk autist / &#196;r Macron ond eller bara dum i huvudet? / Helena Edlunds genialiska id&#233; / Milj&#246;partiet har kommit alldeles f&#246;r billigt undan / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 507 – Miljöpartiet och VPK utnyttjar sina somalier skamlöst.",
-      "link": "https://jensganman.substack.com/p/brev-507-miljopartiet-och-vpk-utnyttjar",
-      "description": "De f&#246;rst&#229;r ju mindre &#228;n Baudin / Nytt apologetreportage om Frankrike i Rapport / F&#246;rdelen med ett extra val / Det gamla DN-klippet som f&#246;rklarar allt / Kessler-effekten / Storspoven kommer / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "BREV 502 – Greta Thunberg, kaozturist.",
-      "link": "https://jensganman.substack.com/p/brev-501-greta-thunberg-kaozturist",
-      "description": "Som en fluga till en sockerbit / N&#229;gra intressanta passager ur &#8220;Mitt f&#246;rbjudna ansikte&#8221; och &#8220;En somalisk kvinnas ber&#228;ttelse&#8221; / Hoppas detta &#228;r Ulf Kristerssons strategi / Vogonen Kristina Lagerstr&#246;m /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "BREV 499 – Somalier är också människor.",
-      "link": "https://jensganman.substack.com/p/brev-499-somalier-ar-ocksa-manniskor",
-      "description": "Wallenberg och Thand Ringqvist i ett rum / Varf&#246;r st&#228;llde Gunnarsson inte fr&#229;gan? / Svart mans slav / Mediemakthavarinnornas maniska mimik. / Suhonen, Baude och v&#228;nsterns v&#228;mjeliga v&#229;ldsvurm / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 498 – Regeringsmissbildningen.",
-      "link": "https://jensganman.substack.com/p/brev-498-regeringsmissbildningen",
-      "description": "En orgie i idioti / De r&#246;dgr&#246;nas f&#246;rs&#246;k att bilda regering b&#246;r klassas som systemfarlig / V&#228;rldens dyraste ljud / Gl&#246;m aldrig socialdemokraternas syn p&#229; begreppet &#8221;l&#246;fte&#8221; / N&#228;r Hirvonen h&#246;ll med mig /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 496 – Till slut måste Centern välja sin egen avrättningsmetod.",
-      "link": "https://jensganman.substack.com/p/brev-496-till-slut-maste-centern",
-      "description": "Thand Ringqvist har spelat bort sina kort / Han l&#229;ter som Kalle Stropp / SR & SVT borde g&#246;ra en Office Space / Jag blev som i s&#229;ngen &#8221;M&#229;nga barn &#228;r bruna&#8221; / As falls Marseille, so falls Rinkeby / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 492 – Thand Ringqvists människosyn lamslår landet.",
-      "link": "https://jensganman.substack.com/p/brev-492-thand-ringqvists-manniskosyn",
-      "description": "Sammanfattning av eftervalssituationen / Fem nya Kakabavehs i Riksdagen / Hur kunde den h&#228;r idioten f&#229; p&#229;verka valet 2018? / Det f&#246;rbjudna &#8221;s&#8221;-ordet / SR-Bj&#246;rn Ahlanders visdomsord om svarta / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
       ]
     }
   ],
