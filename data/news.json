@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T23:18:14.495300Z",
+  "updated_at": "2026-10-28T02:26:55.088166Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -94,18 +94,6 @@
       ]
     },
     {
-      "title": "M går kraftigt framåt",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=0511fb01-cee3-4c9d-8843-d3695ae4edcb",
-      "description": "Ny opinionsmätning i DN/Ipsos • ”Varningssignal för rödgröna”",
-      "pubDate": "2026-10-27T19:54:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Opinion"
-      ]
-    },
-    {
       "title": "Kristersson: Olika uppfattningar om det är dags att tala med Putin",
       "link": "https://www.dn.se/sverige/kristersson-olika-uppfattningar-om-det-ar-dags-att-tala-med-putin/",
       "description": "HELSINGFORS. Statsminister Ulf Kristersson anser inte att han fått någon förklaring till Finlands och Norges initiativ att samtala med Ryssland. – Inte annat än att de tycker att det är dags att tala med Putin. Jag tror att det finns lite olika uppfattningar om det.",
@@ -128,18 +116,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "Extraval hotar – så mycket kostar det skattebetalarna",
-      "link": "https://www.expressen.se/nyheter/politik/extraval-hotar-sa-mycket-kostar-det-skattebetalarna/",
-      "description": "Magdalena Andersson vill bilda regering –&nbsp;men låsningarna mellan C och V kan leda till extraval. Det skulle kosta svenska folket minst 615 miljoner kronor. – Vårt fokus ligger helt på att valresultatet ska få genomslag, säger partisekreteraren Tobias Baudin (S).",
-      "pubDate": "2026-10-27T17:38:08Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -177,32 +153,6 @@
       "topics": [
         "S",
         "Opinion"
-      ]
-    },
-    {
-      "title": "Finansministern: Då kommer övergångsbudgeten",
-      "link": "https://www.sverigesradio.se/artikel/9329304",
-      "description": "Regeringsförhandlingarna drar ut på tiden och finansminister Elisabeth Svantesson (M) kommer att lägga fram en opolitisk övergångsbudget. Den ska i princip vara en kopia av den senaste budgeten, det vill säga att myndigheterna får lika mycket pengar att jobba med som nu, men med vissa undantag för samhällsviktiga funktioner. Övergångsbudgeten som gäller för år 2027, oavsett om det skulle bildas en ny regering snart. Budgeten kommer läggas fram senast 12 november.",
-      "pubDate": "2026-10-27T13:03:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "”Röda linjer” vid regeringsbildningar nytt i svensk politik",
-      "link": "https://www.sverigesradio.se/artikel/9329217",
-      "description": "Både Magdalena Andersson (S) och Elisabeth Thand Ringqvist (C) har gett upp försöken att bilda regering och sagt att partiernas låsningar står i vägen. De så kallade röda linjerna i regeringsförhandlingar är relativt nya i svensk politik, säger statsvetarprofessor Tommy Möller. Ett klassiskt exempel på en röd linje som luckrades upp inför de politiska realiteterna&nbsp;var när Centerpartiet i valrörelsen 1976 lovade att stoppa kärnkraften, men fick delvis ändra linje efter valet.",
-      "pubDate": "2026-10-27T12:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
       ]
     },
     {
@@ -262,6 +212,56 @@
       "topics": [
         "M",
         "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "”Stå för att ni är nepobabies!”",
+      "link": "https://www.dn.se/podd/armstrong-sokolnicki/sta-for-att-ni-ar-nepobabies/",
+      "description": "Amie Bramme Sey vikarierar för Kirsty och undrar om Amanda någonsin stått på barrikaderna med en gatsten i handen. Dessutom: Räkna flintarna mest spännande på Elisabeth Thand Ringqvists pressträff, valet i Brasilien och nepobabies!",
+      "pubDate": "2026-10-27T00:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Nu har både C och V tröttnat på Andersson",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-nu-har-bade-c-och-v-trottnat-pa-andersson/",
+      "description": "Centern spelar ett högt spel i regeringsfrågan. Trots att de andra partierna återigen släckt Elisabeth Thand Ringqvists hopp om en mittenregering trappar Centerledaren upp striden mot Vänsterpartiet. Socialdemokraterna kan inte längre hoppas att V och C självmant ska backa från sina krav.",
+      "pubDate": "2026-10-26T17:08:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Fortfarande hemligt vilka S vill regera med: ”Fel läge”",
+      "link": "https://www.svt.se/nyheter/inrikes/fortfarande-hemligt-vilka-s-vill-regera-med-fel-lage",
+      "description": "C-ledaren Elisabeth Thand Ringqvist vill att S berättar vilka partier de vill bilda regering med. Men S-toppen Anders Ygeman tycker inte att partiet behöver svara. – Det här är fel läge att dra upp nya röda linjer och skriva nya önskelistor, säger han.",
+      "pubDate": "2026-10-26T15:25:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Mohamed Ali om skulderna: ”Jag var helt ärlig”",
+      "link": "https://www.dn.se/sverige/vs-mohamed-ali-om-skulderna-jag-var-helt-arlig/",
+      "description": "Vänsterpartiets kryssraket Mohamed Ali säger att han varit öppen med sina många skulder i kontakten med partiet. På frågan om någon försökt få honom att avstå riksdagsplatsen är han fåordig. – Det där vill jag inte kommentera, säger han till DN.",
+      "pubDate": "2026-10-26T14:55:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
       ]
     }
   ],
