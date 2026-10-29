@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T06:13:34.992542Z",
+  "updated_at": "2026-10-29T13:24:55.537861Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,16 +79,54 @@
   ],
   "news": [
     {
-      "title": "Ny mätning: Moderaterna nästan ikapp S",
-      "link": "https://www.expressen.se/nyheter/politik/ny-matning-moderaterna-nastan-ikapp-s/",
-      "description": "Moderaterna är nästan lika stora som Socialdemokraterna, enligt Indikators oktobermätning rapporterar Ekot. M ökar med 6,5 procentenheter jämfört med valresultatet.",
-      "pubDate": "2026-10-29T05:45:49Z",
+      "title": "Moderaternas lyft försvårar för Magdalena Andersson",
+      "link": "https://www.expressen.se/nyheter/politik/moderaternas-lyft-forsvarar-for-magdalena-andersson/",
+      "description": "Moderaterna rusar i opinionen och Tidöpartierna tror på seger i ett extraval. Det minskar Magdalena Anderssons chans att locka över KD och L, enligt källor i flera partier. –&nbsp;Den dörren är stängd, säger en moderat.",
+      "pubDate": "2026-10-29T12:54:24Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
         "M"
+      ]
+    },
+    {
+      "title": "S och C-väljare missnöjda med hanteringen av regeringsbildningen",
+      "link": "https://www.sverigesradio.se/artikel/9330456",
+      "description": "Socialdemokraternas och Centerpartiets väljare är de som är mest missnöjda med hur partiet de röstade på har hanterat frågan om regeringsbildningen efter valet enligt Indikator Opinion. Nästan var tredje av deras väljare svarar dåligt, vilket är något fler än de som tycker partiet skött det bra. Var femte väljare hos Vänsterpartiet svarar också dåligt men samtidigt tycker även hälften att V hanterat frågan bra. Väljarna hos Miljöpartiet och samtliga Tidöpartier är överlag mer nöjda.",
+      "pubDate": "2026-10-29T10:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Införa ett moratorium mot utvisningar",
+      "link": "https://www.dn.se/insandare/infora-ett-moratorium-mot-utvisningar/",
+      "description": "INSÄNDARE. De rödgröna vill stoppa orimliga utvisningar, men är tvungna att arbeta fram lagändringar för detta i riksdagen. Migrationsverket skulle kunna införa ett moratorium, en paus, i utvisningarna tills en ny lag kommer på plats, skriver Per Demérus.",
+      "pubDate": "2026-10-29T09:40:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Mona Sahlins kritik mot S efter valet: Så passiva",
+      "link": "https://www.expressen.se/nyheter/politik/mona-sahlins-kritik-mot-s-efter-valet-sa-passiva/",
+      "description": "Socialdemokraterna har varit för passiva i försöken att få till en ny regering. Det säger partiets tidigare ledare Mona Sahlin, som samtidigt bedömer risken för extraval till 50 procent. – Jag är bekymrad, säger hon i SVT:s ”Politikbyrån” .",
+      "pubDate": "2026-10-29T08:27:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     },
     {
@@ -103,19 +141,6 @@
         "S",
         "M",
         "C"
-      ]
-    },
-    {
-      "title": "Katrin Stjernfeldt Jammeh (S) om det låsta läget: ”Ängslighet”",
-      "link": "https://www.expressen.se/nyheter/politik/katrin-stjernfeldt-jammeh-s-om-det-lasta-laget-angslighet/",
-      "description": "S-toppen Katrin Stjernfeldt Jammeh tycker att det är ”olyckligt” att regeringsbildningen tar sån tid.&nbsp; Socialdemokraterna har ett särskilt ansvar. &nbsp; – Det parti som har tänkt ta den yttersta posten har alltid ett ansvar i en förhandling att försöka få alla parter till bordet, säger hon till Svenska Dagbladet. &nbsp;",
-      "pubDate": "2026-10-28T22:12:57Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     },
     {
@@ -139,30 +164,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Insändare. Svar: Vänsterpartiet står för omvänd rasism",
-      "link": "https://www.dn.se/insandare/svar-vansterpartiet-star-for-omvand-rasism/",
-      "description": "SVAR PÅ INSÄNDARE. Vi kan inte ha sådana ledamöter i Sveriges högsta lagstiftande församling som Mohamed Ali (V). Sverige måste vara mer seriöst än så, skriver den tidigare journalisten Misse Ljungström.",
-      "pubDate": "2026-10-28T10:05:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Vänsterpartiet bör bryta dödläget",
-      "link": "https://www.dn.se/insandare/vansterpartiet-bor-bryta-dodlaget/",
-      "description": "INSÄNDARE. Social­demokraterna verkar vara ovilliga att ta på sig ledartröjan och då måste någon annan i den rödgröna majoriteten göra det. Därför måste Vänsterpartiet avstå ministerposter och nöja sig med ett sak­politiskt avtal, skriver Torbjörn Vennström.",
-      "pubDate": "2026-10-28T09:45:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     },
     {
       "title": "Valmyndigheten: Vi är redo för extraval",
@@ -198,16 +199,6 @@
       "topics": [
         "M"
       ]
-    },
-    {
-      "title": "Insändare. Rödgröna måste ta ansvar för att skydda högerns offer",
-      "link": "https://www.dn.se/insandare/rodgrona-maste-ta-ansvar-for-att-skydda-hogerns-offer/",
-      "description": "INSÄNDARE. En Tidö 2.0-regering riskerar att göra klimataktivister, människor med utländsk bakgrund och hbtqi-personer till måltavlor. Skulle de rödgröna politikerna i stället sätta sina egna behov i främsta rummet är det lätt att känna förtvivlan, skriver Gunnar Berggren.",
-      "pubDate": "2026-10-27T12:48:44Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "Storstäderna får rödgröna styren – ”Behöver inte ge Magdalena Andersson några råd”",
@@ -246,16 +237,28 @@
       ]
     },
     {
-      "title": "Bekräftat: Stubb och Støre i samtal med Putin",
-      "link": "https://www.dn.se/varlden/bekraftat-stubb-och-store-i-samtal-med-putin/",
-      "description": "Ledarna från Norge och Finland har pratat med Rysslands president Vladimir Putin i telefon. Det bekräftar den norska statsministerns kansli och Kreml. – Min bild är att alla vill ha fred utom just Putin. Jag har rätt låga förväntningar på den här sortens samtal, säger Sveriges statsminister Ulf Kristersson.",
-      "pubDate": "2026-10-27T09:51:58Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Fortfarande hemligt vilka S vill regera med: ”Fel läge”",
+      "link": "https://www.svt.se/nyheter/inrikes/fortfarande-hemligt-vilka-s-vill-regera-med-fel-lage",
+      "description": "C-ledaren Elisabeth Thand Ringqvist vill att S berättar vilka partier de vill bilda regering med. Men S-toppen Anders Ygeman tycker inte att partiet behöver svara. – Det här är fel läge att dra upp nya röda linjer och skriva nya önskelistor, säger han.",
+      "pubDate": "2026-10-26T15:25:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "Regeringsbildning"
+        "C"
+      ]
+    },
+    {
+      "title": "C-ledaren: ”Inget stöd för en mittenregering”",
+      "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-inget-stod-for-en-mittenregering",
+      "description": "Elisabeth Thand Ringqvist (C) säger att hoppet om en mittenregering för tillfället kan begravas. Nu är det upp till de andra partierna att göra något åt sina röda linjer, säger C-ledaren. – Det vore bra om Socialdemokraterna sa vilken regering man vill se.",
+      "pubDate": "2026-10-26T11:37:12Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
       ]
     }
   ],
@@ -285,18 +288,6 @@
       ]
     },
     {
-      "title": "Svenskarna röstade för en annan politik",
-      "link": "https://blog.zaramis.se/2026/10/26/svenskarna-rostade-for-en-annan-politik/",
-      "description": "Svenskarna röstade för en annan politik men C och S tycks inte vilja acceptera det. Socialdemokraternas Magdalena Andersson fick möjlighet att försöka bilda regering två gånger. Hon och sossarna gjorde inte ett enda ordentlig försök. Inte ett enda ordentligt försök att bilda en regering. Läs mer … Inlägget Svenskarna röstade för en annan politik dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-10-26T06:20:49Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "De låga förväntningarnas rasism",
       "link": "https://ledarsidorna.se/de-laga-forvantningarnas-rasism/",
       "description": "Vänsterpartiet låter meddela att partiet står bakom sin nyvalde riksdagsledamot Mohamed Ali. Samtidigt är det inte ointressant att granska hur motsvarande situationer kom att förändra minst fyra statsråds och riksdagsledamöters liv med avslutade politiska karriärer i förtid. Vänsterpartiets gruppledare Samuel Gonzalez Westling säger till SVT att all uppståndelse kring den nyligen tillträdde riksdagsledamoten Mohamed Ali [&#8230;]",
@@ -322,6 +313,19 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "328. Rödgrön regering efter nyår",
+      "link": "https://pod.space/politikrummet/328-rodgron-regering-efter-nyar",
+      "description": "Frågepodd: Hur pressad är talmannen? Och borde Magdalena Andersson stötta en alliansregering – för att hålla Sverigedemokraterna borta? I studion: Filippa Rogvall, Max V Karlsson och Anette Holmqvist Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-10-29T11:11:26Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
     {
       "title": "Kvartal Idag: Åkesson dras in i SD-bråket",
       "link": "https://pod.space/kvartal/kvartal-idag-akesson-dras-in-i-sd-braket",
@@ -505,18 +509,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Fredagsintervjun: Våra ungdomar vågar inte stå emot islamisterna",
-      "link": "https://pod.space/kvartal/fredagsintervjun-vara-ungdomar-vagar-inte-sta-emot-islamisterna",
-      "description": "Egenföretagaren och tidigare Mp-politikern Rebwar Hassan intervjuas av Magnus Thorén. 2017 uteslöts stockholmspolitikern Rebwar Hassan ur Miljöpartiet. Han gjorde det efter att ha varnat för en växande islamism inom partiet, och för att politisk islam enligt honom alltmer hotar vårt öppna samhälle. Hur ser han på de här varningarna idag och har de politiska partierna blivit bättre på att identifiera och motverka infiltration? Och vilka är hans tankar om Västerpartiets framgångar i många förorter? Behöver vi oroa oss för klanröstning, eller handlar framgångarna mer om att svensk höger lämnat ”walk over” i utsatta områden?",
-      "pubDate": "2026-10-16T10:50:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "MP"
       ]
     }
   ]
