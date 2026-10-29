@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T19:03:10.872153Z",
+  "updated_at": "2026-10-29T23:25:43.099553Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,44 @@
     }
   ],
   "news": [
+    {
+      "title": "Tidigare C-profilen: Samarbeta med V – för klimatets skull",
+      "link": "https://www.expressen.se/nyheter/politik/tidigare-c-profilen-samarbeta-med-v-for-klimatets-skull/",
+      "description": "Centern borde samarbeta med Vänsterpartiet. Det menar Ola Spännar, tidigare kommunikationschef för C. ”Det borde vara ett enkelt val för Centerpartiet”, skriver han i en gästkolumn på ledarplats i Dagens ETC .",
+      "pubDate": "2026-10-29T20:29:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "29 oktober: Här är dagens nyheter",
+      "link": "https://www.dn.se/varlden/29-oktober-har-ar-dagens-nyheter/",
+      "description": "Talmannen prövar C-ledaren som statsminister, många vill ge blod efter tågolyckan i Spanien och guldstriden lever i Allsvenskan – här är dagens nyheter.",
+      "pubDate": "2026-10-29T20:08:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Statsvetaren om talmannens tempo: Ökar sannolikheten för extra val",
+      "link": "https://www.dn.se/sverige/statsvetaren-om-talmannens-tempo-okar-sannolikheten-for-extra-val/",
+      "description": "Talmannen har meddelat att C-ledaren Elisabeth Thand Ringqvist ska ställas inför en statsministeromröstning. Minst lika anmärkningsvärt är det tempo som talmannen driver fram processen med, enligt experter. – Tiden kan vara avgörande för extra val, säger statsvetaren Jenny Madestam.",
+      "pubDate": "2026-10-29T19:29:57Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "SD skakas av bråk om svenskhet: ”Oerhört olyckligt för partiet”",
       "link": "https://www.dn.se/sverige/sd-skakas-av-brak-om-svenskhet-oerhort-olyckligt-for-partiet/",
@@ -195,19 +233,6 @@
       ]
     },
     {
-      "title": "De rödgröna tror på en regering efter nyår",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/de-rodgrona-tror-pa-en-regering-efter-nyar/",
-      "description": "Hur pressad är talmannen? Borde Magdalena Andersson stötta en alliansregering – för att hålla Sverigedemokraterna borta? Och när kan en ny regering egentligen vara på plats? Lyssna på ”Politikrummets” frågepodd.",
-      "pubDate": "2026-10-29T15:30:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
       "title": "Fredrik Furtenbach: Talmannen är i ett väldigt svårt läge",
       "link": "https://www.sverigesradio.se/artikel/9330984",
       "description": "C-ledaren Elisabeth Thand Ringqvist ska prövas i en statsministeromröstning på tisdag, meddelade talmannen Andreas Norlén (M) på en pressträff. Ekots inrikespolitiska kommentator Fredrik Furtenbach säger att beskedet är klart överraskande. ”Jag tolkar det här som ett uttryck för att talmannen är i ett väldigt svårt läge, han är i korstryck. Varken Magdalena Andersson eller Ulf Kristersson har velat ha omröstningar om sig själva som statsministrar i det här läget, och det har lett till det här udda förslaget”, säger Fredrik Furtenbach.",
@@ -219,21 +244,6 @@
         "S",
         "M",
         "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kritiken efter talmannens besked om Elisabeth Thand Ringqvist",
-      "link": "https://www.expressen.se/nyheter/sverige/kritiken-efter-talmannens-besked-sa-radd/",
-      "description": "Talmannen meddelar på torsdagen att riksdagen kommer att rösta om Elisabeth Thand Ringqvist (C) som statsminister. Efter beskedet riktar Liberalernas partiledare Simona Mohamsson kritik mot Socialdemokraterna.&nbsp; ”Nu är Magdalena Andersson så rädd för riksdagen att vi får rösta om Centerpartiet”, skriver hon på X.",
-      "pubDate": "2026-10-29T15:04:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "L",
         "Regeringsbildning"
       ]
     },
@@ -259,21 +269,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Stor irritation mot Andersson i C – ”bisarr” situation",
-      "link": "https://www.expressen.se/nyheter/politik/stor-irritation-mot-andersson-i-c-bisarr-situation/",
-      "description": "Det blir en statsministeromröstning om Elisabeth Thand Ringqvist (C) – trots att hon saknar stöd. Bakgrunden är att varken Kristersson eller Andersson ville sondera, erfar Expressen. En ”bisarr” situation, enligt C-källor. Thand Ringqvist menar att S nu måste vara ”tydligare”&nbsp;om vilka de vill styra med.",
-      "pubDate": "2026-10-29T14:40:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
         "M",
         "C",
         "Regeringsbildning"
