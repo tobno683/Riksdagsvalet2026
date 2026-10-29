@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:24:55.537861Z",
+  "updated_at": "2026-10-29T19:03:10.872153Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,186 +79,204 @@
   ],
   "news": [
     {
-      "title": "Moderaternas lyft försvårar för Magdalena Andersson",
-      "link": "https://www.expressen.se/nyheter/politik/moderaternas-lyft-forsvarar-for-magdalena-andersson/",
-      "description": "Moderaterna rusar i opinionen och Tidöpartierna tror på seger i ett extraval. Det minskar Magdalena Anderssons chans att locka över KD och L, enligt källor i flera partier. –&nbsp;Den dörren är stängd, säger en moderat.",
-      "pubDate": "2026-10-29T12:54:24Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "SD skakas av bråk om svenskhet: ”Oerhört olyckligt för partiet”",
+      "link": "https://www.dn.se/sverige/sd-skakas-av-brak-om-svenskhet-oerhort-olyckligt-for-partiet/",
+      "description": "En debatt om svenskhet rasar i SD. SD-topparna Mattias Karlsson och Richard Jomshof har hamnat i ordkrig om frågan med påhopp som ”splittrande” och ”svartmålande”. Carl Eos på tankesmedjan Oikos tror att debatten är skadlig för partiet. – Man förmår inte skilja på vad som är relevant i ett politiskt sammanhang och vad som är relevant för en själv privat.",
+      "pubDate": "2026-10-29T18:47:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "M"
+        "SD"
       ]
     },
     {
-      "title": "S och C-väljare missnöjda med hanteringen av regeringsbildningen",
-      "link": "https://www.sverigesradio.se/artikel/9330456",
-      "description": "Socialdemokraternas och Centerpartiets väljare är de som är mest missnöjda med hur partiet de röstade på har hanterat frågan om regeringsbildningen efter valet enligt Indikator Opinion. Nästan var tredje av deras väljare svarar dåligt, vilket är något fler än de som tycker partiet skött det bra. Var femte väljare hos Vänsterpartiet svarar också dåligt men samtidigt tycker även hälften att V hanterat frågan bra. Väljarna hos Miljöpartiet och samtliga Tidöpartier är överlag mer nöjda.",
-      "pubDate": "2026-10-29T10:43:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Analys: ”Ologiskt att rösta om Thand Ringqvist”",
+      "link": "https://www.svt.se/nyheter/inrikes/analys-ologiskt-att-rosta-om-thand-ringqvist",
+      "description": "Att C-ledaren Elisabeth Thand Ringqvist nu ska ställas inför en statsministeromröstning i riksdagen är inte bara ologiskt, utan visar också tydligt att läget i regeringsfrågan är lika låst som förut.",
+      "pubDate": "2026-10-29T18:31:07Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "V",
         "C",
-        "MP",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "Insändare. Införa ett moratorium mot utvisningar",
-      "link": "https://www.dn.se/insandare/infora-ett-moratorium-mot-utvisningar/",
-      "description": "INSÄNDARE. De rödgröna vill stoppa orimliga utvisningar, men är tvungna att arbeta fram lagändringar för detta i riksdagen. Migrationsverket skulle kunna införa ett moratorium, en paus, i utvisningarna tills en ny lag kommer på plats, skriver Per Demérus.",
-      "pubDate": "2026-10-29T09:40:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Mona Sahlins kritik mot S efter valet: Så passiva",
-      "link": "https://www.expressen.se/nyheter/politik/mona-sahlins-kritik-mot-s-efter-valet-sa-passiva/",
-      "description": "Socialdemokraterna har varit för passiva i försöken att få till en ny regering. Det säger partiets tidigare ledare Mona Sahlin, som samtidigt bedömer risken för extraval till 50 procent. – Jag är bekymrad, säger hon i SVT:s ”Politikbyrån” .",
-      "pubDate": "2026-10-29T08:27:34Z",
+      "title": "Norlén borde valt  Kalle Anka i stället",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/norlen-borde-valt--kalle-anka-i-stallet/",
+      "description": "Att rösta om Elisabeth Thand Ringqvist (C) är löjeväckande, men klagomålen är värre. Ingen talman i världen kan rädda de rödgröna från sig själva – eller från varandra.",
+      "pubDate": "2026-10-29T18:14:43Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "M nästan ikapp S i Indikators oktobermätning",
-      "link": "https://www.sverigesradio.se/artikel/9329097",
-      "description": "Socialdemokraternas position som största parti hotas i Indikator Opinions oktobermätning där Moderaterna är nästan lika stora som Socialdemokraterna; det skiljer bara 0,7 procentenheter. Moderaterna ökar med 6,5 procentenheter jämfört med valresultatet och vinner både väljarröster från de andra Tidöpartierna och från Centerpartiet och Socialdemokraterna. ”Jag tror att det som speglas i det här, det är en otålighet som väljarna känner och den känner jag också. Jag vill såklart få en regering på plats”, säger Tobias Baudin, Socialdemokraternas partisekreterare.",
-      "pubDate": "2026-10-29T05:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
         "C"
       ]
     },
     {
-      "title": "Blandade känslor bland väljarna efter jämnt val i Israel",
-      "link": "https://www.sverigesradio.se/artikel/9330282",
-      "description": "De preliminära valresultaten i Israel visar ett jämnt läge mellan blocken. 27-årige Nizan har röstat på Gadi Eisenkot och hoppas på ett regeringsskifte. 70-årige Amos har röstat på mittenvänsterpartiet Demokraterna och vill att oppositionen samarbetar med de arabiska partierna för att bilda regering. 23-åriga Daniella har röstat på Benjamin Netanyahu. Hon tycker att Israel behöver en ledare som är ”lite galen”, och inte är rädd. Men hon väntar med att fira.",
-      "pubDate": "2026-10-28T17:15:00Z",
+      "title": "Mindre skillnader i skolpeng föreslås för gymnasiet",
+      "link": "https://www.sverigesradio.se/artikel/9330962",
+      "description": "Regeringen vill att det ska bli mindre skillnad i hur mycket skolpeng bland annat kommunala och fristående gymnasieskolor kan få. Det enligt en utredning som presenterades under torsdagen. Den föreslår bland annat att riksprislistan, som styr hur mycket pengar en skola ska få per elev, ska anpassas efter elevens studieförmåga, och samordnas mer mellan kommuner. Men förslaget kan inte klubbas nu. ”Min ambition är att kunna skicka ut det här på remiss men det är en övergångsregering, vi får inte ta ny politik”, säger utbildningsminister Simona Mohamsson (L).",
+      "pubDate": "2026-10-29T18:01:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "Rödgrön ilska efter beskedet – C-källa: ”Farsartat”",
+      "link": "https://www.svt.se/nyheter/inrikes/rodgron-ilska-efter-beskedet-c-kalla-farsartat",
+      "description": "Rödgröna partiledare rasar mot talmannens besked om att pröva C-ledaren Elisabeth Thand Ringqvist i en statsministeromröstning. Magdalena Andersson (S) kallar beslutet för ”anmärkningsvärt” – och inom C pyr missnöjet. – Alla tycker att det här är väldigt konstigt, säger en C-källa till SVT.",
+      "pubDate": "2026-10-29T17:32:11Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kritik mot talmannen från S, C och MP – experten: Stressade",
+      "link": "https://www.expressen.se/nyheter/politik/kritik-mot-talmannen-fran-s-c-och-mp-experten-stressade/",
+      "description": "Det blir en statsministeromröstning om Elisabeth Thand Ringqvist nästa vecka. &nbsp; C, S och MP är kritiska till talmannens beslut. &nbsp; – Jag försöker hitta den bästa lösningen i en för mig ganska svår situation, säger Andreas Norlén.&nbsp; Statsvetaren Andreas Johansson Heinö menar att ”all press” nu ligger på de rödgröna partierna.&nbsp;",
+      "pubDate": "2026-10-29T17:22:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C-toppen Martin Ådahl kräver att S ger klart besked om V",
+      "link": "https://www.expressen.se/nyheter/politik/c-toppen-martin-adahl-kraver-att-s-ger-klart-besked-om-v/",
+      "description": "Före valet sa Socialdemokraternas ledare att hon hade ”svårt att se” att Vänsterpartiet kan sitta med i regeringen.&nbsp; Så låter det inte nu.&nbsp; C-toppen Martin Ådahl vill att Magdalena Andersson ger ett tydligt besked om saken.&nbsp; – Då blir det lättare att komma framåt, säger han till Svenska Dagbladet. &nbsp;",
+      "pubDate": "2026-10-29T16:49:59Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
         "V"
       ]
     },
     {
-      "title": "Aliya och Najib utvisades till Somalia – i väntan på ny stopplag",
-      "link": "https://www.svt.se/nyheter/inrikes/aliya-och-najib-utvisades-till-somalia-i-vantan-pa-ny-stopplag",
-      "description": "I valrörelsen lovade de rödgröna partierna att stoppa de så kallade tonårsutvisningarna. Men i väntan på ny lagstiftning fortsätter unga vuxna att utvisas från Sverige. SVT träffade Aliya och Najib timmar innan de utvisades till Somalia. – Jag är jättebesviken. De säger i sociala medier att de vill stoppa dem, att de vill pausa. Men på riktigt så pausas det inte, säger Aliya.",
-      "pubDate": "2026-10-28T16:56:39Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Valmyndigheten: Vi är redo för extraval",
-      "link": "https://www.svt.se/nyheter/inrikes/valmyndigheten-vi-ar-redo-for-extraval",
-      "description": "Riksdagen har efter ett försök inte lyckats rösta fram en ny regering. Om man misslyckas med alla fyra försök väntar extraval. – Vi är redo, säger Valmyndighetens kanslichef Anna Nyqvist.",
-      "pubDate": "2026-10-28T08:30:14Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kristersson: Olika uppfattningar om det är dags att tala med Putin",
-      "link": "https://www.dn.se/sverige/kristersson-olika-uppfattningar-om-det-ar-dags-att-tala-med-putin/",
-      "description": "HELSINGFORS. Statsminister Ulf Kristersson anser inte att han fått någon förklaring till Finlands och Norges initiativ att samtala med Ryssland. – Inte annat än att de tycker att det är dags att tala med Putin. Jag tror att det finns lite olika uppfattningar om det.",
-      "pubDate": "2026-10-27T19:13:35Z",
+      "title": "Tomas Ramberg: Sanningens minut för Thand Ringqvist",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-sanningens-minut-for-thand-ringqvist/",
+      "description": "Talmannen vill en gång för alla få bort Centerns tänkta mittenregering från regeringsbildningen. För att stampa in budskapet ber han riksdagen rösta ner centerledarens förslag. Nu sitter Elisabeth Thand Ringqvist med Svarte Petter i spelet om regeringen.",
+      "pubDate": "2026-10-29T16:40:05Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
+        "C",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "DN/Ipsos: Kristersson vinnare när rödgröna inte får ihop regering",
-      "link": "https://www.dn.se/sverige/dn-ipsos-kristersson-vinnare-nar-rodgrona-inte-far-ihop-regering/",
-      "description": "Moderaterna fortsätter att gå starkt i opinionen och får sin högsta notering på mer än åtta år. Samtidigt har Tidöpartierna ett klart övertag på de rödgröna, visar DN/Ipsos mätning. – Det är en varningssignal till de rödgröna om det blir extra val, säger Nicklas Källebring på Ipsos.",
-      "pubDate": "2026-10-27T17:34:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Storstäderna får rödgröna styren – ”Behöver inte ge Magdalena Andersson några råd”",
-      "link": "https://www.dn.se/sverige/storstaderna-far-rodgrona-styren-behover-inte-ge-magdalena-andersson-nagra-rad/",
-      "description": "Malmö höjer skatten men Göteborg och Stockholm ligger still. Samtidigt får stockholmarna behålla tre kronor mer per hundring jämfört med de andra. En sak är dock gemensam: Medan de har svårt att komma överens om regeringsmakten står det klart att S, V och MP ska styra landets tre största städer.",
-      "pubDate": "2026-10-27T11:47:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Öronmärkta miljoner till kronprinsessans firande",
-      "link": "https://www.svt.se/nyheter/inrikes/oronmarkta-miljoner-till-kronprinsessans-firande",
-      "description": "Regeringen planerar att lägga en övergångsbudget – utan ny politik. Samtidigt skjuter finansministern till öronmärkta pengar till kronprinsessan Victorias 50-årsfirande nästa år. – Stora delar av svenska folket tycker att det är viktigt, säger Elisabeth Svantesson (M).",
-      "pubDate": "2026-10-27T11:34:33Z",
+      "title": "Talmannens besked: Statsministeromröstning om Elisabeth Thand Ringqvist (C)",
+      "link": "https://www.svt.se/nyheter/inrikes/talmannens-besked-statsministeromrostning-om-elisabeth-thand-ringqvist-c",
+      "description": "C-ledaren Elisabeth Thand Ringqvist kommer att prövas i en statsministeromröstning nästa vecka. Om hon faller blir det M-ledaren Ulf Kristersson som får sonderingsuppdraget av talmannen. – Genom att vi genomför en statsministeromröstning så kommer vi närmare extravalet och då ökar ju pressen på alla inblandade partier, säger Andreas Norlén (M).",
+      "pubDate": "2026-10-29T15:51:20Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M"
+        "M",
+        "C",
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "Vallöften får vänta i budgeten – kronprinsessans firande säkrat",
-      "link": "https://www.dn.se/sverige/valloften-far-vanta-i-budgeten-kronprinsessans-firande-sakrat/",
-      "description": "Den 12 november kommer finansminister Elisabeth Svantesson (M) att lägga fram en övergångsbudget – helt fri från vallöften och ny politik. Men kronprinsessan Victorias 50-årsfirande är säkrat. – Hon fyller 50 en gång, och det är nästa år, så jag tycker att det är helt rimligt, säger Svantesson.",
-      "pubDate": "2026-10-27T11:30:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Fortfarande hemligt vilka S vill regera med: ”Fel läge”",
-      "link": "https://www.svt.se/nyheter/inrikes/fortfarande-hemligt-vilka-s-vill-regera-med-fel-lage",
-      "description": "C-ledaren Elisabeth Thand Ringqvist vill att S berättar vilka partier de vill bilda regering med. Men S-toppen Anders Ygeman tycker inte att partiet behöver svara. – Det här är fel läge att dra upp nya röda linjer och skriva nya önskelistor, säger han.",
-      "pubDate": "2026-10-26T15:25:04Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "C-ledaren: ”Inget stöd för en mittenregering”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-inget-stod-for-en-mittenregering",
-      "description": "Elisabeth Thand Ringqvist (C) säger att hoppet om en mittenregering för tillfället kan begravas. Nu är det upp till de andra partierna att göra något åt sina röda linjer, säger C-ledaren. – Det vore bra om Socialdemokraterna sa vilken regering man vill se.",
-      "pubDate": "2026-10-26T11:37:12Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "De rödgröna tror på en regering efter nyår",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/de-rodgrona-tror-pa-en-regering-efter-nyar/",
+      "description": "Hur pressad är talmannen? Borde Magdalena Andersson stötta en alliansregering – för att hålla Sverigedemokraterna borta? Och när kan en ny regering egentligen vara på plats? Lyssna på ”Politikrummets” frågepodd.",
+      "pubDate": "2026-10-29T15:30:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "C"
+        "SD"
+      ]
+    },
+    {
+      "title": "Fredrik Furtenbach: Talmannen är i ett väldigt svårt läge",
+      "link": "https://www.sverigesradio.se/artikel/9330984",
+      "description": "C-ledaren Elisabeth Thand Ringqvist ska prövas i en statsministeromröstning på tisdag, meddelade talmannen Andreas Norlén (M) på en pressträff. Ekots inrikespolitiska kommentator Fredrik Furtenbach säger att beskedet är klart överraskande. ”Jag tolkar det här som ett uttryck för att talmannen är i ett väldigt svårt läge, han är i korstryck. Varken Magdalena Andersson eller Ulf Kristersson har velat ha omröstningar om sig själva som statsministrar i det här läget, och det har lett till det här udda förslaget”, säger Fredrik Furtenbach.",
+      "pubDate": "2026-10-29T15:20:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kritiken efter talmannens besked om Elisabeth Thand Ringqvist",
+      "link": "https://www.expressen.se/nyheter/sverige/kritiken-efter-talmannens-besked-sa-radd/",
+      "description": "Talmannen meddelar på torsdagen att riksdagen kommer att rösta om Elisabeth Thand Ringqvist (C) som statsminister. Efter beskedet riktar Liberalernas partiledare Simona Mohamsson kritik mot Socialdemokraterna.&nbsp; ”Nu är Magdalena Andersson så rädd för riksdagen att vi får rösta om Centerpartiet”, skriver hon på X.",
+      "pubDate": "2026-10-29T15:04:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "L",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Talmannens överraskande drag: Prövar C-ledaren som statsminister",
+      "link": "https://www.dn.se/sverige/c-ledaren-ska-provas-som-statsminister-det-finns-andra-mojliga-vagar-framat/",
+      "description": "C-ledaren Elisabeth Thand Ringqvist kommer att prövas i en statsministeromröstning på tisdag i nästa vecka. Detta trots att hon egentligen inte vill ha uppdraget. – Det hade varit bättre om vi hade kunnat gå till omröstning med en kandidat som uppenbart hade kunnat bli vald, säger talman Andreas Norlén.",
+      "pubDate": "2026-10-29T14:47:31Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C-ledaren ska prövas i statsministeromröstning",
+      "link": "https://www.sverigesradio.se/artikel/9330904",
+      "description": "Centerpartiets partiledare Elisabeth Thand Ringqvist ska prövas i en statsministeromröstning på tisdag, 3 november, klockan 13. Det säger talman Andreas Norlén (M) på en pressträff på torsdagen. C-ledaren har gått med på att vara kandidat trots att hon inte själv sonderat med ambitionen att bli statsminister, säger talmannen. Om Thand Ringqvist inte väljs på tisdag får Kristersson uppdraget att sondera, säger talmannen.",
+      "pubDate": "2026-10-29T14:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Stor irritation mot Andersson i C – ”bisarr” situation",
+      "link": "https://www.expressen.se/nyheter/politik/stor-irritation-mot-andersson-i-c-bisarr-situation/",
+      "description": "Det blir en statsministeromröstning om Elisabeth Thand Ringqvist (C) – trots att hon saknar stöd. Bakgrunden är att varken Kristersson eller Andersson ville sondera, erfar Expressen. En ”bisarr” situation, enligt C-källor. Thand Ringqvist menar att S nu måste vara ”tydligare”&nbsp;om vilka de vill styra med.",
+      "pubDate": "2026-10-29T14:40:11Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "Regeringsbildning"
       ]
     }
   ],
@@ -313,6 +331,19 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "329. Talmannens oväntade besked",
+      "link": "https://pod.space/politikrummet/329-talmannens-ovantade-besked",
+      "description": "Extraavsnitt direkt från riksdagen.&nbsp; Kommer nästa statsminister heta Elisabeth Thand Ringqvist? Vad betyder talmannens besked för den rödgröna regeringsbildningen? I riksdagens poddstudio: Max V Karlsson och Anette Holmqvist. Producent: Anna Westman Swantesson. Ansvarig utgivare: Klas Granström.",
+      "pubDate": "2026-10-29T16:45:10Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "328. Rödgrön regering efter nyår",
       "link": "https://pod.space/politikrummet/328-rodgron-regering-efter-nyar",
@@ -495,19 +526,6 @@
       "topics": [
         "M",
         "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Veckopanelen: Alla kan se att de inte vill sitta i samma rum",
-      "link": "https://pod.space/kvartal/veckopanelen-alla-kan-se-att-de-inte-vill-sitta-i-samma-rum",
-      "description": "Veckopanelen med Dana Pourkomeylian, Chang Frick och Payam Moula under ledning av Jörgen Huitfeldt. Regeringsbildningssåpan går vidare. Samtidigt som inget konkret egentligen har hänt: Låsningarna är kvar och varken förhandlingar eller någon uppgörelse finns i sikte. Borde det rödgröna laget ha förberett sig bättre inför en valseger? Näste sonderare väntas bli Ulf Kristersson. Men vad kan han göra som bryter dödläget? Motvind för Ukraina när USA vänder landet ryggen. Och ska manliga brottslingar som bytt juridiskt kön få avtjäna sitt straff bland biologiska kvinnor?",
-      "pubDate": "2026-10-17T03:45:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
         "Regeringsbildning"
       ]
     }
