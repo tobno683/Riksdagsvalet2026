@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T20:38:26.523468Z",
+  "updated_at": "2026-10-29T00:29:51.066670Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,19 @@
   ],
   "news": [
     {
+      "title": "Katrin Stjernfeldt Jammeh (S) om det låsta läget: ”Ängslighet”",
+      "link": "https://www.expressen.se/nyheter/politik/katrin-stjernfeldt-jammeh-s-om-det-lasta-laget-angslighet/",
+      "description": "S-toppen Katrin Stjernfeldt Jammeh tycker att det är ”olyckligt” att regeringsbildningen tar sån tid.&nbsp; Socialdemokraterna har ett särskilt ansvar. &nbsp; – Det parti som har tänkt ta den yttersta posten har alltid ett ansvar i en förhandling att försöka få alla parter till bordet, säger hon till Svenska Dagbladet. &nbsp;",
+      "pubDate": "2026-10-28T22:12:57Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Blandade känslor bland väljarna efter jämnt val i Israel",
       "link": "https://www.sverigesradio.se/artikel/9330282",
       "description": "De preliminära valresultaten i Israel visar ett jämnt läge mellan blocken. 27-årige Nizan har röstat på Gadi Eisenkot och hoppas på ett regeringsskifte. 70-årige Amos har röstat på mittenvänsterpartiet Demokraterna och vill att oppositionen samarbetar med de arabiska partierna för att bilda regering. 23-åriga Daniella har röstat på Benjamin Netanyahu. Hon tycker att Israel behöver en ledare som är ”lite galen”, och inte är rädd. Men hon väntar med att fira.",
@@ -99,30 +112,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Lawen Redar: SD är etnonationalister",
-      "link": "https://www.expressen.se/nyheter/politik/lawen-redar-sd-ar-etnonationalister/",
-      "description": "Sverigedemokraterna är ett etnonationalistiskt parti – oavsett vad man själv påstår. Det säger Lawen Redar (S) efter det infekterade SD-bråket. – Det handlar om den kanske värsta formen av rasism.",
-      "pubDate": "2026-10-28T15:53:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Jomshof om SD-bråket: Håller med Åkesson ”till 100 procent”",
-      "link": "https://www.expressen.se/nyheter/politik/jomshof-om-sd-braket-haller-med-akesson-till-100-procent/",
-      "description": "Bråket om svenskhet inom SD fortsätter. Efter den heta ordväxlingen med SD-toppen Mattias Karlsson kommer Richard Jomshof nu med ett nytt utspel. ”Det finns alltså ingen motsättning”, skriver han på X.",
-      "pubDate": "2026-10-28T15:10:07Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
     },
     {
       "title": "Insändare. Svar: Vänsterpartiet står för omvänd rasism",
@@ -249,6 +238,18 @@
       "pubDate": "2026-10-27T00:00:00Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Fortfarande hemligt vilka S vill regera med: ”Fel läge”",
+      "link": "https://www.svt.se/nyheter/inrikes/fortfarande-hemligt-vilka-s-vill-regera-med-fel-lage",
+      "description": "C-ledaren Elisabeth Thand Ringqvist vill att S berättar vilka partier de vill bilda regering med. Men S-toppen Anders Ygeman tycker inte att partiet behöver svara. – Det här är fel läge att dra upp nya röda linjer och skriva nya önskelistor, säger han.",
+      "pubDate": "2026-10-26T15:25:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "C"
