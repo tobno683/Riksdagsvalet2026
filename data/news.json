@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T00:29:51.066670Z",
+  "updated_at": "2026-10-29T06:13:34.992542Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,33 @@
     }
   ],
   "news": [
+    {
+      "title": "Ny mätning: Moderaterna nästan ikapp S",
+      "link": "https://www.expressen.se/nyheter/politik/ny-matning-moderaterna-nastan-ikapp-s/",
+      "description": "Moderaterna är nästan lika stora som Socialdemokraterna, enligt Indikators oktobermätning rapporterar Ekot. M ökar med 6,5 procentenheter jämfört med valresultatet.",
+      "pubDate": "2026-10-29T05:45:49Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "M nästan ikapp S i Indikators oktobermätning",
+      "link": "https://www.sverigesradio.se/artikel/9329097",
+      "description": "Socialdemokraternas position som största parti hotas i Indikator Opinions oktobermätning där Moderaterna är nästan lika stora som Socialdemokraterna; det skiljer bara 0,7 procentenheter. Moderaterna ökar med 6,5 procentenheter jämfört med valresultatet och vinner både väljarröster från de andra Tidöpartierna och från Centerpartiet och Socialdemokraterna. ”Jag tror att det som speglas i det här, det är en otålighet som väljarna känner och den känner jag också. Jag vill såklart få en regering på plats”, säger Tobias Baudin, Socialdemokraternas partisekreterare.",
+      "pubDate": "2026-10-29T05:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
     {
       "title": "Katrin Stjernfeldt Jammeh (S) om det låsta läget: ”Ängslighet”",
       "link": "https://www.expressen.se/nyheter/politik/katrin-stjernfeldt-jammeh-s-om-det-lasta-laget-angslighet/",
@@ -230,30 +257,6 @@
         "M",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "”Stå för att ni är nepobabies!”",
-      "link": "https://www.dn.se/podd/armstrong-sokolnicki/sta-for-att-ni-ar-nepobabies/",
-      "description": "Amie Bramme Sey vikarierar för Kirsty och undrar om Amanda någonsin stått på barrikaderna med en gatsten i handen. Dessutom: Räkna flintarna mest spännande på Elisabeth Thand Ringqvists pressträff, valet i Brasilien och nepobabies!",
-      "pubDate": "2026-10-27T00:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Fortfarande hemligt vilka S vill regera med: ”Fel läge”",
-      "link": "https://www.svt.se/nyheter/inrikes/fortfarande-hemligt-vilka-s-vill-regera-med-fel-lage",
-      "description": "C-ledaren Elisabeth Thand Ringqvist vill att S berättar vilka partier de vill bilda regering med. Men S-toppen Anders Ygeman tycker inte att partiet behöver svara. – Det här är fel läge att dra upp nya röda linjer och skriva nya önskelistor, säger han.",
-      "pubDate": "2026-10-26T15:25:04Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
     }
   ],
   "blogs": [
@@ -315,18 +318,6 @@
       "sourceType": "blog",
       "topics": [
         "Opinion"
-      ]
-    },
-    {
-      "title": "Sveriges Unga Muslimer lade grunden för Brödraskapet i Europa",
-      "link": "https://ledarsidorna.se/sveriges-unga-muslimer-lade-grunden-for-brodraskapet-i-europa/",
-      "description": "Vid voteringen i Europaparlamentet om att anta en resolution som skulle motverka islamistisk entrism i EU röstade fem socialdemokrater nej vid voteringen. Detta efter omfattande påverkansarbete av den muslimska organisationen FEMYSO. En organisation som har sitt ursprung i Sverige och kan kopplas direkt till det Muslimska brödraskapet. Det idag nedlagda Sveriges Unga Muslimer bildades 1990–1991. [&#8230;]",
-      "pubDate": "2026-10-20T03:22:55Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
       ]
     }
   ],
