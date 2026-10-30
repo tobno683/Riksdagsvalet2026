@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T16:04:26.305270Z",
+  "updated_at": "2026-10-30T20:55:36.173676Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,117 @@
   ],
   "news": [
     {
+      "title": "USApodden inför mellanårsvalet: Iowa",
+      "link": "https://www.sverigesradio.se/artikel/9331940",
+      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Iowa. Där ställer republikanen Ashley Hinson och demokraten Josh Turek upp i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
+      "pubDate": "2026-10-30T20:51:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "USApodden inför mellanårsvalet: Maine",
+      "link": "https://www.sverigesradio.se/artikel/9331939",
+      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Maine. Där utmanar demokraten Troy Jackson den sittande republikanske senatorn Susan Collins. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
+      "pubDate": "2026-10-30T20:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "USApodden inför mellanårsvalet: Michigan",
+      "link": "https://www.sverigesradio.se/artikel/9331937",
+      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Michigan. Där är det alltså Abdul El-Sayed från Demokraterna och republikanen Mike Rogers som gör upp i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
+      "pubDate": "2026-10-30T20:39:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "USApodden inför mellanårsvalet: Texas",
+      "link": "https://www.sverigesradio.se/artikel/9331935",
+      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Texas där demokraten James Talarico och republikanen Ken Paxton gör upp i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra mellanårsvalet, klicka här .",
+      "pubDate": "2026-10-30T20:25:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Uppgifter: Kris hos Riks – SD kan dra in miljonstöd",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-kris-hos-riks-sd-kan-dra-in-miljonstod/",
+      "description": "Det uppges krisa hos den SD-nära mediekanalen Riks. Flera medarbetare varslas och vissa har redan sagts upp, enligt uppgifter till SVT. Samtidigt kan Sverigedemokraterna vara på väg att dra in sitt miljonstöd, enligt Kvartals uppgifter. – Jag får faktiskt vara helt ärlig, jag har inte hört någonting, säger vd Jacob Hagnell.",
+      "pubDate": "2026-10-30T18:37:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: 20 års kamp står på spel för Åkesson",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-20-ars-kamp-star-pa-spel-for-akesson/",
+      "description": "Jimmie Åkesson har tunga skäl att ta till storsläggan mot de sverigedemokrater som pratar om etnicitet. Det som står på spel är 20 års framgångsrik kamp för att kasta av partiet rasiststämpeln.",
+      "pubDate": "2026-10-30T18:25:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Regeringen aktiverar högkostnadsskydd för elområde 4",
+      "link": "https://www.dn.se/sverige/regeringen-aktiverar-hogkostnadsskydd-for-elomrade-4/",
+      "description": "På grund av höga elpriser i södra Sverige har regeringen beslutat att aktivera högkostnadsskydd för elområde 4. När stödet betalas ut kommer det ”sannolikt handla om små belopp”, enligt energiminister Ebba Busch.",
+      "pubDate": "2026-10-30T17:46:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Högkostnadsskyddet  för elområde 4 aktiveras",
+      "link": "https://www.expressen.se/ekonomi/hogkostnadsskyddet--for-elomrade-4-aktiveras/",
+      "description": "I oktober har elpriserna i södra Sverige legat på 1,5 kronor per kilowattimme. Det gör att regeringen nu aktiverar högkostnadsskyddet. Enligt energiminister Ebba Busch (KD) kommer det ”sannolikt handla om små belopp”.",
+      "pubDate": "2026-10-30T17:07:03Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "C-toppen kräver svar av S: ”Vill de se V i regering?”",
+      "link": "https://www.dn.se/sverige/c-toppen-kraver-svar-av-s-vill-de-se-v-i-regering/",
+      "description": "Talmannen Andreas Norléns beslut att snabba på med statsministeromröstningar ökar pressen på Centerpartiet att välja sida: rödgröna eller Tidö, anser Vänsterpartiet. Hos C vill man i stället att Magdalena Andersson tar större ansvar för regeringsbildningen. ”Vill de se V i regering eller inte?”, frågar CUF-toppen Emelie Rossheim.",
+      "pubDate": "2026-10-30T16:29:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Väljarnas dom: Socialdemokraterna är fast i det förgångna",
       "link": "https://www.dn.se/sverige/valjarnas-dom-socialdemokraterna-ar-fast-i-det-forgangna/",
       "description": "Socialdemokraterna klagar mer på andras politik än pratar om vad man själv vill. Dessutom vacklar partiet hit och dit och är fast i det förgångna. Det är väljarnas dom i en färsk mätning från DN/Ipsos. – Det finns inget positivt för S i den här mätningen, säger Nicklas Källebring på Ipsos.",
@@ -151,116 +262,6 @@
       "topics": [
         "SD"
       ]
-    },
-    {
-      "title": "Intern S-kritik mot strategin: ”Ett jättestort misstag”",
-      "link": "https://www.svt.se/nyheter/inrikes/intern-s-kritik-mot-strategin-ett-jattestort-misstag",
-      "description": "Sverige står fortfarande utan ny regering. Inom de rödgröna partierna växer nu frustrationen mot S-ledaren Magdalena Anderssons hantering av regeringsbildningen, uppger källor för SVT. – Jag förstår verkligen Vänsterpartiets känslor och att de har känt sig lurade, säger S-profilen Annie Ross.",
-      "pubDate": "2026-10-30T10:37:31Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Filmlistan vecka 44: Höstmys med romantiska ”Sense and sensibility”",
-      "link": "https://www.dn.se/kultur/filmlistan-vecka-44-hostmys-med-romantiska-sense-and-sensibility/",
-      "description": "Brittisk kostymfilmseskapism med attityd, fransk uppväxtskildring med klasskänsla och romantisk komedi på svenska om kärlek på spektrat. DN:s filmredaktör Helena Lindblad listar veckan bästa filmer.",
-      "pubDate": "2026-10-30T08:05:45Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Åkesson ger sig in i svenskhet-konflikten",
-      "link": "https://www.sverigesradio.se/artikel/9331256",
-      "description": "Debatten har rasat mellan sverigedemokratiska profiler den senaste tiden, om vilken roll etnicitet ska spela i begreppet ”svenskhet”.&nbsp; Diskussionen har återkommit med jämna mellanrum i partiet och under fredagsmorgonen skrev Jimmie Åkesson en längre text i Expressen där han förtydligade partiets ståndpunkt. Partiledaren skriver att han har förståelse för frågeställningens komplexitet men att han som sverigedemokrat ”inte tvekar att svara ja på frågan om man kan bli svensk även om man inte föds som svensk”. Han skriver också att ”Det är extremt provocerande när egocentriska, självutnämnda idéväktare moraliserar” och att man som parti måste förhålla sig till verkligheten. &nbsp;”Alla som tror, tycker och förfäktar att just deras personliga principer och åsikter är de enda rätta, passar dåligt i ett politiskt parti”, skriver han.",
-      "pubDate": "2026-10-30T07:25:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Åkesson: ”Egocentriska, självutnämnda idéväktare”",
-      "link": "https://www.dn.se/sverige/akesson-egocentriska-sjalvutnamnda-idevaktare/",
-      "description": "SD-ledaren Jimmie Åkesson kommenterar i en debattartikel i Expressen för första gången den senaste tidens partiinterna diskussion om begreppet svenskhet. Med starka ord tar han tydlig ställning för den kulturnationalistiska linjen. ”Vad fan har ni åstadkommit”, skriver han om meningsmotståndarna som han kallar ”egocentriska, självutnämnda idéväktare”.",
-      "pubDate": "2026-10-30T07:23:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "EU vill lätta på miljökrav för att öppna gruvor",
-      "link": "https://www.sverigesradio.se/artikel/9331055",
-      "description": "EU-kommissionen vill lätta på reglerna i den lag som ska skydda Europas vatten från föroreningar. Detta för att fler gruvor ska kunna öppnas i Europa. Gruvindustrins lobbyorganisation Euromines vill ha fler undantag från miljökraven, så att gruvor lättare ska kunna få tillstånd även om vatten riskerar att förorenas. Kommissionens lagförslag är försenat och innehållet fortfarande okänt. Vänsterpartiets Jonas Sjöstedt hoppas att förslaget aldrig läggs fram.",
-      "pubDate": "2026-10-30T04:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Motståndet mot V i regering ökar",
-      "link": "https://www.sverigesradio.se/artikel/9329322",
-      "description": "Allt färre väljare vill se Vänsterpartiet i regeringen. Runt två av fem säger nu nej till en sådan utveckling. Det visar Indikator Opinions oktobermätning. På bara ett halvår har siffran ökat med cirka 10 procentenheter – från 31 procent i mars till 42 procent nu. Jan Teorell, professor i Statsvetenskap vid Stockholms universitet, tror att utvecklingen kan hänga ihop med den tröga regeringsbildningsprocessen: ”Att det är fler som har fått ögonen på att V hör till de partier som blockerar en regeringsbildning verkar ju inte vara en orimlig tolkning”.",
-      "pubDate": "2026-10-30T04:34:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kan bli rekord i förtidsröstning – kongressmakt på spel",
-      "link": "https://www.sverigesradio.se/artikel/9331207",
-      "description": "Förtidsröstningen inför mellanårsvalet i USA ser ut att bli rekordstor. Med fem dagar kvar till valdagen har 43 miljoner amerikaner hittills röstat. Statistik från valforskare vid University of Florida tyder på att röstningsmönstren skiljer sig mellan partierna och att de flesta som röstar i förväg är demokrater. ”Normalt sett ser vi inte så här stora väljarströmmar så tidigt”, säger kampanjarbetaren Harold Harris vid en vallokal i Toledo, Ohio, till vår korrespondent.",
-      "pubDate": "2026-10-30T02:35:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "29 oktober: Här är dagens nyheter",
-      "link": "https://www.dn.se/varlden/29-oktober-har-ar-dagens-nyheter/",
-      "description": "Talmannen prövar C-ledaren som statsminister, många vill ge blod efter tågolyckan i Spanien och guldstriden lever i Allsvenskan – här är dagens nyheter.",
-      "pubDate": "2026-10-29T20:08:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Statsvetaren om talmannens tempo: Ökar sannolikheten för extra val",
-      "link": "https://www.dn.se/sverige/statsvetaren-om-talmannens-tempo-okar-sannolikheten-for-extra-val/",
-      "description": "Talmannen har meddelat att C-ledaren Elisabeth Thand Ringqvist ska ställas inför en statsministeromröstning. Minst lika anmärkningsvärt är det tempo som talmannen driver fram processen med, enligt experter. – Tiden kan vara avgörande för extra val, säger statsvetaren Jenny Madestam.",
-      "pubDate": "2026-10-29T19:29:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
@@ -286,18 +287,6 @@
       "sourceType": "blog",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Så avslöjades fusk med opinionsmätningar",
-      "link": "https://ledarsidorna.se/sa-avslojades-fusk-med-opinionsmatningar/",
-      "description": "En av opinionsföretagens största internationella branschorganisationer, AAPOR, gick under gårdagen ut med ett kraftigt fördömande av användandet av syntetiska undersökningar som bygger på bland annat AI. Uttalandet är i allra högsta grad relevant för Sverige där debatten om opinionsföretagens metoder knappt avslutats efter valrörelsen. I fyra månader levererade ett amerikanskt opinionsinstitut siffror som togs på [&#8230;]",
-      "pubDate": "2026-10-22T03:04:11Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "Opinion"
       ]
     }
   ],
