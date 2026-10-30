@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T02:44:01.455263Z",
+  "updated_at": "2026-10-30T09:10:41.383951Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,117 @@
   ],
   "news": [
     {
+      "title": "Filmlistan vecka 44: Höstmys med romantiska ”Sense and sensibility”",
+      "link": "https://www.dn.se/kultur/filmlistan-vecka-44-hostmys-med-romantiska-sense-and-sensibility/",
+      "description": "Brittisk kostymfilmseskapism med attityd, fransk uppväxtskildring med klasskänsla och romantisk komedi på svenska om kärlek på spektrat. DN:s filmredaktör Helena Lindblad listar veckan bästa filmer.",
+      "pubDate": "2026-10-30T08:05:45Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Emelie Rossheim: Vill V offra ett maktskifte?",
+      "link": "https://www.expressen.se/nyheter/politik/emelie-rossheim-vill-v-offra-ett-maktskifte/",
+      "description": "Cuf-ledaren Emelie Rossheim vädjar till Vänsterpartiet att släppa regeringskravet. Annars kommer den rödgröna ”soppan” inte att lösa sig, varnar hon. – Är V villiga att offra medmänsklig politik och ett maktskifte?",
+      "pubDate": "2026-10-30T07:45:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Nya C-strategin: Pressar S om ett regeringsbesked",
+      "link": "https://www.expressen.se/nyheter/politik/nya-c-strategin-pressar-s-om-ett-regeringsbesked/",
+      "description": "Regeringsbildningen går trögt.&nbsp; Nu måste Socialdemokraterna ge besked om vilka de vill bilda regering med, menar Centerpartiets ledning.&nbsp; – Det är naturligt att Centerpartiet höjer insatserna på sin sida litegrann och markerar att regeringsbildningen är Socialdemokraternas ansvar, säger statsvetaren Andreas Johansson Heinö.&nbsp;",
+      "pubDate": "2026-10-30T07:42:39Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Väljarnas dom mot V efter regeringskaoset",
+      "link": "https://www.expressen.se/nyheter/politik/valjarnas-dom-mot-v-efter-regeringskaoset/",
+      "description": "Bara två av fem väljare vill se Vänsterpartiet i en regering, enligt Indikator Opinions oktobermätning.&nbsp; En förändring med 10 procentenheter på ett halvår.&nbsp; – Jag skulle gissa på att det har att göra med det som pågår just nu, säger Jan Teorell, professor i statsvetenskap vid Stockholms universitet, till Sveriges radio Ekot .&nbsp;",
+      "pubDate": "2026-10-30T07:36:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Åkesson ger sig in i svenskhet-konflikten",
+      "link": "https://www.sverigesradio.se/artikel/9331256",
+      "description": "Debatten har rasat mellan sverigedemokratiska profiler den senaste tiden, om vilken roll etnicitet ska spela i begreppet ”svenskhet”.&nbsp; Diskussionen har återkommit med jämna mellanrum i partiet och under fredagsmorgonen skrev Jimmie Åkesson en längre text i Expressen där han förtydligade partiets ståndpunkt. Partiledaren skriver att han har förståelse för frågeställningens komplexitet men att han som sverigedemokrat ”inte tvekar att svara ja på frågan om man kan bli svensk även om man inte föds som svensk”. Han skriver också att ”Det är extremt provocerande när egocentriska, självutnämnda idéväktare moraliserar” och att man som parti måste förhålla sig till verkligheten. &nbsp;”Alla som tror, tycker och förfäktar att just deras personliga principer och åsikter är de enda rätta, passar dåligt i ett politiskt parti”, skriver han.",
+      "pubDate": "2026-10-30T07:25:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Åkesson: ”Egocentriska, självutnämnda idéväktare”",
+      "link": "https://www.dn.se/sverige/akesson-egocentriska-sjalvutnamnda-idevaktare/",
+      "description": "SD-ledaren Jimmie Åkesson kommenterar i en debattartikel i Expressen för första gången den senaste tidens partiinterna diskussion om begreppet svenskhet. Med starka ord tar han tydlig ställning för den kulturnationalistiska linjen. ”Vad fan har ni åstadkommit”, skriver han om meningsmotståndarna som han kallar ”egocentriska, självutnämnda idéväktare”.",
+      "pubDate": "2026-10-30T07:23:52Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Åkesson ger sig in i storbråket: ”Extremt provocerande”",
+      "link": "https://www.expressen.se/nyheter/politik/akesson-ger-sig-in-i-storbraket-extremt-provocerande/",
+      "description": "Konflikten om svenskhet har blivit ett infekterat storbråk inom SD. Nu sätter Jimmie Åkesson ner foten. ”Ärligt talat, vad fan har ni åstadkommit?” , skriver han på Expressen Debatt. &nbsp;",
+      "pubDate": "2026-10-30T06:25:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "EU vill lätta på miljökrav för att öppna gruvor",
+      "link": "https://www.sverigesradio.se/artikel/9331055",
+      "description": "EU-kommissionen vill lätta på reglerna i den lag som ska skydda Europas vatten från föroreningar. Detta för att fler gruvor ska kunna öppnas i Europa. Gruvindustrins lobbyorganisation Euromines vill ha fler undantag från miljökraven, så att gruvor lättare ska kunna få tillstånd även om vatten riskerar att förorenas. Kommissionens lagförslag är försenat och innehållet fortfarande okänt. Vänsterpartiets Jonas Sjöstedt hoppas att förslaget aldrig läggs fram.",
+      "pubDate": "2026-10-30T04:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Motståndet mot V i regering ökar",
+      "link": "https://www.sverigesradio.se/artikel/9329322",
+      "description": "Allt färre väljare vill se Vänsterpartiet i regeringen. Runt två av fem säger nu nej till en sådan utveckling. Det visar Indikator Opinions oktobermätning. På bara ett halvår har siffran ökat med cirka 10 procentenheter – från 31 procent i mars till 42 procent nu. Jan Teorell, professor i Statsvetenskap vid Stockholms universitet, tror att utvecklingen kan hänga ihop med den tröga regeringsbildningsprocessen: ”Att det är fler som har fått ögonen på att V hör till de partier som blockerar en regeringsbildning verkar ju inte vara en orimlig tolkning”.",
+      "pubDate": "2026-10-30T04:34:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Kan bli rekord i förtidsröstning – kongressmakt på spel",
       "link": "https://www.sverigesradio.se/artikel/9331207",
       "description": "Förtidsröstningen inför mellanårsvalet i USA ser ut att bli rekordstor. Med fem dagar kvar till valdagen har 43 miljoner amerikaner hittills röstat. Statistik från valforskare vid University of Florida tyder på att röstningsmönstren skiljer sig mellan partierna och att de flesta som röstar i förväg är demokrater. ”Normalt sett ser vi inte så här stora väljarströmmar så tidigt”, säger kampanjarbetaren Harold Harris vid en vallokal i Toledo, Ohio, till vår korrespondent.",
@@ -87,19 +198,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Tidigare C-profilen: Samarbeta med V – för klimatets skull",
-      "link": "https://www.expressen.se/nyheter/politik/tidigare-c-profilen-samarbeta-med-v-for-klimatets-skull/",
-      "description": "Centern borde samarbeta med Vänsterpartiet. Det menar Ola Spännar, tidigare kommunikationschef för C. ”Det borde vara ett enkelt val för Centerpartiet”, skriver han i en gästkolumn på ledarplats i Dagens ETC .",
-      "pubDate": "2026-10-29T20:29:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
     },
     {
       "title": "29 oktober: Här är dagens nyheter",
@@ -152,18 +250,6 @@
       ]
     },
     {
-      "title": "Norlén borde valt  Kalle Anka i stället",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/norlen-borde-valt--kalle-anka-i-stallet/",
-      "description": "Att rösta om Elisabeth Thand Ringqvist (C) är löjeväckande, men klagomålen är värre. Ingen talman i världen kan rädda de rödgröna från sig själva – eller från varandra.",
-      "pubDate": "2026-10-29T18:14:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "Mindre skillnader i skolpeng föreslås för gymnasiet",
       "link": "https://www.sverigesradio.se/artikel/9330962",
       "description": "Regeringen vill att det ska bli mindre skillnad i hur mycket skolpeng bland annat kommunala och fristående gymnasieskolor kan få. Det enligt en utredning som presenterades under torsdagen. Den föreslår bland annat att riksprislistan, som styr hur mycket pengar en skola ska få per elev, ska anpassas efter elevens studieförmåga, och samordnas mer mellan kommuner. Men förslaget kan inte klubbas nu. ”Min ambition är att kunna skicka ut det här på remiss men det är en övergångsregering, vi får inte ta ny politik”, säger utbildningsminister Simona Mohamsson (L).",
@@ -173,102 +259,6 @@
       "sourceType": "news",
       "topics": [
         "L"
-      ]
-    },
-    {
-      "title": "Rödgrön ilska efter beskedet – C-källa: ”Farsartat”",
-      "link": "https://www.svt.se/nyheter/inrikes/rodgron-ilska-efter-beskedet-c-kalla-farsartat",
-      "description": "Rödgröna partiledare rasar mot talmannens besked om att pröva C-ledaren Elisabeth Thand Ringqvist i en statsministeromröstning. Magdalena Andersson (S) kallar beslutet för ”anmärkningsvärt” – och inom C pyr missnöjet. – Alla tycker att det här är väldigt konstigt, säger en C-källa till SVT.",
-      "pubDate": "2026-10-29T17:32:11Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kritik mot talmannen från S, C och MP – experten: Stressade",
-      "link": "https://www.expressen.se/nyheter/politik/kritik-mot-talmannen-fran-s-c-och-mp-experten-stressade/",
-      "description": "Det blir en statsministeromröstning om Elisabeth Thand Ringqvist nästa vecka. &nbsp; C, S och MP är kritiska till talmannens beslut. &nbsp; – Jag försöker hitta den bästa lösningen i en för mig ganska svår situation, säger Andreas Norlén.&nbsp; Statsvetaren Andreas Johansson Heinö menar att ”all press” nu ligger på de rödgröna partierna.&nbsp;",
-      "pubDate": "2026-10-29T17:22:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Sanningens minut för Thand Ringqvist",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-sanningens-minut-for-thand-ringqvist/",
-      "description": "Talmannen vill en gång för alla få bort Centerns tänkta mittenregering från regeringsbildningen. För att stampa in budskapet ber han riksdagen rösta ner centerledarens förslag. Nu sitter Elisabeth Thand Ringqvist med Svarte Petter i spelet om regeringen.",
-      "pubDate": "2026-10-29T16:40:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Talmannens besked: Statsministeromröstning om Elisabeth Thand Ringqvist (C)",
-      "link": "https://www.svt.se/nyheter/inrikes/talmannens-besked-statsministeromrostning-om-elisabeth-thand-ringqvist-c",
-      "description": "C-ledaren Elisabeth Thand Ringqvist kommer att prövas i en statsministeromröstning nästa vecka. Om hon faller blir det M-ledaren Ulf Kristersson som får sonderingsuppdraget av talmannen. – Genom att vi genomför en statsministeromröstning så kommer vi närmare extravalet och då ökar ju pressen på alla inblandade partier, säger Andreas Norlén (M).",
-      "pubDate": "2026-10-29T15:51:20Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Fredrik Furtenbach: Talmannen är i ett väldigt svårt läge",
-      "link": "https://www.sverigesradio.se/artikel/9330984",
-      "description": "C-ledaren Elisabeth Thand Ringqvist ska prövas i en statsministeromröstning på tisdag, meddelade talmannen Andreas Norlén (M) på en pressträff. Ekots inrikespolitiska kommentator Fredrik Furtenbach säger att beskedet är klart överraskande. ”Jag tolkar det här som ett uttryck för att talmannen är i ett väldigt svårt läge, han är i korstryck. Varken Magdalena Andersson eller Ulf Kristersson har velat ha omröstningar om sig själva som statsministrar i det här läget, och det har lett till det här udda förslaget”, säger Fredrik Furtenbach.",
-      "pubDate": "2026-10-29T15:20:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Talmannens överraskande drag: Prövar C-ledaren som statsminister",
-      "link": "https://www.dn.se/sverige/c-ledaren-ska-provas-som-statsminister-det-finns-andra-mojliga-vagar-framat/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist kommer att prövas i en statsministeromröstning på tisdag i nästa vecka. Detta trots att hon egentligen inte vill ha uppdraget. – Det hade varit bättre om vi hade kunnat gå till omröstning med en kandidat som uppenbart hade kunnat bli vald, säger talman Andreas Norlén.",
-      "pubDate": "2026-10-29T14:47:31Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C-ledaren ska prövas i statsministeromröstning",
-      "link": "https://www.sverigesradio.se/artikel/9330904",
-      "description": "Centerpartiets partiledare Elisabeth Thand Ringqvist ska prövas i en statsministeromröstning på tisdag, 3 november, klockan 13. Det säger talman Andreas Norlén (M) på en pressträff på torsdagen. C-ledaren har gått med på att vara kandidat trots att hon inte själv sonderat med ambitionen att bli statsminister, säger talmannen. Om Thand Ringqvist inte väljs på tisdag får Kristersson uppdraget att sondera, säger talmannen.",
-      "pubDate": "2026-10-29T14:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
       ]
     }
   ],
@@ -283,18 +273,6 @@
       "sourceType": "blog",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Sverigedemokraterna, arbetslösheten och de unga männen",
-      "link": "https://blog.zaramis.se/2026/10/26/sverigedemokraterna-arbetslosheten-och-de-unga-mannen/",
-      "description": "Detta är en kommentar till Lovisa Broströms artikel “Högerextremismens ekonomi” ur Brand. Artikeln har rönt välförtjänt uppmärksamhet för att den framhåller en ekonomisk förklaring till att vissa röstar på Sverigedemokraterna. Det handlar om unga män, framför allt utanför storstadsregionerna. Läs mer … Inlägget Sverigedemokraterna, arbetslösheten och de unga männen dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-10-26T07:01:07Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
       ]
     },
     {
