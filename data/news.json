@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T23:25:43.099553Z",
+  "updated_at": "2026-10-30T02:44:01.455263Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,16 @@
     }
   ],
   "news": [
+    {
+      "title": "Kan bli rekord i förtidsröstning – kongressmakt på spel",
+      "link": "https://www.sverigesradio.se/artikel/9331207",
+      "description": "Förtidsröstningen inför mellanårsvalet i USA ser ut att bli rekordstor. Med fem dagar kvar till valdagen har 43 miljoner amerikaner hittills röstat. Statistik från valforskare vid University of Florida tyder på att röstningsmönstren skiljer sig mellan partierna och att de flesta som röstar i förväg är demokrater. ”Normalt sett ser vi inte så här stora väljarströmmar så tidigt”, säger kampanjarbetaren Harold Harris vid en vallokal i Toledo, Ohio, till vår korrespondent.",
+      "pubDate": "2026-10-30T02:35:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
     {
       "title": "Tidigare C-profilen: Samarbeta med V – för klimatets skull",
       "link": "https://www.expressen.se/nyheter/politik/tidigare-c-profilen-samarbeta-med-v-for-klimatets-skull/",
@@ -190,19 +200,6 @@
       "topics": [
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C-toppen Martin Ådahl kräver att S ger klart besked om V",
-      "link": "https://www.expressen.se/nyheter/politik/c-toppen-martin-adahl-kraver-att-s-ger-klart-besked-om-v/",
-      "description": "Före valet sa Socialdemokraternas ledare att hon hade ”svårt att se” att Vänsterpartiet kan sitta med i regeringen.&nbsp; Så låter det inte nu.&nbsp; C-toppen Martin Ådahl vill att Magdalena Andersson ger ett tydligt besked om saken.&nbsp; – Då blir det lättare att komma framåt, säger han till Svenska Dagbladet. &nbsp;",
-      "pubDate": "2026-10-29T16:49:59Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     },
     {
