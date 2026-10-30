@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T09:10:41.383951Z",
+  "updated_at": "2026-10-30T16:04:26.305270Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,94 @@
   ],
   "news": [
     {
+      "title": "Väljarnas dom: Socialdemokraterna är fast i det förgångna",
+      "link": "https://www.dn.se/sverige/valjarnas-dom-socialdemokraterna-ar-fast-i-det-forgangna/",
+      "description": "Socialdemokraterna klagar mer på andras politik än pratar om vad man själv vill. Dessutom vacklar partiet hit och dit och är fast i det förgångna. Det är väljarnas dom i en färsk mätning från DN/Ipsos. – Det finns inget positivt för S i den här mätningen, säger Nicklas Källebring på Ipsos.",
+      "pubDate": "2026-10-30T15:06:31Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "”Åkessons ultimatum: Rätta in er i ledet, eller lämna”",
+      "link": "https://www.svt.se/nyheter/inrikes/akessons-ultimatum-ratta-in-er-i-ledet-eller-lamna",
+      "description": "Lämna, eller rätta in er i ledet. Det är Jimmie Åkessons hårda budskap till SD-profilen Richard Jomshof och andra som ifrågasätter partilinjen i frågan om svenskhet. Nu viner partipiskan i Sverigedemokraterna och det är Åkesson själv som håller i piskan.",
+      "pubDate": "2026-10-30T14:09:14Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Mobbar talmannen Centerledaren?",
+      "link": "https://www.dn.se/podd/alskade-politik/mobbar-talmannen-centerledaren/",
+      "description": "Varför ska Elisabeth Thand Ringqvist gå till statsministeromröstning när ingen tror hon kan bli vald? Och varför bestämde sig Jimmie Åkesson att det var dags att sätta ner foten i SD:s svenskhetsbråk?",
+      "pubDate": "2026-10-30T12:26:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Statsvetare om SD-bråket: ”Åkesson vill städa framför egen dörr”",
+      "link": "https://www.dn.se/sverige/statsvetare-om-sd-braket-akesson-vill-stada-framfor-egen-dorr/",
+      "description": "Jimmie Åkessons (SD) frontalangrepp mot etnonationalism på Expressen Debatt är ett strategiskt drag för att städa framför egen dörr inför regeringssamarbete, enligt statsvetarprofessor Ann-Cathrine Jungar. Han varnar rentav meningsmotståndare att de kan stängas av om de inte rättar sig i ledet. – Det var läge att sätta ner foten, säger hon.",
+      "pubDate": "2026-10-30T11:57:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson (SD) sätter ner foten – efter det interna bråket",
+      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-sd-satter-ner-foten-efter-det-interna-braket",
+      "description": "Sedan valet har Sverigedemokraterna präglats av en infekterad debatt om svenskhet. Nu sätter partiledaren Jimmie Åkesson ned foten i partikonflikten. Han slår fast att man enligt partiet kan bli svensk utan att vara född i Sverige och att företrädare ska stå bakom principen. ”Annars får man kliva av, eller bli avslängd”, skriver SD-ledaren i en debattartikel i Expressen.",
+      "pubDate": "2026-10-30T11:54:59Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Fredrik Furtenbach: Jimmie Åkesson ser tydligt arg ut",
+      "link": "https://www.sverigesradio.se/artikel/9331509",
+      "description": "Inom Sverigedemokraterna rasar just nu en debatt om vem som egentligen är svensk, men i en debattartikel i Expressen idag skriver partiledaren Jimmie Åkesson att den diskussionen inte hör hemma i partiet. Fredrik Furtenbach är inrikespolitisk kommentator på Ekot: ”Det är en dragkamp mellan en mer radikal höger och en mer pragmatisk del”. Han fortsätter: ”Rätt många Sverigedemokrater har frågat sig hur man ska vinna val när så många i Sverige har utländsk bakgrund och många av dem röstar rött”.",
+      "pubDate": "2026-10-30T11:48:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Intern S-kritik mot strategin: ”Ett jättestort misstag”",
+      "link": "https://www.svt.se/nyheter/inrikes/intern-s-kritik-mot-strategin-ett-jattestort-misstag",
+      "description": "Sverige står fortfarande utan ny regering. Inom de rödgröna partierna växer nu frustrationen mot S-ledaren Magdalena Anderssons hantering av regeringsbildningen, uppger källor för SVT. – Jag förstår verkligen Vänsterpartiets känslor och att de har känt sig lurade, säger S-profilen Annie Ross.",
+      "pubDate": "2026-10-30T10:37:31Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Filmlistan vecka 44: Höstmys med romantiska ”Sense and sensibility”",
       "link": "https://www.dn.se/kultur/filmlistan-vecka-44-hostmys-med-romantiska-sense-and-sensibility/",
       "description": "Brittisk kostymfilmseskapism med attityd, fransk uppväxtskildring med klasskänsla och romantisk komedi på svenska om kärlek på spektrat. DN:s filmredaktör Helena Lindblad listar veckan bästa filmer.",
@@ -88,44 +176,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Emelie Rossheim: Vill V offra ett maktskifte?",
-      "link": "https://www.expressen.se/nyheter/politik/emelie-rossheim-vill-v-offra-ett-maktskifte/",
-      "description": "Cuf-ledaren Emelie Rossheim vädjar till Vänsterpartiet att släppa regeringskravet. Annars kommer den rödgröna ”soppan” inte att lösa sig, varnar hon. – Är V villiga att offra medmänsklig politik och ett maktskifte?",
-      "pubDate": "2026-10-30T07:45:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Nya C-strategin: Pressar S om ett regeringsbesked",
-      "link": "https://www.expressen.se/nyheter/politik/nya-c-strategin-pressar-s-om-ett-regeringsbesked/",
-      "description": "Regeringsbildningen går trögt.&nbsp; Nu måste Socialdemokraterna ge besked om vilka de vill bilda regering med, menar Centerpartiets ledning.&nbsp; – Det är naturligt att Centerpartiet höjer insatserna på sin sida litegrann och markerar att regeringsbildningen är Socialdemokraternas ansvar, säger statsvetaren Andreas Johansson Heinö.&nbsp;",
-      "pubDate": "2026-10-30T07:42:39Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Väljarnas dom mot V efter regeringskaoset",
-      "link": "https://www.expressen.se/nyheter/politik/valjarnas-dom-mot-v-efter-regeringskaoset/",
-      "description": "Bara två av fem väljare vill se Vänsterpartiet i en regering, enligt Indikator Opinions oktobermätning.&nbsp; En förändring med 10 procentenheter på ett halvår.&nbsp; – Jag skulle gissa på att det har att göra med det som pågår just nu, säger Jan Teorell, professor i statsvetenskap vid Stockholms universitet, till Sveriges radio Ekot .&nbsp;",
-      "pubDate": "2026-10-30T07:36:01Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -147,18 +197,6 @@
       "pubDate": "2026-10-30T07:23:52Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Åkesson ger sig in i storbråket: ”Extremt provocerande”",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-ger-sig-in-i-storbraket-extremt-provocerande/",
-      "description": "Konflikten om svenskhet har blivit ett infekterat storbråk inom SD. Nu sätter Jimmie Åkesson ner foten. ”Ärligt talat, vad fan har ni åstadkommit?” , skriver han på Expressen Debatt. &nbsp;",
-      "pubDate": "2026-10-30T06:25:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD"
@@ -223,43 +261,6 @@
         "C",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "SD skakas av bråk om svenskhet: ”Oerhört olyckligt för partiet”",
-      "link": "https://www.dn.se/sverige/sd-skakas-av-brak-om-svenskhet-oerhort-olyckligt-for-partiet/",
-      "description": "En debatt om svenskhet rasar i SD. SD-topparna Mattias Karlsson och Richard Jomshof har hamnat i ordkrig om frågan med påhopp som ”splittrande” och ”svartmålande”. Carl Eos på tankesmedjan Oikos tror att debatten är skadlig för partiet. – Man förmår inte skilja på vad som är relevant i ett politiskt sammanhang och vad som är relevant för en själv privat.",
-      "pubDate": "2026-10-29T18:47:04Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Analys: ”Ologiskt att rösta om Thand Ringqvist”",
-      "link": "https://www.svt.se/nyheter/inrikes/analys-ologiskt-att-rosta-om-thand-ringqvist",
-      "description": "Att C-ledaren Elisabeth Thand Ringqvist nu ska ställas inför en statsministeromröstning i riksdagen är inte bara ologiskt, utan visar också tydligt att läget i regeringsfrågan är lika låst som förut.",
-      "pubDate": "2026-10-29T18:31:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Mindre skillnader i skolpeng föreslås för gymnasiet",
-      "link": "https://www.sverigesradio.se/artikel/9330962",
-      "description": "Regeringen vill att det ska bli mindre skillnad i hur mycket skolpeng bland annat kommunala och fristående gymnasieskolor kan få. Det enligt en utredning som presenterades under torsdagen. Den föreslår bland annat att riksprislistan, som styr hur mycket pengar en skola ska få per elev, ska anpassas efter elevens studieförmåga, och samordnas mer mellan kommuner. Men förslaget kan inte klubbas nu. ”Min ambition är att kunna skicka ut det här på remiss men det är en övergångsregering, vi får inte ta ny politik”, säger utbildningsminister Simona Mohamsson (L).",
-      "pubDate": "2026-10-29T18:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
     }
   ],
   "blogs": [
@@ -301,6 +302,20 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Mobbar talmannen Centerledaren?",
+      "link": "https://pod.space/alskadepolitik/mobbar-talmannen-centerledaren",
+      "description": "Varför ska Elisabeth Thand Ringqvist gå till statsministeromröstning när ingen tror hon kan bli vald? Och varför bestämde sig Jimmie Åkesson att det var dags att sätta ner foten i SD:s svenskhetsbråk?",
+      "pubDate": "2026-10-30T12:26:47Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "329. Talmannens oväntade besked",
       "link": "https://pod.space/politikrummet/329-talmannens-ovantade-besked",
@@ -483,20 +498,6 @@
       "topics": [
         "SD",
         "C"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Talmannens skräll - Thand Ringqvist ska sondera",
-      "link": "https://pod.space/kvartal/kvartal-idag-talmannens-skrall-thand-ringqvist-ska-sondera",
-      "description": "Kan öppna för Kristersson som statsminister. ”Skyll inte på polisbrutalitet i Frankrike”. Landerholm fälls – hovrätten ändrar domen. Och är du singel i Asien? Det löser staten. Programledare: Magnus Thorén.",
-      "pubDate": "2026-10-19T13:44:56Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
       ]
     }
   ]
