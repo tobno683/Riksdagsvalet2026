@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T05:59:54.683568Z",
+  "updated_at": "2026-10-31T11:43:59.488576Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,18 @@
     }
   ],
   "news": [
+    {
+      "title": "Musikern till stöd för Jomshof: ”Ge fan aldrig upp”",
+      "link": "https://www.expressen.se/nyheter/politik/musikern-till-stod-for-jomshof-ge-fan-aldrig-upp/",
+      "description": "Bråket om svenskhet i SD har pågått i veckor.&nbsp; Nu får Richard Jomshof stöd av tidigare SD-politikern och Ultima Thule-trummisen Ulf Hansen. ”Ge fan aldrig upp”, skriver han på Facebook.",
+      "pubDate": "2026-10-31T08:30:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "USApodden inför mellanårsvalet: Alaska",
       "link": "https://www.sverigesradio.se/artikel/9331945",
@@ -169,18 +181,6 @@
       "pubDate": "2026-10-30T20:00:11Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Uppgifter: Kris hos Riks – SD kan dra in miljonstöd",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-kris-hos-riks-sd-kan-dra-in-miljonstod/",
-      "description": "Det uppges krisa hos den SD-nära mediekanalen Riks. Flera medarbetare varslas och vissa har redan sagts upp, enligt uppgifter till SVT. Samtidigt kan Sverigedemokraterna vara på väg att dra in sitt miljonstöd, enligt Kvartals uppgifter. – Jag får faktiskt vara helt ärlig, jag har inte hört någonting, säger vd Jacob Hagnell.",
-      "pubDate": "2026-10-30T18:37:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD"
