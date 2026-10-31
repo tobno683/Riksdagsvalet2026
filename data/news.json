@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T11:43:59.488576Z",
+  "updated_at": "2026-10-31T16:25:36.178366Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,31 @@
   ],
   "news": [
     {
+      "title": "Statsvetaren: ”Extravalspel var inte tanken från början”",
+      "link": "https://www.sverigesradio.se/artikel/9331864",
+      "description": "På tisdag kommer C-ledaren Elisabeth Thand Ringqvist att prövas i riksdagen, med stor sannolikhet kommer hon att förlora omröstningen. Det är fel att talmannen ska behöva använda statsministeromröstningarna som ett sätt att pressa partierna till kompromisser, säger statsvetarprofessor Tommy Möller. Efter den här regeringsbildningen kan det komma en diskussion om reglerna, säger statsvetaren Jenny Madestam.",
+      "pubDate": "2026-10-31T13:52:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Expert: Dragkampen har alltid funnits inom SD",
+      "link": "https://www.expressen.se/nyheter/politik/expert-svenskhetsbraket-ar-inte-forvanande-expert-dragkampen-har-alltid-funnits-inom-sd/",
+      "description": "SD har aldrig varit rasistiskt som parti, enligt Åkesson. Det har de visst, menar forskaren Christer Mattsson. –&nbsp;Det går inte att säga att man inte har haft de här idéerna i partiet, säger han.&nbsp;",
+      "pubDate": "2026-10-31T13:45:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Musikern till stöd för Jomshof: ”Ge fan aldrig upp”",
       "link": "https://www.expressen.se/nyheter/politik/musikern-till-stod-for-jomshof-ge-fan-aldrig-upp/",
       "description": "Bråket om svenskhet i SD har pågått i veckor.&nbsp; Nu får Richard Jomshof stöd av tidigare SD-politikern och Ultima Thule-trummisen Ulf Hansen. ”Ge fan aldrig upp”, skriver han på Facebook.",
@@ -107,66 +132,6 @@
       "link": "https://www.sverigesradio.se/artikel/9331943",
       "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Ohio. Där står demokraten Sherrod Brown mot republikanen Jon Husted i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
       "pubDate": "2026-10-30T21:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "USApodden inför mellanårsvalet: Kansas",
-      "link": "https://www.sverigesradio.se/artikel/9331941",
-      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Kansas. Där utmanar demokraten Adam Hamilton den sittande senatorn, republikanen Roger Marshall. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
-      "pubDate": "2026-10-30T20:55:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "USApodden inför mellanårsvalet: Iowa",
-      "link": "https://www.sverigesradio.se/artikel/9331940",
-      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Iowa. Där ställer republikanen Ashley Hinson och demokraten Josh Turek upp i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
-      "pubDate": "2026-10-30T20:51:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "USApodden inför mellanårsvalet: Maine",
-      "link": "https://www.sverigesradio.se/artikel/9331939",
-      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Maine. Där utmanar demokraten Troy Jackson den sittande republikanske senatorn Susan Collins. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
-      "pubDate": "2026-10-30T20:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "USApodden inför mellanårsvalet: Michigan",
-      "link": "https://www.sverigesradio.se/artikel/9331937",
-      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Michigan. Där är det alltså Abdul El-Sayed från Demokraterna och republikanen Mike Rogers som gör upp i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
-      "pubDate": "2026-10-30T20:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "USApodden inför mellanårsvalet: Texas",
-      "link": "https://www.sverigesradio.se/artikel/9331935",
-      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Texas där demokraten James Talarico och republikanen Ken Paxton gör upp i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra mellanårsvalet, klicka här .",
-      "pubDate": "2026-10-30T20:25:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
@@ -260,6 +225,44 @@
       "topics": [
         "SD",
         "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Statsvetare om SD-bråket: ”Åkesson vill städa framför egen dörr”",
+      "link": "https://www.dn.se/sverige/statsvetare-om-sd-braket-akesson-vill-stada-framfor-egen-dorr/",
+      "description": "Jimmie Åkessons (SD) frontalangrepp mot etnonationalism på Expressen Debatt är ett strategiskt drag för att städa framför egen dörr inför regeringssamarbete, enligt statsvetarprofessor Ann-Cathrine Jungar. Han varnar rentav meningsmotståndare att de kan stängas av om de inte rättar sig i ledet. – Det var läge att sätta ner foten, säger hon.",
+      "pubDate": "2026-10-30T11:57:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson (SD) sätter ner foten – efter det interna bråket",
+      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-sd-satter-ner-foten-efter-det-interna-braket",
+      "description": "Sedan valet har Sverigedemokraterna präglats av en infekterad debatt om svenskhet. Nu sätter partiledaren Jimmie Åkesson ned foten i partikonflikten. Han slår fast att man enligt partiet kan bli svensk utan att vara född i Sverige och att företrädare ska stå bakom principen. ”Annars får man kliva av, eller bli avslängd”, skriver SD-ledaren i en debattartikel i Expressen.",
+      "pubDate": "2026-10-30T11:54:59Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Intern S-kritik mot strategin: ”Ett jättestort misstag”",
+      "link": "https://www.svt.se/nyheter/inrikes/intern-s-kritik-mot-strategin-ett-jattestort-misstag",
+      "description": "Sverige står fortfarande utan ny regering. Inom de rödgröna partierna växer nu frustrationen mot S-ledaren Magdalena Anderssons hantering av regeringsbildningen, uppger källor för SVT. – Jag förstår verkligen Vänsterpartiets känslor och att de har känt sig lurade, säger S-profilen Annie Ross.",
+      "pubDate": "2026-10-30T10:37:31Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
         "Regeringsbildning"
       ]
     }
