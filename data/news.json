@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:25:36.178366Z",
+  "updated_at": "2026-10-31T20:08:05.736070Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,55 @@
   ],
   "news": [
     {
+      "title": "Tekniska problem på Vänsterpartiets sajt",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=87a79b3d-2f4b-4a64-a52c-078f139fe150",
+      "description": "”Oj, jävlar, det här behöver vi kolla upp”",
+      "pubDate": "2026-10-31T17:25:41Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Uppgifter: SD kan släppa  kravet – C förnekar möten",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-sd-kan-slappa--kravet-c-fornekar-moten/",
+      "description": "Sverigedemokraterna uppgavs kunna släppa ministerkravet och att Centerpartiet och SD haft möten med varandra.&nbsp; ”Det stämmer inte”, replikerade Centerpartiet snabbt.&nbsp; Nu dementerar även Sverigedemokraterna uppgifterna.&nbsp; ”Aftonbladets uppgifter är helt felaktiga”, skriver partiet till Expressen.",
+      "pubDate": "2026-10-31T17:07:50Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Sveriges Radio på plats under mellanårsvalet i USA",
+      "link": "https://www.sverigesradio.se/artikel/9332125",
+      "description": "Sveriges Radios korrespondenter är på plats under mellanårsvalet i USA. Ginna Lindberg i Washington och Simon Isaksson i Texas får sällskap av vår internationelle korrespondent Daniel Alling och P3-korrespondenten Love Lyssarides och USApoddens Sara Stenholm. Ni hör oss i Sveriges Radio-appen och alla våra kanaler.&nbsp;",
+      "pubDate": "2026-10-31T16:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Tekniskt strul för Vänsterpartiets sajt löst",
+      "link": "https://www.sverigesradio.se/artikel/9332126",
+      "description": "Enligt Vänsterpartiet fungerar deras hemsida som vanligt igen efter att den drabbats av tekniska problem på lördagseftermiddagen. Under fliken ”Om Nooshi Dadgostar” möttes besökare i stället av vad som såg ut som en spelsajt. Vänsterpartiet vill inte svara på några frågor om händelsen.",
+      "pubDate": "2026-10-31T16:35:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Statsvetaren: ”Extravalspel var inte tanken från början”",
       "link": "https://www.sverigesradio.se/artikel/9331864",
       "description": "På tisdag kommer C-ledaren Elisabeth Thand Ringqvist att prövas i riksdagen, med stor sannolikhet kommer hon att förlora omröstningen. Det är fel att talmannen ska behöva använda statsministeromröstningarna som ett sätt att pressa partierna till kompromisser, säger statsvetarprofessor Tommy Möller. Efter den här regeringsbildningen kan det komma en diskussion om reglerna, säger statsvetaren Jenny Madestam.",
@@ -101,42 +150,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Musikern till stöd för Jomshof: ”Ge fan aldrig upp”",
-      "link": "https://www.expressen.se/nyheter/politik/musikern-till-stod-for-jomshof-ge-fan-aldrig-upp/",
-      "description": "Bråket om svenskhet i SD har pågått i veckor.&nbsp; Nu får Richard Jomshof stöd av tidigare SD-politikern och Ultima Thule-trummisen Ulf Hansen. ”Ge fan aldrig upp”, skriver han på Facebook.",
-      "pubDate": "2026-10-31T08:30:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "USApodden inför mellanårsvalet: Alaska",
-      "link": "https://www.sverigesradio.se/artikel/9331945",
-      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Alaska. Där utmanar demokraternas kandidat Mary Peltola den sittande republikanska senatorn Dan Sullivan i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
-      "pubDate": "2026-10-30T21:06:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "USApodden inför mellanårsvalet: Ohio",
-      "link": "https://www.sverigesradio.se/artikel/9331943",
-      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Ohio. Där står demokraten Sherrod Brown mot republikanen Jon Husted i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
-      "pubDate": "2026-10-30T21:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     },
     {
@@ -250,20 +263,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Intern S-kritik mot strategin: ”Ett jättestort misstag”",
-      "link": "https://www.svt.se/nyheter/inrikes/intern-s-kritik-mot-strategin-ett-jattestort-misstag",
-      "description": "Sverige står fortfarande utan ny regering. Inom de rödgröna partierna växer nu frustrationen mot S-ledaren Magdalena Anderssons hantering av regeringsbildningen, uppger källor för SVT. – Jag förstår verkligen Vänsterpartiets känslor och att de har känt sig lurade, säger S-profilen Annie Ross.",
-      "pubDate": "2026-10-30T10:37:31Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
       ]
     }
   ],
