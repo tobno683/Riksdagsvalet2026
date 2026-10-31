@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:13:05.227169Z",
+  "updated_at": "2026-10-31T05:59:54.683568Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -211,18 +211,6 @@
       ]
     },
     {
-      "title": "Högkostnadsskyddet  för elområde 4 aktiveras",
-      "link": "https://www.expressen.se/ekonomi/hogkostnadsskyddet--for-elomrade-4-aktiveras/",
-      "description": "I oktober har elpriserna i södra Sverige legat på 1,5 kronor per kilowattimme. Det gör att regeringen nu aktiverar högkostnadsskyddet. Enligt energiminister Ebba Busch (KD) kommer det ”sannolikt handla om små belopp”.",
-      "pubDate": "2026-10-30T17:07:03Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
       "title": "C-toppen kräver svar av S: ”Vill de se V i regering?”",
       "link": "https://www.dn.se/sverige/c-toppen-kraver-svar-av-s-vill-de-se-v-i-regering/",
       "description": "Talmannen Andreas Norléns beslut att snabba på med statsministeromröstningar ökar pressen på Centerpartiet att välja sida: rödgröna eller Tidö, anser Vänsterpartiet. Hos C vill man i stället att Magdalena Andersson tar större ansvar för regeringsbildningen. ”Vill de se V i regering eller inte?”, frågar CUF-toppen Emelie Rossheim.",
@@ -260,6 +248,20 @@
       "topics": [
         "SD"
       ]
+    },
+    {
+      "title": "Mobbar talmannen Centerledaren?",
+      "link": "https://www.dn.se/podd/alskade-politik/mobbar-talmannen-centerledaren/",
+      "description": "Varför ska Elisabeth Thand Ringqvist gå till statsministeromröstning när ingen tror hon kan bli vald? Och varför bestämde sig Jimmie Åkesson att det var dags att sätta ner foten i SD:s svenskhetsbråk?",
+      "pubDate": "2026-10-30T12:26:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C",
+        "Regeringsbildning"
+      ]
     }
   ],
   "blogs": [
@@ -286,93 +288,24 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "BREV 511 – Nej, du är inte etnisk svensk.",
-      "link": "https://jensganman.substack.com/p/brev-511-nej-du-ar-inte-etnisk-svensk",
-      "description": "Centern vill inte g&#246;ra sossarnas dirty work l&#228;ngre / Krampaktiga skratt hos 100% / Karlssons & Jomshofs magnifika magplask / V&#228;rldens b&#228;sta rasistfilm / Springsteen & Bono s&#229;g det inte komma / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "BREV 510 – I Centerpartiet kan ingen höra dig skrika.",
-      "link": "https://jensganman.substack.com/p/brev-510-i-centerpartiet-kan-ingen",
-      "description": "Thand Ringqvist &#8211; politisk autist / &#196;r Macron ond eller bara dum i huvudet? / Helena Edlunds genialiska id&#233; / Milj&#246;partiet har kommit alldeles f&#246;r billigt undan / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 507 – Miljöpartiet och VPK utnyttjar sina somalier skamlöst.",
-      "link": "https://jensganman.substack.com/p/brev-507-miljopartiet-och-vpk-utnyttjar",
-      "description": "De f&#246;rst&#229;r ju mindre &#228;n Baudin / Nytt apologetreportage om Frankrike i Rapport / F&#246;rdelen med ett extra val / Det gamla DN-klippet som f&#246;rklarar allt / Kessler-effekten / Storspoven kommer / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "BREV 502 – Greta Thunberg, kaozturist.",
-      "link": "https://jensganman.substack.com/p/brev-501-greta-thunberg-kaozturist",
-      "description": "Som en fluga till en sockerbit / N&#229;gra intressanta passager ur &#8220;Mitt f&#246;rbjudna ansikte&#8221; och &#8220;En somalisk kvinnas ber&#228;ttelse&#8221; / Hoppas detta &#228;r Ulf Kristerssons strategi / Vogonen Kristina Lagerstr&#246;m /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "BREV 499 – Somalier är också människor.",
-      "link": "https://jensganman.substack.com/p/brev-499-somalier-ar-ocksa-manniskor",
-      "description": "Wallenberg och Thand Ringqvist i ett rum / Varf&#246;r st&#228;llde Gunnarsson inte fr&#229;gan? / Svart mans slav / Mediemakthavarinnornas maniska mimik. / Suhonen, Baude och v&#228;nsterns v&#228;mjeliga v&#229;ldsvurm / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 498 – Regeringsmissbildningen.",
-      "link": "https://jensganman.substack.com/p/brev-498-regeringsmissbildningen",
-      "description": "En orgie i idioti / De r&#246;dgr&#246;nas f&#246;rs&#246;k att bilda regering b&#246;r klassas som systemfarlig / V&#228;rldens dyraste ljud / Gl&#246;m aldrig socialdemokraternas syn p&#229; begreppet &#8221;l&#246;fte&#8221; / N&#228;r Hirvonen h&#246;ll med mig /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 496 – Till slut måste Centern välja sin egen avrättningsmetod.",
-      "link": "https://jensganman.substack.com/p/brev-496-till-slut-maste-centern",
-      "description": "Thand Ringqvist har spelat bort sina kort / Han l&#229;ter som Kalle Stropp / SR & SVT borde g&#246;ra en Office Space / Jag blev som i s&#229;ngen &#8221;M&#229;nga barn &#228;r bruna&#8221; / As falls Marseille, so falls Rinkeby / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: Vad vinner de på att veva mot talmannen?",
+      "link": "https://pod.space/kvartal/veckopanelen-vad-vinner-de-pa-att-veva-mot-talmannen",
+      "description": "Veckopanelen med Gunnar Wetterberg, Sakine Madon och Jan Söderqvist under ledning av Staffan Dopping. Till slut kom talmannen loss och tillkännagav en ny statsministeromröstning, men var det meningsfullt att i en hel vecka låta centerledaren sondera för en mittenregering? Moderaterna rusar uppåt i senaste opinionsmätningen. I Kenya samlades religiösa klanprofiler för att be för Vänsterpartiets kryssraket Mohamed Ali. SVT:s dokumentär om sexprogrammet Fräcka fredag väcker debatt efter nästan 40 år, och datamiljardären Bill Gates varnar för att AI kommer att orsaka 20 år med söndring och kaos.",
+      "pubDate": "2026-10-31T04:40:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "V",
+        "Opinion",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Mobbar talmannen Centerledaren?",
       "link": "https://pod.space/alskadepolitik/mobbar-talmannen-centerledaren",
@@ -555,19 +488,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "podcast",
       "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "325. Åkessons ödesmöte",
-      "link": "https://pod.space/politikrummet/325-akessons-odesmote",
-      "description": "Talmannen låter Elisabeth Thand Ringqvist sondera – kommer hon att köra mitten i botten?&nbsp; I riksdagsstudion: Filippa Rogvall, Viktor Barth-Kron och Anette Holmqvist. Producent: Anna Westman Swantesson Ljudklipp från SVT Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-10-19T14:31:14Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
         "C"
       ]
     }
