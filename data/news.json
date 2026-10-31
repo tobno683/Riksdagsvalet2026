@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T20:55:36.173676Z",
+  "updated_at": "2026-10-31T00:13:05.227169Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,42 @@
   ],
   "news": [
     {
+      "title": "USApodden inför mellanårsvalet: Alaska",
+      "link": "https://www.sverigesradio.se/artikel/9331945",
+      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Alaska. Där utmanar demokraternas kandidat Mary Peltola den sittande republikanska senatorn Dan Sullivan i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
+      "pubDate": "2026-10-30T21:06:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "USApodden inför mellanårsvalet: Ohio",
+      "link": "https://www.sverigesradio.se/artikel/9331943",
+      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Ohio. Där står demokraten Sherrod Brown mot republikanen Jon Husted i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
+      "pubDate": "2026-10-30T21:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "USApodden inför mellanårsvalet: Kansas",
+      "link": "https://www.sverigesradio.se/artikel/9331941",
+      "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Kansas. Där utmanar demokraten Adam Hamilton den sittande senatorn, republikanen Roger Marshall. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
+      "pubDate": "2026-10-30T20:55:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
       "title": "USApodden inför mellanårsvalet: Iowa",
       "link": "https://www.sverigesradio.se/artikel/9331940",
       "description": "USApodden fördjupar sig i svängstaterna inför tisdagens mellanårsval. Hör programledare Sara Stenholm samt Sveriges Radios USA-korrespondenter Ginna Lindberg och Simon Isaksson om delstaten Iowa. Där ställer republikanen Ashley Hinson och demokraten Josh Turek upp i senatsvalet. Vill du lyssna på hela avsnittet om delstaterna som kan avgöra, klicka här .",
@@ -124,6 +160,18 @@
       "sourceType": "news",
       "topics": [
         "MP"
+      ]
+    },
+    {
+      "title": "30 oktober: Här är dagens nyheter",
+      "link": "https://www.dn.se/varlden/30-oktober-har-ar-dagens-nyheter/",
+      "description": "Ukrainas luftvärnschef vädjar om svenska vapnet, SD-ledaren Jimmie Åkesson kommenterar den senaste tidens partiinterna diskussion och regeringen aktiverar högkostnadsskydd – här är dagens nyheter.",
+      "pubDate": "2026-10-30T20:00:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
       ]
     },
     {
@@ -212,56 +260,6 @@
       "topics": [
         "SD"
       ]
-    },
-    {
-      "title": "Mobbar talmannen Centerledaren?",
-      "link": "https://www.dn.se/podd/alskade-politik/mobbar-talmannen-centerledaren/",
-      "description": "Varför ska Elisabeth Thand Ringqvist gå till statsministeromröstning när ingen tror hon kan bli vald? Och varför bestämde sig Jimmie Åkesson att det var dags att sätta ner foten i SD:s svenskhetsbråk?",
-      "pubDate": "2026-10-30T12:26:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Statsvetare om SD-bråket: ”Åkesson vill städa framför egen dörr”",
-      "link": "https://www.dn.se/sverige/statsvetare-om-sd-braket-akesson-vill-stada-framfor-egen-dorr/",
-      "description": "Jimmie Åkessons (SD) frontalangrepp mot etnonationalism på Expressen Debatt är ett strategiskt drag för att städa framför egen dörr inför regeringssamarbete, enligt statsvetarprofessor Ann-Cathrine Jungar. Han varnar rentav meningsmotståndare att de kan stängas av om de inte rättar sig i ledet. – Det var läge att sätta ner foten, säger hon.",
-      "pubDate": "2026-10-30T11:57:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson (SD) sätter ner foten – efter det interna bråket",
-      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-sd-satter-ner-foten-efter-det-interna-braket",
-      "description": "Sedan valet har Sverigedemokraterna präglats av en infekterad debatt om svenskhet. Nu sätter partiledaren Jimmie Åkesson ned foten i partikonflikten. Han slår fast att man enligt partiet kan bli svensk utan att vara född i Sverige och att företrädare ska stå bakom principen. ”Annars får man kliva av, eller bli avslängd”, skriver SD-ledaren i en debattartikel i Expressen.",
-      "pubDate": "2026-10-30T11:54:59Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Fredrik Furtenbach: Jimmie Åkesson ser tydligt arg ut",
-      "link": "https://www.sverigesradio.se/artikel/9331509",
-      "description": "Inom Sverigedemokraterna rasar just nu en debatt om vem som egentligen är svensk, men i en debattartikel i Expressen idag skriver partiledaren Jimmie Åkesson att den diskussionen inte hör hemma i partiet. Fredrik Furtenbach är inrikespolitisk kommentator på Ekot: ”Det är en dragkamp mellan en mer radikal höger och en mer pragmatisk del”. Han fortsätter: ”Rätt många Sverigedemokrater har frågat sig hur man ska vinna val när så många i Sverige har utländsk bakgrund och många av dem röstar rött”.",
-      "pubDate": "2026-10-30T11:48:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
     }
   ],
   "blogs": [
@@ -287,6 +285,90 @@
       "sourceType": "blog",
       "topics": [
         "V"
+      ]
+    },
+    {
+      "title": "BREV 511 – Nej, du är inte etnisk svensk.",
+      "link": "https://jensganman.substack.com/p/brev-511-nej-du-ar-inte-etnisk-svensk",
+      "description": "Centern vill inte g&#246;ra sossarnas dirty work l&#228;ngre / Krampaktiga skratt hos 100% / Karlssons & Jomshofs magnifika magplask / V&#228;rldens b&#228;sta rasistfilm / Springsteen & Bono s&#229;g det inte komma / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "BREV 510 – I Centerpartiet kan ingen höra dig skrika.",
+      "link": "https://jensganman.substack.com/p/brev-510-i-centerpartiet-kan-ingen",
+      "description": "Thand Ringqvist &#8211; politisk autist / &#196;r Macron ond eller bara dum i huvudet? / Helena Edlunds genialiska id&#233; / Milj&#246;partiet har kommit alldeles f&#246;r billigt undan / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 507 – Miljöpartiet och VPK utnyttjar sina somalier skamlöst.",
+      "link": "https://jensganman.substack.com/p/brev-507-miljopartiet-och-vpk-utnyttjar",
+      "description": "De f&#246;rst&#229;r ju mindre &#228;n Baudin / Nytt apologetreportage om Frankrike i Rapport / F&#246;rdelen med ett extra val / Det gamla DN-klippet som f&#246;rklarar allt / Kessler-effekten / Storspoven kommer / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "BREV 502 – Greta Thunberg, kaozturist.",
+      "link": "https://jensganman.substack.com/p/brev-501-greta-thunberg-kaozturist",
+      "description": "Som en fluga till en sockerbit / N&#229;gra intressanta passager ur &#8220;Mitt f&#246;rbjudna ansikte&#8221; och &#8220;En somalisk kvinnas ber&#228;ttelse&#8221; / Hoppas detta &#228;r Ulf Kristerssons strategi / Vogonen Kristina Lagerstr&#246;m /",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "BREV 499 – Somalier är också människor.",
+      "link": "https://jensganman.substack.com/p/brev-499-somalier-ar-ocksa-manniskor",
+      "description": "Wallenberg och Thand Ringqvist i ett rum / Varf&#246;r st&#228;llde Gunnarsson inte fr&#229;gan? / Svart mans slav / Mediemakthavarinnornas maniska mimik. / Suhonen, Baude och v&#228;nsterns v&#228;mjeliga v&#229;ldsvurm / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 498 – Regeringsmissbildningen.",
+      "link": "https://jensganman.substack.com/p/brev-498-regeringsmissbildningen",
+      "description": "En orgie i idioti / De r&#246;dgr&#246;nas f&#246;rs&#246;k att bilda regering b&#246;r klassas som systemfarlig / V&#228;rldens dyraste ljud / Gl&#246;m aldrig socialdemokraternas syn p&#229; begreppet &#8221;l&#246;fte&#8221; / N&#228;r Hirvonen h&#246;ll med mig /",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "BREV 496 – Till slut måste Centern välja sin egen avrättningsmetod.",
+      "link": "https://jensganman.substack.com/p/brev-496-till-slut-maste-centern",
+      "description": "Thand Ringqvist har spelat bort sina kort / Han l&#229;ter som Kalle Stropp / SR & SVT borde g&#246;ra en Office Space / Jag blev som i s&#229;ngen &#8221;M&#229;nga barn &#228;r bruna&#8221; / As falls Marseille, so falls Rinkeby / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
       ]
     }
   ],
