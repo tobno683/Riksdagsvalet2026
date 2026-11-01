@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T09:28:02.477372Z",
+  "updated_at": "2026-11-01T16:12:41.534290Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,79 @@
   ],
   "news": [
     {
+      "title": "Tävlingsledaren efter dödsolyckan:  ”Vår klubb är i chock”",
+      "link": "https://www.expressen.se/nyheter/sverige/tavlingsledaren-efter-dodsolyckan--var-klubb-ar-i-chock/",
+      "description": "Sveriges största rally fick avbrytas efter en dödsolycka. Tävlingsledare Jan Andersson har aldrig varit med om något liknande. –&nbsp;Det är väldigt tragiskt. Vår klubb är i chock, säger han.",
+      "pubDate": "2026-11-01T14:33:58Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Gabrielsson (V): Tänker inte backa – dörren stängd",
+      "link": "https://www.dn.se/sverige/gabrielsson-v-tanker-inte-backa-dorren-stangd/",
+      "description": "Vänsterpartiet kommer inte att backa från kravet att sitta i en rödgrön regering, framhåller partiets vice ordförande Ida Gabrielsson på X.",
+      "pubDate": "2026-11-01T14:24:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Först i Sverige med Starlink på alla tåg: ”Fungerar skitbra”",
+      "link": "https://www.dn.se/sverige/forst-i-sverige-med-starlink-pa-alla-tag-fungerar-skitbra/",
+      "description": "Svajigt internet på tåg kan vara frustrerande. Tågbolag världen över sneglar på Starlink som en lösning. Norrtåg blir först i Sverige med att installera tjänsten på hela sin flotta. – Vi har kört det som ett projekt i två år och det har fungerat grymt bra, säger Linus Sadlacek Åkerlind, teknisk chef på Norrtåg.",
+      "pubDate": "2026-11-01T13:31:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Spaniens regering pressad från vänster och höger efter tågtragedin",
+      "link": "https://www.dn.se/varlden/spaniens-regering-pressad-fran-vanster-och-hoger-efter-tagtragedin/",
+      "description": "De radikala vänsterpartier som ger socialistiska PSOE majoritet i kongressen kräver att regeringen tar ansvar för onsdagens järnvägskrasch i Urda, Toledo, och offentliggör alla data i målet. Tills vidare vägrar transportminister Óscar Puente att ta på sig något ansvar för det skedda.",
+      "pubDate": "2026-11-01T13:03:22Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "M i Göteborg: Låt alla anställda leasa en Volvo",
+      "link": "https://www.expressen.se/nyheter/sverige/m-i-goteborg-lat-alla-anstallda-leasa-en-volvo/",
+      "description": "Volvo krisar. För att hjälpa till vill Moderaterna i Göteborg erbjuda alla kommunens anställda en leasad Volvo-bil, rapporterar DN. &nbsp; Det är däremot ”helt olagligt”, enligt S.&nbsp;",
+      "pubDate": "2026-11-01T12:45:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "M: Stötta Volvo – låt Göteborgs anställda få leasa elbil billigt",
+      "link": "https://www.dn.se/ekonomi/m-stotta-volvo-lat-goteborgs-anstallda-fa-leasa-elbil-billigt/",
+      "description": "När Volvo Cars krisar föreslår Moderaterna i Göteborg att stadens nästan 60 000 anställda ska erbjudas att leasa en Volvo-elbil billigt. Men utspelet avfärdas av Socialdemokraternas ledare som ”av allt att döma helt olagligt”.",
+      "pubDate": "2026-11-01T11:07:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "Insändare. Ge Vänsterpartiet chans till ministerposter – om två år",
       "link": "https://www.dn.se/insandare/ge-vansterpartiet-chans-till-ministerposter-om-tva-ar/",
       "description": "INSÄNDARE. Låt Vänsterpartiet under mandatperiodens första hälft acceptera medverkan på ungefär samma villkor som SD haft. Håll samtidigt dörren öppen för en partiell regeringsombildning 2028 som ger V fyra statsrådsposter, skriver Per Kågeson.",
@@ -142,19 +215,6 @@
       ]
     },
     {
-      "title": "Statsvetaren: ”Extravalspel var inte tanken från början”",
-      "link": "https://www.sverigesradio.se/artikel/9331864",
-      "description": "På tisdag kommer C-ledaren Elisabeth Thand Ringqvist att prövas i riksdagen, med stor sannolikhet kommer hon att förlora omröstningen. Det är fel att talmannen ska behöva använda statsministeromröstningarna som ett sätt att pressa partierna till kompromisser, säger statsvetarprofessor Tommy Möller. Efter den här regeringsbildningen kan det komma en diskussion om reglerna, säger statsvetaren Jenny Madestam.",
-      "pubDate": "2026-10-31T13:52:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "30 oktober: Här är dagens nyheter",
       "link": "https://www.dn.se/varlden/30-oktober-har-ar-dagens-nyheter/",
       "description": "Ukrainas luftvärnschef vädjar om svenska vapnet, SD-ledaren Jimmie Åkesson kommenterar den senaste tidens partiinterna diskussion och regeringen aktiverar högkostnadsskydd – här är dagens nyheter.",
@@ -203,68 +263,6 @@
         "V",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Väljarnas dom: Socialdemokraterna är fast i det förgångna",
-      "link": "https://www.dn.se/sverige/valjarnas-dom-socialdemokraterna-ar-fast-i-det-forgangna/",
-      "description": "Socialdemokraterna klagar mer på andras politik än pratar om vad man själv vill. Dessutom vacklar partiet hit och dit och är fast i det förgångna. Det är väljarnas dom i en färsk mätning från DN/Ipsos. – Det finns inget positivt för S i den här mätningen, säger Nicklas Källebring på Ipsos.",
-      "pubDate": "2026-10-30T15:06:31Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "”Åkessons ultimatum: Rätta in er i ledet, eller lämna”",
-      "link": "https://www.svt.se/nyheter/inrikes/akessons-ultimatum-ratta-in-er-i-ledet-eller-lamna",
-      "description": "Lämna, eller rätta in er i ledet. Det är Jimmie Åkessons hårda budskap till SD-profilen Richard Jomshof och andra som ifrågasätter partilinjen i frågan om svenskhet. Nu viner partipiskan i Sverigedemokraterna och det är Åkesson själv som håller i piskan.",
-      "pubDate": "2026-10-30T14:09:14Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Mobbar talmannen Centerledaren?",
-      "link": "https://www.dn.se/podd/alskade-politik/mobbar-talmannen-centerledaren/",
-      "description": "Varför ska Elisabeth Thand Ringqvist gå till statsministeromröstning när ingen tror hon kan bli vald? Och varför bestämde sig Jimmie Åkesson att det var dags att sätta ner foten i SD:s svenskhetsbråk?",
-      "pubDate": "2026-10-30T12:26:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Statsvetare om SD-bråket: ”Åkesson vill städa framför egen dörr”",
-      "link": "https://www.dn.se/sverige/statsvetare-om-sd-braket-akesson-vill-stada-framfor-egen-dorr/",
-      "description": "Jimmie Åkessons (SD) frontalangrepp mot etnonationalism på Expressen Debatt är ett strategiskt drag för att städa framför egen dörr inför regeringssamarbete, enligt statsvetarprofessor Ann-Cathrine Jungar. Han varnar rentav meningsmotståndare att de kan stängas av om de inte rättar sig i ledet. – Det var läge att sätta ner foten, säger hon.",
-      "pubDate": "2026-10-30T11:57:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson (SD) sätter ner foten – efter det interna bråket",
-      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-sd-satter-ner-foten-efter-det-interna-braket",
-      "description": "Sedan valet har Sverigedemokraterna präglats av en infekterad debatt om svenskhet. Nu sätter partiledaren Jimmie Åkesson ned foten i partikonflikten. Han slår fast att man enligt partiet kan bli svensk utan att vara född i Sverige och att företrädare ska stå bakom principen. ”Annars får man kliva av, eller bli avslängd”, skriver SD-ledaren i en debattartikel i Expressen.",
-      "pubDate": "2026-10-30T11:54:59Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
