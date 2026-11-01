@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T16:12:41.534290Z",
+  "updated_at": "2026-11-01T20:39:01.684451Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,56 @@
   ],
   "news": [
     {
+      "title": "Insändare. Vad håller ni på med, rödgröna?",
+      "link": "https://www.dn.se/insandare/vad-haller-ni-pa-med-rodgrona/",
+      "description": "INSÄNDARE. Varför kan inte S, C, V och MP som Tidöpartierna sätta sig ner och nattmangla fram ett regeringsprogram? Historiens dom kommer vara hård om de genom prestige, röda linjer och bristande vilja låter detta gå till extraval, skriver de rödgröna väljarna Calle Karnerud och Karin Norman.",
+      "pubDate": "2026-11-01T20:05:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ny mätning: Minskat stöd för S och C i regering",
+      "link": "https://www.expressen.se/nyheter/politik/ny-matning-minskat-stod-for-s-och-c-i-regering/",
+      "description": "Färre väljare vill nu se Socialdemokraterna och Centerpartiet i regering än direkt efter valet. Det visar DN/Ipsos senaste mätning.&nbsp; Stödet för Tidöpartierna ökar däremot. – Opinionsvindarna blåser i Tidöpartiernas riktning, säger Nicklas Källebring på Ipsos till DN.",
+      "pubDate": "2026-11-01T19:16:59Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Jomshof står på sig: ”Det krävs svenska kulturbärare”",
+      "link": "https://www.expressen.se/nyheter/politik/jomshof-star-pa-sig-det-kravs-svenska-kulturbarare/",
+      "description": "Åkesson försökte punktera SD:s storbråk om svenskhet. Men Richard Jomshof står pall. ”Varken jag eller Tobias Andersson är 'etnonationalister'” , skriver han på X.&nbsp;",
+      "pubDate": "2026-11-01T17:48:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD"
+      ]
+    },
+    {
+      "title": "DN/Ipsos: Minskat stöd för att S och C ska sitta i regering",
+      "link": "https://www.dn.se/sverige/dn-ipsos-minskat-stod-for-att-s-och-c-ska-sitta-i-regering/",
+      "description": "Stödet sjunker för både Socialdemokraterna och Centerpartiet att de ska sitta med i en kommande regering, visar en mätning från DN/Ipsos. – S och C får bära ansvaret för att det går trögt i regeringsbildningen, säger Nicklas Källebring på Ipsos.",
+      "pubDate": "2026-11-01T16:29:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Tävlingsledaren efter dödsolyckan:  ”Vår klubb är i chock”",
       "link": "https://www.expressen.se/nyheter/sverige/tavlingsledaren-efter-dodsolyckan--var-klubb-ar-i-chock/",
       "description": "Sveriges största rally fick avbrytas efter en dödsolycka. Tävlingsledare Jan Andersson har aldrig varit med om något liknande. –&nbsp;Det är väldigt tragiskt. Vår klubb är i chock, säger han.",
@@ -105,7 +155,7 @@
     {
       "title": "Först i Sverige med Starlink på alla tåg: ”Fungerar skitbra”",
       "link": "https://www.dn.se/sverige/forst-i-sverige-med-starlink-pa-alla-tag-fungerar-skitbra/",
-      "description": "Svajigt internet på tåg kan vara frustrerande. Tågbolag världen över sneglar på Starlink som en lösning. Norrtåg blir först i Sverige med att installera tjänsten på hela sin flotta. – Vi har kört det som ett projekt i två år och det har fungerat grymt bra, säger Linus Sadlacek Åkerlind, teknisk chef på Norrtåg.",
+      "description": "Svajigt internet på tåg kan vara frustrerande. Tågbolag världen över sneglar på Starlink som en lösning. Norrtåg blir först i Sverige med att installera tjänsten på hela sin flotta. – Vi har kört det som ett projekt i två år och det har fungerat grymt bra, säger Linus Sedlacek Åkerlind, teknisk chef på Norrtåg.",
       "pubDate": "2026-11-01T13:31:04Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -164,19 +214,6 @@
       ]
     },
     {
-      "title": "Kristersson går om – större förtroende än Andersson",
-      "link": "https://www.expressen.se/nyheter/sverige/kristersson-gar-om-storre-fortroende-an-andersson/",
-      "description": "Förtroendet för Ulf Kristersson (M) ser ut att stiga. Nu har han gått om Magdalena Andersson (S), enligt en mätning Indikator opinion gjort för Ekot .&nbsp; – Det är ganska dramatiskt, säger opinionschef Per Oleskog Tryggvason.",
-      "pubDate": "2026-11-01T05:37:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
       "title": "Kristersson har gått om Andersson i förtroendeligan",
       "link": "https://www.sverigesradio.se/artikel/9329320",
       "description": "Väljarna har nu större förtroende för Moderatledaren Ulf Kristersson än för Socialdemokraternas Magdalena Andersson, visar Indikator Opinions oktobermätning. Över hälften av väljarna, 55 procent, uppger att de har stort förtroende för moderatledaren. Det är en ökning med 10 procentenheter jämfört med förra mätningen som ägde rum i augusti i år. ”Det är ganska dramatiskt. Under mandatperioden har Magdalena Andersson hela tiden varit i topp när det kommer till förtroendeligan. Men i och med valet och de efterdyningarna som har funnits med regeringsbildningen så ser vi att Ulf Kristersson har tagit över förstaplatsen med ganska god marginal”, säger Per Oleskog Tryggvason, opinionschef på Indikator Opinion.",
@@ -188,30 +225,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Sveriges Radio på plats under mellanårsvalet i USA",
-      "link": "https://www.sverigesradio.se/artikel/9332125",
-      "description": "Sveriges Radios korrespondenter är på plats under mellanårsvalet i USA. Ginna Lindberg i Washington och Simon Isaksson i Texas får sällskap av vår internationelle korrespondent Daniel Alling och P3-korrespondenten Love Lyssarides och USApoddens Sara Stenholm. Ni hör oss i Sveriges Radio-appen och alla våra kanaler.&nbsp;",
-      "pubDate": "2026-10-31T16:50:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Tekniskt strul för Vänsterpartiets sajt löst",
-      "link": "https://www.sverigesradio.se/artikel/9332126",
-      "description": "Enligt Vänsterpartiet fungerar deras hemsida som vanligt igen efter att den drabbats av tekniska problem på lördagseftermiddagen. Under fliken ”Om Nooshi Dadgostar” möttes besökare i stället av vad som såg ut som en spelsajt. Vänsterpartiet vill inte svara på några frågor om händelsen.",
-      "pubDate": "2026-10-31T16:35:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -249,24 +262,21 @@
       "topics": [
         "KD"
       ]
-    },
-    {
-      "title": "C-toppen kräver svar av S: ”Vill de se V i regering?”",
-      "link": "https://www.dn.se/sverige/c-toppen-kraver-svar-av-s-vill-de-se-v-i-regering/",
-      "description": "Talmannen Andreas Norléns beslut att snabba på med statsministeromröstningar ökar pressen på Centerpartiet att välja sida: rödgröna eller Tidö, anser Vänsterpartiet. Hos C vill man i stället att Magdalena Andersson tar större ansvar för regeringsbildningen. ”Vill de se V i regering eller inte?”, frågar CUF-toppen Emelie Rossheim.",
-      "pubDate": "2026-10-30T16:29:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Klockan tickar för Andersson",
+      "link": "https://ledarsidorna.se/klockan-tickar-for-andersson/",
+      "description": "De politiska låsningarna och svårigheterna att bilda en regering riskerar nu att påverka förtroendet för Socialdemokraterna. Detta kan avläsas i flera nyligen genomförda opinionsundersökningar. Oppositionen har efter valet ett numerärt övertag i riksdagen. Men mandat är inte detsamma som handlingsutrymme när partierna inte kan enas om hur dessa mandat ska användas. Indikator Opinions oktobermätning som [&#8230;]",
+      "pubDate": "2026-11-01T17:22:24Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Vänstern mobiliserar kärlek till våldet",
       "link": "https://ledarsidorna.se/vanstern-mobiliserar-karlek-till-valdet/",
