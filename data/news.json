@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T02:26:59.622340Z",
+  "updated_at": "2026-11-01T09:28:02.477372Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,28 +79,42 @@
   ],
   "news": [
     {
-      "title": "Tekniska problem på Vänsterpartiets sajt",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=87a79b3d-2f4b-4a64-a52c-078f139fe150",
-      "description": "”Oj, jävlar, det här behöver vi kolla upp”",
-      "pubDate": "2026-10-31T17:25:41Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Insändare. Ge Vänsterpartiet chans till ministerposter – om två år",
+      "link": "https://www.dn.se/insandare/ge-vansterpartiet-chans-till-ministerposter-om-tva-ar/",
+      "description": "INSÄNDARE. Låt Vänsterpartiet under mandatperiodens första hälft acceptera medverkan på ungefär samma villkor som SD haft. Håll samtidigt dörren öppen för en partiell regeringsombildning 2028 som ger V fyra statsrådsposter, skriver Per Kågeson.",
+      "pubDate": "2026-11-01T09:11:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
       ]
     },
     {
-      "title": "Uppgifter: SD kan släppa  kravet – C förnekar möten",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-sd-kan-slappa--kravet-c-fornekar-moten/",
-      "description": "Sverigedemokraterna uppgavs kunna släppa ministerkravet och att Centerpartiet och SD haft möten med varandra.&nbsp; ”Det stämmer inte”, replikerade Centerpartiet snabbt.&nbsp; Nu dementerar även Sverigedemokraterna uppgifterna.&nbsp; ”Aftonbladets uppgifter är helt felaktiga”, skriver partiet till Expressen.",
-      "pubDate": "2026-10-31T17:07:50Z",
+      "title": "Kristersson går om – större förtroende än Andersson",
+      "link": "https://www.expressen.se/nyheter/sverige/kristersson-gar-om-storre-fortroende-an-andersson/",
+      "description": "Förtroendet för Ulf Kristersson (M) ser ut att stiga. Nu har han gått om Magdalena Andersson (S), enligt en mätning Indikator opinion gjort för Ekot .&nbsp; – Det är ganska dramatiskt, säger opinionschef Per Oleskog Tryggvason.",
+      "pubDate": "2026-11-01T05:37:04Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "SD",
-        "C"
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Kristersson har gått om Andersson i förtroendeligan",
+      "link": "https://www.sverigesradio.se/artikel/9329320",
+      "description": "Väljarna har nu större förtroende för Moderatledaren Ulf Kristersson än för Socialdemokraternas Magdalena Andersson, visar Indikator Opinions oktobermätning. Över hälften av väljarna, 55 procent, uppger att de har stort förtroende för moderatledaren. Det är en ökning med 10 procentenheter jämfört med förra mätningen som ägde rum i augusti i år. ”Det är ganska dramatiskt. Under mandatperioden har Magdalena Andersson hela tiden varit i topp när det kommer till förtroendeligan. Men i och med valet och de efterdyningarna som har funnits med regeringsbildningen så ser vi att Ulf Kristersson har tagit över förstaplatsen med ganska god marginal”, säger Per Oleskog Tryggvason, opinionschef på Indikator Opinion.",
+      "pubDate": "2026-11-01T05:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
       ]
     },
     {
@@ -138,18 +152,6 @@
       "topics": [
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Expert: Dragkampen har alltid funnits inom SD",
-      "link": "https://www.expressen.se/nyheter/politik/expert-svenskhetsbraket-ar-inte-forvanande-expert-dragkampen-har-alltid-funnits-inom-sd/",
-      "description": "SD har aldrig varit rasistiskt som parti, enligt Åkesson. Det har de visst, menar forskaren Christer Mattsson. –&nbsp;Det går inte att säga att man inte har haft de här idéerna i partiet, säger han.&nbsp;",
-      "pubDate": "2026-10-31T13:45:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     },
     {
