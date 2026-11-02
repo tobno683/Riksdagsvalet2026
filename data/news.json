@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T04:41:25.816135Z",
+  "updated_at": "2026-11-02T12:55:41.391422Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,48 +79,100 @@
   ],
   "news": [
     {
+      "title": "SD-topparnas bråk –  om partiets pengar",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/sd-topparnas-brak-om-partiets-pengar/",
+      "description": "Nu får Ulf Kristersson chansen att sondera. Är hoppet ute för Magdalena Andersson? Och vad pågår egentligen i Sverigedemokraterna? Lyssna på ”Politikrummet”.",
+      "pubDate": "2026-11-02T12:39:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Hur lång tid kan regeringsbildningen ta?",
+      "link": "https://www.sverigesradio.se/artikel/9332449",
+      "description": "Ovissheten kring regeringsbildningen väcker många frågor, inte minst hur lång tid det kan ta innan Sverige får en ny statsminister. Bedömningen är att processen kan bli lång, men sannolikt inte lika utdragen som 2018, då regeringsbildningen tog 134 dagar. Ekots politiska kommentator Fredrik Furtenbach och Jan Teorell, professor i statsvetenskap vid Stockholms universitet, svarar på lyssnarnas frågor.",
+      "pubDate": "2026-11-02T08:28:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kan lagar skynda på processen?",
+      "link": "https://www.sverigesradio.se/artikel/9332455",
+      "description": "50 dagar har gått utan regering och imorgon röstar Riksdagen om en statsministerkandidat som ingen vill ha. Regeringsbildningen omgärdas av en hel del frågetecken. Ekots politiska kommentator Fredrik Furtenbach och Jan Teorell, professor i statsvetenskap vid Stockholms universitet, svarar på lyssnarnas frågor.",
+      "pubDate": "2026-11-02T08:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Varför kom de rödgröna inte överens innan valet?",
+      "link": "https://www.sverigesradio.se/artikel/9332454",
+      "description": "50 dagar har gått utan regering och imorgon röstar Riksdagen om en statsministerkandidat som ingen vill ha. Regeringsbildningen omgärdas av en hel del frågetecken. Ekots politiska kommentator Fredrik Furtenbach och Jan Teorell, professor i statsvetenskap vid Stockholms universitet, svarar på lyssnarnas frågor.",
+      "pubDate": "2026-11-02T08:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Hur ska de rödgröna kunna kampanja vid ett extraval?",
+      "link": "https://www.sverigesradio.se/artikel/9332453",
+      "description": "Ett extraval kan bli mycket svårt för partier som inte lyckas få fram ett regeringsalternativ, menar Ekots politiska kommentator Fredrik Furtenbach och Jan Teorell, professor i statsvetenskap vid Stockholms universitet. Särskilt Socialdemokraterna pekas ut som sårbara, efter opinionsnedgång och partiets svagaste valresultat sedan 1911. Samtidigt beskrivs hur även Centerpartiet och Vänsterpartiet riskerar att tappa inflytande och hamna i opposition under resten av mandatperioden.",
+      "pubDate": "2026-11-02T08:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Hur lång tid är 50 dagar utan ny regering?",
+      "link": "https://www.sverigesradio.se/artikel/9332452",
+      "description": "50 dagar har gått utan regering och imorgon röstar Riksdagen om en statsministerkandidat som ingen vill ha. Regeringsbildningen omgärdas av en hel del frågetecken. Ekots politiska kommentator Fredrik Furtenbach och Jan Teorell, professor i statsvetenskap vid Stockholms universitet, svarar på lyssnarnas frågor.",
+      "pubDate": "2026-11-02T08:10:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Rödgröna tog makten –  röstade på SD-kandidat",
+      "link": "https://www.expressen.se/nyheter/sverige/rodgrona-tog-makten-rostade-pa-sd-kandidat/",
+      "description": "I Nynäshamn röstade minoritetsstyret S, V och MP fram Sverigedemokrater till posterna som 2:e vice ordförande i kommunfullmäktige och oppositionsråd.&nbsp; Det har fått M att anklaga styret för att ha en hemlig överenskommelse med SD.&nbsp; – Vi har inget avtal med SD, säger Patrik Isestad (S), kommunstyrelsens nya ordförande.&nbsp;",
+      "pubDate": "2026-11-02T06:45:18Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Insändare. Vad håller ni på med, rödgröna?",
       "link": "https://www.dn.se/insandare/vad-haller-ni-pa-med-rodgrona/",
       "description": "INSÄNDARE. Varför kan inte S, C, V och MP som Tidöpartierna sätta sig ner och nattmangla fram ett regeringsprogram? Historiens dom kommer vara hård om de genom prestige, röda linjer och bristande vilja låter detta gå till extraval, skriver de rödgröna väljarna Calle Karnerud och Karin Norman.",
       "pubDate": "2026-11-01T20:05:56Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Ny mätning: Minskat stöd för S och C i regering",
-      "link": "https://www.expressen.se/nyheter/politik/ny-matning-minskat-stod-for-s-och-c-i-regering/",
-      "description": "Färre väljare vill nu se Socialdemokraterna och Centerpartiet i regering än direkt efter valet. Det visar DN/Ipsos senaste mätning.&nbsp; Stödet för Tidöpartierna ökar däremot. – Opinionsvindarna blåser i Tidöpartiernas riktning, säger Nicklas Källebring på Ipsos till DN.",
-      "pubDate": "2026-11-01T19:16:59Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Jomshof står på sig: ”Det krävs svenska kulturbärare”",
-      "link": "https://www.expressen.se/nyheter/politik/jomshof-star-pa-sig-det-kravs-svenska-kulturbarare/",
-      "description": "Åkesson försökte punktera SD:s storbråk om svenskhet. Men Richard Jomshof står pall. ”Varken jag eller Tobias Andersson är 'etnonationalister'” , skriver han på X.&nbsp;",
-      "pubDate": "2026-11-01T17:48:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Uppgifter: USA planerar nya attacker mot Iran",
-      "link": "https://www.sverigesradio.se/artikel/9332324",
-      "description": "Flera amerikanska medier rapporterar att Trump-administrationen planerar att genomföra nya attacker mot Iran efter mellanårsvalet. Sveriges Radios internationella korrespondent Daniel Alling säger att uppgifterna baseras på källor från bland annat Pentagon samt olika uttalanden från president Donald Trump och utrikesministern Marco Rubio. Iran svarar med att man är redo att slå tillbaka, men öppnar också för samtal. ”Men om det verkligen händer, det får vi se”, säger korrespondenten.",
-      "pubDate": "2026-11-01T16:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
@@ -200,56 +252,6 @@
       ]
     },
     {
-      "title": "Kristersson har gått om Andersson i förtroendeligan",
-      "link": "https://www.sverigesradio.se/artikel/9329320",
-      "description": "Väljarna har nu större förtroende för Moderaternas Ulf Kristersson än för Socialdemokraternas Magdalena Andersson, visar Indikator Opinions oktobermätning. Över hälften av väljarna, 55 procent, uppger att de har stort förtroende för moderatledaren. Det är en ökning med 10 procentenheter jämfört med förra mätningen som ägde rum i augusti i år. ”Det är ganska dramatiskt. Under mandatperioden har Magdalena Andersson hela tiden varit i topp när det kommer till förtroendeligan. Men i och med valet och de efterdyningarna som har funnits med regeringsbildningen så ser vi att Ulf Kristersson har tagit över förstaplatsen med ganska god marginal”, säger Per Oleskog Tryggvason, opinionschef på Indikator Opinion.",
-      "pubDate": "2026-11-01T05:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "30 oktober: Här är dagens nyheter",
-      "link": "https://www.dn.se/varlden/30-oktober-har-ar-dagens-nyheter/",
-      "description": "Ukrainas luftvärnschef vädjar om svenska vapnet, SD-ledaren Jimmie Åkesson kommenterar den senaste tidens partiinterna diskussion och regeringen aktiverar högkostnadsskydd – här är dagens nyheter.",
-      "pubDate": "2026-10-30T20:00:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: 20 års kamp står på spel för Åkesson",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-20-ars-kamp-star-pa-spel-for-akesson/",
-      "description": "Jimmie Åkesson har tunga skäl att ta till storsläggan mot de sverigedemokrater som pratar om etnicitet. Det som står på spel är 20 års framgångsrik kamp för att kasta av partiet rasiststämpeln.",
-      "pubDate": "2026-10-30T18:25:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Regeringen aktiverar högkostnadsskydd för elområde 4",
-      "link": "https://www.dn.se/sverige/regeringen-aktiverar-hogkostnadsskydd-for-elomrade-4/",
-      "description": "På grund av höga elpriser i södra Sverige har regeringen beslutat att aktivera högkostnadsskydd för elområde 4. När stödet betalas ut kommer det ”sannolikt handla om små belopp”, enligt energiminister Ebba Busch.",
-      "pubDate": "2026-10-30T17:46:12Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
       "title": "”Åkessons ultimatum: Rätta in er i ledet, eller lämna”",
       "link": "https://www.svt.se/nyheter/inrikes/akessons-ultimatum-ratta-in-er-i-ledet-eller-lamna",
       "description": "Lämna, eller rätta in er i ledet. Det är Jimmie Åkessons hårda budskap till SD-profilen Richard Jomshof och andra som ifrågasätter partilinjen i frågan om svenskhet. Nu viner partipiskan i Sverigedemokraterna och det är Åkesson själv som håller i piskan.",
@@ -301,6 +303,20 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "330. Då blir Kristersson statsminister",
+      "link": "https://pod.space/politikrummet/330-da-blir-kristersson-statsminister",
+      "description": "Nu får Ulf Kristersson chansen att sondera. Är hoppet ute för Magdalena Andersson? I studion: Filippa Rogvall, Max V Karlsson och Anette Holmqvist. Ljudklipp från SVT Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström",
+      "pubDate": "2026-11-02T12:35:46Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Veckopanelen: Vad vinner de på att veva mot talmannen?",
       "link": "https://pod.space/kvartal/veckopanelen-vad-vinner-de-pa-att-veva-mot-talmannen",
@@ -486,18 +502,6 @@
       "sourceType": "podcast",
       "topics": [
         "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Vad ska Centerledaren göra hela veckan?",
-      "link": "https://pod.space/alskadepolitik/vad-ska-centerledaren-gora-hela-veckan",
-      "description": "I 36 dagar efter valet har Sverige saknat en ny regering och nu meddelar talmannen Andreas Norlén (M) att C-ledaren Elisabeth Thand Ringqvist får det tredje sonderingsuppdraget av honom.",
-      "pubDate": "2026-10-19T16:21:00Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
         "C"
       ]
     }
