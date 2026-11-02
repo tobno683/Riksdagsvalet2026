@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T23:59:52.812671Z",
+  "updated_at": "2026-11-02T04:41:25.816135Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -139,18 +139,6 @@
       ]
     },
     {
-      "title": "Tävlingsledaren efter dödsolyckan:  ”Vår klubb är i chock”",
-      "link": "https://www.expressen.se/nyheter/sverige/tavlingsledaren-efter-dodsolyckan--var-klubb-ar-i-chock/",
-      "description": "Sveriges största rally fick avbrytas efter en dödsolycka. Tävlingsledare Jan Andersson har aldrig varit med om något liknande. –&nbsp;Det är väldigt tragiskt. Vår klubb är i chock, säger han.",
-      "pubDate": "2026-11-01T14:33:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Gabrielsson (V): Tänker inte backa – dörren stängd",
       "link": "https://www.dn.se/sverige/gabrielsson-v-tanker-inte-backa-dorren-stangd/",
       "description": "Vänsterpartiet kommer inte att backa från kravet att sitta i en rödgrön regering, framhåller partiets vice ordförande Ida Gabrielsson på X.",
@@ -259,6 +247,18 @@
       "sourceType": "news",
       "topics": [
         "KD"
+      ]
+    },
+    {
+      "title": "”Åkessons ultimatum: Rätta in er i ledet, eller lämna”",
+      "link": "https://www.svt.se/nyheter/inrikes/akessons-ultimatum-ratta-in-er-i-ledet-eller-lamna",
+      "description": "Lämna, eller rätta in er i ledet. Det är Jimmie Åkessons hårda budskap till SD-profilen Richard Jomshof och andra som ifrågasätter partilinjen i frågan om svenskhet. Nu viner partipiskan i Sverigedemokraterna och det är Åkesson själv som håller i piskan.",
+      "pubDate": "2026-10-30T14:09:14Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
       ]
     }
   ],
