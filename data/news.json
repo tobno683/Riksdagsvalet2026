@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T11:06:50.682534Z",
+  "updated_at": "2026-11-03T18:30:26.811875Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,189 +79,194 @@
   ],
   "news": [
     {
-      "title": "Chatta med DN om regeringsbildningen",
-      "link": "https://www.dn.se/sverige/chatta-med-dns-politikreportrar-om-regeringsbildningen-2/",
-      "description": "Finns det någon möjlighet att Elisabeth Thand Ringqvist blir vald till statsminister? Vad händer efter dagens omröstning och har partierna råd med ett extra val? Ställ dina frågor om regeringsbildningen till DN:s politikreporter Hanna Jakobson och politiske kommentator Tomas Ramberg. Chatten drar igång klockan 11.00.",
-      "pubDate": "2026-11-03T09:23:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C-ledaren går mot storförlust när riksdagen röstar om statsminister",
-      "link": "https://www.dn.se/sverige/c-ledaren-gar-mot-storforlust-nar-riksdagen-rostar-om-statsminister/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist prövas i dag i en unik statsministeromröstning. Ingen, vare sig hon själv eller någon från andra partier, vill att hon ska bli regeringsbildare.",
-      "pubDate": "2026-11-03T09:23:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ebba Busch: Inte rädd för ett extraval",
-      "link": "https://www.expressen.se/nyheter/politik/ebba-busch-inte-radd-for-ett-extraval/",
-      "description": "51 dagar har gått sedan Sverige gick till val. Enligt Ebba Busch är KD berett om regeringsbildningen kör fast. –&nbsp;Vi är inte rädda för ett extraval, säger hon.",
-      "pubDate": "2026-11-03T09:23:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ebba Busch: Elstöd för oktober betalas ut senare",
-      "link": "https://www.expressen.se/ekonomi/privatekonomi/ebba-busch-elstod-for-oktober-betalas-ut-senare/",
-      "description": "Ett normalt hushåll i södra Sverige kan få någon hundralapp i elstöd för oktober, enligt energiminister Ebba Busch (KD). Men utbetalningen dröjer, då regeringen vill slå ihop utbetalningen med eventuellt stöd för november–december.",
-      "pubDate": "2026-11-03T08:57:40Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "KD"
-      ]
-    },
-    {
-      "title": "Regeringsbildningen steg för steg",
-      "link": "https://www.svt.se/nyheter/inrikes/regeringsbildningen-steg-for-steg",
-      "description": "Ett av talmannens uppdrag är att föreslå en statsminister efter ett val. Nuvarande talmannen Andreas Norlén har använt så kallade sonderingsuppdrag som verktyg att föra processen framåt. Elisabeth Thand Ringqvist (C) är den andra partiledaren att tilldelas sonderingsuppdraget, och nu väntar en statsministeromröstning den 3 november.",
-      "pubDate": "2026-11-03T08:50:38Z",
+      "title": "”Nästintill omöjlig uppgift för Kristersson”",
+      "link": "https://www.svt.se/nyheter/inrikes/nastintill-omojlig-uppgift-for-kristersson",
+      "description": "Ulf Kristerssons sonderingsuppdrag framstår som en näst intill omöjlig uppgift. För att samla en majoritet i riksdagen krävs att Centerpartiet går med på att ingå i ett regeringsunderlag tillsammans med Sverigedemokraterna. Det skulle innebära en sensationell helomvändning av Centerpartiet. Inte särskilt sannolikt givet att C-ledaren Elisabeth Thand Ringqvist så sent som idag upprepade de röda linjerna mot SD.",
+      "pubDate": "2026-11-03T18:22:53Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "M",
+        "SD",
         "C",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "SD-källor om indragna stödet: Riksprofiler har irriterat partiledningen",
-      "link": "https://www.dn.se/sverige/sd-kallor-om-indragna-stodet-riksprofiler-har-irriterat-partiledningen/",
-      "description": "Sverigedemokraterna överväger att dra in sitt miljonstöd till Riks. Den senaste tiden har mediekanalen gett sig in i SD-bråket om svenskhet, vilket har irriterat partiledningen enligt DN:s källor. Riks vd Jacob Hagnell har inga planer på att ändra kanalens rapportering. – Vi är en oberoende redaktion. Vi lyfter de frågor vi bedömer är relevanta, säger han.",
-      "pubDate": "2026-11-03T08:06:34Z",
+      "title": "Åkesson: ”Vi har inga planer på att flytta på oss”",
+      "link": "https://www.dn.se/sverige/akesson-vi-har-inga-planer-pa-att-flytta-pa-oss/",
+      "description": "Om varken C eller SD släpper sina röda linjer och krav blir det omöjligt för statsminister Ulf Kristersson, M, att få ihop en ny regering. – Vi har inga planer på att flytta på oss, säger SD-ledaren Jimmie Åkesson om kravet på ministerposter.",
+      "pubDate": "2026-11-03T18:07:42Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Göteborgs styre: Elsparkcykelhot, sänkta politikerlöner – och hopp om AI-hjälp att spara",
+      "link": "https://www.dn.se/sverige/goteborgs-styre-elsparkcykelhot-sankta-politikerloner-och-hopp-om-ai-hjalp-att-spara/",
+      "description": "Göteborgs nya styre tar över med hot om stopp för hyrda elsparkcyklar, kommunalrådens löner ska sänkas – och för att bromsa ”byråkratin” ställs hoppet till AI. De rödgröna vill också försvåra så mycket det bara går för aktiebolag att starta skolor.",
+      "pubDate": "2026-11-03T16:52:59Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Tomas Ramberg: Det pågår en skönhetstävling mellan de rödgröna",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-det-pagar-en-skonhetstavling-mellan-de-rodgrona/",
+      "description": "Det pågår en skönhetstävling mellan de rödgröna. Den handlar om vem som ska slippa att bära hundhuvudet om förhandlingarna kraschar in i ett extraval. Samtidigt får Magdalena Anderssons lag ofrivilligt draghjälp av Sverigedemokraterna.",
+      "pubDate": "2026-11-03T16:48:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
         "SD"
       ]
     },
     {
-      "title": "Gissén: Centerpartiet kan bli avgörande",
-      "link": "https://www.sverigesradio.se/artikel/9333300",
-      "description": "Centerpartiet väntas rösta grönt i tisdagens statsministeromröstning, resterande partier rött vilket innebär att centerledaren Elisabeth Thand Ringqvist kommer förlora. Samtidigt är Centerpartiet det mest intressanta partiet att följa framåt, enligt politikkommentator Helena Gissén. ”Är det en regering med Vänsterpartiet i eller är det en regering som på ett eller annat sätt är beroende av Sverigedemokraterna, kanske då utan SD-ministrar eller är det extraval?\"",
-      "pubDate": "2026-11-03T07:58:00Z",
+      "title": "Kan Ulf Kristersson få Centerpartiet att byta sida?",
+      "link": "https://www.dn.se/podd/alskade-politik/kan-ulf-kristersson-fa-centerpartiet-att-byta-sida/",
+      "description": "Elisabeth Thand Ringqvist har röstats ner som statsminister och M-ledaren har tagit över stafettpinnen från talmannen. Men varför verkar moderater uppgivna över Kristerssons sonderingsuppdrag – och vad är taktiken om det blir extraval?",
+      "pubDate": "2026-11-03T16:30:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Helena Gissén: Oddsen för Kristersson är dåliga",
+      "link": "https://www.sverigesradio.se/artikel/9333846",
+      "description": "Moderaternas partiledare, Ulf Kristersson, får sonderingsuppdraget av talmannen efter att Centerpartiets partiledare Elisabeth Thand Ringqvist röstats ned i riksdagen på tisdagen. Ekots inrikespolitiska kommentator, Helena Gissén, tror att det snudd på omöjligt för Kristersson att få ihop en regering.",
+      "pubDate": "2026-11-03T16:02:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "SD",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Världsettorna och regerande mästarna – Sverige vill skicka två lag till OS 2028",
+      "link": "https://www.dn.se/sport/varldsettorna-och-regerande-mastarna-sverige-vill-skicka-tva-lag-till-os-2028/",
+      "description": "En kvotplats till OS 2028 är redan klar. Men det var inte de regerande beachvolleymästarna Jonatan Hellvig och David Åhman som vann den – det gjorde nya världsettorna Elmer Andersson och Jacob Hölting Nilsson. Nu börjar kampen för att få med ytterligare ett svenskt lag till Los Angeles.",
+      "pubDate": "2026-11-03T16:01:14Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Statsvetare: Förvirrande signaler från Centerpartiet",
+      "link": "https://www.dn.se/sverige/statsvetare-forvirrande-signaler-fran-centerpartiet/",
+      "description": "Ulf Kristersson är näst på tur av partiledarna att sondera för en ny regering. Möjligheterna att lyckas är små, men det är inte helt uteslutet, enligt statsvetaren Tommy Möller. – Det är förvirrande signaler och jag ser två tänkbara förklaringar till det, säger han.",
+      "pubDate": "2026-11-03T15:53:16Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Gabrielsson: Då blir hon statsminister",
+      "link": "https://www.expressen.se/nyheter/politik/gabrielsson-da-blir-hon-statsminister/",
+      "description": "Vänsterpartiet erbjuder Elisabeth Thand Ringqvist (C) statsministerposten – om de får ingå i regeringen. Det säger vice partiledare Ida Gabrielsson (V) i Expressens podd ”Viktor möter”. – Där är det nog S som har en röd linje, säger hon.",
+      "pubDate": "2026-11-03T15:24:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
         "V",
         "C",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "Färre litar på att valen går rätt till – tydlig minskning",
-      "link": "https://www.sverigesradio.se/artikel/9331450",
-      "description": "Svenskarnas tilltro till att de allmänna valen går rätt till har minskat tydligt under det senaste året. Det visar Indikator Opinions mätning som gjorts i oktober på uppdrag av Ekot. 69 procent har ett ganska eller mycket stort förtroende för att valen genomförs på ett korrekt sätt. När Indikator ställde samma fråga för SOM-institutet 2025 var siffran 77 procent. Henrik Ekengren Oscarsson, professor i statsvetenskap vid Göteborgs universitet, bedömer att diskussionerna om misstänkt valfusk i Borlänge orsakar den största nedgången, men att även strulet med förtidsröstningen under själva valet kan spela in.",
-      "pubDate": "2026-11-03T02:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "\"Läskigt när privata bråk blir offentliga\"",
-      "link": "https://www.dn.se/podd/armstrong-sokolnicki/laskigt-nar-privata-brak-blir-offentliga/",
-      "description": "Kirsty är tillbaka från Japan och är måttligt imponerad av både resmålet och Amandas analys av upploppen i Frankrike. Dessutom: David Druid, hackerattacken mot Ica och Coop och bråket inom Sverigedemokraterna.",
-      "pubDate": "2026-11-03T00:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Ginna Lindberg: ”Uppförsbacke för Trump”",
-      "link": "https://www.sverigesradio.se/artikel/9333205",
-      "description": "På tisdag är det mellanårsval i USA, som kan få stor betydelse för sammansättningen i kongressen. President Donald Trump höll under måndagskvällen svensk tid, ett valtal, där en stor del handlade om renoveringen av den välkände spegeldammen i Washington D.C. De flesta opinionsmätningarna pekar på att Demokraterna kan vinna stort mot Republikanerna. ”Blir det så, så blir det uppförsbacke för Trump de närmaste två åren”, säger Sveriges Radios Washingtonkorrespondent Ginna Lindberg.",
-      "pubDate": "2026-11-02T21:00:00Z",
+      "title": "Ulf Kristersson om sonderingsuppdraget: ”Mycket svårt”",
+      "link": "https://www.sverigesradio.se/artikel/9333780",
+      "description": "Efter att Centerpartiets partiledare Elisabeth Thand Ringqvist på tisdagen förlorat statsministeromröstningen i riksdagen, tackade Moderaternas partiledare, Ulf Kristersson ja till sonderingsuppdraget. Ulf Kristersson, som har en vecka på sig att sondera, uttryckte under en pressträff efter att han träffat talmannen att uppdraget ”kommer bli svårt, sannolikt mycket svårt men kanske inte helt omöjligt.” Partiernas krav och röda linjer kvarstår.",
+      "pubDate": "2026-11-03T15:13:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "MP",
-        "Opinion"
+        "M",
+        "C",
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "Två förhörda efter misstänkt valfusk i Borlänge",
-      "link": "https://www.sverigesradio.se/artikel/9333197",
-      "description": "Två personer har förhörts av polis efter misstänkt valfusk i Borlänge, rapporterar TV4 Nyheterna . En misstänks för otillbörligt verkande vid röstning, den andra för medhjälp. En av dem uppger via sin advokat att han känner Vänsterpartiets riksdagsledamot Mohamed Ali, men nekar till brott.",
-      "pubDate": "2026-11-02T20:37:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Anna-Lena Laurén: Berlinvänsterns problem känns igen från Sverige",
-      "link": "https://www.dn.se/varlden/anna-lena-lauren-berlinvansterns-problem-kanns-igen-fran-sverige/",
-      "description": "BERLIN. Vänsterpartiet Die Linke tog en brakseger i Berlin – men har nu trasslat in sig i en genant diskussion om sin radikala falang. Problemen liknar intill förväxling den svenska vänsterns.",
-      "pubDate": "2026-11-02T16:33:25Z",
+      "title": "Kristersson om sonderingsuppdraget: ”Det kommer att bli svårt”",
+      "link": "https://www.dn.se/sverige/kristersson-om-sonderingsuppdraget-det-kommer-att-bli-svart/",
+      "description": "Statsminister Ulf Kristersson har litet hopp om att han ska kunna bilda en ny regering. – Jag ser framför mig att det kommer att bli svårt, sannolikt mycket svårt, säger han.",
+      "pubDate": "2026-11-03T14:48:27Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V"
+        "M",
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "Ola Larsmo: Sprickan om svenskhet i SD är ren arbetsfördelning",
-      "link": "https://www.dn.se/kultur/ola-larsmo-sprickan-om-svenskhet-i-sd-ar-ren-arbetsfordelning/",
-      "description": "Ett bråk om synen på svenskhet har brutit ut bland Sverigedemokraternas partitoppar. Ola Larsmo följer trådarna tillbaka till statsvetaren Rudolf Kjellén och tvivlar på att SD har bestämt sig för att etnicitet är en social konstruktion.",
-      "pubDate": "2026-11-02T15:03:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Insändare. Vad håller ni på med, rödgröna?",
-      "link": "https://www.dn.se/insandare/vad-haller-ni-pa-med-rodgrona/",
-      "description": "INSÄNDARE. Varför kan inte S, C, V och MP som Tidöpartierna sätta sig ner och nattmangla fram ett regeringsprogram? Historiens dom kommer vara hård om de genom prestige, röda linjer och bristande vilja låter detta gå till extraval, skriver de rödgröna väljarna Calle Karnerud och Karin Norman.",
-      "pubDate": "2026-11-01T20:05:56Z",
+      "title": "Fler platser – men tuff svensk OS-kvallottning: ”Ett nålsöga”",
+      "link": "https://www.dn.se/sport/fler-platser-men-tuff-svensk-os-kvallottning-ett-nalsoga/",
+      "description": "För tre år sedan missade de svenska fotbollsdamerna OS i Paris. Till OS i Los Angeles 2028 finns dubbelt så många europeiska platser att slåss om – men kvalet är (nästan) lika tufft. – Det blir ett nålsöga att ta sig dit, säger förbundskaptenen Tony Gustavsson.",
+      "pubDate": "2026-11-03T14:32:42Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
     {
-      "title": "DN/Ipsos: Minskat stöd för att S och C ska sitta i regering",
-      "link": "https://www.dn.se/sverige/dn-ipsos-minskat-stod-for-att-s-och-c-ska-sitta-i-regering/",
-      "description": "Stödet sjunker för både Socialdemokraterna och Centerpartiet att de ska sitta med i en kommande regering, visar en mätning från DN/Ipsos. – S och C får bära ansvaret för att det går trögt i regeringsbildningen, säger Nicklas Källebring på Ipsos.",
-      "pubDate": "2026-11-01T16:29:43Z",
+      "title": "USA röstar – då kan vi ha ett valresultat",
+      "link": "https://www.dn.se/varlden/usa-rostar-da-kan-vi-ha-ett-valresultat/",
+      "description": "Demokraterna hoppas återta majoriteten i kongressens två kamrar från Republikanerna i mellanårsvalet, där de första vallokalerna stänger vid midnatt svensk tid. Kort därefter börjar de första resultaten komma in, men redan klockan 23 publicerar AP de första vallokalsundersökningarna.",
+      "pubDate": "2026-11-03T14:11:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ulf Kristersson får sonderingsuppdraget",
+      "link": "https://www.expressen.se/nyheter/politik/ulf-kristersson-haller-presstraff/",
+      "description": "Elisabeth Thand Ringqvist föll som väntat.&nbsp; Nu är det Ulf Kristerssons tur att sondera.&nbsp; – Det kommer att bli svårt, säger han på en pressträff.&nbsp;",
+      "pubDate": "2026-11-03T13:56:49Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Ledare: Var håller egentligen Magdalena Andersson hus?",
+      "link": "https://www.dn.se/ledare/var-haller-egentligen-magdalena-andersson-hus/",
+      "description": "Vänsterpartiets ultimativa krav riskerar att sänka de rödgröna för lång tid framöver – och kräver att S-ledaren växlar upp. I stället har hon skrämts av banan.",
+      "pubDate": "2026-11-03T13:50:38Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "C",
-        "Regeringsbildning"
+        "V"
       ]
     }
   ],
@@ -292,6 +297,45 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Kan Ulf Kristersson få Centerpartiet att byta sida?",
+      "link": "https://pod.space/alskadepolitik/kan-ulf-kristersson-fa-centerpartiet-att-byta-sida",
+      "description": "Elisabeth Thand Ringqvist har röstats ner som statsminister och M-ledaren har tagit över stafettpinnen från talmannen. Men varför verkar moderater uppgivna över Kristerssons sonderingsuppdrag – och vad är taktiken om det blir extraval?",
+      "pubDate": "2026-11-03T16:30:39Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kvartal Idag: Kristersson tar över – men vill han?",
+      "link": "https://pod.space/kvartal/kvartal-idag-kristersson-tar-over-men-vill-han",
+      "description": "Jörgen Huitfeldt: Tror han är halvsugen. Demokraterna kan knäcka Trumps makt. Förtroendet för svenska val sjunker kraftigt. Och en majoritet av läkarstudenter är för dödshjälp. Programledare: Cassandra Alm.",
+      "pubDate": "2026-11-03T14:58:04Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "331. Viktor möter: Ida Gabrielsson",
+      "link": "https://pod.space/politikrummet/331-viktor-moter-ida-gabrielsson",
+      "description": "Vänsterpartiet tänker inte backa - så hur ska dödläget i regeringsbildningen brytas? Och är Mohamed Ali (V) verkligen socialist och feminist på ekologisk grund, som partiprogrammet stipulerar? Viktor Barth-Kron intervjuar Ida Gabrielsson, vice partiledare och höstens oväntade fixstjärna i svensk politik. Ansvarig utgivare: Klas Granström",
+      "pubDate": "2026-11-03T11:58:06Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "330. Då blir Kristersson statsminister",
       "link": "https://pod.space/politikrummet/330-da-blir-kristersson-statsminister",
@@ -454,44 +498,6 @@
         "V",
         "C",
         "L"
-      ]
-    },
-    {
-      "title": "Fredagsintervjun: Min ilska mot S är genuin",
-      "link": "https://pod.space/kvartal/fredagsintervjun-min-ilska-mot-s-ar-genuin",
-      "description": "Liberalernas partiledare Simona Mohamsson intervjuas av Jörgen Huitfeldt. Bara veckor före valet var hon och Liberalerna uträknade. Men på valkvällen kunde Simona Mohamsson jubla över en upphämtning utan motstycke i modern politisk historia. Hur resonerade partiet internt, och hur klarade hon pressen? Samtidigt sonderar Centerledaren en mittenregering. Men Mohamsson vägrar kategoriskt att släppa fram en regering ledd av Magdalena Andersson.",
-      "pubDate": "2026-10-23T10:45:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "L"
-      ]
-    },
-    {
-      "title": "Rak höger: Greta är bensin på elden i Frankrike",
-      "link": "https://pod.space/kvartal/rak-hoger-greta-ar-bensin-pa-elden-i-frankrike",
-      "description": "När en butik brinner ser ägaren sitt livsverk förstöras. Någon annan ser början på en revolution. Hur hamnar vänsteraktivisten och plundraren på samma sida? Adam Cwejman, politisk redaktör på Göteborgs-Posten, gästar Rak höger om våldet i Frankrike, Greta Thunbergs roll och vilka som kan vinna på kaoset. Men först: Centerpartiets försök att hitta en regering utan att kliva över sina egna röda linjer.",
-      "pubDate": "2026-10-22T14:23:57Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "326. Dadgostar rasar",
-      "link": "https://pod.space/politikrummet/326-dadgostar-rasar",
-      "description": "Centerpartiet jublar över mittenstyret i Region Stockholm. Kommer Vänsterpartiet backa nu? I poddstudion: Filippa Rogvall, Viktor Barth-Kron och Max V Karlsson Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-10-22T13:38:00Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V",
-        "C"
       ]
     }
   ]
