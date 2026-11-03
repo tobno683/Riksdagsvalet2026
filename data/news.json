@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T21:59:19.263185Z",
+  "updated_at": "2026-11-03T03:18:35.723357Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,16 @@
   ],
   "news": [
     {
+      "title": "Färre litar på att valen går rätt till – tydlig minskning",
+      "link": "https://www.sverigesradio.se/artikel/9331450",
+      "description": "Svenskarnas tilltro till att de allmänna valen går rätt till har minskat tydligt under det senaste året. Det visar Indikator Opinions mätning som gjorts i oktober på uppdrag av Ekot. 69 procent har ett ganska eller mycket stort förtroende för att valen genomförs på ett korrekt sätt. När Indikator ställde samma fråga för SOM-institutet 2025 var siffran 77 procent. Henrik Ekengren Oscarsson, professor i statsvetenskap vid Göteborgs universitet, bedömer att diskussionerna om misstänkt valfusk i Borlänge orsakar den största nedgången, men att även strulet med förtidsröstningen under själva valet kan spela in.",
+      "pubDate": "2026-11-03T02:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Ginna Lindberg: ”Uppförsbacke för Trump”",
       "link": "https://www.sverigesradio.se/artikel/9333205",
       "description": "På tisdag är det mellanårsval i USA, som kan få stor betydelse för sammansättningen i kongressen. President Donald Trump höll under måndagskvällen svensk tid, ett valtal, där en stor del handlade om renoveringen av den välkände spegeldammen i Washington D.C. De flesta opinionsmätningarna pekar på att Demokraterna kan vinna stort mot Republikanerna. ”Blir det så, så blir det uppförsbacke för Trump de närmaste två åren”, säger Sveriges Radios Washingtonkorrespondent Ginna Lindberg.",
@@ -140,30 +150,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Man åtalas för hot mot Gunnar Strömmer",
-      "link": "https://www.expressen.se/nyheter/politik/man-atalas-for-hot-mot-gunnar-strommer/",
-      "description": "En man i 60-årsåldern åtalas för att ha hotat Gunnar Strömmer (M). I ett mejl till justitiedepartementet skriver mannen att han kommer att ”sprätta upp” Strömmer ”som den gris du är”.",
-      "pubDate": "2026-11-02T14:39:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Kristerssons regeringsplan: Fokus på C och SD",
-      "link": "https://www.expressen.se/nyheter/politik/kristerssons-regeringsplan-fokus-pa-c-och-sd/",
-      "description": "Ulf Kristersson (M) börjar sondera redan i morgon – när C-ledaren har röstats ned. Han ska fokusera på C och SD, erfar Expressen. – Moderaterna tar uppdraget på allvar, det är den information vi fått, säger en Tidökälla.",
-      "pubDate": "2026-11-02T14:28:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     },
     {
@@ -256,6 +242,18 @@
       "link": "https://www.svt.se/nyheter/inrikes/akessons-ultimatum-ratta-in-er-i-ledet-eller-lamna",
       "description": "Lämna, eller rätta in er i ledet. Det är Jimmie Åkessons hårda budskap till SD-profilen Richard Jomshof och andra som ifrågasätter partilinjen i frågan om svenskhet. Nu viner partipiskan i Sverigedemokraterna och det är Åkesson själv som håller i piskan.",
       "pubDate": "2026-10-30T14:09:14Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson (SD) sätter ner foten – efter det interna bråket",
+      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-sd-satter-ner-foten-efter-det-interna-braket",
+      "description": "Sedan valet har Sverigedemokraterna präglats av en infekterad debatt om svenskhet. Nu sätter partiledaren Jimmie Åkesson ned foten i partikonflikten. Han slår fast att man enligt partiet kan bli svensk utan att vara född i Sverige och att företrädare ska stå bakom principen. ”Annars får man kliva av, eller bli avslängd”, skriver SD-ledaren i en debattartikel i Expressen.",
+      "pubDate": "2026-10-30T11:54:59Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
