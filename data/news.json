@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T18:30:26.811875Z",
+  "updated_at": "2026-11-03T23:34:54.684400Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,54 @@
     }
   ],
   "news": [
+    {
+      "title": "Guide: Tiderna att hålla koll på under mellanårsvalet",
+      "link": "https://www.sverigesradio.se/artikel/9334017",
+      "description": "När vallokalerna börjar stänga i de olika amerikanska delstaterna så finns det en del att hålla koll på. Ginna Lindberg, Sveriges Radios korrespondent på plats i Washington, berättar vilka hålltider som finns under natten – och i vilka delstater mellanårsvalet kan hetta till. ”Det är nu åtta delstater, så kallade toss up states, där det kan gå åt ena eller andra hållet”, säger hon.",
+      "pubDate": "2026-11-03T23:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "3 november: Här är dagens nyheter",
+      "link": "https://www.dn.se/varlden/3-november-har-ar-dagens-nyheter/",
+      "description": "Kristersson tur att försöka bilda regering, vallokalerna har öppnat i USA och hot mot flera flygplan – här är dagens nyheter.",
+      "pubDate": "2026-11-03T20:08:28Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Korrespondenterna om opinionsläget: ”Trumps popularitet har dalat”",
+      "link": "https://www.sverigesradio.se/artikel/9333925",
+      "description": "Sveriges Radios korrespondenter svarade i Studio Ett på lyssnarnas frågor om mellanårsvalet i USA, där majoriteten i kongressens två kammare står på spel. En av lyssnarnas frågor handlade om ifall stödet till Ukraina förändras om demokraterna får majoritet i kongressen. \"Det är inte alls säkert att det blir så rent praktiskt men det kommer säkert bli en stor debatt om det och trycket mot Trump kommer öka” svarar Daniel Alling, internationell korrespondent på plats i Ohio.",
+      "pubDate": "2026-11-03T19:55:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Opinion"
+      ]
+    },
+    {
+      "title": "Carolines son handlade för 60 000 kronor på Roblox",
+      "link": "https://www.expressen.se/nyheter/sverige/carolines-son-handlade-for-60000-kronor-pa-roblox/",
+      "description": "Bara några dagar in på semestern upptäckte Caroline Damberg att hennes konto var tomt. Hennes son hade lyckats göra köp för 60&nbsp;000 kronor i spelet Roblox.&nbsp; – Hur är det ens möjligt?",
+      "pubDate": "2026-11-03T18:51:32Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "”Nästintill omöjlig uppgift för Kristersson”",
       "link": "https://www.svt.se/nyheter/inrikes/nastintill-omojlig-uppgift-for-kristersson",
@@ -183,34 +231,6 @@
       ]
     },
     {
-      "title": "Gabrielsson: Då blir hon statsminister",
-      "link": "https://www.expressen.se/nyheter/politik/gabrielsson-da-blir-hon-statsminister/",
-      "description": "Vänsterpartiet erbjuder Elisabeth Thand Ringqvist (C) statsministerposten – om de får ingå i regeringen. Det säger vice partiledare Ida Gabrielsson (V) i Expressens podd ”Viktor möter”. – Där är det nog S som har en röd linje, säger hon.",
-      "pubDate": "2026-11-03T15:24:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ulf Kristersson om sonderingsuppdraget: ”Mycket svårt”",
-      "link": "https://www.sverigesradio.se/artikel/9333780",
-      "description": "Efter att Centerpartiets partiledare Elisabeth Thand Ringqvist på tisdagen förlorat statsministeromröstningen i riksdagen, tackade Moderaternas partiledare, Ulf Kristersson ja till sonderingsuppdraget. Ulf Kristersson, som har en vecka på sig att sondera, uttryckte under en pressträff efter att han träffat talmannen att uppdraget ”kommer bli svårt, sannolikt mycket svårt men kanske inte helt omöjligt.” Partiernas krav och röda linjer kvarstår.",
-      "pubDate": "2026-11-03T15:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Kristersson om sonderingsuppdraget: ”Det kommer att bli svårt”",
       "link": "https://www.dn.se/sverige/kristersson-om-sonderingsuppdraget-det-kommer-att-bli-svart/",
       "description": "Statsminister Ulf Kristersson har litet hopp om att han ska kunna bilda en ny regering. – Jag ser framför mig att det kommer att bli svårt, sannolikt mycket svårt, säger han.",
@@ -242,32 +262,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Ulf Kristersson får sonderingsuppdraget",
-      "link": "https://www.expressen.se/nyheter/politik/ulf-kristersson-haller-presstraff/",
-      "description": "Elisabeth Thand Ringqvist föll som väntat.&nbsp; Nu är det Ulf Kristerssons tur att sondera.&nbsp; – Det kommer att bli svårt, säger han på en pressträff.&nbsp;",
-      "pubDate": "2026-11-03T13:56:49Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Ledare: Var håller egentligen Magdalena Andersson hus?",
-      "link": "https://www.dn.se/ledare/var-haller-egentligen-magdalena-andersson-hus/",
-      "description": "Vänsterpartiets ultimativa krav riskerar att sänka de rödgröna för lång tid framöver – och kräver att S-ledaren växlar upp. I stället har hon skrämts av banan.",
-      "pubDate": "2026-11-03T13:50:38Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
     }
   ],
   "blogs": [
