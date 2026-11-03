@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T03:18:35.723357Z",
+  "updated_at": "2026-11-03T11:06:50.682534Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,97 @@
   ],
   "news": [
     {
+      "title": "Chatta med DN om regeringsbildningen",
+      "link": "https://www.dn.se/sverige/chatta-med-dns-politikreportrar-om-regeringsbildningen-2/",
+      "description": "Finns det någon möjlighet att Elisabeth Thand Ringqvist blir vald till statsminister? Vad händer efter dagens omröstning och har partierna råd med ett extra val? Ställ dina frågor om regeringsbildningen till DN:s politikreporter Hanna Jakobson och politiske kommentator Tomas Ramberg. Chatten drar igång klockan 11.00.",
+      "pubDate": "2026-11-03T09:23:47Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C-ledaren går mot storförlust när riksdagen röstar om statsminister",
+      "link": "https://www.dn.se/sverige/c-ledaren-gar-mot-storforlust-nar-riksdagen-rostar-om-statsminister/",
+      "description": "C-ledaren Elisabeth Thand Ringqvist prövas i dag i en unik statsministeromröstning. Ingen, vare sig hon själv eller någon från andra partier, vill att hon ska bli regeringsbildare.",
+      "pubDate": "2026-11-03T09:23:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ebba Busch: Inte rädd för ett extraval",
+      "link": "https://www.expressen.se/nyheter/politik/ebba-busch-inte-radd-for-ett-extraval/",
+      "description": "51 dagar har gått sedan Sverige gick till val. Enligt Ebba Busch är KD berett om regeringsbildningen kör fast. –&nbsp;Vi är inte rädda för ett extraval, säger hon.",
+      "pubDate": "2026-11-03T09:23:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ebba Busch: Elstöd för oktober betalas ut senare",
+      "link": "https://www.expressen.se/ekonomi/privatekonomi/ebba-busch-elstod-for-oktober-betalas-ut-senare/",
+      "description": "Ett normalt hushåll i södra Sverige kan få någon hundralapp i elstöd för oktober, enligt energiminister Ebba Busch (KD). Men utbetalningen dröjer, då regeringen vill slå ihop utbetalningen med eventuellt stöd för november–december.",
+      "pubDate": "2026-11-03T08:57:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Regeringsbildningen steg för steg",
+      "link": "https://www.svt.se/nyheter/inrikes/regeringsbildningen-steg-for-steg",
+      "description": "Ett av talmannens uppdrag är att föreslå en statsminister efter ett val. Nuvarande talmannen Andreas Norlén har använt så kallade sonderingsuppdrag som verktyg att föra processen framåt. Elisabeth Thand Ringqvist (C) är den andra partiledaren att tilldelas sonderingsuppdraget, och nu väntar en statsministeromröstning den 3 november.",
+      "pubDate": "2026-11-03T08:50:38Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "SD-källor om indragna stödet: Riksprofiler har irriterat partiledningen",
+      "link": "https://www.dn.se/sverige/sd-kallor-om-indragna-stodet-riksprofiler-har-irriterat-partiledningen/",
+      "description": "Sverigedemokraterna överväger att dra in sitt miljonstöd till Riks. Den senaste tiden har mediekanalen gett sig in i SD-bråket om svenskhet, vilket har irriterat partiledningen enligt DN:s källor. Riks vd Jacob Hagnell har inga planer på att ändra kanalens rapportering. – Vi är en oberoende redaktion. Vi lyfter de frågor vi bedömer är relevanta, säger han.",
+      "pubDate": "2026-11-03T08:06:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Gissén: Centerpartiet kan bli avgörande",
+      "link": "https://www.sverigesradio.se/artikel/9333300",
+      "description": "Centerpartiet väntas rösta grönt i tisdagens statsministeromröstning, resterande partier rött vilket innebär att centerledaren Elisabeth Thand Ringqvist kommer förlora. Samtidigt är Centerpartiet det mest intressanta partiet att följa framåt, enligt politikkommentator Helena Gissén. ”Är det en regering med Vänsterpartiet i eller är det en regering som på ett eller annat sätt är beroende av Sverigedemokraterna, kanske då utan SD-ministrar eller är det extraval?\"",
+      "pubDate": "2026-11-03T07:58:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Färre litar på att valen går rätt till – tydlig minskning",
       "link": "https://www.sverigesradio.se/artikel/9331450",
       "description": "Svenskarnas tilltro till att de allmänna valen går rätt till har minskat tydligt under det senaste året. Det visar Indikator Opinions mätning som gjorts i oktober på uppdrag av Ekot. 69 procent har ett ganska eller mycket stort förtroende för att valen genomförs på ett korrekt sätt. När Indikator ställde samma fråga för SOM-institutet 2025 var siffran 77 procent. Henrik Ekengren Oscarsson, professor i statsvetenskap vid Göteborgs universitet, bedömer att diskussionerna om misstänkt valfusk i Borlänge orsakar den största nedgången, men att även strulet med förtidsröstningen under själva valet kan spela in.",
@@ -87,6 +178,18 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "\"Läskigt när privata bråk blir offentliga\"",
+      "link": "https://www.dn.se/podd/armstrong-sokolnicki/laskigt-nar-privata-brak-blir-offentliga/",
+      "description": "Kirsty är tillbaka från Japan och är måttligt imponerad av både resmålet och Amandas analys av upploppen i Frankrike. Dessutom: David Druid, hackerattacken mot Ica och Coop och bråket inom Sverigedemokraterna.",
+      "pubDate": "2026-11-03T00:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
     },
     {
       "title": "Ginna Lindberg: ”Uppförsbacke för Trump”",
@@ -111,21 +214,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Statsvetaren: C skulle kunna släppa in V – men med hårda villkor",
-      "link": "https://www.sverigesradio.se/artikel/9333107",
-      "description": "Riksdagen röstar på tisdag om Centerns Elisabeth Thand Ringqvist som statsminister, trots att hon själv bedömer att hon inte kan vinna. Enligt talmannen kräver grundlagen en omröstning när en kandidat fått försöka bilda regering. Statsvetaren Jonas Hinnfors pekar ut ett möjligt höstscenario där Magdalena Andersson (S) kan återkomma och där Vänsterpartiet kan släppas in av Centerpartiet men på hårda villkor.",
-      "pubDate": "2026-11-02T19:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
       ]
     },
     {
@@ -174,91 +262,6 @@
         "S",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Gabrielsson (V): Tänker inte backa – dörren stängd",
-      "link": "https://www.dn.se/sverige/gabrielsson-v-tanker-inte-backa-dorren-stangd/",
-      "description": "Vänsterpartiet kommer inte att backa från kravet att sitta i en rödgrön regering, framhåller partiets vice ordförande Ida Gabrielsson på X.",
-      "pubDate": "2026-11-01T14:24:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Först i Sverige med Starlink på alla tåg: ”Fungerar skitbra”",
-      "link": "https://www.dn.se/sverige/forst-i-sverige-med-starlink-pa-alla-tag-fungerar-skitbra/",
-      "description": "Svajigt internet på tåg kan vara frustrerande. Tågbolag världen över sneglar på Starlink som en lösning. Norrtåg blir först i Sverige med att installera tjänsten på hela sin flotta. – Vi har kört det som ett projekt i två år och det har fungerat grymt bra, säger Linus Sedlacek Åkerlind, teknisk chef på Norrtåg.",
-      "pubDate": "2026-11-01T13:31:04Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Spaniens regering pressad från vänster och höger efter tågtragedin",
-      "link": "https://www.dn.se/varlden/spaniens-regering-pressad-fran-vanster-och-hoger-efter-tagtragedin/",
-      "description": "De radikala vänsterpartier som ger socialistiska PSOE majoritet i kongressen kräver att regeringen tar ansvar för onsdagens järnvägskrasch i Urda, Toledo, och offentliggör alla data i målet. Tills vidare vägrar transportminister Óscar Puente att ta på sig något ansvar för det skedda.",
-      "pubDate": "2026-11-01T13:03:22Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "M: Stötta Volvo – låt Göteborgs anställda få leasa elbil billigt",
-      "link": "https://www.dn.se/ekonomi/m-stotta-volvo-lat-goteborgs-anstallda-fa-leasa-elbil-billigt/",
-      "description": "När Volvo Cars krisar föreslår Moderaterna i Göteborg att stadens nästan 60 000 anställda ska erbjudas att leasa en Volvo-elbil billigt. Men utspelet avfärdas av Socialdemokraternas ledare som ”av allt att döma helt olagligt”.",
-      "pubDate": "2026-11-01T11:07:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Insändare. Ge Vänsterpartiet chans till ministerposter – om två år",
-      "link": "https://www.dn.se/insandare/ge-vansterpartiet-chans-till-ministerposter-om-tva-ar/",
-      "description": "INSÄNDARE. Låt Vänsterpartiet under mandatperiodens första hälft acceptera medverkan på ungefär samma villkor som SD haft. Håll samtidigt dörren öppen för en partiell regeringsombildning 2028 som ger V fyra statsrådsposter, skriver Per Kågeson.",
-      "pubDate": "2026-11-01T09:11:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "”Åkessons ultimatum: Rätta in er i ledet, eller lämna”",
-      "link": "https://www.svt.se/nyheter/inrikes/akessons-ultimatum-ratta-in-er-i-ledet-eller-lamna",
-      "description": "Lämna, eller rätta in er i ledet. Det är Jimmie Åkessons hårda budskap till SD-profilen Richard Jomshof och andra som ifrågasätter partilinjen i frågan om svenskhet. Nu viner partipiskan i Sverigedemokraterna och det är Åkesson själv som håller i piskan.",
-      "pubDate": "2026-10-30T14:09:14Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson (SD) sätter ner foten – efter det interna bråket",
-      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-sd-satter-ner-foten-efter-det-interna-braket",
-      "description": "Sedan valet har Sverigedemokraterna präglats av en infekterad debatt om svenskhet. Nu sätter partiledaren Jimmie Åkesson ned foten i partikonflikten. Han slår fast att man enligt partiet kan bli svensk utan att vara född i Sverige och att företrädare ska stå bakom principen. ”Annars får man kliva av, eller bli avslängd”, skriver SD-ledaren i en debattartikel i Expressen.",
-      "pubDate": "2026-10-30T11:54:59Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
