@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T03:35:56.055396Z",
+  "updated_at": "2026-11-04T11:40:28.175005Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,10 +79,30 @@
   ],
   "news": [
     {
-      "title": "Guide: Tiderna att hålla koll på under mellanårsvalet",
-      "link": "https://www.sverigesradio.se/artikel/9334017",
-      "description": "När vallokalerna börjar stänga i de olika amerikanska delstaterna så finns det en del att hålla koll på. Ginna Lindberg, Sveriges Radios korrespondent på plats i Washington, berättar vilka hålltider som finns under natten – och i vilka delstater mellanårsvalet kan hetta till. ”Det är nu åtta delstater, så kallade toss up states, där det kan gå åt ena eller andra hållet”, säger hon.",
-      "pubDate": "2026-11-03T23:00:00Z",
+      "title": "Business Sweden: Osäkert vad valresultatet kommer betyda",
+      "link": "https://www.sverigesradio.se/artikel/9334053",
+      "description": "Det finns en osäkerhet kring vad utgången av det amerikanska mellanårsvalet kommer att få för betydelse för svenska företag, enligt Johan Karlberg som är landchef för USA på Business Sweden. ”Demokraterna har inte haft en tydlig reformagenda utan gjort det här till en folkomröstning om Trumps politik”, säger Johan Karlberg. Johan Karlberg tror inte på stora förändringar inom handeln och utrikespolitiken eftersom presidenten fortsatt till stor del styr de frågorna.",
+      "pubDate": "2026-11-04T07:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Demokraten El-Sayed vinner senatsvalet i Michigan",
+      "link": "https://www.sverigesradio.se/artikel/9334070",
+      "description": "Demokraten Abdul El-Sayed vinner senatsvalet i delstaten Michigan, enligt Reuters och Fox. Han hör till Demokraternas vänsterfalang och blir nu den första muslimska senatorn i USA:s historia. ”De har pekat finger mot mitt namn och min tro men vi vet alla att mitt namn och min tro inte är skälet till att vi inte har råd med bränsle och inte har råd med mat” sa Abdul El-Sayed i sitt tal på valvakan. Demokraterna kommer att få majoritet i kongressens båda kamrar efter mellanårsvalet, det stod klart tidigt onsdag morgon svensk tid.",
+      "pubDate": "2026-11-04T07:01:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ginna Lindberg: Början på slutet för Trumperan",
+      "link": "https://www.sverigesradio.se/artikel/9334032",
+      "description": "I mellanårsvalet i USA tar Demokraterna en storseger. Demokraterna tar över makten i representanthuset och i senaten och vinner dessutom flera viktiga guvernörsval. Det innebär ett nytt läge i amerikansk politik, säger Sveriges Radios USA-korrespondent Ginna Lindberg i Washington. ”Det är början på slutet för Trumperan”, säger Ginna Lindberg.",
+      "pubDate": "2026-11-04T04:43:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
@@ -100,30 +120,6 @@
       "sourceType": "news",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Korrespondenterna om opinionsläget: ”Trumps popularitet har dalat”",
-      "link": "https://www.sverigesradio.se/artikel/9333925",
-      "description": "Sveriges Radios korrespondenter svarade i Studio Ett på lyssnarnas frågor om mellanårsvalet i USA, där majoriteten i kongressens två kammare står på spel. En av lyssnarnas frågor handlade om ifall stödet till Ukraina förändras om demokraterna får majoritet i kongressen. \"Det är inte alls säkert att det blir så rent praktiskt men det kommer säkert bli en stor debatt om det och trycket mot Trump kommer öka” svarar Daniel Alling, internationell korrespondent på plats i Ohio.",
-      "pubDate": "2026-11-03T19:55:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Opinion"
-      ]
-    },
-    {
-      "title": "Carolines son handlade för 60 000 kronor på Roblox",
-      "link": "https://www.expressen.se/nyheter/sverige/carolines-son-handlade-for-60000-kronor-pa-roblox/",
-      "description": "Bara några dagar in på semestern upptäckte Caroline Damberg att hennes konto var tomt. Hennes son hade lyckats göra köp för 60&nbsp;000 kronor i spelet Roblox.&nbsp; – Hur är det ens möjligt?",
-      "pubDate": "2026-11-03T18:51:32Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -176,20 +172,6 @@
       "topics": [
         "S",
         "SD"
-      ]
-    },
-    {
-      "title": "Kan Ulf Kristersson få Centerpartiet att byta sida?",
-      "link": "https://www.dn.se/podd/alskade-politik/kan-ulf-kristersson-fa-centerpartiet-att-byta-sida/",
-      "description": "Elisabeth Thand Ringqvist har röstats ner som statsminister och M-ledaren har tagit över stafettpinnen från talmannen. Men varför verkar moderater uppgivna över Kristerssons sonderingsuppdrag – och vad är taktiken om det blir extraval?",
-      "pubDate": "2026-11-03T16:30:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
       ]
     },
     {
@@ -251,16 +233,31 @@
       "topics": []
     },
     {
-      "title": "Ledare: Var håller egentligen Magdalena Andersson hus?",
-      "link": "https://www.dn.se/ledare/var-haller-egentligen-magdalena-andersson-hus/",
-      "description": "Vänsterpartiets ultimativa krav riskerar att sänka de rödgröna för lång tid framöver – och kräver att S-ledaren växlar upp. I stället har hon skrämts av banan.",
-      "pubDate": "2026-11-03T13:50:38Z",
+      "title": "Brakförlust för C-ledaren i statsministeromröstningen",
+      "link": "https://www.dn.se/sverige/c-ledaren-faller-i-statsministeromrostningen/",
+      "description": "Det blev som väntat en brakförlust för C-ledaren Elisabeth Thand Ringqvist när riksdagen prövade henne i en statsministeromröstning. Bara ledamöterna från det egna partiet röstade ja. Nu får Ulf Kristersson uppdraget att försöka bilda regering.",
+      "pubDate": "2026-11-03T13:03:52Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "V"
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C-ledaren föll i omröstningen – Kristersson får stafettpinnen",
+      "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-gar-mot-nederlag-kristersson-vantas-fa-stafettpinnen",
+      "description": "Elisabeth Thand Ringqvist föll i statsministeromröstningen med 324 nej-röster och endast 25 ja. Nu går stafettpinnen till Ulf Kristersson. – Jag är beredd att pröva om den icke-socialistiska konstellation som finns skulle kunna bilda regering, säger M-ledaren.",
+      "pubDate": "2026-11-03T11:24:40Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
       ]
     }
   ],
