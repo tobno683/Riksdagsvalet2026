@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T23:34:54.684400Z",
+  "updated_at": "2026-11-04T03:35:56.055396Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -193,19 +193,6 @@
       ]
     },
     {
-      "title": "Helena Gissén: Oddsen för Kristersson är dåliga",
-      "link": "https://www.sverigesradio.se/artikel/9333846",
-      "description": "Moderaternas partiledare, Ulf Kristersson, får sonderingsuppdraget av talmannen efter att Centerpartiets partiledare Elisabeth Thand Ringqvist röstats ned i riksdagen på tisdagen. Ekots inrikespolitiska kommentator, Helena Gissén, tror att det snudd på omöjligt för Kristersson att få ihop en regering.",
-      "pubDate": "2026-11-03T16:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
       "title": "Världsettorna och regerande mästarna – Sverige vill skicka två lag till OS 2028",
       "link": "https://www.dn.se/sport/varldsettorna-och-regerande-mastarna-sverige-vill-skicka-tva-lag-till-os-2028/",
       "description": "En kvotplats till OS 2028 är redan klar. Men det var inte de regerande beachvolleymästarna Jonatan Hellvig och David Åhman som vann den – det gjorde nya världsettorna Elmer Andersson och Jacob Hölting Nilsson. Nu börjar kampen för att få med ytterligare ett svenskt lag till Los Angeles.",
@@ -262,9 +249,32 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
+    },
+    {
+      "title": "Ledare: Var håller egentligen Magdalena Andersson hus?",
+      "link": "https://www.dn.se/ledare/var-haller-egentligen-magdalena-andersson-hus/",
+      "description": "Vänsterpartiets ultimativa krav riskerar att sänka de rödgröna för lång tid framöver – och kräver att S-ledaren växlar upp. I stället har hon skrämts av banan.",
+      "pubDate": "2026-11-03T13:50:38Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Goda tider, men för vem?",
+      "link": "https://www.dagensarena.se/opinion/goda-tider-men-vem/",
+      "description": "Tidöregeringen förhöll sig orimligt passiv till den höga arbetslösheten. Inlägget Goda tider, men för vem? dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-04T00:59:18Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Klockan tickar för Andersson",
       "link": "https://ledarsidorna.se/klockan-tickar-for-andersson/",
