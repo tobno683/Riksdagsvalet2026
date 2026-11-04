@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T11:40:28.175005Z",
+  "updated_at": "2026-11-04T18:57:20.892294Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,36 +79,62 @@
   ],
   "news": [
     {
-      "title": "Business Sweden: Osäkert vad valresultatet kommer betyda",
-      "link": "https://www.sverigesradio.se/artikel/9334053",
-      "description": "Det finns en osäkerhet kring vad utgången av det amerikanska mellanårsvalet kommer att få för betydelse för svenska företag, enligt Johan Karlberg som är landchef för USA på Business Sweden. ”Demokraterna har inte haft en tydlig reformagenda utan gjort det här till en folkomröstning om Trumps politik”, säger Johan Karlberg. Johan Karlberg tror inte på stora förändringar inom handeln och utrikespolitiken eftersom presidenten fortsatt till stor del styr de frågorna.",
-      "pubDate": "2026-11-04T07:02:00Z",
+      "title": "Partiledarna svarar efter omtalade gesten: ”Massa hemligheter”",
+      "link": "https://www.svt.se/nyheter/inrikes/partiledarna-svarar-efter-omtalade-gesten-massa-hemligheter",
+      "description": "En handgest mellan Magdalena Andersson (S) och Nooshi Dadgostar (V) har väckt stor uppmärksamhet. Nu svarar partiledarna på vad handsignalerna betyder. – Massa hemligheter såklart, säger S-ledaren.",
+      "pubDate": "2026-11-04T17:21:06Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Andreas Liljeheden: ”Trump kan bli en arg eller farlig anka”",
+      "link": "https://www.sverigesradio.se/artikel/9334676",
+      "description": "Efter resultatet i mellanårsvalet i USA där demokraterna får majoritet i både senaten och representanthuset hoppas nu EU på en bättre relation med USA. Trots att Donald Trump kommer bli mer begränsad på hemmaplan kan han fortfarande agera kraftfullt i utrikes- och handelsfrågor. I en analys av en tankesmedja i Bryssel varnar man för att Trump istället för att bli en så kallad ”lame duck” (halt anka) kan bli en arg eller farlig anka, säger Sveriges Radios Brysselkorrespondent Andreas Liljeheden.",
+      "pubDate": "2026-11-04T17:02:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": []
     },
     {
-      "title": "Demokraten El-Sayed vinner senatsvalet i Michigan",
-      "link": "https://www.sverigesradio.se/artikel/9334070",
-      "description": "Demokraten Abdul El-Sayed vinner senatsvalet i delstaten Michigan, enligt Reuters och Fox. Han hör till Demokraternas vänsterfalang och blir nu den första muslimska senatorn i USA:s historia. ”De har pekat finger mot mitt namn och min tro men vi vet alla att mitt namn och min tro inte är skälet till att vi inte har råd med bränsle och inte har råd med mat” sa Abdul El-Sayed i sitt tal på valvakan. Demokraterna kommer att få majoritet i kongressens båda kamrar efter mellanårsvalet, det stod klart tidigt onsdag morgon svensk tid.",
-      "pubDate": "2026-11-04T07:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Ginna Lindberg: Början på slutet för Trumperan",
-      "link": "https://www.sverigesradio.se/artikel/9334032",
-      "description": "I mellanårsvalet i USA tar Demokraterna en storseger. Demokraterna tar över makten i representanthuset och i senaten och vinner dessutom flera viktiga guvernörsval. Det innebär ett nytt läge i amerikansk politik, säger Sveriges Radios USA-korrespondent Ginna Lindberg i Washington. ”Det är början på slutet för Trumperan”, säger Ginna Lindberg.",
-      "pubDate": "2026-11-04T04:43:00Z",
+      "title": "Kritik mot regeringens hantering av övergångsbudgeten",
+      "link": "https://www.sverigesradio.se/artikel/9334638",
+      "description": "Nu kommer kritik från företrädare för de rödgröna partierna mot finansminister Elisabeth Svantessons (M) hantering av övergångsbudgeten. Det handlar om att de inte har fått information om att regeringen vill avsätta extra pengar till kronprinsessan Victorias 50-årsfirande. ”Det är klart att vi ska fira vår kronprinsessa. Däremot kan man verkligen kritisera regeringen för den här hanteringen. Vi har haft möten om övergångsbudgeten och då hade den här frågan kunnat tas upp, men det har man inte gjort. Det är dåligt”, säger Janine Alm Ericson ekonomisk-politisk talesperson för Miljöpartiet.",
+      "pubDate": "2026-11-04T16:27:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "M",
         "MP"
       ]
+    },
+    {
+      "title": "Men vad händer här, Andersson?",
+      "link": "https://www.expressen.se/tv/nyheter/sverige/markliga-gesterna-som-vacker-fragor",
+      "description": "Är det AW på gång i riksdagen? • Nu kommer förklaringen",
+      "pubDate": "2026-11-04T13:59:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Roger Wilson: Därför förlorade Republikanerna",
+      "link": "https://www.sverigesradio.se/artikel/9334356",
+      "description": "Republikanerna förlorar både senaten och representanthuset i USA. Mellanårsvalet kan ses som ett protestval mot Donald Trump, säger Roger Wilson, tidigare USA-korrespondent hos Sveriges Radio. ”Det är tydligt att Trump överskattat hur mycket hans personliga stöd skulle kompensera för ganska svaga kandidater”, säger Roger Wilson. Wilson tror att en viktig faktor bakom resultatet är att Trump inte levt upp till två vallöften: en förbättrad ekonomi och en mer isolationistisk linje i utrikespolitiken.",
+      "pubDate": "2026-11-04T11:57:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     },
     {
       "title": "3 november: Här är dagens nyheter",
@@ -231,34 +257,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Brakförlust för C-ledaren i statsministeromröstningen",
-      "link": "https://www.dn.se/sverige/c-ledaren-faller-i-statsministeromrostningen/",
-      "description": "Det blev som väntat en brakförlust för C-ledaren Elisabeth Thand Ringqvist när riksdagen prövade henne i en statsministeromröstning. Bara ledamöterna från det egna partiet röstade ja. Nu får Ulf Kristersson uppdraget att försöka bilda regering.",
-      "pubDate": "2026-11-03T13:03:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C-ledaren föll i omröstningen – Kristersson får stafettpinnen",
-      "link": "https://www.svt.se/nyheter/inrikes/c-ledaren-gar-mot-nederlag-kristersson-vantas-fa-stafettpinnen",
-      "description": "Elisabeth Thand Ringqvist föll i statsministeromröstningen med 324 nej-röster och endast 25 ja. Nu går stafettpinnen till Ulf Kristersson. – Jag är beredd att pröva om den icke-socialistiska konstellation som finns skulle kunna bilda regering, säger M-ledaren.",
-      "pubDate": "2026-11-03T11:24:40Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
@@ -298,6 +296,19 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Kvartal Idag: Lindbergs varning: Skärp till er",
+      "link": "https://pod.space/kvartal/kvartal-idag-lindbergs-varning-skarp-till-er",
+      "description": "Annars vinner Kristersson, enligt S-skribenten. El-Sayed blir senator trots kritiken. Därför höjer riksbanken räntan nu. Och så kan en svensk löpare slå kenyanerna. Programledare: Cassandra Alm.",
+      "pubDate": "2026-11-04T15:03:03Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "MP"
+      ]
+    },
     {
       "title": "Kan Ulf Kristersson få Centerpartiet att byta sida?",
       "link": "https://pod.space/alskadepolitik/kan-ulf-kristersson-fa-centerpartiet-att-byta-sida",
@@ -485,20 +496,6 @@
         "KD",
         "L",
         "MP"
-      ]
-    },
-    {
-      "title": "Är Mohamed Ali Centerpartiets bästa vän?",
-      "link": "https://pod.space/alskadepolitik/ar-mohamed-ali-centerpartiets-basta-van",
-      "description": "Vänsterpartiet gjorde självmål i Dalarna. Kan Elisabeth Thand Ringqvists dröm om mitten bli verklighet nu? Samtidigt – Liberalernas Romina Pourmokhtari har kallat Centerns idé om mitten för en dröm om enhörningar.",
-      "pubDate": "2026-10-23T12:30:31Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V",
-        "C",
-        "L"
       ]
     }
   ]
