@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T07:04:30.192307Z",
+  "updated_at": "2026-11-05T15:39:16.114089Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,14 +79,167 @@
   ],
   "news": [
     {
-      "title": "Vill förbjuda bensin- och dieselbilar i Stockholm",
-      "link": "https://www.expressen.se/nyheter/sverige/vill-forbjuda-bensin--och-dieselbilar-i-stockholm/",
-      "description": "Bensin- och dieselbilar kan förbjudas i delar av Stockholm samtidigt som dubbdäcksförbudet utökas till hela innerstan. Det är två av förslagen i det rödgröna styrets första budget efter valet, rapporterar TV4 Nyheterna.",
-      "pubDate": "2026-11-05T06:53:07Z",
+      "title": "S-kravet efter flyghoten: ”Kan inte bara sitta och vänta”",
+      "link": "https://www.expressen.se/nyheter/varlden/s-kravet-efter-flyghoten-kan-inte-bara-sitta-och-vanta/",
+      "description": "Bombhot har riktats mot flera europeiska flyg de senaste dagarna. Nu kräver Socialdemokraterna i EU att man agerar.&nbsp; – Vi kan inte bara sitta och vänta på nästa bombhot, säger Johan Danielsson (S).",
+      "pubDate": "2026-11-05T15:34:27Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Shots fired mellan rödgröna – och Åkesson och Jomshof i känsligt samtal",
+      "link": "https://www.dn.se/podd/alskade-politik/shots-fired-mellan-rodgrona-och-akesson-och-jomshof-i-kansligt-samtal/",
+      "description": "Shots fired mellan C, S och V! Går det framåt eller bakåt för de rödgrönas regeringssamtal? Och är sista ordet sagt i SD:s bråk om svenskhet?",
+      "pubDate": "2026-11-05T14:25:20Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Kristina Lindquist: För SD är svenskhet en fråga om politisk lydnad",
+      "link": "https://www.dn.se/kultur/kristina-lindquist-for-sd-ar-svenskhet-en-fraga-om-politisk-lydnad/",
+      "description": "Ja, sprickan om etnicitet inom Sverigedemokraterna är politisk teater. Men även den öppna svenskheten är en extremistisk konstruktion, skriver Kristina Lindquist.",
+      "pubDate": "2026-11-05T13:34:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "MP"
+      ]
+    },
+    {
+      "title": "Regeringen återinför inre gränskontroller: ”Allvarligt hot”",
+      "link": "https://www.expressen.se/nyheter/politik/regeringen-aterinfor-inre-granskontroller-allvarligt-hot/",
+      "description": "Regeringen återinför inre gränskontroller. Bakgrunden är ett ”allvarligt hot” mot rikets inre säkerhet. – Det rör sig bland annat om ett ökat sabotagehot mot Sverige och andra medlemsstater, säger Gunnar Strömmer (M).",
+      "pubDate": "2026-11-05T13:06:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Uppgifter: C i möte – ska diskutera regeringsbildningen",
+      "link": "https://www.sverigesradio.se/artikel/9335192",
+      "description": "Centerpartiet har kallat till ett viktigt möte på torsdagen med regeringsbildningen i fokus, enligt uppgifter till Ekot. Mötet, där både partistyrelsen och riksdagsgruppen ska delta, sammanfaller med att Moderatledaren Ulf Kristersson sonderar möjligheterna för att bilda en regering. För en sådan regering behöver Kristersson Centerpartiets mandat i Riksdagen. Hittills har Centerledaren Elisabeth Thand Ringqvist sagt att tidigare röda linjer mot SD kvarstår – partiet kommer inte stödja en högerregering där SD:s stöd krävs.",
+      "pubDate": "2026-11-05T12:33:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Chatt: Fråga SVT:s Marmorstein om politiska läget",
+      "link": "https://www.svt.se/nyheter/inrikes/chatt-fraga-svts-marmorstein-om-politiska-laget-itq8kc",
+      "description": "”Mycket svårt, men inte omöjligt” – så beskriver Ulf Kristersson (M) sonderingsuppdraget som nu ligger i hans händer. Kan han bli statsminister igen? På torsdagen samlas Centerpartiets toppar för ett hemligt möte om regeringsfrågan, enligt uppgifter till SVT. Vad krävs för att rucka på låsningar och röda linjer? Ställ din fråga till SVT:s inrikespolitiska kommentator Elisabeth Marmorstein, som svarar från 13.30.",
+      "pubDate": "2026-11-05T12:07:45Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C öppnar för att rösta på övergångsbudget",
+      "link": "https://www.expressen.se/nyheter/politik/c-oppnar-for-att-rosta-pa-overgangsbudget/",
+      "description": "Centerpartiet öppnar för att rösta på en övergångsbudget i en avgörande omröstning i riksdagen.",
+      "pubDate": "2026-11-05T11:40:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Uppgifter: C-toppar i hemligt möte om regeringsfrågan",
+      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-c-toppar-i-hemligt-mote-om-regeringsfragan",
+      "description": "Centerpartiets toppskikt samlas under torsdagen för att diskutera regeringsfrågan, uppger källor för SVT. Både partistyrelsen och riksdagsgruppen är kallade. – Man får ha en stor ödmjukhet i att det här är svårt, säger C-toppen Martin Ådahl.",
+      "pubDate": "2026-11-05T11:37:08Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "De är nominerade till Stora journalistpriset – hela listan",
+      "link": "https://www.sverigesradio.se/artikel/9335143",
+      "description": "De nominerade till Stora journalistpriset 2026 har presenterats. Priset delas ut i fyra kategorier samt i kategorin ”Lukas Bonniers Stora journalistpris”. Juryn består av 12 ordinarie ledamöter från hela mediesverige. Ceremonin äger rum den 19 november. Hos Sveriges Radio finns dessa titlar och programledare med på listan: Årets berättare: Karin Hållsten och Anna Frey, P1 dokumentär, för Du som brukade vara min mamma . Årets förnyare: Titti Schultz, Ola Rosling, Joel Lindqvist och Hans Falk för Sanningens ögonblick . Årets röst: Titti Schultz, programledare för P4 Extra . Årets avslöjande: Maria Ridderstedt och Markus Alfredsson, Kaliber, för Elsa får inte komma hem och Jakten på Münchhausen-mammorna .",
+      "pubDate": "2026-11-05T11:19:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "S och C till attack mot Vänsterpartiet: ”Kommer aldrig att hända”",
+      "link": "https://www.dn.se/sverige/s-och-c-till-attack-mot-vansterpartiet-kommer-aldrig-att-handa/",
+      "description": "S och C är starkt kritiska till hur Vänsterpartiets Ida Gabrielsson uttrycker sig i en DN-intervju. Kritiken handlar om hur hon uttrycker sig om Centerpartiet. ”Partier som man vill samarbeta med talar man inte om på det sättet”, skriver S-ledaren Magdalena Andersson. Konflikten briserar i ett känsligt läge – enligt källor har kontakterna intensifierats på senare tid.",
+      "pubDate": "2026-11-05T11:08:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Jomshof kan petas från utskott efter svenskbråket",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f1bf4d5f-67ac-4b29-9934-4428d381f2d0",
+      "description": "Efter svenskbråket i partiet, rapporterar DN",
+      "pubDate": "2026-11-05T10:24:56Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Efter svenskbråket: Åkesson och Jomshof i samtal om SD-toppens framtid",
+      "link": "https://www.dn.se/sverige/efter-svenskbraket-akesson-och-jomshof-i-samtal-om-sd-toppens-framtid/",
+      "description": "Kryssraketen Richard Jomshof kan petas från SD:s verkställande utskott, enligt DN:s källor. Frågan ska ha varit uppe i ett samtal mellan Jimmie Åkesson och Jomshof på måndagen. SD-ledarens vassa debattartikel om synen på svenskhet har skapat oro i partiet. – Det var lite hotfullt, säger Magnus Häggblad, distriktsordförande i Norrbotten.",
+      "pubDate": "2026-11-05T10:22:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Styret i Stockholm vill utöka miljözonen",
+      "link": "https://www.dn.se/sverige/styret-i-stockholm-vill-utoka-miljozonen/",
+      "description": "Det rödgröna styret i Stockholms stad vill utöka den omstridda miljözonen i huvudstaden. Där ska såväl diesel- och bensinbilar som laddhybrider helt förbjudas. – Nu tar vi nästa steg och inför Sveriges mest ambitiösa mål mot luftföroreningar, säger borgarrådet Cindy Falquet Lindh (MP) i ett uttalande.",
+      "pubDate": "2026-11-05T08:03:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
     },
     {
       "title": "Ida Gabrielsson: Jag hade sagt till Mohamed Ali att han borde pröva lite annat först",
@@ -101,19 +254,6 @@
       ]
     },
     {
-      "title": "Uppgifter: Centern och V i enskilda samtal",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-centern-och-v-i-enskilda-samtal/",
-      "description": "Vänsterpartiet och Centerpartiet för nu samtal direkt med varandra, erfar Expressen. Nooshi Dadgostars regeringskrav anses ha stärkts, efter C-ledarens nederlag i kammaren. V ser sig som vinnare – även på ett extraval.",
-      "pubDate": "2026-11-05T05:29:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Då kan Ulf Kristersson bli statsminister – mot alla odds",
       "link": "https://www.svt.se/nyheter/inrikes/da-kan-ulf-kristersson-bli-statsminister-mot-alla-odds",
       "description": "Nu ligger sonderingsuppdraget hos Ulf Kristersson. Även om oddsen är emot honom så finns det några möjliga vägar till Rosenbad för M-ledaren. – Vi kan räkna med att han kommer erbjuda Centerpartiet en hel radda sakfrågor för att få dem att byta sida, säger SVT:s inrikespolitiska kommentator Elisabeth Marmorstein.",
@@ -125,143 +265,6 @@
         "M",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Lisa Magnusson: Äntligen visar Jimmie Åkesson var gränsen går",
-      "link": "https://www.dn.se/ledare/lisa-magnusson-antligen-visar-jimmie-akesson-var-gransen-gar/",
-      "description": "Sverigedemokraterna har länge betalat för den radikala propagandakanalen Riks. Men till slut tröt tålamodet.",
-      "pubDate": "2026-11-05T04:44:24Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "SD och MP tar plats i allt fler kommunstyren",
-      "link": "https://www.sverigesradio.se/artikel/9334225",
-      "description": "När det saknas besked från drygt 20 av landets 290 kommuner om hur de ska styras framöver står det redan klart att Sverigedemokraterna tar plats i klart fler styren än tidigare. Innan valet var SD med och styrde i 34 kommuner. Efter valet har det getts besked om runt 60 styren där partiet ingår, trots att man totalt sett backar i kommunvalen och tappar mandat. Miljöpartiet som var med i ledningen av 47 kommuner innan valet är också med i runt 60 av de klara styrena visar Ekots och P4:s genomgång.",
-      "pubDate": "2026-11-05T04:34:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "MP"
-      ]
-    },
-    {
-      "title": "Vågar kaxiga V-toppen riskera ett nytt val?",
-      "link": "https://www.dn.se/podd/spotlight/vagar-kaxiga-v-toppen-riskera-ett-nytt-val/",
-      "description": "Plötsligt var hon bara där, i varenda tv-studio. Medan partiledarna har lyst med sin frånvaro har Ida Gabrielsson sturskt upprepat sitt mantra: Vänsterpartiet ska för första gången få sitta med i en regering, annars kan det vara. Hennes höga spel går att spåra till Sandviken, bruksorten där Gabrielsson växte upp. DN följer en nervigt kedjerökande politiker till barndomens gator för att förstå: hur långt vågar Gabrielsson gå i sina krav? Programledare: Måns Mosesson. Med Björn af Kleen, kulturreporter på DN.",
-      "pubDate": "2026-11-05T00:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Partiledarna svarar efter omtalade gesten: ”Massa hemligheter”",
-      "link": "https://www.svt.se/nyheter/inrikes/partiledarna-svarar-efter-omtalade-gesten-massa-hemligheter",
-      "description": "En handgest mellan Magdalena Andersson (S) och Nooshi Dadgostar (V) har väckt stor uppmärksamhet. Nu svarar partiledarna på vad handsignalerna betyder. – Massa hemligheter såklart, säger S-ledaren.",
-      "pubDate": "2026-11-04T17:21:06Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Andreas Liljeheden: ”Trump kan bli en arg eller farlig anka”",
-      "link": "https://www.sverigesradio.se/artikel/9334676",
-      "description": "Efter resultatet i mellanårsvalet i USA där demokraterna får majoritet i både senaten och representanthuset hoppas nu EU på en bättre relation med USA. Trots att Donald Trump kommer bli mer begränsad på hemmaplan kan han fortfarande agera kraftfullt i utrikes- och handelsfrågor. I en analys av en tankesmedja i Bryssel varnar man för att Trump istället för att bli en så kallad ”lame duck” (halt anka) kan bli en arg eller farlig anka, säger Sveriges Radios Brysselkorrespondent Andreas Liljeheden.",
-      "pubDate": "2026-11-04T17:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kritik mot regeringens hantering av övergångsbudgeten",
-      "link": "https://www.sverigesradio.se/artikel/9334638",
-      "description": "Nu kommer kritik från företrädare för de rödgröna partierna mot finansminister Elisabeth Svantessons (M) hantering av övergångsbudgeten. Det handlar om att de inte har fått information om att regeringen vill avsätta extra pengar till kronprinsessan Victorias 50-årsfirande. ”Det är klart att vi ska fira vår kronprinsessa. Däremot kan man verkligen kritisera regeringen för den här hanteringen. Vi har haft möten om övergångsbudgeten och då hade den här frågan kunnat tas upp, men det har man inte gjort. Det är dåligt”, säger Janine Alm Ericson ekonomisk-politisk talesperson för Miljöpartiet.",
-      "pubDate": "2026-11-04T16:27:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "MP"
-      ]
-    },
-    {
-      "title": "3 november: Här är dagens nyheter",
-      "link": "https://www.dn.se/varlden/3-november-har-ar-dagens-nyheter/",
-      "description": "Kristersson tur att försöka bilda regering, vallokalerna har öppnat i USA och hot mot flera flygplan – här är dagens nyheter.",
-      "pubDate": "2026-11-03T20:08:28Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "”Nästintill omöjlig uppgift för Kristersson”",
-      "link": "https://www.svt.se/nyheter/inrikes/nastintill-omojlig-uppgift-for-kristersson",
-      "description": "Ulf Kristerssons sonderingsuppdrag framstår som en näst intill omöjlig uppgift. För att samla en majoritet i riksdagen krävs att Centerpartiet går med på att ingå i ett regeringsunderlag tillsammans med Sverigedemokraterna. Det skulle innebära en sensationell helomvändning av Centerpartiet. Inte särskilt sannolikt givet att C-ledaren Elisabeth Thand Ringqvist så sent som idag upprepade de röda linjerna mot SD.",
-      "pubDate": "2026-11-03T18:22:53Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Åkesson: ”Vi har inga planer på att flytta på oss”",
-      "link": "https://www.dn.se/sverige/akesson-vi-har-inga-planer-pa-att-flytta-pa-oss/",
-      "description": "Om varken C eller SD släpper sina röda linjer och krav blir det omöjligt för statsminister Ulf Kristersson, M, att få ihop en ny regering. – Vi har inga planer på att flytta på oss, säger SD-ledaren Jimmie Åkesson om kravet på ministerposter.",
-      "pubDate": "2026-11-03T18:07:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Göteborgs styre: Elsparkcykelhot, sänkta politikerlöner – och hopp om AI-hjälp att spara",
-      "link": "https://www.dn.se/sverige/goteborgs-styre-elsparkcykelhot-sankta-politikerloner-och-hopp-om-ai-hjalp-att-spara/",
-      "description": "Göteborgs nya styre tar över med hot om stopp för hyrda elsparkcyklar, kommunalrådens löner ska sänkas – och för att bromsa ”byråkratin” ställs hoppet till AI. De rödgröna vill också försvåra så mycket det bara går för aktiebolag att starta skolor.",
-      "pubDate": "2026-11-03T16:52:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Tomas Ramberg: Det pågår en skönhetstävling mellan de rödgröna",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-det-pagar-en-skonhetstavling-mellan-de-rodgrona/",
-      "description": "Det pågår en skönhetstävling mellan de rödgröna. Den handlar om vem som ska slippa att bära hundhuvudet om förhandlingarna kraschar in i ett extraval. Samtidigt får Magdalena Anderssons lag ofrivilligt draghjälp av Sverigedemokraterna.",
-      "pubDate": "2026-11-03T16:48:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD"
       ]
     }
   ],
@@ -303,6 +306,31 @@
   ],
   "podcasts": [
     {
+      "title": "332. Dadgostars hemliga plan",
+      "link": "https://pod.space/politikrummet/332-dadgostars-hemliga-plan",
+      "description": "Centerpartiet och Vänsterpartiet har enskilda möten – kommer de lyckas bryta dödläget innan talmannen utlyser extraval? I studion: Filippa Rogvall, Viktor Barth-Kron, Anette Holmqvist och Max V Karlsson. Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-11-05T15:26:43Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Shots fired mellan rödgröna – och Åkesson och Jomshof i känsligt samtal",
+      "link": "https://pod.space/alskadepolitik/shots-fired-mellan-rodgrona-och-akesson-och-jomshof-i-kansligt-samtal",
+      "description": "Shots fired mellan C, S och V! Går det framåt eller bakåt för de rödgrönas regeringssamtal? Och är sista ordet sagt i SD:s bråk om svenskhet?",
+      "pubDate": "2026-11-05T14:25:20Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
       "title": "Kvartal Idag: Lindbergs varning: Skärp till er",
       "link": "https://pod.space/kvartal/kvartal-idag-lindbergs-varning-skarp-till-er",
       "description": "Annars vinner Kristersson, enligt S-skribenten. El-Sayed blir senator trots kritiken. Därför höjer riksbanken räntan nu. Och så kan en svensk löpare slå kenyanerna. Programledare: Cassandra Alm.",
@@ -318,7 +346,7 @@
     {
       "title": "Kan Ulf Kristersson få Centerpartiet att byta sida?",
       "link": "https://pod.space/alskadepolitik/kan-ulf-kristersson-fa-centerpartiet-att-byta-sida",
-      "description": "Elisabeth Thand Ringqvist har röstats ner som statsminister och M-ledaren har tagit över stafettpinnen från talmannen. Men varför verkar moderater uppgivna över Kristerssons sonderingsuppdrag – och vad är taktiken om det blir extraval?",
+      "description": "Elisabeth Thand Ringqvist har röstats ner som statsminister och M-ledaren har tagit över stafettpinnen från talmannen. Men varför verkar moderater uppgivna över Kristerssons sonderingsuppdrag – och vad är taktiken om det blir extra val?",
       "pubDate": "2026-11-03T16:30:39Z",
       "source": "Älskade politik",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -471,37 +499,6 @@
       "sourceType": "podcast",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "327. Då avgår Andersson",
-      "link": "https://pod.space/politikrummet/327-da-avgar-andersson",
-      "description": "Elisabeth Thand Ringqvist fortsätter drömma om mitten – nu med siktet på den fjärde statsministeromröstningen. I riksdagens poddstudio: Filippa Rogvall, Anette Holmqvist och Max V Karlsson. Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-10-26T14:04:19Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Veckopanelen: Grundlagen är som ett skruvstäd",
-      "link": "https://pod.space/kvartal/veckopanelen-grundlagen-ar-som-ett-skruvstad",
-      "description": "Veckopanelen med Lena Mellin, Stefan Stern och Lisa dos Santos under ledning av Staffan Dopping. Centerledaren sonderar för en regering i mitten. Men var finns Sveriges politiska mitten? Liberalernas Simona Mohamsson sätter i Fredagsintervjun tydligt ner foten&nbsp; i regeringsfrågan. Ulf Kristersson seglar uppåt i förtroende i SVT/Verian, medan Nooshi Dadgostar sjunker som en sten. Vänsterpartiets kryssraket Mohamed Ali gjorde till slut entré i riksdagen, men hur gick det när han mötte pressen? I Region Stockholm har liberaler och kristdemokrater gått ihop med socialdemokrater och miljöpartister, och i Frankrike bävar man för nya våldsamheter i helgen. I diskussionen om Vänsterpartiet i Dalarna anges fel namn på den person som missade riksdagsplatsen. Namnet Frida Holmgren nämns, men rätt person är Kajsa Fredholm. Programledaren beklagar felet.",
-      "pubDate": "2026-10-24T03:40:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "KD",
-        "L",
-        "MP"
       ]
     }
   ]
