@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T00:03:46.012913Z",
+  "updated_at": "2026-11-05T07:04:30.192307Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,92 @@
   ],
   "news": [
     {
+      "title": "Vill förbjuda bensin- och dieselbilar i Stockholm",
+      "link": "https://www.expressen.se/nyheter/sverige/vill-forbjuda-bensin--och-dieselbilar-i-stockholm/",
+      "description": "Bensin- och dieselbilar kan förbjudas i delar av Stockholm samtidigt som dubbdäcksförbudet utökas till hela innerstan. Det är två av förslagen i det rödgröna styrets första budget efter valet, rapporterar TV4 Nyheterna.",
+      "pubDate": "2026-11-05T06:53:07Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Ida Gabrielsson: Jag hade sagt till Mohamed Ali att han borde pröva lite annat först",
+      "link": "https://www.dn.se/sverige/ida-gabrielsson-jag-hade-sagt-till-mohamed-ali-att-han-borde-prova-lite-annat-forst/",
+      "description": "SANDVIKEN. Hon slogs, drack och rökte. Men behöll alltid kontrollen. Vänsterpartiets vice ordförande Ida Gabrielsson är en produkt av bruksorten Sandviken. Förklarar det hennes sturskhet i kampen om regeringsmakten?",
+      "pubDate": "2026-11-05T05:35:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Uppgifter: Centern och V i enskilda samtal",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-centern-och-v-i-enskilda-samtal/",
+      "description": "Vänsterpartiet och Centerpartiet för nu samtal direkt med varandra, erfar Expressen. Nooshi Dadgostars regeringskrav anses ha stärkts, efter C-ledarens nederlag i kammaren. V ser sig som vinnare – även på ett extraval.",
+      "pubDate": "2026-11-05T05:29:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Då kan Ulf Kristersson bli statsminister – mot alla odds",
+      "link": "https://www.svt.se/nyheter/inrikes/da-kan-ulf-kristersson-bli-statsminister-mot-alla-odds",
+      "description": "Nu ligger sonderingsuppdraget hos Ulf Kristersson. Även om oddsen är emot honom så finns det några möjliga vägar till Rosenbad för M-ledaren. – Vi kan räkna med att han kommer erbjuda Centerpartiet en hel radda sakfrågor för att få dem att byta sida, säger SVT:s inrikespolitiska kommentator Elisabeth Marmorstein.",
+      "pubDate": "2026-11-05T05:03:57Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Lisa Magnusson: Äntligen visar Jimmie Åkesson var gränsen går",
+      "link": "https://www.dn.se/ledare/lisa-magnusson-antligen-visar-jimmie-akesson-var-gransen-gar/",
+      "description": "Sverigedemokraterna har länge betalat för den radikala propagandakanalen Riks. Men till slut tröt tålamodet.",
+      "pubDate": "2026-11-05T04:44:24Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "SD och MP tar plats i allt fler kommunstyren",
+      "link": "https://www.sverigesradio.se/artikel/9334225",
+      "description": "När det saknas besked från drygt 20 av landets 290 kommuner om hur de ska styras framöver står det redan klart att Sverigedemokraterna tar plats i klart fler styren än tidigare. Innan valet var SD med och styrde i 34 kommuner. Efter valet har det getts besked om runt 60 styren där partiet ingår, trots att man totalt sett backar i kommunvalen och tappar mandat. Miljöpartiet som var med i ledningen av 47 kommuner innan valet är också med i runt 60 av de klara styrena visar Ekots och P4:s genomgång.",
+      "pubDate": "2026-11-05T04:34:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "MP"
+      ]
+    },
+    {
+      "title": "Vågar kaxiga V-toppen riskera ett nytt val?",
+      "link": "https://www.dn.se/podd/spotlight/vagar-kaxiga-v-toppen-riskera-ett-nytt-val/",
+      "description": "Plötsligt var hon bara där, i varenda tv-studio. Medan partiledarna har lyst med sin frånvaro har Ida Gabrielsson sturskt upprepat sitt mantra: Vänsterpartiet ska för första gången få sitta med i en regering, annars kan det vara. Hennes höga spel går att spåra till Sandviken, bruksorten där Gabrielsson växte upp. DN följer en nervigt kedjerökande politiker till barndomens gator för att förstå: hur långt vågar Gabrielsson gå i sina krav? Programledare: Måns Mosesson. Med Björn af Kleen, kulturreporter på DN.",
+      "pubDate": "2026-11-05T00:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Partiledarna svarar efter omtalade gesten: ”Massa hemligheter”",
       "link": "https://www.svt.se/nyheter/inrikes/partiledarna-svarar-efter-omtalade-gesten-massa-hemligheter",
       "description": "En handgest mellan Magdalena Andersson (S) och Nooshi Dadgostar (V) har väckt stor uppmärksamhet. Nu svarar partiledarna på vad handsignalerna betyder. – Massa hemligheter såklart, säger S-ledaren.",
@@ -113,16 +199,6 @@
         "M",
         "MP"
       ]
-    },
-    {
-      "title": "Roger Wilson: Därför förlorade Republikanerna",
-      "link": "https://www.sverigesradio.se/artikel/9334356",
-      "description": "Republikanerna förlorar både senaten och representanthuset i USA. Mellanårsvalet kan ses som ett protestval mot Donald Trump, säger Roger Wilson, tidigare USA-korrespondent hos Sveriges Radio. ”Det är tydligt att Trump överskattat hur mycket hans personliga stöd skulle kompensera för ganska svaga kandidater”, säger Roger Wilson. Wilson tror att en viktig faktor bakom resultatet är att Trump inte levt upp till två vallöften: en förbättrad ekonomi och en mer isolationistisk linje i utrikespolitiken.",
-      "pubDate": "2026-11-04T11:57:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     },
     {
       "title": "3 november: Här är dagens nyheter",
@@ -187,78 +263,6 @@
         "S",
         "SD"
       ]
-    },
-    {
-      "title": "Världsettorna och regerande mästarna – Sverige vill skicka två lag till OS 2028",
-      "link": "https://www.dn.se/sport/varldsettorna-och-regerande-mastarna-sverige-vill-skicka-tva-lag-till-os-2028/",
-      "description": "En kvotplats till OS 2028 är redan klar. Men det var inte de regerande beachvolleymästarna Jonatan Hellvig och David Åhman som vann den – det gjorde nya världsettorna Elmer Andersson och Jacob Hölting Nilsson. Nu börjar kampen för att få med ytterligare ett svenskt lag till Los Angeles.",
-      "pubDate": "2026-11-03T16:01:14Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Statsvetare: Förvirrande signaler från Centerpartiet",
-      "link": "https://www.dn.se/sverige/statsvetare-forvirrande-signaler-fran-centerpartiet/",
-      "description": "Ulf Kristersson är näst på tur av partiledarna att sondera för en ny regering. Möjligheterna att lyckas är små, men det är inte helt uteslutet, enligt statsvetaren Tommy Möller. – Det är förvirrande signaler och jag ser två tänkbara förklaringar till det, säger han.",
-      "pubDate": "2026-11-03T15:53:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Kristersson om sonderingsuppdraget: ”Det kommer att bli svårt”",
-      "link": "https://www.dn.se/sverige/kristersson-om-sonderingsuppdraget-det-kommer-att-bli-svart/",
-      "description": "Statsminister Ulf Kristersson har litet hopp om att han ska kunna bilda en ny regering. – Jag ser framför mig att det kommer att bli svårt, sannolikt mycket svårt, säger han.",
-      "pubDate": "2026-11-03T14:48:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Fler platser – men tuff svensk OS-kvallottning: ”Ett nålsöga”",
-      "link": "https://www.dn.se/sport/fler-platser-men-tuff-svensk-os-kvallottning-ett-nalsoga/",
-      "description": "För tre år sedan missade de svenska fotbollsdamerna OS i Paris. Till OS i Los Angeles 2028 finns dubbelt så många europeiska platser att slåss om – men kvalet är (nästan) lika tufft. – Det blir ett nålsöga att ta sig dit, säger förbundskaptenen Tony Gustavsson.",
-      "pubDate": "2026-11-03T14:32:42Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "USA röstar – då kan vi ha ett valresultat",
-      "link": "https://www.dn.se/varlden/usa-rostar-da-kan-vi-ha-ett-valresultat/",
-      "description": "Demokraterna hoppas återta majoriteten i kongressens två kamrar från Republikanerna i mellanårsvalet, där de första vallokalerna stänger vid midnatt svensk tid. Kort därefter börjar de första resultaten komma in, men redan klockan 23 publicerar AP de första vallokalsundersökningarna.",
-      "pubDate": "2026-11-03T14:11:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Brakförlust för C-ledaren i statsministeromröstningen",
-      "link": "https://www.dn.se/sverige/c-ledaren-faller-i-statsministeromrostningen/",
-      "description": "Det blev som väntat en brakförlust för C-ledaren Elisabeth Thand Ringqvist när riksdagen prövade henne i en statsministeromröstning. Bara ledamöterna från det egna partiet röstade ja. Nu får Ulf Kristersson uppdraget att försöka bilda regering.",
-      "pubDate": "2026-11-03T13:03:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
@@ -294,114 +298,6 @@
       "sourceType": "blog",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "BREV 513 – Åkesson & Romson möts i hästskoteorin.",
-      "link": "https://jensganman.substack.com/p/brev-513-akesson-and-romson-mots",
-      "description": "Blir &#8220;Mohamed Ali&#8221; svensk om han &#229;ker tunnelbana? / Svenska landskapsetniciteter / Gl&#246;m inte bort Sveriges klokaste kvinna / Svarta m&#228;nniskor &#228;r genetiskt &#246;verl&#228;gsna / VPK m&#229;ste korsa Rubicon / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "BREV 512 – Socialdemokraternas två desperata krisplaner.",
-      "link": "https://jensganman.substack.com/p/brev-512-socialdemokraternas-tva",
-      "description": "Uppgifter: Aftonbladet drar saker ur r-ven / Vad ska S g&#229; till extraval p&#229;? / Mattias Karlssons offentliga h&#228;rdsm&#228;lta / Det t&#228;nker jag n&#228;r jag ser Lawen Redar p&#229; gatan / M.m., m.fl",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 511 – Nej, du är inte etnisk svensk.",
-      "link": "https://jensganman.substack.com/p/brev-511-nej-du-ar-inte-etnisk-svensk",
-      "description": "Centern vill inte g&#246;ra sossarnas dirty work l&#228;ngre / Krampaktiga skratt hos 100% / Karlssons & Jomshofs magnifika magplask / V&#228;rldens b&#228;sta rasistfilm / Springsteen & Bono s&#229;g det inte komma / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "BREV 510 – I Centerpartiet kan ingen höra dig skrika.",
-      "link": "https://jensganman.substack.com/p/brev-510-i-centerpartiet-kan-ingen",
-      "description": "Thand Ringqvist &#8211; politisk autist / &#196;r Macron ond eller bara dum i huvudet? / Helena Edlunds genialiska id&#233; / Milj&#246;partiet har kommit alldeles f&#246;r billigt undan / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 507 – Miljöpartiet och VPK utnyttjar sina somalier skamlöst.",
-      "link": "https://jensganman.substack.com/p/brev-507-miljopartiet-och-vpk-utnyttjar",
-      "description": "De f&#246;rst&#229;r ju mindre &#228;n Baudin / Nytt apologetreportage om Frankrike i Rapport / F&#246;rdelen med ett extra val / Det gamla DN-klippet som f&#246;rklarar allt / Kessler-effekten / Storspoven kommer / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "BREV 502 – Greta Thunberg, kaozturist.",
-      "link": "https://jensganman.substack.com/p/brev-501-greta-thunberg-kaozturist",
-      "description": "Som en fluga till en sockerbit / N&#229;gra intressanta passager ur &#8220;Mitt f&#246;rbjudna ansikte&#8221; och &#8220;En somalisk kvinnas ber&#228;ttelse&#8221; / Hoppas detta &#228;r Ulf Kristerssons strategi / Vogonen Kristina Lagerstr&#246;m /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "BREV 499 – Somalier är också människor.",
-      "link": "https://jensganman.substack.com/p/brev-499-somalier-ar-ocksa-manniskor",
-      "description": "Wallenberg och Thand Ringqvist i ett rum / Varf&#246;r st&#228;llde Gunnarsson inte fr&#229;gan? / Svart mans slav / Mediemakthavarinnornas maniska mimik. / Suhonen, Baude och v&#228;nsterns v&#228;mjeliga v&#229;ldsvurm / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 498 – Regeringsmissbildningen.",
-      "link": "https://jensganman.substack.com/p/brev-498-regeringsmissbildningen",
-      "description": "En orgie i idioti / De r&#246;dgr&#246;nas f&#246;rs&#246;k att bilda regering b&#246;r klassas som systemfarlig / V&#228;rldens dyraste ljud / Gl&#246;m aldrig socialdemokraternas syn p&#229; begreppet &#8221;l&#246;fte&#8221; / N&#228;r Hirvonen h&#246;ll med mig /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 496 – Till slut måste Centern välja sin egen avrättningsmetod.",
-      "link": "https://jensganman.substack.com/p/brev-496-till-slut-maste-centern",
-      "description": "Thand Ringqvist har spelat bort sina kort / Han l&#229;ter som Kalle Stropp / SR & SVT borde g&#246;ra en Office Space / Jag blev som i s&#229;ngen &#8221;M&#229;nga barn &#228;r bruna&#8221; / As falls Marseille, so falls Rinkeby / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
       ]
     }
   ],
