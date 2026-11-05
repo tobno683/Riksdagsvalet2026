@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:39:16.114089Z",
+  "updated_at": "2026-11-05T21:38:13.181725Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,124 @@
   ],
   "news": [
     {
+      "title": "Insändare. Svar: Släpp aldrig in Vänsterpartiet i regeringen",
+      "link": "https://www.dn.se/insandare/svar-slapp-aldrig-in-vansterpartiet-i-regeringen/",
+      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet och dess ungdomsförbund ska bedömas efter den historiska skuld som är historiens ohyggligaste massförintelse. Glöm aldrig de omkring 100 miljoner människor som kommunisterna mördade när nya regeringsunderlag diskuteras, skriver Gerhard Flink.",
+      "pubDate": "2026-11-05T20:47:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "M-toppen rasar mot bilförslaget: ”Sabotera vardagen”",
+      "link": "https://www.expressen.se/nyheter/sverige/m-toppen-rasar-mot-rasar-mot-bilforslaget-sabotera-vardagen/",
+      "description": "Förbjud bensin- och dieselbilar i delar av innerstaden, föreslår det rödgröna styret i Stockholm. – Det här kommer att sabotera vardagen för stockholmarna, rasar oppositionsborgarrådet Christofer Fjellner (M).",
+      "pubDate": "2026-11-05T20:41:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "5 november: Här är dagens nyheter",
+      "link": "https://www.dn.se/varlden/5-november-har-ar-dagens-nyheter/",
+      "description": "Rödgrönt bråk, ny taxijätte och bombhot mot flygplan – här är dagens nyheter.",
+      "pubDate": "2026-11-05T20:14:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Hårdnad konflikt mellan C och V kan gynna Kristersson",
+      "link": "https://www.svt.se/nyheter/inrikes/hardnad-konflikt-mellan-c-och-v-kan-gynna-kristersson",
+      "description": "Samtalen om en ny regering mellan de rödgröna partierna befinner sig i ett känsligt läge. S-ledaren Magdalena Andersson fruktar att en hårdnad konflikt mellan C och V ska försvåra möjligheterna att få ihop en regering.",
+      "pubDate": "2026-11-05T19:22:07Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Rödgrön oenighet när grundlagen ska ändras",
+      "link": "https://www.dn.se/sverige/rodgron-oenighet-nar-grundlagen-ska-andras/",
+      "description": "Nästa vecka kommer riksdagen att ge klartecken till att skriva in aborträtten i Sveriges grundlagar liksom att göra det lättare att frånta någon sitt medborgarskap. V, C och MP har invändningar mot förslagen, men väljer olika vägar. C gör som S och säger ja till ändringarna. V och MP tänker rösta mot.",
+      "pubDate": "2026-11-05T18:46:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Kulturdebatt. Hilda Förare Berg: Nu förstår jag äntligen 90-talets optimism",
+      "link": "https://www.dn.se/kultur/hilda-forare-berg-nu-forstar-jag-antligen-90-talets-optimism/",
+      "description": "Demokraterna i USA har lyckats få fram karismatiska kandidater och mobiliserat väljarna. Hilda Förare Berg känner en för vänstern ovan känsla av hopp och tycker att Socialdemokraterna borde blicka västerut för inspiration.",
+      "pubDate": "2026-11-05T17:12:54Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Replik: Därför vill vi att svenskar ska kalla Tjernobyl för Tjornobyl från och med nu",
+      "link": "https://www.dn.se/ledare/replik-darfor-vill-vi-att-svenskar-ska-kalla-tjernobyl-for-tjornobyl-fran-och-med-nu/",
+      "description": "Just nu använder svenska medier och myndigheter flera olika stavningar på ukrainska städer. I andra länder har Språkrådets större betydelse, skriver Lena Lind Palicki, avdelningschef för Språkrådet vid Isof, och Ola Karlsson, språkvårdare i svenska på Språkrådet vid Isof i en replik. Aron Lund svarar direkt.",
+      "pubDate": "2026-11-05T17:07:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Ginna Lindberg: ”JD Vance markerar mot Trump”",
+      "link": "https://www.sverigesradio.se/artikel/9335546",
+      "description": "I USA rasar eftervalsdebatten efter demokraternas framgångar i mellanårsvalet. Republikanerna har börjat rannsaka sin egen valstrategi och den egna politiken, särskilt kriget i Iran pekas ut, rapporterar Sveriges Radios korrespondent Ginna Lindberg i Washington. ”Vicepresident JD Vance markerar avstånd mot Donald Trump i frågan om kriget i Iran”, säger Lindberg.",
+      "pubDate": "2026-11-05T16:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Ida-krisen en gåva till S och C",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-ida-krisen-en-gava-till-s-och-c/",
+      "description": "Vänsterpartiets vice ordförande Ida Gabrielsson har blivit snudd på folkkär i regeringsdebatten – men nu slår hennes oborstade jargong tillbaka mot partiet. Gabrielssons bredsidor mot Centern landar i ett hyperkänsligt läge – just när partierna bakom Magdalena Andersson börjat få fart på sina samtal.",
+      "pubDate": "2026-11-05T16:31:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Hemliga planen: Därför backar inte Dadgostar",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/hemliga-planen-darfor-backar-inte-dadgostar/",
+      "description": "Centerpartiet och Vänsterpartiet har enskilda möten – kommer de lyckas bryta dödläget innan talmannen utlyser extraval? Lyssna på ”Politikrummet”.",
+      "pubDate": "2026-11-05T16:29:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "S-kravet efter flyghoten: ”Kan inte bara sitta och vänta”",
       "link": "https://www.expressen.se/nyheter/varlden/s-kravet-efter-flyghoten-kan-inte-bara-sitta-och-vanta/",
       "description": "Bombhot har riktats mot flera europeiska flyg de senaste dagarna. Nu kräver Socialdemokraterna i EU att man agerar.&nbsp; – Vi kan inte bara sitta och vänta på nästa bombhot, säger Johan Danielsson (S).",
@@ -116,18 +234,6 @@
       ]
     },
     {
-      "title": "Regeringen återinför inre gränskontroller: ”Allvarligt hot”",
-      "link": "https://www.expressen.se/nyheter/politik/regeringen-aterinfor-inre-granskontroller-allvarligt-hot/",
-      "description": "Regeringen återinför inre gränskontroller. Bakgrunden är ett ”allvarligt hot” mot rikets inre säkerhet. – Det rör sig bland annat om ett ökat sabotagehot mot Sverige och andra medlemsstater, säger Gunnar Strömmer (M).",
-      "pubDate": "2026-11-05T13:06:19Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Uppgifter: C i möte – ska diskutera regeringsbildningen",
       "link": "https://www.sverigesradio.se/artikel/9335192",
       "description": "Centerpartiet har kallat till ett viktigt möte på torsdagen med regeringsbildningen i fokus, enligt uppgifter till Ekot. Mötet, där både partistyrelsen och riksdagsgruppen ska delta, sammanfaller med att Moderatledaren Ulf Kristersson sonderar möjligheterna för att bilda en regering. För en sådan regering behöver Kristersson Centerpartiets mandat i Riksdagen. Hittills har Centerledaren Elisabeth Thand Ringqvist sagt att tidigare röda linjer mot SD kvarstår – partiet kommer inte stödja en högerregering där SD:s stöd krävs.",
@@ -146,118 +252,6 @@
       "link": "https://www.svt.se/nyheter/inrikes/chatt-fraga-svts-marmorstein-om-politiska-laget-itq8kc",
       "description": "”Mycket svårt, men inte omöjligt” – så beskriver Ulf Kristersson (M) sonderingsuppdraget som nu ligger i hans händer. Kan han bli statsminister igen? På torsdagen samlas Centerpartiets toppar för ett hemligt möte om regeringsfrågan, enligt uppgifter till SVT. Vad krävs för att rucka på låsningar och röda linjer? Ställ din fråga till SVT:s inrikespolitiska kommentator Elisabeth Marmorstein, som svarar från 13.30.",
       "pubDate": "2026-11-05T12:07:45Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C öppnar för att rösta på övergångsbudget",
-      "link": "https://www.expressen.se/nyheter/politik/c-oppnar-for-att-rosta-pa-overgangsbudget/",
-      "description": "Centerpartiet öppnar för att rösta på en övergångsbudget i en avgörande omröstning i riksdagen.",
-      "pubDate": "2026-11-05T11:40:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Uppgifter: C-toppar i hemligt möte om regeringsfrågan",
-      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-c-toppar-i-hemligt-mote-om-regeringsfragan",
-      "description": "Centerpartiets toppskikt samlas under torsdagen för att diskutera regeringsfrågan, uppger källor för SVT. Både partistyrelsen och riksdagsgruppen är kallade. – Man får ha en stor ödmjukhet i att det här är svårt, säger C-toppen Martin Ådahl.",
-      "pubDate": "2026-11-05T11:37:08Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "De är nominerade till Stora journalistpriset – hela listan",
-      "link": "https://www.sverigesradio.se/artikel/9335143",
-      "description": "De nominerade till Stora journalistpriset 2026 har presenterats. Priset delas ut i fyra kategorier samt i kategorin ”Lukas Bonniers Stora journalistpris”. Juryn består av 12 ordinarie ledamöter från hela mediesverige. Ceremonin äger rum den 19 november. Hos Sveriges Radio finns dessa titlar och programledare med på listan: Årets berättare: Karin Hållsten och Anna Frey, P1 dokumentär, för Du som brukade vara min mamma . Årets förnyare: Titti Schultz, Ola Rosling, Joel Lindqvist och Hans Falk för Sanningens ögonblick . Årets röst: Titti Schultz, programledare för P4 Extra . Årets avslöjande: Maria Ridderstedt och Markus Alfredsson, Kaliber, för Elsa får inte komma hem och Jakten på Münchhausen-mammorna .",
-      "pubDate": "2026-11-05T11:19:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "S och C till attack mot Vänsterpartiet: ”Kommer aldrig att hända”",
-      "link": "https://www.dn.se/sverige/s-och-c-till-attack-mot-vansterpartiet-kommer-aldrig-att-handa/",
-      "description": "S och C är starkt kritiska till hur Vänsterpartiets Ida Gabrielsson uttrycker sig i en DN-intervju. Kritiken handlar om hur hon uttrycker sig om Centerpartiet. ”Partier som man vill samarbeta med talar man inte om på det sättet”, skriver S-ledaren Magdalena Andersson. Konflikten briserar i ett känsligt läge – enligt källor har kontakterna intensifierats på senare tid.",
-      "pubDate": "2026-11-05T11:08:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Jomshof kan petas från utskott efter svenskbråket",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=f1bf4d5f-67ac-4b29-9934-4428d381f2d0",
-      "description": "Efter svenskbråket i partiet, rapporterar DN",
-      "pubDate": "2026-11-05T10:24:56Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Efter svenskbråket: Åkesson och Jomshof i samtal om SD-toppens framtid",
-      "link": "https://www.dn.se/sverige/efter-svenskbraket-akesson-och-jomshof-i-samtal-om-sd-toppens-framtid/",
-      "description": "Kryssraketen Richard Jomshof kan petas från SD:s verkställande utskott, enligt DN:s källor. Frågan ska ha varit uppe i ett samtal mellan Jimmie Åkesson och Jomshof på måndagen. SD-ledarens vassa debattartikel om synen på svenskhet har skapat oro i partiet. – Det var lite hotfullt, säger Magnus Häggblad, distriktsordförande i Norrbotten.",
-      "pubDate": "2026-11-05T10:22:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Styret i Stockholm vill utöka miljözonen",
-      "link": "https://www.dn.se/sverige/styret-i-stockholm-vill-utoka-miljozonen/",
-      "description": "Det rödgröna styret i Stockholms stad vill utöka den omstridda miljözonen i huvudstaden. Där ska såväl diesel- och bensinbilar som laddhybrider helt förbjudas. – Nu tar vi nästa steg och inför Sveriges mest ambitiösa mål mot luftföroreningar, säger borgarrådet Cindy Falquet Lindh (MP) i ett uttalande.",
-      "pubDate": "2026-11-05T08:03:32Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Ida Gabrielsson: Jag hade sagt till Mohamed Ali att han borde pröva lite annat först",
-      "link": "https://www.dn.se/sverige/ida-gabrielsson-jag-hade-sagt-till-mohamed-ali-att-han-borde-prova-lite-annat-forst/",
-      "description": "SANDVIKEN. Hon slogs, drack och rökte. Men behöll alltid kontrollen. Vänsterpartiets vice ordförande Ida Gabrielsson är en produkt av bruksorten Sandviken. Förklarar det hennes sturskhet i kampen om regeringsmakten?",
-      "pubDate": "2026-11-05T05:35:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Då kan Ulf Kristersson bli statsminister – mot alla odds",
-      "link": "https://www.svt.se/nyheter/inrikes/da-kan-ulf-kristersson-bli-statsminister-mot-alla-odds",
-      "description": "Nu ligger sonderingsuppdraget hos Ulf Kristersson. Även om oddsen är emot honom så finns det några möjliga vägar till Rosenbad för M-ledaren. – Vi kan räkna med att han kommer erbjuda Centerpartiet en hel radda sakfrågor för att få dem att byta sida, säger SVT:s inrikespolitiska kommentator Elisabeth Marmorstein.",
-      "pubDate": "2026-11-05T05:03:57Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
