@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T21:38:13.181725Z",
+  "updated_at": "2026-11-06T01:51:48.721255Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,18 @@
   ],
   "news": [
     {
+      "title": "Ali spred konspirationsteori om Hamas attack 7 oktober",
+      "link": "https://www.sverigesradio.se/artikel/9335679",
+      "description": "Vänsterpartiets nyvalda riksdagsledamot Mohamed Ali spred en konspirationsteori om Hamas attack mot Israel 2023, rapporterar Aftonbladet . I ett inlägg på X skrev han att flera underrättelsetjänster känt till attacken i förväg. Ali säger nu att inlägget var förhastat och saknade grund. Vänsterpartiet säger att han ångrar sig.",
+      "pubDate": "2026-11-05T21:36:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Insändare. Svar: Släpp aldrig in Vänsterpartiet i regeringen",
       "link": "https://www.dn.se/insandare/svar-slapp-aldrig-in-vansterpartiet-i-regeringen/",
       "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet och dess ungdomsförbund ska bedömas efter den historiska skuld som är historiens ohyggligaste massförintelse. Glöm aldrig de omkring 100 miljoner människor som kommunisterna mördade när nya regeringsunderlag diskuteras, skriver Gerhard Flink.",
@@ -147,18 +159,6 @@
       ]
     },
     {
-      "title": "Replik: Därför vill vi att svenskar ska kalla Tjernobyl för Tjornobyl från och med nu",
-      "link": "https://www.dn.se/ledare/replik-darfor-vill-vi-att-svenskar-ska-kalla-tjernobyl-for-tjornobyl-fran-och-med-nu/",
-      "description": "Just nu använder svenska medier och myndigheter flera olika stavningar på ukrainska städer. I andra länder har Språkrådets större betydelse, skriver Lena Lind Palicki, avdelningschef för Språkrådet vid Isof, och Ola Karlsson, språkvårdare i svenska på Språkrådet vid Isof i en replik. Aron Lund svarar direkt.",
-      "pubDate": "2026-11-05T17:07:07Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
       "title": "Ginna Lindberg: ”JD Vance markerar mot Trump”",
       "link": "https://www.sverigesradio.se/artikel/9335546",
       "description": "I USA rasar eftervalsdebatten efter demokraternas framgångar i mellanårsvalet. Republikanerna har börjat rannsaka sin egen valstrategi och den egna politiken, särskilt kriget i Iran pekas ut, rapporterar Sveriges Radios korrespondent Ginna Lindberg i Washington. ”Vicepresident JD Vance markerar avstånd mot Donald Trump i frågan om kriget i Iran”, säger Lindberg.",
@@ -181,31 +181,6 @@
       "topics": [
         "S",
         "V"
-      ]
-    },
-    {
-      "title": "Hemliga planen: Därför backar inte Dadgostar",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/hemliga-planen-darfor-backar-inte-dadgostar/",
-      "description": "Centerpartiet och Vänsterpartiet har enskilda möten – kommer de lyckas bryta dödläget innan talmannen utlyser extraval? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-11-05T16:29:01Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "S-kravet efter flyghoten: ”Kan inte bara sitta och vänta”",
-      "link": "https://www.expressen.se/nyheter/varlden/s-kravet-efter-flyghoten-kan-inte-bara-sitta-och-vanta/",
-      "description": "Bombhot har riktats mot flera europeiska flyg de senaste dagarna. Nu kräver Socialdemokraterna i EU att man agerar.&nbsp; – Vi kan inte bara sitta och vänta på nästa bombhot, säger Johan Danielsson (S).",
-      "pubDate": "2026-11-05T15:34:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
       ]
     },
     {
@@ -260,18 +235,54 @@
         "C",
         "Regeringsbildning"
       ]
+    },
+    {
+      "title": "Uppgifter: C-toppar i hemligt möte om regeringsfrågan",
+      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-c-toppar-i-hemligt-mote-om-regeringsfragan",
+      "description": "Centerpartiets toppskikt samlas under torsdagen för att diskutera regeringsfrågan, uppger källor för SVT. Både partistyrelsen och riksdagsgruppen är kallade. – Man får ha en stor ödmjukhet i att det här är svårt, säger C-toppen Martin Ådahl.",
+      "pubDate": "2026-11-05T11:37:08Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "De är nominerade till Stora journalistpriset – hela listan",
+      "link": "https://www.sverigesradio.se/artikel/9335143",
+      "description": "De nominerade till Stora journalistpriset 2026 har presenterats. Priset delas ut i fyra kategorier samt i kategorin ”Lukas Bonniers Stora journalistpris”. Juryn består av 12 ordinarie ledamöter från hela mediesverige. Ceremonin äger rum den 19 november. Hos Sveriges Radio finns dessa titlar och programledare med på listan: Årets berättare: Karin Hållsten och Anna Frey, P1 dokumentär, för Du som brukade vara min mamma . Årets förnyare: Titti Schultz, Ola Rosling, Joel Lindqvist och Hans Falk för Sanningens ögonblick . Årets röst: Titti Schultz, programledare för P4 Extra . Årets avslöjande: Maria Ridderstedt och Markus Alfredsson, Kaliber, för Elsa får inte komma hem och Jakten på Münchhausen-mammorna .",
+      "pubDate": "2026-11-05T11:19:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
     }
   ],
   "blogs": [
     {
-      "title": "Goda tider, men för vem?",
-      "link": "https://www.dagensarena.se/opinion/goda-tider-men-vem/",
-      "description": "Tidöregeringen förhöll sig orimligt passiv till den höga arbetslösheten. Inlägget Goda tider, men för vem? dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-04T00:59:18Z",
+      "title": "Rödgrön politik före fler V-ministrar",
+      "link": "https://www.dagensarena.se/opinion/rodgron-politik-fore-fler-v-ministrar/",
+      "description": "Vad är värst? Ny Tidöregering eller förklara varför kongressbeslut inte kan uppfyllas? Inlägget Rödgrön politik före fler V-ministrar dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-06T00:30:51Z",
       "source": "Dagens Arena",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
       "sourceType": "blog",
       "topics": []
+    },
+    {
+      "title": "Måste en ”svensk” tro på tomten?",
+      "link": "https://www.dagensarena.se/opinion/maste-en-svensk-tro-pa-tomten/",
+      "description": "Maktkamp i Sverigedemokraterna, men även kulturnationalismen är villkorad. Inlägget Måste en ”svensk” tro på tomten? dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-06T00:24:35Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
     },
     {
       "title": "Klockan tickar för Andersson",
