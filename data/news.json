@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T08:39:34.099928Z",
+  "updated_at": "2026-11-06T16:24:20.496555Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,156 +79,12 @@
   ],
   "news": [
     {
-      "title": "Filmlistan vecka 45: ”Jävla karlar” är ny på bio",
-      "link": "https://www.dn.se/kultur/filmlistan-vecka-45-javla-karlar-ar-ny-pa-bio/",
-      "description": "Andrev Waldens prisade uppväxtskildring ”Jävla karlar” har blivit film. Den som vill lämna Sverige för ett par timmar kan istället välja libanesiska ”En sorglig och vacker värld”. DN:s filmredaktör Helena Lindblad listar veckan bästa filmer.",
-      "pubDate": "2026-11-06T08:23:39Z",
+      "title": "SD är redo att släppa fram Kristersson - och gå i full opposition",
+      "link": "https://www.dn.se/podd/alskade-politik/sd-ar-redo-att-slappa-fram-kristersson-och-ga-i-full-opposition/",
+      "description": "Nu sitter Elisabeth Thand Ringqvist med trumf på hand och ställer krav på båda statsministerkandidaterna.",
+      "pubDate": "2026-11-06T16:05:22Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Johannes Klenell: Jimmie Åkesson lajvar Bengt Westerberg – det går sådär",
-      "link": "https://www.dn.se/kultur/johannes-klenell-jimmie-akesson-lajvar-bengt-westerberg-det-gar-sadar/",
-      "description": "Valresultatet går inte att ignorera och nu försöker SD låtsas vara ett lite normalare parti. Samtidigt som propagandakanalen Riks åker på viral huligancharter till protesternas Paris. Johannes Klenell skriver om destruktiva livsval.",
-      "pubDate": "2026-11-06T05:36:36Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Malmös nya kommunalråd Halimo Nuur Bashir Abdi delar extrema konspirationer",
-      "link": "https://www.expressen.se/nyheter/sverige/malmos-nya-kommunalrad-halimo-nuur-bashir-abdi-delar-extrema-konspirationer/",
-      "description": "Det nya kommunalrådet i Malmö, vänsterpartisten och kryssraketen Halimo Nuur Bashir Abdi, ska arbeta mot rasism och antisemitism. Men Expressen kan nu avslöja att hon har delat en rad konspirationsteoretiska inlägg på Instagram. Bland annat har hon delat inlägg som påstår att världen styrs av ”sataniska pedofiler” och propaganda om att väst är barbariskt och ociviliserat.&nbsp; Hon har nu tagit bort delningarna. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här &nbsp;",
-      "pubDate": "2026-11-06T05:00:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ali spred konspirationsteori om Hamas attack 7 oktober",
-      "link": "https://www.sverigesradio.se/artikel/9335679",
-      "description": "Vänsterpartiets nyvalda riksdagsledamot Mohamed Ali spred en konspirationsteori om Hamas attack mot Israel 2023, rapporterar Aftonbladet . I ett inlägg på X skrev han att flera underrättelsetjänster känt till attacken i förväg. Ali säger nu att inlägget var förhastat och saknade grund. Vänsterpartiet säger att han ångrar sig.",
-      "pubDate": "2026-11-05T21:36:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Svar: Släpp aldrig in Vänsterpartiet i regeringen",
-      "link": "https://www.dn.se/insandare/svar-slapp-aldrig-in-vansterpartiet-i-regeringen/",
-      "description": "SVAR PÅ INSÄNDARE. Vänsterpartiet och dess ungdomsförbund ska bedömas efter den historiska skuld som är historiens ohyggligaste massförintelse. Glöm aldrig de omkring 100 miljoner människor som kommunisterna mördade när nya regeringsunderlag diskuteras, skriver Gerhard Flink.",
-      "pubDate": "2026-11-05T20:47:04Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "5 november: Här är dagens nyheter",
-      "link": "https://www.dn.se/varlden/5-november-har-ar-dagens-nyheter/",
-      "description": "Rödgrönt bråk, ny taxijätte och bombhot mot flygplan – här är dagens nyheter.",
-      "pubDate": "2026-11-05T20:14:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Hårdnad konflikt mellan C och V kan gynna Kristersson",
-      "link": "https://www.svt.se/nyheter/inrikes/hardnad-konflikt-mellan-c-och-v-kan-gynna-kristersson",
-      "description": "Samtalen om en ny regering mellan de rödgröna partierna befinner sig i ett känsligt läge. S-ledaren Magdalena Andersson fruktar att en hårdnad konflikt mellan C och V ska försvåra möjligheterna att få ihop en regering.",
-      "pubDate": "2026-11-05T19:22:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Rödgrön oenighet när grundlagen ska ändras",
-      "link": "https://www.dn.se/sverige/rodgron-oenighet-nar-grundlagen-ska-andras/",
-      "description": "Nästa vecka kommer riksdagen att ge klartecken till att skriva in aborträtten i Sveriges grundlagar liksom att göra det lättare att frånta någon sitt medborgarskap. V, C och MP har invändningar mot förslagen, men väljer olika vägar. C gör som S och säger ja till ändringarna. V och MP tänker rösta mot.",
-      "pubDate": "2026-11-05T18:46:18Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Kulturdebatt. Hilda Förare Berg: Nu förstår jag äntligen 90-talets optimism",
-      "link": "https://www.dn.se/kultur/hilda-forare-berg-nu-forstar-jag-antligen-90-talets-optimism/",
-      "description": "Demokraterna i USA har lyckats få fram karismatiska kandidater och mobiliserat väljarna. Hilda Förare Berg känner en för vänstern ovan känsla av hopp och tycker att Socialdemokraterna borde blicka västerut för inspiration.",
-      "pubDate": "2026-11-05T17:12:54Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Ida-krisen en gåva till S och C",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-ida-krisen-en-gava-till-s-och-c/",
-      "description": "Vänsterpartiets vice ordförande Ida Gabrielsson har blivit snudd på folkkär i regeringsdebatten – men nu slår hennes oborstade jargong tillbaka mot partiet. Gabrielssons bredsidor mot Centern landar i ett hyperkänsligt läge – just när partierna bakom Magdalena Andersson börjat få fart på sina samtal.",
-      "pubDate": "2026-11-05T16:31:35Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Shots fired mellan rödgröna – och Åkesson och Jomshof i känsligt samtal",
-      "link": "https://www.dn.se/podd/alskade-politik/shots-fired-mellan-rodgrona-och-akesson-och-jomshof-i-kansligt-samtal/",
-      "description": "Shots fired mellan C, S och V! Går det framåt eller bakåt för de rödgrönas regeringssamtal? Och är sista ordet sagt i SD:s bråk om svenskhet?",
-      "pubDate": "2026-11-05T14:25:20Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Kristina Lindquist: För SD är svenskhet en fråga om politisk lydnad",
-      "link": "https://www.dn.se/kultur/kristina-lindquist-for-sd-ar-svenskhet-en-fraga-om-politisk-lydnad/",
-      "description": "Ja, sprickan om etnicitet inom Sverigedemokraterna är politisk teater. Men även den öppna svenskheten är en extremistisk konstruktion, skriver Kristina Lindquist.",
-      "pubDate": "2026-11-05T13:34:35Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "MP"
-      ]
-    },
-    {
-      "title": "Chatt: Fråga SVT:s Marmorstein om politiska läget",
-      "link": "https://www.svt.se/nyheter/inrikes/chatt-fraga-svts-marmorstein-om-politiska-laget-itq8kc",
-      "description": "”Mycket svårt, men inte omöjligt” – så beskriver Ulf Kristersson (M) sonderingsuppdraget som nu ligger i hans händer. Kan han bli statsminister igen? På torsdagen samlas Centerpartiets toppar för ett hemligt möte om regeringsfrågan, enligt uppgifter till SVT. Vad krävs för att rucka på låsningar och röda linjer? Ställ din fråga till SVT:s inrikespolitiska kommentator Elisabeth Marmorstein, som svarar från 13.30.",
-      "pubDate": "2026-11-05T12:07:45Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
@@ -237,30 +93,190 @@
       ]
     },
     {
-      "title": "Uppgifter: C-toppar i hemligt möte om regeringsfrågan",
-      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-c-toppar-i-hemligt-mote-om-regeringsfragan",
-      "description": "Centerpartiets toppskikt samlas under torsdagen för att diskutera regeringsfrågan, uppger källor för SVT. Både partistyrelsen och riksdagsgruppen är kallade. – Man får ha en stor ödmjukhet i att det här är svårt, säger C-toppen Martin Ådahl.",
-      "pubDate": "2026-11-05T11:37:08Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "Fredrik Furtenbach: Spelet mellan partierna går på högvarv",
+      "link": "https://www.sverigesradio.se/artikel/9336340",
+      "description": "SD slopar krav på ministerposter, C vill att M och S presenterar ”totalpaket” och Kristersson har begärt förlängt sonderingsuppdrag. Ekots inrikespolitiska kommentator Fredrik Furtenbach reder ut de politiska besked som kommit på fredagen. ”Det rör på sig, en sak är säker och det är att spelet mellan partierna går på högvarv nu. Helhetsintrycket för vad som hänt idag är nog ganska förvirrande för väljarna”.",
+      "pubDate": "2026-11-06T16:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Kristersson (M): Vill ha mer tid av talmannen att sondera",
+      "link": "https://www.sverigesradio.se/artikel/9336329",
+      "description": "Efter Sverigedemokraternas och Centerpartiets besked under fredagen höll Moderaternas partiledare Ulf Kristersson pressträff. Kristerson säger att uppgiften att bilda regering nu är ”lite mindre omöjlig”. Samtidigt bad M-ledaren om mer tid från talmannen att sondera.",
+      "pubDate": "2026-11-06T15:45:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
         "C"
       ]
     },
     {
-      "title": "Källor: Små framsteg mellan S, C, MP och V – då briserade bråket",
-      "link": "https://www.dn.se/sverige/s-och-c-till-attack-mot-vansterpartiet-kommer-aldrig-att-handa/",
-      "description": "S och C är starkt kritiska till hur Vänsterpartiets Ida Gabrielsson uttrycker sig om Centerpartiet i en DN-intervju. ”Partier som man vill samarbeta med talar man inte om på det sättet”, skriver S-ledaren Magdalena Andersson. Konflikten briserar i ett känsligt läge – enligt källor i S, C, V och MP har fyrpartssamtal om en regeringsbildning intensifierats de senaste dagarna.",
-      "pubDate": "2026-11-05T11:08:53Z",
+      "title": "Kristersson (M) kallar till pressträff efter C-beskedet",
+      "link": "https://www.expressen.se/nyheter/politik/kristersson-m-kallar-till-presstraff-efter-c-beskedet/",
+      "description": "Centerpartiet vill att Andersson (S) och Kristersson (M) presenterar varsitt ”totalpaket” med sakpolitiskt innehåll och ett regeringsunderlag.&nbsp; Moderatledaren har kallat till pressträff.&nbsp; – Jag har hela tiden haft siktet inställt på att bilda en borgerlig regering med fyra partier, säger Kristersson.&nbsp; Han har begärt och fått mer tid för sonderingar.&nbsp;",
+      "pubDate": "2026-11-06T15:38:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Centerpartiet vill se totalpaket från både S och M",
+      "link": "https://www.dn.se/sverige/centerpartiet-vill-se-totalpaket-fran-bade-s-och-m/",
+      "description": "Centerpartiet vill att både M och S lägger fram totalpaket för hur de vill styra Sverige. Beskedet kommer efter att Sverigedemokraterna meddelat att partiet kan stödja M-ledaren Ulf Kristersson som statsminister utan att själva sitta i regering. C står dock fast vid sitt krav om att man inte tänker sitta i en regering som samarbetar med SD.",
+      "pubDate": "2026-11-06T15:32:02Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "V",
+        "M",
+        "SD",
         "C",
         "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C kräver totalpaket från Andersson (S) och Kristersson (M)",
+      "link": "https://www.sverigesradio.se/artikel/9336287",
+      "description": "Efter Sverigedemokraterna besked att partiet släpper kravet om ministerposter för att släppa fram en regering, höll Centerpartiets ledare Elisabeth Thand Ringqvist pressträff. ”Centerpartiet vill nu att både Magdalena Andersson och Ulf Kristersson presenterar varsitt totalpaket för hur de vill styra Sverige. Vi vill ha förslagen nästa fredag.” Det var Thand Ringqvists besked på pressträffen.",
+      "pubDate": "2026-11-06T15:01:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Elisabeth Thand Ringqvist (C): Vill ha ”totalpaket” av Andersson och Kristersson",
+      "link": "https://www.expressen.se/nyheter/politik/elisabeth-thand-ringqvist-c-kallar-till-presstraff/",
+      "description": "SD kan släppa fram en borgerlig regering utan att själva sitta med i den.&nbsp; Det kan öppna för C att försöka regera med de tidigare allianspartierna. Innan det kan bli aktuellt har C dock ett krav – på både M och S: – Centerpartiet vill nu att Magdalena Andersson och Ulf Kristersson presenterar varsitt totalpaket för hur de vill styra Sverige, säger Elisabeth Thand Ringqvist (C).",
+      "pubDate": "2026-11-06T14:38:28Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Chock i Centerpartiet efter Åkessons besked",
+      "link": "https://www.svt.se/nyheter/inrikes/chock-i-centerpartiet-efter-akessons-besked",
+      "description": "Flera centerpartister är ”chockade” efter Jimmie Åkessons (SD) nya besked i regeringsfrågan, enligt SVT:s källor. Samtidigt är budskapet från både S och V att ingenting har förändrats. Nu förbereder sig C på hur man ska svara.",
+      "pubDate": "2026-11-06T14:21:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Statsvetaren om SD-beskedet: Present till Kristersson",
+      "link": "https://www.sverigesradio.se/artikel/9336190",
+      "description": "När Sverigedemokraterna annonserade att de släpper kravet på att sitta i regering och gå i opposition sa Jimmie Åkesson att partiet ska återgå till att bli ett mittenparti. ”Intressant att han lyfter fram att det är en möjlighet för Sverigedemokraterna att hitta tillbaka till sin roll”, säger statsvetaren Jenny Madestam vid Södertörns högskola. Jenny Madestam menar att Sverigedemokraternas besked inte är något positivt besked för de rödgröna partierna.",
+      "pubDate": "2026-11-06T14:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Då fattades SD:s regeringsbeslut – nya taktiken",
+      "link": "https://www.expressen.se/nyheter/politik/da-fattades-sds-regeringsbeslut-nya-taktiken/",
+      "description": "Jimmie Åkesson åt middag med Ulf Kristersson – kort därefter kom SD:s besked. Bakom beslutet finns en uppfattning om att Centerpartiet är på väg att vika sig för V. SD ser möjligheter att vinna nya väljare.",
+      "pubDate": "2026-11-06T13:52:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Centern försöker prata upp sitt förhandlingsläge och får hjälp av Åkesson",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-trots-lockbetet-skulle-c-tvingas-anpassa-politiken-till-sd/",
+      "description": "Jimmie Åkessons utspel om att släppa fram en borgerlig minoritetsregering uppfyller knappast Centerns krav. En sådan regering skulle tvingas anpassa sin politik till Sverigedemokraternas önskningar. Men för Centern kommer Åkessons schackdrag ändå lämpligt – det passar in i Thand Ringqvists senaste försök att stärka sitt förhandlingsläge mot de rödgröna.",
+      "pubDate": "2026-11-06T13:37:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Rödgröna reagerar på SD-beskedet: ”Förändrar inget”",
+      "link": "https://www.expressen.se/nyheter/politik/rodgrona-reagerar-pa-sd-beskedet-forandrar-inget/",
+      "description": "Att SD slopar kravet på ministerposter kallas för välkommet av ledarna för högerpartierna. Från det rödgröna hållet låter det annorlunda. ”Politisk teater”, säger Ida Gabrielsson (V).&nbsp;",
+      "pubDate": "2026-11-06T13:35:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Blandade reaktioner efter Åkessons besked: ”Politisk teater”",
+      "link": "https://www.dn.se/sverige/tydligt-och-politisk-teater-blandade-reaktioner-efter-akessons-besked/",
+      "description": "Tydligt Jimmie, anser Simona Mohamsson, (L). Politisk teater, skriver Ida Gabrielsson, (V). Ett välkommet besked, anser Ulf Kristersson (M) och Ebba Busch (KD).",
+      "pubDate": "2026-11-06T13:13:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "KD",
+        "L"
+      ]
+    },
+    {
+      "title": "Israeliska valet: Det största hotet mot ”Bibi” – Tibi",
+      "link": "https://www.dn.se/varlden/israeliska-valet-det-storsta-hotet-mot-bibi-tibi/",
+      "description": "Utmanaren Gadi Eisenkot har samlat en majoritet som vill se honom som Israels nästa premiärminister. Nu ska Israels svar på den svenske talmannen – president Isaac Herzog – överväga att ge honom första tjing på att bilda regering. För att lyckas måste Eisenkot komma överens med ”Bibi” Netanyahus kontroversiella motpol – Tibi.",
+      "pubDate": "2026-11-06T12:56:57Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Kristersson om SD-beskedet: ”Välkommet”",
+      "link": "https://www.expressen.se/nyheter/politik/kristersson-om-sd-beskedet-valkommet/",
+      "description": "Sverigedemokraterna släpper fram Ulf Kristersson i en borgerlig regering utan krav på ministerposter. ”Välkommet”&nbsp;kommenterar Ulf Kristersson. ”Tydligt av Jimmie” skriver Simona Mohamsson.&nbsp; V-toppen Ida Gabrielsson ratar dock beskedet och kallar det för ”politisk teater”.",
+      "pubDate": "2026-11-06T12:33:21Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "L"
       ]
     }
   ],
@@ -325,6 +341,20 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "SD är redo att släppa fram Kristersson - och gå i full opposition",
+      "link": "https://pod.space/alskadepolitik/sd-ar-redo-att-slappa-fram-kristersson-och-ga-i-full-opposition",
+      "description": "Nu sitter Elisabeth Thand Ringqvist med trumf på hand och ställer krav på båda statsministerkandidaterna.",
+      "pubDate": "2026-11-06T16:05:22Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Inläst: Tänk om extra val inte är det största misslyckandet?",
       "link": "https://pod.space/kvartal/inlast-tank-om-extra-val-inte-ar-det-storsta-misslyckandet",
@@ -503,20 +533,6 @@
       "sourceType": "podcast",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Under all kritik: Genusforskningens gräddfil hotas från vänster",
-      "link": "https://pod.space/kvartal/under-all-kritik-genusforskningens-graddfil-hotas-fran-vanster",
-      "description": "I Norge vill socialdemokraterna dra undan en av genusforskningens gräddfiler. I Sverige lät Tidöregeringen motsvarigheten vara. Anna-Karin och Ivar talar också om regeringsbildningen, där Centerpartiet tycks tro att samma röda linjer ska ge ett annat resultat.",
-      "pubDate": "2026-10-27T05:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
       ]
     }
   ]
