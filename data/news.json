@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T01:22:53.631309Z",
+  "updated_at": "2026-11-07T07:24:05.838891Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,74 @@
   ],
   "news": [
     {
+      "title": "Experten: C:s drag ökar trycket på S, V och MP",
+      "link": "https://www.expressen.se/nyheter/politik/experten-cs-drag-okar-trycket-pa-s-v-och-mp/",
+      "description": "Ulf Kristersson har fått mer tid på sig att övertyga Centerpartiet om att gå med i alliansen 2.0. Nu väntar en tuff tid för V, S och MP, enligt statsvetare Jonas Hinnfors. – Det ökar ju trycket fruktansvärt mycket på de tre övriga rödgröna partierna. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
+      "pubDate": "2026-11-07T05:44:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Ledare: Åkessons besked om ministerposter ändrar inget för Centerpartiet",
+      "link": "https://www.dn.se/ledare/akessons-besked-om-ministerposter-andrar-inget-for-centerpartiet/",
+      "description": "Sverigedemokraterna säger att de inte måste sitta i en regering för att tolerera den. Betyder det att Ulf Kristersson nu kan aktivera den ”icke-socialistiska majoriteten”?",
+      "pubDate": "2026-11-07T05:04:55Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Insändare. Magdalena Andersson måste stå upp för sin politik",
+      "link": "https://www.dn.se/insandare/magdalena-andersson-maste-sta-upp-for-sin-politik/",
+      "description": "INSÄNDARE. Mellanårsvalet i USA visar att kandidater som tydligt går emot högerpopulismen blir vinnare. Socialdemokraterna vinner inga segrar genom att vara en blek kopia av sina politiska motståndare eller genom att skämmas för sina regeringsalternativ, skriver SSU-medlemmen Ardenis Lulja.",
+      "pubDate": "2026-11-07T05:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Amanda Sokolnicki: Med ”fittor”, borgare och förakt vill Dadgostar bygga sin nya allians",
+      "link": "https://www.dn.se/ledare/amanda-sokolnicki-med-fittor-borgare-och-forakt-vill-dadgostar-bygga-sin-nya-allians/",
+      "description": "Medan Tidöpartierna briljerar och spelar ut sina kort perfekt gör Vänsterpartiet oppositionen till åtlöje.",
+      "pubDate": "2026-11-07T04:13:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Statsvetare: Fortsatt oklart om nästa regering",
+      "link": "https://www.sverigesradio.se/artikel/9336463",
+      "description": "Fredagens besked i regeringsbildningen tolkas av statsvetare främst som försök från partierna att visa ansvar, medan läget om nästa regering fortfarande är oklart. ”Mandatfördelningen är som den är, de röda linjerna är mestadels oförändrade”, säger Anders Sundell, statsvetare vid Göteborgs universitet. Sverigedemokraterna har släppt kravet på ministerposter och nu har moderatledaren Ulf Kristersson fått förlängd sonderingstid.",
+      "pubDate": "2026-11-07T01:30:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Gabrielsson (V) pikar Thand Ringqvist (C): ”Är bara märkligt”",
       "link": "https://www.expressen.se/nyheter/politik/gabrielsson-v-pikar-thand-ringqvist-c-ar-bara-markligt/",
-      "description": "Andersson eller Kristersson?&nbsp; C vill att S och M presenterar varsitt ”totalpaket” för hur de vill styra Sverige och förklara hur de ska begränsa inflytandet för V och SD.&nbsp; V-toppen Ida Gabrielsson tycker att uppdraget till M-ledaren är ”märkligt”, eftersom C ”vet att det inte går”. &nbsp;",
+      "description": "Andersson eller Kristersson? C vill att S och M presenterar varsitt ”totalpaket” för hur de vill styra Sverige och förklara hur de ska begränsa inflytandet för V och SD. V-toppen Ida Gabrielsson tycker att uppdraget till M-ledaren är ”märkligt”, eftersom C ”vet att det inte går”.&nbsp;",
       "pubDate": "2026-11-06T23:20:37Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -90,71 +155,6 @@
         "S",
         "M",
         "C"
-      ]
-    },
-    {
-      "title": "Tre pressträffar – tre punkter om regeringsfrågan",
-      "link": "https://www.expressen.se/nyheter/politik/tre-presstraffar-tre-punkter-om-regeringsfragan/",
-      "description": "Jimmie Åkesson (SD) gav besked i regeringsfrågan. Därefter följde både besked och krav från Elisabeth Thand Ringqvist (C), innan det var dags för Ulf Kristersson (M) att ta till orda. Här är tre punkter från dagen.",
-      "pubDate": "2026-11-06T21:07:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "C-kännarna: Drömläge för partiet – sakpolitiken avgör",
-      "link": "https://www.expressen.se/nyheter/politik/c-kannarna-dromlage-for-partiet-sakpolitiken-avgor-/",
-      "description": "Sverigedemokraterna svängde i regeringsfrågan.&nbsp; Nu har Centerpartiet ett drömläge som vågmästare. &nbsp;&nbsp; Den statsministerkandidat som lovar bäst sakpolitik får bilda regering, tror två C-kännare.&nbsp;",
-      "pubDate": "2026-11-06T20:43:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Frågor och svar om nya politiska läget med Viktor Barth-Kron",
-      "link": "https://www.expressen.se/nyheter/politik/fragor-och-svar-om-nya-politiska-laget-med-viktor-barth-kron/",
-      "description": "SD släpper ministerkravet och C öppnar dörren för Ulf Kristersson. Expressens politiska kommentator Viktor Barth-Kron svarar på fem frågor om vad som händer nu.",
-      "pubDate": "2026-11-06T19:01:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Statsvetaren: Fördel Kristersson efter C-draget",
-      "link": "https://www.expressen.se/nyheter/politik/statsvetaren-fordel-kristersson-efter-c-draget/",
-      "description": "SD har släppt ministerkravet – och C begär in ”totalpaket” från både S och M. Dagens besked innebär att Ulf Kristersson har fördel gentemot Magdalena Andersson i kampen om regeringsmakten, menar statsvetaren Jonas Hinnfors. – Det var inget jag trodde för bara några dagar sedan, säger han.",
-      "pubDate": "2026-11-06T18:12:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "V ska hjälpa Halimo Nuur att inte dela konspirationer",
-      "link": "https://www.expressen.se/nyheter/politik/v-ska-hjalpa-halimo-nuur-att-inte-dela-konspirationer/",
-      "description": "V-politikern Halimo Nuur Bashir Abdi sitter kvar som kommunalråd i Malmö. Partiet ska i fortsättningen hjälpa henne att inte i fortsättningen dela inlägg med konspirationsteorier på nätet. – Konspirationsteorier som spreds i dessa är inget som Vänsterpartiet står bakom, säger Sadiye Altundal, gruppledare för Vänsterpartiet i Malmö",
-      "pubDate": "2026-11-06T17:56:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -188,15 +188,15 @@
       ]
     },
     {
-      "title": "SD är redo att släppa fram Kristersson - och gå i full opposition",
-      "link": "https://www.dn.se/podd/alskade-politik/sd-ar-redo-att-slappa-fram-kristersson-och-ga-i-full-opposition/",
+      "title": "SD-bomben: Åkesson har gett C trumfkortet",
+      "link": "https://www.dn.se/podd/alskade-politik/sd-bomben-akesson-har-gett-c-trumfkortet/",
       "description": "Nu sitter Elisabeth Thand Ringqvist med trumf på hand och ställer krav på båda statsministerkandidaterna.",
       "pubDate": "2026-11-06T16:05:22Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
+        "SD",
         "C",
         "Regeringsbildning"
       ]
@@ -284,6 +284,18 @@
   ],
   "blogs": [
     {
+      "title": "Vänsterpartiet – Partiet där konspirationsteorier är en del av politiken",
+      "link": "https://ledarsidorna.se/vansterpartiet-partiet-dar-konspirationsteorier-ar-en-del-av-politiken/",
+      "description": "Vänsterpartiet har genom åren återkommande haft problem med olika former av konspirationsteorier. Spridandet av dessa ofta antisemitiska politiska budskap och teorier tycks ha tilltagit efter partiets utbildning mot antisemitism genomförts. Något som bör föranleda frågor till partiledningen om vad utbildningen egentligen omfattar. Spridandet av konspirationsteorier – särskilt sådana med antisemitiska förtecken, falska påståenden om terrorattacker [&#8230;]",
+      "pubDate": "2026-11-07T04:10:53Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Åkesson öppnar en dörr åt Centern",
       "link": "https://www.dagensarena.se/opinion/akesson-oppnar-en-dorr-centern/",
       "description": "Men i praktiken skulle en alliansregering vara lika beroende av SD. Inlägget Åkesson öppnar en dörr åt Centern dök först upp på Dagens Arena .",
@@ -340,23 +352,27 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Vänstern mobiliserar kärlek till våldet",
-      "link": "https://ledarsidorna.se/vanstern-mobiliserar-karlek-till-valdet/",
-      "description": "De pågående skolprotesterna i Frankrike har börjat mobilisera delar av den våldsbejakande och våldstillämpande vänstern genom olika kampanjer. Våldsretoriken har djupa rötter inte bara inom Vänsterpartiet utan även inom klimatrörelsen. En våldsretorik som nu nått Järvafältet i Stockholm via än så länge okända avsändare. Den 17 oktober 2026 deltog enligt det franska inrikesministeriet omkring 550 [&#8230;]",
-      "pubDate": "2026-10-27T21:11:23Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
     }
   ],
   "podcasts": [
     {
-      "title": "SD är redo att släppa fram Kristersson - och gå i full opposition",
+      "title": "Veckopanelen: Jimmie Åkesson tar steget till statsman",
+      "link": "https://pod.space/kvartal/veckopanelen-jimmie-akesson-tar-steget-till-statsman",
+      "description": "Veckopanelen med Bo Rothstein, Hanna Mattsson Wagenius och Hanif Bali under ledning av Staffan Dopping. Jimmie Åkesson fällde en bomb under regeringsbildningen med sitt budskap om att tolerera Ulf Kristersson som statsminister. Men vad gör Centerpartiet härnäst? Frågan om svenskhet har inte avgjorts, trots SD-ledarens debattartikel för en vecka sedan. Donald Trump gratulerade Demokraterna till deras jordskredsseger i mellanårsvalet och låter nästan självkritisk. Medverkan i amerikanska porrfilmer ledde till att kommunchefen i Jokkmokk, tidigare socialdemokratisk riksdagsledamot, fick lämna sin post.",
+      "pubDate": "2026-11-07T04:40:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "SD-bomben: Åkesson har gett C trumfkortet",
       "link": "https://pod.space/alskadepolitik/sd-ar-redo-att-slappa-fram-kristersson-och-ga-i-full-opposition",
       "description": "Nu sitter Elisabeth Thand Ringqvist med trumf på hand och ställer krav på båda statsministerkandidaterna.",
       "pubDate": "2026-11-06T16:05:22Z",
@@ -364,7 +380,7 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "podcast",
       "topics": [
-        "M",
+        "SD",
         "C",
         "Regeringsbildning"
       ]
@@ -535,18 +551,6 @@
       "sourceType": "podcast",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "M:s nya supersiffror: Vill de ha extraval?",
-      "link": "https://pod.space/alskadepolitik/ms-nya-supersiffror-vill-de-ha-extraval",
-      "description": "Nya opinionssiffror från Ipsos visar att Tidöpartierna skulle kunna bilda regering vid ett extra val. Och Moderaterna har de högsta siffrorna på åtta år. Ändras Ulf Kristerssons status nu – eller är han fortfarande en \"lam anka\"?",
-      "pubDate": "2026-10-27T17:00:16Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M"
       ]
     }
   ]
