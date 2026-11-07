@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:56:09.690325Z",
+  "updated_at": "2026-11-07T22:25:07.119394Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -133,18 +133,6 @@
       ]
     },
     {
-      "title": "SD-tyckarna: Då kan SD och S göra upp",
-      "link": "https://www.expressen.se/nyheter/politik/sd-profilerna-da-kan-sd-och-s-gora-upp/",
-      "description": "SD:s besked att de släpper kravet på ministerposter öppnar för nya politiska samarbeten – bland annat med Socialdemokraterna. Det tror de SD-nära debattörerna Carl Eos och Richard Sörman.",
-      "pubDate": "2026-11-07T12:22:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "SD kan spela åt båda håll i opposition: ”Kan slita C itu”",
       "link": "https://www.sverigesradio.se/artikel/9336585",
       "description": "Det kommer reaktioner på gårdagens politiska utspel där Sverigedemokraterna backade från krav på ministerposter. ”Trots att man egentligen är en förutsättning för den här borgerliga regeringen så har man också med borgerlighetens godkännande gjort sig till opposition och kan spela åt båda håll” säger Carl Eos på konservativa tankesmedjan Oikos. Gustaf Lindskog, centerpartistisk ledarskribent på Östersunds-Posten, tycker att Centerpartiet ska välja det regeringsalternativ som ger mest sakpolitiska eftergifter.",
@@ -192,20 +180,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Statsvetare: Fortsatt oklart om nästa regering",
-      "link": "https://www.sverigesradio.se/artikel/9336463",
-      "description": "Fredagens besked i regeringsbildningen tolkas av statsvetare främst som försök från partierna att visa ansvar, medan läget om nästa regering fortfarande är oklart. ”Mandatfördelningen är som den är, de röda linjerna är mestadels oförändrade”, säger Anders Sundell, statsvetare vid Göteborgs universitet. Sverigedemokraterna har släppt kravet på ministerposter och nu har moderatledaren Ulf Kristersson fått förlängd sonderingstid.",
-      "pubDate": "2026-11-07T01:30:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "Regeringsbildning"
       ]
     },
     {
@@ -276,6 +250,34 @@
       "topics": [
         "SD",
         "C"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Centern försöker prata upp sitt förhandlingsläge och får hjälp av Åkesson",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-trots-lockbetet-skulle-c-tvingas-anpassa-politiken-till-sd/",
+      "description": "Jimmie Åkessons utspel om att släppa fram en borgerlig minoritetsregering uppfyller knappast Centerns krav. En sådan regering skulle tvingas anpassa sin politik till SD:s önskningar. Men för Centern kommer Åkessons schackdrag vältajmat – det passar in i Thand Ringqvists senaste försök att stärka sitt förhandlingsläge mot de rödgröna.",
+      "pubDate": "2026-11-06T13:37:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Blandade reaktioner efter Åkessons besked: ”Politisk teater”",
+      "link": "https://www.dn.se/sverige/tydligt-och-politisk-teater-blandade-reaktioner-efter-akessons-besked/",
+      "description": "Tydligt Jimmie, anser Simona Mohamsson, (L). Politisk teater, skriver Ida Gabrielsson, (V). Ett välkommet besked, anser Ulf Kristersson (M) och Ebba Busch (KD).",
+      "pubDate": "2026-11-06T13:13:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "KD",
+        "L"
       ]
     }
   ],
