@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T07:24:05.838891Z",
+  "updated_at": "2026-11-07T14:13:47.235224Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,16 +79,53 @@
   ],
   "news": [
     {
-      "title": "Experten: C:s drag ökar trycket på S, V och MP",
-      "link": "https://www.expressen.se/nyheter/politik/experten-cs-drag-okar-trycket-pa-s-v-och-mp/",
-      "description": "Ulf Kristersson har fått mer tid på sig att övertyga Centerpartiet om att gå med i alliansen 2.0. Nu väntar en tuff tid för V, S och MP, enligt statsvetare Jonas Hinnfors. – Det ökar ju trycket fruktansvärt mycket på de tre övriga rödgröna partierna. Expressens nyhetsapp ger dig alla nyheter – ladda ned den här",
-      "pubDate": "2026-11-07T05:44:05Z",
+      "title": "Kulturdebatt. ”Nej Sara Martinsson, arenakonserter ska inte förbjudas”",
+      "link": "https://www.dn.se/kultur/nej-sara-martinsson-arenakonserter-ska-inte-forbjudas/",
+      "description": "De små och de stora scenerna står inte mot varandra. Arenaindustrin är så mycket mer än enbart kultur, menar Kristofer Åkesson i en replik till Sara Martinsson.",
+      "pubDate": "2026-11-07T13:16:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "SD-tyckarna: Då kan SD och S göra upp",
+      "link": "https://www.expressen.se/nyheter/politik/sd-profilerna-da-kan-sd-och-s-gora-upp/",
+      "description": "SD:s besked att de släpper kravet på ministerposter öppnar för nya politiska samarbeten – bland annat med Socialdemokraterna. Det tror de SD-nära debattörerna Carl Eos och Richard Sörman.",
+      "pubDate": "2026-11-07T12:22:13Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "C"
+        "S"
+      ]
+    },
+    {
+      "title": "SD kan spela åt båda håll i opposition: ”Kan slita C itu”",
+      "link": "https://www.sverigesradio.se/artikel/9336585",
+      "description": "Det kommer reaktioner på gårdagens politiska utspel där Sverigedemokraterna backade från krav på ministerposter. ”Trots att man egentligen är en förutsättning för den här borgerliga regeringen så har man också med borgerlighetens godkännande gjort sig till opposition och kan spela åt båda håll” säger Carl Eos på konservativa tankesmedjan Oikos. Gustaf Lindskog, centerpartistisk ledarskribent på Östersundsposten, tycker att Centerpartiet ska välja det regeringsalternativ som ger mest sakpolitiska eftergifter.",
+      "pubDate": "2026-11-07T12:22:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Majoritet av väljarna tror att Andersson misslyckas",
+      "link": "https://www.dn.se/sverige/majoritet-av-valjarna-tror-att-andersson-misslyckas/",
+      "description": "En klar majoritet av väljarna tror inte att Magdalena Andersson lyckas med att bilda en regering. Det visar en mätning från DN/Ipsos. Men hoppet lever ändå bland de rödgröna sympatisörerna.",
+      "pubDate": "2026-11-07T12:15:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     },
     {
@@ -141,20 +178,6 @@
         "M",
         "SD",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Gabrielsson (V) pikar Thand Ringqvist (C): ”Är bara märkligt”",
-      "link": "https://www.expressen.se/nyheter/politik/gabrielsson-v-pikar-thand-ringqvist-c-ar-bara-markligt/",
-      "description": "Andersson eller Kristersson? C vill att S och M presenterar varsitt ”totalpaket” för hur de vill styra Sverige och förklara hur de ska begränsa inflytandet för V och SD. V-toppen Ida Gabrielsson tycker att uppdraget till M-ledaren är ”märkligt”, eftersom C ”vet att det inte går”.&nbsp;",
-      "pubDate": "2026-11-06T23:20:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
       ]
     },
     {
@@ -253,32 +276,6 @@
         "M",
         "SD",
         "C"
-      ]
-    },
-    {
-      "title": "Chock i Centerpartiet efter Åkessons besked",
-      "link": "https://www.svt.se/nyheter/inrikes/chock-i-centerpartiet-efter-akessons-besked",
-      "description": "Flera centerpartister är ”chockade” efter Jimmie Åkessons (SD) nya besked i regeringsfrågan, enligt SVT:s källor. Samtidigt är budskapet från både S och V att ingenting har förändrats. Nu förbereder sig C på hur man ska svara.",
-      "pubDate": "2026-11-06T14:21:04Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Statsvetaren om SD-beskedet: Present till Kristersson",
-      "link": "https://www.sverigesradio.se/artikel/9336190",
-      "description": "När Sverigedemokraterna annonserade att de släpper kravet på att sitta i regering och gå i opposition sa Jimmie Åkesson att partiet ska återgå till att bli ett mittenparti. ”Intressant att han lyfter fram att det är en möjlighet för Sverigedemokraterna att hitta tillbaka till sin roll”, säger statsvetaren Jenny Madestam vid Södertörns högskola. Jenny Madestam menar att Sverigedemokraternas besked inte är något positivt besked för de rödgröna partierna.",
-      "pubDate": "2026-11-06T14:17:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD"
       ]
     }
   ],
