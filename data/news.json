@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T14:13:47.235224Z",
+  "updated_at": "2026-11-07T18:56:09.690325Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,48 @@
   ],
   "news": [
     {
+      "title": "Kristerssons ord efter skjutningen i Krakow",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c9854312-af97-4b89-90d4-5136b211e90a",
+      "description": "Andersson: ”Sorg och bestörtning”",
+      "pubDate": "2026-11-07T18:21:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "V-toppen Ida Gabrielsson: ”Förstår oron och besvikelsen”",
+      "link": "https://www.expressen.se/nyheter/politik/v-toppen-ida-gabrielsson-forstar-oron-och-besvikelsen/",
+      "description": "Fredagens besked från SD, C och M har förändrat spelplanen i regeringsbildningen. V-toppen Ida Gabrielsson säger att hon ”förstår oron och besvikelsen” – efter Centerpartiets öppning för en borgerlig regering. ”V önskar att vi rödgröna gjort mer”, skriver hon på Facebook.",
+      "pubDate": "2026-11-07T16:08:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C i Jämtland: Underlättar inte regeringsbildningen",
+      "link": "https://www.sverigesradio.se/artikel/9336637",
+      "description": "Att Sverigedemokraterna nu har släppt sitt krav på ministerposter i en möjlig högerregering och går i opposition, förändrar inte Centerpartiets inställning till SD och underlättar inte försöken att bilda regering, enligt Centerns distriktsordförande i Jämtland, Effie Kourlos . ”Att ge SD en sådan vågmästarroll är inte förenligt med det som vi i Centerpartiet gick till val på”, säger hon. Samtidigt fräser socialdemokrater och vänsterpartister åt varandra på sociala medier.",
+      "pubDate": "2026-11-07T16:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Kulturdebatt. ”Nej Sara Martinsson, arenakonserter ska inte förbjudas”",
       "link": "https://www.dn.se/kultur/nej-sara-martinsson-arenakonserter-ska-inte-forbjudas/",
       "description": "De små och de stora scenerna står inte mot varandra. Arenaindustrin är så mycket mer än enbart kultur, menar Kristofer Åkesson i en replik till Sara Martinsson.",
@@ -105,7 +147,7 @@
     {
       "title": "SD kan spela åt båda håll i opposition: ”Kan slita C itu”",
       "link": "https://www.sverigesradio.se/artikel/9336585",
-      "description": "Det kommer reaktioner på gårdagens politiska utspel där Sverigedemokraterna backade från krav på ministerposter. ”Trots att man egentligen är en förutsättning för den här borgerliga regeringen så har man också med borgerlighetens godkännande gjort sig till opposition och kan spela åt båda håll” säger Carl Eos på konservativa tankesmedjan Oikos. Gustaf Lindskog, centerpartistisk ledarskribent på Östersundsposten, tycker att Centerpartiet ska välja det regeringsalternativ som ger mest sakpolitiska eftergifter.",
+      "description": "Det kommer reaktioner på gårdagens politiska utspel där Sverigedemokraterna backade från krav på ministerposter. ”Trots att man egentligen är en förutsättning för den här borgerliga regeringen så har man också med borgerlighetens godkännande gjort sig till opposition och kan spela åt båda håll” säger Carl Eos på konservativa tankesmedjan Oikos. Gustaf Lindskog, centerpartistisk ledarskribent på Östersunds-Posten, tycker att Centerpartiet ska välja det regeringsalternativ som ger mest sakpolitiska eftergifter.",
       "pubDate": "2026-11-07T12:22:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -126,20 +168,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Ledare: Åkessons besked om ministerposter ändrar inget för Centerpartiet",
-      "link": "https://www.dn.se/ledare/akessons-besked-om-ministerposter-andrar-inget-for-centerpartiet/",
-      "description": "Sverigedemokraterna säger att de inte måste sitta i en regering för att tolerera den. Betyder det att Ulf Kristersson nu kan aktivera den ”icke-socialistiska majoriteten”?",
-      "pubDate": "2026-11-07T05:04:55Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "C"
       ]
     },
     {
@@ -225,32 +253,6 @@
       ]
     },
     {
-      "title": "Fredrik Furtenbach: Spelet mellan partierna går på högvarv",
-      "link": "https://www.sverigesradio.se/artikel/9336340",
-      "description": "SD slopar krav på ministerposter, C vill att M och S presenterar ”totalpaket” och Kristersson har begärt förlängt sonderingsuppdrag. Ekots inrikespolitiska kommentator Fredrik Furtenbach reder ut de politiska besked som kommit på fredagen. ”Det rör på sig, en sak är säker och det är att spelet mellan partierna går på högvarv nu. Helhetsintrycket för vad som hänt idag är nog ganska förvirrande för väljarna”.",
-      "pubDate": "2026-11-06T16:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Kristersson (M): Lite mindre omöjligt att bilda regering",
-      "link": "https://www.sverigesradio.se/artikel/9336329",
-      "description": "Efter Sverigedemokraternas och Centerpartiets besked under fredagen höll Moderaternas partiledare Ulf Kristersson pressträff. Kristersson säger att uppgiften att bilda regering nu är ”lite mindre omöjlig”. Samtidigt berättar M-ledaren att han bett om mer tid från talmannen att sondera.",
-      "pubDate": "2026-11-06T15:45:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "C"
-      ]
-    },
-    {
       "title": "Centerpartiet vill se totalpaket från både S och M",
       "link": "https://www.dn.se/sverige/centerpartiet-vill-se-totalpaket-fran-bade-s-och-m/",
       "description": "Centerpartiet ger M och S en vecka att lägga fram ”totalpaket” för hur de vill styra Sverige. Beskedet kommer efter att SD slopat kravet på ministerposter. Talmannen ger Ulf Kristersson ytterligare tid för att försöka bilda regering. – Båda beskeden kommer göra det lite mindre omöjligt att få en bra regering för Sverige, säger Kristersson.",
@@ -264,16 +266,14 @@
       ]
     },
     {
-      "title": "C kräver totalpaket från Andersson (S) och Kristersson (M)",
-      "link": "https://www.sverigesradio.se/artikel/9336287",
-      "description": "Efter Sverigedemokraternas besked att partiet släpper kravet om ministerposter för att släppa fram en regering, höll Centerpartiets ledare Elisabeth Thand Ringqvist pressträff. ”Centerpartiet vill nu att både Magdalena Andersson och Ulf Kristersson presenterar var sitt totalpaket för hur de vill styra Sverige. Vi vill ha förslagen nästa fredag.” Det var Thand Ringqvists besked på pressträffen.",
-      "pubDate": "2026-11-06T15:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Chock i Centerpartiet efter Åkessons besked",
+      "link": "https://www.svt.se/nyheter/inrikes/chock-i-centerpartiet-efter-akessons-besked",
+      "description": "Flera centerpartister är ”chockade” efter Jimmie Åkessons (SD) nya besked i regeringsfrågan, enligt SVT:s källor. Samtidigt är budskapet från både S och V att ingenting har förändrats. Nu förbereder sig C på hur man ska svara.",
+      "pubDate": "2026-11-06T14:21:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "M",
         "SD",
         "C"
       ]
