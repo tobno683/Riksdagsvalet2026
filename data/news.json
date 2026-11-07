@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T21:39:55.191185Z",
+  "updated_at": "2026-11-07T01:22:53.631309Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,20 @@
     }
   ],
   "news": [
+    {
+      "title": "Gabrielsson (V) pikar Thand Ringqvist (C): ”Är bara märkligt”",
+      "link": "https://www.expressen.se/nyheter/politik/gabrielsson-v-pikar-thand-ringqvist-c-ar-bara-markligt/",
+      "description": "Andersson eller Kristersson?&nbsp; C vill att S och M presenterar varsitt ”totalpaket” för hur de vill styra Sverige och förklara hur de ska begränsa inflytandet för V och SD.&nbsp; V-toppen Ida Gabrielsson tycker att uppdraget till M-ledaren är ”märkligt”, eftersom C ”vet att det inte går”. &nbsp;",
+      "pubDate": "2026-11-06T23:20:37Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
     {
       "title": "Tre pressträffar – tre punkter om regeringsfrågan",
       "link": "https://www.expressen.se/nyheter/politik/tre-presstraffar-tre-punkter-om-regeringsfragan/",
@@ -214,21 +228,6 @@
       ]
     },
     {
-      "title": "Kristersson (M) får mer tid för sonderingar: ”Samtalen pågår”",
-      "link": "https://www.expressen.se/nyheter/politik/kristersson-m-kallar-till-presstraff-efter-c-beskedet/",
-      "description": "Centerpartiet vill att Andersson (S) och Kristersson (M) presenterar varsitt ”totalpaket” med sakpolitiskt innehåll och ett regeringsunderlag.&nbsp; Moderatledaren har kallat till pressträff.&nbsp; – Jag har hela tiden haft siktet inställt på att bilda en borgerlig regering med fyra partier, säger Kristersson.&nbsp; Han har begärt och fått mer tid för sonderingar.&nbsp;",
-      "pubDate": "2026-11-06T15:38:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Centerpartiet vill se totalpaket från både S och M",
       "link": "https://www.dn.se/sverige/centerpartiet-vill-se-totalpaket-fran-bade-s-och-m/",
       "description": "Centerpartiet ger M och S en vecka att lägga fram ”totalpaket” för hur de vill styra Sverige. Beskedet kommer efter att SD slopat kravet på ministerposter. Talmannen ger Ulf Kristersson ytterligare tid för att försöka bilda regering. – Båda beskeden kommer göra det lite mindre omöjligt att få en bra regering för Sverige, säger Kristersson.",
@@ -257,20 +256,6 @@
       ]
     },
     {
-      "title": "Elisabeth Thand Ringqvist (C): Vill ha ”totalpaket” av Andersson och Kristersson",
-      "link": "https://www.expressen.se/nyheter/politik/elisabeth-thand-ringqvist-c-kallar-till-presstraff/",
-      "description": "SD kan släppa fram en borgerlig regering utan att själva sitta med i den.&nbsp; Det kan öppna för C att försöka regera med de tidigare allianspartierna. Innan det kan bli aktuellt har C dock ett krav – på både M och S: – Centerpartiet vill nu att Magdalena Andersson och Ulf Kristersson presenterar varsitt totalpaket för hur de vill styra Sverige, säger Elisabeth Thand Ringqvist (C).",
-      "pubDate": "2026-11-06T14:38:28Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
       "title": "Chock i Centerpartiet efter Åkessons besked",
       "link": "https://www.svt.se/nyheter/inrikes/chock-i-centerpartiet-efter-akessons-besked",
       "description": "Flera centerpartister är ”chockade” efter Jimmie Åkessons (SD) nya besked i regeringsfrågan, enligt SVT:s källor. Samtidigt är budskapet från både S och V att ingenting har förändrats. Nu förbereder sig C på hur man ska svara.",
@@ -281,6 +266,19 @@
       "topics": [
         "SD",
         "C"
+      ]
+    },
+    {
+      "title": "Statsvetaren om SD-beskedet: Present till Kristersson",
+      "link": "https://www.sverigesradio.se/artikel/9336190",
+      "description": "När Sverigedemokraterna annonserade att de släpper kravet på att sitta i regering och gå i opposition sa Jimmie Åkesson att partiet ska återgå till att bli ett mittenparti. ”Intressant att han lyfter fram att det är en möjlighet för Sverigedemokraterna att hitta tillbaka till sin roll”, säger statsvetaren Jenny Madestam vid Södertörns högskola. Jenny Madestam menar att Sverigedemokraternas besked inte är något positivt besked för de rödgröna partierna.",
+      "pubDate": "2026-11-06T14:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
       ]
     }
   ],
