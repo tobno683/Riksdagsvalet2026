@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T19:49:12.555831Z",
+  "updated_at": "2026-11-08T23:14:41.315616Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,62 @@
     }
   ],
   "news": [
+    {
+      "title": "”Fördel Kristersson eller extraval”",
+      "link": "https://www.svt.se/nyheter/inrikes/fordel-kristersson-eller-extraval",
+      "description": "Magdalena Andersson försöker ta tillbaka det politiska initiativet i regeringsbildningen. Men om Vänsterpartiet står fast vid sina ministerkrav kommer det antingen att leda till att Ulf Kristersson blir statsminister eller extraval.",
+      "pubDate": "2026-11-08T21:56:15Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ida Gabrielsson (V): ”Otroligt dumt”",
+      "link": "https://www.sverigesradio.se/artikel/9336899",
+      "description": "Socialdemokraterna vill bilda regering utan Vänsterpartiet, något som Vänsterpartiets vice partiledare Ida Gabrielsson kallar ”otroligt dumt”. Enligt Gabrielsson riskerar upplägget att göra regeringen beroende av Centerpartiet och i förlängningen Sverigedemokraterna, medan Socialdemokraterna står fast vid sitt besked. I Ekots intervju varnar hon för att en öppnad dörr mot SD kan leda till krav och utpressning från högern.",
+      "pubDate": "2026-11-08T20:56:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Vänsterprofilen: ”Det är en otrolig skandal”",
+      "link": "https://www.expressen.se/nyheter/politik/vansterprofilen-det-ar-en-otrolig-skandal/",
+      "description": "Magdalena Andersson vill inte släppa in Vänsterpartiet i regeringen. Flammans chefredaktör Leonidas Aretakis tror inte att V släpper regeringskravet, och ser ett rödgrönt regeringssamarbete som kan braka ihop innan det ens började. – Det är en otrolig skandal, säger han. – Jag blev helt enkelt förbannad, säger S-profilen Göran Greider i SVT om Anderssons besked.",
+      "pubDate": "2026-11-08T20:50:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Gabrielsson (V) besviken efter S-beslutet i regeringsfrågan",
+      "link": "https://www.expressen.se/nyheter/politik/gabrielsson-v-besviken-efter-s-beslutet-i-regeringsfragan/",
+      "description": "S vill ha V som stödparti.&nbsp; Samtidigt har C öppnat dörren för en borgerlig regering.&nbsp; V-toppen Ida Gabrielsson attackerar C i SVT:s ”Agenda” och påstår att Centerpartiet kommer att ”utpressa” de andra rödgröna partierna.&nbsp; – Är man beredd att göra det här sidbytet, då finns det inget stopp. Andersson kommer att bli utpressad till att bara bedriva högerpolitik. &nbsp;",
+      "pubDate": "2026-11-08T20:31:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
     {
       "title": "Tomas Ramberg: Andersson fruktar Centerns inre strid",
       "link": "https://www.dn.se/sverige/tomas-ramberg-andersson-fruktar-centerns-inre-strid/",
@@ -237,64 +293,23 @@
         "V",
         "C"
       ]
-    },
-    {
-      "title": "Linus Bylund (SD) lämnar riksdagen",
-      "link": "https://www.expressen.se/nyheter/politik/linus-bylund-sd-lamnar-riksdagen-bsxkj/",
-      "description": "Mångåriga SD-toppen Linus Bylund lämnar sin riksdagsplats. I stället ska han återgå till tjänsten som stabschef hos Jimmie Åkesson. ”Beslutet var dock långt ifrån lättvindigt”, skriver han i ett inlägg på Facebook.",
-      "pubDate": "2026-11-08T13:47:22Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "S-ledaren: ”Går i full opposition mot en Tidö 2-regering”",
-      "link": "https://www.dn.se/sverige/s-ledaren-gar-i-full-opposition-mot-en-tido-2-regering/",
-      "description": "S-ledaren Magdalena Andersson utesluter helt att samarbeta eller förhandla med en regering som består av M, L, KD och C, skriver hon på Instagram. ”Vi skulle gå i full opposition mot en Tidö 2-regering.” ”Man får hoppas att det finns kloka krafter i Socialdemokraterna som kan temperera de utspel som nu görs i stridens hetta”, skriver Gunnar Strömmer, (M) i en kommentar.",
-      "pubDate": "2026-11-08T09:17:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "S stänger tänker inte förhandla med ”Tidö 2”",
-      "link": "https://www.sverigesradio.se/artikel/9336754",
-      "description": "Magdalena Andersson säger att Socialdemokraterna varken vill samarbeta eller förhandla med en regering där M, L, KD och C styr med stöd av Sverigedemokraterna. Beskedet kommer när regeringsfrågan fortfarande är öppen och Centerpartiet för samtal med både Socialdemokraterna och Moderaterna. Enligt Ekots politikreporter är utspelet främst en press mot Centerpartiet, samtidigt som han betonar att förhandlingarna långtifrån är över.",
-      "pubDate": "2026-11-08T09:13:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Andersson: Går i full opposition till en Tidö 2-regering",
-      "link": "https://www.sverigesradio.se/artikel/9336747",
-      "description": "Socialdemokraternas Magdalena Andersson kommenterar nu de pågående förhandlingarna, efter de tre presskonferenser som hölls i fredags av Sverigedemokraterna, Centerpartiet och Moderaterna. ”En högerregering vars hela existens förutsätter Sverigedemokraternas stöd skulle i praktiken vara en Tidö 2-regering och bryta mot Centerpartiets viktigaste vallöfte, nämligen att inte stödja eller ingå i en regering som är beroende av Sverigedemokraterna” skriver Magdalena Andersson på Instagram. Hon skriver också att Socialdemokraterna skulle gå i full opposition till en ”Tidö 2-regering” och inte medverka i några förhandlingar.",
-      "pubDate": "2026-11-08T08:24:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "C"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Så sköt Vänsterpartiet sig själva i bägge fötterna",
+      "link": "https://ledarsidorna.se/sa-skot-vansterpartiet-sig-sjalva-i-bagge-fotterna/",
+      "description": "Reaktionen från på Magdalena Anderssons besked om att lämna Vänsterpartiet utanför en regering blev omedelbart avvisande. Partiet visade än en gång att det saknar den mognad, den partikultur och den kompetens som krävs för regeringsansvar. Paradoxalt nog skulle V, precis som Sverigedemokraterna gjorde under Tidöavtalet, ha tjänat mest på att acceptera rollen som stödparti. Socialdemokraternas [&#8230;]",
+      "pubDate": "2026-11-08T22:26:37Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "SD",
+        "V"
+      ]
+    },
     {
       "title": "Vänsterpartiet – Partiet där konspirationsteorier är en del av politiken",
       "link": "https://ledarsidorna.se/vansterpartiet-partiet-dar-konspirationsteorier-ar-en-del-av-politiken/",
@@ -363,114 +378,6 @@
       "sourceType": "blog",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "BREV 513 – Åkesson & Romson möts i hästskoteorin.",
-      "link": "https://jensganman.substack.com/p/brev-513-akesson-and-romson-mots",
-      "description": "Blir &#8220;Mohamed Ali&#8221; svensk om han &#229;ker tunnelbana? / Svenska landskapsetniciteter / Gl&#246;m inte bort Sveriges klokaste kvinna / Svarta m&#228;nniskor &#228;r genetiskt &#246;verl&#228;gsna / VPK m&#229;ste korsa Rubicon / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "BREV 512 – Socialdemokraternas två desperata krisplaner.",
-      "link": "https://jensganman.substack.com/p/brev-512-socialdemokraternas-tva",
-      "description": "Uppgifter: Aftonbladet drar saker ur r-ven / Vad ska S g&#229; till extraval p&#229;? / Mattias Karlssons offentliga h&#228;rdsm&#228;lta / Det t&#228;nker jag n&#228;r jag ser Lawen Redar p&#229; gatan / M.m., m.fl",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 511 – Nej, du är inte etnisk svensk.",
-      "link": "https://jensganman.substack.com/p/brev-511-nej-du-ar-inte-etnisk-svensk",
-      "description": "Centern vill inte g&#246;ra sossarnas dirty work l&#228;ngre / Krampaktiga skratt hos 100% / Karlssons & Jomshofs magnifika magplask / V&#228;rldens b&#228;sta rasistfilm / Springsteen & Bono s&#229;g det inte komma / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "BREV 510 – I Centerpartiet kan ingen höra dig skrika.",
-      "link": "https://jensganman.substack.com/p/brev-510-i-centerpartiet-kan-ingen",
-      "description": "Thand Ringqvist &#8211; politisk autist / &#196;r Macron ond eller bara dum i huvudet? / Helena Edlunds genialiska id&#233; / Milj&#246;partiet har kommit alldeles f&#246;r billigt undan / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 507 – Miljöpartiet och VPK utnyttjar sina somalier skamlöst.",
-      "link": "https://jensganman.substack.com/p/brev-507-miljopartiet-och-vpk-utnyttjar",
-      "description": "De f&#246;rst&#229;r ju mindre &#228;n Baudin / Nytt apologetreportage om Frankrike i Rapport / F&#246;rdelen med ett extra val / Det gamla DN-klippet som f&#246;rklarar allt / Kessler-effekten / Storspoven kommer / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "BREV 502 – Greta Thunberg, kaozturist.",
-      "link": "https://jensganman.substack.com/p/brev-501-greta-thunberg-kaozturist",
-      "description": "Som en fluga till en sockerbit / N&#229;gra intressanta passager ur &#8220;Mitt f&#246;rbjudna ansikte&#8221; och &#8220;En somalisk kvinnas ber&#228;ttelse&#8221; / Hoppas detta &#228;r Ulf Kristerssons strategi / Vogonen Kristina Lagerstr&#246;m /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "BREV 499 – Somalier är också människor.",
-      "link": "https://jensganman.substack.com/p/brev-499-somalier-ar-ocksa-manniskor",
-      "description": "Wallenberg och Thand Ringqvist i ett rum / Varf&#246;r st&#228;llde Gunnarsson inte fr&#229;gan? / Svart mans slav / Mediemakthavarinnornas maniska mimik. / Suhonen, Baude och v&#228;nsterns v&#228;mjeliga v&#229;ldsvurm / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 498 – Regeringsmissbildningen.",
-      "link": "https://jensganman.substack.com/p/brev-498-regeringsmissbildningen",
-      "description": "En orgie i idioti / De r&#246;dgr&#246;nas f&#246;rs&#246;k att bilda regering b&#246;r klassas som systemfarlig / V&#228;rldens dyraste ljud / Gl&#246;m aldrig socialdemokraternas syn p&#229; begreppet &#8221;l&#246;fte&#8221; / N&#228;r Hirvonen h&#246;ll med mig /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 496 – Till slut måste Centern välja sin egen avrättningsmetod.",
-      "link": "https://jensganman.substack.com/p/brev-496-till-slut-maste-centern",
-      "description": "Thand Ringqvist har spelat bort sina kort / Han l&#229;ter som Kalle Stropp / SR & SVT borde g&#246;ra en Office Space / Jag blev som i s&#229;ngen &#8221;M&#229;nga barn &#228;r bruna&#8221; / As falls Marseille, so falls Rinkeby / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
       ]
     }
   ],
