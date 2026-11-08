@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T01:36:06.263406Z",
+  "updated_at": "2026-11-08T08:11:13.372178Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,29 +79,39 @@
   ],
   "news": [
     {
-      "title": "Kristerssons ord efter skjutningen i Krakow",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c9854312-af97-4b89-90d4-5136b211e90a",
-      "description": "Andersson: ”Sorg och bestörtning”",
-      "pubDate": "2026-11-07T18:21:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Susanne Nyström: Vänsterpartiets usla försvar håller inte",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-vansterpartiets-usla-forsvar-haller-inte/",
+      "description": "I fredags avslöjades att ytterligare en vänsterpartist har spritt konspirationsteorier. Det är Nooshi Dadgostars ansvar att hålla rent i sitt parti.",
+      "pubDate": "2026-11-08T05:03:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "M"
+        "V"
       ]
     },
     {
-      "title": "V-toppen Ida Gabrielsson: ”Förstår oron och besvikelsen”",
-      "link": "https://www.expressen.se/nyheter/politik/v-toppen-ida-gabrielsson-forstar-oron-och-besvikelsen/",
-      "description": "Fredagens besked från SD, C och M har förändrat spelplanen i regeringsbildningen. V-toppen Ida Gabrielsson säger att hon ”förstår oron och besvikelsen” – efter Centerpartiets öppning för en borgerlig regering. ”V önskar att vi rödgröna gjort mer”, skriver hon på Facebook.",
-      "pubDate": "2026-11-07T16:08:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Insändare. Inför krav för riksdagsledamöter",
+      "link": "https://www.dn.se/insandare/infor-krav-for-riksdagsledamoter/",
+      "description": "INSÄNDARE. Lämpligheten i att en person som vänsterpartisten Mohamed Ali ska sitta i riksdagen bör kunna ifrågasättas. Vi behöver lagstadgade krav på språklig förmåga, grundläggande samhällskunskap och förståelse för riksdagsuppdraget, skriver Necati Kanat.",
+      "pubDate": "2026-11-08T05:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "C",
-        "Regeringsbildning"
+        "V"
+      ]
+    },
+    {
+      "title": "Ledare: Åkessons intervention säger mycket – inte minst om borgerligheten",
+      "link": "https://www.dn.se/ledare/akessons-intervention-sager-mycket-inte-minst-om-borgerligheten/",
+      "description": "När Jimmie Åkesson ger sig in i SD:s interna debatt om vem som är svensk är det avslöjande. Också för borgerligheten.",
+      "pubDate": "2026-11-08T04:34:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
       ]
     },
     {
@@ -264,21 +274,6 @@
         "SD",
         "C"
       ]
-    },
-    {
-      "title": "Blandade reaktioner efter Åkessons besked: ”Politisk teater”",
-      "link": "https://www.dn.se/sverige/tydligt-och-politisk-teater-blandade-reaktioner-efter-akessons-besked/",
-      "description": "Tydligt Jimmie, anser Simona Mohamsson, (L). Politisk teater, skriver Ida Gabrielsson, (V). Ett välkommet besked, anser Ulf Kristersson (M) och Ebba Busch (KD).",
-      "pubDate": "2026-11-06T13:13:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "KD",
-        "L"
-      ]
     }
   ],
   "blogs": [
@@ -354,6 +349,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Djupet: SD och striden om svenskheten",
+      "link": "https://pod.space/kvartal/djupet-sd-och-striden-om-svenskheten",
+      "description": "Sverigedemokraternas tillbakagång i valet och partiledarens till en början låga profil har utlöst en het debatt i partiet: Vilken betydelse ska den svenska etniciteten ha i SD:s syn på svenskhet? Vad handlar konflikten om i grunden? Och säger den något större om hur Sverige som land brottas med sin identitet efter decennier av stor invandring? Med Kvartals Pelle Zackrisson, Richard Sörman, politisk chefredaktör Riks, Håkan Boström, ledarskribent på GP och historikern Lars Trägårdh. Programledare: Jörgen Huitfeldt.",
+      "pubDate": "2026-11-08T05:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Veckopanelen: Jimmie Åkesson tar steget till statsman",
       "link": "https://pod.space/kvartal/veckopanelen-jimmie-akesson-tar-steget-till-statsman",
@@ -537,18 +544,6 @@
       "sourceType": "podcast",
       "topics": [
         "S",
-        "SD"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Åkesson dras in i SD-bråket",
-      "link": "https://pod.space/kvartal/kvartal-idag-akesson-dras-in-i-sd-braket",
-      "description": "Används som ammunition av Jomshof. Därför gick araberna fram i Israels val. Specialåklagare tar över omskärelsefall. Och Bolsonaro har landat i Florida. Programledare Nathalie Rothschild.",
-      "pubDate": "2026-10-28T15:01:25Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
         "SD"
       ]
     }
