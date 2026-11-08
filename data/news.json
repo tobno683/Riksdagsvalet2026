@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T08:11:13.372178Z",
+  "updated_at": "2026-11-08T15:25:41.943793Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,75 @@
   ],
   "news": [
     {
+      "title": "Linus Bylund (SD) lämnar riksdagen",
+      "link": "https://www.expressen.se/nyheter/politik/linus-bylund-sd-lamnar-riksdagen-bsxkj/",
+      "description": "Mångåriga SD-toppen Linus Bylund lämnar sin riksdagsplats. I stället ska han återgå till tjänsten som stabschef hos Jimmie Åkesson. ”Beslutet var dock långt ifrån lättvindigt”, skriver han i ett inlägg på Facebook.",
+      "pubDate": "2026-11-08T13:47:22Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "S-ledaren: ”Går i full opposition mot en Tidö 2-regering”",
+      "link": "https://www.dn.se/sverige/s-ledaren-gar-i-full-opposition-mot-en-tido-2-regering/",
+      "description": "S-ledaren Magdalena Andersson utesluter helt att samarbeta eller förhandla med en regering som består av M, L, KD och C, skriver hon på Instagram. ”Vi skulle gå i full opposition mot en Tidö 2-regering.” ”Man får hoppas att det finns kloka krafter i Socialdemokraterna som kan temperera de utspel som nu görs i stridens hetta”, skriver Gunnar Strömmer, (M) i en kommentar.",
+      "pubDate": "2026-11-08T09:17:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "S stänger tänker inte förhandla med ”Tidö 2”",
+      "link": "https://www.sverigesradio.se/artikel/9336754",
+      "description": "Magdalena Andersson säger att Socialdemokraterna varken vill samarbeta eller förhandla med en regering där M, L, KD och C styr med stöd av Sverigedemokraterna. Beskedet kommer när regeringsfrågan fortfarande är öppen och Centerpartiet för samtal med både Socialdemokraterna och Moderaterna. Enligt Ekots politikreporter är utspelet främst en press mot Centerpartiet, samtidigt som han betonar att förhandlingarna långtifrån är över.",
+      "pubDate": "2026-11-08T09:13:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Andersson: Går i full opposition till en Tidö 2-regering",
+      "link": "https://www.sverigesradio.se/artikel/9336747",
+      "description": "Socialdemokraternas Magdalena Andersson kommenterar nu de pågående förhandlingarna, efter de tre presskonferenser som hölls i fredags av Sverigedemokraterna, Centerpartiet och Moderaterna. ”En högerregering vars hela existens förutsätter Sverigedemokraternas stöd skulle i praktiken vara en Tidö 2-regering och bryta mot Centerpartiets viktigaste vallöfte, nämligen att inte stödja eller ingå i en regering som är beroende av Sverigedemokraterna” skriver Magdalena Andersson på Instagram. Hon skriver också att Socialdemokraterna skulle gå i full opposition till en ”Tidö 2-regering” och inte medverka i några förhandlingar.",
+      "pubDate": "2026-11-08T08:24:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Andersson (S): Då går vi i full opposition",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-s-da-gar-vi-i-full-opposition/",
+      "description": "Socialdemokraterna kommer inte förhandla med en högerregering som kräver stöd av SD, skriver Magdalena Andersson på Instagram. ”Vi skulle gå i full opposition mot en Tidö 2-regering”, skriver S-ledaren.&nbsp; Även V kommer gå i opposition i ett liknande scenario, uppger Nooshi Dadgostar.&nbsp; ”Detta är inte vad Centerpartiet lovade väljarna i valrörelsen.”",
+      "pubDate": "2026-11-08T08:19:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "Susanne Nyström: Vänsterpartiets usla försvar håller inte",
       "link": "https://www.dn.se/ledare/susanne-nystrom-vansterpartiets-usla-forsvar-haller-inte/",
       "description": "I fredags avslöjades att ytterligare en vänsterpartist har spritt konspirationsteorier. Det är Nooshi Dadgostars ansvar att hålla rent i sitt parti.",
@@ -103,34 +172,6 @@
       ]
     },
     {
-      "title": "Ledare: Åkessons intervention säger mycket – inte minst om borgerligheten",
-      "link": "https://www.dn.se/ledare/akessons-intervention-sager-mycket-inte-minst-om-borgerligheten/",
-      "description": "När Jimmie Åkesson ger sig in i SD:s interna debatt om vem som är svensk är det avslöjande. Också för borgerligheten.",
-      "pubDate": "2026-11-08T04:34:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "C i Jämtland: Underlättar inte regeringsbildningen",
-      "link": "https://www.sverigesradio.se/artikel/9336637",
-      "description": "Att Sverigedemokraterna nu har släppt sitt krav på ministerposter i en möjlig högerregering och går i opposition, förändrar inte Centerpartiets inställning till SD och underlättar inte försöken att bilda regering, enligt Centerns distriktsordförande i Jämtland, Effie Kourlos . ”Att ge SD en sådan vågmästarroll är inte förenligt med det som vi i Centerpartiet gick till val på”, säger hon. Samtidigt fräser socialdemokrater och vänsterpartister åt varandra på sociala medier.",
-      "pubDate": "2026-11-07T16:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Kulturdebatt. ”Nej Sara Martinsson, arenakonserter ska inte förbjudas”",
       "link": "https://www.dn.se/kultur/nej-sara-martinsson-arenakonserter-ska-inte-forbjudas/",
       "description": "De små och de stora scenerna står inte mot varandra. Arenaindustrin är så mycket mer än enbart kultur, menar Kristofer Åkesson i en replik till Sara Martinsson.",
@@ -140,20 +181,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "SD kan spela åt båda håll i opposition: ”Kan slita C itu”",
-      "link": "https://www.sverigesradio.se/artikel/9336585",
-      "description": "Det kommer reaktioner på gårdagens politiska utspel där Sverigedemokraterna backade från krav på ministerposter. ”Trots att man egentligen är en förutsättning för den här borgerliga regeringen så har man också med borgerlighetens godkännande gjort sig till opposition och kan spela åt båda håll” säger Carl Eos på konservativa tankesmedjan Oikos. Gustaf Lindskog, centerpartistisk ledarskribent på Östersunds-Posten, tycker att Centerpartiet ska välja det regeringsalternativ som ger mest sakpolitiska eftergifter.",
-      "pubDate": "2026-11-07T12:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C",
-        "MP"
       ]
     },
     {
@@ -178,18 +205,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Amanda Sokolnicki: Med ”fittor”, borgare och förakt vill Dadgostar bygga sin nya allians",
-      "link": "https://www.dn.se/ledare/amanda-sokolnicki-med-fittor-borgare-och-forakt-vill-dadgostar-bygga-sin-nya-allians/",
-      "description": "Medan Tidöpartierna briljerar och spelar ut sina kort perfekt gör Vänsterpartiet oppositionen till åtlöje.",
-      "pubDate": "2026-11-07T04:13:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -256,19 +271,6 @@
       "pubDate": "2026-11-06T14:21:04Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Centern försöker prata upp sitt förhandlingsläge och får hjälp av Åkesson",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-trots-lockbetet-skulle-c-tvingas-anpassa-politiken-till-sd/",
-      "description": "Jimmie Åkessons utspel om att släppa fram en borgerlig minoritetsregering uppfyller knappast Centerns krav. En sådan regering skulle tvingas anpassa sin politik till SD:s önskningar. Men för Centern kommer Åkessons schackdrag vältajmat – det passar in i Thand Ringqvists senaste försök att stärka sitt förhandlingsläge mot de rödgröna.",
-      "pubDate": "2026-11-06T13:37:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD",
