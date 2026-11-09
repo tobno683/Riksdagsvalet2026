@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T23:14:41.315616Z",
+  "updated_at": "2026-11-09T02:48:00.698834Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -165,19 +165,6 @@
       ]
     },
     {
-      "title": "Andersson tycks inte ha någon egen åsikt om V",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/andersson-tycks-inte-ha-nagon-egen-asikt-om-v/",
-      "description": "Magdalena Andersson har till slut presenterat sitt regeringsalternativ. Det blev Centerpartiets, som vanligt – men det kan vara för sent.",
-      "pubDate": "2026-11-08T17:24:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
       "title": "S-ledaren vill bilda regering utan Vänsterpartiet",
       "link": "https://www.dn.se/sverige/s-ledaren-vill-bilda-regering-utan-vansterpartiet/",
       "description": "S-ledaren Magdalena Andersson vill bilda regering med C och MP – med V som stödparti. Vänsterpartiets ministerkrav står dock fast, skriver V-toppen Ida Gabrielsson på X. ”S och C vet att vi inte kan säga ja till detta”.",
@@ -188,21 +175,6 @@
       "topics": [
         "S",
         "V"
-      ]
-    },
-    {
-      "title": "V:s besvikelse efter Anderssons diss: ”Kommer få betala”",
-      "link": "https://www.expressen.se/nyheter/politik/vs-besvikelse-efter-anderssons-diss-kommer-fa-betala/",
-      "description": "Magdalena Andersson vill se en regering med Miljöpartiet och Centerpartiet – i ”nära samarbete” med Vänsterpartiet. Flera företrädare för V uttrycker stor besvikelse över beskedet, och menar att S ”kommer att få betala för det här”. – Folk säger att de hellre vill ha nyval än detta, säger en central källa.",
-      "pubDate": "2026-11-08T17:11:35Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
       ]
     },
     {
@@ -231,19 +203,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Här styr S med C och V – råden till Andersson",
-      "link": "https://www.expressen.se/nyheter/politik/har-styr-s-med-c-och-v-raden-till-andersson/",
-      "description": "Magdalena Andersson har inte lyckats sy ihop en regering, och nu ligger bollen hos Ulf Kristersson. Expressen har talat med två socialdemokratiska lokalpolitiker som själva leder koalitioner där C och V ingår. Här är deras tips för att lyckas. – Vi får ta bort prestige, säger Marian Gustavsson, kommunstyrelsens ordförande i Forshaga.",
-      "pubDate": "2026-11-08T16:55:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
       ]
     },
     {
@@ -281,17 +240,52 @@
       ]
     },
     {
-      "title": "Andersson (S) säger nej till Vänsterpartiet i regeringen",
-      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-har-kallat-till-presstraff/",
-      "description": "Socialdemokraternas ledare Magdalena Andersson vill inte ha med Vänsterpartiet regeringen.&nbsp; Hon lovar dock att V ska få inflytande över politiken.&nbsp; – Deras väljare ska ju naturligtvis räknas. Inom S finns dock en oro för att V ska säga nej, erfar Expressen.&nbsp; Centerpartiet ”vill se helheten” innan man kommenterar beskedet.&nbsp;",
-      "pubDate": "2026-11-08T15:55:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "S-ledaren: ”Går i full opposition mot en Tidö 2-regering”",
+      "link": "https://www.dn.se/sverige/s-ledaren-gar-i-full-opposition-mot-en-tido-2-regering/",
+      "description": "S-ledaren Magdalena Andersson utesluter helt att samarbeta eller förhandla med en regering som består av M, L, KD och C, skriver hon på Instagram. ”Vi skulle gå i full opposition mot en Tidö 2-regering.” ”Man får hoppas att det finns kloka krafter i Socialdemokraterna som kan temperera de utspel som nu görs i stridens hetta”, skriver Gunnar Strömmer, (M) i en kommentar.",
+      "pubDate": "2026-11-08T09:17:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "V",
-        "C"
+        "M"
+      ]
+    },
+    {
+      "title": "Insändare. Inför krav för riksdagsledamöter",
+      "link": "https://www.dn.se/insandare/infor-krav-for-riksdagsledamoter/",
+      "description": "INSÄNDARE. Lämpligheten i att en person som vänsterpartisten Mohamed Ali ska sitta i riksdagen bör kunna ifrågasättas. Vi behöver lagstadgade krav på språklig förmåga, grundläggande samhällskunskap och förståelse för riksdagsuppdraget, skriver Necati Kanat.",
+      "pubDate": "2026-11-08T05:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kulturdebatt. ”Nej Sara Martinsson, arenakonserter ska inte förbjudas”",
+      "link": "https://www.dn.se/kultur/nej-sara-martinsson-arenakonserter-ska-inte-forbjudas/",
+      "description": "De små och de stora scenerna står inte mot varandra. Arenaindustrin är så mycket mer än enbart kultur, menar Kristofer Åkesson i en replik till Sara Martinsson.",
+      "pubDate": "2026-11-07T13:16:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Majoritet av väljarna tror att Andersson misslyckas",
+      "link": "https://www.dn.se/sverige/majoritet-av-valjarna-tror-att-andersson-misslyckas/",
+      "description": "En klar majoritet av väljarna tror inte att Magdalena Andersson lyckas med att bilda en regering. Det visar en mätning från DN/Ipsos. Men hoppet lever ändå bland de rödgröna sympatisörerna.",
+      "pubDate": "2026-11-07T12:15:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     }
   ],
