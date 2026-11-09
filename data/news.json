@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T10:30:20.055294Z",
+  "updated_at": "2026-11-09T20:57:56.962211Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,215 +79,192 @@
   ],
   "news": [
     {
-      "title": "Insändare. S bör släppa fram en alliansregering i minoritet",
-      "link": "https://www.dn.se/insandare/s-bor-slappa-fram-en-alliansregering-i-minoritet/",
-      "description": "INSÄNDARE. Socialdemokraterna bör släppa fram en minoritetsregering efter att ha slutit ett avtal med de gamla allianspartierna. En sådan överenskommelse skulle kunna bli grunden för att vinna en vänsterseger i valet 2030 med Socialdemokraterna, Miljöpartiet och Vänsterpartiet, skriver socialdemokraten Kalle Petré.",
-      "pubDate": "2026-11-09T10:15:43Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "MP"
-      ]
-    },
-    {
-      "title": "Insändare. S står för politisk dubbelmoral",
-      "link": "https://www.dn.se/insandare/s-star-for-politisk-dubbelmoral/",
-      "description": "INSÄNDARE. Det som beskrivs som demokratiskt självklart när det gäller Vänsterpartiet blir något helt annat när SD kommer på tal. Väljarnas röster förtjänar att tas på lika stort allvar av Socialdemokraterna, skriver Karin Ådahl.",
-      "pubDate": "2026-11-09T09:53:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "C-topparna splittrade om vägvalet: S eller M",
-      "link": "https://www.expressen.se/nyheter/politik/c-topparna-splittrade-om-vagvalet-s-eller-m/",
-      "description": "Centerpartiet skakas av en intern konflikt om vägvalet i regeringsfrågan, erfar Expressen. Partiet är splittrat – ända upp i den högsta ledningen. –&nbsp;Thand Ringqvist och Ådahl står på helt olika sidor, säger en C-källa.",
-      "pubDate": "2026-11-09T09:48:58Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Inte hängt med i regeringsbildningen? Detta har hänt",
-      "link": "https://www.dn.se/sverige/inte-hangt-med-i-regeringsbildningen-detta-har-hant/",
-      "description": "De senaste dagarna har svensk toppolitik präglats extra mycket av olika utspel om vem som kan tänka sig samarbeta med vem. Här är en sammanfattning av läget efter 57 dagar utan ny regering.",
-      "pubDate": "2026-11-09T09:39:16Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "V-toppen går till attack: ”Då är det bättre med Kristersson”",
-      "link": "https://www.expressen.se/nyheter/politik/v-toppen-gar-till-attack-da-ar-det-battre-med-kristersson/",
-      "description": "Vänsterpartiet är besviket efter Socialdemokraternas regeringsbesked. Vice partiledare Ida Gabrielsson anklagar Centerpartiet för ett ”stort svek” – och varnar för att partiet öppnar dörren för Sverigedemokraterna. – Ska man ha ett högerpolitiskt paket är det ju bättre att Ulf Kristersson är statsminister, säger Ida Gabrielsson.",
-      "pubDate": "2026-11-09T09:38:03Z",
+      "title": "Bodström: S och M kan dela på statsministerposten",
+      "link": "https://www.expressen.se/nyheter/politik/bodstrom-s-och-m-kan-dela-pa-statsministerposten/",
+      "description": "Socialdemokraterna och Moderaterna borde bilda regering tillsammans. Det tycker tidigare S-ministern Thomas Bodström som vill att partiledarna ska dela på statsministerposten. – De kan köra två år var, säger han.",
+      "pubDate": "2026-11-09T20:27:42Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
         "M",
-        "SD",
-        "V",
-        "C",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "V-toppens oro efter S-beskedet: ”Ska överträffa Kristersson\"",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=390bd46e-cc55-4b06-af2b-8c556f60eec0",
-      "description": "V-toppens oro",
-      "pubDate": "2026-11-09T09:08:59Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Gabrielsson: Jättenervös för hur det här ska sluta",
+      "link": "https://www.sverigesradio.se/artikel/9337314",
+      "description": "Vänsterpartiet håller fast vid kongressbeslutet att inte släppa fram en S-ledd regering med Magdalena Andersson som statsminister om partiet inte självt ingår. Socialdemokraterna säger att V kan få inflytande utan ministerposter och uppmanar partiet att tänka om. V:s vice partiledare Ida Gabrielsson är orolig för regeringsbildningen: ”Jättenervös. Jag tycker det är väldigt beklagligt att vi inte gjorde mer innan valet.”",
+      "pubDate": "2026-11-09T20:15:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "9 november: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/9-november-missa-inte-dagens-nyheter/",
+      "description": "Oro inom Vänsterpartiet, chockprognos för elpriset och raset för techjätten – här är dagens nyheter.",
+      "pubDate": "2026-11-09T20:11:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Företagarna: Kräver att småföretag får stöd när elpriserna blir dyrare",
+      "link": "https://www.sverigesradio.se/artikel/9337601",
+      "description": "Organisationen Företagarna kräver att regeringen även kompenserar småföretag för de höga skenande elpriserna i södra Sverige. ”De är lika beroende som hushåll av rimliga och stabila elpriser”, säger Andre Nilsson, energiexpert på Företagarna. ”Man vet inte hur det ska sluta. Man måste sälja mycket bullar och kakor för att ha råd med elen”, säger bagaren Emilia Blixt i Malmö. Ekot har sökt energiminister Ebba Busch.",
+      "pubDate": "2026-11-09T20:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "KD"
+      ]
+    },
+    {
+      "title": "Max Hjelm: Robyn talar nog för många vänsterväljare – lyssnar Nooshi Dadgostar?",
+      "link": "https://www.dn.se/ledare/max-hjelm-robyn-talar-nog-for-manga-vanstervaljare-lyssnar-nooshi-dadgostar/",
+      "description": "Vänsterpartiet ser ut att ställas inför ett obekvämt beslut. Väljer de att påverka Sveriges riktning, eller möjliggöra en Tidöregering 2.0?",
+      "pubDate": "2026-11-09T19:58:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Stor oro i V efter nobben från S-ledaren: ”Har gått helt överstyr”",
+      "link": "https://www.dn.se/sverige/stor-oro-i-v-efter-nobben-fran-s-ledaren-har-gatt-helt-overstyr/",
+      "description": "Det finns en stor oro i Vänsterpartiet över att Centern är på väg att byta sida, enligt källor i V-toppen – men själva tänker de inte vika ner sig om ministerposter. – Att vi inte får vara med i en regering är befängt, säger en vänsterpartist. Samtidigt har V-ledningen i ett internt mejl uppmanat sina företrädare att inte prata med journalister.",
+      "pubDate": "2026-11-09T19:24:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "V nobbar möte: ”Man satte ju stopp för det vi hade börjat”",
+      "link": "https://www.sverigesradio.se/artikel/9337571",
+      "description": "Enligt uppgift till Ekot har partiledarna för Socialdemokraterna, Centerpartiet och Miljöpartiet under måndagen haft möte på en konferensanläggning utanför Stockholm, något som Dagens Nyheter var först med att berätta. V:s ledare var inbjuden, men valde att inte delta, uppger en S-källa för Ekot. Det efter helgens besked från Magdalena Andersson om att Vänsterpartiet inte ska ingå i en tänkt rödgrön regering. ”Man satte ju stopp för det arbetet vi hade börjat”, säger Ida Gabrielsson (V). ”Vi var väldigt överens om att inte överraska varandra med presskonferenser”, fortsätter hon.",
+      "pubDate": "2026-11-09T18:58:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Furtenbach: ”Tydlig stress på rödgröna sidan”",
+      "link": "https://www.sverigesradio.se/artikel/9337548",
+      "description": "Vänsterpartiet står fast vid kravet på ministerposter och säger nej till att bli stödparti åt en S-ledd regering. Samtidigt beskrivs läget som stressat på den rödgröna sidan, medan oro också hörs inom Centerpartiet om att partiet kan släppa fram Ulf Kristersson. Enligt Ekots Fredrik Furtenbach kan ett sidbyte bli en chock för många C-väljare, trots att partiledningen kan hoppas reparera förtroendet.",
+      "pubDate": "2026-11-09T17:47:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "S-toppen om låsningarna: ”Vi har gjort så mycket vi kan”",
+      "link": "https://www.dn.se/sverige/s-toppen-om-lasningarna-vi-har-gjort-sa-mycket-vi-kan/",
+      "description": "Efter de senaste dagarnas utspel från både Centern och Socialdemokraterna är läget frostigare än på länge mellan S, C, MP och V. – Vi har gjort så mycket vi kan för att lätta upp låsningarna, säger Socialdemokraternas partisekreterare Tobias Baudin.",
+      "pubDate": "2026-11-09T16:42:44Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Statsvetare: ”Då kan V överge regeringskravet”",
+      "link": "https://www.svt.se/nyheter/inrikes/statsvetare-da-kan-v-overge-regeringskravet",
+      "description": "Vänsterpartiet kan inte ändra sig i regeringsfrågan, hävdar vice partiledaren Ida Gabrielsson med hänvisning till ett kongressbeslut. Men det stämmer inte, menar statsvetare som SVT pratat med. – Jag tror att det finns mycket som talar för att Vänsterpartiet kan överväga att släppa kravet, säger Jenny Madestam.",
+      "pubDate": "2026-11-09T16:31:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "V: Rödgröna fyrpartisamtal inställda – skyller på C",
+      "link": "https://www.dn.se/sverige/rodgrona-fyrpartisamtal-installda-skyller-pa-c/",
+      "description": "Efter de senaste dagarnas besked från Centerpartiet och Socialdemokraterna i regeringsfrågan har fyrpartssamtalen mellan C, V, MP och S kraschat, enligt V-toppen Ida Gabrielsson. – I grund och botten är det Centerpartiets besked som gör att det ställs in, säger hon till TV4 Nyheterna.",
+      "pubDate": "2026-11-09T16:19:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Är S-ledarens blixtbesked tecken på panik?",
+      "link": "https://www.dn.se/podd/alskade-politik/ar-s-ledarens-blixtbesked-tecken-pa-panik/",
+      "description": "Nu är Ulf Kristersson med i regeringsmatchen, efter SD:s vändning – och de rödgröna oroas över att Centern ska byta sida.",
+      "pubDate": "2026-11-09T15:58:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M"
       ]
     },
     {
-      "title": "Gissén: Sverige är inte närmare en rödgrön regering",
-      "link": "https://www.sverigesradio.se/artikel/9337014",
-      "description": "Sverige är inte närmare en rödgrön regering, och även på den borgerliga sidan finns stora utmaningar, säger Ekots politiska kommentator Helena Gissén efter de senaste dagarnas politiska utspel. Centerpartiet har öppnat för att även kunna stödja Ulf Kristersson, beroende på vilken politik han presenterar. På söndagen meddelade Socialdemokraternas partiledare Magdalena Andersson att hon vill bilda regering tillsammans med Centerpartiet och Miljöpartiet, men utan Vänsterpartiet.",
-      "pubDate": "2026-11-09T08:51:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "Ygeman (S): ”Misslyckande för alla fyra partier”",
-      "link": "https://www.svt.se/nyheter/inrikes/ygeman-s-misslyckande-for-alla-fyra-partier",
-      "description": "Socialdemokraterna vill se en regering utan Vänsterpartiet – något Ida Gabrielsson (V) säger är omöjligt. Temperaturen i regeringsförhandlingarna höjs nu. – Det är naturligtvis ett misslyckande för alla fyra partier, säger Anders Ygeman (S) om inte de rödgröna lyckas bilda en regering.",
-      "pubDate": "2026-11-09T07:24:02Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Ygeman (S): ”Det sista V vill se är ännu en Tidö-regering stödd av SD”",
-      "link": "https://www.sverigesradio.se/artikel/9336943",
-      "description": "Socialdemokraternas partiledare Magdalena Andersson gav beskedet på söndagskvällen om att man vill bilda regering med Centerpartiet och Miljöpartiet, men inte Vänsterpartiet. Socialdemokraternas vice gruppledare Anders Ygeman berättar varför det har tagit så lång tid att ge besked om regeringsfrågan, men ser ändå en möjlighet att Vänsterpartiet kommer ändra sig. ”Det sista de vill se är ännu en Tidö-regering stödd på Sverigedemokraterna”, säger vice gruppledaren i P1 Morgon på måndagen.",
-      "pubDate": "2026-11-09T07:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "V om S regeringsbesked: Omöjligt upplägg",
-      "link": "https://www.sverigesradio.se/artikel/9336923",
-      "description": "Socialdemokraterna meddelade under söndagen att de vill bilda regering utan Vänsterpartiet. Ett omöjligt upplägg, enligt Vänsterpartiets vice partiledare Ida Gabrielsson. ”När man väl har öppnat den dörren, att man kan gå över till Sverigedemokraterna, då finns det ju ingen hejd på hur mycket man kan utpressa av sin högerpolitik”, säger Gabrielsson.",
-      "pubDate": "2026-11-09T04:56:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Ledare: Varför tog det så lång tid, Magdalena Andersson?",
-      "link": "https://www.dn.se/ledare/varfor-tog-det-sa-lang-tid-magdalena-andersson/",
-      "description": "Vänsterpartisterna gömmer sig bakom låtsasargument när de stakar ut sina ultimativa krav på ministerposter.",
-      "pubDate": "2026-11-09T04:07:13Z",
+      "title": "V-besked: Nu skrotas omtvistade valfrihetslagen i Stockholm",
+      "link": "https://www.dn.se/sverige/v-besked-nu-skrotas-omtvistade-valfrihetslagen-i-stockholm/",
+      "description": "Lagen om valfrihet i hemtjänsten ska skrotas. Nu ska det rödgröna styret i Stockholms stad utreda hur systemet ska kunna avvecklas.",
+      "pubDate": "2026-11-09T15:57:34Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "V-profiler om kravet: Inget att tjäna på att ”fega ur”",
+      "link": "https://www.expressen.se/nyheter/politik/v-profiler-om-kravet-inget-att-tjana-pa-att-fega-ur/",
+      "description": "Vänsterpartiet har tydliga krav: att sitta i regering eller rösta rött. Och enligt V-veteraner är det lönlöst att byta kurs. – Det vore rent katastrofalt att fega ur när det verkligen gäller, säger tidigare V-ledamoten Stig Henriksson.",
+      "pubDate": "2026-11-09T15:41:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
       "topics": [
-        "S",
         "V"
       ]
     },
     {
-      "title": "”Fördel Kristersson eller extraval”",
-      "link": "https://www.svt.se/nyheter/inrikes/fordel-kristersson-eller-extraval",
-      "description": "Magdalena Andersson försöker ta tillbaka det politiska initiativet i regeringsbildningen. Men om Vänsterpartiet står fast vid sina ministerkrav kommer det antingen att leda till att Ulf Kristersson blir statsminister eller extraval.",
-      "pubDate": "2026-11-08T21:56:15Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "V: Hoppar av möten med rödgröna partier",
+      "link": "https://www.expressen.se/nyheter/politik/v-hoppar-av-moten-med-rodgrona-partier/",
+      "description": "Inplanerade möten med de rödgröna partierna har ställts in.&nbsp; Det kommer efter Magdalena Anderssons (S) regeringsbesked i går.&nbsp; – Nu har Magdalena Andersson gett besked att vi inte ingår i hennes regering. Alla dessa frågor behöver ställas till henne, säger V-ledaren Nooshi Dadgostar.",
+      "pubDate": "2026-11-09T15:37:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "M",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ida Gabrielsson (V): ”Otroligt dumt”",
-      "link": "https://www.sverigesradio.se/artikel/9336899",
-      "description": "Socialdemokraterna vill bilda regering utan Vänsterpartiet, något som Vänsterpartiets vice partiledare Ida Gabrielsson kallar ”otroligt dumt”. Enligt Gabrielsson riskerar upplägget att göra regeringen beroende av Centerpartiet och i förlängningen Sverigedemokraterna, medan Socialdemokraterna står fast vid sitt besked. I Ekots intervju varnar hon för att en öppnad dörr mot SD kan leda till krav och utpressning från högern.",
-      "pubDate": "2026-11-08T20:56:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Andersson fruktar Centerns inre strid",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-andersson-fruktar-centerns-inre-strid/",
-      "description": "Magdalena Andersson befarar att Centern är på väg att falla för Jimmie Åkessons förslag om en borgerlig fyrpartiregering. S-ledarens utspel att ställa V utanför regeringen är ett försök att få C att stanna kvar på hennes sida. Frågan är brännande eftersom nästa statsministeromröstning kan gälla Ulf Kristersson.",
-      "pubDate": "2026-11-08T19:08:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Andersson: Vill regera med C och MP – utan V",
-      "link": "https://www.svt.se/nyheter/inrikes/andersson-vill-regera-med-c-och-mp-utan-v",
-      "description": "Socialdemokraterna vill bilda regering tillsammans med Centerpartiet och Miljöpartiet, med Vänsterpartiet som stödparti. – Vänsterpartiets vilja att sitta regering handlar om att man vill säkerställa sitt inflytande. Det går att genomföra på andra sätt än att man innehar ministerposter, säger partiledare Magdalena Andersson (S) på en pressträff.",
-      "pubDate": "2026-11-08T18:47:35Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
+        "V"
       ]
     }
   ],
@@ -381,6 +358,59 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Hanif Bali om etnicitet och svenskhet | Veckopanelen",
+      "link": "https://pod.space/kvartal/hanif-bali-om-etnicitet-och-svenskhet-veckopanelen",
+      "description": "Svenskhetsdebatten inom Sverigedemokraterna lever vidare efter Jimmie Åkessons artikel om att den som inte följer principprogrammet får kliva av. Bo Rothstein har skrivit att även vänstern har försvarat blod och jord, och ger tre exempel: samepolitiken, där härkomst ger rätt till stora markområden, palestinska flyktingars ärvda flyktingstatus och kravet att återvända till jorden, samt de etniska fransmän som tvingades lämna Algeriet 1962. Hanif Bali menar att etnicitet accepteras för alla utom svensken, och att kulturnationalismen Sverigedemokraterna företräder bara är ett förstadium till etnonationalism. Hanna Mattsson Wagenius frågar vad begreppet ska användas till och säger att hon aldrig skulle tveka att beskriva både Rothstein och Bali som svenskar. ”Men jag är inte svensk. Jag är inte etnisk svensk”, svarar Bali, som kallar sina barn halvsvenskar. Rothstein invänder mot Thomas Gürs bild av en öppen svenskhet och berättar om sin far, som nekades medborgarskap 1944 trots egen försörjning och svensk hustru. Är etnicitet föränderlig eller inte? Och vad ska svenskhetsbegreppet användas till politiskt?",
+      "pubDate": "2026-11-09T18:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Hanif Bali sågar talmannen | Veckopanelen",
+      "link": "https://pod.space/kvartal/hanif-bali-sagar-talmannen-veckopanelen",
+      "description": "Riksdagen har röstat nej till Elisabeth Thand Ringqvist som statsminister, och Andreas Norlén konstaterar att det blir svårt, sannolikt mycket svårt, men kanske inte helt omöjligt. Därefter fick Ulf Kristersson uppdraget att sondera. Hanif Bali tror att beskedet till talmannen blir att Kristersson inte kan få igenom sin första budget. Han menar dessutom att Norlén har en egen tolkning av grundlagen, där partiledarna får agera springpojke åt talmannen: ”Norlén ska sluta vara tomatodlande fikare och börja klubba och ta oss till extra val.” Hanna Mattsson Wagenius påminner om att talmannen redan har klubbat två gånger och vill se om Kristersson kan sy ihop en lösning – hon köper inte grisen i säcken. Bo Rothstein tror att Kristersson säger sig ha en regering som riksdagen tolererar, och att makten då förskjuts från regeringen till utskotten. Men om Centerpartiet håller fast vid att Sverigedemokraterna inte får vara med på båten blir det, enligt Bali, en fortsatt övergångsregering utan egen politik. Ska talmannen klubba fram ett extraval i stället?",
+      "pubDate": "2026-11-09T16:30:47Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "SD",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Är S-ledarens blixtbesked tecken på panik?",
+      "link": "https://pod.space/alskadepolitik/ar-s-ledarens-blixtbesked-tecken-pa-panik",
+      "description": "Nu är Ulf Kristersson med i regeringsmatchen, efter SD:s vändning – och de rödgröna oroas över att Centern ska byta sida.",
+      "pubDate": "2026-11-09T15:58:00Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "333. Anderssons sista strid",
+      "link": "https://pod.space/politikrummet/333-anderssons-sista-strid",
+      "description": "Plötsligt händer allt på en gång i regeringsbildningen. Kommer Thand Ringqvist få med sig Centerpartiet högerut?&nbsp; I studion: Filippa Rogvall, Anette Holmqvist, Viktor Barth-Kron och Max V Karlsson. Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-11-09T14:48:20Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Djupet: SD och striden om svenskheten",
       "link": "https://pod.space/kvartal/djupet-sd-och-striden-om-svenskheten",
@@ -522,61 +552,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Veckopanelen: Vad vinner de på att veva mot talmannen?",
-      "link": "https://pod.space/kvartal/veckopanelen-vad-vinner-de-pa-att-veva-mot-talmannen",
-      "description": "Veckopanelen med Gunnar Wetterberg, Sakine Madon och Jan Söderqvist under ledning av Staffan Dopping. Till slut kom talmannen loss och tillkännagav en ny statsministeromröstning, men var det meningsfullt att i en hel vecka låta centerledaren sondera för en mittenregering? Moderaterna rusar uppåt i senaste opinionsmätningen. I Kenya samlades religiösa klanprofiler för att be för Vänsterpartiets kryssraket Mohamed Ali. SVT:s dokumentär om sexprogrammet Fräcka fredag väcker debatt efter nästan 40 år, och datamiljardären Bill Gates varnar för att AI kommer att orsaka 20 år med söndring och kaos.",
-      "pubDate": "2026-10-31T04:40:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
-        "V",
-        "Opinion",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Mobbar talmannen Centerledaren?",
-      "link": "https://pod.space/alskadepolitik/mobbar-talmannen-centerledaren",
-      "description": "Varför ska Elisabeth Thand Ringqvist gå till statsministeromröstning när ingen tror hon kan bli vald? Och varför bestämde sig Jimmie Åkesson att det var dags att sätta ner foten i SD:s svenskhetsbråk?",
-      "pubDate": "2026-10-30T12:26:47Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "329. Talmannens oväntade besked",
-      "link": "https://pod.space/politikrummet/329-talmannens-ovantade-besked",
-      "description": "Extraavsnitt direkt från riksdagen.&nbsp; Kommer nästa statsminister heta Elisabeth Thand Ringqvist? Vad betyder talmannens besked för den rödgröna regeringsbildningen? I riksdagens poddstudio: Max V Karlsson och Anette Holmqvist. Producent: Anna Westman Swantesson. Ansvarig utgivare: Klas Granström.",
-      "pubDate": "2026-10-29T16:45:10Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "328. Rödgrön regering efter nyår",
-      "link": "https://pod.space/politikrummet/328-rodgron-regering-efter-nyar",
-      "description": "Frågepodd: Hur pressad är talmannen? Och borde Magdalena Andersson stötta en alliansregering – för att hålla Sverigedemokraterna borta? I studion: Filippa Rogvall, Max V Karlsson och Anette Holmqvist Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-10-29T11:11:26Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "SD"
       ]
     }
   ]
