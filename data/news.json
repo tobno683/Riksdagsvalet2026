@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T20:57:56.962211Z",
+  "updated_at": "2026-11-10T03:05:57.924793Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,31 @@
     }
   ],
   "news": [
+    {
+      "title": "Tidigare S-ministern: M och S borde regera tillsammans",
+      "link": "https://www.sverigesradio.se/artikel/9337633",
+      "description": "I fler än 50 svenska kommuner styr Socialdemokraterna och Moderaterna tillsammans. Thomas Bodström, som var socialdemokratisk justitieminister mellan år 2000 och 2006, tycker att den konstellationen bör prövas även på nationell nivå. ”Båda partierna skulle ju vara tvungna att kompromissa. Men det är två partier som faktiskt är rätt lika på många sätt”, säger Bodström.",
+      "pubDate": "2026-11-09T23:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "V-toppen om ministerkravet:  Det hade behövt diskuteras",
+      "link": "https://www.expressen.se/nyheter/politik/v-toppen-om-ministerkravet--det-hade-behovt-diskuteras/",
+      "description": "Vänsterpartiet har stått pall i sitt ministerkrav.&nbsp; Men vice partiledare Ida Gabrielsson säger att de varit redo att förhandla om allt. – Det hade vi behövt diskutera ordentligt, säger hon i SVT:s ”Aktuellt”.",
+      "pubDate": "2026-11-09T21:15:56Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Bodström: S och M kan dela på statsministerposten",
       "link": "https://www.expressen.se/nyheter/politik/bodstrom-s-och-m-kan-dela-pa-statsministerposten/",
@@ -170,20 +195,6 @@
       ]
     },
     {
-      "title": "Furtenbach: ”Tydlig stress på rödgröna sidan”",
-      "link": "https://www.sverigesradio.se/artikel/9337548",
-      "description": "Vänsterpartiet står fast vid kravet på ministerposter och säger nej till att bli stödparti åt en S-ledd regering. Samtidigt beskrivs läget som stressat på den rödgröna sidan, medan oro också hörs inom Centerpartiet om att partiet kan släppa fram Ulf Kristersson. Enligt Ekots Fredrik Furtenbach kan ett sidbyte bli en chock för många C-väljare, trots att partiledningen kan hoppas reparera förtroendet.",
-      "pubDate": "2026-11-09T17:47:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "S-toppen om låsningarna: ”Vi har gjort så mycket vi kan”",
       "link": "https://www.dn.se/sverige/s-toppen-om-lasningarna-vi-har-gjort-sa-mycket-vi-kan/",
       "description": "Efter de senaste dagarnas utspel från både Centern och Socialdemokraterna är läget frostigare än på länge mellan S, C, MP och V. – Vi har gjort så mycket vi kan för att lätta upp låsningarna, säger Socialdemokraternas partisekreterare Tobias Baudin.",
@@ -205,19 +216,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "V: Rödgröna fyrpartisamtal inställda – skyller på C",
-      "link": "https://www.dn.se/sverige/rodgrona-fyrpartisamtal-installda-skyller-pa-c/",
-      "description": "Efter de senaste dagarnas besked från Centerpartiet och Socialdemokraterna i regeringsfrågan har fyrpartssamtalen mellan C, V, MP och S kraschat, enligt V-toppen Ida Gabrielsson. – I grund och botten är det Centerpartiets besked som gör att det ställs in, säger hon till TV4 Nyheterna.",
-      "pubDate": "2026-11-09T16:19:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
       ]
     },
     {
@@ -243,27 +241,26 @@
       "topics": []
     },
     {
-      "title": "V-profiler om kravet: Inget att tjäna på att ”fega ur”",
-      "link": "https://www.expressen.se/nyheter/politik/v-profiler-om-kravet-inget-att-tjana-pa-att-fega-ur/",
-      "description": "Vänsterpartiet har tydliga krav: att sitta i regering eller rösta rött. Och enligt V-veteraner är det lönlöst att byta kurs. – Det vore rent katastrofalt att fega ur när det verkligen gäller, säger tidigare V-ledamoten Stig Henriksson.",
-      "pubDate": "2026-11-09T15:41:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Mats Knutson svarar på dina frågor om svensk politik och regeringsbildningen",
+      "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-svarar-pa-dina-fragor-om-svensk-politik-och-regeringsbildningen",
+      "description": "”Monumentala svek”, släppta regeringskrav och hemliga möten – utanför strålkastarljusen. Det händer mycket i svensk politik just nu, vad undrar du om regeringsbildningen? Chatta med SVT:s inrikespolitiska kommentator Mats Knutson här nedan:",
+      "pubDate": "2026-11-09T14:57:18Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V"
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "V: Hoppar av möten med rödgröna partier",
-      "link": "https://www.expressen.se/nyheter/politik/v-hoppar-av-moten-med-rodgrona-partier/",
-      "description": "Inplanerade möten med de rödgröna partierna har ställts in.&nbsp; Det kommer efter Magdalena Anderssons (S) regeringsbesked i går.&nbsp; – Nu har Magdalena Andersson gett besked att vi inte ingår i hennes regering. Alla dessa frågor behöver ställas till henne, säger V-ledaren Nooshi Dadgostar.",
-      "pubDate": "2026-11-09T15:37:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Här fick V och C samarbetet att fungera",
+      "link": "https://www.dn.se/sverige/har-fick-v-och-c-samarbetet-att-fungera/",
+      "description": "På riksplan verkar det omöjligt. Men i en av Sveriges större kommuner har Centern och Vänsterpartiet löst upp knutarna. – Det hela gick väldigt snabbt och smidigt, säger Petri Salonen (C) om förhandlingarna.",
+      "pubDate": "2026-11-09T14:03:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
         "V"
       ]
     }
@@ -333,16 +330,6 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "Rödgrön politik före fler V-ministrar",
-      "link": "https://www.dagensarena.se/opinion/rodgron-politik-fore-fler-v-ministrar/",
-      "description": "Vad är värst? Ny Tidöregering eller förklara varför kongressbeslut inte kan uppfyllas? Inlägget Rödgrön politik före fler V-ministrar dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-06T00:30:51Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
     },
     {
       "title": "Klockan tickar för Andersson",
