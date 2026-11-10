@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T18:44:52.619808Z",
+  "updated_at": "2026-11-10T23:48:41.254763Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,94 @@
     }
   ],
   "news": [
+    {
+      "title": "Jimmie Åkesson vill vara oppositionsparti i mitten",
+      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-vill-vara-oppositionsparti-i-mitten",
+      "description": "Jimmie Åkesson vill att Sverigedemokraterna ska vara ett oppositionsparti, men inte utan inflytande. I Aktuellt säger SD-ledaren att partiet kan förhandla med både höger och vänster, men inte ingå budgetavtal i förväg. – Vill man ha stöd för sin politik i riksdagen är vi öppna för att förhandla, säger Åkesson.",
+      "pubDate": "2026-11-10T21:32:35Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Kristerssons oro efter mötet med Zelenskyj",
+      "link": "https://www.expressen.se/nyheter/varlden/kristersson-risk-att-lander-spelar-solo-om-ukraina/",
+      "description": "Statsminister Ulf Kristersson håller med president Volodymyr Zelenskyj om att Europa bör utse en gemensam företrädare för fredsförhandlingarna. Själv ställer han dock inte upp som kandidat.",
+      "pubDate": "2026-11-10T21:02:03Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson: ”Vi kommer få inflytande”",
+      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-vi-kommer-fa-inflytande-v2vpd/",
+      "description": "SD är redo att gå i full opposition.&nbsp; Nu måste Centerpartiet bestämma sig för vilken riktning de vill gå, säger partiledare Jimmie Åkesson i SVT:s Aktuellt.&nbsp; – Vi kommer få inflytande på ett eller annat sätt, säger han.&nbsp;",
+      "pubDate": "2026-11-10T20:42:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Chockhöjda hyror i Berlin väcker krav på förstatligande",
+      "link": "https://www.dn.se/varlden/chockhojda-hyror-i-berlin-vacker-krav-pa-forstatligande/",
+      "description": "BERLIN. Somliga berlinare sitter på gamla förmånliga hyresavtal. Andra är nyinflyttade och betalar dubbelt så höga hyror. Bristen på bostäder ledde till storseger för vänsterpartiet Die Linke i lokalvalet. Nu kräver partiet ett förstatligande av de stora fastighetsbolagen.",
+      "pubDate": "2026-11-10T20:13:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson: \"Vi kommer få inflytande\"",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4d15da08-abd0-4c87-8adf-7328eafe0174",
+      "description": "Jimmie Åkessons ord i SVT:s ”Aktuellt”",
+      "pubDate": "2026-11-10T20:10:23Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Statsvetare: Ingen lag stoppar V från att bryta kongressbeslut",
+      "link": "https://www.dn.se/sverige/statsvetare-ingen-lag-stoppar-v-fran-att-bryta-kongressbeslut/",
+      "description": "Vänsterpartiet skulle kunna bryta mot kongressbeslutet om krav på ministrar. – Det finns ingen lag mot det. Men det skulle kosta på andra sätt, säger Niklas Bolin, professor i statsvetenskap vid Mittuniversitetet. V vill inte förlora sitt starkaste kort i förhandlingarna, och att gå emot kongressbeslutet skulle kunna drabba förtroendet för partiledningen.",
+      "pubDate": "2026-11-10T19:00:37Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Susanne Nyström: Romina Pourmokhtari gör en katastrofal felbedömning",
+      "link": "https://www.dn.se/ledare/susanne-nystrom-romina-pourmokhtari-gor-en-katastrofal-felbedomning/",
+      "description": "Det går att få för sig att SD:s stöd är gratis, nu när Jimmie Åkesson har sagt sig acceptera Ulf Kristersson som statsminister utan att ställa några krav. Inget kan vara mer fel.",
+      "pubDate": "2026-11-10T18:44:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Kritik mot SD-tappet: ”Slöjförbud och tjej i rånarluva går inte ihop”",
       "link": "https://www.dn.se/sverige/kritik-mot-sd-tappet-slojforbud-och-tjej-i-ranarluva-gar-inte-ihop/",
@@ -181,101 +269,22 @@
       "topics": [
         "SD"
       ]
-    },
-    {
-      "title": "Åkesson: Ny regering kan förhandla budget med oss",
-      "link": "https://www.dn.se/sverige/akesson-ny-regering-kan-forhandla-budget-med-oss/",
-      "description": "Sverigedemokraterna är redo att släppa fram Ulf Kristersson (M) i en regering där Centerpartiet ingår. Men det betyder inte att SD vill släppa sitt inflytande. – Vill de ha stöd för sin budget behöver man sannolikt söka stöd hos riksdagen. Vi är en part där, säger Jimmie Åkesson.",
-      "pubDate": "2026-11-10T16:08:54Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Furtenbach: ”Det kan gå ganska fort nu”",
-      "link": "https://www.sverigesradio.se/artikel/9338254",
-      "description": "Ulf Kristerssons chanser att bli statsminister har ökat, samtidigt som Magdalena Andersson vill vänta med en omröstning. Enligt Ekots politikkommentator Fredrik Furtenbach har SD:s besked och Centerns hållning skapat oro i de rödgröna partierna, medan C internt uppges väga mellan båda kandidaterna. ”Jag tror att även om processen inte blir helt klar så tror jag att det kan gå ganska fort nu innan vi ser vartåt det lutar. Det är opinionen inom Centern som kan avgöra detta”, säger Furtenbach om regeringsbildningen.",
-      "pubDate": "2026-11-10T16:08:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson får en vecka till av talmannen",
-      "link": "https://www.dn.se/sverige/kristersson-far-en-vecka-till-s-ledaren-vill-ha-ny-chans/",
-      "description": "Ulf Kristersson får ytterligare en vecka på sig att sondera för en ny regering. Därefter står M-ledaren redo för en statsministeromröstning, skriver han på X.",
-      "pubDate": "2026-11-10T16:07:38Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C-ledaren: Finns inget jag föredrar",
-      "link": "https://www.expressen.se/nyheter/politik/c-ledaren-finns-inget-jag-foredrar/",
-      "description": "Centerpartiet har en vågmästarroll i regeringsbildningen.&nbsp; Men partiledaren vägrar svara på om de ska gå höger eller vänster. – Det finns ingenting jag föredrar utan det finns massa alternativ som diskuteras just nu, säger Elisabeth Thand Ringqvist.",
-      "pubDate": "2026-11-10T15:50:23Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Händer det verkligen något på S-ledarens sida?",
-      "link": "https://www.dn.se/podd/alskade-politik/hander-det-verkligen-nagot-pa-s-ledarens-sida/",
-      "description": "Andersson vill inte att talmannen ska släppa fram Kristersson till omröstning: för att det händer saker hos de rödgröna. Men vad? Spelar Centerpartiet bara teater när de överväger att byta sida?",
-      "pubDate": "2026-11-10T15:38:50Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Åkesson: SD kan fälla borgerlig regering i opposition",
-      "link": "https://www.sverigesradio.se/artikel/9338175",
-      "description": "Jimmie Åkesson säger att SD räknar med inflytande över en eventuell borgerlig fyrpartiregering, även om partiet hamnar i opposition. Samtidigt öppnar han för att fälla en sådan regering om SD inte får gehör, medan övriga borgerliga partier ännu inte presenterat några förslag. På pressträffen gav Åkesson också ett undvikande besked om Richard Jomshofs framtid efter den interna striden om svenskhet. Ekot har sökt Richard Jomshof.",
-      "pubDate": "2026-11-10T15:37:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Talmannen ger Kristersson en vecka till att sondera",
-      "link": "https://www.sverigesradio.se/artikel/9338201",
-      "description": "• Ulf Kristersson (M) ska redovisa sitt sonderingsuppdrag för att bilda regering på tisdag den 17 november, enligt ett besked från talman Andreas Norlén. • Kristersson skulle ursprungligen ha rapporterat senast den 10 november. • Norlén säger i ett skriftligt uttalande att han är mån om en väl förankrad process och för löpande samtal med olika partiföreträdare, men efter Kristerssons rapport kommer han samtala med samtliga övriga partiledare.",
-      "pubDate": "2026-11-10T15:29:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Präglar politik Svenska kyrkans tillsyn?",
+      "link": "https://ledarsidorna.se/praglar-politik-svenska-kyrkans-tillsyn/",
+      "description": "Strängnäs domkapitel inledde under sommaren ett tillsynsärende mot statsminister Ulf Kristerssons hustru Birgitta Ed. Tillsynen skall utreda om, och i sådana fall i vilken utsträckning, som Ed brutit mot prästlöftena. Ärendet har dragit ut på tiden och togs inför oktobermötet istället bort från dagordningen trots att beredning fortfarande pågår. Källor inom stiftet menar att beredningen [&#8230;]",
+      "pubDate": "2026-11-10T19:47:51Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Vad är det för fel på Magdalena Andersson?",
       "link": "https://blog.zaramis.se/2026/11/09/vad-ar-det-for-fel-pa-magdalena-andersson/",
