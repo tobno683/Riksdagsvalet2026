@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:17:00.801399Z",
+  "updated_at": "2026-11-11T18:47:53.889960Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,193 +79,212 @@
   ],
   "news": [
     {
-      "title": "C splittrat om vägvalet: ”Jättetufft just nu”",
-      "link": "https://www.expressen.se/nyheter/politik/c-splittrat-om-vagvalet-jattetufft-just-nu/",
-      "description": "Minst fem C-distrikt säger nu tydligt nej till Kristerssons högeralternativ, erfar Expressen.&nbsp; – Det blir som att vi har ljugit väljarna rakt upp i ansiktet, säger en källa. Men partiet är splittrat och C-ledningen håller digitala möten löpande.",
-      "pubDate": "2026-11-11T10:29:41Z",
+      "title": "L-källor: Därför var Mohamsson tyst om Lundsberg",
+      "link": "https://www.expressen.se/nyheter/politik/l-kallor-darfor-var-mohamsson-tyst-om-lundsberg/",
+      "description": "Det har blåst rejält kring internatskolan Lundsberg. Men från utbildningsminister Simona Mohamsson har det varit tyst. Förklaringen: Liberalernas partiledare vågade inte gå emot egna ledamoten Martin Melin, vars son går på skolan, enligt uppgifter till Expressen.",
+      "pubDate": "2026-11-11T18:41:22Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M"
+        "L"
       ]
     },
     {
-      "title": "Åkesson öppnar för att dra in stödet till Riks",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-oppnar-for-att-dra-in-stodet-till-riks/",
-      "description": "Jimmie Åkesson öppnar för att dra in miljongåvan till den SD-nära mediekanalen Riks. – Planen har hela tiden har varit att de ska stå på egna ben, säger Åkesson.",
-      "pubDate": "2026-11-11T10:09:35Z",
+      "title": "Ilska inom Vänsterpartiet: Mohamed Ali särbehandlas",
+      "link": "https://www.expressen.se/nyheter/sverige/ilska-inom-vansterpartiet-mohamed-ali-sarbehandlas/",
+      "description": "Mohamed Ali tog sig in i riksdagen genom att bryta mot en av Vänsterpartiets mest centrala stadgar. Trots det skyddas han av partiledningen med skräddarsydda lösningar och en skyddsmur av pressfolk. Särbehandlingen vållar starka reaktioner i partiet. – Man förkastar hela sin ideologi för att rädda en person, säger Frida Holmgren, tidigare vice ordförande för V i Dalarna.",
+      "pubDate": "2026-11-11T17:28:50Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "SVT/Verian: S sjunker i opinionen – lägsta siffran under Andersson",
-      "link": "https://www.svt.se/nyheter/inrikes/svtverian-s-sjunker-i-opinionen-lagsta-siffran-under-andersson",
-      "description": "Samtidigt som Magdalena Andersson försöker få ihop en regering sjunker Socialdemokraternas väljarstöd. I SVT/Verians novembermätning får partiet sin lägsta notering sedan Andersson tillträdde hösten 2021. – Den tilltagande kritiken mot S hantering av regeringsbildningen har troligen påverkat stödet för partiet, säger Per Söderpalm, opinionsansvarig på Verian.",
-      "pubDate": "2026-11-11T09:58:33Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Förläng rabatten på månadskort",
-      "link": "https://www.dn.se/insandare/forlang-rabatten-pa-manadskort/",
-      "description": "INSÄNDARE. Landets alla regioner bör få fortsatt stöd att fortsätta hålla låga priser på kollektivtrafikkorten. Därför bör riksdagens nya rödgröna majoritet ta ett riksdags­initiativ och avsätta pengar redan nu till nästa års budget, skriver Torbjörn Vennström.",
-      "pubDate": "2026-11-11T09:40:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Väljarna om V:s ministerkrav: ”Var realistiska”",
-      "link": "https://www.dn.se/sverige/valjarna-om-vs-ministerkrav-var-realistiska/",
-      "description": "Efter att Magdalena Andersson (S) sagt att hon vill bilda regering enbart med C och MP ökar pressen på Vänsterpartiet att överge sitt krav på ministerposter. Men flera av partiets distriktsordförande vill stå fast vid linjen.",
-      "pubDate": "2026-11-11T09:35:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
         "V"
       ]
     },
     {
-      "title": "Rödgrönt möte i dag",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=682bc00d-04ac-4293-a044-5fabcdceda21",
-      "description": "MP: ”Dyrka upp låsningar”",
-      "pubDate": "2026-11-11T08:55:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "M-källor: Kommer krävas tid att få över C",
+      "link": "https://www.dn.se/sverige/m-kallor-kommer-kravas-tid-att-fa-over-c/",
+      "description": "Moderaternas försök att övertala Centerpartiet att byta sida lär kräva mer tid än man först trodde, enligt DN:s källor. Problemet är den parlamentariska matematiken: hur ska en M-ledd regering undgå att bli beroende av SD? – Visar det sig sedan omöjligt att styra får man väl avgå, bilda en ny regering eller utlysa ett nyval, säger M-toppen Christofer Fjellner.",
+      "pubDate": "2026-11-11T17:25:13Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "M",
+        "C"
+      ]
     },
     {
-      "title": "Förtroenderekord: Kristerssons högsta – Anderssons lägsta",
-      "link": "https://www.expressen.se/nyheter/politik/fortroenderekord-kristerssons-hogsta-anderssons-lagsta/",
-      "description": "Kristersson har högst ledarskapsbetyg.&nbsp; Och Andersson sjunker i förtroende. I en ny mätning av Infostat visar statsministerkandidaterna topp- och bottenrekord. –&nbsp;Allt talar för att det är väljare i mitten som flyttar på sig, säger analytikern Peter Santesson.",
-      "pubDate": "2026-11-11T08:06:16Z",
+      "title": "Åkesson påverkade intern C-fajt: ”Väldigt pressade”",
+      "link": "https://www.expressen.se/nyheter/politik/akesson-paverkade-intern-c-fajt-valdigt-pressade/",
+      "description": "Jimmie Åkesson (SD) kan ha satt stopp för högervinden – i Centerpartiet. Hans besked i Aktuellt har fått många att tänka om, erfar Expressen. Samtidigt uppges en majoritet av partiets riksdagsgrupp stödja ett sidbyte.",
+      "pubDate": "2026-11-11T16:46:22Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "V öppnar för elstöd till företag – S och SD vill avvakta",
+      "link": "https://www.sverigesradio.se/artikel/9338968",
+      "description": "Vänsterpartiet öppnar för elstöd till företag i vinter, medan Sverigedemokraterna och Socialdemokraterna vill avvakta en ny regering. Frågan är akut för många företagare eftersom dagens elstöd bara gäller hushåll och än så länge året ut. I Skåne berättar bagaren Emilia Blixt om en elräkning på 30 000 kronor – samtidigt som partierna ger olika besked om vad som kan göras.",
+      "pubDate": "2026-11-11T16:33:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Nu letar alla efter nyckeln – här är låsningarna i regeringsfrågan",
+      "link": "https://www.dn.se/sverige/nu-letar-alla-efter-nyckeln-har-ar-lasningarna-i-regeringsfragan/",
+      "description": "Magdalena Andersson nobbar vänsterpartisterna medan Jimmie Åkesson försöker locka över Centern. Plötsligt är alla bollar uppe i luften samtidigt i kampen om regeringsmakten. Men vad innebär de olika alternativen egentligen?",
+      "pubDate": "2026-11-11T16:30:51Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Regera Sverige utan påverkan av extremister",
+      "link": "https://www.dn.se/insandare/regera-sverige-utan-paverkan-av-extremister/",
+      "description": "INSÄNDARE. Samhörigheten i den stora mitten bör vara mycket större än samverkan med två ytterlighetspartier. Med Socialdemokraterna, Moderaterna och Centerpartiet skulle vi få en stabil regering, skriver Roger Klerestam, tidigare ordförande för Liberalerna i Sölvesborg.",
+      "pubDate": "2026-11-11T16:24:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
         "S",
         "M",
+        "C",
+        "L"
+      ]
+    },
+    {
+      "title": "Folkmassor i Madrid hindrar affärer från att hålla öppet",
+      "link": "https://www.sverigesradio.se/artikel/9339025",
+      "description": "Generalstrejken i Spanien har på onsdagen påverkat samhället med bland annat försenad kollektivtrafik, stängda skolor, mataffärer och bilfabriker. Strejken riktas mot den akuta bostadskrisen och sker dagen före valkampanjen inför parlamentsvalet den 29 november. Sveriges Radios Sydeuropakorrespondent, Cecilia Blomberg, rapporterar från Madrid där tusentals människor tågar genom staden.",
+      "pubDate": "2026-11-11T16:16:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Jenny Lindh: Här är de bästa ljudböckerna just nu",
+      "link": "https://www.dn.se/kultur/jenny-lindh-har-ar-de-basta-ljudbockerna-just-nu-33/",
+      "description": "DN:s bibliotekarie tipsar om ljudböcker – den här veckan handlar det om stulna tavlor, smutsiga affärer och charmig fantasy med touch av Svenska Akademien.",
+      "pubDate": "2026-11-11T16:08:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist missade voteringen – ”Möten rörande regeringsbildningen”",
+      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvist-missade-voteringen-moten-rorande-regeringsbildningen/",
+      "description": "Samtliga rödgröna partiledare var på plats under eftermiddagens votering – utom Centerpartiets ledare. ”Elisabeth kunde inte närvara vid dagens votering i riksdagen på grund av möten rörande regeringsbildningen”, skriver partiets presstjänst.",
+      "pubDate": "2026-11-11T15:36:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "Både S och M kan locka Centern med klimatpolitik",
-      "link": "https://www.sverigesradio.se/artikel/9338479",
-      "description": "Centerpartiet har fått en av huvudrollerna i regeringsbildningen. Elisabeth Thand Ringqvist har krävt att få helhetslösningar av Socialdemokraterna och Moderaterna att ta ställning till. ”Nyckeln ligger väldigt mycket i den gröna omställningen”, säger Lisa Pelling, vd för den progressiva tankesmedjan Arena Idé till P1 Morgon. Också Sigrun Fagerfjäll, chefsekonom vid marknadsliberala tankesmedjan Timbro, lyfter fram klimatpolitiken. ”Där tror jag vi behöver Centerpartiet som en reformmotor i en alliansregering”, säger hon.",
-      "pubDate": "2026-11-11T07:50:00Z",
+      "title": "Riksdagen säger ja till ändrad grundlag om medborgarskap",
+      "link": "https://www.sverigesradio.se/artikel/9338982",
+      "description": "Riksdagen har röstat ja till att ändra grundlagen angående möjligheten att frånta en person sitt svenska medborgarskap. Det ska bli möjligt att återkalla det svenska medborgarskapet för den som har dubbelt medborgarskap, som begår allvarliga brott eller har fått medborgarskap på felaktiga grunder. Vänsterpartiet och Miljöpartiet röstade emot.",
+      "pubDate": "2026-11-11T15:36:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "MP"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist missade votering",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=adfd6923-3d8b-48ce-ab2e-6594b2420211",
+      "description": "Elisabeth Thand Ringqvist var frånvarande i riksdagen",
+      "pubDate": "2026-11-11T15:22:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Insändare. Därför bör Centern stå utanför en borgerlig regering",
+      "link": "https://www.dn.se/insandare/darfor-bor-centern-sta-utanfor-en-borgerlig-regering/",
+      "description": "INSÄNDARE. För att bli vågmästare kan Elisabeth Thand Ringqvist (C) släppa fram en borgerlig trepartiregering med M, KD och L. En sådan regering skulle bli beroende av Centerpartiet i riksdagens kammare, skriver den pensionerade förhandlingsombudsmannen Bengt Bengtsson.",
+      "pubDate": "2026-11-11T14:12:30Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Professorns råd till de rödgröna: ”Basta tillsammans”",
+      "link": "https://www.sverigesradio.se/artikel/9338805",
+      "description": "Nästan två månader efter valet saknar Sverige fortfarande regering, men enligt Lars-Johan Åge, professor i förhandling och medling, syns nu rörelser som kan föra partierna närmare en lösning. Han menar att fokus har flyttats från enskilda krav till paketlösningar, samtidigt som både SD:s besked och Centerpartiets krav på helhetsförslag påverkar läget. Enligt Åge sitter Centerpartiet på starkast förhandlingsposition och han har tips till både Magdalena Andersson (S) och Ulf Kristersson (M).",
+      "pubDate": "2026-11-11T13:57:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
         "M",
-        "C",
+        "C"
+      ]
+    },
+    {
+      "title": "V-toppen ser att ministerkravet ligger kvar: ”Har ett beslut”",
+      "link": "https://www.dn.se/sverige/nytt-rodgront-samtal-vill-ha-in-olika-bud/",
+      "description": "S-ledaren Magdalena Andersson hoppas fortsatt kunna få ihop en regering och vill att talmannen avvaktar med en ny statsministeromröstning. Enligt V-toppen Ida Gabrielsson kommer Vänsterns ministerkrav inte att ändras. På onsdagen möttes de fyra rödgröna partierna igen.",
+      "pubDate": "2026-11-11T13:03:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Jimmie Åkessons plan: Statsminister 2030",
-      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-statsminister-2030/",
-      "description": "Sverigedemokraterna går i full opposition och målet är tydligt och klart: Regeringsmakten 2030.&nbsp; – Det är lite kosläpp, nu är Sverigedemokraterna fria, säger Jimmie Åkesson till TT.",
-      "pubDate": "2026-11-11T06:15:40Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Sverige rasar på klimatranking – nytt bottenrekord",
-      "link": "https://www.dn.se/varlden/sverige-rasar-pa-klimatranking-nytt-bottenrekord/",
-      "description": "Sverige fortsätter tappa på den globala klimatrankningen Climate Change Performance Index (CCPI). Nu är vi på 15:e plats, tio placeringar lägre än när regeringen Kristersson tillträdde. Danmark rankas högst – men den stora överraskningen är Saudiarabien.",
-      "pubDate": "2026-11-11T05:07:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson (SD): Kommer få inflytande – på ett eller annat sätt",
-      "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-vill-vara-oppositionsparti-i-mitten",
-      "description": "Jimmie Åkesson vill att Sverigedemokraterna ska vara ett oppositionsparti, men inte utan inflytande. I Aktuellt säger SD-ledaren att partiet kan förhandla med både höger och vänster, men inte ingå budgetavtal i förväg. – Vill man ha stöd för sin politik i riksdagen är vi öppna för att förhandla, säger Åkesson.",
-      "pubDate": "2026-11-10T21:32:35Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Chockhöjda hyror i Berlin väcker krav på förstatligande",
-      "link": "https://www.dn.se/varlden/chockhojda-hyror-i-berlin-vacker-krav-pa-forstatligande/",
-      "description": "BERLIN. Somliga berlinare sitter på gamla förmånliga hyresavtal. Andra är nyinflyttade och betalar dubbelt så höga hyror. Bristen på bostäder ledde till storseger för vänsterpartiet Die Linke i lokalvalet. Nu kräver partiet ett förstatligande av de stora fastighetsbolagen.",
-      "pubDate": "2026-11-10T20:13:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Statsvetare: Ingen lag stoppar V från att bryta kongressbeslut",
-      "link": "https://www.dn.se/sverige/statsvetare-ingen-lag-stoppar-v-fran-att-bryta-kongressbeslut/",
-      "description": "Vänsterpartiet skulle kunna bryta mot kongressbeslutet om krav på ministrar. – Det finns ingen lag mot det. Men det skulle kosta på andra sätt, säger Niklas Bolin, professor i statsvetenskap vid Mittuniversitetet. V vill inte förlora sitt starkaste kort i förhandlingarna, och att gå emot kongressbeslutet skulle kunna drabba förtroendet för partiledningen.",
-      "pubDate": "2026-11-10T19:00:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Susanne Nyström: Romina Pourmokhtari gör en katastrofal felbedömning",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-romina-pourmokhtari-gor-en-katastrofal-felbedomning/",
-      "description": "Det går att få för sig att SD:s stöd är gratis, nu när Jimmie Åkesson har sagt sig acceptera Ulf Kristersson som statsminister utan att ställa några krav. Inget kan vara mer fel.",
-      "pubDate": "2026-11-10T18:44:29Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kritik mot SD-tappet: ”Slöjförbud och tjej i rånarluva går inte ihop”",
-      "link": "https://www.dn.se/sverige/kritik-mot-sd-tappet-slojforbud-och-tjej-i-ranarluva-gar-inte-ihop/",
-      "description": "BROBY. Sverigedemokraternas väljartapp har gjort något med partiet. Nu bråkas det öppet i de högsta leden om vem som är svensk. Samtidigt växer kritiken mot partiets valstrategi. – Det borde ha varit mindre party. Det är lätt att saker blir för glättiga, säger Göte Färm, SD:s gruppledare i Östra Göinge.",
-      "pubDate": "2026-11-10T18:21:59Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
   "blogs": [
+    {
+      "title": "“Nu står Centerpartiet inför samma fråga som Liberalerna”",
+      "link": "https://www.dagensarena.se/innehall/nu-star-centerpartiet-infor-samma-fraga-som-liberalerna/",
+      "description": "Statsvetaren Jenny Madestam om läget i regeringsförhandlingarna. Inlägget “Nu står Centerpartiet inför samma fråga som Liberalerna” dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-11T16:45:29Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C",
+        "L"
+      ]
+    },
     {
       "title": "En kompromiss som både V och C kan acceptera",
       "link": "https://www.dagensarena.se/opinion/en-kompromiss-som-bade-v-och-c-kan-acceptera/",
@@ -355,21 +374,43 @@
       "topics": [
         "V"
       ]
-    },
-    {
-      "title": "Klockan tickar för Andersson",
-      "link": "https://ledarsidorna.se/klockan-tickar-for-andersson/",
-      "description": "De politiska låsningarna och svårigheterna att bilda en regering riskerar nu att påverka förtroendet för Socialdemokraterna. Detta kan avläsas i flera nyligen genomförda opinionsundersökningar. Oppositionen har efter valet ett numerärt övertag i riksdagen. Men mandat är inte detsamma som handlingsutrymme när partierna inte kan enas om hur dessa mandat ska användas. Indikator Opinions oktobermätning som [&#8230;]",
-      "pubDate": "2026-11-01T17:22:24Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Kvartal Idag: Muharrem Demirok ångrar passivitet mot moskéer",
+      "link": "https://pod.space/kvartal/kvartal-idag-muharrem-demirok-angrar-passivitet-mot-moskeer",
+      "description": "Flera imamer bistår månggifte. Rödgröna toppar träffas i Stockholm. S tappar och M ökar i opinionen. Och därför terrorlistar Egypten svensk förening. Programledare: Cassandra Alm.",
+      "pubDate": "2026-11-11T15:01:31Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": []
+    },
+    {
+      "title": "Därför slutade SD komma till Järvaveckan | Fredagsintervjun",
+      "link": "https://pod.space/kvartal/darfor-slutade-sd-komma-till-jarvaveckan-fredagsintervjun",
+      "description": "Järvaveckan började med utomhusbio och barnfilmer och är i dag en nationell händelse dit arbetarrörelsen, de största företagen och alla åtta riksdagspartier kommer. Det mest kontroversiella var att bjuda in Sverigedemokraterna, säger Ahmed Abdirahman – och det fungerade jättebra. Antaganden och fördomar bröts i mötena. Nu har det vänt: Jimmie Åkesson tycker inte längre att deltagandet är nödvändigt. ”Innan var det, vi får inte vara med och nu är det såhär, vi vill inte vara med för att vi ska vara annorlunda.” Samtidigt har både antalet partiledare och antalet deltagare minskat, och Abdirahman pekar på projektifieringen av förorten, där det nya alltid är mest spännande. Han berättar också om vad bygget har kostat honom. Han har gömt sig bakom jobbet och lagt lock på traumat: inbördeskriget i Somalia, klanerna som splittrade familjen, pappan som lämnade när han var två år gammal och som dog för två år sedan utan att relationen hunnit läka. Vad innebär det att vara svensk och svenssomali när identiteten utmanas från alla håll?",
+      "pubDate": "2026-11-11T14:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Abdirahman om valfusket: ”Verkligen chockad” | Fredagsintervjun",
+      "link": "https://pod.space/kvartal/abdirahman-om-valfusket-verkligen-chockad-fredagsintervjun",
+      "description": "Flera förundersökningar pågår om misstänkta brott i samband med valet, bland annat i Borlänge där polisen utreder otillbörligt verkande vid röstning kopplat till vänsterpartisten Mohamed Alis kampanj. Valförrättare runt om i landet har rapporterat att människor med invandrarbakgrund inte tycks ha röstat självständigt. Ahmed Abdirahman säger sig vara ”verkligen chockad”. Många med invandrarbakgrund har flytt till Sverige just för att få utöva sina demokratiska rättigheter: ”Det här är ytterst allvarligt, särskilt då när det är människor som själva har flytt för den här friheten.” Debattören Bilan Osman kallar granskningen av Mohamed Ali en pressetisk fråga och menar att ingen annan politiker har granskats på samma sätt. Abdirahman vill inte gå in i den striden: att den som fått folkets förtroende granskas är givet, och om bevakningen är proportionerlig får journalisterna själva avgöra. Han avvisar båda de narrativ Jörgen Huitfeldt lägger fram, både fusk styrt av högstatuspersoner och en rasistisk syndabocksdebatt. Går risken för ofria val att knyta till bakgrund eller tid i Sverige? Och vad gör segregationens strukturer med tilliten till valet? Fredagsintervjun med Ahmed Abdirahman. Programledare: Jörgen Huitfeldt.",
+      "pubDate": "2026-11-11T12:00:40Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Inläst: Affären Mohamed Ali är lysande satir",
       "link": "https://pod.space/kvartal/inlast-affaren-mohamed-ali-ar-lysande-satir",
@@ -530,44 +571,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": []
-    },
-    {
-      "title": "332. Dadgostars hemliga plan",
-      "link": "https://pod.space/politikrummet/332-dadgostars-hemliga-plan",
-      "description": "Centerpartiet och Vänsterpartiet har enskilda möten – kommer de lyckas bryta dödläget innan talmannen utlyser extraval? I studion: Filippa Rogvall, Viktor Barth-Kron, Anette Holmqvist och Max V Karlsson. Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-11-05T15:26:43Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Shots fired mellan rödgröna – och Åkesson och Jomshof i känsligt samtal",
-      "link": "https://pod.space/alskadepolitik/shots-fired-mellan-rodgrona-och-akesson-och-jomshof-i-kansligt-samtal",
-      "description": "Shots fired mellan C, S och V! Går det framåt eller bakåt för de rödgrönas regeringssamtal? Och är sista ordet sagt i SD:s bråk om svenskhet?",
-      "pubDate": "2026-11-05T14:25:20Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Lindbergs varning: Skärp till er",
-      "link": "https://pod.space/kvartal/kvartal-idag-lindbergs-varning-skarp-till-er",
-      "description": "Annars vinner Kristersson, enligt S-skribenten. El-Sayed blir senator trots kritiken. Därför höjer riksbanken räntan nu. Och så kan en svensk löpare slå kenyanerna. Programledare: Cassandra Alm.",
-      "pubDate": "2026-11-04T15:03:03Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
-        "MP"
-      ]
     }
   ]
 }
