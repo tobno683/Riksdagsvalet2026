@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:48:41.254763Z",
+  "updated_at": "2026-11-11T03:26:06.846623Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -205,20 +205,6 @@
       ]
     },
     {
-      "title": "Strömmers uppmaning till Andersson: Ta ett kallt bad",
-      "link": "https://www.expressen.se/nyheter/politik/strommers-uppmaning-till-andersson-ta-ett-kallt-bad/",
-      "description": "Gunnar Strömmer (M) skakar på huvudet efter Nooshi Dadgostars ”regim”-kommentar. Han tycker att V-ledaren ska kyla ner sig – och att Magdalena Andersson ska ta ett bad. – Jag har noterat att Vänsterpartiet skruvat upp volymen rejält.",
-      "pubDate": "2026-11-10T17:47:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V"
-      ]
-    },
-    {
       "title": "”Regeringsfrågan kan avgöras redan nästa vecka”",
       "link": "https://www.svt.se/nyheter/inrikes/regeringsfragan-kan-avgoras-redan-nasta-vecka",
       "description": "Efter flera veckor på tomgång går regeringsbildningen nu på högvarv. På tisdag i nästa vecka ska M-ledaren Ulf Kristersson rapportera sitt sonderingsuppdrag till talmannen. Därmed kan regeringsfrågan avgöras i en statsministeromröstning redan i slutet av nästa vecka.",
@@ -269,9 +255,47 @@
       "topics": [
         "SD"
       ]
+    },
+    {
+      "title": "Åkesson: Ny regering kan förhandla budget med oss",
+      "link": "https://www.dn.se/sverige/akesson-ny-regering-kan-forhandla-budget-med-oss/",
+      "description": "Sverigedemokraterna är redo att släppa fram Ulf Kristersson (M) i en regering där Centerpartiet ingår. Men det betyder inte att SD vill släppa sitt inflytande. – Vill de ha stöd för sin budget behöver man sannolikt söka stöd hos riksdagen. Vi är en part där, säger Jimmie Åkesson.",
+      "pubDate": "2026-11-10T16:08:54Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "C"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "En kompromiss som både V och C kan acceptera",
+      "link": "https://www.dagensarena.se/opinion/en-kompromiss-som-bade-v-och-c-kan-acceptera/",
+      "description": "Vänsterpartiet kan behöva prövas innan de får ministrar. Inlägget En kompromiss som både V och C kan acceptera dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-11T00:39:04Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ställ din plats till förfogande, Dadgostar",
+      "link": "https://www.dagensarena.se/opinion/stall-din-plats-till-forfogande-dadgostar/",
+      "description": "Vänsterpartiet har avgörandet i sin hand. Inlägget Ställ din plats till förfogande, Dadgostar dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-11T00:10:45Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Präglar politik Svenska kyrkans tillsyn?",
       "link": "https://ledarsidorna.se/praglar-politik-svenska-kyrkans-tillsyn/",
