@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T03:26:06.846623Z",
+  "updated_at": "2026-11-11T11:17:00.801399Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,7 +79,131 @@
   ],
   "news": [
     {
-      "title": "Jimmie Åkesson vill vara oppositionsparti i mitten",
+      "title": "C splittrat om vägvalet: ”Jättetufft just nu”",
+      "link": "https://www.expressen.se/nyheter/politik/c-splittrat-om-vagvalet-jattetufft-just-nu/",
+      "description": "Minst fem C-distrikt säger nu tydligt nej till Kristerssons högeralternativ, erfar Expressen.&nbsp; – Det blir som att vi har ljugit väljarna rakt upp i ansiktet, säger en källa. Men partiet är splittrat och C-ledningen håller digitala möten löpande.",
+      "pubDate": "2026-11-11T10:29:41Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Åkesson öppnar för att dra in stödet till Riks",
+      "link": "https://www.expressen.se/nyheter/politik/akesson-oppnar-for-att-dra-in-stodet-till-riks/",
+      "description": "Jimmie Åkesson öppnar för att dra in miljongåvan till den SD-nära mediekanalen Riks. – Planen har hela tiden har varit att de ska stå på egna ben, säger Åkesson.",
+      "pubDate": "2026-11-11T10:09:35Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "SVT/Verian: S sjunker i opinionen – lägsta siffran under Andersson",
+      "link": "https://www.svt.se/nyheter/inrikes/svtverian-s-sjunker-i-opinionen-lagsta-siffran-under-andersson",
+      "description": "Samtidigt som Magdalena Andersson försöker få ihop en regering sjunker Socialdemokraternas väljarstöd. I SVT/Verians novembermätning får partiet sin lägsta notering sedan Andersson tillträdde hösten 2021. – Den tilltagande kritiken mot S hantering av regeringsbildningen har troligen påverkat stödet för partiet, säger Per Söderpalm, opinionsansvarig på Verian.",
+      "pubDate": "2026-11-11T09:58:33Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Förläng rabatten på månadskort",
+      "link": "https://www.dn.se/insandare/forlang-rabatten-pa-manadskort/",
+      "description": "INSÄNDARE. Landets alla regioner bör få fortsatt stöd att fortsätta hålla låga priser på kollektivtrafikkorten. Därför bör riksdagens nya rödgröna majoritet ta ett riksdags­initiativ och avsätta pengar redan nu till nästa års budget, skriver Torbjörn Vennström.",
+      "pubDate": "2026-11-11T09:40:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Väljarna om V:s ministerkrav: ”Var realistiska”",
+      "link": "https://www.dn.se/sverige/valjarna-om-vs-ministerkrav-var-realistiska/",
+      "description": "Efter att Magdalena Andersson (S) sagt att hon vill bilda regering enbart med C och MP ökar pressen på Vänsterpartiet att överge sitt krav på ministerposter. Men flera av partiets distriktsordförande vill stå fast vid linjen.",
+      "pubDate": "2026-11-11T09:35:21Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Rödgrönt möte i dag",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=682bc00d-04ac-4293-a044-5fabcdceda21",
+      "description": "MP: ”Dyrka upp låsningar”",
+      "pubDate": "2026-11-11T08:55:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Förtroenderekord: Kristerssons högsta – Anderssons lägsta",
+      "link": "https://www.expressen.se/nyheter/politik/fortroenderekord-kristerssons-hogsta-anderssons-lagsta/",
+      "description": "Kristersson har högst ledarskapsbetyg.&nbsp; Och Andersson sjunker i förtroende. I en ny mätning av Infostat visar statsministerkandidaterna topp- och bottenrekord. –&nbsp;Allt talar för att det är väljare i mitten som flyttar på sig, säger analytikern Peter Santesson.",
+      "pubDate": "2026-11-11T08:06:16Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Både S och M kan locka Centern med klimatpolitik",
+      "link": "https://www.sverigesradio.se/artikel/9338479",
+      "description": "Centerpartiet har fått en av huvudrollerna i regeringsbildningen. Elisabeth Thand Ringqvist har krävt att få helhetslösningar av Socialdemokraterna och Moderaterna att ta ställning till. ”Nyckeln ligger väldigt mycket i den gröna omställningen”, säger Lisa Pelling, vd för den progressiva tankesmedjan Arena Idé till P1 Morgon. Också Sigrun Fagerfjäll, chefsekonom vid marknadsliberala tankesmedjan Timbro, lyfter fram klimatpolitiken. ”Där tror jag vi behöver Centerpartiet som en reformmotor i en alliansregering”, säger hon.",
+      "pubDate": "2026-11-11T07:50:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Jimmie Åkessons plan: Statsminister 2030",
+      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-statsminister-2030/",
+      "description": "Sverigedemokraterna går i full opposition och målet är tydligt och klart: Regeringsmakten 2030.&nbsp; – Det är lite kosläpp, nu är Sverigedemokraterna fria, säger Jimmie Åkesson till TT.",
+      "pubDate": "2026-11-11T06:15:40Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Sverige rasar på klimatranking – nytt bottenrekord",
+      "link": "https://www.dn.se/varlden/sverige-rasar-pa-klimatranking-nytt-bottenrekord/",
+      "description": "Sverige fortsätter tappa på den globala klimatrankningen Climate Change Performance Index (CCPI). Nu är vi på 15:e plats, tio placeringar lägre än när regeringen Kristersson tillträdde. Danmark rankas högst – men den stora överraskningen är Saudiarabien.",
+      "pubDate": "2026-11-11T05:07:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Jimmie Åkesson (SD): Kommer få inflytande – på ett eller annat sätt",
       "link": "https://www.svt.se/nyheter/inrikes/jimmie-akesson-vill-vara-oppositionsparti-i-mitten",
       "description": "Jimmie Åkesson vill att Sverigedemokraterna ska vara ett oppositionsparti, men inte utan inflytande. I Aktuellt säger SD-ledaren att partiet kan förhandla med både höger och vänster, men inte ingå budgetavtal i förväg. – Vill man ha stöd för sin politik i riksdagen är vi öppna för att förhandla, säger Åkesson.",
       "pubDate": "2026-11-10T21:32:35Z",
@@ -88,32 +212,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Kristerssons oro efter mötet med Zelenskyj",
-      "link": "https://www.expressen.se/nyheter/varlden/kristersson-risk-att-lander-spelar-solo-om-ukraina/",
-      "description": "Statsminister Ulf Kristersson håller med president Volodymyr Zelenskyj om att Europa bör utse en gemensam företrädare för fredsförhandlingarna. Själv ställer han dock inte upp som kandidat.",
-      "pubDate": "2026-11-10T21:02:03Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson: ”Vi kommer få inflytande”",
-      "link": "https://www.expressen.se/nyheter/politik/jimmie-akesson-vi-kommer-fa-inflytande-v2vpd/",
-      "description": "SD är redo att gå i full opposition.&nbsp; Nu måste Centerpartiet bestämma sig för vilken riktning de vill gå, säger partiledare Jimmie Åkesson i SVT:s Aktuellt.&nbsp; – Vi kommer få inflytande på ett eller annat sätt, säger han.&nbsp;",
-      "pubDate": "2026-11-10T20:42:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
       ]
     },
     {
@@ -126,18 +224,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Jimmie Åkesson: \"Vi kommer få inflytande\"",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=4d15da08-abd0-4c87-8adf-7328eafe0174",
-      "description": "Jimmie Åkessons ord i SVT:s ”Aktuellt”",
-      "pubDate": "2026-11-10T20:10:23Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     },
     {
@@ -176,98 +262,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "När Åkesson går i ”full opposition” släpps SD in i värmen i Göteborg",
-      "link": "https://www.dn.se/sverige/nar-akesson-gar-i-full-opposition-slapps-sd-in-i-varmen-i-goteborg/",
-      "description": "Det tog 20 år. Nu är Sverigedemokraterna inte längre ett isolerat parti i rikets andra stad. Medan Jimmie Åkesson och SD i riksdagen går ”i full opposition” släpps partiet in i högersidans värme i Göteborg.",
-      "pubDate": "2026-11-10T17:53:45Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Trots rekordval – MP förlorar makten i fjällkommunen",
-      "link": "https://www.dn.se/sverige/trots-rekordval-mp-forlorar-makten-i-fjallkommunen/",
-      "description": "Miljöpartiet gjorde ett rekordval i Jokkmokk som blev deras starkaste fäste i landet. Ändå förlorar de makten till en koalition med Socialdemokraterna och Moderaterna i spetsen. – Det är klart att det känns sorgligt, säger Henrik Blind (MP), kommunalråd. Samtidigt har vågmästaren i den nya majoriteten redan hoppat av samarbetet.",
-      "pubDate": "2026-11-10T17:52:37Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "MP"
-      ]
-    },
-    {
-      "title": "”Regeringsfrågan kan avgöras redan nästa vecka”",
-      "link": "https://www.svt.se/nyheter/inrikes/regeringsfragan-kan-avgoras-redan-nasta-vecka",
-      "description": "Efter flera veckor på tomgång går regeringsbildningen nu på högvarv. På tisdag i nästa vecka ska M-ledaren Ulf Kristersson rapportera sitt sonderingsuppdrag till talmannen. Därmed kan regeringsfrågan avgöras i en statsministeromröstning redan i slutet av nästa vecka.",
-      "pubDate": "2026-11-10T17:46:45Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Furtenbach: ”Kristerssons chanser har definitivt ökat”",
-      "link": "https://www.sverigesradio.se/artikel/9338258",
-      "description": "58 dagar har gått sedan regeringsbildningen och det politiska läget är fortsatt låst. Men efter Jimmie Åkessons (SD):s slopade krav på ministerposter har nya öppningar skapats, enligt Ekots politiska kommentatorer Helena Gissén och Fredrik Furtenbach. ”Kristerssons chanser har definitivt ökat”, säger Fredrik Furtenbach i Studio Ett.",
-      "pubDate": "2026-11-10T17:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Andersson: Rädd att det kan fattas beslut man kan ångra",
-      "link": "https://www.dn.se/sverige/andersson-radd-att-det-kan-fattas-beslut-man-kan-angra/",
-      "description": "Magdalena Andersson vill ha ”tid till eftertanke”. Det är därför hon inte tycker talmannen ska släppa fram M-ledaren Ulf Kristersson till omröstning. – Det är inte bra om det fattas väldigt viktiga beslut i tidspanik, säger hon.",
-      "pubDate": "2026-11-10T17:17:47Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: Därför vill Åkesson så gärna ha Centern i regeringen",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-darfor-vill-akesson-sa-garna-ha-centern-i-regeringen/",
-      "description": "Genom att rösta in Centern i regeringen blir Sverigedemokraterna mäktiga vågmästare. Men det ger också en möjlighet att mala ner det sista borgerliga motståndet mot SD. Och i förlängningen lockar ett extra val.",
-      "pubDate": "2026-11-10T16:59:23Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Åkesson: Ny regering kan förhandla budget med oss",
-      "link": "https://www.dn.se/sverige/akesson-ny-regering-kan-forhandla-budget-med-oss/",
-      "description": "Sverigedemokraterna är redo att släppa fram Ulf Kristersson (M) i en regering där Centerpartiet ingår. Men det betyder inte att SD vill släppa sitt inflytande. – Vill de ha stöd för sin budget behöver man sannolikt söka stöd hos riksdagen. Vi är en part där, säger Jimmie Åkesson.",
-      "pubDate": "2026-11-10T16:08:54Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "C"
       ]
     }
   ],
@@ -376,6 +370,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Inläst: Affären Mohamed Ali är lysande satir",
+      "link": "https://pod.space/kvartal/inlast-affaren-mohamed-ali-ar-lysande-satir",
+      "description": "Historien om Vänsterpartiets Mohamed Ali har allt som krävs för att bli en riktigt bra absurdistisk roman. En karismatisk huvudkaraktär, dramatik där rikets intressen står på spel och en plot som är så osannolik att ingen riktigt skulle kunna tro på den. Jens Ganman tog sin fantasi och skrev ihop en pitch där inspirationen hämtats från V-kandidaten från Dalarna och huvudpersonen till sist hamnar i en situation ingen hade kunnat tänka sig. Inläsare: Staffan Dopping",
+      "pubDate": "2026-11-11T05:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Är ett extraval enda vägen ur regeringskrisen? | Veckopanelen",
       "link": "https://pod.space/kvartal/varfor-slapper-jimmie-akesson-fram-kristersson-utan-krav-veckopanelen",
@@ -561,20 +567,6 @@
       "topics": [
         "M",
         "MP"
-      ]
-    },
-    {
-      "title": "Kan Ulf Kristersson få Centerpartiet att byta sida?",
-      "link": "https://pod.space/alskadepolitik/kan-ulf-kristersson-fa-centerpartiet-att-byta-sida",
-      "description": "Elisabeth Thand Ringqvist har röstats ner som statsminister och M-ledaren har tagit över stafettpinnen från talmannen. Men varför verkar moderater uppgivna över Kristerssons sonderingsuppdrag – och vad är taktiken om det blir extra val?",
-      "pubDate": "2026-11-03T16:30:39Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
       ]
     }
   ]
