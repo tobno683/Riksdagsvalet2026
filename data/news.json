@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:58:37.342041Z",
+  "updated_at": "2026-11-12T22:32:27.010581Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,84 @@
   ],
   "news": [
     {
+      "title": "V-väljare: Hellre regering utan Vänsterpartiet än extraval",
+      "link": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
+      "description": "V-väljare ser helst en rödgrön fyrpartiregering – men om valet står mellan ett extraval eller stå utanför en regering med S, MP och C, då föredrar de det senare. Det visar en mätning som Indikator opinion gjort för SVT:s räkning. – Undersökningen visar att det finns en tydlig beredskap att acceptera andra lösningar, säger opinionschefen Per Oleskog-Tryggvason.",
+      "pubDate": "2026-11-12T20:07:45Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "​22 timmar till totalpaketet – V  ryter till mot C: ”Får vara nog”",
+      "link": "https://www.expressen.se/nyheter/politik/22-timmar-till-totalpaketet-v--ryter-till-mot-c-far-vara-nog/",
+      "description": "Om 22 timmar väntas statsministerkandidaterna lämna in var sitt ”totalpaket” till Elisabeth Thand Ringqvist (C). Nu ryter Vänsterpartiet återigen ifrån. ”Det får vara nog nu”, skriver Ida Gabrielsson (V) på X.&nbsp;",
+      "pubDate": "2026-11-12T19:25:45Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Nästan omöjligt förena nyliberalism och kommunism",
+      "link": "https://www.dn.se/insandare/nastan-omojligt-forena-nyliberalism-och-kommunism/",
+      "description": "INSÄNDARE. Om S-ledaren Magdalena Andersson lyckas bilda regering med stöd av både Vänsterpartiet och Centerpartiet kan hon att gå till historien. Det existerar en ekonomisk avgrund mellan dessa partier, och för att överbrygga den krävs förmodligen en närmast övernaturlig förmåga, skriver Lars Almroth.",
+      "pubDate": "2026-11-12T19:02:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "SD-ledamot lämnar – efter anklagelser om sexuella övertramp",
+      "link": "https://www.sverigesradio.se/artikel/9339959",
+      "description": "Sverigedemokraten Rasmus Giertz lämnar riksdagen efter anklagelser om sexuella övertramp mot flera unga kvinnor. Dagens Nyheter har granskat uppgifter från tidigare och nuvarande medlemmar i SD:s ungdomsförbund. I en kommentar till Ekot avvisar Giertz bestämt bilden som målats upp som han menar grundar sig i ryktesspridning och rena falsarier.",
+      "pubDate": "2026-11-12T18:09:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "M kräver granskning av bristerna kring Safiren: ”Fullkomligt oacceptabelt”",
+      "link": "https://www.dn.se/sverige/m-kraver-granskning-av-bristerna-kring-safiren-fullkomligt-oacceptabelt/",
+      "description": "Vårdboendet Safiren i Vallentuna hotas av stängning sedan Ivo slagit ner på ett administrativt misstag från Region Stockholm. Nu kräver Moderaterna en oberoende granskning av regionens hantering av registerutdragen. – Man måste erkänna att det här har varit en nonchalans gentemot de här barnen, säger Axel Conradi (M).",
+      "pubDate": "2026-11-12T17:17:49Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "V-utspelet: Vi hjälper inte S",
+      "link": "https://www.expressen.se/nyheter/politik/v-utspelet-vi-hjalper-inte-s/",
+      "description": "Centerpartiet vill ha ”totalpaket” från S och M med förslag på regeringsunderlag.&nbsp; Vänsterpartiet vägrar att hjälpa S ta fram sitt innehåll.&nbsp; De kommer inte delta i några förhandlingar.&nbsp;",
+      "pubDate": "2026-11-12T17:16:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Konflikten mellan C och V: ”Hoppas V inser stundens allvar”",
       "link": "https://www.sverigesradio.se/artikel/9339865",
       "description": "Konflikten mellan Vänsterpartiet och Centerpartiet hårdnar sedan V lämnat regeringsförhandlingarna när partiet hålls utanför regeringen. C kräver att V återvänder till bordet, medan V vill att C stödjer Magdalena Andersson i stället för att öppna för Ulf Kristersson och SD-inflytande. ”Nu får C ta ansvar för sitt vägval så vi vet var de hör hemma och så att väljarna inte blir lurade”, säger Vänsterpartiets vice ordförande, Ida Gabrielsson.",
@@ -135,19 +213,6 @@
       ]
     },
     {
-      "title": "Rödgröna partitoppar sågs på ”blöt” utekväll",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/rodgrona-partitoppar-sags-pa-blot-utekvall/",
-      "description": "Vänsterpartiet vill tvinga Centerpartiet att välja sida, men får nobben direkt. Vad händer nu?&nbsp; Och vad pågår egentligen på de rödgröna mötena – och den gemensamma utekvällen?",
-      "pubDate": "2026-11-12T15:06:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Dadgostars krav på C: Visa korten nu!",
       "link": "https://www.dn.se/podd/alskade-politik/dadgostars-krav-pa-c-visa-korten-nu/",
       "description": "Centerpartiet och Vänsterpartiet i blame game – vem är det som kastar grus i regeringsbildningsmaskineriet? Därför ställer alla krav på varandra.",
@@ -159,30 +224,6 @@
         "V",
         "C",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Expert: V kan ändra sig – trots kongressbeslutet",
-      "link": "https://www.expressen.se/nyheter/politik/expert-v-kan-andra-sig-trots-kongressbeslutet/",
-      "description": "Vänsterpartiet säger fortsatt nej till att släppa fram en regering som de själva inte sitter i.&nbsp; Bakom den benhårda hållningen finns ett beslut från V-kongressen i april i år – som enligt partiets företrädare inte går att gå emot. Men det är en sanning med modifikation.&nbsp;",
-      "pubDate": "2026-11-12T14:13:57Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Martin Liby Troein: Vänsterpartiets logik är obegriplig – om man inte tror på en sak",
-      "link": "https://www.dn.se/ledare/martin-liby-troein-vansterpartiets-logik-ar-obegriplig-om-man-inte-tror-pa-en-sak/",
-      "description": "Vänsterpartiet har en långsiktig plan, sägs det. Men kalkylen bygger på antaganden som inte håller ihop.",
-      "pubDate": "2026-11-12T13:41:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     },
     {
@@ -236,44 +277,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Vänsterpartiets krav på Centern: Välj sida",
-      "link": "https://www.dn.se/sverige/vansterpartiets-krav-pa-centern-valj-sida/",
-      "description": "Vänsterpartiet kommer inte att delta i nya samtal med de rödgröna partierna förrän Centerpartiet valt sida. Om det blir Magdalena Anderssons regeringsalternativ har V inte släppt kravet på ministerposter. – Vårt budskap till Centerpartiet är att vår dörr står som vanligt öppen, säger Nooshi Dadgostar.",
-      "pubDate": "2026-11-12T11:36:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Så blir övergångsbudgeten 2027",
-      "link": "https://www.sverigesradio.se/artikel/9339369",
-      "description": "Finansminister Elisabeth Svantesson presenterade idag regeringens övergångsbudget som i princip är densamma som den budget som gällt i år 2026. Inga nya satsningar får komma med eftersom det inte finns någon ny regering, och det drabbar bland annat polisen som går miste om satsningar på tre miljarder för nästa år. Satsningar som inte fortsätter är till exempel den halverade kostnaden för kollektivtrafik och elstödet, som löper ut vid årsskiftet.",
-      "pubDate": "2026-11-12T10:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Furtenbach om budgeten: ”En ganska märklig produkt”",
-      "link": "https://www.sverigesradio.se/artikel/9339256",
-      "description": "I dag lade finansminister Elisabeth Svantesson (M) fram sin budgetproposition för 2027. Den är, enligt en överenskommelse mellan riksdagspartierna, fri från vallöften och ny politik i väntan på att Sverige ska få en ny regering. Att det till stora delar är en repris gör det till en ganska märklig produkt. Avsikten med att göra det till en repris är att man inte ska binda nästa regering. Det är oklart vilken. Det här strama kopplet får en del ganska udda effekter”, säger Ekots politiska kommentator Fredrik Furtenbach.",
-      "pubDate": "2026-11-12T07:34:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     }
   ],
@@ -380,6 +383,30 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Boström: ”Idén om återvandring är en slags fantasi” | Djupet",
+      "link": "https://pod.space/kvartal/bostrom-iden-om-atervandring-ar-en-slags-fantasi-djupet",
+      "description": "Storskalig återvandring går inte att genomföra, säger Håkan Boström. De som fantiserar om inbördeskrig och massiv återvandring söker enkla lösningar, och det Sverige som krävdes vore auktoritärt och mycket brutalare än femtiotalets. Ska Sverigedemokraterna bli en konstruktiv kraft i högern bör partiet släppa idéerna. Richard Sörman svarar att många sverigedemokrater tycker sig ha haft rätt om mycket och undrar varför de ska lyssna på dem som förde en annan politik för tio år sedan. Som kontrast spelas ett klipp från Agenda 2011, där Anna Hedenmo pressar nya centerledaren Annie Lööf om talet om trettio till fyrtio miljoner invånare. Lööf vänder sig skarpt mot beskrivningen av en svensk urbefolkning och säger att den som vill arbeta och betala skatt är välkommen. Hade hon fått sin vilja igenom hade inställningen till etnicitet inte kunnat vara lika avspänd, säger Boström. Sörman påminner i stället om Payam Molas ord om att sverigedemokrater är mindre svenskar än många invandrare. Avgörs svenskheten av värderingar eller av ursprung?",
+      "pubDate": "2026-11-12T19:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Sörman: ”Nu ska de ta ifrån oss vår ursprunglighet” | Djupet",
+      "link": "https://pod.space/kvartal/sorman-nu-ska-de-ta-ifran-oss-var-ursprunglighet-djupet",
+      "description": "Vilken betydelse ska det svenska ursprunget ha i Sverigedemokraternas syn på svenskhet? Håkan Boström menar att de flesta håller med om att det finns etniska svenskar, men att det inte finns någon anledning – inte ens för SD – att göra etniciteten politiskt relevant. Den kulturella nationalismen ställer högre krav, säger han, medan den andra idén lätt lånar sig åt ressentiment och drar till sig personer med dålig självkänsla som bygger sin identitet på sin hudfärg. Richard Sörman ser i stället en klassfråga, till och med en klasskamp. Den bildade medelklassen uttrycker ett förakt mot Sverigevänner som särskriver, säger han, och de som tog första stöten av mångkulturen har flytt förorterna utan att eliterna tagit deras lidande på allvar: ”Nu ska de också ta ifrån oss vår ursprunglighet. Det sista vi har kvar.” Boström svarar att det låter som identitetspolitik från vänsterkanten, där man odlar sitt offerskap. Vad är problemet med att ett parti erkänner ursprungssvenskarna? Och skapas då en hierarki av svenskhet?",
+      "pubDate": "2026-11-12T17:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "334. Extravalet är inställt",
       "link": "https://pod.space/politikrummet/334-extravalet-ar-installt",
@@ -546,34 +573,6 @@
       "sourceType": "podcast",
       "topics": [
         "S",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Djupet: SD och striden om svenskheten",
-      "link": "https://pod.space/kvartal/djupet-sd-och-striden-om-svenskheten",
-      "description": "Sverigedemokraternas tillbakagång i valet och partiledarens till en början låga profil har utlöst en het debatt i partiet: Vilken betydelse ska den svenska etniciteten ha i SD:s syn på svenskhet? Vad handlar konflikten om i grunden? Och säger den något större om hur Sverige som land brottas med sin identitet efter decennier av stor invandring? Med Kvartals Pelle Zackrisson, Richard Sörman, politisk chefredaktör Riks, Håkan Boström, ledarskribent på GP och historikern Lars Trägårdh. Programledare: Jörgen Huitfeldt.",
-      "pubDate": "2026-11-08T05:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Veckopanelen: Jimmie Åkesson tar steget till statsman",
-      "link": "https://pod.space/kvartal/veckopanelen-jimmie-akesson-tar-steget-till-statsman",
-      "description": "Veckopanelen med Bo Rothstein, Hanna Mattsson Wagenius och Hanif Bali under ledning av Staffan Dopping. Jimmie Åkesson fällde en bomb under regeringsbildningen med sitt budskap om att tolerera Ulf Kristersson som statsminister. Men vad gör Centerpartiet härnäst? Frågan om svenskhet har inte avgjorts, trots SD-ledarens debattartikel för en vecka sedan. Donald Trump gratulerade Demokraterna till deras jordskredsseger i mellanårsvalet och låter nästan självkritisk. Medverkan i amerikanska porrfilmer ledde till att kommunchefen i Jokkmokk, tidigare socialdemokratisk riksdagsledamot, fick lämna sin post.",
-      "pubDate": "2026-11-07T04:40:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M",
-        "SD",
         "C",
         "Regeringsbildning"
       ]
