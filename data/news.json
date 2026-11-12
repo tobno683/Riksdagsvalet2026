@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T18:47:53.889960Z",
+  "updated_at": "2026-11-12T01:07:57.558768Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,101 @@
   ],
   "news": [
     {
-      "title": "L-källor: Därför var Mohamsson tyst om Lundsberg",
+      "title": "Experter: Chanserna för Kristersson har ökat",
+      "link": "https://www.dn.se/sverige/experter-chanserna-for-kristersson-har-okat/",
+      "description": "Ulf Kristerssons chanser att bli statsminister har ökat, menar de statsvetare som DN har talat med. Men mycket talar fortfarande emot M-ledaren. – Det blir svårt för Kristersson att inte göra en ”deal” med Sverigedemokraterna, säger statsvetaren Jenny Madestam.",
+      "pubDate": "2026-11-11T21:40:57Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Analysen: Det krävs för att C ska välja vänstersidan",
+      "link": "https://www.sverigesradio.se/artikel/9338795",
+      "description": "Senast på fredag vill Centerpartiet att Socialdemokraterna och Moderaterna ska presentera sina regeringspaket. Och för centern kan det innebära ett val om vilken röd linje som ska överges - Vänsterpartiet i regering eller att bli beroende av Sverigedemokraterna. Enligt Elias Rosell, ledarskribent på centerprofilerade Norrtelje Tidning, kan alternativet till höger vara ett dubbelsvek mot väljarna. ”Dels en svekdebatt om att man på något sätt samarbetar med SD och en svekdebatt om att man ändå mer framhöll Magdalena Andersson som sin statsministerkandidat innan valet”, säger han.",
+      "pubDate": "2026-11-11T21:17:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Programledarens förvåning över Centerpartiets svar",
+      "link": "https://www.expressen.se/nyheter/politik/programledarens-forvaning-over-centerpartiets-svar/",
+      "description": "Splittringen inom Centerpartiet blev en huvudfråga i SVT:s Aktuellt.&nbsp; Men Niels Paarup-Petersen ville inte ge något klart svar – till programledarens förvåning. – Surprise, säger han.&nbsp;",
+      "pubDate": "2026-11-11T21:12:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Uppgifter: Alla V:s distrikt står bakom ministerkrav",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-alla-vs-distrikt-star-bakom-ministerkrav-3kq6j/",
+      "description": "Vänsterpartiets ministerkrav är en knäckfråga i regeringsbildningen. Men enligt uppgifter till Ekot ställer sig alla 25 partidistrikt bakom det.&nbsp; – Vi ska inte vika oss, säger en person med insyn till kanalen.",
+      "pubDate": "2026-11-11T21:04:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ekot erfar: V-distrikten ger massivt stöd för regeringskrav",
+      "link": "https://www.sverigesradio.se/artikel/9339160",
+      "description": "Vänsterpartiets krav på ministerposter har ett \"massivt\" stöd i de 25 partidistrikten. Det står, enligt Ekots källor, klart efter ett internt möte tidigare i veckan, där även frågan om extraval lyftes. \"Vi ska inte vika oss\", säger en person som närvarade på mötet. Beskedet från partiledaren Nooshi Dadgostar, så sent som i dag, är att Vänsterpartiets regeringskrav ligger fast.",
+      "pubDate": "2026-11-11T20:44:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "11 november: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/varlden/11-november-missa-inte-dagens-nyheter/",
+      "description": "Rödgrönt möte, snövarningar och larm om trakasserier i Ungsvenskarna – här är dagens nyheter",
+      "pubDate": "2026-11-11T20:03:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "DN Debatt. ”Centerpartiet har numera mer makt än Moderaterna”",
+      "link": "https://www.dn.se/debatt/centerpartiet-har-numera-mer-makt-an-moderaterna/",
+      "description": "DN DEBATT. Den som vill bilda en stark regering i dagens riksdag måste få med Centerpartiet, såvida inte Socialdemokraterna och Moderaterna är beredda att regera tillsammans. En spelteoretisk analys visar att C numera är landets näst mäktigaste parti, som dock måste välja mellan makt och politik, skriver Jörgen W Weibull, professor emeritus vid Handelshögskolan i Stockholm.",
+      "pubDate": "2026-11-11T19:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "L-källor: Därför var Mohamsson  sparsam med kommentarer",
       "link": "https://www.expressen.se/nyheter/politik/l-kallor-darfor-var-mohamsson-tyst-om-lundsberg/",
-      "description": "Det har blåst rejält kring internatskolan Lundsberg. Men från utbildningsminister Simona Mohamsson har det varit tyst. Förklaringen: Liberalernas partiledare vågade inte gå emot egna ledamoten Martin Melin, vars son går på skolan, enligt uppgifter till Expressen.",
+      "description": "Det har blåst rejält kring internatskolan Lundsberg. Men utbildningsminister Simona Mohamsson har varit sparsam med kommentarer. Förklaringen: Liberalernas partiledare vågade inte gå emot egna ledamoten Martin Melin, vars son går på skolan, enligt uppgifter till Expressen.",
       "pubDate": "2026-11-11T18:41:22Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -112,19 +204,6 @@
       "sourceType": "news",
       "topics": [
         "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Åkesson påverkade intern C-fajt: ”Väldigt pressade”",
-      "link": "https://www.expressen.se/nyheter/politik/akesson-paverkade-intern-c-fajt-valdigt-pressade/",
-      "description": "Jimmie Åkesson (SD) kan ha satt stopp för högervinden – i Centerpartiet. Hans besked i Aktuellt har fått många att tänka om, erfar Expressen. Samtidigt uppges en majoritet av partiets riksdagsgrupp stödja ett sidbyte.",
-      "pubDate": "2026-11-11T16:46:22Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
         "C"
       ]
     },
@@ -191,83 +270,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist missade voteringen – ”Möten rörande regeringsbildningen”",
-      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvist-missade-voteringen-moten-rorande-regeringsbildningen/",
-      "description": "Samtliga rödgröna partiledare var på plats under eftermiddagens votering – utom Centerpartiets ledare. ”Elisabeth kunde inte närvara vid dagens votering i riksdagen på grund av möten rörande regeringsbildningen”, skriver partiets presstjänst.",
-      "pubDate": "2026-11-11T15:36:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Riksdagen säger ja till ändrad grundlag om medborgarskap",
-      "link": "https://www.sverigesradio.se/artikel/9338982",
-      "description": "Riksdagen har röstat ja till att ändra grundlagen angående möjligheten att frånta en person sitt svenska medborgarskap. Det ska bli möjligt att återkalla det svenska medborgarskapet för den som har dubbelt medborgarskap, som begår allvarliga brott eller har fått medborgarskap på felaktiga grunder. Vänsterpartiet och Miljöpartiet röstade emot.",
-      "pubDate": "2026-11-11T15:36:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "MP"
-      ]
-    },
-    {
-      "title": "Thand Ringqvist missade votering",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=adfd6923-3d8b-48ce-ab2e-6594b2420211",
-      "description": "Elisabeth Thand Ringqvist var frånvarande i riksdagen",
-      "pubDate": "2026-11-11T15:22:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. Därför bör Centern stå utanför en borgerlig regering",
-      "link": "https://www.dn.se/insandare/darfor-bor-centern-sta-utanfor-en-borgerlig-regering/",
-      "description": "INSÄNDARE. För att bli vågmästare kan Elisabeth Thand Ringqvist (C) släppa fram en borgerlig trepartiregering med M, KD och L. En sådan regering skulle bli beroende av Centerpartiet i riksdagens kammare, skriver den pensionerade förhandlingsombudsmannen Bengt Bengtsson.",
-      "pubDate": "2026-11-11T14:12:30Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Professorns råd till de rödgröna: ”Basta tillsammans”",
-      "link": "https://www.sverigesradio.se/artikel/9338805",
-      "description": "Nästan två månader efter valet saknar Sverige fortfarande regering, men enligt Lars-Johan Åge, professor i förhandling och medling, syns nu rörelser som kan föra partierna närmare en lösning. Han menar att fokus har flyttats från enskilda krav till paketlösningar, samtidigt som både SD:s besked och Centerpartiets krav på helhetsförslag påverkar läget. Enligt Åge sitter Centerpartiet på starkast förhandlingsposition och han har tips till både Magdalena Andersson (S) och Ulf Kristersson (M).",
-      "pubDate": "2026-11-11T13:57:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "V-toppen ser att ministerkravet ligger kvar: ”Har ett beslut”",
-      "link": "https://www.dn.se/sverige/nytt-rodgront-samtal-vill-ha-in-olika-bud/",
-      "description": "S-ledaren Magdalena Andersson hoppas fortsatt kunna få ihop en regering och vill att talmannen avvaktar med en ny statsministeromröstning. Enligt V-toppen Ida Gabrielsson kommer Vänsterns ministerkrav inte att ändras. På onsdagen möttes de fyra rödgröna partierna igen.",
-      "pubDate": "2026-11-11T13:03:32Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "Regeringsbildning"
       ]
     }
   ],
