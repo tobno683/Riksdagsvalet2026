@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T08:29:35.186779Z",
+  "updated_at": "2026-11-12T16:58:37.342041Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,12 +79,186 @@
   ],
   "news": [
     {
-      "title": "I dag presenteras övergångsbudgeten",
-      "link": "https://www.expressen.se/nyheter/politik/idag-presenteras-overgangsbudgeten/",
-      "description": "Det finns ingen regering som kan göra en budget. I&nbsp;stället presenterar finansminister Elisabeth Svantesson en övergångsbudget – utan partipolitik och nya satsningar. Satsningen på totalförsvaret kvarstår och polisen får ingen höjning.",
-      "pubDate": "2026-11-12T08:07:17Z",
+      "title": "Konflikten mellan C och V: ”Hoppas V inser stundens allvar”",
+      "link": "https://www.sverigesradio.se/artikel/9339865",
+      "description": "Konflikten mellan Vänsterpartiet och Centerpartiet hårdnar sedan V lämnat regeringsförhandlingarna när partiet hålls utanför regeringen. C kräver att V återvänder till bordet, medan V vill att C stödjer Magdalena Andersson i stället för att öppna för Ulf Kristersson och SD-inflytande. ”Nu får C ta ansvar för sitt vägval så vi vet var de hör hemma och så att väljarna inte blir lurade”, säger Vänsterpartiets vice ordförande, Ida Gabrielsson.",
+      "pubDate": "2026-11-12T16:38:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "”SD-hotet ska få C att välja Andersson – trots Vänsterpartiet”",
+      "link": "https://www.svt.se/nyheter/inrikes/sd-hotet-ska-fa-c-att-valja-andersson-trots-vansterpartiet",
+      "description": "Till sist tog Centerpartiet fasta på sin vågmästarroll och möttes av en rödgrön ångvält av kritik. Magdalena Andersson lägger nu mycket kraft på att varna C för vad en Kristersson-regering skulle innebära. De tolv SD-ministrarna är visserligen borta från bordet men budskapet om att ett SD-inflytande är ett hot mot den liberala demokratin ligger fast. I det läget kan det vara för kostsamt för C att byta sida.",
+      "pubDate": "2026-11-12T15:39:32Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "V utesluter att backa – efter C-ledarens nya deadline",
+      "link": "https://www.svt.se/nyheter/inrikes/v-utesluter-att-backa-efter-c-ledarens-nya-deadline",
+      "description": "V har ställt in möten med S, C och MP under torsdagen. C-ledaren Elisabeth Thand Ringqvist uppmanar V att släppa ministerkravet – och komma tillbaka till förhandlingsbordet. Men enligt V-toppen Ida Gabrielsson är det helt uteslutet att backa. – Vi ska sitta i regering, säger hon.",
+      "pubDate": "2026-11-12T15:31:41Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "V-källor: S ”totalpaket” till Centerpartiet är oseriöst",
+      "link": "https://www.dn.se/sverige/v-kallor-s-totalpaket-till-centerpartiet-ar-oseriost/",
+      "description": "Socialdemokraterna har presenterat en lång lista på sakförslag för att få ihop en regering. Tandvårdsreform, avskaffat karensavdrag och reformering av Arbetsförmedlingen fanns med för att locka Vänsterpartiet att stå utanför. – Det fanns ingen finansiering, det var ingen seriös förhandling, säger en V-källa med insyn i samtalen.",
+      "pubDate": "2026-11-12T15:08:18Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Rödgröna partitoppar sågs på ”blöt” utekväll",
+      "link": "https://www.expressen.se/podcast/politikrummet-1/rodgrona-partitoppar-sags-pa-blot-utekvall/",
+      "description": "Vänsterpartiet vill tvinga Centerpartiet att välja sida, men får nobben direkt. Vad händer nu?&nbsp; Och vad pågår egentligen på de rödgröna mötena – och den gemensamma utekvällen?",
+      "pubDate": "2026-11-12T15:06:17Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Dadgostars krav på C: Visa korten nu!",
+      "link": "https://www.dn.se/podd/alskade-politik/dadgostars-krav-pa-c-visa-korten-nu/",
+      "description": "Centerpartiet och Vänsterpartiet i blame game – vem är det som kastar grus i regeringsbildningsmaskineriet? Därför ställer alla krav på varandra.",
+      "pubDate": "2026-11-12T14:50:02Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Expert: V kan ändra sig – trots kongressbeslutet",
+      "link": "https://www.expressen.se/nyheter/politik/expert-v-kan-andra-sig-trots-kongressbeslutet/",
+      "description": "Vänsterpartiet säger fortsatt nej till att släppa fram en regering som de själva inte sitter i.&nbsp; Bakom den benhårda hållningen finns ett beslut från V-kongressen i april i år – som enligt partiets företrädare inte går att gå emot. Men det är en sanning med modifikation.&nbsp;",
+      "pubDate": "2026-11-12T14:13:57Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Martin Liby Troein: Vänsterpartiets logik är obegriplig – om man inte tror på en sak",
+      "link": "https://www.dn.se/ledare/martin-liby-troein-vansterpartiets-logik-ar-obegriplig-om-man-inte-tror-pa-en-sak/",
+      "description": "Vänsterpartiet har en långsiktig plan, sägs det. Men kalkylen bygger på antaganden som inte håller ihop.",
+      "pubDate": "2026-11-12T13:41:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Insändare. Socialdemokraternas val är en personlig förolämpning",
+      "link": "https://www.dn.se/insandare/socialdemokraternas-val-ar-en-personlig-forolampning/",
+      "description": "INSÄNDARE. För alla med invandrarbakgrund väcker grundlagsändringen om medborgarskap frågan om hur självklart vi får höra till i vårt eget land. Varför ska staten kunna ta ifrån en svensk medborgare det som en annan får behålla efter exakt samma brott? frågar Juan Fonseca.",
+      "pubDate": "2026-11-12T12:15:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Furtenbach: ”Bekräftar bara att läget forfarande är låst”",
+      "link": "https://www.sverigesradio.se/artikel/9339523",
+      "description": "Vänsterpartiet kom inte med några nya besked på torsdagens pressträff, säger Fredrik Furtenbach, inrikespolitisk kommentator: ”Man kan sammanfatta budskapet väldigt kort: blir det inget rödgrönt samarbete är det inte vårt fel.” Vänsterpartiet håller fast vid sina krav på ministerposter, och Centerpartiet har redan hunnit svara att de inte heller ger vika.",
+      "pubDate": "2026-11-12T12:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: V vill pressa fram omröstning om Kristersson",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-v-vill-pressa-fram-omrostning-om-kristersson/",
+      "description": "Vänsterpartiet vill få till en statsministeromröstning om Ulf Kristersson och därmed tvinga Centern att välja sida. Genom att V lämnar förhandlingarna ska talmannen se att Magdalena Andersson inte gör några framsteg och därmed inte heller har argument för att fördröja nästa omröstning. Om Centern väljer att nobba Kristersson räknar V med att få ett bättre förhandlingsläge inför en sista och avgörande riksdagsvotering.",
+      "pubDate": "2026-11-12T11:51:51Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Dadgostar till C: ”Vår dörr står öppen”",
+      "link": "https://www.sverigesradio.se/artikel/9339506",
+      "description": "Vänsterpartiet är berett att förhandla med Centerpartiet i regeringsfrågan, men kravet på att få sitta i regering kvarstår. Det framkom på en pressträff som partiledare Nooshi Dadgostar kallade till strax före lunch. ”Vår dörr står som vanligt öppen.”",
+      "pubDate": "2026-11-12T11:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Vänsterpartiets krav på Centern: Välj sida",
+      "link": "https://www.dn.se/sverige/vansterpartiets-krav-pa-centern-valj-sida/",
+      "description": "Vänsterpartiet kommer inte att delta i nya samtal med de rödgröna partierna förrän Centerpartiet valt sida. Om det blir Magdalena Anderssons regeringsalternativ har V inte släppt kravet på ministerposter. – Vårt budskap till Centerpartiet är att vår dörr står som vanligt öppen, säger Nooshi Dadgostar.",
+      "pubDate": "2026-11-12T11:36:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Så blir övergångsbudgeten 2027",
+      "link": "https://www.sverigesradio.se/artikel/9339369",
+      "description": "Finansminister Elisabeth Svantesson presenterade idag regeringens övergångsbudget som i princip är densamma som den budget som gällt i år 2026. Inga nya satsningar får komma med eftersom det inte finns någon ny regering, och det drabbar bland annat polisen som går miste om satsningar på tre miljarder för nästa år. Satsningar som inte fortsätter är till exempel den halverade kostnaden för kollektivtrafik och elstödet, som löper ut vid årsskiftet.",
+      "pubDate": "2026-11-12T10:04:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M"
@@ -93,7 +267,7 @@
     {
       "title": "Furtenbach om budgeten: ”En ganska märklig produkt”",
       "link": "https://www.sverigesradio.se/artikel/9339256",
-      "description": "I dag lägger finansminister Elisabeth Svantesson (M) fram sin budgetproposition för 2027. Den är, enligt en överenskommelse mellan riksdagspartierna, fri från vallöften och ny politik i väntan på att Sverige ska få en ny regering. ”En del ekonomiska tillskott som regeringen hade planerat blir inte av, i alla fall inte nu. Och en av de största handlar om polisen som nu går miste om ett tillskott på nästan 3 miljarder”, säger Ekots politiska kommentator Fredrik Furtenbach.",
+      "description": "I dag lade finansminister Elisabeth Svantesson (M) fram sin budgetproposition för 2027. Den är, enligt en överenskommelse mellan riksdagspartierna, fri från vallöften och ny politik i väntan på att Sverige ska få en ny regering. Att det till stora delar är en repris gör det till en ganska märklig produkt. Avsikten med att göra det till en repris är att man inte ska binda nästa regering. Det är oklart vilken. Det här strama kopplet får en del ganska udda effekter”, säger Ekots politiska kommentator Fredrik Furtenbach.",
       "pubDate": "2026-11-12T07:34:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
@@ -101,174 +275,21 @@
       "topics": [
         "M"
       ]
-    },
-    {
-      "title": "Upprustningen fortsätter trots stram övergångsbudget",
-      "link": "https://www.dn.se/sverige/upprustningen-fortsatter-trots-stram-overgangsbudget/",
-      "description": "Sverige har tagit sig ur lågkonjunkturen. Det är budskapet när finansminister Elisabeth Svantesson lägger fram regeringens övergångsbudget. Det mesta liknar 2026 års budget – men den militära upprustningen fortsätter att öka.",
-      "pubDate": "2026-11-12T07:01:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Dyrare diesel, kungligt kalas och fängelseplatser – det innehåller budgeten",
-      "link": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
-      "description": "Idag presenterar Elisabeth Svantesson (M) sin övergångsbudget. Den har tagits fram utifrån strikta regler, men finansministern har ändå gjort vissa undantag.",
-      "pubDate": "2026-11-12T07:00:04Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Dadgostar behöver inte vara stressad",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/dadgostar-behover-inte-vara-stressad/",
-      "description": "Trycket är massivt på Vänsterpartiet – just nu. Om några dagar kan situationen vara helt annorlunda.",
-      "pubDate": "2026-11-12T06:56:29Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "C-kollegan gör det som är  omöjligt för Thand Ringqvist",
-      "link": "https://www.expressen.se/nyheter/politik/c-kollegan-gor-det-som-ar--omojligt-for-thand-ringqvist/",
-      "description": "En regering med V+C tycks omöjlig på riksplanet – men funkar fint i Västerås. – Det är ju väldigt mycket personkemi, säger Vicki Skure Eriksson (C). – Man kan inte få allt, säger Anna Maria Romlid, (V). – Enklaste sättet att få ihop en majoritet är att sova med ärkefienden, säger professor Gissur Erlingsson.",
-      "pubDate": "2026-11-12T05:36:21Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Övergångsbudgeten presenteras idag – utan partipolitiska satsningar",
-      "link": "https://www.svt.se/nyheter/inrikes/overgangsbudgeten-presenteras-idag-utan-partipolitiska-satsningar",
-      "description": "Sverige saknar fortfarande en regering. I och med detta presenterar idag finansminister Elisabeth Svantesson(M) en så kallad övergångsbudget – helt tom på partipolitik och nya satsningar. – Vill man som ny regering göra större omtag kan man vänta till april och vårändringsbudgeten, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
-      "pubDate": "2026-11-12T05:00:22Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Ledare: Högern talar klarspråk – lyssnar centerpartisterna?",
-      "link": "https://www.dn.se/ledare/hogern-talar-klarsprak-lyssnar-centerpartisterna/",
-      "description": "Ulf Kristersson har hittat ett sätt att tillträda utan SD-samarbete, men inte att regera. Det är bra att Svenska Dagbladets och Expressens ledarsidor talar klarspråk om detta.",
-      "pubDate": "2026-11-12T04:11:49Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Experter: Chanserna för Kristersson har ökat",
-      "link": "https://www.dn.se/sverige/experter-chanserna-for-kristersson-har-okat/",
-      "description": "Ulf Kristerssons chanser att bli statsminister har ökat, menar de statsvetare som DN har talat med. Men mycket talar fortfarande emot M-ledaren. – Det blir svårt för Kristersson att inte göra en ”deal” med Sverigedemokraterna, säger statsvetaren Jenny Madestam.",
-      "pubDate": "2026-11-11T21:40:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Analysen: Det krävs för att C ska välja vänstersidan",
-      "link": "https://www.sverigesradio.se/artikel/9338795",
-      "description": "Senast på fredag vill Centerpartiet att Socialdemokraterna och Moderaterna ska presentera sina regeringspaket. Och för centern kan det innebära ett val om vilken röd linje som ska överges - Vänsterpartiet i regering eller att bli beroende av Sverigedemokraterna. Enligt Elias Rosell, ledarskribent på centerprofilerade Norrtelje Tidning, kan alternativet till höger vara ett dubbelsvek mot väljarna. ”Dels en svekdebatt om att man på något sätt samarbetar med SD och en svekdebatt om att man ändå mer framhöll Magdalena Andersson som sin statsministerkandidat innan valet”, säger han.",
-      "pubDate": "2026-11-11T21:17:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Programledarens förvåning över Centerpartiets svar",
-      "link": "https://www.expressen.se/nyheter/politik/programledarens-forvaning-over-centerpartiets-svar/",
-      "description": "Splittringen inom Centerpartiet blev en huvudfråga i SVT:s Aktuellt.&nbsp; Men Niels Paarup-Petersen ville inte ge något klart svar – till programledarens förvåning. – Surprise, säger han.&nbsp;",
-      "pubDate": "2026-11-11T21:12:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Uppgifter: Alla V:s distrikt står bakom ministerkrav",
-      "link": "https://www.expressen.se/nyheter/politik/uppgifter-alla-vs-distrikt-star-bakom-ministerkrav-3kq6j/",
-      "description": "Vänsterpartiets ministerkrav är en knäckfråga i regeringsbildningen. Men enligt uppgifter till Ekot ställer sig alla 25 partidistrikt bakom det.&nbsp; – Vi ska inte vika oss, säger en person med insyn till kanalen.",
-      "pubDate": "2026-11-11T21:04:01Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ekot erfar: V-distrikten ger massivt stöd för regeringskrav",
-      "link": "https://www.sverigesradio.se/artikel/9339160",
-      "description": "Vänsterpartiets krav på ministerposter har ett \"massivt\" stöd i de 25 partidistrikten. Det står, enligt Ekots källor, klart efter ett internt möte tidigare i veckan, där även frågan om extraval lyftes. \"Vi ska inte vika oss\", säger en person som närvarade på mötet. Beskedet från partiledaren Nooshi Dadgostar, så sent som i dag, är att Vänsterpartiets regeringskrav ligger fast.",
-      "pubDate": "2026-11-11T20:44:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "11 november: Missa inte dagens nyheter",
-      "link": "https://www.dn.se/varlden/11-november-missa-inte-dagens-nyheter/",
-      "description": "Rödgrönt möte, snövarningar och larm om trakasserier i Ungsvenskarna – här är dagens nyheter",
-      "pubDate": "2026-11-11T20:03:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "DN Debatt. ”Centerpartiet har numera mer makt än Moderaterna”",
-      "link": "https://www.dn.se/debatt/centerpartiet-har-numera-mer-makt-an-moderaterna/",
-      "description": "DN DEBATT. Den som vill bilda en stark regering i dagens riksdag måste få med Centerpartiet, såvida inte Socialdemokraterna och Moderaterna är beredda att regera tillsammans. En spelteoretisk analys visar att C numera är landets näst mäktigaste parti, som dock måste välja mellan makt och politik, skriver Jörgen W Weibull, professor emeritus vid Handelshögskolan i Stockholm.",
-      "pubDate": "2026-11-11T19:00:00Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Regeringskrisens verkliga namn är Thand Ringqvist",
+      "link": "https://www.dagensarena.se/opinion/regeringskrisens-verkliga-namn-ar-thand-ringqvist/",
+      "description": "Centerpartiets väljare ser hellre V i regering än extraval. Inlägget Regeringskrisens verkliga namn är Thand Ringqvist dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-12T13:28:34Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
     {
       "title": "”Nu står Centerpartiet inför samma fråga som Liberalerna”",
       "link": "https://www.dagensarena.se/innehall/nu-star-centerpartiet-infor-samma-fraga-som-liberalerna/",
@@ -320,21 +341,6 @@
       ]
     },
     {
-      "title": "Vad är det för fel på Magdalena Andersson?",
-      "link": "https://blog.zaramis.se/2026/11/09/vad-ar-det-for-fel-pa-magdalena-andersson/",
-      "description": "Vad är det för fel på Magdalena Andersson? Hon företräder ett parti som säger sig vara för arbetares och fattigas intressen. Men i praktiken fattar partiet bara exakt samma beslut som Tidöregeringen och för att garantera att det så förblir föreslår hon en regering ihop med MIljöpartiet och Centerpartiet. Det näst största partiet i en tänkt socialdemokratiskt ledd regering, dvs Vänsterpartiet vill hon inte ha med. Läs mer … Inlägget Vad är det för fel på Magdalena Andersson? dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-11-09T06:51:44Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
       "title": "Så sköt Vänsterpartiet sig själva i bägge fötterna",
       "link": "https://ledarsidorna.se/sa-skot-vansterpartiet-sig-sjalva-i-bagge-fotterna/",
       "description": "Reaktionen från på Magdalena Anderssons besked om att lämna Vänsterpartiet utanför en regering blev omedelbart avvisande. Partiet visade än en gång att det saknar den mognad, den partikultur och den kompetens som krävs för regeringsansvar. Paradoxalt nog skulle V, precis som Sverigedemokraterna gjorde under Tidöavtalet, ha tjänat mest på att acceptera rollen som stödparti. Socialdemokraternas [&#8230;]",
@@ -374,6 +380,33 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "334. Extravalet är inställt",
+      "link": "https://pod.space/politikrummet/334-extravalet-ar-installt",
+      "description": "Vänsterpartiet vill tvinga Centerpartiet att välja sida – men får nobben direkt. Vad händer nu? I riksdagsstudion: Filippa Rogvall, Max V Karlsson, Anette Holmqvist och Viktor Barth-Kron Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-11-12T14:58:53Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Dadgostars krav på C: Visa korten nu!",
+      "link": "https://pod.space/alskadepolitik/dadgostars-krav-pa-c-visa-korten-nu",
+      "description": "Centerpartiet och Vänsterpartiet i blame game – vem är det som kastar grus i regeringsbildningsmaskineriet? Därför ställer alla krav på varandra.",
+      "pubDate": "2026-11-12T14:50:02Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Kvartal Idag: Muharrem Demirok ångrar passivitet mot moskéer",
       "link": "https://pod.space/kvartal/kvartal-idag-muharrem-demirok-angrar-passivitet-mot-moskeer",
@@ -544,30 +577,6 @@
         "C",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "SD-bomben: Åkesson har gett C trumfkortet",
-      "link": "https://pod.space/alskadepolitik/sd-ar-redo-att-slappa-fram-kristersson-och-ga-i-full-opposition",
-      "description": "Nu sitter Elisabeth Thand Ringqvist med trumf på hand och ställer krav på båda statsministerkandidaterna.",
-      "pubDate": "2026-11-06T16:05:22Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Inläst: Tänk om extra val inte är det största misslyckandet?",
-      "link": "https://pod.space/kvartal/inlast-tank-om-extra-val-inte-ar-det-storsta-misslyckandet",
-      "description": "Ett extra val beskrivs av de allra flesta som ett politiskt nederlag. Men kanske ligger det verkliga problemet i att väljarna gick till valurnorna med bilden av ett rödgrönt regeringsalternativ som aldrig riktigt fanns. Av Jörgen Huitfeldt Inläsare: Jörgen Huitfeldt",
-      "pubDate": "2026-11-06T05:30:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
     }
   ]
 }
