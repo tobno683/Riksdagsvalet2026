@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:07:57.558768Z",
+  "updated_at": "2026-11-12T08:29:35.186779Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,103 @@
     }
   ],
   "news": [
+    {
+      "title": "I dag presenteras övergångsbudgeten",
+      "link": "https://www.expressen.se/nyheter/politik/idag-presenteras-overgangsbudgeten/",
+      "description": "Det finns ingen regering som kan göra en budget. I&nbsp;stället presenterar finansminister Elisabeth Svantesson en övergångsbudget – utan partipolitik och nya satsningar. Satsningen på totalförsvaret kvarstår och polisen får ingen höjning.",
+      "pubDate": "2026-11-12T08:07:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Furtenbach om budgeten: ”En ganska märklig produkt”",
+      "link": "https://www.sverigesradio.se/artikel/9339256",
+      "description": "I dag lägger finansminister Elisabeth Svantesson (M) fram sin budgetproposition för 2027. Den är, enligt en överenskommelse mellan riksdagspartierna, fri från vallöften och ny politik i väntan på att Sverige ska få en ny regering. ”En del ekonomiska tillskott som regeringen hade planerat blir inte av, i alla fall inte nu. Och en av de största handlar om polisen som nu går miste om ett tillskott på nästan 3 miljarder”, säger Ekots politiska kommentator Fredrik Furtenbach.",
+      "pubDate": "2026-11-12T07:34:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Upprustningen fortsätter trots stram övergångsbudget",
+      "link": "https://www.dn.se/sverige/upprustningen-fortsatter-trots-stram-overgangsbudget/",
+      "description": "Sverige har tagit sig ur lågkonjunkturen. Det är budskapet när finansminister Elisabeth Svantesson lägger fram regeringens övergångsbudget. Det mesta liknar 2026 års budget – men den militära upprustningen fortsätter att öka.",
+      "pubDate": "2026-11-12T07:01:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Dyrare diesel, kungligt kalas och fängelseplatser – det innehåller budgeten",
+      "link": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
+      "description": "Idag presenterar Elisabeth Svantesson (M) sin övergångsbudget. Den har tagits fram utifrån strikta regler, men finansministern har ändå gjort vissa undantag.",
+      "pubDate": "2026-11-12T07:00:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Dadgostar behöver inte vara stressad",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/dadgostar-behover-inte-vara-stressad/",
+      "description": "Trycket är massivt på Vänsterpartiet – just nu. Om några dagar kan situationen vara helt annorlunda.",
+      "pubDate": "2026-11-12T06:56:29Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "C-kollegan gör det som är  omöjligt för Thand Ringqvist",
+      "link": "https://www.expressen.se/nyheter/politik/c-kollegan-gor-det-som-ar--omojligt-for-thand-ringqvist/",
+      "description": "En regering med V+C tycks omöjlig på riksplanet – men funkar fint i Västerås. – Det är ju väldigt mycket personkemi, säger Vicki Skure Eriksson (C). – Man kan inte få allt, säger Anna Maria Romlid, (V). – Enklaste sättet att få ihop en majoritet är att sova med ärkefienden, säger professor Gissur Erlingsson.",
+      "pubDate": "2026-11-12T05:36:21Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Övergångsbudgeten presenteras idag – utan partipolitiska satsningar",
+      "link": "https://www.svt.se/nyheter/inrikes/overgangsbudgeten-presenteras-idag-utan-partipolitiska-satsningar",
+      "description": "Sverige saknar fortfarande en regering. I och med detta presenterar idag finansminister Elisabeth Svantesson(M) en så kallad övergångsbudget – helt tom på partipolitik och nya satsningar. – Vill man som ny regering göra större omtag kan man vänta till april och vårändringsbudgeten, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
+      "pubDate": "2026-11-12T05:00:22Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Ledare: Högern talar klarspråk – lyssnar centerpartisterna?",
+      "link": "https://www.dn.se/ledare/hogern-talar-klarsprak-lyssnar-centerpartisterna/",
+      "description": "Ulf Kristersson har hittat ett sätt att tillträda utan SD-samarbete, men inte att regera. Det är bra att Svenska Dagbladets och Expressens ledarsidor talar klarspråk om detta.",
+      "pubDate": "2026-11-12T04:11:49Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
     {
       "title": "Experter: Chanserna för Kristersson har ökat",
       "link": "https://www.dn.se/sverige/experter-chanserna-for-kristersson-har-okat/",
@@ -169,115 +266,13 @@
         "M",
         "C"
       ]
-    },
-    {
-      "title": "L-källor: Därför var Mohamsson  sparsam med kommentarer",
-      "link": "https://www.expressen.se/nyheter/politik/l-kallor-darfor-var-mohamsson-tyst-om-lundsberg/",
-      "description": "Det har blåst rejält kring internatskolan Lundsberg. Men utbildningsminister Simona Mohamsson har varit sparsam med kommentarer. Förklaringen: Liberalernas partiledare vågade inte gå emot egna ledamoten Martin Melin, vars son går på skolan, enligt uppgifter till Expressen.",
-      "pubDate": "2026-11-11T18:41:22Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Ilska inom Vänsterpartiet: Mohamed Ali särbehandlas",
-      "link": "https://www.expressen.se/nyheter/sverige/ilska-inom-vansterpartiet-mohamed-ali-sarbehandlas/",
-      "description": "Mohamed Ali tog sig in i riksdagen genom att bryta mot en av Vänsterpartiets mest centrala stadgar. Trots det skyddas han av partiledningen med skräddarsydda lösningar och en skyddsmur av pressfolk. Särbehandlingen vållar starka reaktioner i partiet. – Man förkastar hela sin ideologi för att rädda en person, säger Frida Holmgren, tidigare vice ordförande för V i Dalarna.",
-      "pubDate": "2026-11-11T17:28:50Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "M-källor: Kommer krävas tid att få över C",
-      "link": "https://www.dn.se/sverige/m-kallor-kommer-kravas-tid-att-fa-over-c/",
-      "description": "Moderaternas försök att övertala Centerpartiet att byta sida lär kräva mer tid än man först trodde, enligt DN:s källor. Problemet är den parlamentariska matematiken: hur ska en M-ledd regering undgå att bli beroende av SD? – Visar det sig sedan omöjligt att styra får man väl avgå, bilda en ny regering eller utlysa ett nyval, säger M-toppen Christofer Fjellner.",
-      "pubDate": "2026-11-11T17:25:13Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "V öppnar för elstöd till företag – S och SD vill avvakta",
-      "link": "https://www.sverigesradio.se/artikel/9338968",
-      "description": "Vänsterpartiet öppnar för elstöd till företag i vinter, medan Sverigedemokraterna och Socialdemokraterna vill avvakta en ny regering. Frågan är akut för många företagare eftersom dagens elstöd bara gäller hushåll och än så länge året ut. I Skåne berättar bagaren Emilia Blixt om en elräkning på 30 000 kronor – samtidigt som partierna ger olika besked om vad som kan göras.",
-      "pubDate": "2026-11-11T16:33:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Nu letar alla efter nyckeln – här är låsningarna i regeringsfrågan",
-      "link": "https://www.dn.se/sverige/nu-letar-alla-efter-nyckeln-har-ar-lasningarna-i-regeringsfragan/",
-      "description": "Magdalena Andersson nobbar vänsterpartisterna medan Jimmie Åkesson försöker locka över Centern. Plötsligt är alla bollar uppe i luften samtidigt i kampen om regeringsmakten. Men vad innebär de olika alternativen egentligen?",
-      "pubDate": "2026-11-11T16:30:51Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Regera Sverige utan påverkan av extremister",
-      "link": "https://www.dn.se/insandare/regera-sverige-utan-paverkan-av-extremister/",
-      "description": "INSÄNDARE. Samhörigheten i den stora mitten bör vara mycket större än samverkan med två ytterlighetspartier. Med Socialdemokraterna, Moderaterna och Centerpartiet skulle vi få en stabil regering, skriver Roger Klerestam, tidigare ordförande för Liberalerna i Sölvesborg.",
-      "pubDate": "2026-11-11T16:24:58Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "Folkmassor i Madrid hindrar affärer från att hålla öppet",
-      "link": "https://www.sverigesradio.se/artikel/9339025",
-      "description": "Generalstrejken i Spanien har på onsdagen påverkat samhället med bland annat försenad kollektivtrafik, stängda skolor, mataffärer och bilfabriker. Strejken riktas mot den akuta bostadskrisen och sker dagen före valkampanjen inför parlamentsvalet den 29 november. Sveriges Radios Sydeuropakorrespondent, Cecilia Blomberg, rapporterar från Madrid där tusentals människor tågar genom staden.",
-      "pubDate": "2026-11-11T16:16:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Jenny Lindh: Här är de bästa ljudböckerna just nu",
-      "link": "https://www.dn.se/kultur/jenny-lindh-har-ar-de-basta-ljudbockerna-just-nu-33/",
-      "description": "DN:s bibliotekarie tipsar om ljudböcker – den här veckan handlar det om stulna tavlor, smutsiga affärer och charmig fantasy med touch av Svenska Akademien.",
-      "pubDate": "2026-11-11T16:08:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
     }
   ],
   "blogs": [
     {
-      "title": "“Nu står Centerpartiet inför samma fråga som Liberalerna”",
+      "title": "”Nu står Centerpartiet inför samma fråga som Liberalerna”",
       "link": "https://www.dagensarena.se/innehall/nu-star-centerpartiet-infor-samma-fraga-som-liberalerna/",
-      "description": "Statsvetaren Jenny Madestam om läget i regeringsförhandlingarna. Inlägget “Nu står Centerpartiet inför samma fråga som Liberalerna” dök först upp på Dagens Arena .",
+      "description": "Statsvetaren Jenny Madestam om läget i regeringsförhandlingarna. Inlägget ”Nu står Centerpartiet inför samma fråga som Liberalerna” dök först upp på Dagens Arena .",
       "pubDate": "2026-11-11T16:45:29Z",
       "source": "Dagens Arena",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
