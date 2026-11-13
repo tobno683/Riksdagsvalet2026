@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T18:13:24.822461Z",
+  "updated_at": "2026-11-13T23:44:32.587829Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,41 @@
     }
   ],
   "news": [
+    {
+      "title": "Rödgrönt käbbel skapar jubel i M: ”Vi har fått rätt”",
+      "link": "https://www.expressen.se/nyheter/politik/rodgront-kabbel-skapar-jubel-i-m-vi-har-fatt-ratt/",
+      "description": "Moderaterna går stärkta ur regeringsbildningen – oavsett utfall. Så låter det när Expressen ringer runt till källor i partiet. – Vi har fått rätt om att vänsterröran är på riktigt, säger en riksdagsledamot.",
+      "pubDate": "2026-11-13T20:01:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C-tyckare: Låt V ingå i regeringen",
+      "link": "https://www.expressen.se/nyheter/politik/c-tyckare-lat-v-inga-i-regeringen/",
+      "description": "Som stödparti skulle V kräva stora sakpolitiska eftergifter.&nbsp; Det vore mindre skadligt att låta partiet ingå i en rödgrön regering, menar två C-märkta ledarskribenter.&nbsp; C kan få finansministerposten och S slipper ett extra val.&nbsp; – Alla blir vinnare, säger Elias Rosell, politisk redaktör på Norrtelje Tidning.&nbsp;",
+      "pubDate": "2026-11-13T18:46:33Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "60 dagar utan ny regering – det här har hänt",
+      "link": "https://www.sverigesradio.se/artikel/9340658",
+      "description": "I dag har det gått 60 dagar utan en ny regering. Är det svårt att hänga med i regeringsbildningen? Ekot sammanfattar vad som har hänt de här två senaste månaderna i svensk politik.",
+      "pubDate": "2026-11-13T18:19:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "L-källa: Kristersson-regering kommer att behöva samverka med SD",
       "link": "https://www.dn.se/sverige/l-kalla-kristersson-regering-kommer-att-behova-samverka-med-sd/",
@@ -198,18 +233,6 @@
       ]
     },
     {
-      "title": "S, MP och C i nya hemliga möten",
-      "link": "https://www.expressen.se/nyheter/politik/s-mp-och-c-i-nya-hemliga-moten/",
-      "description": "S och M har lämnat sina ”totalpaket” till C.&nbsp; ”Nu kommer vi att gå igenom förslagen noggrant i våra interna beslutsprocesser”, säger C-ledaren Elisabeth Thand Ringqvist i en kommentar.&nbsp; Samtidigt har Centerpartiets riksdagsledamöter fått tydliga instruktioner om att med kort varsel kunna ta sig till Stockholm och infinna sig på möten, erfar Expressen.",
-      "pubDate": "2026-11-13T13:59:14Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "EU söker förhandlare – ”inom några veckor”",
       "link": "https://www.dn.se/varlden/eu-soker-forhandlare-inom-nagra-veckor/",
       "description": "Sverige stöttar en bred uppställning av europeiska representanter i eventuella samtal med Ryssland, säger statsminister Ulf Kristersson (M). Irlands premiärminister vill ha frågan avgjord inom några veckor.",
@@ -220,31 +243,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S-profiler om Anderssons chanser: Som Titanic",
-      "link": "https://www.expressen.se/nyheter/politik/s-profiler-om-anderssons-chanser-som-titanic/",
-      "description": "Magdalena Andersson riskerar att bli blåst på möjligheten att styra Sverige – om inte V eller C backar. Det menar en rad S-märkta opinionsbildare. – Vänsterpartiet är som kaptenen på Titanic är jag rädd, säger S-debattören Daniel Suhonen.",
-      "pubDate": "2026-11-13T13:11:19Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Vad C än gör blir det svekdebatt",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/vad-c-an-gor-blir-det-svekdebatt/",
-      "description": "Från och med i kväll är det inte längre Centerpartiet som ställer frågorna – då är det dags att ge svar. Lätt blir det inte. Att fråga väljarna ger heller ingen större hjälp.",
-      "pubDate": "2026-11-13T12:28:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     },
     {
