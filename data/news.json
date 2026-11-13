@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T10:37:20.468779Z",
+  "updated_at": "2026-11-13T18:13:24.822461Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,190 @@
   ],
   "news": [
     {
+      "title": "L-källa: Kristersson-regering kommer att behöva samverka med SD",
+      "link": "https://www.dn.se/sverige/l-kalla-kristersson-regering-kommer-att-behova-samverka-med-sd/",
+      "description": "Kristerssons paket till Centerpartiet har varit ett grupparbete mellan M, KD och L. Den svåraste knuten är inte sakpolitiken utan hur kontakterna med SD ska se ut den kommande mandatperioden. – En minoritetsregering kommer att behöva samtala med SD, säger en L-källa med god insyn.",
+      "pubDate": "2026-11-13T17:26:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "”Kristersson kan fylla sitt paket med borgerlig politik”",
+      "link": "https://www.sverigesradio.se/artikel/9340770",
+      "description": "Både Ulf Kristersson (M) och Magdalena Andersson (S) lämnade under fredagen över de så kallade ”totalpaketen” Till Elisabeth Thand Ringqvist som Centerpartiet efterfrågat. Ekots politiske kommentator Fredrik Furtenbach tror att Kristersson har bättre förutsättningar att göra ett paket med borgerlig politik som gör centerpartisterna nya. Centerpartiet ska nu gå igenom paketen. Partiet har kallat till presskonferens på måndag.",
+      "pubDate": "2026-11-13T17:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Varnar för intern splittring i C: ”Vore förödande att släppa in”",
+      "link": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
+      "description": "C-ledaren Elisabeth Thand Ringqvist har tagit emot totalpaketen från S och M. Nu står hennes parti inför ett vägval och flera personer varnar för intern splittring. – Det vore förödande att släppa in V, säger en C-källa.",
+      "pubDate": "2026-11-13T16:52:34Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Kristerssons drag – för att locka över Centerpartiet",
+      "link": "https://www.expressen.se/nyheter/politik/kristerssons-drag-for-att-locka-over-centerpartiet/",
+      "description": "Skatterna, skogen och strandskyddet. &nbsp; Det är politikområden där Moderaternas ledare Ulf Kristersson låter Centerpartiet få stort genomslag, rapporterar TV4 Nyheterna. &nbsp; – Det blir allt de önskar, säger en M-källa till tv-kanalen.&nbsp; Kristersson skriver i en debattartikel att hans regering skulle fokusera på ”tillväxt och välfärd”.&nbsp;",
+      "pubDate": "2026-11-13T16:43:15Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "C har fått förslagen från M och S: ”Ska gå igenom noggrant”",
+      "link": "https://www.sverigesradio.se/artikel/9340771",
+      "description": "Centerpartiet har fått regeringsförslag från både Socialdemokraterna och Moderaterna, men besked om vem partiet väljer dröjer. Enligt partiledaren Elisabeth Thand Ringqvist ska förslagen nu granskas internt, med fokus på en handlingskraftig regering och att begränsa ytterkanternas inflytande. Samtidigt säger Magdalena Andersson (S) att de rödgröna samtalen kan fortsätta, medan Ulf Kristersson (M) lyfter fram ett borgerligt mittenalternativ.",
+      "pubDate": "2026-11-13T16:40:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Centerledaren har fått ”totalpaket” från S och M",
+      "link": "https://www.dn.se/sverige/centerledaren-har-fatt-totalpaket-fran-s-och-m/",
+      "description": "C-ledarens statsministerkandidater har lämnat in varsitt ”totalpaket”. Magdalena Andersson (S) föreslår en regering med C, S och MP. Ulf Kristersson (M) föreslår en regering med C, M, KD och L.",
+      "pubDate": "2026-11-13T16:38:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "”SD:s inflytande skulle inte synas lika mycket”",
+      "link": "https://www.sverigesradio.se/artikel/9340747",
+      "description": "Ulf Kristersson (M) och Magdalena Andersson (S) lämnade under fredagen in de så kallade ”totalpaket” till Elisabeth Thand Ringqvist, som Centerpartiet efterfrågat. Ekots politiske kommentator Fredrik Furtenbach säger att Ulf Kristerson försöker ge Centerpartiet ett så smakligt erbjudande som möjligt. Centerpartiet har tagit emot helhetspaketen och har kallat till presskonferens på måndag.",
+      "pubDate": "2026-11-13T16:26:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Deadline för ”totalpaket” har löpt ut – C har tagit emot förslagen",
+      "link": "https://www.svt.se/nyheter/inrikes/deadline-for-totalpaket-har-lopt-ut",
+      "description": "Nu har deadline löpt ut för när Moderaterna och Socialdemokaterna behöver lämna in sina ”totalpaket” till Centerpartiet. Centerpartiet meddelar på fredagskvällen att de har tagit emot båda paketen. ”Nu kommer vi att gå igenom förslagen noggrant i våra interna beslutsprocesser”, skriver Centerledaren på fredagen.",
+      "pubDate": "2026-11-13T16:06:23Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Snökaos i Umeå: ”Bytte barnvagn mot pulka”",
+      "link": "https://www.dn.se/sverige/snokaos-i-umea-bytte-barnvagn-mot-pulka/",
+      "description": "Snöovädret riskerar att orsaka nya problem i delar av Sverige. Nu är det en kamp mot klockan i Umeå – när stora massor av blöt snö riskerar att frysa till is. – Jag bytte barnvagnen mot pulkan, säger småbarnsmamman Veronica Celinder.",
+      "pubDate": "2026-11-13T14:38:22Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "S, MP och C i nya hemliga möten",
+      "link": "https://www.expressen.se/nyheter/politik/s-mp-och-c-i-nya-hemliga-moten/",
+      "description": "S och M har lämnat sina ”totalpaket” till C.&nbsp; ”Nu kommer vi att gå igenom förslagen noggrant i våra interna beslutsprocesser”, säger C-ledaren Elisabeth Thand Ringqvist i en kommentar.&nbsp; Samtidigt har Centerpartiets riksdagsledamöter fått tydliga instruktioner om att med kort varsel kunna ta sig till Stockholm och infinna sig på möten, erfar Expressen.",
+      "pubDate": "2026-11-13T13:59:14Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "EU söker förhandlare – ”inom några veckor”",
+      "link": "https://www.dn.se/varlden/eu-soker-forhandlare-inom-nagra-veckor/",
+      "description": "Sverige stöttar en bred uppställning av europeiska representanter i eventuella samtal med Ryssland, säger statsminister Ulf Kristersson (M). Irlands premiärminister vill ha frågan avgjord inom några veckor.",
+      "pubDate": "2026-11-13T13:50:56Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "S-profiler om Anderssons chanser: Som Titanic",
+      "link": "https://www.expressen.se/nyheter/politik/s-profiler-om-anderssons-chanser-som-titanic/",
+      "description": "Magdalena Andersson riskerar att bli blåst på möjligheten att styra Sverige – om inte V eller C backar. Det menar en rad S-märkta opinionsbildare. – Vänsterpartiet är som kaptenen på Titanic är jag rädd, säger S-debattören Daniel Suhonen.",
+      "pubDate": "2026-11-13T13:11:19Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Vad C än gör blir det svekdebatt",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/vad-c-an-gor-blir-det-svekdebatt/",
+      "description": "Från och med i kväll är det inte längre Centerpartiet som ställer frågorna – då är det dags att ge svar. Lätt blir det inte. Att fråga väljarna ger heller ingen större hjälp.",
+      "pubDate": "2026-11-13T12:28:26Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Besked från M och S om totalpaket",
+      "link": "https://www.sverigesradio.se/artikel/9340248",
+      "description": "Moderaterna och Socialdemokraterna väntas i dag lämna varsitt totalpaket till Centerpartiet om politik och regeringsbildning. Beskeden kommer efter att C-ledaren Elisabeth Thand Ringqvist förra veckan begärde underlag inför partiets beslut. Ulf Kristersson beskriver sitt förslag som en borgerlig minoritetsregering, medan Magdalena Andersson lovar ett S-förslag senast klockan 17.",
+      "pubDate": "2026-11-13T11:24:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Frustrationen ökar i Miljöpartiet: ”Inte vi som är problemet”",
       "link": "https://www.dn.se/sverige/frustrationen-okar-i-miljopartiet-inte-vi-som-ar-problemet/",
       "description": "Frustrationen ökar lokalt i Miljöpartiet, enligt flera företrädare som DN har talat med. Det finns en oro över att regeringsmakten kan glida de rödgröna ur händerna – och över det hårda tonläget partierna emellan. – Risken är att man skapar låsningar som inte behöver finnas, säger en lokal MP-topp.",
@@ -88,184 +272,6 @@
       "sourceType": "news",
       "topics": [
         "MP"
-      ]
-    },
-    {
-      "title": "Ulf Kristersson försvarar C",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1ec6f2a-429c-4a09-ab71-b3573d963a9f",
-      "description": "Kristersson i TV4: Förolämpande • Lovar totalpaket",
-      "pubDate": "2026-11-13T09:54:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Så har det svängt i jakten på en ny regering",
-      "link": "https://www.dn.se/sverige/sa-har-det-svangt-i-jakten-pa-en-ny-regering/",
-      "description": "Efter det jämna valresultatet har turerna i regeringsfrågan avlöst varandra. Sverige står fortfarande utan ny regering. Här är de viktigaste vändningarna sedan valet den 13 september.",
-      "pubDate": "2026-11-13T09:45:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "I dag vill C ha besked från Andersson och Kristersson",
-      "link": "https://www.dn.se/sverige/i-dag-vill-c-ha-besked-fran-andersson-och-kristersson/",
-      "description": "Sanningens minut väntar i regeringsfrågan. I alla fall för Centerpartiet. I dag klockan 17.00 har man satt tidsgränsen för Magdalena Andersson och Ulf Kristersson att lämna sina politiska alternativ för C att ta ställning till.",
-      "pubDate": "2026-11-13T09:45:34Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Centerpartiets väljare ser hellre alliansregering än V i regering",
-      "link": "https://www.svt.se/nyheter/inrikes/centerpartiets-valjare-ser-hellre-alliansregering-an-v-i-regering",
-      "description": "Centerpartiets väljare vill helst sitta i regering med Magdalena Andersson – förutsatt att Vänsterpartiet hålls utanför. Annars föredrar de en alliansregering som släpps fram av SD, visar en undersökning från Indikator opinion. – Ju mer SD lyckas tona ned sin roll i ett sådant upplägg, desto lättare blir det för C:s väljare att acceptera det, säger opinionschefen Per Oleskog Tryggvason.",
-      "pubDate": "2026-11-13T09:25:11Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Andersson: Då lämnar vi totalpaketet",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-da-lamnar-vi-totalpaketet/",
-      "description": "C-ledaren Elisabeth Thand Ringqvist har krävt ett ”totalpaket”&nbsp;av både S och M. Deadline för svaren löper ut klockan 17. – I dag på eftermiddagen kommer vi att lämna ett förslag, säger S-ledaren Magdalena Andersson.",
-      "pubDate": "2026-11-13T09:22:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Mohamed Alis delade inlägg: Lättklädd kvinna större fara än niqab",
-      "link": "https://www.expressen.se/nyheter/sverige/mohamed-alis-delade-inlagg-lattkladd-kvinna-storre-fara-an-niqab/",
-      "description": "Nyvalde V-riksdagsmannen Mohamed Ali säger att han står bakom Vänsterpartiets politik. Men Expressen kan nu avslöja att han förespråkat kollektiv bestraffning och delat en hyllning av en imam som säger att lättklädda kvinnor är en fara för samhället. – Jag står inte bakom de här inläggen i dag, skriver Mohamed Ali i en kommentar.",
-      "pubDate": "2026-11-13T09:06:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Melinda Jacobs: ”Det jag varit med om har gjort mig hård”",
-      "link": "https://www.dn.se/sverige/melinda-jacobs-det-jag-varit-med-om-har-gjort-mig-hard/",
-      "description": "Hon var Lilla hjärtats familjehemsmamma och blev hela Sveriges barnrättsaktivist. Men förra året vände allt. Melinda Jacobs anklagades för att exploatera sitt döda barn. Nu berättar hon och maken Martin ”E-Type” Erikson om drevet, livet på gården och den nya bebisen.",
-      "pubDate": "2026-11-13T04:12:52Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "V-väljare: Hellre regering utan Vänsterpartiet än extraval",
-      "link": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
-      "description": "V-väljare ser helst en rödgrön fyrpartiregering – men om valet står mellan ett extraval eller stå utanför en regering med S, MP och C, då föredrar de det senare. Det visar en mätning som Indikator opinion gjort för SVT:s räkning. – Undersökningen visar att det finns en tydlig beredskap att acceptera andra lösningar, säger opinionschefen Per Oleskog Tryggvason.",
-      "pubDate": "2026-11-12T20:07:45Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Nästan omöjligt förena nyliberalism och kommunism",
-      "link": "https://www.dn.se/insandare/nastan-omojligt-forena-nyliberalism-och-kommunism/",
-      "description": "INSÄNDARE. Om S-ledaren Magdalena Andersson lyckas bilda regering med stöd av både Vänsterpartiet och Centerpartiet kan hon att gå till historien. Det existerar en ekonomisk avgrund mellan dessa partier, och för att överbrygga den krävs förmodligen en närmast övernaturlig förmåga, skriver Lars Almroth.",
-      "pubDate": "2026-11-12T19:02:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "SD-ledamot lämnar – efter anklagelser om sexuella övertramp",
-      "link": "https://www.sverigesradio.se/artikel/9339959",
-      "description": "Sverigedemokraten Rasmus Giertz lämnar riksdagen efter anklagelser om sexuella övertramp mot flera unga kvinnor. Dagens Nyheter har granskat uppgifter från tidigare och nuvarande medlemmar i SD:s ungdomsförbund. I en kommentar till Ekot avvisar Giertz bestämt bilden som målats upp som han menar grundar sig i ryktesspridning och rena falsarier.",
-      "pubDate": "2026-11-12T18:09:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "M kräver granskning av bristerna kring Safiren: ”Fullkomligt oacceptabelt”",
-      "link": "https://www.dn.se/sverige/m-kraver-granskning-av-bristerna-kring-safiren-fullkomligt-oacceptabelt/",
-      "description": "Vårdboendet Safiren i Vallentuna hotas av stängning sedan Ivo slagit ner på ett administrativt misstag från Region Stockholm. Nu kräver Moderaterna en oberoende granskning av regionens hantering av registerutdragen. – Man måste erkänna att det här har varit en nonchalans gentemot de här barnen, säger Axel Conradi (M).",
-      "pubDate": "2026-11-12T17:17:49Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "”SD-hotet ska få C att välja Andersson – trots Vänsterpartiet”",
-      "link": "https://www.svt.se/nyheter/inrikes/sd-hotet-ska-fa-c-att-valja-andersson-trots-vansterpartiet",
-      "description": "Till sist tog Centerpartiet fasta på sin vågmästarroll och möttes av en rödgrön ångvält av kritik. Magdalena Andersson lägger nu mycket kraft på att varna C för vad en Kristersson-regering skulle innebära. De tolv SD-ministrarna är visserligen borta från bordet men budskapet om att ett SD-inflytande är ett hot mot den liberala demokratin ligger fast. I det läget kan det vara för kostsamt för C att byta sida.",
-      "pubDate": "2026-11-12T15:39:32Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "V utesluter att backa – efter C-ledarens nya deadline",
-      "link": "https://www.svt.se/nyheter/inrikes/v-utesluter-att-backa-efter-c-ledarens-nya-deadline",
-      "description": "V har ställt in möten med S, C och MP under torsdagen. C-ledaren Elisabeth Thand Ringqvist uppmanar V att släppa ministerkravet – och komma tillbaka till förhandlingsbordet. Men enligt V-toppen Ida Gabrielsson är det helt uteslutet att backa. – Vi ska sitta i regering, säger hon.",
-      "pubDate": "2026-11-12T15:31:41Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "V-källor: S ”totalpaket” till Centerpartiet är oseriöst",
-      "link": "https://www.dn.se/sverige/v-kallor-s-totalpaket-till-centerpartiet-ar-oseriost/",
-      "description": "Socialdemokraterna har presenterat en lång lista på sakförslag för att få ihop en regering. Tandvårdsreform, avskaffat karensavdrag och reformering av Arbetsförmedlingen fanns med för att locka Vänsterpartiet att stå utanför. – Det fanns ingen finansiering, det var ingen seriös förhandling, säger en V-källa med insyn i samtalen.",
-      "pubDate": "2026-11-12T15:08:18Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
       ]
     }
   ],
@@ -293,6 +299,19 @@
       "sourceType": "blog",
       "topics": [
         "C"
+      ]
+    },
+    {
+      "title": "”Nu står Centerpartiet inför samma fråga som Liberalerna”",
+      "link": "https://www.dagensarena.se/innehall/nu-star-centerpartiet-infor-samma-fraga-som-liberalerna/",
+      "description": "Statsvetaren Jenny Madestam om läget i regeringsförhandlingarna. Inlägget ”Nu står Centerpartiet inför samma fråga som Liberalerna” dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-11T16:45:29Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C",
+        "L"
       ]
     },
     {
