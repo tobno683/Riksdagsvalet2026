@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T22:32:27.010581Z",
+  "updated_at": "2026-11-13T03:00:17.056874Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -91,20 +91,6 @@
       ]
     },
     {
-      "title": "​22 timmar till totalpaketet – V  ryter till mot C: ”Får vara nog”",
-      "link": "https://www.expressen.se/nyheter/politik/22-timmar-till-totalpaketet-v--ryter-till-mot-c-far-vara-nog/",
-      "description": "Om 22 timmar väntas statsministerkandidaterna lämna in var sitt ”totalpaket” till Elisabeth Thand Ringqvist (C). Nu ryter Vänsterpartiet återigen ifrån. ”Det får vara nog nu”, skriver Ida Gabrielsson (V) på X.&nbsp;",
-      "pubDate": "2026-11-12T19:25:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Insändare. Nästan omöjligt förena nyliberalism och kommunism",
       "link": "https://www.dn.se/insandare/nastan-omojligt-forena-nyliberalism-och-kommunism/",
       "description": "INSÄNDARE. Om S-ledaren Magdalena Andersson lyckas bilda regering med stöd av både Vänsterpartiet och Centerpartiet kan hon att gå till historien. Det existerar en ekonomisk avgrund mellan dessa partier, och för att överbrygga den krävs förmodligen en närmast övernaturlig förmåga, skriver Lars Almroth.",
@@ -140,20 +126,6 @@
       "sourceType": "news",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "V-utspelet: Vi hjälper inte S",
-      "link": "https://www.expressen.se/nyheter/politik/v-utspelet-vi-hjalper-inte-s/",
-      "description": "Centerpartiet vill ha ”totalpaket” från S och M med förslag på regeringsunderlag.&nbsp; Vänsterpartiet vägrar att hjälpa S ta fram sitt innehåll.&nbsp; De kommer inte delta i några förhandlingar.&nbsp;",
-      "pubDate": "2026-11-12T17:16:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "Regeringsbildning"
       ]
     },
     {
@@ -239,19 +211,6 @@
       ]
     },
     {
-      "title": "Furtenbach: ”Bekräftar bara att läget forfarande är låst”",
-      "link": "https://www.sverigesradio.se/artikel/9339523",
-      "description": "Vänsterpartiet kom inte med några nya besked på torsdagens pressträff, säger Fredrik Furtenbach, inrikespolitisk kommentator: ”Man kan sammanfatta budskapet väldigt kort: blir det inget rödgrönt samarbete är det inte vårt fel.” Vänsterpartiet håller fast vid sina krav på ministerposter, och Centerpartiet har redan hunnit svara att de inte heller ger vika.",
-      "pubDate": "2026-11-12T12:04:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "Tomas Ramberg: V vill pressa fram omröstning om Kristersson",
       "link": "https://www.dn.se/sverige/tomas-ramberg-v-vill-pressa-fram-omrostning-om-kristersson/",
       "description": "Vänsterpartiet vill få till en statsministeromröstning om Ulf Kristersson och därmed tvinga Centern att välja sida. Genom att V lämnar förhandlingarna ska talmannen se att Magdalena Andersson inte gör några framsteg och därmed inte heller har argument för att fördröja nästa omröstning. Om Centern väljer att nobba Kristersson räknar V med att få ett bättre förhandlingsläge inför en sista och avgörande riksdagsvotering.",
@@ -267,16 +226,53 @@
       ]
     },
     {
-      "title": "Dadgostar till C: ”Vår dörr står öppen”",
-      "link": "https://www.sverigesradio.se/artikel/9339506",
-      "description": "Vänsterpartiet är berett att förhandla med Centerpartiet i regeringsfrågan, men kravet på att få sitta i regering kvarstår. Det framkom på en pressträff som partiledare Nooshi Dadgostar kallade till strax före lunch. ”Vår dörr står som vanligt öppen.”",
-      "pubDate": "2026-11-12T11:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "Vänsterpartiets krav på Centern: Välj sida",
+      "link": "https://www.dn.se/sverige/vansterpartiets-krav-pa-centern-valj-sida/",
+      "description": "Vänsterpartiet kommer inte att delta i nya samtal med de rödgröna partierna förrän Centerpartiet valt sida. Om det blir Magdalena Anderssons regeringsalternativ har V inte släppt kravet på ministerposter. – Vårt budskap till Centerpartiet är att vår dörr står som vanligt öppen, säger Nooshi Dadgostar.",
+      "pubDate": "2026-11-12T11:36:48Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
         "V",
         "C"
+      ]
+    },
+    {
+      "title": "Upprustningen fortsätter trots stram övergångsbudget",
+      "link": "https://www.dn.se/sverige/upprustningen-fortsatter-trots-stram-overgangsbudget/",
+      "description": "Sverige har tagit sig ur lågkonjunkturen. Det är budskapet när finansminister Elisabeth Svantesson lägger fram regeringens övergångsbudget. Det mesta liknar 2026 års budget – men den militära upprustningen fortsätter att öka.",
+      "pubDate": "2026-11-12T07:01:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Dyrare diesel, kungligt kalas och fängelseplatser – det innehåller budgeten",
+      "link": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
+      "description": "Idag presenterar Elisabeth Svantesson (M) sin övergångsbudget. Den har tagits fram utifrån strikta regler, men finansministern har ändå gjort vissa undantag.",
+      "pubDate": "2026-11-12T07:00:04Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Övergångsbudgeten presenteras idag – utan partipolitiska satsningar",
+      "link": "https://www.svt.se/nyheter/inrikes/overgangsbudgeten-presenteras-idag-utan-partipolitiska-satsningar",
+      "description": "Sverige saknar fortfarande en regering. I och med detta presenterar idag finansminister Elisabeth Svantesson(M) en så kallad övergångsbudget – helt tom på partipolitik och nya satsningar. – Vill man som ny regering göra större omtag kan man vänta till april och vårändringsbudgeten, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
+      "pubDate": "2026-11-12T05:00:22Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
       ]
     }
   ],
@@ -304,30 +300,6 @@
       "topics": [
         "C",
         "L"
-      ]
-    },
-    {
-      "title": "En kompromiss som både V och C kan acceptera",
-      "link": "https://www.dagensarena.se/opinion/en-kompromiss-som-bade-v-och-c-kan-acceptera/",
-      "description": "Vänsterpartiet kan behöva prövas innan de får ministrar. Inlägget En kompromiss som både V och C kan acceptera dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-11T00:39:04Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ställ din plats till förfogande, Dadgostar",
-      "link": "https://www.dagensarena.se/opinion/stall-din-plats-till-forfogande-dadgostar/",
-      "description": "Vänsterpartiet har avgörandet i sin hand. Inlägget Ställ din plats till förfogande, Dadgostar dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-11T00:10:45Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
       ]
     },
     {
