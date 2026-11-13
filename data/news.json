@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T03:00:17.056874Z",
+  "updated_at": "2026-11-13T10:37:20.468779Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,9 +79,108 @@
   ],
   "news": [
     {
+      "title": "Frustrationen ökar i Miljöpartiet: ”Inte vi som är problemet”",
+      "link": "https://www.dn.se/sverige/frustrationen-okar-i-miljopartiet-inte-vi-som-ar-problemet/",
+      "description": "Frustrationen ökar lokalt i Miljöpartiet, enligt flera företrädare som DN har talat med. Det finns en oro över att regeringsmakten kan glida de rödgröna ur händerna – och över det hårda tonläget partierna emellan. – Risken är att man skapar låsningar som inte behöver finnas, säger en lokal MP-topp.",
+      "pubDate": "2026-11-13T10:21:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Ulf Kristersson försvarar C",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c1ec6f2a-429c-4a09-ab71-b3573d963a9f",
+      "description": "Kristersson i TV4: Förolämpande • Lovar totalpaket",
+      "pubDate": "2026-11-13T09:54:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Så har det svängt i jakten på en ny regering",
+      "link": "https://www.dn.se/sverige/sa-har-det-svangt-i-jakten-pa-en-ny-regering/",
+      "description": "Efter det jämna valresultatet har turerna i regeringsfrågan avlöst varandra. Sverige står fortfarande utan ny regering. Här är de viktigaste vändningarna sedan valet den 13 september.",
+      "pubDate": "2026-11-13T09:45:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "I dag vill C ha besked från Andersson och Kristersson",
+      "link": "https://www.dn.se/sverige/i-dag-vill-c-ha-besked-fran-andersson-och-kristersson/",
+      "description": "Sanningens minut väntar i regeringsfrågan. I alla fall för Centerpartiet. I dag klockan 17.00 har man satt tidsgränsen för Magdalena Andersson och Ulf Kristersson att lämna sina politiska alternativ för C att ta ställning till.",
+      "pubDate": "2026-11-13T09:45:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Centerpartiets väljare ser hellre alliansregering än V i regering",
+      "link": "https://www.svt.se/nyheter/inrikes/centerpartiets-valjare-ser-hellre-alliansregering-an-v-i-regering",
+      "description": "Centerpartiets väljare vill helst sitta i regering med Magdalena Andersson – förutsatt att Vänsterpartiet hålls utanför. Annars föredrar de en alliansregering som släpps fram av SD, visar en undersökning från Indikator opinion. – Ju mer SD lyckas tona ned sin roll i ett sådant upplägg, desto lättare blir det för C:s väljare att acceptera det, säger opinionschefen Per Oleskog Tryggvason.",
+      "pubDate": "2026-11-13T09:25:11Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Andersson: Då lämnar vi totalpaketet",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-da-lamnar-vi-totalpaketet/",
+      "description": "C-ledaren Elisabeth Thand Ringqvist har krävt ett ”totalpaket”&nbsp;av både S och M. Deadline för svaren löper ut klockan 17. – I dag på eftermiddagen kommer vi att lämna ett förslag, säger S-ledaren Magdalena Andersson.",
+      "pubDate": "2026-11-13T09:22:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Mohamed Alis delade inlägg: Lättklädd kvinna större fara än niqab",
+      "link": "https://www.expressen.se/nyheter/sverige/mohamed-alis-delade-inlagg-lattkladd-kvinna-storre-fara-an-niqab/",
+      "description": "Nyvalde V-riksdagsmannen Mohamed Ali säger att han står bakom Vänsterpartiets politik. Men Expressen kan nu avslöja att han förespråkat kollektiv bestraffning och delat en hyllning av en imam som säger att lättklädda kvinnor är en fara för samhället. – Jag står inte bakom de här inläggen i dag, skriver Mohamed Ali i en kommentar.",
+      "pubDate": "2026-11-13T09:06:27Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Melinda Jacobs: ”Det jag varit med om har gjort mig hård”",
+      "link": "https://www.dn.se/sverige/melinda-jacobs-det-jag-varit-med-om-har-gjort-mig-hard/",
+      "description": "Hon var Lilla hjärtats familjehemsmamma och blev hela Sveriges barnrättsaktivist. Men förra året vände allt. Melinda Jacobs anklagades för att exploatera sitt döda barn. Nu berättar hon och maken Martin ”E-Type” Erikson om drevet, livet på gården och den nya bebisen.",
+      "pubDate": "2026-11-13T04:12:52Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
       "title": "V-väljare: Hellre regering utan Vänsterpartiet än extraval",
       "link": "https://www.svt.se/nyheter/inrikes/v-valjare-hellre-regering-utan-vansterpartiet-an-extraval",
-      "description": "V-väljare ser helst en rödgrön fyrpartiregering – men om valet står mellan ett extraval eller stå utanför en regering med S, MP och C, då föredrar de det senare. Det visar en mätning som Indikator opinion gjort för SVT:s räkning. – Undersökningen visar att det finns en tydlig beredskap att acceptera andra lösningar, säger opinionschefen Per Oleskog-Tryggvason.",
+      "description": "V-väljare ser helst en rödgrön fyrpartiregering – men om valet står mellan ett extraval eller stå utanför en regering med S, MP och C, då föredrar de det senare. Det visar en mätning som Indikator opinion gjort för SVT:s räkning. – Undersökningen visar att det finns en tydlig beredskap att acceptera andra lösningar, säger opinionschefen Per Oleskog Tryggvason.",
       "pubDate": "2026-11-12T20:07:45Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
@@ -129,21 +228,6 @@
       ]
     },
     {
-      "title": "Konflikten mellan C och V: ”Hoppas V inser stundens allvar”",
-      "link": "https://www.sverigesradio.se/artikel/9339865",
-      "description": "Konflikten mellan Vänsterpartiet och Centerpartiet hårdnar sedan V lämnat regeringsförhandlingarna när partiet hålls utanför regeringen. C kräver att V återvänder till bordet, medan V vill att C stödjer Magdalena Andersson i stället för att öppna för Ulf Kristersson och SD-inflytande. ”Nu får C ta ansvar för sitt vägval så vi vet var de hör hemma och så att väljarna inte blir lurade”, säger Vänsterpartiets vice ordförande, Ida Gabrielsson.",
-      "pubDate": "2026-11-12T16:38:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C"
-      ]
-    },
-    {
       "title": "”SD-hotet ska få C att välja Andersson – trots Vänsterpartiet”",
       "link": "https://www.svt.se/nyheter/inrikes/sd-hotet-ska-fa-c-att-valja-andersson-trots-vansterpartiet",
       "description": "Till sist tog Centerpartiet fasta på sin vågmästarroll och möttes av en rödgrön ångvält av kritik. Magdalena Andersson lägger nu mycket kraft på att varna C för vad en Kristersson-regering skulle innebära. De tolv SD-ministrarna är visserligen borta från bordet men budskapet om att ett SD-inflytande är ett hot mot den liberala demokratin ligger fast. I det läget kan det vara för kostsamt för C att byta sida.",
@@ -183,100 +267,22 @@
         "V",
         "C"
       ]
-    },
-    {
-      "title": "Dadgostars krav på C: Visa korten nu!",
-      "link": "https://www.dn.se/podd/alskade-politik/dadgostars-krav-pa-c-visa-korten-nu/",
-      "description": "Centerpartiet och Vänsterpartiet i blame game – vem är det som kastar grus i regeringsbildningsmaskineriet? Därför ställer alla krav på varandra.",
-      "pubDate": "2026-11-12T14:50:02Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Socialdemokraternas val är en personlig förolämpning",
-      "link": "https://www.dn.se/insandare/socialdemokraternas-val-ar-en-personlig-forolampning/",
-      "description": "INSÄNDARE. För alla med invandrarbakgrund väcker grundlagsändringen om medborgarskap frågan om hur självklart vi får höra till i vårt eget land. Varför ska staten kunna ta ifrån en svensk medborgare det som en annan får behålla efter exakt samma brott? frågar Juan Fonseca.",
-      "pubDate": "2026-11-12T12:15:40Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Tomas Ramberg: V vill pressa fram omröstning om Kristersson",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-v-vill-pressa-fram-omrostning-om-kristersson/",
-      "description": "Vänsterpartiet vill få till en statsministeromröstning om Ulf Kristersson och därmed tvinga Centern att välja sida. Genom att V lämnar förhandlingarna ska talmannen se att Magdalena Andersson inte gör några framsteg och därmed inte heller har argument för att fördröja nästa omröstning. Om Centern väljer att nobba Kristersson räknar V med att få ett bättre förhandlingsläge inför en sista och avgörande riksdagsvotering.",
-      "pubDate": "2026-11-12T11:51:51Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Vänsterpartiets krav på Centern: Välj sida",
-      "link": "https://www.dn.se/sverige/vansterpartiets-krav-pa-centern-valj-sida/",
-      "description": "Vänsterpartiet kommer inte att delta i nya samtal med de rödgröna partierna förrän Centerpartiet valt sida. Om det blir Magdalena Anderssons regeringsalternativ har V inte släppt kravet på ministerposter. – Vårt budskap till Centerpartiet är att vår dörr står som vanligt öppen, säger Nooshi Dadgostar.",
-      "pubDate": "2026-11-12T11:36:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Upprustningen fortsätter trots stram övergångsbudget",
-      "link": "https://www.dn.se/sverige/upprustningen-fortsatter-trots-stram-overgangsbudget/",
-      "description": "Sverige har tagit sig ur lågkonjunkturen. Det är budskapet när finansminister Elisabeth Svantesson lägger fram regeringens övergångsbudget. Det mesta liknar 2026 års budget – men den militära upprustningen fortsätter att öka.",
-      "pubDate": "2026-11-12T07:01:10Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Dyrare diesel, kungligt kalas och fängelseplatser – det innehåller budgeten",
-      "link": "https://www.svt.se/nyheter/inrikes/dyrare-diesel-kungligt-kalas-och-fangelseplatser-det-innehaller-budgeten",
-      "description": "Idag presenterar Elisabeth Svantesson (M) sin övergångsbudget. Den har tagits fram utifrån strikta regler, men finansministern har ändå gjort vissa undantag.",
-      "pubDate": "2026-11-12T07:00:04Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Övergångsbudgeten presenteras idag – utan partipolitiska satsningar",
-      "link": "https://www.svt.se/nyheter/inrikes/overgangsbudgeten-presenteras-idag-utan-partipolitiska-satsningar",
-      "description": "Sverige saknar fortfarande en regering. I och med detta presenterar idag finansminister Elisabeth Svantesson(M) en så kallad övergångsbudget – helt tom på partipolitik och nya satsningar. – Vill man som ny regering göra större omtag kan man vänta till april och vårändringsbudgeten, säger SVT:s inrikespolitiska kommentator Mats Knutson.",
-      "pubDate": "2026-11-12T05:00:22Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Därför kräver Vänsterpartiet statsrådsposter",
+      "link": "https://ledarsidorna.se/darfor-vill-inte-v-redogora-for-varfor-de-kraver-statsradsposter/",
+      "description": "Vänsterpartiets hårdnackade försvar av det som de anser rätten till statsrådsposter går bortom sakpolitiken. Det är genom att sitta i regeringen som den verkliga påverkan finns av samhällsutvecklingen, inte i de sakpolitiska förhandlingsvinsterna och ett eventuellt samordningskansli. En regeringskonst som Socialdemokraterna behärskat till fulländning. I den svenska parlamentariska modellen är det riksdagen som stiftar lagar [&#8230;]",
+      "pubDate": "2026-11-13T04:04:41Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Regeringskrisens verkliga namn är Thand Ringqvist",
       "link": "https://www.dagensarena.se/opinion/regeringskrisens-verkliga-namn-ar-thand-ringqvist/",
@@ -287,19 +293,6 @@
       "sourceType": "blog",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "”Nu står Centerpartiet inför samma fråga som Liberalerna”",
-      "link": "https://www.dagensarena.se/innehall/nu-star-centerpartiet-infor-samma-fraga-som-liberalerna/",
-      "description": "Statsvetaren Jenny Madestam om läget i regeringsförhandlingarna. Inlägget ”Nu står Centerpartiet inför samma fråga som Liberalerna” dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-11T16:45:29Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C",
-        "L"
       ]
     },
     {
