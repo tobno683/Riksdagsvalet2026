@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T23:44:32.587829Z",
+  "updated_at": "2026-11-14T03:47:42.955576Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -246,21 +246,6 @@
       ]
     },
     {
-      "title": "Besked från M och S om totalpaket",
-      "link": "https://www.sverigesradio.se/artikel/9340248",
-      "description": "Moderaterna och Socialdemokraterna väntas i dag lämna varsitt totalpaket till Centerpartiet om politik och regeringsbildning. Beskeden kommer efter att C-ledaren Elisabeth Thand Ringqvist förra veckan begärde underlag inför partiets beslut. Ulf Kristersson beskriver sitt förslag som en borgerlig minoritetsregering, medan Magdalena Andersson lovar ett S-förslag senast klockan 17.",
-      "pubDate": "2026-11-13T11:24:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Frustrationen ökar i Miljöpartiet: ”Inte vi som är problemet”",
       "link": "https://www.dn.se/sverige/frustrationen-okar-i-miljopartiet-inte-vi-som-ar-problemet/",
       "description": "Frustrationen ökar lokalt i Miljöpartiet, enligt flera företrädare som DN har talat med. Det finns en oro över att regeringsmakten kan glida de rödgröna ur händerna – och över det hårda tonläget partierna emellan. – Risken är att man skapar låsningar som inte behöver finnas, säger en lokal MP-topp.",
@@ -271,6 +256,16 @@
       "topics": [
         "MP"
       ]
+    },
+    {
+      "title": "Så har det svängt i jakten på en ny regering",
+      "link": "https://www.dn.se/sverige/sa-har-det-svangt-i-jakten-pa-en-ny-regering/",
+      "description": "Efter det jämna valresultatet har turerna i regeringsfrågan avlöst varandra. Sverige står fortfarande utan ny regering. Här är de viktigaste vändningarna sedan valet den 13 september.",
+      "pubDate": "2026-11-13T09:45:41Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     }
   ],
   "blogs": [
@@ -297,19 +292,6 @@
       "sourceType": "blog",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "”Nu står Centerpartiet inför samma fråga som Liberalerna”",
-      "link": "https://www.dagensarena.se/innehall/nu-star-centerpartiet-infor-samma-fraga-som-liberalerna/",
-      "description": "Statsvetaren Jenny Madestam om läget i regeringsförhandlingarna. Inlägget ”Nu står Centerpartiet inför samma fråga som Liberalerna” dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-11T16:45:29Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C",
-        "L"
       ]
     },
     {
