@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T17:14:05.992634Z",
+  "updated_at": "2026-11-14T21:37:03.888337Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,55 @@
     }
   ],
   "news": [
+    {
+      "title": "Andersson (S) förtydligar – efter kritiken från V: ”Feltolkning”",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-s-fortydligar-efter-kritiken-fran-v-feltolkning/",
+      "description": "V är redo att förhandla vidare om en rödgrön regering, skrev S-ledaren i en debattartikel i Expressen. &nbsp; Det tolkades av vissa som att V släppt kravet på ministerposter, vilket partiet gick ut och förnekade.&nbsp; Andersson har nu publicerat ett förtydligande i sociala medier.&nbsp;",
+      "pubDate": "2026-11-14T21:03:23Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Tidigare V-toppen Jens Holm vill se S-regering",
+      "link": "https://www.expressen.se/nyheter/sverige/tidigare-v-toppen-jens-holm-vill-se-s-regering/",
+      "description": "En S-regering som har stöd av V, C och MP.&nbsp; Det tror den tidigare V-toppen Jens Holm är vägen framåt för de rödgröna partierna.&nbsp; Han är inte imponerad av V:s förhandlingsstrategi.&nbsp; – Alternativet kan bli att man schabblar bort allting och att det blir Kristersson fyra år till. Det är det inte värt, säger han.&nbsp;",
+      "pubDate": "2026-11-14T18:48:12Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "”Ett smörgåsbord för C – men det kan få stå oätet”",
+      "link": "https://www.svt.se/nyheter/inrikes/ett-smorgasbord-for-c-men-det-kan-fa-sta-oatet",
+      "description": "Av läckorna att döma är Socialdemokraternas ”totalpaket” till Centerpartiet ett smörgåsbord av centerpartistisk politik. Risken är dock att det får stå oätet – och att en lösning på regeringsfrågan är längre bort än det kan framstå.",
+      "pubDate": "2026-11-14T18:34:43Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "C-profilerna om svåra vägvalet: ”Tiden är inne”",
+      "link": "https://www.expressen.se/nyheter/politik/c-profilerna-om-svara-vagvalet-tiden-ar-inne/",
+      "description": "Ett rödgrönt mittenparti eller ett borgerligt parti. Centerpartiet har ett strategiskt vägval framför sig. – Tiden är inne för Centerpartiet att välja hur det här ska sluta, säger C-profilen Karin Källström.",
+      "pubDate": "2026-11-14T17:38:00Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
     {
       "title": "Så försöker Socialdemokraterna locka Centerpartiet till sig",
       "link": "https://www.sverigesradio.se/artikel/9341055",
@@ -205,67 +254,12 @@
       ]
     },
     {
-      "title": "Damberg: Vi kommer att stoppa en borgerlig budget",
-      "link": "https://www.expressen.se/nyheter/politik/damberg-vi-kommer-att-stoppa-en-borgerlig-budget/",
-      "description": "Om Centern väljer M-ledaren Ulf Kristersson i stället för de rödgröna kommer Socialdemokraterna att gå ihop med V och MP om budgeten, säger ekonomisk-politiske talespersonen Mikael Damberg till TT. – En Tidö 2-regering kommer att vara fullständigt beroende av SD i varenda fråga, säger han.",
-      "pubDate": "2026-11-14T12:41:46Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
       "title": "Uppgifter: Detta erbjuder S till C i sitt ”totalpaket”",
       "link": "https://www.svt.se/nyheter/inrikes/uppgifter-detta-erbjuder-s-till-c-i-sitt-totalpaket",
       "description": "Socialdemokraterna och Moderaterna har lämnat varsitt ”totalpaket” till Centerpartiet. Enligt uppgifter till SVT rör det sig om ett hundratal punkter, gällande allt från äganderätt till skogen till demokrati och public service.",
       "pubDate": "2026-11-14T12:30:17Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson: V är redo att delta i förhandlingar",
-      "link": "https://www.sverigesradio.se/artikel/9340985",
-      "description": "Socialdemokraterna vill bilda en regering med Centerpartiet och Miljöpartiet i samarbete med Vänsterpartiet, skriver Magdalena Andersson i en debattartikel i Expressen . Vänsterpartiet har tydliggjort att även de står redo att delta i dessa förhandlingar, enligt Andersson. I debattartikeln presenterar hon det ”totalpaket” som hon lagt fram på Centerpartiets begäran. ”Om ett sådant regeringsalternativ inte går i lås är det bara en regering där både Socialdemokraterna och Moderaterna ingår som har förutsättningar att kunna fungera”, skriver partiledaren i Expressen.",
-      "pubDate": "2026-11-14T12:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "Andersson: Då är det bara S och M som kan styra",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-da-ar-det-bara-s-och-m-som-kan-styra/",
-      "description": "Magdalena Andersson (S) har lämnat sitt regeringsförslag till C. V är enligt henne redo att förhandla vidare – även om S inte vill ge dem plats i regeringen. Misslyckas de rödgröna finns enligt Andersson bara ett alternativ: Att S och M går ihop. Det skriver S-ledaren i en debattartikel i Expressen.",
-      "pubDate": "2026-11-14T11:57:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Centerpartister delade mellan höger och vänster",
-      "link": "https://www.sverigesradio.se/artikel/9340977",
-      "description": "Centerpartiet är delat i frågan om partiet ska gå högerut eller vänsterut, efter att Moderaterna och Socialdemokraterna lämnat sina regeringsförslag. I Laholm hoppas kommunstyrelsens ordförande Ove Bengtsson på en borgerlig lösning sedan SD släppt kravet på ministerposter, medan Lars Vikinge, kommunalråd i Linköping, varnar för beroende av SD och lutar åt Magdalena Andersson. Samtidigt kritiserar båda C-företrädarna partiets röda linjer.",
-      "pubDate": "2026-11-14T11:31:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
