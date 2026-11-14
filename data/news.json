@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T11:02:06.436273Z",
+  "updated_at": "2026-11-14T17:14:05.992634Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,35 +79,179 @@
   ],
   "news": [
     {
-      "title": "Tomas Ramberg: C behöver inte välja sida nu heller",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-c-behover-inte-valja-sida-nu-heller/",
-      "description": "Det är inte slut förrän det är slut. Centern kan ta god tid på sig att välja statsministerkandidat. Ingenting hindrar Elisabeth Thand Ringqvist från att dröja till den fjärde och sista omröstningen innan hon sätter ned foten.",
-      "pubDate": "2026-11-14T10:25:19Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Så försöker Socialdemokraterna locka Centerpartiet till sig",
+      "link": "https://www.sverigesradio.se/artikel/9341055",
+      "description": "Inför Centerpartiets besked om vilken statsministerkandidat partiet kommer välja, försöker nu Socialdemokraterna öka trycket på partiet. Mikael Damberg (S) säger till TT att Socialdemokraterna är berett att stoppa en budget från en regering ledd av Ulf Kristersson. I en debattartikel i Expressen utlovar Socialdemokraternas partiledare Magdalena Andersson bland annat att gå Centerpartiet till mötes i frågan om att grundlagsskydda ägandet av skogen.",
+      "pubDate": "2026-11-14T16:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
+        "M",
         "C",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "Finansministern berättar om sin adhd",
-      "link": "https://www.expressen.se/nyheter/politik/finansministern-berattar-om-sin-adhd/",
-      "description": "Finansminister Elisabeth Svantesson (M) har adhd. Nu berättar hon för första gången om hur diagnosen påverkar henne. – Man kan ha adhd och komma väldigt långt om man får hjälp, säger hon i TV4:s ”Nyhetsmorgon” .",
-      "pubDate": "2026-11-14T09:34:15Z",
+      "title": "”Nu sätter Socialdemokraterna in det tunga artilleriet”",
+      "link": "https://www.sverigesradio.se/artikel/9341051",
+      "description": "Under lördagen har det kommit flera socialdemokratiska utspel i regeringsfrågan. Ekots inrikespolitiska kommentator, Helena Gissén, säger att Socialdemokraterna nu sätter in det tunga artilleriet och läcker ut olika punkter ur sitt erbjudande till Centerpartiet. Samtidigt vill S ge sken av att Vänsterpartiet skulle vara beredda att förhandla, trots att Ida Gabrielsson vidhåller kravet på ministerposter.",
+      "pubDate": "2026-11-14T16:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "S, MP och C vill riva upp Tidös regler för arbetskraftsinvandring",
+      "link": "https://www.dn.se/sverige/s-mp-och-c-vill-riva-upp-tidos-regler-for-arbetskraftsinvandring/",
+      "description": "S, C och MP har kommit överens om flera punkter för att bilda en gemensam regering, erfar DN. Totalt handlar det om sju samarbetsprojekt. Partierna är bland annat överens om att riva upp Tidöpartiernas regler för arbetskraftsinvandring.",
+      "pubDate": "2026-11-14T15:59:45Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Den galna politikveckan – vad var det egentligen som hände?",
+      "link": "https://www.dn.se/sverige/den-galna-politikveckan-vad-var-det-egentligen-som-hande/",
+      "description": "Länge verkade det helt omöjligt att få någon att vilja bli statsminister. Motvilligt accepterade Ulf Kristersson (M) att ta på sig talmannens sonderingsuppdrag. Men så kallade Jimmie Åkesson (SD) till pressträff. Det satte sådan fart på förhandlingarna att till och med erfarna politikjournalister fick svårt att hänga med. Så vad hände egentligen?",
+      "pubDate": "2026-11-14T15:59:34Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Annika Strandhäll: Signaler att C väljer M:s alternativ",
+      "link": "https://www.expressen.se/nyheter/politik/annika-strandhall-signaler-att-c-valjer-ms-alternativ/",
+      "description": "Socialdemokraterna får tydliga signaler om att C är på väg att välja Ulf Kristersson (M). Mångåriga S-toppen Annika Strandhäll uppmanar nu C och V att tänka efter. –&nbsp;Vår bild är att Centerns beslut är nära förestående, säger hon.",
+      "pubDate": "2026-11-14T15:55:24Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Därför tvekar svenskarna kring elbilsköpet",
+      "link": "https://www.dn.se/motor/darfor-tvekar-svenskarna-kring-elbilskopet/",
+      "description": "Begränsad räckvidd, batterioro och högt inköpspris får svenska bilköpare att tveka inför elbilsköpet. Men av dem som redan har gått den elektriska vägen är valet enklare. Sju av tio uppger att de skulle välja el nästa gång. Det visar en ny rapport från mobilitetsbanken Ziklo Bank.",
+      "pubDate": "2026-11-14T15:31:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Finansministern öppnar upp om sin adhd-diagnos",
+      "link": "https://www.svt.se/nyheter/inrikes/finansministern-oppnar-upp-om-sin-adhd-diagnos",
+      "description": "Under lördagsmorgonen öppnade finansminister Elisabeth Svantesson (M) för första gången upp om sin adhd-diagnos i TV4:s Nyhetsmorgon. – Jag vet att det är så många människor som kämpar och undrar ”hur ska det här gå?”, säger hon i programmet.",
+      "pubDate": "2026-11-14T13:31:24Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M"
       ]
     },
     {
-      "title": "Andersson borde spara på orden",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/andersson-borde-spara-pa-orden/",
-      "description": "Det kan bli fler chanser att bilda regering den här mandatperioden. Det förutsätter dock att Socialdemokraterna har någon kvar att prata med.",
-      "pubDate": "2026-11-14T07:13:02Z",
+      "title": "Här är S totalpaket till Centerpartiet",
+      "link": "https://www.expressen.se/nyheter/politik/har-ar-hela-s-totalpaket-till-centerpartiet/",
+      "description": "Förhandlingarna om en ny rödgrön regering är inne i ett kritiskt skede. Planen är att göra både C och V nöjda – med över hundra sakpolitiska förslag. Expressen kan nu avslöja nya detaljer från S hemliga totalplan för Sverige.",
+      "pubDate": "2026-11-14T13:19:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Vänsterpartiets svar på Anderssons C-invit: ”Felaktigt”",
+      "link": "https://www.dn.se/sverige/vansterpartiets-svar-pa-anderssons-c-invit-felaktigt/",
+      "description": "Magdalena Andersson vill att C ska gå med på en S-C-MP-regering med stöd av V. På Expressen Debatt skriver S-ledaren att också V står redo att förhandla. Men Vänsterpartiet har inte släppt regeringskravet, slår vice ordförande Ida Gabrielsson fast.",
+      "pubDate": "2026-11-14T13:17:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Ida Gabrielsson: Inte villiga att förhandla regeringskravet",
+      "link": "https://www.expressen.se/nyheter/sverige/ida-gabrielsson-inte-villiga-att-forhandla-regeringskravet/",
+      "description": "Vänsterpartiet är redo att förhandla vidare om en regering. Det skriver Magdalena Andersson (S) i en debattartikel i Expressen. Men det kräver att Centern först har valt sida, enligt V-toppen Ida Gabrielsson",
+      "pubDate": "2026-11-14T13:15:43Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Damberg: Vi kommer att stoppa en borgerlig budget",
+      "link": "https://www.expressen.se/nyheter/politik/damberg-vi-kommer-att-stoppa-en-borgerlig-budget/",
+      "description": "Om Centern väljer M-ledaren Ulf Kristersson i stället för de rödgröna kommer Socialdemokraterna att gå ihop med V och MP om budgeten, säger ekonomisk-politiske talespersonen Mikael Damberg till TT. – En Tidö 2-regering kommer att vara fullständigt beroende av SD i varenda fråga, säger han.",
+      "pubDate": "2026-11-14T12:41:46Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Uppgifter: Detta erbjuder S till C i sitt ”totalpaket”",
+      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-detta-erbjuder-s-till-c-i-sitt-totalpaket",
+      "description": "Socialdemokraterna och Moderaterna har lämnat varsitt ”totalpaket” till Centerpartiet. Enligt uppgifter till SVT rör det sig om ett hundratal punkter, gällande allt från äganderätt till skogen till demokrati och public service.",
+      "pubDate": "2026-11-14T12:30:17Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Magdalena Andersson: V är redo att delta i förhandlingar",
+      "link": "https://www.sverigesradio.se/artikel/9340985",
+      "description": "Socialdemokraterna vill bilda en regering med Centerpartiet och Miljöpartiet i samarbete med Vänsterpartiet, skriver Magdalena Andersson i en debattartikel i Expressen . Vänsterpartiet har tydliggjort att även de står redo att delta i dessa förhandlingar, enligt Andersson. I debattartikeln presenterar hon det ”totalpaket” som hon lagt fram på Centerpartiets begäran. ”Om ett sådant regeringsalternativ inte går i lås är det bara en regering där både Socialdemokraterna och Moderaterna ingår som har förutsättningar att kunna fungera”, skriver partiledaren i Expressen.",
+      "pubDate": "2026-11-14T12:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Andersson: Då är det bara S och M som kan styra",
+      "link": "https://www.expressen.se/nyheter/politik/andersson-da-ar-det-bara-s-och-m-som-kan-styra/",
+      "description": "Magdalena Andersson (S) har lämnat sitt regeringsförslag till C. V är enligt henne redo att förhandla vidare – även om S inte vill ge dem plats i regeringen. Misslyckas de rödgröna finns enligt Andersson bara ett alternativ: Att S och M går ihop. Det skriver S-ledaren i en debattartikel i Expressen.",
+      "pubDate": "2026-11-14T11:57:00Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -116,62 +260,10 @@
       ]
     },
     {
-      "title": "”Det kommer bli svajigt – oavsett vem som vinner”",
-      "link": "https://www.svt.se/nyheter/inrikes/det-kommer-bli-svajigt-oavsett-vem-som-vinner",
-      "description": "Magdalena Andersson (S) inte kommit många millimeter i sina försök att bilda regering. Låsningen på den rödgröna sidan verkar total. Ulf Kristersson (M) har inga sådana problem, men den minoritetsregering han vill bilda kommer att vara beroende av SD i de fall S, V och MP går ihop. Oavsett vem som vinner kampen lär en osäker och instabil mandatperiod vänta.",
-      "pubDate": "2026-11-14T05:10:56Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "Amanda Sokolnicki: Nu kan Magdalena Andersson tvingas göra Ulf Kristersson till statsminister",
-      "link": "https://www.dn.se/ledare/amanda-sokolnicki-nu-kan-magdalena-andersson-tvingas-gora-ulf-kristersson-till-statsminister/",
-      "description": "Magdalena Andersson har varit tydlig med att hon kan tänka sig att samarbeta med moderater. Men det hon kan tvingas till nu ingick sannerligen inte i planen.",
-      "pubDate": "2026-11-14T05:02:25Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "60 dagar utan ny regering – det här har hänt",
-      "link": "https://www.sverigesradio.se/artikel/9340658",
-      "description": "I dag har det gått 60 dagar utan en ny regering. Är det svårt att hänga med i regeringsbildningen? Ekot sammanfattar vad som har hänt de här två senaste månaderna i svensk politik.",
-      "pubDate": "2026-11-13T18:19:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "L-källa: Kristersson-regering kommer att behöva samverka med SD",
-      "link": "https://www.dn.se/sverige/l-kalla-kristersson-regering-kommer-att-behova-samverka-med-sd/",
-      "description": "Kristerssons paket till Centerpartiet har varit ett grupparbete mellan M, KD och L. Den svåraste knuten är inte sakpolitiken utan hur kontakterna med SD ska se ut den kommande mandatperioden. – En minoritetsregering kommer att behöva samtala med SD, säger en L-källa med god insyn.",
-      "pubDate": "2026-11-13T17:26:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "”Kristersson kan fylla sitt paket med borgerlig politik”",
-      "link": "https://www.sverigesradio.se/artikel/9340770",
-      "description": "Både Ulf Kristersson (M) och Magdalena Andersson (S) lämnade under fredagen över de så kallade ”totalpaketen” Till Elisabeth Thand Ringqvist som Centerpartiet efterfrågat. Ekots politiske kommentator Fredrik Furtenbach tror att Kristersson har bättre förutsättningar att göra ett paket med borgerlig politik som gör centerpartisterna nya. Centerpartiet ska nu gå igenom paketen. Partiet har kallat till presskonferens på måndag.",
-      "pubDate": "2026-11-13T17:03:00Z",
+      "title": "Centerpartister delade mellan höger och vänster",
+      "link": "https://www.sverigesradio.se/artikel/9340977",
+      "description": "Centerpartiet är delat i frågan om partiet ska gå högerut eller vänsterut, efter att Moderaterna och Socialdemokraterna lämnat sina regeringsförslag. I Laholm hoppas kommunstyrelsens ordförande Ove Bengtsson på en borgerlig lösning sedan SD släppt kravet på ministerposter, medan Lars Vikinge, kommunalråd i Linköping, varnar för beroende av SD och lutar åt Magdalena Andersson. Samtidigt kritiserar båda C-företrädarna partiets röda linjer.",
+      "pubDate": "2026-11-14T11:31:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
@@ -179,98 +271,6 @@
         "S",
         "M",
         "C"
-      ]
-    },
-    {
-      "title": "Varnar för intern splittring i C: ”Vore förödande att släppa in”",
-      "link": "https://www.svt.se/nyheter/inrikes/varnar-for-intern-splittring-i-c-vore-forodande-att-slappa-in",
-      "description": "C-ledaren Elisabeth Thand Ringqvist har tagit emot totalpaketen från S och M. Nu står hennes parti inför ett vägval och flera personer varnar för intern splittring. – Det vore förödande att släppa in V, säger en C-källa.",
-      "pubDate": "2026-11-13T16:52:34Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "C har fått förslagen från M och S: ”Ska gå igenom noggrant”",
-      "link": "https://www.sverigesradio.se/artikel/9340771",
-      "description": "Centerpartiet har fått regeringsförslag från både Socialdemokraterna och Moderaterna, men besked om vem partiet väljer dröjer. Enligt partiledaren Elisabeth Thand Ringqvist ska förslagen nu granskas internt, med fokus på en handlingskraftig regering och att begränsa ytterkanternas inflytande. Samtidigt säger Magdalena Andersson (S) att de rödgröna samtalen kan fortsätta, medan Ulf Kristersson (M) lyfter fram ett borgerligt mittenalternativ.",
-      "pubDate": "2026-11-13T16:40:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Centerledaren har fått ”totalpaket” från S och M",
-      "link": "https://www.dn.se/sverige/centerledaren-har-fatt-totalpaket-fran-s-och-m/",
-      "description": "C-ledarens statsministerkandidater har lämnat in varsitt ”totalpaket”. Magdalena Andersson (S) föreslår en regering med C, S och MP. Ulf Kristersson (M) föreslår en regering med C, M, KD och L.",
-      "pubDate": "2026-11-13T16:38:01Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "”SD:s inflytande skulle inte synas lika mycket”",
-      "link": "https://www.sverigesradio.se/artikel/9340747",
-      "description": "Ulf Kristersson (M) och Magdalena Andersson (S) lämnade under fredagen in de så kallade ”totalpaket” till Elisabeth Thand Ringqvist, som Centerpartiet efterfrågat. Ekots politiske kommentator Fredrik Furtenbach säger att Ulf Kristerson försöker ge Centerpartiet ett så smakligt erbjudande som möjligt. Centerpartiet har tagit emot helhetspaketen och har kallat till presskonferens på måndag.",
-      "pubDate": "2026-11-13T16:26:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Deadline för ”totalpaket” har löpt ut – C har tagit emot förslagen",
-      "link": "https://www.svt.se/nyheter/inrikes/deadline-for-totalpaket-har-lopt-ut",
-      "description": "Nu har deadline löpt ut för när Moderaterna och Socialdemokaterna behöver lämna in sina ”totalpaket” till Centerpartiet. Centerpartiet meddelar på fredagskvällen att de har tagit emot båda paketen. ”Nu kommer vi att gå igenom förslagen noggrant i våra interna beslutsprocesser”, skriver Centerledaren på fredagen.",
-      "pubDate": "2026-11-13T16:06:23Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Snökaos i Umeå: ”Bytte barnvagn mot pulka”",
-      "link": "https://www.dn.se/sverige/snokaos-i-umea-bytte-barnvagn-mot-pulka/",
-      "description": "Snöovädret riskerar att orsaka nya problem i delar av Sverige. Nu är det en kamp mot klockan i Umeå – när stora massor av blöt snö riskerar att frysa till is. – Jag bytte barnvagnen mot pulkan, säger småbarnsmamman Veronica Celinder.",
-      "pubDate": "2026-11-13T14:38:22Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "EU söker förhandlare – ”inom några veckor”",
-      "link": "https://www.dn.se/varlden/eu-soker-forhandlare-inom-nagra-veckor/",
-      "description": "Sverige stöttar en bred uppställning av europeiska representanter i eventuella samtal med Ryssland, säger statsminister Ulf Kristersson (M). Irlands premiärminister vill ha frågan avgjord inom några veckor.",
-      "pubDate": "2026-11-13T13:50:56Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
       ]
     }
   ],
