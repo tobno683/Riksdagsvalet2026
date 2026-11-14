@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:47:42.955576Z",
+  "updated_at": "2026-11-14T11:02:06.436273Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,27 +79,68 @@
   ],
   "news": [
     {
-      "title": "Rödgrönt käbbel skapar jubel i M: ”Vi har fått rätt”",
-      "link": "https://www.expressen.se/nyheter/politik/rodgront-kabbel-skapar-jubel-i-m-vi-har-fatt-ratt/",
-      "description": "Moderaterna går stärkta ur regeringsbildningen – oavsett utfall. Så låter det när Expressen ringer runt till källor i partiet. – Vi har fått rätt om att vänsterröran är på riktigt, säger en riksdagsledamot.",
-      "pubDate": "2026-11-13T20:01:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Tomas Ramberg: C behöver inte välja sida nu heller",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-c-behover-inte-valja-sida-nu-heller/",
+      "description": "Det är inte slut förrän det är slut. Centern kan ta god tid på sig att välja statsministerkandidat. Ingenting hindrar Elisabeth Thand Ringqvist från att dröja till den fjärde och sista omröstningen innan hon sätter ned foten.",
+      "pubDate": "2026-11-14T10:25:19Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
+        "C",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "C-tyckare: Låt V ingå i regeringen",
-      "link": "https://www.expressen.se/nyheter/politik/c-tyckare-lat-v-inga-i-regeringen/",
-      "description": "Som stödparti skulle V kräva stora sakpolitiska eftergifter.&nbsp; Det vore mindre skadligt att låta partiet ingå i en rödgrön regering, menar två C-märkta ledarskribenter.&nbsp; C kan få finansministerposten och S slipper ett extra val.&nbsp; – Alla blir vinnare, säger Elias Rosell, politisk redaktör på Norrtelje Tidning.&nbsp;",
-      "pubDate": "2026-11-13T18:46:33Z",
+      "title": "Finansministern berättar om sin adhd",
+      "link": "https://www.expressen.se/nyheter/politik/finansministern-berattar-om-sin-adhd/",
+      "description": "Finansminister Elisabeth Svantesson (M) har adhd. Nu berättar hon för första gången om hur diagnosen påverkar henne. – Man kan ha adhd och komma väldigt långt om man får hjälp, säger hon i TV4:s ”Nyhetsmorgon” .",
+      "pubDate": "2026-11-14T09:34:15Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Andersson borde spara på orden",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/andersson-borde-spara-pa-orden/",
+      "description": "Det kan bli fler chanser att bilda regering den här mandatperioden. Det förutsätter dock att Socialdemokraterna har någon kvar att prata med.",
+      "pubDate": "2026-11-14T07:13:02Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "”Det kommer bli svajigt – oavsett vem som vinner”",
+      "link": "https://www.svt.se/nyheter/inrikes/det-kommer-bli-svajigt-oavsett-vem-som-vinner",
+      "description": "Magdalena Andersson (S) inte kommit många millimeter i sina försök att bilda regering. Låsningen på den rödgröna sidan verkar total. Ulf Kristersson (M) har inga sådana problem, men den minoritetsregering han vill bilda kommer att vara beroende av SD i de fall S, V och MP går ihop. Oavsett vem som vinner kampen lär en osäker och instabil mandatperiod vänta.",
+      "pubDate": "2026-11-14T05:10:56Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "Amanda Sokolnicki: Nu kan Magdalena Andersson tvingas göra Ulf Kristersson till statsminister",
+      "link": "https://www.dn.se/ledare/amanda-sokolnicki-nu-kan-magdalena-andersson-tvingas-gora-ulf-kristersson-till-statsminister/",
+      "description": "Magdalena Andersson har varit tydlig med att hon kan tänka sig att samarbeta med moderater. Men det hon kan tvingas till nu ingick sannerligen inte i planen.",
+      "pubDate": "2026-11-14T05:02:25Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
     },
     {
       "title": "60 dagar utan ny regering – det här har hänt",
@@ -149,19 +190,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Kristerssons drag – för att locka över Centerpartiet",
-      "link": "https://www.expressen.se/nyheter/politik/kristerssons-drag-for-att-locka-over-centerpartiet/",
-      "description": "Skatterna, skogen och strandskyddet. &nbsp; Det är politikområden där Moderaternas ledare Ulf Kristersson låter Centerpartiet få stort genomslag, rapporterar TV4 Nyheterna. &nbsp; – Det blir allt de önskar, säger en M-källa till tv-kanalen.&nbsp; Kristersson skriver i en debattartikel att hans regering skulle fokusera på ”tillväxt och välfärd”.&nbsp;",
-      "pubDate": "2026-11-13T16:43:15Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
         "C"
       ]
     },
@@ -244,28 +272,6 @@
         "M",
         "Regeringsbildning"
       ]
-    },
-    {
-      "title": "Frustrationen ökar i Miljöpartiet: ”Inte vi som är problemet”",
-      "link": "https://www.dn.se/sverige/frustrationen-okar-i-miljopartiet-inte-vi-som-ar-problemet/",
-      "description": "Frustrationen ökar lokalt i Miljöpartiet, enligt flera företrädare som DN har talat med. Det finns en oro över att regeringsmakten kan glida de rödgröna ur händerna – och över det hårda tonläget partierna emellan. – Risken är att man skapar låsningar som inte behöver finnas, säger en lokal MP-topp.",
-      "pubDate": "2026-11-13T10:21:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Så har det svängt i jakten på en ny regering",
-      "link": "https://www.dn.se/sverige/sa-har-det-svangt-i-jakten-pa-en-ny-regering/",
-      "description": "Efter det jämna valresultatet har turerna i regeringsfrågan avlöst varandra. Sverige står fortfarande utan ny regering. Här är de viktigaste vändningarna sedan valet den 13 september.",
-      "pubDate": "2026-11-13T09:45:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
@@ -347,6 +353,19 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: De litar inte på Socialdemokraterna",
+      "link": "https://pod.space/kvartal/veckopanelen-de-litar-inte-pa-socialdemokraterna",
+      "description": "Veckopanelen med Carl Eos, Linn Svansbo och Harriet Wallberg under ledning av Magnus Thorén. Totalpaket, ordkrig och ultimatum. Är det fördel Kristersson efter ännu en dramatisk vecka i regeringsfrågan? Ai-bossarnas ai-boss Jensen Huang får sparken efter spion- och otrohetsskandal. Hotar en börskrasch nu? SD-topp lämnar riksdagen efter vittnesmål från ungdomsförbundet om sunkig kvinnosyn. Och vad ska vi tro om värdegrunden i svenska moskéer efter reportage med dold kamera?",
+      "pubDate": "2026-11-14T04:50:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
     {
       "title": "Boström: ”Idén om återvandring är en slags fantasi” | Djupet",
       "link": "https://pod.space/kvartal/bostrom-iden-om-atervandring-ar-en-slags-fantasi-djupet",
@@ -525,20 +544,6 @@
       "sourceType": "podcast",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "333. Anderssons sista strid",
-      "link": "https://pod.space/politikrummet/333-anderssons-sista-strid",
-      "description": "Plötsligt händer allt på en gång i regeringsbildningen. Kommer Thand Ringqvist få med sig Centerpartiet högerut?&nbsp; I studion: Filippa Rogvall, Anette Holmqvist, Viktor Barth-Kron och Max V Karlsson. Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-11-09T14:48:20Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "C",
-        "Regeringsbildning"
       ]
     }
   ]
