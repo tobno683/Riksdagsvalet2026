@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T01:24:35.846237Z",
+  "updated_at": "2026-11-15T07:58:44.522420Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,45 @@
   ],
   "news": [
     {
+      "title": "Björn Wiman: Tonen är hårdare än i Ida Gabrielssons bastu",
+      "link": "https://www.dn.se/kultur/bjorn-wiman-tonen-ar-hardare-an-i-ida-gabrielssons-bastu/",
+      "description": "Regeringsbildningen efter valet ser ut att kunna bli ett brutalt misslyckande för den svenska vänstern. I så fall ett med skrämmande historiska förebilder, skriver Björn Wiman.",
+      "pubDate": "2026-11-15T06:22:44Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Ledare: Inget kalas när Centerpartiet får paket",
+      "link": "https://www.dn.se/ledare/inget-kalas-nar-centerpartiet-far-paket/",
+      "description": "Varken S- eller M-ledaren har ett paket som håller måttet. Centerpartiet kommer att behöva trycka rött i nästa statsministervotering.",
+      "pubDate": "2026-11-15T04:23:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Forskare om C:s motstånd mot V: ”Handlar om väljarna”",
+      "link": "https://www.sverigesradio.se/artikel/9339368",
+      "description": "Centerpartiets motstånd mot att samarbeta med Sverigedemokraterna handlar framförallt om olika människosyn. När det gäller motståndet mot att släppa in Vänsterpartiet i regeringen är det mer komplicerat, säger källor till Ekot. Det finns sakpolitiska skillnader, men andra skäl väger tyngre, som att motståndet fungerar som ett alibi mot SD. ”C:s V-motstånd handlar mest om att partiet vill locka borgerliga väljare som ogillar SD, men som inte heller vill att politiken dras åt vänster”, säger Jan Teorell, professor i statsvetenskap.",
+      "pubDate": "2026-11-15T02:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V",
+        "C"
+      ]
+    },
+    {
       "title": "Andersson (S) förtydligar – efter kritiken från V: ”Feltolkning”",
       "link": "https://www.expressen.se/nyheter/politik/andersson-s-fortydligar-efter-kritiken-fran-v-feltolkning/",
       "description": "V är redo att förhandla vidare om en rödgrön regering, skrev S-ledaren i en debattartikel i Expressen. &nbsp; Det tolkades av vissa som att V släppt kravet på ministerposter, vilket partiet gick ut och förnekade.&nbsp; Andersson har nu publicerat ett förtydligande i sociala medier.&nbsp;",
@@ -112,18 +151,6 @@
       "sourceType": "news",
       "topics": [
         "S",
-        "C"
-      ]
-    },
-    {
-      "title": "C-profilerna om svåra vägvalet: ”Tiden är inne”",
-      "link": "https://www.expressen.se/nyheter/politik/c-profilerna-om-svara-vagvalet-tiden-ar-inne/",
-      "description": "Ett rödgrönt mittenparti eller ett borgerligt parti. Centerpartiet har ett strategiskt vägval framför sig. – Tiden är inne för Centerpartiet att välja hur det här ska sluta, säger C-profilen Karin Källström.",
-      "pubDate": "2026-11-14T17:38:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "C"
       ]
     },
@@ -178,19 +205,6 @@
         "M",
         "SD",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Annika Strandhäll: Signaler att C väljer M:s alternativ",
-      "link": "https://www.expressen.se/nyheter/politik/annika-strandhall-signaler-att-c-valjer-ms-alternativ/",
-      "description": "Socialdemokraterna får tydliga signaler om att C är på väg att välja Ulf Kristersson (M). Mångåriga S-toppen Annika Strandhäll uppmanar nu C och V att tänka efter. –&nbsp;Vår bild är att Centerns beslut är nära förestående, säger hon.",
-      "pubDate": "2026-11-14T15:55:24Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
       ]
     },
     {
@@ -256,20 +270,6 @@
         "V",
         "C",
         "MP"
-      ]
-    },
-    {
-      "title": "Centerpartister delade mellan höger och vänster",
-      "link": "https://www.sverigesradio.se/artikel/9340977",
-      "description": "Centerpartiet är delat i frågan om partiet ska gå högerut eller vänsterut, efter att Moderaterna och Socialdemokraterna lämnat sina regeringsförslag. I Laholm hoppas kommunstyrelsens ordförande Ove Bengtsson på en borgerlig lösning sedan SD släppt kravet på ministerposter, medan Lars Vikinge, kommunalråd i Linköping, varnar för beroende av SD och lutar åt Magdalena Andersson. Samtidigt kritiserar båda C-företrädarna partiets röda linjer.",
-      "pubDate": "2026-11-14T11:31:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
       ]
     }
   ],
