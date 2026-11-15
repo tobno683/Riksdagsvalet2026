@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T21:37:03.888337Z",
+  "updated_at": "2026-11-15T01:24:35.846237Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -82,7 +82,7 @@
       "title": "Andersson (S) förtydligar – efter kritiken från V: ”Feltolkning”",
       "link": "https://www.expressen.se/nyheter/politik/andersson-s-fortydligar-efter-kritiken-fran-v-feltolkning/",
       "description": "V är redo att förhandla vidare om en rödgrön regering, skrev S-ledaren i en debattartikel i Expressen. &nbsp; Det tolkades av vissa som att V släppt kravet på ministerposter, vilket partiet gick ut och förnekade.&nbsp; Andersson har nu publicerat ett förtydligande i sociala medier.&nbsp;",
-      "pubDate": "2026-11-14T21:03:23Z",
+      "pubDate": "2026-11-14T22:08:45Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -216,18 +216,6 @@
       ]
     },
     {
-      "title": "Här är S totalpaket till Centerpartiet",
-      "link": "https://www.expressen.se/nyheter/politik/har-ar-hela-s-totalpaket-till-centerpartiet/",
-      "description": "Förhandlingarna om en ny rödgrön regering är inne i ett kritiskt skede. Planen är att göra både C och V nöjda – med över hundra sakpolitiska förslag. Expressen kan nu avslöja nya detaljer från S hemliga totalplan för Sverige.",
-      "pubDate": "2026-11-14T13:19:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
       "title": "Vänsterpartiets svar på Anderssons C-invit: ”Felaktigt”",
       "link": "https://www.dn.se/sverige/vansterpartiets-svar-pa-anderssons-c-invit-felaktigt/",
       "description": "Magdalena Andersson vill att C ska gå med på en S-C-MP-regering med stöd av V. På Expressen Debatt skriver S-ledaren att också V står redo att förhandla. Men Vänsterpartiet har inte släppt regeringskravet, slår vice ordförande Ida Gabrielsson fast.",
@@ -241,25 +229,42 @@
       ]
     },
     {
-      "title": "Ida Gabrielsson: Inte villiga att förhandla regeringskravet",
-      "link": "https://www.expressen.se/nyheter/sverige/ida-gabrielsson-inte-villiga-att-forhandla-regeringskravet/",
-      "description": "Vänsterpartiet är redo att förhandla vidare om en regering. Det skriver Magdalena Andersson (S) i en debattartikel i Expressen. Men det kräver att Centern först har valt sida, enligt V-toppen Ida Gabrielsson",
-      "pubDate": "2026-11-14T13:15:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
       "title": "Uppgifter: Detta erbjuder S till C i sitt ”totalpaket”",
       "link": "https://www.svt.se/nyheter/inrikes/uppgifter-detta-erbjuder-s-till-c-i-sitt-totalpaket",
       "description": "Socialdemokraterna och Moderaterna har lämnat varsitt ”totalpaket” till Centerpartiet. Enligt uppgifter till SVT rör det sig om ett hundratal punkter, gällande allt från äganderätt till skogen till demokrati och public service.",
       "pubDate": "2026-11-14T12:30:17Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Magdalena Andersson: V är redo att delta i förhandlingar",
+      "link": "https://www.sverigesradio.se/artikel/9340985",
+      "description": "Socialdemokraterna vill bilda en regering med Centerpartiet och Miljöpartiet i samarbete med Vänsterpartiet, skriver Magdalena Andersson i en debattartikel i Expressen . Vänsterpartiet har tydliggjort att även de står redo att delta i dessa förhandlingar, enligt Andersson. I debattartikeln presenterar hon det ”totalpaket” som hon lagt fram på Centerpartiets begäran. ”Om ett sådant regeringsalternativ inte går i lås är det bara en regering där både Socialdemokraterna och Moderaterna ingår som har förutsättningar att kunna fungera”, skriver partiledaren i Expressen.",
+      "pubDate": "2026-11-14T12:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Centerpartister delade mellan höger och vänster",
+      "link": "https://www.sverigesradio.se/artikel/9340977",
+      "description": "Centerpartiet är delat i frågan om partiet ska gå högerut eller vänsterut, efter att Moderaterna och Socialdemokraterna lämnat sina regeringsförslag. I Laholm hoppas kommunstyrelsens ordförande Ove Bengtsson på en borgerlig lösning sedan SD släppt kravet på ministerposter, medan Lars Vikinge, kommunalråd i Linköping, varnar för beroende av SD och lutar åt Magdalena Andersson. Samtidigt kritiserar båda C-företrädarna partiets röda linjer.",
+      "pubDate": "2026-11-14T11:31:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
