@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T07:58:44.522420Z",
+  "updated_at": "2026-11-15T15:16:34.675361Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,68 @@
   ],
   "news": [
     {
+      "title": "Därför är Centerpartiets läge så knepigt",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/darfor-ar-centerpartiets-lage-sa-knepigt/",
+      "description": "Hur C än vänder sig har de rumpan bak och en röd linje framför tårna.&nbsp; De kan inte ens gå i opposition utan att det blir problem.",
+      "pubDate": "2026-11-15T15:11:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Splittring i C inför regeringsbeskedet: ”Spelar ett högt spel”",
+      "link": "https://www.svt.se/nyheter/inrikes/splittring-i-c-infor-regeringsbeskedet-spelar-ett-hogt-spel",
+      "description": "Centerpartiet väntas i dagarna ge besked om vilken regering de kommer stötta. Just nu är partiet splittrat, enligt SVT:s politikreporter Erik Nilsson. – Det är väldigt intensiva dagar, säger han i SVT:s direktsändning.",
+      "pubDate": "2026-11-15T13:53:41Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Uppgifter: Centerns ödesbeslut är nära – möts i dag",
+      "link": "https://www.sverigesradio.se/artikel/9341242",
+      "description": "Ett avgörande kan vara nära om centerns vägval mellan höger och vänster, något som till slut kan ge Sverige en regering. Enligt källor till Ekot ska centerns partistyrelse och riksdagsgrupp mötas för att ta ställning idag. Centerns röda linje mot Vänsterpartiet är mer komplicerad än den mot Sverigedemokraterna, säger tidigare C-topp till Ekot.",
+      "pubDate": "2026-11-15T12:56:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "C-toppar möts i dag – beslut om regeringsfrågan",
+      "link": "https://www.dn.se/sverige/c-toppar-mots-i-dag-beslut-om-regeringsfragan/",
+      "description": "Partistyrelsen och riksdagsgruppen i Centerpartiet har kallats till möte i dag för att fatta beslut om vägvalet i regeringsfrågan, erfar DN. Partiledningen uppges också ha samtal med distrikten om vilket alternativ C ska välja. – I samtal med distrikten har gänget runt partiledningen tryckt på för Kristersson, säger en C-källa.",
+      "pubDate": "2026-11-15T10:50:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Centerpartiet samlas till möte – pressas hårt",
+      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-samlar-distrikten-till-mote-pressas-hart/",
+      "description": "Centerpartiet närmar sig sitt ödesbeslut. Under dagen håller partiet möte på hög nivå, enligt uppgifter. – Det är press på partiet, säger statsvetaren Jenny Madestam.",
+      "pubDate": "2026-11-15T09:22:11Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
       "title": "Björn Wiman: Tonen är hårdare än i Ida Gabrielssons bastu",
       "link": "https://www.dn.se/kultur/bjorn-wiman-tonen-ar-hardare-an-i-ida-gabrielssons-bastu/",
       "description": "Regeringsbildningen efter valet ser ut att kunna bli ett brutalt misslyckande för den svenska vänstern. I så fall ett med skrämmande historiska förebilder, skriver Björn Wiman.",
@@ -87,19 +149,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Ledare: Inget kalas när Centerpartiet får paket",
-      "link": "https://www.dn.se/ledare/inget-kalas-nar-centerpartiet-far-paket/",
-      "description": "Varken S- eller M-ledaren har ett paket som håller måttet. Centerpartiet kommer att behöva trycka rött i nästa statsministervotering.",
-      "pubDate": "2026-11-15T04:23:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
         "Regeringsbildning"
       ]
     },
@@ -115,30 +164,6 @@
         "SD",
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Andersson (S) förtydligar – efter kritiken från V: ”Feltolkning”",
-      "link": "https://www.expressen.se/nyheter/politik/andersson-s-fortydligar-efter-kritiken-fran-v-feltolkning/",
-      "description": "V är redo att förhandla vidare om en rödgrön regering, skrev S-ledaren i en debattartikel i Expressen. &nbsp; Det tolkades av vissa som att V släppt kravet på ministerposter, vilket partiet gick ut och förnekade.&nbsp; Andersson har nu publicerat ett förtydligande i sociala medier.&nbsp;",
-      "pubDate": "2026-11-14T22:08:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Tidigare V-toppen Jens Holm vill se S-regering",
-      "link": "https://www.expressen.se/nyheter/sverige/tidigare-v-toppen-jens-holm-vill-se-s-regering/",
-      "description": "En S-regering som har stöd av V, C och MP.&nbsp; Det tror den tidigare V-toppen Jens Holm är vägen framåt för de rödgröna partierna.&nbsp; Han är inte imponerad av V:s förhandlingsstrategi.&nbsp; – Alternativet kan bli att man schabblar bort allting och att det blir Kristersson fyra år till. Det är det inte värt, säger han.&nbsp;",
-      "pubDate": "2026-11-14T18:48:12Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     },
     {
@@ -241,39 +266,19 @@
         "S",
         "V"
       ]
-    },
-    {
-      "title": "Uppgifter: Detta erbjuder S till C i sitt ”totalpaket”",
-      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-detta-erbjuder-s-till-c-i-sitt-totalpaket",
-      "description": "Socialdemokraterna och Moderaterna har lämnat varsitt ”totalpaket” till Centerpartiet. Enligt uppgifter till SVT rör det sig om ett hundratal punkter, gällande allt från äganderätt till skogen till demokrati och public service.",
-      "pubDate": "2026-11-14T12:30:17Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson: V är redo att delta i förhandlingar",
-      "link": "https://www.sverigesradio.se/artikel/9340985",
-      "description": "Socialdemokraterna vill bilda en regering med Centerpartiet och Miljöpartiet i samarbete med Vänsterpartiet, skriver Magdalena Andersson i en debattartikel i Expressen . Vänsterpartiet har tydliggjort att även de står redo att delta i dessa förhandlingar, enligt Andersson. I debattartikeln presenterar hon det ”totalpaket” som hon lagt fram på Centerpartiets begäran. ”Om ett sådant regeringsalternativ inte går i lås är det bara en regering där både Socialdemokraterna och Moderaterna ingår som har förutsättningar att kunna fungera”, skriver partiledaren i Expressen.",
-      "pubDate": "2026-11-14T12:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C",
-        "MP"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "En ödesvecka i svensk politik",
+      "link": "https://www.dagensarena.se/opinion/en-odesvecka-svensk-politik/",
+      "description": "Ska de rödgröna bränna möjligheten att byta politik? Inlägget En ödesvecka i svensk politik dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-15T13:45:47Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
     {
       "title": "Därför kräver Vänsterpartiet statsrådsposter",
       "link": "https://ledarsidorna.se/darfor-vill-inte-v-redogora-for-varfor-de-kraver-statsradsposter/",
