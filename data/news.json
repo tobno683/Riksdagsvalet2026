@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T20:27:22.635411Z",
+  "updated_at": "2026-11-16T00:05:52.086500Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,104 @@
   ],
   "news": [
     {
+      "title": "Tomas Ramberg: Kristersson fortfarande mera sannolik än extraval",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-kristersson-fortfarande-mera-sannolik-an-extraval/",
+      "description": "Trots söndagens besked har Centern inte slutgiltigt valt sida. Det fortsatta motståndet mot att släppa in vänsterpartister i regeringen betyder att det sista ordet ännu inte är sagt. Dörren högerut finns kvar som reservutgång för Elisabeth Thand Ringqvist.",
+      "pubDate": "2026-11-15T22:58:20Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "V: ”I ett totalpaket behöver alla vara med på lika villkor”",
+      "link": "https://www.sverigesradio.se/artikel/9341350",
+      "description": "Trots att Centerpartiet valt vänster istället för höger verkar positionerna fortfarande vara låsta mellan de rödgröna partierna. Centerns krav på samarbete utan Vänsterpartiet i regeringen ligger fast. Det gör också V:s krav på ministerposter. ”Om det ska bli ett totalpaket måste alla vara med på lika villkor”, säger vice partiledaren, Ida Gabrielsson (V).",
+      "pubDate": "2026-11-15T22:40:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Partierna reagerar: ”Välkommet” – men borgerliga dörren hålls öppen",
+      "link": "https://www.svt.se/nyheter/inrikes/partierna-reagerar-valkommet-men-borgerliga-dorren-halls-oppen",
+      "description": "Centerpartiet går vidare med Socialdemokraternas totalpaket. Beskedet välkomnas av S och MP, medan M, KD och L fortsatt hoppas på en mittenregering. Samtidigt står Vänsterpartiet fast vid kravet på ministerposter.",
+      "pubDate": "2026-11-15T22:13:28Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Stark press på S och V: ”Måste hitta en lösning”",
+      "link": "https://www.expressen.se/nyheter/politik/stark-press-pa-s-och-v-maste-hitta-en-losning/",
+      "description": "C väljer den rödgröna sidan – men kravet på att V ska stå utanför regeringen ligger fast. Nu ökar pressen på S och V rejält, menar statsvetaren Jenny Madestam.&nbsp; – Brottningsmatchen mellan Andersson och Dadgostar, där måste det ske någon slags ”slutstrid”. De måste hitta en lösning.&nbsp;",
+      "pubDate": "2026-11-15T21:57:42Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "”Det kan fortfarande sluta med att Kristersson vinner”",
+      "link": "https://www.sverigesradio.se/artikel/9341345",
+      "description": "Det hade varit mer riskfyllt för Centerpartiet att välja den andra vägen med Kristersson framför Anderssons sida, eftersom man hade riskerat att få en stor svekdebatt på halsen. Det säger Ekots politiske kommentator Fredrik Furtenbach. Samtidigt är allting fortfarande oklart och Fredrik Furtenbach tror att det säkert är några ronder kvar i den här matchen. ”Det kan fortfarande sluta med att Kristersson vinner”, säger han.",
+      "pubDate": "2026-11-15T21:45:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "”Positionerna är lika låsta”",
+      "link": "https://www.svt.se/nyheter/inrikes/positionerna-ar-lika-lasta",
+      "description": "Centerpartiet har inte suddat ut några röda linjer. De stora tvistefrågorna är fortfarande olösta och positionerna är lika låsta. Men om inte Vänsterpartiet eller Centerpartiet ändrar sig kan bollen i något skede komma tillbaka till Ulf Kristersson (M) eller extraval.",
+      "pubDate": "2026-11-15T21:26:03Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "C väljer S – röda linjen mot V ligger fast",
+      "link": "https://www.sverigesradio.se/artikel/9341320",
+      "description": "Centerpartiet har valt Socialdemokraternas ”totalpaket” och vill se Magdalena Andersson (S) som statsminister, säger partiledaren Elisabeth Thand Ringqvist till Ekot. Nu vill Thand Ringqvist gå in i förhandlingar med de övriga rödgröna partierna men kravet på att Vänsterpartiet inte ska sitta i regering står lika fast som Vänsterpartiets eget krav att få göra det. ”I det förslag som Magdalena Andersson presenterat för oss är det en regering med Centerpartiet, Socialdemokraterna och Miljöpartiet”, säger Elisabeth Thand Ringqvist.",
+      "pubDate": "2026-11-15T20:43:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Ida Gabrielsson (V) efter C:s val: ”Ska ingå i regeringen”",
       "link": "https://www.expressen.se/nyheter/sverige/ida-gabrielsson-v-efter-cs-val-ska-inga-i-regeringen/",
       "description": "Centerpartiet väljer Magdalena Anderssons totalpaket. Då återupprepar V sina regeringskrav. – Beskedet att vi ska ingå i regeringen, ligger fast, säger vice partiledare Ida Gabrielsson till SVT .&nbsp;",
@@ -94,7 +192,7 @@
     {
       "title": "Kristersson ”tror fortsatt” på sin sida",
       "link": "https://www.expressen.se/nyheter/politik/simona-mohamssons-pik-mot-c-tre-mot-ett/",
-      "description": "Statsminister Ulf Kristersson (M) har inte gett upp hoppet efter Centerns besked att man väljer Magdalena Anderssons sida. ”Jag tror fortsatt att en lösning på regeringsfrågan inom ramen för den icke-socialistiska majoriteten i riksdagen är svår, men kanske inte omöjlig”, skriver Kristersson på Facebook.",
+      "description": "Statsminister Ulf Kristersson (M) har inte gett upp hoppet efter Centerns besked att man väljer Magdalena Anderssons sida. ”Jag tror fortsatt att en lösning på regeringsfrågan inom ramen för den icke-socialistiska majoriteten i riksdagen är svår, men kanske inte omöjlig”, skriver Kristersson på Facebook. KD-ledaren menar att bilden att C nu valt sida är ”för enkel”.",
       "pubDate": "2026-11-15T19:37:29Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -122,7 +220,7 @@
     {
       "title": "Centerpartiet väljer Magdalena Anderssons sida",
       "link": "https://www.dn.se/sverige/centern-valjer-magdalena-anderssons-sida/",
-      "description": "Centerpartiet väljer Socialdemokraternas regeringsalternativ. Samtidigt håller Vänsterpartiet fast vid sitt krav på ministerposter. ”Flera avgörande frågor återstår”, skriver C-ledaren Elisabeth Thand Ringqvist till DN.",
+      "description": "Centerpartiet väljer Socialdemokraternas regeringsalternativ. Samtidigt håller Vänsterpartiet fast vid sitt krav på ministerposter. – De vet precis var vi står, säger vice partiledaren Ida Gabrielsson.",
       "pubDate": "2026-11-15T19:11:17Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
@@ -162,7 +260,7 @@
     {
       "title": "Andersson (S) om C:s val: ”Välkommet besked”",
       "link": "https://www.expressen.se/nyheter/politik/andersson-s-om-cs-val-valkommet-besked/",
-      "description": "Centerpartiet vill bilda regering med Socialdemokraterna och Miljöpartiet.&nbsp; ”Det är ett mycket välkommet besked”, skriver S-ledaren Magdalena Andersson.&nbsp; C-kravet om att Vänsterpartiet inte ska ingå i regeringen ligger fast.&nbsp;",
+      "description": "Centerpartiet vill bilda regering med Socialdemokraterna och Miljöpartiet.&nbsp; ”Det är ett mycket välkommet besked”, skriver S-ledaren Magdalena Andersson.&nbsp; Kravet på att Vänsterpartiet inte ska ingå i regeringen ligger dock fast.&nbsp;",
       "pubDate": "2026-11-15T18:56:25Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
@@ -186,98 +284,21 @@
         "S",
         "C"
       ]
-    },
+    }
+  ],
+  "blogs": [
     {
-      "title": "Klart: Centern väljer Socialdemokraterna",
-      "link": "https://www.svt.se/nyheter/inrikes/klart-centern-valjer-socialdemokraterna",
-      "description": "Centerpartiet väljer S totalpaket, säger partiledare till Elisabeth Thand Ringqvist i en kommentar till SVT. – Efter att ha granskat Anderssons totalpaket är vårt besked att Socialdemokraternas alternativ är det vi väljer att förhandla vidare om, säger Thand Ringqvist.",
-      "pubDate": "2026-11-15T18:48:11Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Thand Ringqvists ess – så kan hon mota sprickan i grind",
-      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ess-sa-kan-hon-mota-sprickan-i-grind/",
-      "description": "Centerpartiet riskerar en intern svekdebatt. Men partiledaren Elisabeth Thand Ringqvist kan ha ett ess i rockärmen – för att blidka de värsta internkritikerna. – En lösning kan ju då vara att personen i fråga får en ministerpost, säger statsvetaren Jenny Madestam.",
-      "pubDate": "2026-11-15T16:44:19Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Gabrielsson (V) pikar C-ledningen: SD i regering 2030",
-      "link": "https://www.expressen.se/nyheter/politik/gabrielsson-v-pikar-c-ledningen-sd-i-regering-2030/",
-      "description": "Andersson eller Kristersson? C-ledaren Elisabeth Thand Ringqvist uppges driva på för att partiet ska gå högerut.&nbsp; Då måste man ”ge SD ministerposter 2030”, hävdar V-toppen Ida Gabrielsson på plattformen X.&nbsp;",
-      "pubDate": "2026-11-15T16:07:51Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "”Mycket möjligt att det kommer fram något under kvällen”",
-      "link": "https://www.sverigesradio.se/artikel/9341281",
-      "description": "Efter att S och M i fredags lämnade över sina så kallade totalpaket, pågår just nu troligen det möte med Centerns partistyrelse och riksdagsgruppen, som Ekot har fått bekräftat ska äga rum under söndagen för att fatta ett beslut i regeringsfrågan. Ekots inrikespolitiska kommentator Helena Gissén tror att vi inom kort kommer att få ett besked från Elisabeth Thand Ringqvist (C) om vilken sida partiet väljer. ”Det har ju gått väldigt många rykten”, säger hon. Men på tisdag ska Ulf Kristersson (M) rapportera till talmannen om hur hans sondering gått.",
-      "pubDate": "2026-11-15T16:03:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "V-politiker i Skärholmen: ”Utan vänstern blir det Tidö light”",
-      "link": "https://www.svt.se/nyheter/inrikes/v-politiker-i-skarholmen-utan-vanstern-blir-det-tido-light",
-      "description": "Allt ifrån popstjärnan Robyn till höga fackliga företrädare vill att vänstern ska backa från sitt krav på att sitta i regering. Men partiet håller fast vid sin ståndpunkt. – Utan Vänsterpartiet blir det inte vänsterpolitik. S, C och MP blir Tidö light och det vill vi inte ha, säger Shamso Ali Hassan, vänsterpartistisk lokalpolitiker, till SVT:s Agenda",
-      "pubDate": "2026-11-15T15:45:16Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
+      "title": "Nu måste de rödgröna prata",
+      "link": "https://www.dagensarena.se/opinion/nu-maste-de-rodgrona-prata/",
+      "description": "Vill Vänsterpartiet förhandla även om de inte kommer med i regeringen? Inlägget Nu måste de rödgröna prata dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-15T22:00:44Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
       "topics": [
         "V"
       ]
     },
-    {
-      "title": "Inifrån C:s ödesvecka – så var  de hemliga förhandlingarna",
-      "link": "https://www.expressen.se/nyheter/politik/inifran-cs-odesvecka-sa-var--de-hemliga-forhandlingarna/",
-      "description": "Regeringsbildningens ödesvecka står inför ett avgörande – när Centerpartiet väljer väg. Tre tunga politiker har funnits vid Elisabeth Thand Ringqvists sida under den gångna veckans förhandlingar. Expressen kan nu avslöja vilka som suttit med i de hemliga rummen för de rödgröna partierna.",
-      "pubDate": "2026-11-15T15:41:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Därför är Centerpartiets läge så knepigt",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/darfor-ar-centerpartiets-lage-sa-knepigt/",
-      "description": "Hur C än vänder sig har de rumpan bak och en röd linje framför tårna.&nbsp; De kan inte ens gå i opposition utan att det blir problem.",
-      "pubDate": "2026-11-15T15:11:52Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    }
-  ],
-  "blogs": [
     {
       "title": "En ödesvecka i svensk politik",
       "link": "https://www.dagensarena.se/opinion/en-odesvecka-svensk-politik/",
@@ -350,6 +371,103 @@
       "sourceType": "blog",
       "topics": [
         "V"
+      ]
+    },
+    {
+      "title": "BREV 517 – Socialdemokraterna vallade bort sig.",
+      "link": "https://jensganman.substack.com/p/brev-517-socialdemokraterna-vallade",
+      "description": "Detta ing&#229;r i moderaternas mutpaket till C / Hela ledningen m&#229;ste bort / N&#228;sta stora valfr&#229;ga / &#8220;I Can&#8217;t Believe It&#8217;s islam!&#8221; / Samerna &#228;r lika hemska som oss / F&#228;lldin g&#229;r igen / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "BREV 513 – Åkesson & Romson möts i hästskoteorin.",
+      "link": "https://jensganman.substack.com/p/brev-513-akesson-and-romson-mots",
+      "description": "Blir &#8220;Mohamed Ali&#8221; svensk om han &#229;ker tunnelbana? / Svenska landskapsetniciteter / Gl&#246;m inte bort Sveriges klokaste kvinna / Svarta m&#228;nniskor &#228;r genetiskt &#246;verl&#228;gsna / VPK m&#229;ste korsa Rubicon / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "BREV 512 – Socialdemokraternas två desperata krisplaner.",
+      "link": "https://jensganman.substack.com/p/brev-512-socialdemokraternas-tva",
+      "description": "Uppgifter: Aftonbladet drar saker ur r-ven / Vad ska S g&#229; till extraval p&#229;? / Mattias Karlssons offentliga h&#228;rdsm&#228;lta / Det t&#228;nker jag n&#228;r jag ser Lawen Redar p&#229; gatan / M.m., m.fl",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "BREV 511 – Nej, du är inte etnisk svensk.",
+      "link": "https://jensganman.substack.com/p/brev-511-nej-du-ar-inte-etnisk-svensk",
+      "description": "Centern vill inte g&#246;ra sossarnas dirty work l&#228;ngre / Krampaktiga skratt hos 100% / Karlssons & Jomshofs magnifika magplask / V&#228;rldens b&#228;sta rasistfilm / Springsteen & Bono s&#229;g det inte komma / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "BREV 510 – I Centerpartiet kan ingen höra dig skrika.",
+      "link": "https://jensganman.substack.com/p/brev-510-i-centerpartiet-kan-ingen",
+      "description": "Thand Ringqvist &#8211; politisk autist / &#196;r Macron ond eller bara dum i huvudet? / Helena Edlunds genialiska id&#233; / Milj&#246;partiet har kommit alldeles f&#246;r billigt undan / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 507 – Miljöpartiet och VPK utnyttjar sina somalier skamlöst.",
+      "link": "https://jensganman.substack.com/p/brev-507-miljopartiet-och-vpk-utnyttjar",
+      "description": "De f&#246;rst&#229;r ju mindre &#228;n Baudin / Nytt apologetreportage om Frankrike i Rapport / F&#246;rdelen med ett extra val / Det gamla DN-klippet som f&#246;rklarar allt / Kessler-effekten / Storspoven kommer / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "BREV 502 – Greta Thunberg, kaozturist.",
+      "link": "https://jensganman.substack.com/p/brev-501-greta-thunberg-kaozturist",
+      "description": "Som en fluga till en sockerbit / N&#229;gra intressanta passager ur &#8220;Mitt f&#246;rbjudna ansikte&#8221; och &#8220;En somalisk kvinnas ber&#228;ttelse&#8221; / Hoppas detta &#228;r Ulf Kristerssons strategi / Vogonen Kristina Lagerstr&#246;m /",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "BREV 499 – Somalier är också människor.",
+      "link": "https://jensganman.substack.com/p/brev-499-somalier-ar-ocksa-manniskor",
+      "description": "Wallenberg och Thand Ringqvist i ett rum / Varf&#246;r st&#228;llde Gunnarsson inte fr&#229;gan? / Svart mans slav / Mediemakthavarinnornas maniska mimik. / Suhonen, Baude och v&#228;nsterns v&#228;mjeliga v&#229;ldsvurm / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
       ]
     }
   ],
