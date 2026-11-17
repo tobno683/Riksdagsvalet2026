@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T16:34:07.018636Z",
+  "updated_at": "2026-11-17T00:32:46.658418Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,80 @@
   ],
   "news": [
     {
+      "title": "V-veterarens svar till Strandhäll (S): ”Helt absurt”",
+      "link": "https://www.svt.se/nyheter/inrikes/v-veterarens-svar-till-strandhall-s-helt-absurt",
+      "description": "Vänsterpartiet måste lägga ner kravet på att sitta i regering, säger Annika Strandhäll (S) i måndagens Aktuellt. – Det är helt absurt, säger mångåriga kommunalrådet och V-veteraren Stig Henriksson.",
+      "pubDate": "2026-11-16T21:43:10Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "C-toppen: Vänsterpartiet vill ingå äktenskap direkt",
+      "link": "https://www.dn.se/sverige/c-toppen-vansterpartiet-vill-inga-aktenskap-direkt/",
+      "description": "Gubbar på nätet tycker att han ska ”åka tillbaka till Danmark”. Men Centerpartiets Niels Paarup-Petersen vill hellre att de rödgröna kör till valfri bygdegård och får en ny regering på plats. – Utmaningen med Vänsterpartiet är att vi aldrig haft någon dejtingfas.",
+      "pubDate": "2026-11-16T20:08:03Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Centerpartister: Därför är Vänsterpartiet omöjligt att ha i en regering",
+      "link": "https://www.dn.se/sverige/centerpartister-darfor-ar-vansterpartiet-omojligt-att-ha-i-en-regering/",
+      "description": "Centerns partiledare Elisabeth Thand Ringqvist lovar att Vänsterpartiet inte ska få några ministerposter. DN har frågat 38 företrädare för Centern varför. Det blir snabbt tydligt att ämnet är känsligt. – De har en annan samhällssyn, svarar Peter Heie, en av få C-politiker som vill uttala sig.",
+      "pubDate": "2026-11-16T20:08:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Ohly sågar V för regeringskravet – risk för ny Tidöregering",
+      "link": "https://www.expressen.se/nyheter/politik/ohly-sagar-v-for-regeringskravet-risk-for-ny-tidoregering/",
+      "description": "Den tidigare V-ledaren Lars Ohly är mycket kritisk till partiets krav på att få ingå i en rödgrön regering.&nbsp; Om låsningen leder till att Sverige får en ny Tidöregering skulle V:s väljare bli mycket besvikna, menar han.&nbsp; – Jag tycker inte att man ska ställa ultimata krav som gör att man inte har någon som helst handlingsfrihet som partiledning, säger han till TV4 Nyheterna.&nbsp;",
+      "pubDate": "2026-11-16T18:10:53Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Källor: Regeringsfrågan långt ifrån löst",
+      "link": "https://www.dn.se/sverige/kallor-regeringsfragan-langt-ifran-lost/",
+      "description": "Miljardärsskatt, billigare mat, höjda löner för välfärdsarbetare och ministerposter – det är tunga krav från Vänsterpartiet inför de förhandlingar som väntar. Magdalena Anderssons totalpaket är långt ifrån en lösning på regeringsfrågan, enligt DN:s källor bland de rödgröna partierna.",
+      "pubDate": "2026-11-16T17:19:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "SKR efterlyser nationell strategi för AI i skolan",
+      "link": "https://www.sverigesradio.se/artikel/9343924",
+      "description": "Lunds kommun stoppar AI i grundskolan och kräver nationella riktlinjer, ett krav som får stöd av Sveriges Kommuner och Regioner, SKR. Istället för nationella riktlinjer för AI i skolan, ansvarar över 2 800 skolhuvudmän själva för att ta fram riktlinjer – och det är orimligt, anser Sofie Lindén på SKR. I ett skriftligt svar till Ekot skriver utbildningsminister Simona Mohamsson (L) att det blir upp till nästa regering att driva frågan vidare.",
+      "pubDate": "2026-11-16T16:39:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "L",
+        "MP"
+      ]
+    },
+    {
       "title": "De röda linjerna ligger fast mellan V och C",
       "link": "https://www.sverigesradio.se/artikel/9343910",
       "description": "Dagen efter beskedet att Centerpartiet väljer att fortsätta förhandlingarna med de rödgröna partierna om att bilda regering med Magdalena Andersson som statsminister, har de rödgröna partierna mötts i olika konstellationer. När Vänsterpartiets Nooshi Dadgostar svarade på frågor efter sitt möte med Socialdemokraternas Magdalena Andersson på måndagen, höll hon fast vid ministerkravet. ”Vår linje är logisk. Alla röster ska räknas likadant. Det kan inte vara en orimlig hållning”, säger Nooshi Dadgostar.",
@@ -129,47 +203,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Då blir Kristersson ändå statsminister",
-      "link": "https://www.expressen.se/podcast/politikrummet-1/da-blir-kristersson-anda-statsminister/",
-      "description": "Centerpartiet väljer Magdalena Andersson – så länge Vänsterpartiet backar.&nbsp; Samtidigt hålls dörren på glänt till höger. Är regeringsbildningen tillbaka på ruta ett? Lyssna på ”Politikrummet”.",
-      "pubDate": "2026-11-16T13:26:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Men varför skulle Vänsterpartiet backa?",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/men-varfor-skulle-vansterpartiet-backa/",
-      "description": "Om Vänsterpartiet backar nu har regeringskravet inte uppnått någonting mer än att göra partiet till åtlöje. Så varför skulle de göra det? Den frågan återstår för S – och C – att svara på.",
-      "pubDate": "2026-11-16T13:14:54Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Dadgostar efter mötet med S: En knäckfråga",
-      "link": "https://www.expressen.se/nyheter/politik/dadgostar-efter-motet-med-s-en-knackfraga/",
-      "description": "Socialdemokraterna och Vänsterpartiet har träffats och pratat regering på måndagen. Men Vänsterpartiets krav på ministerposter ligger fast – och därmed är läget lika låst som efter valet. – Det är klart att regeringsfrågan är en knäckfråga och hänger ihop med sakpolitiken, säger Nooshi Dadgostar till ” Ekot ”.",
-      "pubDate": "2026-11-16T12:25:10Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     },
     {
@@ -241,48 +274,21 @@
         "S",
         "V"
       ]
-    },
-    {
-      "title": "Insändare. Tidötiden är faktiskt förbi",
-      "link": "https://www.dn.se/insandare/tidotiden-ar-faktiskt-over/",
-      "description": "INSÄNDARE. Vänsterpartiet kan välja mellan att i förväg göra upp om sakpolitik och rösta ja till Magdalena Andersson eller avstå och gå i opposition. Varför har inte dessa oändliga spekulationer av journalister och andra kunnat klarlägga detta? frågar den tidigare liberalen och numera centerpartisten Gert Nilsson.",
-      "pubDate": "2026-11-16T09:42:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. C bör hålla ytterkantspartiet V borta från inflytande",
-      "link": "https://www.dn.se/insandare/c-bor-halla-ytterkantspartiet-v-borta-fran-inflytande/",
-      "description": "INSÄNDARE. Centerpartiets ledare Elisabeth Thand Ringqvist är skyldig väljarna ett tydligt svar. Är principen att ytterkantspartier inte ska ha inflytande, eller gäller principen bara när ytterkantspartiet heter Sverigedemokraterna? frågar Karin Ådahl.",
-      "pubDate": "2026-11-16T09:30:11Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Johan Croneman: Jag saknar när SVT speglade folkets vrede över fiaskot",
-      "link": "https://www.dn.se/kultur/johan-croneman-jag-saknar-nar-svt-speglade-folkets-vrede-over-fiaskot/",
-      "description": "Svenska folket får bära dumstruten när politikerna misslyckas med regeringsbildningen. Man saknar de gamla debattprogrammen där ”vanligt folks” ilska fick komma till tals, skriver Johan Croneman.",
-      "pubDate": "2026-11-16T09:25:33Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Många har inte råd med fyra år till av Tidöpolitik",
+      "link": "https://www.dagensarena.se/opinion/manga-har-inte-rad-med-fyra-ar-till-av-tidopolitik/",
+      "description": "Det är naturligt att Vänsterpartiet vill ha mer inflytande. Men att stå utanför regeringen är inte detsamma som att vara... Inlägget Många har inte råd med fyra år till av Tidöpolitik dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-17T00:17:52Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Nu måste de rödgröna prata",
       "link": "https://www.dagensarena.se/opinion/nu-maste-de-rodgrona-prata/",
@@ -342,18 +348,6 @@
       "topics": [
         "S",
         "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Vänsterpartiet – Partiet där konspirationsteorier är en del av politiken",
-      "link": "https://ledarsidorna.se/vansterpartiet-partiet-dar-konspirationsteorier-ar-en-del-av-politiken/",
-      "description": "Vänsterpartiet har genom åren återkommande haft problem med olika former av konspirationsteorier. Spridandet av dessa ofta antisemitiska politiska budskap och teorier tycks ha tilltagit efter partiets utbildning mot antisemitism genomförts. Något som bör föranleda frågor till partiledningen om vad utbildningen egentligen omfattar. Spridandet av konspirationsteorier – särskilt sådana med antisemitiska förtecken, falska påståenden om terrorattacker [&#8230;]",
-      "pubDate": "2026-11-07T04:10:53Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
         "V"
       ]
     }
