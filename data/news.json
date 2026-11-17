@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T00:32:46.658418Z",
+  "updated_at": "2026-11-17T08:38:24.743953Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,70 @@
   ],
   "news": [
     {
+      "title": "Här är C och V faktiskt överens",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/har-ar-c-och-v-faktiskt-overens/",
+      "description": "C och V är oense om mycket, men de är faktiskt helt överens om en sak: Vänsterpartister i regeringen leder till mer vänsterpartistisk politik. En självklarhet? Uppenbarligen inte. Missa ingenting om regeringsbildningen - ladda ned Expressens app här &nbsp;",
+      "pubDate": "2026-11-17T06:53:27Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Professorn: Behöver inte lägga fram omröstning om Kristersson",
+      "link": "https://www.sverigesradio.se/artikel/9344033",
+      "description": "Under tisdagen ska Ulf Kristersson (M) rapportera till talman Andreas Norlén om sina försök att bilda en regering. Efter helgens besked från Centerpartiet om att man valt att förhandla vidare med Socialdemokraterna skulle en omröstning om Kristersson som statsminister sluta med ett nej. Men enligt professorn i statsvetenskap vid Göteborgs universitet, Johannes Lindvall så behöver talmannen inte lägga fram ett förslag om att rösta om Kristersson som statsminister.",
+      "pubDate": "2026-11-17T05:19:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Rödgröna vill förtydliga abortlagen: Gäller inte bara kvinnor",
+      "link": "https://www.sverigesradio.se/artikel/9344032",
+      "description": "Vid sidan av regeringssamtalen har de rödgröna partierna gjort upp om att det omdebatterade förslaget till ny abortlag ska förtydligas, enligt uppgift till Ekot. De rödgröna vill, enligt vad Ekot erfar, att det uttryckligen ska stå att rätten till abort inte enbart omfattar kvinnor – utan alla som kan bli gravida, oavsett juridiskt kön. Enligt de fyra Tidöpartierna framgår det av propositionen att abortlagen omfattar alla som kan bli gravida, och tycker inte att det behövs något förtydligande.",
+      "pubDate": "2026-11-17T05:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Giertz (SD) ändrar sig – lämnar inte riksdagen",
+      "link": "https://www.sverigesradio.se/artikel/9344054",
+      "description": "Sverigedemokraternas riksdagsledamot Rasmus Giertz, som i en artikel i Dagens Nyheter anklagas för sexuella övertramp, säger till Samnytt att han stannar i riksdagen. Detta eftersom han citat \"inte vill låta DN vinna\". Tidigare hade Giertz, som nekar till anklagelserna, meddelat att han skulle avgå. SD har stängt av hans medlemskap medan ett personärende utreds. Ekot har sökt Rasmus Giertz.",
+      "pubDate": "2026-11-17T00:55:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "”Svantesson räddade mig den sommaren”",
+      "link": "https://www.dn.se/podd/armstrong-sokolnicki/svantesson-raddade-mig-den-sommaren/",
+      "description": "Amanda berättar om hur Elisabeth Svantesson hjälpte henne under en svettig sommar i Örebro. Kirsty upplyser Amanda om det nya glastaket – “glasklippan” – efter att en kvinna nu tagit över ledarskapet på Nvidia. Dessutom: vilken roll kan kvinnor med adhd spela i framtidens honungsfällor? Och lever Amandas dröm om ett samarbete mellan Socialdemokraterna och Moderaterna? Ansvarig utgivare: Peter Wolodarski, Dagens Nyheter AB.",
+      "pubDate": "2026-11-17T00:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
       "title": "V-veterarens svar till Strandhäll (S): ”Helt absurt”",
       "link": "https://www.svt.se/nyheter/inrikes/v-veterarens-svar-till-strandhall-s-helt-absurt",
       "description": "Vänsterpartiet måste lägga ner kravet på att sitta i regering, säger Annika Strandhäll (S) i måndagens Aktuellt. – Det är helt absurt, säger mångåriga kommunalrådet och V-veteraren Stig Henriksson.",
@@ -117,16 +181,6 @@
       ]
     },
     {
-      "title": "Ohly sågar V för regeringskravet – risk för ny Tidöregering",
-      "link": "https://www.expressen.se/nyheter/politik/ohly-sagar-v-for-regeringskravet-risk-for-ny-tidoregering/",
-      "description": "Den tidigare V-ledaren Lars Ohly är mycket kritisk till partiets krav på att få ingå i en rödgrön regering.&nbsp; Om låsningen leder till att Sverige får en ny Tidöregering skulle V:s väljare bli mycket besvikna, menar han.&nbsp; – Jag tycker inte att man ska ställa ultimata krav som gör att man inte har någon som helst handlingsfrihet som partiledning, säger han till TV4 Nyheterna.&nbsp;",
-      "pubDate": "2026-11-16T18:10:53Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Källor: Regeringsfrågan långt ifrån löst",
       "link": "https://www.dn.se/sverige/kallor-regeringsfragan-langt-ifran-lost/",
       "description": "Miljardärsskatt, billigare mat, höjda löner för välfärdsarbetare och ministerposter – det är tunga krav från Vänsterpartiet inför de förhandlingar som väntar. Magdalena Anderssons totalpaket är långt ifrån en lösning på regeringsfrågan, enligt DN:s källor bland de rödgröna partierna.",
@@ -153,35 +207,7 @@
       ]
     },
     {
-      "title": "De röda linjerna ligger fast mellan V och C",
-      "link": "https://www.sverigesradio.se/artikel/9343910",
-      "description": "Dagen efter beskedet att Centerpartiet väljer att fortsätta förhandlingarna med de rödgröna partierna om att bilda regering med Magdalena Andersson som statsminister, har de rödgröna partierna mötts i olika konstellationer. När Vänsterpartiets Nooshi Dadgostar svarade på frågor efter sitt möte med Socialdemokraternas Magdalena Andersson på måndagen, höll hon fast vid ministerkravet. ”Vår linje är logisk. Alla röster ska räknas likadant. Det kan inte vara en orimlig hållning”, säger Nooshi Dadgostar.",
-      "pubDate": "2026-11-16T16:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Experten dömer ut Anderssons chanser att bilda regering",
-      "link": "https://www.expressen.se/nyheter/politik/experten-domer-ut-anderssons-chanser-att-bilda-regering/",
-      "description": "Talmannen har flera viktiga beslut att fatta inom den närmsta tiden. Vilka de än blir tror statsvetaren Per Andersson att Ulf Kristersson blir vinnaren. Men vägen dit går via talmannen Andreas Norlén. – Jag tror att han grubblar ganska mycket nu.",
-      "pubDate": "2026-11-16T15:51:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "C:s ödesbesked – “S beteende osar stress och ångest”",
+      "title": "C:s ödesbesked – ”S beteende osar stress och ångest”",
       "link": "https://www.dn.se/podd/alskade-politik/cs-odesbesked-s-beteende-osar-stress-och-angest/",
       "description": "Centerpartisterna har tagit ett beslut – eller har de? Och varför är alla de rödgröna missnöjda på lite olika sätt?",
       "pubDate": "2026-11-16T15:39:48Z",
@@ -203,35 +229,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Fredrik Furtenbach: Känslorna är väldigt kyliga mellan V och C",
-      "link": "https://www.sverigesradio.se/artikel/9343581",
-      "description": "Det är fortsatt låsta positioner bland de rödgröna partierna, trots söndagens besked från Elisabeth Thand Ringqvist (C) att partiet väljer att fortsätta förhandla fram en regering ledd av Socialdemokraterna. Efter att Centerpartiet har varit öppna för både Magdalena Andersson (S) och Ulf Kristersson (M) som statsministerkandidater, är känslorna fortfarande kyliga mellan Vänsterpartiet och Centerpartiet, menar Ekots inrikespolitiske kommentator Fredrik Furtenbach. ”Vänsterpartiet talar om att Centerpartiet måste offentligt stänga dörren till Kristersson och att man måste försöka reparera förtroendet mellan de båda partierna”, säger Furtenbach.",
-      "pubDate": "2026-11-16T12:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Dadgostar efter mötet med Socialdemokraterna: ”Knäckfråga”",
-      "link": "https://www.sverigesradio.se/artikel/9343620",
-      "description": "I förmiddags hölls ett nytt möte mellan Socialdemokraternas partiledare Magdalena Andersson och Vänsterpartiets ledare Nooshi Dadgostar. Målet från Socialdemokraternas sida ska enligt uppgift till SVT ha varit att få Vänstern att backa från sitt krav på ministerposter – men så lät det inte när Nooshi Dadgostar lämnade Socialdemokraternas kansli. ”Vi diskuterar ju inte privata samtal på det sättet”, sade Dadgostar innan hon försvann in i en hiss.",
-      "pubDate": "2026-11-16T12:05:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     },
     {
@@ -277,18 +274,6 @@
     }
   ],
   "blogs": [
-    {
-      "title": "Många har inte råd med fyra år till av Tidöpolitik",
-      "link": "https://www.dagensarena.se/opinion/manga-har-inte-rad-med-fyra-ar-till-av-tidopolitik/",
-      "description": "Det är naturligt att Vänsterpartiet vill ha mer inflytande. Men att stå utanför regeringen är inte detsamma som att vara... Inlägget Många har inte råd med fyra år till av Tidöpolitik dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-17T00:17:52Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
     {
       "title": "Nu måste de rödgröna prata",
       "link": "https://www.dagensarena.se/opinion/nu-maste-de-rodgrona-prata/",
@@ -354,7 +339,19 @@
   ],
   "podcasts": [
     {
-      "title": "C:s ödesbesked – “S beteende osar stress och ångest”",
+      "title": "Inläst: SD:s försvenskning – bättre sent än aldrig",
+      "link": "https://pod.space/kvartal/inlast-sds-forsvenskning-battre-sent-an-aldrig",
+      "description": "Från muslimska soldater som stupade för Finland till Cornelis Vreeswijks plats i den svenska vistraditionen löper en historisk tråd: nationell tillhörighet behöver inte bygga på etnicitet. Det är också en central del av svensk nationalism. När Sverigedemokraterna nu omfamnar tanken på en ”öppen svenskhet” är det därför partiet, snarare än svenskheten, som förändras, skriver Thomas Gür. Inläsare: Jonathan Kärre",
+      "pubDate": "2026-11-17T05:30:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "C:s ödesbesked – ”S beteende osar stress och ångest”",
       "link": "https://pod.space/alskadepolitik/cs-odesbesked-s-beteende-osar-stress-och-angest",
       "description": "Centerpartisterna har tagit ett beslut – eller har de? Och varför är alla de rödgröna missnöjda på lite olika sätt?",
       "pubDate": "2026-11-16T15:39:48Z",
@@ -530,21 +527,6 @@
         "M",
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Varför släpper Jimmie Åkesson fram Kristersson utan krav? | Veckopanelen",
-      "link": "https://pod.space/kvartal/varfor-slapper-jimmie-akesson-fram-kristersson-utan-krav-veckopanelen-ceee3712-8b66-4404-970a-cb9ea593bfd2",
-      "description": "Jimmie Åkesson meddelar på en pressträff i Sölvesborg att Sverigedemokraterna går i opposition men tolererar Ulf Kristersson genom att trycka avstå i en statsministeromröstning, utan avtal eller överenskommelser på förhand. Bo Rothstein ser en medveten strategi: Åkesson tar steget från ”lite småskränig partiledare till statsman”, vill ha tillbaka de tre procent partiet förlorat och långt fler därtill. Dessutom kan han flytta sig politiskt, mot en mer vänsterinriktad fördelningspolitik. Hanna Mattsson Wagenius menar att riktningen varit uppenbar länge: Sverigedemokraterna är ”i grund och botten ett relativt sossigt parti”, bara det att de ”verkligen inte gillar invandrare också ovanpå det”. Hanif Bali pekar i stället på matematiken i regeringsbildningen: en borgerlig regering förlorar budgetvoteringen om den inte gör upp med Sverigedemokraterna, och då slår Centerpartiets röda linje till. Kan Kristersson bilda regering utan att göra sig beroende av SD? Och vilket parti gör nästa förflyttning?",
-      "pubDate": "2026-11-10T16:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
-        "SD",
-        "C",
-        "Regeringsbildning"
       ]
     }
   ]
