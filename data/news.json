@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T00:19:44.830453Z",
+  "updated_at": "2026-11-18T07:45:38.054268Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,14 +79,41 @@
   ],
   "news": [
     {
-      "title": "Statsvetaren: De gynnas mest av talmannens drag",
-      "link": "https://www.expressen.se/nyheter/politik/statsvetaren-de-gynnas-mest-av-talmannens-drag/",
-      "description": "Det blir ingen tredje statsministeromröstning i närtid.&nbsp; I stället ger talmannen partierna ”en veckas anstånd” för fortsatta förhandlingar.&nbsp; Beskedet gynnar de rödgröna mest, menar statsvetaren Andreas Johansson Heinö.&nbsp; – Det är uppenbart att mycket återstår där. Jag tror att de behöver mest tid.&nbsp;",
-      "pubDate": "2026-11-17T18:41:27Z",
+      "title": "M går om S – blir största partiet",
+      "link": "https://www.sverigesradio.se/artikel/9344892",
+      "description": "Moderaterna är största parti i en ny Novusmätning som publiceras i TV4 och Göteborgs-Posten, med 26,5 procent av väljarstödet. Moderaterna ökar med 2,6 procentenheter, medan Socialdemokraterna backar med 1 procentenhet till 24,9 procent. Tidöpartierna är tillsammans drygt 6 procentenheter större än de rödgröna partierna.",
+      "pubDate": "2026-11-18T06:19:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "JUST NU: Går om Socialdemokraterna",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8aaaeb1-b68c-4f0c-a25d-68b34564623b",
+      "description": "Ökar för andra månaden i rad",
+      "pubDate": "2026-11-18T05:24:58Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Ex-topparna: Det talar för att Kristersson (M) blir statsminister",
+      "link": "https://www.expressen.se/nyheter/politik/ex-topparna-det-talar-for-att-kristersson-m-blir-statsminister/",
+      "description": "Just nu har Ulf Kristersson (M) medvind.&nbsp; Det är ex-politikerna Anna Kinberg Batra och Thomas Bodström överens om. &nbsp; – Det känns väldigt tomt i Magdalena Anderssons paket, säger Kinberg Batra i SVT:s ”Aktuellt”. &nbsp;",
+      "pubDate": "2026-11-18T03:48:55Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
         "Regeringsbildning"
       ]
     },
@@ -179,32 +206,6 @@
       ]
     },
     {
-      "title": "Talmannen: Vill se en ny regering före jul",
-      "link": "https://www.sverigesradio.se/artikel/9344572",
-      "description": "Talmannen ger Ulf Kristersson en veckas paus i sonderingen – i väntan på en upplösning i de pågående förhandlingarna bland de rödgröna partierna. Nästa vecka kommer talmansrundor hållas. Samtidigt pressade talman Andreas Norlén partierna – han sa att regeringsbildningen behöver vara klar i god tid innan jul. ”Jag vill att när svenska folket firar jul så ska man veta att Sverige antingen har en ny regering, eller förbereder sig för ett extraval. Och därför så tycker jag att det är viktigt att nu signalera att den här regeringsbildningen kan inte få pågå över jul och nyår på det sätt som skedde 2018-2019”, säger talmannen.",
-      "pubDate": "2026-11-17T15:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Furtenbach: Högt tempo ökar hans chanser att bli statsminister",
-      "link": "https://www.sverigesradio.se/artikel/9344457",
-      "description": "M-ledaren Ulf Kristersson bad om mer tid att sondera vid en pressträff i dag men sa samtidigt att han är beredd att gå till omröstning om sig själv inom kort. Han upprepade att han vill hålla ett högt tempo under pressträffen, något som ökar hans chanser att bli statsminister säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. ”Han vill ha en omröstning för ett högt tempo är till hans fördel”, säger Furtenbach.",
-      "pubDate": "2026-11-17T14:51:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Ida Gabrielsson: Bluffar C?",
       "link": "https://www.dn.se/sverige/ida-gabrielsson-bluffar-c/",
       "description": "Ida Gabrielsson (V) kallar Centerpartiet för ”kräsmagat” efter att ha läst Niels Paarup-Petersens uttalanden i en intervju med DN. Hon undrar om Centern har bluffat genom att välja Socialdemokraternas ”totalpaket”. ”Antingen regerar man med V eller så låter man SD bli stödparti och avgöra alla stora frågor i riksdagen”, skriver hon på X.",
@@ -227,22 +228,6 @@
       "sourceType": "news",
       "topics": [
         "M"
-      ]
-    },
-    {
-      "title": "Ulf Kristersson: ”Behövs ytterligare några dagar”",
-      "link": "https://www.sverigesradio.se/artikel/9344459",
-      "description": "M-ledaren har bett talmannen Andreas Norlén om en paus i sitt sonderingsuppdrag, säger han idag vid en pressträff. ”Behövs ytterligare några dagar innan en votering kan äga rum”, säger Ulf Kristersson (M). Han motiverar detta med att Centerpartiet inte kan ta ställning till det totalpaket som Socialdemokraterna lagt fram då partiet vill ha tydligare svar om hur Miljöpartiet och Vänsterpartiet ställer sig till förlaget.",
-      "pubDate": "2026-11-17T14:22:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C",
-        "MP"
       ]
     },
     {
@@ -269,6 +254,18 @@
       "sourceType": "news",
       "topics": [
         "MP"
+      ]
+    },
+    {
+      "title": "V-veteranens svar till Strandhäll (S): ”Helt absurt”",
+      "link": "https://www.svt.se/nyheter/inrikes/v-veterarens-svar-till-strandhall-s-helt-absurt",
+      "description": "Vänsterpartiet måste lägga ner kravet på att sitta i regering, säger Annika Strandhäll (S) i måndagens Aktuellt. – Det är helt absurt, säger mångåriga kommunalrådet och V-veteraren Stig Henriksson.",
+      "pubDate": "2026-11-16T21:43:10Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
       ]
     }
   ],
@@ -319,105 +316,6 @@
       "topics": [
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Så sköt Vänsterpartiet sig själva i bägge fötterna",
-      "link": "https://ledarsidorna.se/sa-skot-vansterpartiet-sig-sjalva-i-bagge-fotterna/",
-      "description": "Reaktionen från på Magdalena Anderssons besked om att lämna Vänsterpartiet utanför en regering blev omedelbart avvisande. Partiet visade än en gång att det saknar den mognad, den partikultur och den kompetens som krävs för regeringsansvar. Paradoxalt nog skulle V, precis som Sverigedemokraterna gjorde under Tidöavtalet, ha tjänat mest på att acceptera rollen som stödparti. Socialdemokraternas [&#8230;]",
-      "pubDate": "2026-11-08T22:26:37Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "BREV 517 – Socialdemokraterna vallade bort sig.",
-      "link": "https://jensganman.substack.com/p/brev-517-socialdemokraterna-vallade",
-      "description": "Detta ing&#229;r i moderaternas mutpaket till C / Hela ledningen m&#229;ste bort / N&#228;sta stora valfr&#229;ga / &#8220;I Can&#8217;t Believe It&#8217;s islam!&#8221; / Samerna &#228;r lika hemska som oss / F&#228;lldin g&#229;r igen / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
-      "title": "BREV 513 – Åkesson & Romson möts i hästskoteorin.",
-      "link": "https://jensganman.substack.com/p/brev-513-akesson-and-romson-mots",
-      "description": "Blir &#8220;Mohamed Ali&#8221; svensk om han &#229;ker tunnelbana? / Svenska landskapsetniciteter / Gl&#246;m inte bort Sveriges klokaste kvinna / Svarta m&#228;nniskor &#228;r genetiskt &#246;verl&#228;gsna / VPK m&#229;ste korsa Rubicon / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "BREV 512 – Socialdemokraternas två desperata krisplaner.",
-      "link": "https://jensganman.substack.com/p/brev-512-socialdemokraternas-tva",
-      "description": "Uppgifter: Aftonbladet drar saker ur r-ven / Vad ska S g&#229; till extraval p&#229;? / Mattias Karlssons offentliga h&#228;rdsm&#228;lta / Det t&#228;nker jag n&#228;r jag ser Lawen Redar p&#229; gatan / M.m., m.fl",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "BREV 511 – Nej, du är inte etnisk svensk.",
-      "link": "https://jensganman.substack.com/p/brev-511-nej-du-ar-inte-etnisk-svensk",
-      "description": "Centern vill inte g&#246;ra sossarnas dirty work l&#228;ngre / Krampaktiga skratt hos 100% / Karlssons & Jomshofs magnifika magplask / V&#228;rldens b&#228;sta rasistfilm / Springsteen & Bono s&#229;g det inte komma / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "BREV 510 – I Centerpartiet kan ingen höra dig skrika.",
-      "link": "https://jensganman.substack.com/p/brev-510-i-centerpartiet-kan-ingen",
-      "description": "Thand Ringqvist &#8211; politisk autist / &#196;r Macron ond eller bara dum i huvudet? / Helena Edlunds genialiska id&#233; / Milj&#246;partiet har kommit alldeles f&#246;r billigt undan / M.m., m.fl.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "BREV 507 – Miljöpartiet och VPK utnyttjar sina somalier skamlöst.",
-      "link": "https://jensganman.substack.com/p/brev-507-miljopartiet-och-vpk-utnyttjar",
-      "description": "De f&#246;rst&#229;r ju mindre &#228;n Baudin / Nytt apologetreportage om Frankrike i Rapport / F&#246;rdelen med ett extra val / Det gamla DN-klippet som f&#246;rklarar allt / Kessler-effekten / Storspoven kommer / M.m.",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "BREV 502 – Greta Thunberg, kaozturist.",
-      "link": "https://jensganman.substack.com/p/brev-501-greta-thunberg-kaozturist",
-      "description": "Som en fluga till en sockerbit / N&#229;gra intressanta passager ur &#8220;Mitt f&#246;rbjudna ansikte&#8221; och &#8220;En somalisk kvinnas ber&#228;ttelse&#8221; / Hoppas detta &#228;r Ulf Kristerssons strategi / Vogonen Kristina Lagerstr&#246;m /",
-      "pubDate": null,
-      "source": "Jens Ganman",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M"
       ]
     }
   ],
