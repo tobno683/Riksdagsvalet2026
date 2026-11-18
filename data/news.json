@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T16:46:40.111961Z",
+  "updated_at": "2026-11-18T23:12:05.253521Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,85 @@
   ],
   "news": [
     {
+      "title": "Här föreslås två av tre gator få kvinnonamn",
+      "link": "https://www.dn.se/sverige/har-foreslas-tva-av-tre-gator-fa-kvinnonamn/",
+      "description": "Det finns för många Kal och för få Ada i Göteborg. Stadens rödgröna styre anser att två av tre nya gator och platser bör få kvinnonamn. Men först ska Göran Johansson in.",
+      "pubDate": "2026-11-18T18:48:46Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Insändare. Bättre med extra val än ett C-svek mot väljarna",
+      "link": "https://www.dn.se/insandare/battre-med-extra-val-an-ett-c-svek-mot-valjarna/",
+      "description": "INSÄNDARE. Flertalet centerpartistiska väljare har röstat med utgångspunkten om att den röda linjen mot SD ska hålla. Därför vore ett extra val det bästa alternativet i det här skedet, så att inga känner sig överkörda, skriver Hannes Sjöberg.",
+      "pubDate": "2026-11-18T18:48:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Insändare. Byt ut svaga S-ledningen mot en skarpare generation",
+      "link": "https://www.dn.se/insandare/byt-ut-svaga-s-ledningen-mot-en-skarpare-generation/",
+      "description": "INSÄNDARE. Socialdemokraternas dåliga förberedelser och svaga ledarskap efter valet måste få konsekvenser. Sätt in uppdaterade, pigga, politiskt kompetenta och välutbildade personer, skriver Tomas Kroksmark.",
+      "pubDate": "2026-11-18T18:34:45Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Oron i S: Ledningen sjabblar bort regeringsmakten",
+      "link": "https://www.dn.se/sverige/oron-i-s-ledningen-sjabblar-bort-regeringsmakten/",
+      "description": "Låsningarna bland de rödgröna finns kvar – samtidigt som högerns lockrop på C blir allt högre. Det får oron att sprida sig inom socialdemokratin för att partiledningen ska misslyckas. – Om strategin inte lyckas har jag svårt att se framför mig att vi inte så småningom kommer byta företrädare, säger S-profilen Linn Svansbo.",
+      "pubDate": "2026-11-18T18:13:33Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Topparna saknades i riksdagen – uppges förhandla",
+      "link": "https://www.expressen.se/nyheter/politik/topparna-saknades-i-riksdagen-uppges-forhandla/",
+      "description": "Flera toppar från det rödgröna blocket saknades i riksdagen under onsdagen. Enligt uppgifter till SVT missade de dagens votering – på grund av regeringsförhandlingar.&nbsp;",
+      "pubDate": "2026-11-18T18:00:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "V ger sig inte: ”Ministerkravet är en naturlig del av oss”",
+      "link": "https://www.dn.se/sverige/v-ger-sig-inte-ministerkravet-ar-en-naturlig-del-av-oss/",
+      "description": "Socialdemokraterna ”jobbar intensivt” för att få Vänsterpartiet att släppa kravet på ministerposter, och Centerledaren säger att förhandlingarna går bra. Men enligt flera V-ledamöter är kravet lika intakt som förut. – Om syftet är att vi ska hållas undan från regeringen blir allt annat tramsigt, säger Tobias Smedberg (V).",
+      "pubDate": "2026-11-18T16:52:35Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Flera partitoppar skippade omröstning – sitter i förhandlingar",
+      "link": "https://www.svt.se/nyheter/inrikes/flera-partitoppar-skippade-omrostning-sitter-i-forhandlingar",
+      "description": "Flera tunga rödgröna politiker saknades vid onsdagens omröstning i riksdagen. Enligt SVT:s uppgifter är orsaken att flera av dem just nu sitter i förhandlingar om regeringsmakten. – Vi jobbar på, säger Daniel Helldén (MP).",
+      "pubDate": "2026-11-18T16:51:19Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "V-förslaget: Behåll halva priset på SL-kortet en månad",
       "link": "https://www.dn.se/sverige/v-forslaget-behall-halva-priset-pa-sl-kortet-en-manad/",
       "description": "Den 2 december är sista dagen för att aktivera SL-korten för halva priset. Nu vill Vänsterpartiet förlänga det halverade priset en extra månad. – Vi ser att regionen har råd, säger Anna Sehlin, gruppledare i Vänsterpartiet.",
@@ -153,18 +232,6 @@
       ]
     },
     {
-      "title": "Så kan Andersson lösa det omöjliga",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/sa-kan-andersson-losa-det-omojliga/",
-      "description": "Viktor Barth-Kron går igenom de rödgröna alternativens möjligheter och omöjligheter.",
-      "pubDate": "2026-11-18T14:19:23Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Insändare. Räta på ryggen, V, och ta lärdom av SD",
       "link": "https://www.dn.se/insandare/rata-pa-ryggen-v-och-ta-lardom-av-sd/",
       "description": "INSÄNDARE. Vänsterpartiet bör hellre släppa fram en ny högerregering än att vika sig om kravet på ministerposter. V har inget att förlora på att stå på sig, skriver Wences Rivas.",
@@ -186,77 +253,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Riksdagens partier överens om nytt kvittningssystem",
-      "link": "https://www.svt.se/nyheter/inrikes/riksdagens-partier-overens-om-nytt-kvittningssystem",
-      "description": "Alla riksdagens partier har enats om ett nytt kvittningssystem. Överenskommelsen sätter därmed punkt för det halvår långa ”kvittningskaoset” i riksdagen. – Jag skulle säga att det är över nu, säger Moderaternas gruppledare Mattias Karlsson.",
-      "pubDate": "2026-11-18T10:14:24Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Insändare. Blidka V med minst en post som samordningsminister",
-      "link": "https://www.dn.se/insandare/blidka-v-med-minst-en-post-som-samordningsminister/",
-      "description": "INSÄNDARE. Tidigare ministrar har vittnat om att samordningsroll kan ge ett bredare inflytande än vad enskilda uppdrag som statsråd ger. Om ett samordningsorgan liknande Sverigedemokraternas 2022–2026 inrättas även för Vänsterpartiet bör dess chef kallas minister, skriver Henry Kallioniemi.",
-      "pubDate": "2026-11-18T10:11:43Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
-      ]
-    },
-    {
-      "title": "Dödsfajterna är tillbaka i bombastiska ”Hunger games. Sunrise over the reaping”",
-      "link": "https://www.dn.se/kultur/dodsfajterna-ar-tillbaka-i-bombastiska-hunger-games-sunrise-over-the-reaping/",
-      "description": "Knappt femton år efter att succésviten om dödsspel startade är historien tillbaka. Nya ”Hungerspelen”-filmen utspelar sig 24 år före den första filmen. Handlingen är förutsägbar, men både Jesse Plemons och svensken Edvin Ryding är roliga att möta, skriver Sebastian Lindvall.",
-      "pubDate": "2026-11-18T09:54:22Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "Alla partier överens om nytt kvittningssystem",
-      "link": "https://www.sverigesradio.se/artikel/9345047",
-      "description": "Riksdagspartierna är överens om en ny kvittningsöverenskommelse, enligt TT. Överenskommelsen ska börja gälla nästa vecka och innebär att 10,5 procent av ledamöterna kommer att vara utkvitterade vid varje voteringstillfälle – vilket i mandat översätts till 36 av 349 ledamöter. Kvittningssystemet havererade den 29 april i år efter att SD slängt in två ledamöter i en omröstning som Tidöpartierna annars skulle ha förlorat.",
-      "pubDate": "2026-11-18T09:17:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Begärda i konkurs – ska ändå spela kval",
-      "link": "https://www.dn.se/sport/klara-for-kval-kan-slangas-ut-direkt/",
-      "description": "Kif Örebro räknar med att spela kvalet till damallsvenskan trots att klubben har begärts i konkurs, uppger Svenska fotbollförbundet för Sydsvenskan. – Vi har inte fått några andra besked och planerar för match tills något annat sägs, säger Johan Cedervall, kommunikationsansvarig i Rosengård, till tidningen.",
-      "pubDate": "2026-11-18T08:32:58Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "”Tydligt att Kristersson inte gett upp hoppet om Centerpartiet”",
-      "link": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
-      "description": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet. I det läget har Elisabeth Thand Ringqvist (C) skaffat sig en nödutgång i att välja Ulf Kristersson. Men det kräver att hon lyckas övertyga sitt parti om att en borgerlig minoritetsregering som kan behöva aktivt stöd av SD är bättre för C än ett extraval.",
-      "pubDate": "2026-11-17T18:11:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V",
-        "C"
       ]
     }
   ],
