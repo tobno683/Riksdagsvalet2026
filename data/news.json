@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:45:38.054268Z",
+  "updated_at": "2026-11-18T16:46:40.111961Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,12 +79,73 @@
   ],
   "news": [
     {
-      "title": "M går om S – blir största partiet",
-      "link": "https://www.sverigesradio.se/artikel/9344892",
-      "description": "Moderaterna är största parti i en ny Novusmätning som publiceras i TV4 och Göteborgs-Posten, med 26,5 procent av väljarstödet. Moderaterna ökar med 2,6 procentenheter, medan Socialdemokraterna backar med 1 procentenhet till 24,9 procent. Tidöpartierna är tillsammans drygt 6 procentenheter större än de rödgröna partierna.",
-      "pubDate": "2026-11-18T06:19:00Z",
+      "title": "V-förslaget: Behåll halva priset på SL-kortet en månad",
+      "link": "https://www.dn.se/sverige/v-forslaget-behall-halva-priset-pa-sl-kortet-en-manad/",
+      "description": "Den 2 december är sista dagen för att aktivera SL-korten för halva priset. Nu vill Vänsterpartiet förlänga det halverade priset en extra månad. – Vi ser att regionen har råd, säger Anna Sehlin, gruppledare i Vänsterpartiet.",
+      "pubDate": "2026-11-18T16:32:53Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Strömmer (M): Med oss kan C ändra strandskyddet",
+      "link": "https://www.expressen.se/nyheter/politik/strommer-m-med-oss-kan-c-andra-strandskyddet/",
+      "description": "Moderaternas erbjudande till Centerpartiet innehåller ett reformerat strandskydd. Men det ska inte ses som ett lockbete, menar Gunnar Strömmer (M). – Möjligheterna att genomföra det är förstås mycket bättre i ett samarbete med oss.",
+      "pubDate": "2026-11-18T16:15:37Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Sverige tar inte fram nationell plan för fossilutfasning",
+      "link": "https://www.sverigesradio.se/artikel/9345635",
+      "description": "Minst tio länder har i dagarna presenterat nationella färdplaner för att fasa ut fossila bränslen, så kallade TAFF Roadmaps. Men Sverige kommer inte att göra det, säger klimatminister Romina Pourmokhtari. Enligt henne ligger Sverige före, med 23 planer för industribranscher inom ramen för Fossilfritt Sverige. Miljöpartiets EU-parlamentariker Pär Holmgren tycker inte att det räcker, utan vill att Sverige också presenterar en nationell genomförandeplan för utfasning av fossilt.",
+      "pubDate": "2026-11-18T16:14:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Åkesson (SD): ”Har haft samtal med ungdomsförbundet”",
+      "link": "https://www.dn.se/sverige/akesson-sd-har-haft-samtal-med-ungdomsforbundet/",
+      "description": "SD-ledaren Jimmie Åkesson har haft samtal med partiets ungdomsförbund, efter DN:s granskning om kulturen i Ungsvenskarna. – Jag känner mig förvissad om att man tar det på det allvar som det förtjänar.",
+      "pubDate": "2026-11-18T15:16:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "”Tar det på allvar”",
+      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=cface6a9-1e9f-407c-ab91-a89b006f2dd1",
+      "description": "Åkesson efter anklagelserna mot Ungsvenskarna",
+      "pubDate": "2026-11-18T15:09:05Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Finansministern: ”Ansvarslöst och rätt provocerande”",
+      "link": "https://www.expressen.se/nyheter/politik/finansministern-ansvarslost-och-ratt-provocerande/",
+      "description": "Finansminister Elisabeth Svantesson (M) skickade en ordentlig känga till Magdalena Andersson (S) under onsdagens pressträff.&nbsp; Hon uppmanade S-delaren att tala ur skägget och sluta kritisera andra partier.&nbsp; – Det tycker jag är ansvarslöst och rätt provocerande, säger Svantesson.",
+      "pubDate": "2026-11-18T14:33:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
@@ -92,10 +153,10 @@
       ]
     },
     {
-      "title": "JUST NU: Går om Socialdemokraterna",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=c8aaaeb1-b68c-4f0c-a25d-68b34564623b",
-      "description": "Ökar för andra månaden i rad",
-      "pubDate": "2026-11-18T05:24:58Z",
+      "title": "Så kan Andersson lösa det omöjliga",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/sa-kan-andersson-losa-det-omojliga/",
+      "description": "Viktor Barth-Kron går igenom de rödgröna alternativens möjligheter och omöjligheter.",
+      "pubDate": "2026-11-18T14:19:23Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -104,30 +165,85 @@
       ]
     },
     {
-      "title": "Ex-topparna: Det talar för att Kristersson (M) blir statsminister",
-      "link": "https://www.expressen.se/nyheter/politik/ex-topparna-det-talar-for-att-kristersson-m-blir-statsminister/",
-      "description": "Just nu har Ulf Kristersson (M) medvind.&nbsp; Det är ex-politikerna Anna Kinberg Batra och Thomas Bodström överens om. &nbsp; – Det känns väldigt tomt i Magdalena Anderssons paket, säger Kinberg Batra i SVT:s ”Aktuellt”. &nbsp;",
-      "pubDate": "2026-11-18T03:48:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Insändare. Räta på ryggen, V, och ta lärdom av SD",
+      "link": "https://www.dn.se/insandare/rata-pa-ryggen-v-och-ta-lardom-av-sd/",
+      "description": "INSÄNDARE. Vänsterpartiet bör hellre släppa fram en ny högerregering än att vika sig om kravet på ministerposter. V har inget att förlora på att stå på sig, skriver Wences Rivas.",
+      "pubDate": "2026-11-18T11:39:08Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
+        "V"
       ]
     },
     {
-      "title": "Runt tusen unga kan omfattas av stopp för tonårsutvisningar",
-      "link": "https://www.sverigesradio.se/artikel/9344465",
-      "description": "Riksdagens socialförsäkringsutskott går vidare med en lag för att stoppa tonårsutvisningar, men det är oklart om Migrationsverket pausar utvisningarna under tiden. Sju av åtta partier stöder inriktningen, Sverigedemokraterna är emot. Lagen väntas träda i kraft om ungefär ett år och beröra omkring tusen personer. Migrationsverket har på tisdagseftermiddagen ännu inte tagit del av utskottets underlag och vill inte säga något om eventuell paus för de utvisningar som redan beslutats.",
-      "pubDate": "2026-11-17T18:23:00Z",
+      "title": "Insändare. V bör nöja sig med statssekreterare under S-ministrar",
+      "link": "https://www.dn.se/insandare/v-bor-noja-sig-med-statssekreterare-under-s-ministrar/",
+      "description": "INSÄNDARE. Det bästa vore om Vänsterpartiet omsätter sitt mandat i konkret sakpolitik och använder ministerkravet som förhandlingskort. En lösning vore att få in ett antal statssekreterare och politiskt sakkunniga från Vänsterpartiet i Regeringskansliet, skriver tolv medlemmar i det antirasistiska nätverket Folkets röst.",
+      "pubDate": "2026-11-18T11:25:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Riksdagens partier överens om nytt kvittningssystem",
+      "link": "https://www.svt.se/nyheter/inrikes/riksdagens-partier-overens-om-nytt-kvittningssystem",
+      "description": "Alla riksdagens partier har enats om ett nytt kvittningssystem. Överenskommelsen sätter därmed punkt för det halvår långa ”kvittningskaoset” i riksdagen. – Jag skulle säga att det är över nu, säger Moderaternas gruppledare Mattias Karlsson.",
+      "pubDate": "2026-11-18T10:14:24Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Insändare. Blidka V med minst en post som samordningsminister",
+      "link": "https://www.dn.se/insandare/blidka-v-med-minst-en-post-som-samordningsminister/",
+      "description": "INSÄNDARE. Tidigare ministrar har vittnat om att samordningsroll kan ge ett bredare inflytande än vad enskilda uppdrag som statsråd ger. Om ett samordningsorgan liknande Sverigedemokraternas 2022–2026 inrättas även för Vänsterpartiet bör dess chef kallas minister, skriver Henry Kallioniemi.",
+      "pubDate": "2026-11-18T10:11:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
+        "V"
+      ]
+    },
+    {
+      "title": "Dödsfajterna är tillbaka i bombastiska ”Hunger games. Sunrise over the reaping”",
+      "link": "https://www.dn.se/kultur/dodsfajterna-ar-tillbaka-i-bombastiska-hunger-games-sunrise-over-the-reaping/",
+      "description": "Knappt femton år efter att succésviten om dödsspel startade är historien tillbaka. Nya ”Hungerspelen”-filmen utspelar sig 24 år före den första filmen. Handlingen är förutsägbar, men både Jesse Plemons och svensken Edvin Ryding är roliga att möta, skriver Sebastian Lindvall.",
+      "pubDate": "2026-11-18T09:54:22Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Alla partier överens om nytt kvittningssystem",
+      "link": "https://www.sverigesradio.se/artikel/9345047",
+      "description": "Riksdagspartierna är överens om en ny kvittningsöverenskommelse, enligt TT. Överenskommelsen ska börja gälla nästa vecka och innebär att 10,5 procent av ledamöterna kommer att vara utkvitterade vid varje voteringstillfälle – vilket i mandat översätts till 36 av 349 ledamöter. Kvittningssystemet havererade den 29 april i år efter att SD slängt in två ledamöter i en omröstning som Tidöpartierna annars skulle ha förlorat.",
+      "pubDate": "2026-11-18T09:17:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
+      "topics": []
+    },
+    {
+      "title": "Begärda i konkurs – ska ändå spela kval",
+      "link": "https://www.dn.se/sport/klara-for-kval-kan-slangas-ut-direkt/",
+      "description": "Kif Örebro räknar med att spela kvalet till damallsvenskan trots att klubben har begärts i konkurs, uppger Svenska fotbollförbundet för Sydsvenskan. – Vi har inte fått några andra besked och planerar för match tills något annat sägs, säger Johan Cedervall, kommunikationsansvarig i Rosengård, till tidningen.",
+      "pubDate": "2026-11-18T08:32:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     },
     {
       "title": "”Tydligt att Kristersson inte gett upp hoppet om Centerpartiet”",
@@ -142,156 +258,9 @@
         "V",
         "C"
       ]
-    },
-    {
-      "title": "Hans Rosén: Kristersson serverar salami – och blir en vinnare",
-      "link": "https://www.dn.se/sverige/hans-rosen-forloraren-kristersson-serverar-salami-och-blir-en-vinnare/",
-      "description": "Pressen ökar på både S och C när Ulf Kristersson får möjlighet att hålla dörren öppen för Elisabeth Thand Ringqvist en hel vecka till. Men även om M-ledaren förlorar dragkampen har han tagit ett viktigt strategiskt steg mot att förverkliga den dröm han har haft ända sedan 2018.",
-      "pubDate": "2026-11-17T17:07:27Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Gissén om pressen på S: ”Vore en smärre katastrof”",
-      "link": "https://www.sverigesradio.se/artikel/9344646",
-      "description": "S-ledaren Magdalena Andersson välkomnar talmannens besked om ny talmansrunda nästa vecka och säger att hon kommer att fortsätta arbeta intensivt för att Sverige ska få en ny regering. ”Man kan vara säker på att det är ett väldigt intensivt arbete för att omvandla totalpaketet som Socialdemokraterna lämnade i fredags, till en fungerande regeringslösning”, säger vår inrikespolitiska kommentator Helena Gissén. Ett misslyckande från S skulle leda till en kris där ledningen skulle sitta lös, säger hon.",
-      "pubDate": "2026-11-17T16:58:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Får rödgröna eld i baken av Kristerssons besked?",
-      "link": "https://www.dn.se/podd/alskade-politik/far-rodgrona-eld-i-baken-av-kristerssons-besked/",
-      "description": "Moderatledaren ger inte upp drömmen om regeringsmakten och vill ha mer tid på sig för att locka till sig Centerpartiet. Och talmannen lovar en jul utan politiska förhandlingar om regeringsmakten. Kan dagens besked ge de rödgröna eld i baken?",
-      "pubDate": "2026-11-17T16:47:01Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. Släpp på ministerkravet innan det är för sent",
-      "link": "https://www.dn.se/insandare/slapp-pa-ministerkraven-innan-det-ar-for-sent/",
-      "description": "INSÄNDARE. V-ledningen riskerar att med sitt agerande cementera en högerpolitik som man själv säger sig vilja bekämpa. Det är dags för Vänsterpartiet att släppa prestigen, kavla upp ärmarna och börja förhandla om den faktiska politiken, skriver Pererik Holmbom.",
-      "pubDate": "2026-11-17T15:45:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Efter M-ledarens förslag – en veckas paus i sonderingen",
-      "link": "https://www.svt.se/nyheter/inrikes/efter-m-ledarens-forslag-en-veckas-paus-i-sonderingen",
-      "description": "Talmannen ger Ulf Kristersson (M) och övriga partier en veckas paus i sonderingsprocessen för att lämna utrymme för ytterligare förhandlingar. Alla partier kallas till en ny talmansrunda i nästa vecka.",
-      "pubDate": "2026-11-17T15:18:15Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Ida Gabrielsson: Bluffar C?",
-      "link": "https://www.dn.se/sverige/ida-gabrielsson-bluffar-c/",
-      "description": "Ida Gabrielsson (V) kallar Centerpartiet för ”kräsmagat” efter att ha läst Niels Paarup-Petersens uttalanden i en intervju med DN. Hon undrar om Centern har bluffat genom att välja Socialdemokraternas ”totalpaket”. ”Antingen regerar man med V eller så låter man SD bli stödparti och avgöra alla stora frågor i riksdagen”, skriver hon på X.",
-      "pubDate": "2026-11-17T14:40:31Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "”Ny regering eller besked om extra val före jul”",
-      "link": "https://www.dn.se/sverige/kristersson-vill-ha-mer-tid-helt-installd-pa-att-mitt-forslag-provas/",
-      "description": "Talman Andreas Norlén ger M-ledaren Ulf Kristersson och övriga partier en vecka till i arbetet med att bilda en regering. Samtidigt sätter han en slutgiltig tidsfrist. – När svenska folket firar jul ska man veta om Sverige antingen har en ny regering eller förbereder sig för ett extra val, säger Norlén.",
-      "pubDate": "2026-11-17T14:23:55Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "MP: Köper inte hela totalpaketet",
-      "link": "https://www.dn.se/sverige/mp-koper-inte-hela-totalpaketet/",
-      "description": "Miljöpartiet (MP) köper inte det så kallade totalpaket som Socialdemokraterna har tagit fram. – Nej, totalpaketet var väldigt tydligt ett S-bud till Centerpartiet, säger MP:s ekonomisk-politiska talesperson Janine Alm Ericson.",
-      "pubDate": "2026-11-17T12:19:38Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "Svenska klädjättarnas svar efter protesterna i Bangladesh",
-      "link": "https://www.dn.se/varlden/svenska-kladjattarnas-svar-efter-protesterna-i-bangladesh/",
-      "description": "Hundratals textilfabriker i Bangladesh har stängts efter arbetarprotester för högre minimilöner. Arbetare kräver att lönerna matchar levnadskostnaderna. Flera svenska klädjättar har landet som sin största inköpskälla, däribland Lindex och H&M. – Företag som köper kläder producerade i Bangladesh har stor makt att påverka situationen, säger Marlene Rosendal, generalsekreterare på Fair Action.",
-      "pubDate": "2026-11-17T09:59:57Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
-      ]
-    },
-    {
-      "title": "V-veteranens svar till Strandhäll (S): ”Helt absurt”",
-      "link": "https://www.svt.se/nyheter/inrikes/v-veterarens-svar-till-strandhall-s-helt-absurt",
-      "description": "Vänsterpartiet måste lägga ner kravet på att sitta i regering, säger Annika Strandhäll (S) i måndagens Aktuellt. – Det är helt absurt, säger mångåriga kommunalrådet och V-veteraren Stig Henriksson.",
-      "pubDate": "2026-11-16T21:43:10Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
     }
   ],
   "blogs": [
-    {
-      "title": "Nu måste de rödgröna prata",
-      "link": "https://www.dagensarena.se/opinion/nu-maste-de-rodgrona-prata/",
-      "description": "Vill Vänsterpartiet förhandla även om de inte kommer med i regeringen? Inlägget Nu måste de rödgröna prata dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-15T22:00:44Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "En ödesvecka i svensk politik",
-      "link": "https://www.dagensarena.se/opinion/en-odesvecka-svensk-politik/",
-      "description": "Ska de rödgröna bränna möjligheten att byta politik? Inlägget En ödesvecka i svensk politik dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-15T13:45:47Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": []
-    },
     {
       "title": "Därför kräver Vänsterpartiet statsrådsposter",
       "link": "https://ledarsidorna.se/darfor-vill-inte-v-redogora-for-varfor-de-kraver-statsradsposter/",
@@ -320,6 +289,18 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Vittnesmålen om Ungsvenskarna | Veckopanelen",
+      "link": "https://pod.space/kvartal/vittnesmalen-om-ungsvenskarna-veckopanelen",
+      "description": "I DN:s granskning av Sverigedemokraternas ungdomsförbund vittnar tidigare medlemmar öppet och anonymt om en sunkig kvinnosyn, hårt supande och unga tjejer som riskerar att utnyttjas av äldre killar. Riksdagsledamoten Rasmus Giertz, som pekas ut som en av centralfigurerna, lämnar sin post och förnekar att han gjort något dåligt. Carl Eos hade velat se Ungsvenskarnas ordförande vara rejält mycket tuffare mot killarna i den egna organisationen. Linn Svansbo menar att förbundet skiljer ut sig, och går längre: det är sanktionerat, ”en sunkig kvinnosyn från hela partiet”. Harriet Wallberg får déjà vu från Svenska Akademien och kulturprofilen 2017 – alla visste, och tjejerna varnade varandra. Eftersom Ungsvenskarna är toppstyrt och ordföranden inte väljs som i andra förbund är det Jimmie Åkesson som måste städa upp och slå fast nolltolerans, säger hon. Carl Eos delar inte uppfattningen att konservativa rörelser måste ha en dålig kvinnosyn, och påminner om att det finns problem överallt där det finns män och alkohol. Gör toppstyrningen skandalen värre? Och är den extra besvärande för ett parti som talar om svenska värderingar och muslimers kvinnosyn?",
+      "pubDate": "2026-11-18T15:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Får rödgröna eld i baken av Kristerssons besked?",
       "link": "https://pod.space/alskadepolitik/far-rodgrona-eld-i-baken-av-kristerssons-besked",
@@ -498,18 +479,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
       "sourceType": "podcast",
       "topics": []
-    },
-    {
-      "title": "Därför slutade SD komma till Järvaveckan | Fredagsintervjun",
-      "link": "https://pod.space/kvartal/darfor-slutade-sd-komma-till-jarvaveckan-fredagsintervjun",
-      "description": "Järvaveckan började med utomhusbio och barnfilmer och är i dag en nationell händelse dit arbetarrörelsen, de största företagen och alla åtta riksdagspartier kommer. Det mest kontroversiella var att bjuda in Sverigedemokraterna, säger Ahmed Abdirahman – och det fungerade jättebra. Antaganden och fördomar bröts i mötena. Nu har det vänt: Jimmie Åkesson tycker inte längre att deltagandet är nödvändigt. ”Innan var det, vi får inte vara med och nu är det såhär, vi vill inte vara med för att vi ska vara annorlunda.” Samtidigt har både antalet partiledare och antalet deltagare minskat, och Abdirahman pekar på projektifieringen av förorten, där det nya alltid är mest spännande. Han berättar också om vad bygget har kostat honom. Han har gömt sig bakom jobbet och lagt lock på traumat: inbördeskriget i Somalia, klanerna som splittrade familjen, pappan som lämnade när han var två år gammal och som dog för två år sedan utan att relationen hunnit läka. Vad innebär det att vara svensk och svenssomali när identiteten utmanas från alla håll?",
-      "pubDate": "2026-11-11T14:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD"
-      ]
     }
   ]
 }
