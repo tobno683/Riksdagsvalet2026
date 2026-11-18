@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:57:46.674065Z",
+  "updated_at": "2026-11-18T00:19:44.830453Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,44 @@
     }
   ],
   "news": [
+    {
+      "title": "Statsvetaren: De gynnas mest av talmannens drag",
+      "link": "https://www.expressen.se/nyheter/politik/statsvetaren-de-gynnas-mest-av-talmannens-drag/",
+      "description": "Det blir ingen tredje statsministeromröstning i närtid.&nbsp; I stället ger talmannen partierna ”en veckas anstånd” för fortsatta förhandlingar.&nbsp; Beskedet gynnar de rödgröna mest, menar statsvetaren Andreas Johansson Heinö.&nbsp; – Det är uppenbart att mycket återstår där. Jag tror att de behöver mest tid.&nbsp;",
+      "pubDate": "2026-11-17T18:41:27Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Runt tusen unga kan omfattas av stopp för tonårsutvisningar",
+      "link": "https://www.sverigesradio.se/artikel/9344465",
+      "description": "Riksdagens socialförsäkringsutskott går vidare med en lag för att stoppa tonårsutvisningar, men det är oklart om Migrationsverket pausar utvisningarna under tiden. Sju av åtta partier stöder inriktningen, Sverigedemokraterna är emot. Lagen väntas träda i kraft om ungefär ett år och beröra omkring tusen personer. Migrationsverket har på tisdagseftermiddagen ännu inte tagit del av utskottets underlag och vill inte säga något om eventuell paus för de utvisningar som redan beslutats.",
+      "pubDate": "2026-11-17T18:23:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "”Tydligt att Kristersson inte gett upp hoppet om Centerpartiet”",
+      "link": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
+      "description": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet. I det läget har Elisabeth Thand Ringqvist (C) skaffat sig en nödutgång i att välja Ulf Kristersson. Men det kräver att hon lyckas övertyga sitt parti om att en borgerlig minoritetsregering som kan behöva aktivt stöd av SD är bättre för C än ett extraval.",
+      "pubDate": "2026-11-17T18:11:07Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "C"
+      ]
+    },
     {
       "title": "Hans Rosén: Kristersson serverar salami – och blir en vinnare",
       "link": "https://www.dn.se/sverige/hans-rosen-forloraren-kristersson-serverar-salami-och-blir-en-vinnare/",
@@ -180,21 +218,6 @@
       ]
     },
     {
-      "title": "Talmannens deadline: Klart före jul",
-      "link": "https://www.expressen.se/nyheter/politik/kristersson-m-vill-ha-mer-sonderingstid-talmannens-besked-/",
-      "description": "Talmannen har en ny deadline. &nbsp; &nbsp; – Jag vill att när svenska folket firar jul så ska man veta att Sverige antingen har en ny regering eller förbereder sig för ett extraval, säger han på en pressträff. &nbsp; Det blir ingen statsministeromröstning om Ulf Kristersson (M) ännu – partierna får ”en veckas anstånd” för fortsatta förhandlingar.&nbsp; Magdalena Andersson (S) och Elisabeth Thand Ringqvist (C) välkomnar beskedet.&nbsp;",
-      "pubDate": "2026-11-17T14:40:20Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "”Ny regering eller besked om extra val före jul”",
       "link": "https://www.dn.se/sverige/kristersson-vill-ha-mer-tid-helt-installd-pa-att-mitt-forslag-provas/",
       "description": "Talman Andreas Norlén ger M-ledaren Ulf Kristersson och övriga partier en vecka till i arbetet med att bilda en regering. Samtidigt sätter han en slutgiltig tidsfrist. – När svenska folket firar jul ska man veta om Sverige antingen har en ny regering eller förbereder sig för ett extra val, säger Norlén.",
@@ -223,20 +246,6 @@
       ]
     },
     {
-      "title": "Ulf Kristersson ber talmannen om mer tid",
-      "link": "https://www.expressen.se/nyheter/politik/ulf-kristersson-traffar-talmannen-om-regeringsbildningen/",
-      "description": "Ulf Kristersson (M) vill ha fler dagar att sondera. Han hoppas fortsatt att Centerpartiet, trots sitt ja till Anderssons totalpaket, ska vilja göra upp med de borgerliga. – Det är väl alldeles uppenbart att de inte har bestämt sig än, säger han.",
-      "pubDate": "2026-11-17T13:09:38Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
       "title": "MP: Köper inte hela totalpaketet",
       "link": "https://www.dn.se/sverige/mp-koper-inte-hela-totalpaketet/",
       "description": "Miljöpartiet (MP) köper inte det så kallade totalpaket som Socialdemokraterna har tagit fram. – Nej, totalpaketet var väldigt tydligt ett S-bud till Centerpartiet, säger MP:s ekonomisk-politiska talesperson Janine Alm Ericson.",
@@ -248,19 +257,6 @@
         "S",
         "C",
         "MP"
-      ]
-    },
-    {
-      "title": "Ebba Busch och Ulf Kristersson tänker prata omkull Centern",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/ebba-busch-tanker-prata-omkull-centern/",
-      "description": "Det är alldeles tydligt att Moderaterna och KD har en plan.",
-      "pubDate": "2026-11-17T11:59:32Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "KD"
       ]
     },
     {
@@ -337,6 +333,91 @@
         "S",
         "SD",
         "V"
+      ]
+    },
+    {
+      "title": "BREV 517 – Socialdemokraterna vallade bort sig.",
+      "link": "https://jensganman.substack.com/p/brev-517-socialdemokraterna-vallade",
+      "description": "Detta ing&#229;r i moderaternas mutpaket till C / Hela ledningen m&#229;ste bort / N&#228;sta stora valfr&#229;ga / &#8220;I Can&#8217;t Believe It&#8217;s islam!&#8221; / Samerna &#228;r lika hemska som oss / F&#228;lldin g&#229;r igen / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "title": "BREV 513 – Åkesson & Romson möts i hästskoteorin.",
+      "link": "https://jensganman.substack.com/p/brev-513-akesson-and-romson-mots",
+      "description": "Blir &#8220;Mohamed Ali&#8221; svensk om han &#229;ker tunnelbana? / Svenska landskapsetniciteter / Gl&#246;m inte bort Sveriges klokaste kvinna / Svarta m&#228;nniskor &#228;r genetiskt &#246;verl&#228;gsna / VPK m&#229;ste korsa Rubicon / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "BREV 512 – Socialdemokraternas två desperata krisplaner.",
+      "link": "https://jensganman.substack.com/p/brev-512-socialdemokraternas-tva",
+      "description": "Uppgifter: Aftonbladet drar saker ur r-ven / Vad ska S g&#229; till extraval p&#229;? / Mattias Karlssons offentliga h&#228;rdsm&#228;lta / Det t&#228;nker jag n&#228;r jag ser Lawen Redar p&#229; gatan / M.m., m.fl",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "BREV 511 – Nej, du är inte etnisk svensk.",
+      "link": "https://jensganman.substack.com/p/brev-511-nej-du-ar-inte-etnisk-svensk",
+      "description": "Centern vill inte g&#246;ra sossarnas dirty work l&#228;ngre / Krampaktiga skratt hos 100% / Karlssons & Jomshofs magnifika magplask / V&#228;rldens b&#228;sta rasistfilm / Springsteen & Bono s&#229;g det inte komma / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "BREV 510 – I Centerpartiet kan ingen höra dig skrika.",
+      "link": "https://jensganman.substack.com/p/brev-510-i-centerpartiet-kan-ingen",
+      "description": "Thand Ringqvist &#8211; politisk autist / &#196;r Macron ond eller bara dum i huvudet? / Helena Edlunds genialiska id&#233; / Milj&#246;partiet har kommit alldeles f&#246;r billigt undan / M.m., m.fl.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "BREV 507 – Miljöpartiet och VPK utnyttjar sina somalier skamlöst.",
+      "link": "https://jensganman.substack.com/p/brev-507-miljopartiet-och-vpk-utnyttjar",
+      "description": "De f&#246;rst&#229;r ju mindre &#228;n Baudin / Nytt apologetreportage om Frankrike i Rapport / F&#246;rdelen med ett extra val / Det gamla DN-klippet som f&#246;rklarar allt / Kessler-effekten / Storspoven kommer / M.m.",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "BREV 502 – Greta Thunberg, kaozturist.",
+      "link": "https://jensganman.substack.com/p/brev-501-greta-thunberg-kaozturist",
+      "description": "Som en fluga till en sockerbit / N&#229;gra intressanta passager ur &#8220;Mitt f&#246;rbjudna ansikte&#8221; och &#8220;En somalisk kvinnas ber&#228;ttelse&#8221; / Hoppas detta &#228;r Ulf Kristerssons strategi / Vogonen Kristina Lagerstr&#246;m /",
+      "pubDate": null,
+      "source": "Jens Ganman",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=jensganman.substack.com&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "M"
       ]
     }
   ],
