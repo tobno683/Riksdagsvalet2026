@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T13:37:23.780210Z",
+  "updated_at": "2026-11-19T21:54:08.773530Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,38 +79,92 @@
   ],
   "news": [
     {
+      "title": "Ödesbeslutet blottar splittring i C: “Har kommit upp till ytan nu”",
+      "link": "https://www.dn.se/sverige/odesbeslutet-blottar-splittring-i-c-har-kommit-upp-till-ytan-nu/",
+      "description": "Centerpartiet förhandlar med de rödgröna under tidspress. Snart kan partiet tvingas ta ställning i en knäckfråga som får gamla splittringar att segla upp till ytan. – Vägvalet kommer vara avgörande för vilket parti man blir, säger Matilda Molander, vd för tankesmedjan Fores.",
+      "pubDate": "2026-11-19T19:04:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Annie Reuterskiöld: Går C högerut kan S och SD sluta en ohelig allians",
+      "link": "https://www.dn.se/sverige/annie-reuterskiold-gar-c-hogerut-kan-s-och-sd-sluta-en-ohelig-allians/",
+      "description": "Ulf Kristersson hoppas att en ny S-ledning skulle vara mer samarbetsvillig än den nuvarande, om han lyckas bilda regering. Det är en önskning som kan gå i uppfyllelse men inte i syfte att minimera SD:s inflytande. S lär i stället närma sig Sverigedemokraterna i utskotten för att fälla regeringens förslag så ofta de kan.",
+      "pubDate": "2026-11-19T19:04:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Svårt med rödvit modell när Svantesson vill locka gröna C till blå laget",
+      "link": "https://www.dn.se/sverige/svart-med-rodvit-modell-nar-svantesson-vill-locka-grona-c-till-bla-laget/",
+      "description": "Genom att hämta inspiration från Danmarks sätt att budgetförhandla vill moderater och kristdemokrater locka över Centerpartiet till sin sida av politiken. Regeringens utredare, professor Johannes Lindvall, tror inte riktigt på den danska modellen. Han pekar ut ett annat land som förebild.",
+      "pubDate": "2026-11-19T19:04:20Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "KD",
+        "MP"
+      ]
+    },
+    {
+      "title": "Uppgifter: Trump kritiserar stöd till Ukraina",
+      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-kritiserar-stod-till-ukraina/",
+      "description": "Donald Trump uppges ha rasat mot Europas stöd till Ukraina. Bara timmar efter att ha träffat Vladimir Putin ringde presidenten överraskande upp europeiska ledare från Air force one. – Ingen visste om det, säger Ulf Kristersson till TT.",
+      "pubDate": "2026-11-19T18:31:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Rödgröna vill återuppta KU-granskningen mot Kristersson",
+      "link": "https://www.sverigesradio.se/artikel/9346406",
+      "description": "De rödgröna partierna undersöker nu om det går att återuppta KU-granskningen av Ulf Kristersson innan rättsprocessen mot Henrik Landerholm är avslutad. Partierna har därför gett opolitiska tjänstemän i uppgift att reda ut vilka delar i ärendet som tangerar rättsprocessen och vilka som inte gör det. Mats Green, gruppledare för moderaterna i KU, anser att utskottets granskning bör invänta en slutgiltig dom. Landerholm som fällts i hovrätt har överklagat till HD.",
+      "pubDate": "2026-11-19T16:41:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "KD-ministerns skogsvarning till C: ”Ett rent hot”",
+      "link": "https://www.svt.se/nyheter/inrikes/kd-ministerns-skogsvarning-till-c-ett-rent-hot",
+      "description": "Äganderätten till skogen har blivit en het fråga i regeringsförhandlingarna. Nu anklagar landsbygdsminister Peter Kullgren (KD) Magdalena Andersson för att utpressa centerpartisterna i sitt totalpaket. – Det där ser jag som ett rent hot: ”gör som jag vill annars tänker jag göra allt för att jäklas”, säger han.",
+      "pubDate": "2026-11-19T15:41:18Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
       "title": "SD förnekade – men ledningen kände till larm om Rasmus Giertz",
       "link": "https://www.dn.se/sverige/sd-fornekade-men-ledningen-kande-till-larm-om-rasmus-giertz/",
-      "description": "Sverigedemokraterna förnekar att de fått varningssignaler om kulturen i Ungsvenskarna eller Rasmus Giertz. ”Nej, det har såklart inte funnits”, skriver SD:s pressavdelning. Men två då aktiva SD-politiker berättar för DN att partiledningen kände till uppgifterna om att deras dotter ska ha trakasserats av riksdagsmannen.",
+      "description": "Sverigedemokraterna förnekar att de fått varningssignaler om kulturen i Ungsvenskarna eller om Rasmus Giertz. ”Nej, det har så klart inte funnits”, skriver SD:s pressavdelning. Men två då aktiva SD-politiker berättar för DN att partiledningen kände till uppgifterna om att deras dotter ska ha trakasserats av riksdagsmannen.",
       "pubDate": "2026-11-19T13:05:39Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Beslut i KU: Återupptar Landerholmgranskning",
-      "link": "https://www.expressen.se/nyheter/politik/beslut-i-ku-aterupptar-landerholmgranskning/",
-      "description": "De rödgröna partierna S, C, V och MP har enats om att hämta in underlag för att fortsätta granskningen av den så kallade Landerholmaffären. Tidöpartierna reserverade sig.",
-      "pubDate": "2026-11-19T11:03:47Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Årets julklapp är en svekdebatt",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt/",
-      "description": "Ida Gabrielsson (V) var inte med i SVT:s Aktuellt på onsdagen. Ingen centerpartist heller.&nbsp; På det viset var det förmodligen den bästa av de hittills 67 dagar som gått av den rödgröna regeringsbildningen.&nbsp;",
-      "pubDate": "2026-11-19T07:00:04Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
       ]
     },
     {
@@ -204,55 +258,6 @@
       "sourceType": "news",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "Insändare. Räta på ryggen, V, och ta lärdom av SD",
-      "link": "https://www.dn.se/insandare/rata-pa-ryggen-v-och-ta-lardom-av-sd/",
-      "description": "INSÄNDARE. Vänsterpartiet bör hellre släppa fram en ny högerregering än att vika sig om kravet på ministerposter. V har inget att förlora på att stå på sig, skriver Wences Rivas.",
-      "pubDate": "2026-11-18T11:39:08Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. V bör nöja sig med statssekreterare under S-ministrar",
-      "link": "https://www.dn.se/insandare/v-bor-noja-sig-med-statssekreterare-under-s-ministrar/",
-      "description": "INSÄNDARE. Det bästa vore om Vänsterpartiet omsätter sitt mandat i konkret sakpolitik och använder ministerkravet som förhandlingskort. En lösning vore att få in ett antal statssekreterare och politiskt sakkunniga från Vänsterpartiet i Regeringskansliet, skriver tolv medlemmar i det antirasistiska nätverket Folkets röst.",
-      "pubDate": "2026-11-18T11:25:09Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Riksdagens partier överens om nytt kvittningssystem",
-      "link": "https://www.svt.se/nyheter/inrikes/riksdagens-partier-overens-om-nytt-kvittningssystem",
-      "description": "Alla riksdagens partier har enats om ett nytt kvittningssystem. Överenskommelsen sätter därmed punkt för det halvår långa ”kvittningskaoset” i riksdagen. – Jag skulle säga att det är över nu, säger Moderaternas gruppledare Mattias Karlsson.",
-      "pubDate": "2026-11-18T10:14:24Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Insändare. Blidka V med minst en post som samordningsminister",
-      "link": "https://www.dn.se/insandare/blidka-v-med-minst-en-post-som-samordningsminister/",
-      "description": "INSÄNDARE. Tidigare ministrar har vittnat om att samordningsroll kan ge ett bredare inflytande än vad enskilda uppdrag som statsråd ger. Om ett samordningsorgan liknande Sverigedemokraternas 2022–2026 inrättas även för Vänsterpartiet bör dess chef kallas minister, skriver Henry Kallioniemi.",
-      "pubDate": "2026-11-18T10:11:43Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "V"
       ]
     }
   ],
