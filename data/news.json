@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T23:12:05.253521Z",
+  "updated_at": "2026-11-19T04:17:38.600751Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -207,31 +207,6 @@
       ]
     },
     {
-      "title": "”Tar det på allvar”",
-      "link": "https://www.expressen.se/nyheter/politik/allt-om-valet-2026-folj-direktrapporten/?post=cface6a9-1e9f-407c-ab91-a89b006f2dd1",
-      "description": "Åkesson efter anklagelserna mot Ungsvenskarna",
-      "pubDate": "2026-11-18T15:09:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Finansministern: ”Ansvarslöst och rätt provocerande”",
-      "link": "https://www.expressen.se/nyheter/politik/finansministern-ansvarslost-och-ratt-provocerande/",
-      "description": "Finansminister Elisabeth Svantesson (M) skickade en ordentlig känga till Magdalena Andersson (S) under onsdagens pressträff.&nbsp; Hon uppmanade S-delaren att tala ur skägget och sluta kritisera andra partier.&nbsp; – Det tycker jag är ansvarslöst och rätt provocerande, säger Svantesson.",
-      "pubDate": "2026-11-18T14:33:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M"
-      ]
-    },
-    {
       "title": "Insändare. Räta på ryggen, V, och ta lärdom av SD",
       "link": "https://www.dn.se/insandare/rata-pa-ryggen-v-och-ta-lardom-av-sd/",
       "description": "INSÄNDARE. Vänsterpartiet bör hellre släppa fram en ny högerregering än att vika sig om kravet på ministerposter. V har inget att förlora på att stå på sig, skriver Wences Rivas.",
@@ -252,6 +227,31 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Riksdagens partier överens om nytt kvittningssystem",
+      "link": "https://www.svt.se/nyheter/inrikes/riksdagens-partier-overens-om-nytt-kvittningssystem",
+      "description": "Alla riksdagens partier har enats om ett nytt kvittningssystem. Överenskommelsen sätter därmed punkt för det halvår långa ”kvittningskaoset” i riksdagen. – Jag skulle säga att det är över nu, säger Moderaternas gruppledare Mattias Karlsson.",
+      "pubDate": "2026-11-18T10:14:24Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Insändare. Blidka V med minst en post som samordningsminister",
+      "link": "https://www.dn.se/insandare/blidka-v-med-minst-en-post-som-samordningsminister/",
+      "description": "INSÄNDARE. Tidigare ministrar har vittnat om att samordningsroll kan ge ett bredare inflytande än vad enskilda uppdrag som statsråd ger. Om ett samordningsorgan liknande Sverigedemokraternas 2022–2026 inrättas även för Vänsterpartiet bör dess chef kallas minister, skriver Henry Kallioniemi.",
+      "pubDate": "2026-11-18T10:11:43Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD",
         "V"
       ]
     }
