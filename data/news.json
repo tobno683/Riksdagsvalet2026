@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T04:17:38.600751Z",
+  "updated_at": "2026-11-19T13:37:23.780210Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,41 @@
   ],
   "news": [
     {
+      "title": "SD förnekade – men ledningen kände till larm om Rasmus Giertz",
+      "link": "https://www.dn.se/sverige/sd-fornekade-men-ledningen-kande-till-larm-om-rasmus-giertz/",
+      "description": "Sverigedemokraterna förnekar att de fått varningssignaler om kulturen i Ungsvenskarna eller Rasmus Giertz. ”Nej, det har såklart inte funnits”, skriver SD:s pressavdelning. Men två då aktiva SD-politiker berättar för DN att partiledningen kände till uppgifterna om att deras dotter ska ha trakasserats av riksdagsmannen.",
+      "pubDate": "2026-11-19T13:05:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Beslut i KU: Återupptar Landerholmgranskning",
+      "link": "https://www.expressen.se/nyheter/politik/beslut-i-ku-aterupptar-landerholmgranskning/",
+      "description": "De rödgröna partierna S, C, V och MP har enats om att hämta in underlag för att fortsätta granskningen av den så kallade Landerholmaffären. Tidöpartierna reserverade sig.",
+      "pubDate": "2026-11-19T11:03:47Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Årets julklapp är en svekdebatt",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/arets-julklapp-ar-en-svekdebatt/",
+      "description": "Ida Gabrielsson (V) var inte med i SVT:s Aktuellt på onsdagen. Ingen centerpartist heller.&nbsp; På det viset var det förmodligen den bästa av de hittills 67 dagar som gått av den rödgröna regeringsbildningen.&nbsp;",
+      "pubDate": "2026-11-19T07:00:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Här föreslås två av tre gator få kvinnonamn",
       "link": "https://www.dn.se/sverige/har-foreslas-tva-av-tre-gator-fa-kvinnonamn/",
       "description": "Det finns för många Kal och för få Ada i Göteborg. Stadens rödgröna styre anser att två av tre nya gator och platser bör få kvinnonamn. Men först ska Göran Johansson in.",
@@ -125,16 +160,6 @@
       ]
     },
     {
-      "title": "Topparna saknades i riksdagen – uppges förhandla",
-      "link": "https://www.expressen.se/nyheter/politik/topparna-saknades-i-riksdagen-uppges-forhandla/",
-      "description": "Flera toppar från det rödgröna blocket saknades i riksdagen under onsdagen. Enligt uppgifter till SVT missade de dagens votering – på grund av regeringsförhandlingar.&nbsp;",
-      "pubDate": "2026-11-18T18:00:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "V ger sig inte: ”Ministerkravet är en naturlig del av oss”",
       "link": "https://www.dn.se/sverige/v-ger-sig-inte-ministerkravet-ar-en-naturlig-del-av-oss/",
       "description": "Socialdemokraterna ”jobbar intensivt” för att få Vänsterpartiet att släppa kravet på ministerposter, och Centerledaren säger att förhandlingarna går bra. Men enligt flera V-ledamöter är kravet lika intakt som förut. – Om syftet är att vi ska hållas undan från regeringen blir allt annat tramsigt, säger Tobias Smedberg (V).",
@@ -167,31 +192,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Strömmer (M): Med oss kan C ändra strandskyddet",
-      "link": "https://www.expressen.se/nyheter/politik/strommer-m-med-oss-kan-c-andra-strandskyddet/",
-      "description": "Moderaternas erbjudande till Centerpartiet innehåller ett reformerat strandskydd. Men det ska inte ses som ett lockbete, menar Gunnar Strömmer (M). – Möjligheterna att genomföra det är förstås mycket bättre i ett samarbete med oss.",
-      "pubDate": "2026-11-18T16:15:37Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Sverige tar inte fram nationell plan för fossilutfasning",
-      "link": "https://www.sverigesradio.se/artikel/9345635",
-      "description": "Minst tio länder har i dagarna presenterat nationella färdplaner för att fasa ut fossila bränslen, så kallade TAFF Roadmaps. Men Sverige kommer inte att göra det, säger klimatminister Romina Pourmokhtari. Enligt henne ligger Sverige före, med 23 planer för industribranscher inom ramen för Fossilfritt Sverige. Miljöpartiets EU-parlamentariker Pär Holmgren tycker inte att det räcker, utan vill att Sverige också presenterar en nationell genomförandeplan för utfasning av fossilt.",
-      "pubDate": "2026-11-18T16:14:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "MP"
       ]
     },
     {
@@ -258,6 +258,18 @@
   ],
   "blogs": [
     {
+      "title": "Utan vänsterpartiet finns det bara Tidöpolitik",
+      "link": "https://blog.zaramis.se/2026/11/19/utan-vansterpartiet-finns-det-bara-tidopolitik/",
+      "description": "För faktum är att om Vänsterpartiet inte sitter med i regeringen kommer det fortsatt att bli Tidöpolitik med rasism, privatisering, barn i fängelse, fackföreningenfientlighet, klimatkatastrofal och miljöförstörande politik och nedskärningar i välfärden. Läs mer … Inlägget Utan vänsterpartiet finns det bara Tidöpolitik dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-11-19T08:34:10Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Därför kräver Vänsterpartiet statsrådsposter",
       "link": "https://ledarsidorna.se/darfor-vill-inte-v-redogora-for-varfor-de-kraver-statsradsposter/",
       "description": "Vänsterpartiets hårdnackade försvar av det som de anser rätten till statsrådsposter går bortom sakpolitiken. Det är genom att sitta i regeringen som den verkliga påverkan finns av samhällsutvecklingen, inte i de sakpolitiska förhandlingsvinsterna och ett eventuellt samordningskansli. En regeringskonst som Socialdemokraterna behärskat till fulländning. I den svenska parlamentariska modellen är det riksdagen som stiftar lagar [&#8230;]",
@@ -285,6 +297,35 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Åkesson öppnar för Socialdemokraterna | Veckopanelen",
+      "link": "https://pod.space/kvartal/akesson-oppnar-for-socialdemokraterna-veckopanelen",
+      "description": "Jimmie Åkesson markerar i Aktuellt att han kan samarbeta med Socialdemokraterna och att borgerlig skattepolitik inte lockar: inom borgerligheten är man ”besjälad av låga skatter för höga inkomster”. Carl Eos ser ett försök att göra Sverigedemokraterna till ett eget block, och tror att partiet går till Socialdemokraterna med till exempel tandvårdsreformen om det blir en alliansregering. Harriet Wallberg menar att Åkesson väljer opposition för att inte tappa mandat och därmed drömmen om statsministerposten 2030. Linn Svansbo säger att ett förslag som har majoritet och råkar vara det egna vallöftet, det röstar man på. Elisabeth Svantesson säger i SVT att hon efter fyra år vet vad som är viktigt för Sverigedemokraterna och har varit lyhörd för det. Svansbo invänder att om Elisabeth Thand Ringqvist går till Alliansen blir Sverigedemokraterna vågmästare i varje riksdagsomröstning i fyra år – på många sätt mer makt än i en regering. Carl Eos kallar de röda linjerna fåniga och hånfulla mot svenska folket. Kan Centerpartiet acceptera att SD avgör varje fråga? Och vilka reformer är det Svantesson ska vara lyhörd för?",
+      "pubDate": "2026-11-19T13:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "336. Buschs blågröna regering",
+      "link": "https://pod.space/politikrummet/336-buschs-blagrona-regering",
+      "description": "Talmannen lovar en ny regering före jul – eller besked om extraval. Klarar Centerpartiet att välja bland paketen? I riksdagsstudion: Filippa Rogvall, Max V Karlsson och Anette Holmqvist Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-11-19T12:29:29Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "C",
+        "KD"
+      ]
+    },
     {
       "title": "Vittnesmålen om Ungsvenskarna | Veckopanelen",
       "link": "https://pod.space/kvartal/vittnesmalen-om-ungsvenskarna-veckopanelen",
@@ -451,30 +492,6 @@
         "V",
         "C"
       ]
-    },
-    {
-      "title": "Dadgostars krav på C: Visa korten nu!",
-      "link": "https://pod.space/alskadepolitik/dadgostars-krav-pa-c-visa-korten-nu",
-      "description": "Centerpartiet och Vänsterpartiet i blame game – vem är det som kastar grus i regeringsbildningsmaskineriet? Därför ställer alla krav på varandra.",
-      "pubDate": "2026-11-12T14:50:02Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Muharrem Demirok ångrar passivitet mot moskéer",
-      "link": "https://pod.space/kvartal/kvartal-idag-muharrem-demirok-angrar-passivitet-mot-moskeer",
-      "description": "Flera imamer bistår månggifte. Rödgröna toppar träffas i Stockholm. S tappar och M ökar i opinionen. Och därför terrorlistar Egypten svensk förening. Programledare: Cassandra Alm.",
-      "pubDate": "2026-11-11T15:01:31Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": []
     }
   ]
 }
