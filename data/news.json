@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:43:25.184819Z",
+  "updated_at": "2026-11-20T10:39:53.682072Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,21 +79,43 @@
   ],
   "news": [
     {
-      "title": "Mohamed Ali svarar efter  Buschs hårda utspel",
-      "link": "https://www.expressen.se/nyheter/politik/mohamed-ali-svarar-efter--buschs-harda-utspel/",
-      "description": "Ebba Busch pekade ut Vänsterpartiet som en säkerhetsrisk och den omdiskuterade ledamot Mohamed Ali som potentiell minister i en kommande rödgrön regering. Nu svarar Ali att han inte tycker att en vice statsminister ska ”peka ut och misstänkliggöra människor.”",
-      "pubDate": "2026-11-19T22:29:04Z",
+      "title": "SD:s krav – för att  pressa elpriserna",
+      "link": "https://www.expressen.se/nyheter/politik/sds-krav-for-att--pressa-elpriserna/",
+      "description": "Sverigedemokraterna vill se lägre elpriser – och en regering som tuffar till sig mot Bryssel. Partiet föreslår ett nytt högkostnadsskydd och sänkt elskatt. –&nbsp;Man måste kunna tvätta och dammsuga samtidigt i Sverige, säger Henrik Vinge (SD).",
+      "pubDate": "2026-11-20T08:43:55Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "V",
-        "KD",
-        "Regeringsbildning"
+        "SD"
       ]
     },
     {
-      "title": "Ödesbeslutet blottar splittring i C: “Har kommit upp till ytan nu”",
+      "title": "Gul snövarning i Stockholmsområdet: M kräver ”snögeneral”",
+      "link": "https://www.dn.se/sverige/gul-snovarning-i-stockholmsomradet-m-kraver-snogeneral/",
+      "description": "SMHI har utfärdat en gul snövarning för delar av östra Svealand. Fram till lördag väntas 5-15 centimeter snö, vilket kan orsaka störningar i trafiken. Inför snöfallet kräver Moderaterna att man tillsätter en särskild kommission, för att undvika förra årets snökaos.",
+      "pubDate": "2026-11-20T06:36:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Svenskägt bostadsbolag i Berlin kan bli förstatligat",
+      "link": "https://www.sverigesradio.se/artikel/9346688",
+      "description": "I Berlin kan bostadsbolaget Heimstadens tusental bostäder tvångsövertas. Bolaget har svenska pensionsbolagen Alecta och Folksam som storägare. Den tyska regeringen vill försvåra möjligheten att tvångsöverta stora bostadsbestånd, vilket vänsterpartiet Die Linke lovat att göra i Berlin. Partiet blev störst i delstatsvalet i Berlin i september. En expert som anlitats av Die Linke menar att regeringens planer förmodligen strider mot grundlagen.",
+      "pubDate": "2026-11-20T06:29:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ödesbeslutet blottar splittring i C: ”Har kommit upp till ytan nu”",
       "link": "https://www.dn.se/sverige/odesbeslutet-blottar-splittring-i-c-har-kommit-upp-till-ytan-nu/",
       "description": "Centerpartiet förhandlar med de rödgröna under tidspress. Snart kan partiet tvingas ta ställning i en knäckfråga som får gamla splittringar att segla upp till ytan. – Vägvalet kommer vara avgörande för vilket parti man blir, säger Matilda Molander, vd för tankesmedjan Fores.",
       "pubDate": "2026-11-19T19:04:29Z",
@@ -133,30 +155,6 @@
       ]
     },
     {
-      "title": "Uppgifter: Trump kritiserar stöd till Ukraina",
-      "link": "https://www.expressen.se/nyheter/varlden/uppgifter-trump-kritiserar-stod-till-ukraina/",
-      "description": "Donald Trump uppges ha rasat mot Europas stöd till Ukraina. Bara timmar efter att ha träffat Vladimir Putin ringde presidenten överraskande upp europeiska ledare från Air force one. – Ingen visste om det, säger Ulf Kristersson till TT.",
-      "pubDate": "2026-11-19T18:31:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Rödgröna vill återuppta KU-granskningen mot Kristersson",
-      "link": "https://www.sverigesradio.se/artikel/9346406",
-      "description": "De rödgröna partierna undersöker nu om det går att återuppta KU-granskningen av Ulf Kristersson innan rättsprocessen mot Henrik Landerholm är avslutad. Partierna har därför gett opolitiska tjänstemän i uppgift att reda ut vilka delar i ärendet som tangerar rättsprocessen och vilka som inte gör det. Mats Green, gruppledare för moderaterna i KU, anser att utskottets granskning bör invänta en slutgiltig dom. Landerholm som fällts i hovrätt har överklagat till HD.",
-      "pubDate": "2026-11-19T16:41:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "KD-ministerns skogsvarning till C: ”Ett rent hot”",
       "link": "https://www.svt.se/nyheter/inrikes/kd-ministerns-skogsvarning-till-c-ett-rent-hot",
       "description": "Äganderätten till skogen har blivit en het fråga i regeringsförhandlingarna. Nu anklagar landsbygdsminister Peter Kullgren (KD) Magdalena Andersson för att utpressa centerpartisterna i sitt totalpaket. – Det där ser jag som ett rent hot: ”gör som jag vill annars tänker jag göra allt för att jäklas”, säger han.",
@@ -192,30 +190,6 @@
       "topics": []
     },
     {
-      "title": "Insändare. Bättre med extra val än ett C-svek mot väljarna",
-      "link": "https://www.dn.se/insandare/battre-med-extra-val-an-ett-c-svek-mot-valjarna/",
-      "description": "INSÄNDARE. Flertalet centerpartistiska väljare har röstat med utgångspunkten om att den röda linjen mot SD ska hålla. Därför vore ett extra val det bästa alternativet i det här skedet, så att inga känner sig överkörda, skriver Hannes Sjöberg.",
-      "pubDate": "2026-11-18T18:48:15Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. Byt ut svaga S-ledningen mot en skarpare generation",
-      "link": "https://www.dn.se/insandare/byt-ut-svaga-s-ledningen-mot-en-skarpare-generation/",
-      "description": "INSÄNDARE. Socialdemokraternas dåliga förberedelser och svaga ledarskap efter valet måste få konsekvenser. Sätt in uppdaterade, pigga, politiskt kompetenta och välutbildade personer, skriver Tomas Kroksmark.",
-      "pubDate": "2026-11-18T18:34:45Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Oron i S: Ledningen sjabblar bort regeringsmakten",
       "link": "https://www.dn.se/sverige/oron-i-s-ledningen-sjabblar-bort-regeringsmakten/",
       "description": "Låsningarna bland de rödgröna finns kvar – samtidigt som högerns lockrop på C blir allt högre. Det får oron att sprida sig inom socialdemokratin för att partiledningen ska misslyckas. – Om strategin inte lyckas har jag svårt att se framför mig att vi inte så småningom kommer byta företrädare, säger S-profilen Linn Svansbo.",
@@ -225,19 +199,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "V ger sig inte: ”Ministerkravet är en naturlig del av oss”",
-      "link": "https://www.dn.se/sverige/v-ger-sig-inte-ministerkravet-ar-en-naturlig-del-av-oss/",
-      "description": "Socialdemokraterna ”jobbar intensivt” för att få Vänsterpartiet att släppa kravet på ministerposter, och Centerledaren säger att förhandlingarna går bra. Men enligt flera V-ledamöter är kravet lika intakt som förut. – Om syftet är att vi ska hållas undan från regeringen blir allt annat tramsigt, säger Tobias Smedberg (V).",
-      "pubDate": "2026-11-18T16:52:35Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
       ]
     },
     {
@@ -251,12 +212,50 @@
       "topics": []
     },
     {
-      "title": "V-förslaget: Behåll halva priset på SL-kortet en månad",
-      "link": "https://www.dn.se/sverige/v-forslaget-behall-halva-priset-pa-sl-kortet-en-manad/",
-      "description": "Den 2 december är sista dagen för att aktivera SL-korten för halva priset. Nu vill Vänsterpartiet förlänga det halverade priset en extra månad. – Vi ser att regionen har råd, säger Anna Sehlin, gruppledare i Vänsterpartiet.",
-      "pubDate": "2026-11-18T16:32:53Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Riksdagens partier överens om nytt kvittningssystem",
+      "link": "https://www.svt.se/nyheter/inrikes/riksdagens-partier-overens-om-nytt-kvittningssystem",
+      "description": "Alla riksdagens partier har enats om ett nytt kvittningssystem. Överenskommelsen sätter därmed punkt för det halvår långa ”kvittningskaoset” i riksdagen. – Jag skulle säga att det är över nu, säger Moderaternas gruppledare Mattias Karlsson.",
+      "pubDate": "2026-11-18T10:14:24Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "”Tydligt att Kristersson inte gett upp hoppet om Centerpartiet”",
+      "link": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
+      "description": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet. I det läget har Elisabeth Thand Ringqvist (C) skaffat sig en nödutgång i att välja Ulf Kristersson. Men det kräver att hon lyckas övertyga sitt parti om att en borgerlig minoritetsregering som kan behöva aktivt stöd av SD är bättre för C än ett extraval.",
+      "pubDate": "2026-11-17T18:11:07Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Efter M-ledarens förslag – en veckas paus i sonderingen",
+      "link": "https://www.svt.se/nyheter/inrikes/efter-m-ledarens-forslag-en-veckas-paus-i-sonderingen",
+      "description": "Talmannen ger Ulf Kristersson (M) och övriga partier en veckas paus i sonderingsprocessen för att lämna utrymme för ytterligare förhandlingar. Alla partier kallas till en ny talmansrunda i nästa vecka.",
+      "pubDate": "2026-11-17T15:18:15Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "V-veteranens svar till Strandhäll (S): ”Helt absurt”",
+      "link": "https://www.svt.se/nyheter/inrikes/v-veterarens-svar-till-strandhall-s-helt-absurt",
+      "description": "Vänsterpartiet måste lägga ner kravet på att sitta i regering, säger Annika Strandhäll (S) i måndagens Aktuellt. – Det är helt absurt, säger mångåriga kommunalrådet och V-veteraren Stig Henriksson.",
+      "pubDate": "2026-11-16T21:43:10Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
@@ -288,22 +287,22 @@
         "S",
         "V"
       ]
-    },
-    {
-      "title": "Präglar politik Svenska kyrkans tillsyn?",
-      "link": "https://ledarsidorna.se/praglar-politik-svenska-kyrkans-tillsyn/",
-      "description": "Strängnäs domkapitel inledde under sommaren ett tillsynsärende mot statsminister Ulf Kristerssons hustru Birgitta Ed. Tillsynen skall utreda om, och i sådana fall i vilken utsträckning, som Ed brutit mot prästlöftena. Ärendet har dragit ut på tiden och togs inför oktobermötet istället bort från dagordningen trots att beredning fortfarande pågår. Källor inom stiftet menar att beredningen [&#8230;]",
-      "pubDate": "2026-11-10T19:47:51Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
     }
   ],
   "podcasts": [
+    {
+      "title": "Rak höger: \"Jimmie Åkesson säger oftast det han menar\"",
+      "link": "https://pod.space/kvartal/rak-hoger-jimmie-akesson-sager-oftast-det-han-menar",
+      "description": "Pelle Zackrisson har följt Jimmie Åkesson sedan han intervjuade honom som lokalreporter 2015. I Rak höger berättar han om vägen från Sveg via Nyheter Idag, Bulletin och Riks till Kvartal, om bråken inom SD och om vad han lade märke till när han såg en bild på Åkesson och Simona Mohamsson vid ett köksbord i Strängnäs.",
+      "pubDate": "2026-11-20T07:44:34Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "L"
+      ]
+    },
     {
       "title": "Åkesson öppnar för Socialdemokraterna | Veckopanelen",
       "link": "https://pod.space/kvartal/akesson-oppnar-for-socialdemokraterna-veckopanelen",
@@ -485,19 +484,6 @@
       "sourceType": "podcast",
       "topics": [
         "SD"
-      ]
-    },
-    {
-      "title": "334. Extravalet är inställt",
-      "link": "https://pod.space/politikrummet/334-extravalet-ar-installt",
-      "description": "Vänsterpartiet vill tvinga Centerpartiet att välja sida – men får nobben direkt. Vad händer nu? I riksdagsstudion: Filippa Rogvall, Max V Karlsson, Anette Holmqvist och Viktor Barth-Kron Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-11-12T14:58:53Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "V",
-        "C"
       ]
     }
   ]
