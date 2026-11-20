@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T21:54:08.773530Z",
+  "updated_at": "2026-11-20T02:43:25.184819Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,20 @@
     }
   ],
   "news": [
+    {
+      "title": "Mohamed Ali svarar efter  Buschs hårda utspel",
+      "link": "https://www.expressen.se/nyheter/politik/mohamed-ali-svarar-efter--buschs-harda-utspel/",
+      "description": "Ebba Busch pekade ut Vänsterpartiet som en säkerhetsrisk och den omdiskuterade ledamot Mohamed Ali som potentiell minister i en kommande rödgrön regering. Nu svarar Ali att han inte tycker att en vice statsminister ska ”peka ut och misstänkliggöra människor.”",
+      "pubDate": "2026-11-19T22:29:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "KD",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Ödesbeslutet blottar splittring i C: “Har kommit upp till ytan nu”",
       "link": "https://www.dn.se/sverige/odesbeslutet-blottar-splittring-i-c-har-kommit-upp-till-ytan-nu/",
@@ -246,18 +260,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Åkesson (SD): ”Har haft samtal med ungdomsförbundet”",
-      "link": "https://www.dn.se/sverige/akesson-sd-har-haft-samtal-med-ungdomsforbundet/",
-      "description": "SD-ledaren Jimmie Åkesson har haft samtal med partiets ungdomsförbund, efter DN:s granskning om kulturen i Ungsvenskarna. – Jag känner mig förvissad om att man tar det på det allvar som det förtjänar.",
-      "pubDate": "2026-11-18T15:16:05Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
