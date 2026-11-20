@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T10:39:53.682072Z",
+  "updated_at": "2026-11-20T18:53:25.978206Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,39 +79,165 @@
   ],
   "news": [
     {
-      "title": "SD:s krav – för att  pressa elpriserna",
-      "link": "https://www.expressen.se/nyheter/politik/sds-krav-for-att--pressa-elpriserna/",
-      "description": "Sverigedemokraterna vill se lägre elpriser – och en regering som tuffar till sig mot Bryssel. Partiet föreslår ett nytt högkostnadsskydd och sänkt elskatt. –&nbsp;Man måste kunna tvätta och dammsuga samtidigt i Sverige, säger Henrik Vinge (SD).",
-      "pubDate": "2026-11-20T08:43:55Z",
+      "title": "C-topp öppnar för Kristersson",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=d5b54ba7-4681-42b0-91f2-286b53723e40",
+      "description": "Anders Dahlberg (C) redo att gå högerut",
+      "pubDate": "2026-11-20T17:57:44Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Gul snövarning i Stockholmsområdet: M kräver ”snögeneral”",
-      "link": "https://www.dn.se/sverige/gul-snovarning-i-stockholmsomradet-m-kraver-snogeneral/",
-      "description": "SMHI har utfärdat en gul snövarning för delar av östra Svealand. Fram till lördag väntas 5-15 centimeter snö, vilket kan orsaka störningar i trafiken. Inför snöfallet kräver Moderaterna att man tillsätter en särskild kommission, för att undvika förra årets snökaos.",
-      "pubDate": "2026-11-20T06:36:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M"
       ]
     },
     {
-      "title": "Svenskägt bostadsbolag i Berlin kan bli förstatligat",
-      "link": "https://www.sverigesradio.se/artikel/9346688",
-      "description": "I Berlin kan bostadsbolaget Heimstadens tusental bostäder tvångsövertas. Bolaget har svenska pensionsbolagen Alecta och Folksam som storägare. Den tyska regeringen vill försvåra möjligheten att tvångsöverta stora bostadsbestånd, vilket vänsterpartiet Die Linke lovat att göra i Berlin. Partiet blev störst i delstatsvalet i Berlin i september. En expert som anlitats av Die Linke menar att regeringens planer förmodligen strider mot grundlagen.",
-      "pubDate": "2026-11-20T06:29:00Z",
+      "title": "Furtenbach: ”Talmannen har konstruerat en sorts tävling”",
+      "link": "https://www.sverigesradio.se/artikel/9347532",
+      "description": "Regeringsförhandlingarna är inne i ett intensivt skede. På tisdag håller talmannen en ny talmansrunda, samtidigt som både Magdalena Andersson och Ulf Kristersson försöker få Centerpartiet med sig. ”Talmannen har konstruerat en sorts tävling mellan Magdalena Andersson och Ulf Kristersson”, säger Fredrik Furtenbach, Ekots inrikespolitiska kommentator i Studio Ett.",
+      "pubDate": "2026-11-20T17:31:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Insändare. Det är inte så konstigt att Vänsterpartiet står på sig",
+      "link": "https://www.dn.se/insandare/det-ar-inte-sa-konstigt-att-vansterpartiet-star-pa-sig/",
+      "description": "INSÄNDARE. När Socialdemokraterna utlovar vänsterpartistisk politik brukar dessa fagra löften ofta brytas. Endast ett formaliserat samarbete med mycket långtgående garantier kan förhindra att historien upprepar sig, skriver Martin Nordborg.",
+      "pubDate": "2026-11-20T16:20:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
         "V"
+      ]
+    },
+    {
+      "title": "Lokal C-topp öppnar för V i regeringen",
+      "link": "https://www.expressen.se/nyheter/politik/lokal-c-topp-oppnar-for-v-i-regeringen/",
+      "description": "Centerpartiet kan behöva släppa sin röda linje mot Vänsterpartiet för att få till en regering.&nbsp; Det anser Centerpartiet i Norrköping, som själv styr kommunen tillsammans med V. – Om det är det som behövs får vi nog tugga i oss det, säger Christian Widlund (C), kommunalråd i Norrköping.",
+      "pubDate": "2026-11-20T16:11:46Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Naila Saleem: Därför rasar Indiens unga",
+      "link": "https://www.sverigesradio.se/artikel/9330093",
+      "description": "Valmyndigheten i Indien har strukit miljontals namn från landets vallängder och det har lett till stora protester där människor kräver att få tillbaka sin rösträtt. Men det finns också flera andra orsaker till att människor demonstrerar. Runt om i landet genomförs manifestationer mot olika problem inom skolväsendet bland annat. Sveriges radios Sydasienkorrespondent Naila Saleem berättar om demonstrationerna som mötts av polisvåld och frihetsberövanden.",
+      "pubDate": "2026-11-20T15:55:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Uppgifter: V nobbar S-bud om tjänstemän på regeringskansliet",
+      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-v-nobbar-s-bud-om-tjansteman-pa-regeringskansliet",
+      "description": "Efter att ha förhandlat och övernattat tillsammans är läget fortsatt låst bland de rödgröna partierna. Enligt SVT:s uppgifter har V fått ett bud från S som innehåller tjänstemän på regeringskansliet. – Jag hoppas det finns en gemensam vilja att hitta lösningar, säger Mikael Damberg (S).",
+      "pubDate": "2026-11-20T15:30:11Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Källor: C blockerar vänsterpolitik – förhandlingarna har kört fast",
+      "link": "https://www.dn.se/sverige/kallor-c-blockerar-vansterpolitik-forhandlingarna-har-kort-fast/",
+      "description": "De rödgröna förhandlingarna har kört fast och Centerpartiet blockerar vänsterpolitik, enligt DN:s källor. – Tolkningen man kan göra är att Elisabeth Thand Ringqvist vill ha en ursäkt att lämna, säger en källa med insyn i förhandlingarna. V har fått ett erbjudande från S för att slopa ministerkraven men tackat nej, erfar DN.",
+      "pubDate": "2026-11-20T15:10:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "C-ilska mot V i samtalen: ”Det är direkt oseriöst”",
+      "link": "https://www.expressen.se/nyheter/politik/c-ilska-mot-v-i-samtalen-det-ar-direkt-oseriost/",
+      "description": "Centerpartiet dömer ut V:s agerande i samtalen om en ny rödgrön regering.&nbsp; –&nbsp;Det verkar som att de vill krascha förhandlingarna genom skitsnack och att lägga skulden på Centerpartiet, säger Rickard Nordin (C). Mikael Damberg (S) uppmanar alla att ta ansvar.",
+      "pubDate": "2026-11-20T14:40:41Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Ekot erfar: S har lämnat bud till V och fått nobben",
+      "link": "https://www.sverigesradio.se/artikel/9347166",
+      "description": "Enligt flera källor till Ekot ska Socialdemokraterna under de pågående regeringsförhandlingarna ha lämnat över ett bud till Vänsterpartiet som partiet nu ska ha tackat nej till. Flera av Ekots källor uppger att Socialdemokraterna enbart sträcker sig till försöka få igenom en del sakpolitiska förslag, men att det saknas löften om att de ska genomföras. Talmannen ska inleda sina samtal med partiledarna nästa vecka.",
+      "pubDate": "2026-11-20T12:59:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Ulf Kristersson i P4 Extra: ”Inte en sekund rädd för ett extraval”",
+      "link": "https://www.sverigesradio.se/artikel/9347155",
+      "description": "Moderaternas partiledare Ulf Kristersson intervjuades i P4 Extra på fredagseftermiddagen. Omkring 70 dagar efter valet leder han en övergångsregering i väntan på att riksdagen ska välja en ny regeringsbildare. ”Jag vet hur svårt det är att bilda en regering i koalition, även om man har förberett sig”, säger Ulf Kristersson till P4 Extra.",
+      "pubDate": "2026-11-20T12:49:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Ulf Kristersson om Donald Trumps samtal: ”Skällde inte”",
+      "link": "https://www.sverigesradio.se/artikel/9347118",
+      "description": "Nu dementerar statsminister Ulf Kristersson The Telegraph s uppgifter om att USA:s president Donald Trump ska ha skällt ut världsledarna under toppmötet i Berlin och uppmanat till att avsluta stödet till Ukraina. ”Han skällde absolut inte ut någon”, säger Kristersson i P4 Extra. Igår träffades de så kallade ”De villigas koalition” i Berlin, till stöd för Ukraina där Statsminister Ulf Kristersson deltog. Toppmötet i Berlin hölls bara timmar efter det historiska mötet mellan Xi, Trump och Putin i Shenzhen.",
+      "pubDate": "2026-11-20T12:16:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Lokal C-topp öppnar för V-ministrar i regeringen",
+      "link": "https://www.svt.se/nyheter/inrikes/lokal-c-topp-oppnar-for-v-ministrar-i-regeringen",
+      "description": "Christian Widlund (C) är kommunalråd i Norrköping. Han är den första förtroendevalda Centerpartisten som öppet säger att C bör ta bort sin röda linje mot att släppa in Vänsterpartiet i regeringen. – Vi behöver en regering och är det det som behövs får vi nog tugga i oss det, säger han till SVT:s Agenda.",
+      "pubDate": "2026-11-20T12:08:25Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Gul snövarning i Stockholmsområdet: M kräver ”snögeneral”",
+      "link": "https://www.dn.se/sverige/gul-snovarning-i-stockholmsomradet-m-kraver-snogeneral/",
+      "description": "SMHI har utfärdat en gul snövarning för delar av östra Svealand. Den gäller ända fram till måndagen. Inför snöfallet kräver Moderaterna att man tillsätter en särskild kommission, för att undvika förra årets snökaos.",
+      "pubDate": "2026-11-20T06:36:17Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
       ]
     },
     {
@@ -137,128 +263,6 @@
       "topics": [
         "M",
         "SD"
-      ]
-    },
-    {
-      "title": "Svårt med rödvit modell när Svantesson vill locka gröna C till blå laget",
-      "link": "https://www.dn.se/sverige/svart-med-rodvit-modell-nar-svantesson-vill-locka-grona-c-till-bla-laget/",
-      "description": "Genom att hämta inspiration från Danmarks sätt att budgetförhandla vill moderater och kristdemokrater locka över Centerpartiet till sin sida av politiken. Regeringens utredare, professor Johannes Lindvall, tror inte riktigt på den danska modellen. Han pekar ut ett annat land som förebild.",
-      "pubDate": "2026-11-19T19:04:20Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "KD",
-        "MP"
-      ]
-    },
-    {
-      "title": "KD-ministerns skogsvarning till C: ”Ett rent hot”",
-      "link": "https://www.svt.se/nyheter/inrikes/kd-ministerns-skogsvarning-till-c-ett-rent-hot",
-      "description": "Äganderätten till skogen har blivit en het fråga i regeringsförhandlingarna. Nu anklagar landsbygdsminister Peter Kullgren (KD) Magdalena Andersson för att utpressa centerpartisterna i sitt totalpaket. – Det där ser jag som ett rent hot: ”gör som jag vill annars tänker jag göra allt för att jäklas”, säger han.",
-      "pubDate": "2026-11-19T15:41:18Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "SD förnekade – men ledningen kände till larm om Rasmus Giertz",
-      "link": "https://www.dn.se/sverige/sd-fornekade-men-ledningen-kande-till-larm-om-rasmus-giertz/",
-      "description": "Sverigedemokraterna förnekar att de fått varningssignaler om kulturen i Ungsvenskarna eller om Rasmus Giertz. ”Nej, det har så klart inte funnits”, skriver SD:s pressavdelning. Men två då aktiva SD-politiker berättar för DN att partiledningen kände till uppgifterna om att deras dotter ska ha trakasserats av riksdagsmannen.",
-      "pubDate": "2026-11-19T13:05:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Här föreslås två av tre gator få kvinnonamn",
-      "link": "https://www.dn.se/sverige/har-foreslas-tva-av-tre-gator-fa-kvinnonamn/",
-      "description": "Det finns för många Kal och för få Ada i Göteborg. Stadens rödgröna styre anser att två av tre nya gator och platser bör få kvinnonamn. Men först ska Göran Johansson in.",
-      "pubDate": "2026-11-18T18:48:46Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Oron i S: Ledningen sjabblar bort regeringsmakten",
-      "link": "https://www.dn.se/sverige/oron-i-s-ledningen-sjabblar-bort-regeringsmakten/",
-      "description": "Låsningarna bland de rödgröna finns kvar – samtidigt som högerns lockrop på C blir allt högre. Det får oron att sprida sig inom socialdemokratin för att partiledningen ska misslyckas. – Om strategin inte lyckas har jag svårt att se framför mig att vi inte så småningom kommer byta företrädare, säger S-profilen Linn Svansbo.",
-      "pubDate": "2026-11-18T18:13:33Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Flera partitoppar skippade omröstning – sitter i förhandlingar",
-      "link": "https://www.svt.se/nyheter/inrikes/flera-partitoppar-skippade-omrostning-sitter-i-forhandlingar",
-      "description": "Flera tunga rödgröna politiker saknades vid onsdagens omröstning i riksdagen. Enligt SVT:s uppgifter är orsaken att flera av dem just nu sitter i förhandlingar om regeringsmakten. – Vi jobbar på, säger Daniel Helldén (MP).",
-      "pubDate": "2026-11-18T16:51:19Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Riksdagens partier överens om nytt kvittningssystem",
-      "link": "https://www.svt.se/nyheter/inrikes/riksdagens-partier-overens-om-nytt-kvittningssystem",
-      "description": "Alla riksdagens partier har enats om ett nytt kvittningssystem. Överenskommelsen sätter därmed punkt för det halvår långa ”kvittningskaoset” i riksdagen. – Jag skulle säga att det är över nu, säger Moderaternas gruppledare Mattias Karlsson.",
-      "pubDate": "2026-11-18T10:14:24Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "”Tydligt att Kristersson inte gett upp hoppet om Centerpartiet”",
-      "link": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
-      "description": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet. I det läget har Elisabeth Thand Ringqvist (C) skaffat sig en nödutgång i att välja Ulf Kristersson. Men det kräver att hon lyckas övertyga sitt parti om att en borgerlig minoritetsregering som kan behöva aktivt stöd av SD är bättre för C än ett extraval.",
-      "pubDate": "2026-11-17T18:11:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "Efter M-ledarens förslag – en veckas paus i sonderingen",
-      "link": "https://www.svt.se/nyheter/inrikes/efter-m-ledarens-forslag-en-veckas-paus-i-sonderingen",
-      "description": "Talmannen ger Ulf Kristersson (M) och övriga partier en veckas paus i sonderingsprocessen för att lämna utrymme för ytterligare förhandlingar. Alla partier kallas till en ny talmansrunda i nästa vecka.",
-      "pubDate": "2026-11-17T15:18:15Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "V-veteranens svar till Strandhäll (S): ”Helt absurt”",
-      "link": "https://www.svt.se/nyheter/inrikes/v-veterarens-svar-till-strandhall-s-helt-absurt",
-      "description": "Vänsterpartiet måste lägga ner kravet på att sitta i regering, säger Annika Strandhäll (S) i måndagens Aktuellt. – Det är helt absurt, säger mångåriga kommunalrådet och V-veteraren Stig Henriksson.",
-      "pubDate": "2026-11-16T21:43:10Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
       ]
     }
   ],
@@ -290,6 +294,30 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Är V på väg att sälja ministerkravet?",
+      "link": "https://pod.space/alskadepolitik/ar-v-pa-vag-att-salja-ministerkravet",
+      "description": "Vad händer med Socialdemokraterna om de inte lyckas sy ihop en regering? Och hur går det med förhandlingarna?",
+      "pubDate": "2026-11-20T13:39:06Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Fredagsintervjun: Lööfs anti-SD-linje blev ett fiasko",
+      "link": "https://pod.space/kvartal/fredagsintervjun-loofs-anti-sd-linje-blev-ett-fiasko",
+      "description": "Den tidigare C-riksdagsmannen Staffan Danielsson intervjuas av Jörgen Huitfeldt. I 50 år var han medlem i Centerpartiet, varav han satt i riksdagen i 14. I slutet kom han på kollisionskurs med sitt parti i migrationsfrågan och i synen på SD. Hör honom berätta hur partiet hanterar en företrädare som vägrar rätta in sig i ledet och och varför han tycker Centern har gått vilse. ”Problemet är att partiet har en ljusröd linje mot det gamla kommunistpartiets efterträdare och en mörkröd mot SD. Det är ett allvarligt misstag”, tycker han.",
+      "pubDate": "2026-11-20T11:50:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "C"
+      ]
+    },
     {
       "title": "Rak höger: \"Jimmie Åkesson säger oftast det han menar\"",
       "link": "https://pod.space/kvartal/rak-hoger-jimmie-akesson-sager-oftast-det-han-menar",
@@ -460,30 +488,6 @@
       "topics": [
         "S",
         "M"
-      ]
-    },
-    {
-      "title": "Boström: ”Idén om återvandring är en slags fantasi” | Djupet",
-      "link": "https://pod.space/kvartal/bostrom-iden-om-atervandring-ar-en-slags-fantasi-djupet",
-      "description": "Storskalig återvandring går inte att genomföra, säger Håkan Boström. De som fantiserar om inbördeskrig och massiv återvandring söker enkla lösningar, och det Sverige som krävdes vore auktoritärt och mycket brutalare än femtiotalets. Ska Sverigedemokraterna bli en konstruktiv kraft i högern bör partiet släppa idéerna. Richard Sörman svarar att många sverigedemokrater tycker sig ha haft rätt om mycket och undrar varför de ska lyssna på dem som förde en annan politik för tio år sedan. Som kontrast spelas ett klipp från Agenda 2011, där Anna Hedenmo pressar nya centerledaren Annie Lööf om talet om trettio till fyrtio miljoner invånare. Lööf vänder sig skarpt mot beskrivningen av en svensk urbefolkning och säger att den som vill arbeta och betala skatt är välkommen. Hade hon fått sin vilja igenom hade inställningen till etnicitet inte kunnat vara lika avspänd, säger Boström. Sörman påminner i stället om Payam Molas ord om att sverigedemokrater är mindre svenskar än många invandrare. Avgörs svenskheten av värderingar eller av ursprung?",
-      "pubDate": "2026-11-12T19:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Sörman: ”Nu ska de ta ifrån oss vår ursprunglighet” | Djupet",
-      "link": "https://pod.space/kvartal/sorman-nu-ska-de-ta-ifran-oss-var-ursprunglighet-djupet",
-      "description": "Vilken betydelse ska det svenska ursprunget ha i Sverigedemokraternas syn på svenskhet? Håkan Boström menar att de flesta håller med om att det finns etniska svenskar, men att det inte finns någon anledning – inte ens för SD – att göra etniciteten politiskt relevant. Den kulturella nationalismen ställer högre krav, säger han, medan den andra idén lätt lånar sig åt ressentiment och drar till sig personer med dålig självkänsla som bygger sin identitet på sin hudfärg. Richard Sörman ser i stället en klassfråga, till och med en klasskamp. Den bildade medelklassen uttrycker ett förakt mot Sverigevänner som särskriver, säger han, och de som tog första stöten av mångkulturen har flytt förorterna utan att eliterna tagit deras lidande på allvar: ”Nu ska de också ta ifrån oss vår ursprunglighet. Det sista vi har kvar.” Boström svarar att det låter som identitetspolitik från vänsterkanten, där man odlar sitt offerskap. Vad är problemet med att ett parti erkänner ursprungssvenskarna? Och skapas då en hierarki av svenskhet?",
-      "pubDate": "2026-11-12T17:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD"
       ]
     }
   ]
