@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T15:30:14.678692Z",
+  "updated_at": "2026-11-21T20:59:22.551532Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,54 @@
   ],
   "news": [
     {
+      "title": "S-svaret om elpriserna:  ”Välkomna inkomster”",
+      "link": "https://www.expressen.se/nyheter/politik/s-svaret-om-elpriserna--valkomna-inkomster/",
+      "description": "Monica Haider (S) vill inte se över elskatten eller momsen – och kallar de ökade intäkterna från höga elpriser för ”välkomna inkomster i statskassan”. Nu kritiseras uttalandet skarpt av Sverigedemokraterna. – Det var väl kanske inte det bästa uttalandet jag gjort, säger Monica Haider.",
+      "pubDate": "2026-11-21T20:29:03Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Splittringen inom C: ”Vi har inte kommit nog långt”",
+      "link": "https://www.sverigesradio.se/artikel/9347733",
+      "description": "Flera röster inom Centerpartiet har under lördagen höjts för att partiet ska byta strategi och förhandla om en ny alliansregering. Europaparlamentarikern Emma Ytterells (C) utspel får nu stöd från det tredje största partidistriktet, Västernorrland, där Kristoffer Svensson Sellin är ordförande. ”Vi anser att vi inte har kommit nog långt i de förhandlingar vi har fört nu och att vi borde testa det andra alternativet, som också ligger oss närmare sakpolitiskt”, säger han till Ekot.",
+      "pubDate": "2026-11-21T17:46:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tredje största C–distriktet vill ha Kristersson: ”Mest framkomliga”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
+      "description": "Tredje största C-distriktet ger besked",
+      "pubDate": "2026-11-21T17:08:25Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Risk för dyrare el – partier vill pressa elnätsavgifterna",
+      "link": "https://www.sverigesradio.se/artikel/9347673",
+      "description": "Mycket talar för högre elkostnader för hushållen framöver. Elskatten väntas höjas, högkostnadsskyddet löper snart ut och besked väntas om nästa års elnätsavgifter. Partier vill se hårdare reglering av elnätsavgiften för att hålla tillbaka kostnaderna. ”Priset på el har stigit mycket”, säger Fredrik Olovsson, energi- och näringspolitisk talesperson för Socialdemokraterna.",
+      "pubDate": "2026-11-21T16:15:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "Centerns elände har bara börjat",
       "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/centerns-elande-har-bara-borjat/",
       "description": "De rödgröna förhandlingarna går mot ett ytterst förutsägbart sammanbrott.&nbsp; Det gör Centerpartiet också.",
@@ -113,18 +161,6 @@
       "sourceType": "news",
       "topics": [
         "C"
-      ]
-    },
-    {
-      "title": "Tunga C-toppen vill stötta Kristersson: ”Alliansen mest realistisk”",
-      "link": "https://www.expressen.se/nyheter/politik/tunga-c-toppen-vill-stotta-kristersson-alliansen-mest-realistisk/",
-      "description": "De rödgröna regeringsförhandlingarna pågår för fullt.&nbsp; Nu sätter C-toppen Emma Ytterell, tidigare Wiesner, ned foten – och vill samarbeta med den gamla Alliansen. ”Den mest realistiska och ansvarsfulla vägen framåt i det här läget”, skriver hon i ett inlägg på Facebook.&nbsp;",
-      "pubDate": "2026-11-21T11:53:30Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
       ]
     },
     {
@@ -219,42 +255,6 @@
       "topics": [
         "C"
       ]
-    },
-    {
-      "title": "Lokal C-topp öppnar för V-ministrar i regeringen",
-      "link": "https://www.svt.se/nyheter/inrikes/lokal-c-topp-oppnar-for-v-ministrar-i-regeringen",
-      "description": "Christian Widlund (C) är kommunalråd i Norrköping. Han är den första förtroendevalda Centerpartisten som öppet säger att C bör ta bort sin röda linje mot att släppa in Vänsterpartiet i regeringen. – Vi behöver en regering och är det det som behövs får vi nog tugga i oss det, säger han till SVT:s Agenda.",
-      "pubDate": "2026-11-20T12:08:25Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "C"
-      ]
-    },
-    {
-      "title": "KD-ministerns skogsvarning till C: ”Ett rent hot”",
-      "link": "https://www.svt.se/nyheter/inrikes/kd-ministerns-skogsvarning-till-c-ett-rent-hot",
-      "description": "Äganderätten till skogen har blivit en het fråga i regeringsförhandlingarna. Nu anklagar landsbygdsminister Peter Kullgren (KD) Magdalena Andersson för att utpressa centerpartisterna i sitt totalpaket. – Det där ser jag som ett rent hot: ”gör som jag vill annars tänker jag göra allt för att jäklas”, säger han.",
-      "pubDate": "2026-11-19T15:41:18Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Flera partitoppar skippade omröstning – sitter i förhandlingar",
-      "link": "https://www.svt.se/nyheter/inrikes/flera-partitoppar-skippade-omrostning-sitter-i-forhandlingar",
-      "description": "Flera tunga rödgröna politiker saknades vid onsdagens omröstning i riksdagen. Enligt SVT:s uppgifter är orsaken att flera av dem just nu sitter i förhandlingar om regeringsmakten. – Vi jobbar på, säger Daniel Helldén (MP).",
-      "pubDate": "2026-11-18T16:51:19Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
     }
   ],
   "blogs": [
