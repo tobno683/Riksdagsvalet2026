@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T07:28:44.125795Z",
+  "updated_at": "2026-11-21T15:30:14.678692Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,65 @@
   ],
   "news": [
     {
+      "title": "Centerns elände har bara börjat",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/centerns-elande-har-bara-borjat/",
+      "description": "De rödgröna förhandlingarna går mot ett ytterst förutsägbart sammanbrott.&nbsp; Det gör Centerpartiet också.",
+      "pubDate": "2026-11-21T15:24:06Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Varnar efter C-toppens M-öppning: ”Skulle slita itu partiet”",
+      "link": "https://www.dn.se/sverige/varnar-efter-c-toppens-m-oppning-skulle-slita-itu-partiet/",
+      "description": "C-toppen Emma Ytterells öppning för en Kristersson-regering väcker starka reaktioner – både internt i Centerpartiet och i de rödgröna partierna. – Det skulle slita itu partiet. Jag tror att vi skulle gå samma öde till mötes som L, säger Christian Widlund, C, kommunalråd i Norrköping.",
+      "pubDate": "2026-11-21T15:17:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "C-toppen: Bör gå vidare med allianspartierna",
+      "link": "https://www.svt.se/nyheter/inrikes/c-toppen-bor-ga-vidare-med-allianspartierna",
+      "description": "Centerpartiet bör ingå ett regeringssamarbete med övriga borgerliga partier. Det skriver C-toppen och Europaparlamentarikern Emma Ytterell i ett inlägg på Facebook.",
+      "pubDate": "2026-11-21T12:32:37Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tunga C-toppen vill stötta Kristersson: ”Alliansen mest realistisk”",
+      "link": "https://www.expressen.se/nyheter/politik/tunga-c-toppen-vill-stotta-kristersson-alliansen-mest-realistisk/",
+      "description": "De rödgröna regeringsförhandlingarna pågår för fullt.&nbsp; Nu sätter C-toppen Emma Ytterell, tidigare Wiesner, ned foten – och vill samarbeta med den gamla Alliansen. ”Den mest realistiska och ansvarsfulla vägen framåt i det här läget”, skriver hon i ett inlägg på Facebook.&nbsp;",
+      "pubDate": "2026-11-21T11:53:30Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Svårt för de rödgröna att hinna bygga tillit i förhandlingarna",
+      "link": "https://www.dn.se/sverige/svart-for-de-rodgrona-att-hinna-bygga-tillit-i-forhandlingarna/",
+      "description": "På en okänd plats har partierna på den rödgröna sidan låst in sig för att förhandla. Tiden är knapp, positionerna låsta. Men i förhandlingar är det enligt experten tillit som gäller. Så hur är tilliten mellan nyckelpersonerna i S, V, C och MP?",
+      "pubDate": "2026-11-21T09:57:55Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
       "title": "Därför backar inte V",
       "link": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v",
       "description": "Vänsterpartiet kräver att få sitta i en rödgrön regering – men pressen att de ska backa ökar. Varför är det så viktigt för V med ministerposter? Och finns det något som talar för att de kommer vika ner sig? – Det är nu eller aldrig för Vänsterpartiet, säger SVT:s inrikespolitiska kommentator Elisabeth Marmorstein.",
@@ -88,18 +147,6 @@
       "sourceType": "news",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Oron i samtalen: Svårt att få grepp om Thand Ringqvist",
-      "link": "https://www.expressen.se/nyheter/politik/oron-i-samtalen-svart-att-fa-grepp-om-thand-ringqvist/",
-      "description": "De rödgröna regeringsförhandlingarna fortsätter. Men enligt rödgröna källor finns det tvivel om vad C-ledaren Elisabeth Thand Ringqvist faktiskt vill, erfar Expressen.",
-      "pubDate": "2026-11-21T05:07:31Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     },
     {
@@ -135,20 +182,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Furtenbach: ”Talmannen har konstruerat en sorts tävling”",
-      "link": "https://www.sverigesradio.se/artikel/9347532",
-      "description": "Regeringsförhandlingarna är inne i ett intensivt skede. På tisdag håller talmannen en ny talmansrunda, samtidigt som både Magdalena Andersson och Ulf Kristersson försöker få Centerpartiet med sig. ”Talmannen har konstruerat en sorts tävling mellan Magdalena Andersson och Ulf Kristersson”, säger Fredrik Furtenbach, Ekots inrikespolitiska kommentator i Studio Ett.",
-      "pubDate": "2026-11-20T17:31:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
     },
     {
       "title": "Insändare. Det är inte så konstigt att Vänsterpartiet står på sig",
@@ -188,18 +221,6 @@
       ]
     },
     {
-      "title": "Är V på väg att sälja ministerkravet?",
-      "link": "https://www.dn.se/podd/alskade-politik/ar-v-pa-vag-att-salja-ministerkravet/",
-      "description": "Vad händer med Socialdemokraterna om de inte lyckas sy ihop en regering? Och hur går det med förhandlingarna?",
-      "pubDate": "2026-11-20T13:39:06Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "Lokal C-topp öppnar för V-ministrar i regeringen",
       "link": "https://www.svt.se/nyheter/inrikes/lokal-c-topp-oppnar-for-v-ministrar-i-regeringen",
       "description": "Christian Widlund (C) är kommunalråd i Norrköping. Han är den första förtroendevalda Centerpartisten som öppet säger att C bör ta bort sin röda linje mot att släppa in Vänsterpartiet i regeringen. – Vi behöver en regering och är det det som behövs får vi nog tugga i oss det, säger han till SVT:s Agenda.",
@@ -210,46 +231,6 @@
       "topics": [
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Ödesbeslutet blottar splittring i C: ”Har kommit upp till ytan nu”",
-      "link": "https://www.dn.se/sverige/odesbeslutet-blottar-splittring-i-c-har-kommit-upp-till-ytan-nu/",
-      "description": "Centerpartiet förhandlar med de rödgröna under tidspress. Snart kan partiet tvingas ta ställning i en knäckfråga som får gamla splittringar att segla upp till ytan. – Vägvalet kommer vara avgörande för vilket parti man blir, säger Matilda Molander, vd för tankesmedjan Fores.",
-      "pubDate": "2026-11-19T19:04:29Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Annie Reuterskiöld: Går C högerut kan S och SD sluta en ohelig allians",
-      "link": "https://www.dn.se/sverige/annie-reuterskiold-gar-c-hogerut-kan-s-och-sd-sluta-en-ohelig-allians/",
-      "description": "Ulf Kristersson hoppas att en ny S-ledning skulle vara mer samarbetsvillig än den nuvarande, om han lyckas bilda regering. Det är en önskning som kan gå i uppfyllelse men inte i syfte att minimera SD:s inflytande. S lär i stället närma sig Sverigedemokraterna i utskotten för att fälla regeringens förslag så ofta de kan.",
-      "pubDate": "2026-11-19T19:04:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD"
-      ]
-    },
-    {
-      "title": "Svårt med rödvit modell när Svantesson vill locka gröna C till blå laget",
-      "link": "https://www.dn.se/sverige/svart-med-rodvit-modell-nar-svantesson-vill-locka-grona-c-till-bla-laget/",
-      "description": "Genom att hämta inspiration från Danmarks sätt att budgetförhandla vill moderater och kristdemokrater locka över Centerpartiet till sin sida av politiken. Regeringens utredare, professor Johannes Lindvall, tror inte riktigt på den danska modellen. Han pekar ut ett annat land som förebild.",
-      "pubDate": "2026-11-19T19:04:20Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "KD",
-        "MP"
       ]
     },
     {
@@ -264,6 +245,16 @@
         "S",
         "C"
       ]
+    },
+    {
+      "title": "Flera partitoppar skippade omröstning – sitter i förhandlingar",
+      "link": "https://www.svt.se/nyheter/inrikes/flera-partitoppar-skippade-omrostning-sitter-i-forhandlingar",
+      "description": "Flera tunga rödgröna politiker saknades vid onsdagens omröstning i riksdagen. Enligt SVT:s uppgifter är orsaken att flera av dem just nu sitter i förhandlingar om regeringsmakten. – Vi jobbar på, säger Daniel Helldén (MP).",
+      "pubDate": "2026-11-18T16:51:19Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": []
     }
   ],
   "blogs": [
