@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T00:24:34.946738Z",
+  "updated_at": "2026-11-21T07:28:44.125795Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,54 @@
   ],
   "news": [
     {
+      "title": "Därför backar inte V",
+      "link": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v",
+      "description": "Vänsterpartiet kräver att få sitta i en rödgrön regering – men pressen att de ska backa ökar. Varför är det så viktigt för V med ministerposter? Och finns det något som talar för att de kommer vika ner sig? – Det är nu eller aldrig för Vänsterpartiet, säger SVT:s inrikespolitiska kommentator Elisabeth Marmorstein.",
+      "pubDate": "2026-11-21T05:13:07Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Oron i samtalen: Svårt att få grepp om Thand Ringqvist",
+      "link": "https://www.expressen.se/nyheter/politik/oron-i-samtalen-svart-att-fa-grepp-om-thand-ringqvist/",
+      "description": "De rödgröna regeringsförhandlingarna fortsätter. Men enligt rödgröna källor finns det tvivel om vad C-ledaren Elisabeth Thand Ringqvist faktiskt vill, erfar Expressen.",
+      "pubDate": "2026-11-21T05:07:31Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Viktor Andersson: Jag drömmer mig tillbaka – och dansar naken med andra män runt elden",
+      "link": "https://www.dn.se/kultur/viktor-andersson-jag-drommer-mig-tillbaka-och-dansar-naken-med-andra-man-runt-elden/",
+      "description": "Det har vuxit fram en ny mansrörelse i Sverige och världen. Under hösten har den fått extra uppmärksamhet genom Urban Nyman i ”Gift vid första ögonkastet XL”. DN:s Viktor Andersson packade ner sovsäcken och åkte på ett läger i de småländska skogarna för att befria sin inre vildman.",
+      "pubDate": "2026-11-21T04:12:54Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Staten vinnare på högre elpriser: ”Välkomna inkomster”",
+      "link": "https://www.sverigesradio.se/artikel/9347232",
+      "description": "Både elpriset och elnätsavgifterna kan komma att höjas de kommande veckorna. ”Det är åt helvete”, säger Göran i Borgholm. Vinnaren är staten. För högre priser och avgifter betyder högre momsintäkter. Socialdemokraten Monica Haider i näringsutskottet tycker inte att elskatten eller momsen behöver ses över: ”Egentligen inte. Det är välkomna inkomster i statskassan”, säger hon i Ekonomiekot Extra.",
+      "pubDate": "2026-11-21T02:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
       "title": "20 november: Här är dagens nyheter",
       "link": "https://www.dn.se/varlden/20-november-har-ar-dagens-nyheter/",
       "description": "Låst mellan de rödgröna, Danmark utvisar rysk försvarsattaché och turistort hotas av hettan – här är nyheterna du inte får missa från dagen.",
@@ -87,21 +135,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": []
-    },
-    {
-      "title": "Kristerssons tjuvnyp:  ”Ett sällskapsspel”",
-      "link": "https://www.expressen.se/nyheter/politik/kristerssons-tjuvnyp--ett-sallskapsspel/",
-      "description": "Ulf Kristersson (M) är inte imponerad av Magdalena Anderssons ledarskap. När statsministern besöker Muf:s stämma sågar han den rödgröna osämjan. – Det är inte respektfullt mot svenska folket, säger han. Samtidigt fortsätter Moderaternas samtal med Centerpartiet.",
-      "pubDate": "2026-11-20T19:27:43Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
     },
     {
       "title": "Furtenbach: ”Talmannen har konstruerat en sorts tävling”",
@@ -152,6 +185,18 @@
       "sourceType": "news",
       "topics": [
         "C"
+      ]
+    },
+    {
+      "title": "Är V på väg att sälja ministerkravet?",
+      "link": "https://www.dn.se/podd/alskade-politik/ar-v-pa-vag-att-salja-ministerkravet/",
+      "description": "Vad händer med Socialdemokraterna om de inte lyckas sy ihop en regering? Och hur går det med förhandlingarna?",
+      "pubDate": "2026-11-20T13:39:06Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
       ]
     },
     {
@@ -219,54 +264,6 @@
         "S",
         "C"
       ]
-    },
-    {
-      "title": "SD förnekade – men ledningen kände till larm om Rasmus Giertz",
-      "link": "https://www.dn.se/sverige/sd-fornekade-men-ledningen-kande-till-larm-om-rasmus-giertz/",
-      "description": "Sverigedemokraterna förnekar att de fått varningssignaler om kulturen i Ungsvenskarna eller om Rasmus Giertz. ”Nej, det har så klart inte funnits”, skriver SD:s pressavdelning. Men två då aktiva SD-politiker berättar för DN att partiledningen kände till uppgifterna om att deras dotter ska ha trakasserats av riksdagsmannen.",
-      "pubDate": "2026-11-19T13:05:39Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Flera partitoppar skippade omröstning – sitter i förhandlingar",
-      "link": "https://www.svt.se/nyheter/inrikes/flera-partitoppar-skippade-omrostning-sitter-i-forhandlingar",
-      "description": "Flera tunga rödgröna politiker saknades vid onsdagens omröstning i riksdagen. Enligt SVT:s uppgifter är orsaken att flera av dem just nu sitter i förhandlingar om regeringsmakten. – Vi jobbar på, säger Daniel Helldén (MP).",
-      "pubDate": "2026-11-18T16:51:19Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
-      "title": "Riksdagens partier överens om nytt kvittningssystem",
-      "link": "https://www.svt.se/nyheter/inrikes/riksdagens-partier-overens-om-nytt-kvittningssystem",
-      "description": "Alla riksdagens partier har enats om ett nytt kvittningssystem. Överenskommelsen sätter därmed punkt för det halvår långa ”kvittningskaoset” i riksdagen. – Jag skulle säga att det är över nu, säger Moderaternas gruppledare Mattias Karlsson.",
-      "pubDate": "2026-11-18T10:14:24Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "”Tydligt att Kristersson inte gett upp hoppet om Centerpartiet”",
-      "link": "https://www.svt.se/nyheter/inrikes/tydligt-att-ulf-kristersson-inte-gett-upp-hoppet-om-centerpartiet",
-      "description": "Inget tyder på att Vänsterpartiet kommer att släppa sitt krav på ministerposter. Och om de mot förmodan ändå skulle göra det så kommer det med en sakpolitisk nota som kan bli för hög för Centerpartiet. I det läget har Elisabeth Thand Ringqvist (C) skaffat sig en nödutgång i att välja Ulf Kristersson. Men det kräver att hon lyckas övertyga sitt parti om att en borgerlig minoritetsregering som kan behöva aktivt stöd av SD är bättre för C än ett extraval.",
-      "pubDate": "2026-11-17T18:11:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "V",
-        "C"
-      ]
     }
   ],
   "blogs": [
@@ -309,6 +306,20 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Veckopanelen: Varför ska de förolämpa varandra på det här sättet?",
+      "link": "https://pod.space/kvartal/veckopanelen-varfor-ska-de-forolampa-varandra-pa-det-har-sattet",
+      "description": "Veckopanelen med Widar Andersson, Maria Wetterstrand och Ivar Arpi under ledning av Staffan Dopping. Talmannen bjöd på en veckas anstånd eller paus i regeringsbildningen. Ulf Kristersson anser att hans paketförslag inte har avvisats av Centern. Socialdemokraterna är enligt Novus inte största parti, och hur ska Magdalena Andersson nu dyrka upp den rödgröna sidans låsningar? Att grundlagsskydda public service tycks vara en av brickorna i spelet. En miljon svenskar upplever sig vara diskriminerade, sexförbrytaren Jeffrey Epstein blev enligt nya rön sannolikt mördad, och uppburne skådespelaren Robert Pattinson blir nästa James Bond.",
+      "pubDate": "2026-11-21T04:40:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Är V på väg att sälja ministerkravet?",
       "link": "https://pod.space/alskadepolitik/ar-v-pa-vag-att-salja-ministerkravet",
@@ -490,19 +501,6 @@
         "S",
         "V",
         "C"
-      ]
-    },
-    {
-      "title": "Veckopanelen: De litar inte på Socialdemokraterna",
-      "link": "https://pod.space/kvartal/veckopanelen-de-litar-inte-pa-socialdemokraterna",
-      "description": "Veckopanelen med Carl Eos, Linn Svansbo och Harriet Wallberg under ledning av Magnus Thorén. Totalpaket, ordkrig och ultimatum. Är det fördel Kristersson efter ännu en dramatisk vecka i regeringsfrågan? Ai-bossarnas ai-boss Jensen Huang får sparken efter spion- och otrohetsskandal. Hotar en börskrasch nu? SD-topp lämnar riksdagen efter vittnesmål från ungdomsförbundet om sunkig kvinnosyn. Och vad ska vi tro om värdegrunden i svenska moskéer efter reportage med dold kamera?",
-      "pubDate": "2026-11-14T04:50:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M"
       ]
     }
   ]
