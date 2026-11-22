@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T00:57:16.830753Z",
+  "updated_at": "2026-11-22T07:39:51.766459Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -115,18 +115,6 @@
       ]
     },
     {
-      "title": "Tredje största C–distriktet vill ha Kristersson: ”Mest framkomliga”",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=07375efb-5e39-4f07-b79d-99e18c77d1e5",
-      "description": "Tredje största C-distriktet ger besked",
-      "pubDate": "2026-11-21T17:08:25Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
       "title": "Risk för dyrare el – partier vill pressa elnätsavgifterna",
       "link": "https://www.sverigesradio.se/artikel/9347673",
       "description": "Mycket talar för högre elkostnader för hushållen framöver. Elskatten väntas höjas, högkostnadsskyddet löper snart ut och besked väntas om nästa års elnätsavgifter. Partier vill se hårdare reglering av elnätsavgiften för att hålla tillbaka kostnaderna. ”Priset på el har stigit mycket”, säger Fredrik Olovsson, energi- och näringspolitisk talesperson för Socialdemokraterna.",
@@ -136,18 +124,6 @@
       "sourceType": "news",
       "topics": [
         "S"
-      ]
-    },
-    {
-      "title": "Centerns elände har bara börjat",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/centerns-elande-har-bara-borjat/",
-      "description": "De rödgröna förhandlingarna går mot ett ytterst förutsägbart sammanbrott.&nbsp; Det gör Centerpartiet också.",
-      "pubDate": "2026-11-21T15:24:06Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     },
     {
@@ -210,18 +186,6 @@
       ]
     },
     {
-      "title": "Staten vinnare på högre elpriser: ”Välkomna inkomster”",
-      "link": "https://www.sverigesradio.se/artikel/9347232",
-      "description": "Både elpriset och elnätsavgifterna kan komma att höjas de kommande veckorna. ”Det är åt helvete”, säger Göran i Borgholm. Vinnaren är staten. För högre priser och avgifter betyder högre momsintäkter. Socialdemokraten Monica Haider i näringsutskottet tycker inte att elskatten eller momsen behöver ses över: ”Egentligen inte. Det är välkomna inkomster i statskassan”, säger hon i Ekonomiekot Extra.",
-      "pubDate": "2026-11-21T02:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
       "title": "20 november: Här är dagens nyheter",
       "link": "https://www.dn.se/varlden/20-november-har-ar-dagens-nyheter/",
       "description": "Låst mellan de rödgröna, Danmark utvisar rysk försvarsattaché och turistort hotas av hettan – här är nyheterna du inte får missa från dagen.",
@@ -254,6 +218,44 @@
       "sourceType": "news",
       "topics": [
         "S"
+      ]
+    },
+    {
+      "title": "Källor: C blockerar vänsterpolitik – förhandlingarna har kört fast",
+      "link": "https://www.dn.se/sverige/kallor-c-blockerar-vansterpolitik-forhandlingarna-har-kort-fast/",
+      "description": "De rödgröna förhandlingarna har kört fast och Centerpartiet blockerar vänsterpolitik, enligt DN:s källor. – Tolkningen man kan göra är att Elisabeth Thand Ringqvist vill ha en ursäkt att lämna, säger en källa med insyn i förhandlingarna. V har fått ett erbjudande från S för att slopa ministerkraven men tackat nej, erfar DN.",
+      "pubDate": "2026-11-20T15:10:10Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Lokal C-topp öppnar för V-ministrar i regeringen",
+      "link": "https://www.svt.se/nyheter/inrikes/lokal-c-topp-oppnar-for-v-ministrar-i-regeringen",
+      "description": "Christian Widlund (C) är kommunalråd i Norrköping. Han är den första förtroendevalda Centerpartisten som öppet säger att C bör ta bort sin röda linje mot att släppa in Vänsterpartiet i regeringen. – Vi behöver en regering och är det det som behövs får vi nog tugga i oss det, säger han till SVT:s Agenda.",
+      "pubDate": "2026-11-20T12:08:25Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "KD-ministerns skogsvarning till C: ”Ett rent hot”",
+      "link": "https://www.svt.se/nyheter/inrikes/kd-ministerns-skogsvarning-till-c-ett-rent-hot",
+      "description": "Äganderätten till skogen har blivit en het fråga i regeringsförhandlingarna. Nu anklagar landsbygdsminister Peter Kullgren (KD) Magdalena Andersson för att utpressa centerpartisterna i sitt totalpaket. – Det där ser jag som ett rent hot: ”gör som jag vill annars tänker jag göra allt för att jäklas”, säger han.",
+      "pubDate": "2026-11-19T15:41:18Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
       ]
     }
   ],
