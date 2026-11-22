@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T15:45:21.630508Z",
+  "updated_at": "2026-11-22T21:22:14.970408Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,183 +79,194 @@
   ],
   "news": [
     {
-      "title": "Intern strid inom Centerpartiet – inför öppen ridå",
-      "link": "https://www.expressen.se/nyheter/politik/intern-strid-inom-centerpartiet-infor-oppen-rida/",
-      "description": "Centerpartiet är splittrat. Och nu pågår den interna striden inför öppen ridå. I Stockholm riktar distriktsordförande Patrik Buddgård kritik mot dem som har ivrat för alliansen. – Det är olyckligt, säger han till Ekot. &nbsp;",
-      "pubDate": "2026-11-22T15:42:33Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "title": "Insändare. Centerpartister, inse att ni befinner i det rödgröna lägret",
+      "link": "https://www.dn.se/insandare/centerpartister-inse-att-ni-befinner-i-det-rodgrona-lagret/",
+      "description": "INSÄNDARE. Över hälften av väljarna ser Sverigedemokraterna som huvudmotståndare till frihet, jämlikhet och demokrati. Vägen framåt för Sverige är att minska SD:s inflytande i riksdagen, skriver Lennart Johansson.",
+      "pubDate": "2026-11-22T20:57:01Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "SD",
         "C"
       ]
     },
     {
-      "title": "Centerstrid inför öppen ridå – nytt distrikt sätter ner foten",
-      "link": "https://www.sverigesradio.se/artikel/9347880",
-      "description": "Ett offentligt bråk har blossat upp inom Centerpartiet. Centerpartiets näst största distrikt Stockholms län slår nu tillbaka efter flera utspel från Centerpartister som vill se en ny alliansregering. ”Det är en utmanande tid”, säger Patrik Buddgård, Centerpartiets distriktsordförande i Stockholms län om den interna stämningen.",
-      "pubDate": "2026-11-22T14:45:00Z",
+      "title": "Statsvetare om turerna S-V: ”Förhandlingarna går nog inte så bra”",
+      "link": "https://www.sverigesradio.se/artikel/9347958",
+      "description": "De senaste turerna kring regeringsbildningen under söndagskvällen visar tydligt att förhandlingarna på den rödgröna sidan inte går särskilt bra, tror docent i statsvetenskap Jenny Madestam. Socialdemokraternas debattartikel i Expressen på söndagskvällen, där man erbjuder Vänsterpartiet flera reformer och positioner, visar också att S är stressade inför veckan som kommer. Jenny Madestam: ”Om man hade kunnat sitta ner och prata hade erbjudandet inte kommit via en debattartikel.”",
+      "pubDate": "2026-11-22T20:39:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "C"
+        "S",
+        "V",
+        "Regeringsbildning"
       ]
     },
     {
-      "title": "Karin Eriksson: Pikant att de borgerliga ser Danmark som förebild",
-      "link": "https://www.dn.se/sverige/karin-eriksson-pikant-att-de-borgerliga-ser-danmark-som-forebild/",
-      "description": "Kristersson och hans regeringskollegor drömmer om att bryta dödlägen i svensk politik utifrån en dansk modell. Det är lite pikant. Det sitter en S-ledd regering i Köpenhamn – och den har precis splittrat det blå blocket i Danmark.",
-      "pubDate": "2026-11-22T14:17:34Z",
+      "title": "Insändare. Renodlad S-regering skulle ge fokus på sakfrågor",
+      "link": "https://www.dn.se/insandare/renodlad-s-regering-skulle-ge-fokus-pa-sakfragor/",
+      "description": "INSÄNDARE. En minoritetsregering med riksdagens största parti skulle tvinga fram ett fokus på sakfrågorna. Gör som i andra nordiska länder och släpp blockpolitiken, låt största parti regera och ge makten till riksdagen, skriver Hjalmar Croneborg.",
+      "pubDate": "2026-11-22T20:29:03Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
-      "topics": [
-        "M"
-      ]
+      "topics": []
     },
     {
-      "title": "DN erfar: Inget bud till V än – förhandlingar pågår",
-      "link": "https://www.dn.se/sverige/dn-erfar-inget-bud-till-v-an-forhandlingar-pagar/",
-      "description": "Något gemensamt bud från S, C och MP har ännu inte lämnats över till Vänsterpartiet – men förhandlingar pågår, erfar DN. V hoppas på höjda insatser. Kravet på ministerposter står fast.",
-      "pubDate": "2026-11-22T14:13:17Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Damberg (S): ”Skarpt  läge i svensk politik”",
+      "link": "https://www.expressen.se/nyheter/sverige/damberg-s-skarpt--lage-i-svensk-politik/",
+      "description": "Det är ”skarpt läge” i svensk politik just nu – och närmar sig ”ett avgörande”. Det menar S-toppen Mikael Damberg. – Vänsterpartiet kan få ett helt unikt inflytande i svensk politik, säger han.",
+      "pubDate": "2026-11-22T20:12:04Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "S",
         "V"
       ]
     },
     {
-      "title": "Centerns distrikt träffas för att ta ställning i regeringsfrågan",
-      "link": "https://www.sverigesradio.se/artikel/9347799",
-      "description": "Under helgen håller flera av Centerpartiets distrikt möten om regeringsfrågan. På lördagen hölls stämma i Jönköpings län där läget på riksnivå skulle diskuteras och på söndagen kommer samtliga 33 kretsordföranden i Centerpartiets största partidistrikt i Skåne att träffas för att ta ställning. Förhandlingarna med Socialdemokraterna fortsätter, men flera Centerprofiler vill nu styra partiet mot en alliansregering.",
-      "pubDate": "2026-11-22T11:31:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Emil Källström: ”Dags för C att komma hem till Alliansen”",
-      "link": "https://www.expressen.se/nyheter/politik/emil-kallstrom-dags-for-c-att-komma-hem-till-alliansen/",
-      "description": "Tidigare Centertoppen Emil Källström väljer nu sida i den konflikt som skapat en avgrundsdjup klyfta inom partiet.&nbsp; – Det är dags för Centerpartiet att komma hem till Alliansen, säger han till ATL .&nbsp; Uttalandet följer linjen i gårdagens utspel från Emma Ytterell (C).&nbsp; Gruppledaren Magnus Claesson (C) i Kumla går steget länge – och vill att SD backar upp en Alliansregering med Centerpartiet i.&nbsp;",
-      "pubDate": "2026-11-22T10:08:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Ännu en C-topp vill överge Andersson och göra upp högerut",
-      "link": "https://www.dn.se/sverige/annu-en-c-topp-vill-overge-andersson-och-gora-upp-hogerut/",
-      "description": "Flera tongivande personer inom Centerpartiet har de senaste dagarna gått ut offentligt och manat partiledningen att gå högerut i de pågående förhandlingarna. Nu riktar C-toppen i Stockholm, Patrik Buddgård, kritik mot partikollegorna. – Det är olyckligt, säger han och slår fast att ett SD-beroende ”inte är tänkbart” i hans distrikt.",
-      "pubDate": "2026-11-22T09:27:48Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "C"
-      ]
-    },
-    {
-      "title": "Splittringen inom C: ”Vi har inte kommit nog långt”",
-      "link": "https://www.sverigesradio.se/artikel/9347733",
-      "description": "Flera röster inom Centerpartiet har under lördagen höjts för att partiet ska byta strategi och förhandla om en ny alliansregering. Europaparlamentarikern Emma Ytterells (C) utspel får nu stöd från det tredje största partidistriktet, Västernorrland, där Kristoffer Svensson Sellin är ordförande. ”Vi anser att vi inte har kommit nog långt i de förhandlingar vi har fört nu och att vi borde testa det andra alternativet, som också ligger oss närmare sakpolitiskt”, säger han till Ekot.",
-      "pubDate": "2026-11-21T17:46:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Risk för dyrare el – partier vill pressa elnätsavgifterna",
-      "link": "https://www.sverigesradio.se/artikel/9347673",
-      "description": "Mycket talar för högre elkostnader för hushållen framöver. Elskatten väntas höjas, högkostnadsskyddet löper snart ut och besked väntas om nästa års elnätsavgifter. Partier vill se hårdare reglering av elnätsavgiften för att hålla tillbaka kostnaderna. ”Priset på el har stigit mycket”, säger Fredrik Olovsson, energi- och näringspolitisk talesperson för Socialdemokraterna.",
-      "pubDate": "2026-11-21T16:15:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Varnar efter C-toppens M-öppning: ”Skulle slita itu partiet”",
-      "link": "https://www.dn.se/sverige/varnar-efter-c-toppens-m-oppning-skulle-slita-itu-partiet/",
-      "description": "C-toppen Emma Ytterells öppning för en Kristersson-regering väcker starka reaktioner – både internt i Centerpartiet och i de rödgröna partierna. – Det skulle slita itu partiet. Jag tror att vi skulle gå samma öde till mötes som L, säger Christian Widlund, C, kommunalråd i Norrköping.",
-      "pubDate": "2026-11-21T15:17:05Z",
+      "title": "Tomas Ramberg: Thand Ringqvist har nu bara obehagliga alternativ att välja på",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-thand-ringqvist-har-nu-bara-obehagliga-alternativ-att-valja-pa/",
+      "description": "Det öppna ordkriget mellan landets centerpartister tolkas av Vänsterpartiet som att Centern är pressat och skulle skadas mer av att hoppa över till Ulf Kristerssons sida. Krisen inom C stärker V och gör det lättare att nobba söndagens bud från S. MP och C. Nu hoppas Nooshi Dadgostar på ett bättre erbjudande.",
+      "pubDate": "2026-11-22T20:09:53Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
+        "V",
         "C"
       ]
     },
     {
-      "title": "C-toppen: Bör gå vidare med allianspartierna",
-      "link": "https://www.svt.se/nyheter/inrikes/c-toppen-bor-ga-vidare-med-allianspartierna",
-      "description": "Centerpartiet bör ingå ett regeringssamarbete med övriga borgerliga partier. Det skriver C-toppen och Europaparlamentarikern Emma Ytterell i ett inlägg på Facebook.",
-      "pubDate": "2026-11-21T12:32:37Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Svårt för de rödgröna att hinna bygga tillit i förhandlingarna",
-      "link": "https://www.dn.se/sverige/svart-for-de-rodgrona-att-hinna-bygga-tillit-i-forhandlingarna/",
-      "description": "På en okänd plats har partierna på den rödgröna sidan låst in sig för att förhandla. Tiden är knapp, positionerna låsta. Men i förhandlingar är det enligt experten tillit som gäller. Så hur är tilliten mellan nyckelpersonerna i S, V, C och MP?",
-      "pubDate": "2026-11-21T09:57:55Z",
+      "title": "Insändare. SVT måste ställa C-topparna mot väggen",
+      "link": "https://www.dn.se/insandare/svt-maste-stalla-c-topparna-mot-vaggen/",
+      "description": "INSÄNDARE. På flera centrala ekonomisk-politiska områden finns betydligt större samsyn mellan C och SD än mellan C och V. Varför frågar SVT:s reportrar inte Centerpartiets företrädare om varför partiet kategoriskt avvisar SD samtidigt som partiet är betydligt mer samarbetsvilligt gentemot Vänsterpartiet? frågar Bengt Johansson.",
+      "pubDate": "2026-11-22T20:03:33Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "V",
+        "C"
+      ]
     },
     {
-      "title": "Därför backar inte V",
-      "link": "https://www.svt.se/nyheter/inrikes/darfor-backar-inte-v",
-      "description": "Vänsterpartiet kräver att få sitta i en rödgrön regering – men pressen att de ska backa ökar. Varför är det så viktigt för V med ministerposter? Och finns det något som talar för att de kommer vika ner sig? – Det är nu eller aldrig för Vänsterpartiet, säger SVT:s inrikespolitiska kommentator Elisabeth Marmorstein.",
-      "pubDate": "2026-11-21T05:13:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "title": "Ida Gabrielsson nobbar S bud: ”Inte seriöst”",
+      "link": "https://www.dn.se/sverige/ida-gabrielsson-nobbar-s-bud-inte-seriost/",
+      "description": "Ida Gabrielsson uppger att Vänsterpartiet tackar nej till budet från S, MP och C. I paketet erbjuds V framträdande roller och vänsterpolitik, men det räcker inte, uppger partitoppen. ”Budet” är att V ska låta övriga regera på våra mandat. Marknadsskolan, a-kassan och karensen är inte ens med”, skriver hon på X.",
+      "pubDate": "2026-11-22T19:59:13Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
         "V"
       ]
     },
     {
-      "title": "Viktor Andersson: Jag drömmer mig tillbaka – och dansar naken med andra män runt elden",
-      "link": "https://www.dn.se/kultur/viktor-andersson-jag-drommer-mig-tillbaka-och-dansar-naken-med-andra-man-runt-elden/",
-      "description": "Det har vuxit fram en ny mansrörelse i Sverige och världen. Under hösten har den fått extra uppmärksamhet genom Urban Nyman i ”Gift vid första ögonkastet XL”. DN:s Viktor Andersson packade ner sovsäcken och åkte på ett läger i de småländska skogarna för att befria sin inre vildman.",
-      "pubDate": "2026-11-21T04:12:54Z",
+      "title": "Insändare. Om C väljer Tidö är det ett gigantiskt klimatsvek",
+      "link": "https://www.dn.se/insandare/om-c-valjer-tido-ar-det-ett-gigantiskt-klimatsvek/",
+      "description": "INSÄNDARE. Centerpartiets väljare rankade klimatet som den viktigaste frågan i Sveriges Televisions vallokalsundersökning. Hur kan då Centerpartiets ledning ens överväga att byta sida och svika sina väljare? undrar Eva Schöier.",
+      "pubDate": "2026-11-22T19:50:27Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Damberg: ”Skarpt läge”",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=5346b107-0395-4fef-886d-430770a3636f",
+      "description": "Damberg (S): ”Närmar sig ett avgörande”",
+      "pubDate": "2026-11-22T19:48:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
       ]
     },
     {
-      "title": "20 november: Här är dagens nyheter",
-      "link": "https://www.dn.se/varlden/20-november-har-ar-dagens-nyheter/",
-      "description": "Låst mellan de rödgröna, Danmark utvisar rysk försvarsattaché och turistort hotas av hettan – här är nyheterna du inte får missa från dagen.",
-      "pubDate": "2026-11-20T20:08:33Z",
+      "title": "Jenny Madestam om förslaget  till V: ”Generöst erbjudande”",
+      "link": "https://www.expressen.se/nyheter/sverige/jenny-madestam-om-forslaget--till-v-generost-erbjudande/",
+      "description": "Erbjudandet till Vänsterpartiet är ”väldigt generöst”, enligt statsvetaren Jenny Madestam. Men att förhandlingarna nu sker helt öppet tyder på ett fortsatt låst läge. – Man stärker sin egen förhandlingsposition, säger Madestam.",
+      "pubDate": "2026-11-22T19:22:10Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "C-toppen: ”Detta är Vänsterpartiets sista chans”",
+      "link": "https://www.dn.se/sverige/c-toppen-detta-ar-vansterpartiets-sista-chans/",
+      "description": "Bollen och ansvaret ligger hos V efter budet som C, S och MP gav Vänsterpartiet på lördagen, säger Centerns vice partiledare Rickard Nordin. Ida Gabrielsson (V) anser det vara oseriöst av Socialdemokraterna att förhandla via debattartiklar, men Annika Strandhäll (S) slår tillbaka på X.",
+      "pubDate": "2026-11-22T19:13:23Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
-      "topics": []
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "”Andersson söker ett sista halmstrå”",
+      "link": "https://www.svt.se/nyheter/inrikes/andersson-soker-ett-sista-halmstra",
+      "description": "S-ledaren Magdalena Anderssons utspel på söndagskvällen är ett sista försök att sätta press på Vänsterpartiet. Men det framstår som alltmer utsiktslöst. Vänsterpartiet håller benhårt fast vid sina krav på ministerposter.",
+      "pubDate": "2026-11-22T19:08:07Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Fredrik Furtenbach: ”De dinglar ett bete framför V”",
+      "link": "https://www.sverigesradio.se/artikel/9347933",
+      "description": "S, C och MP erbjuder V ett ”startpaket” för samarbete, enligt Expressen. Vänsterpartiet får inga ministerposter men föreslås ingå i ett inre kabinett med övriga partiledare. ”Det är ett skräddarsytt paket som är som ett bete att dingla med framför näsan på vänsterpartisterna”, säger Ekots politiska kommentator Fredrik Furtenbach.",
+      "pubDate": "2026-11-22T18:26:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Anderssons elva punkter till Vänsterpartiet",
+      "link": "https://www.sverigesradio.se/artikel/9347940",
+      "description": "Socialdemokraterna, Centerpartiet och Miljöpartiet erbjuder Vänsterpartiet ett startpaket med elva reformer inför fortsatta förhandlingar. Här är de elva punkterna som Magdalena Andersson listar. Lägre bostadskostnader med hyresrabatt och nej till marknadshyror. En omfattande tandvårdsreform. Arbetstidsförkortning för välfärdens skiftarbetare. Prispressarkommission för lägre priser. Driva i EU för att svenska elpriser ska gälla i Sverige. Stärkt sjuk- och aktivitetsersättning. Ökad jämställdhet genom en reformerad föräldraförsäkring, där steg ska tas mot en tredelning. Reformerad Arbetsförmedling med lokal närvaro i hela landet. Stärkt skydd för våldsutsatta kvinnor och mer stöd till kvinnojourer. Höjd straffbarhetsålder till 15 år och dubbla straff för den som rekryterar barn till kriminalitet. Stoppa orimliga utvisningar, värna permanenta uppehållstillstånd och göra om angiverilagen.",
+      "pubDate": "2026-11-22T18:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP"
+      ]
+    },
+    {
+      "title": "Statsvetare om öppna C-splittringen: ”Ingen stark förhandlingsposition”",
+      "link": "https://www.dn.se/sverige/statsvetare-om-oppna-c-splittringen-ingen-stark-forhandlingsposition/",
+      "description": "Den öppna splittringen inom Centerpartiet är ett problem för partiledaren Elisabeth Thand Ringqvist, menar statsvetaren Tommy Möller. – Det ger henne inte en stark förhandlingsposition, säger han.",
+      "pubDate": "2026-11-22T18:01:31Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
     }
   ],
   "blogs": [
@@ -268,19 +279,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
       "sourceType": "blog",
       "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Därför kräver Vänsterpartiet statsrådsposter",
-      "link": "https://ledarsidorna.se/darfor-vill-inte-v-redogora-for-varfor-de-kraver-statsradsposter/",
-      "description": "Vänsterpartiets hårdnackade försvar av det som de anser rätten till statsrådsposter går bortom sakpolitiken. Det är genom att sitta i regeringen som den verkliga påverkan finns av samhällsutvecklingen, inte i de sakpolitiska förhandlingsvinsterna och ett eventuellt samordningskansli. En regeringskonst som Socialdemokraterna behärskat till fulländning. I den svenska parlamentariska modellen är det riksdagen som stiftar lagar [&#8230;]",
-      "pubDate": "2026-11-13T04:04:41Z",
-      "source": "Ledarsidorna",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
         "V"
       ]
     }
