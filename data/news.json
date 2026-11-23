@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T21:22:14.970408Z",
+  "updated_at": "2026-11-23T01:52:00.235053Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,55 @@
   ],
   "news": [
     {
+      "title": "Stödet för dödshjälp ökar – men inget parti driver frågan",
+      "link": "https://www.sverigesradio.se/artikel/9346371",
+      "description": "Stödet för aktiv dödshjälp ökar i Sverige, men inget riksdagsparti driver frågan trots att en majoritet av partierna vill utreda den. Kristdemokraterna och Socialdemokraterna säger nej till både utredning och införande av dödshjälp. Enligt Göteborgs universitet är 58 procent positiva, jämfört med 37 procent för 20 år sedan. ”Det känns som att ingen vågar ta i den här heta potatisen”, säger Lotta Hasselquist Nilsson, vars man gått bort i ALS.",
+      "pubDate": "2026-11-23T01:00:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "KD"
+      ]
+    },
+    {
+      "title": "C-toppen om splittringen: ”Väldigt laddat och känslosamt”",
+      "link": "https://www.svt.se/nyheter/inrikes/c-toppen-om-splittringen-valdigt-laddat-och-kanslosamt",
+      "description": "Centerpartiet står inför ett vägval i regeringsfrågan. Emma Ytterell (C) gick på lördagen ut med att partiet i stället bör gå vidare med allianspartierna. Nu har allt fler C-distrikt öppnat dörren högerut. – Vi har en gräns och vi har också alternativ, säger Ytterell i SVT:s Agenda på söndagskvällen.",
+      "pubDate": "2026-11-22T22:03:23Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Magdalena Anderssons förlåt räddar inte lördagsgodiset",
+      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/magdalena-anderssons-forlat-raddar-inte-lordagsgodiset/",
+      "description": "Det rödgröna regeringsprojektet rör sig sakta men säkert mot avgrunden. Var det verkligen nödvändigt?",
+      "pubDate": "2026-11-22T21:42:55Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Stora V-ilskan: ”Mot vår vilja”",
+      "link": "https://www.expressen.se/nyheter/politik/s-de-ville-inte-vara-med--v-bad-om-att-fa-vara-med/",
+      "description": "Vänsterpartiet är inte helt nöjda med S, MP och C-draget att publicera sitt bud i debattform. De bad uttryckligen sina potentiella samarbetspartners att låta bli.&nbsp; ”Hur skulle detta kunna sluta väl?”, skriver Ida Gabrielsson på X.&nbsp;",
+      "pubDate": "2026-11-22T21:37:13Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
       "title": "Insändare. Centerpartister, inse att ni befinner i det rödgröna lägret",
       "link": "https://www.dn.se/insandare/centerpartister-inse-att-ni-befinner-i-det-rodgrona-lagret/",
       "description": "INSÄNDARE. Över hälften av väljarna ser Sverigedemokraterna som huvudmotståndare till frihet, jämlikhet och demokrati. Vägen framåt för Sverige är att minska SD:s inflytande i riksdagen, skriver Lennart Johansson.",
@@ -156,7 +205,7 @@
       ]
     },
     {
-      "title": "Ida Gabrielsson nobbar S bud: ”Inte seriöst”",
+      "title": "Ida Gabrielsson nobbar S bud: ”Tack men nej tack”",
       "link": "https://www.dn.se/sverige/ida-gabrielsson-nobbar-s-bud-inte-seriost/",
       "description": "Ida Gabrielsson uppger att Vänsterpartiet tackar nej till budet från S, MP och C. I paketet erbjuds V framträdande roller och vänsterpolitik, men det räcker inte, uppger partitoppen. ”Budet” är att V ska låta övriga regera på våra mandat. Marknadsskolan, a-kassan och karensen är inte ens med”, skriver hon på X.",
       "pubDate": "2026-11-22T19:59:13Z",
@@ -214,58 +263,6 @@
       "topics": [
         "S",
         "V"
-      ]
-    },
-    {
-      "title": "”Andersson söker ett sista halmstrå”",
-      "link": "https://www.svt.se/nyheter/inrikes/andersson-soker-ett-sista-halmstra",
-      "description": "S-ledaren Magdalena Anderssons utspel på söndagskvällen är ett sista försök att sätta press på Vänsterpartiet. Men det framstår som alltmer utsiktslöst. Vänsterpartiet håller benhårt fast vid sina krav på ministerposter.",
-      "pubDate": "2026-11-22T19:08:07Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Fredrik Furtenbach: ”De dinglar ett bete framför V”",
-      "link": "https://www.sverigesradio.se/artikel/9347933",
-      "description": "S, C och MP erbjuder V ett ”startpaket” för samarbete, enligt Expressen. Vänsterpartiet får inga ministerposter men föreslås ingå i ett inre kabinett med övriga partiledare. ”Det är ett skräddarsytt paket som är som ett bete att dingla med framför näsan på vänsterpartisterna”, säger Ekots politiska kommentator Fredrik Furtenbach.",
-      "pubDate": "2026-11-22T18:26:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Anderssons elva punkter till Vänsterpartiet",
-      "link": "https://www.sverigesradio.se/artikel/9347940",
-      "description": "Socialdemokraterna, Centerpartiet och Miljöpartiet erbjuder Vänsterpartiet ett startpaket med elva reformer inför fortsatta förhandlingar. Här är de elva punkterna som Magdalena Andersson listar. Lägre bostadskostnader med hyresrabatt och nej till marknadshyror. En omfattande tandvårdsreform. Arbetstidsförkortning för välfärdens skiftarbetare. Prispressarkommission för lägre priser. Driva i EU för att svenska elpriser ska gälla i Sverige. Stärkt sjuk- och aktivitetsersättning. Ökad jämställdhet genom en reformerad föräldraförsäkring, där steg ska tas mot en tredelning. Reformerad Arbetsförmedling med lokal närvaro i hela landet. Stärkt skydd för våldsutsatta kvinnor och mer stöd till kvinnojourer. Höjd straffbarhetsålder till 15 år och dubbla straff för den som rekryterar barn till kriminalitet. Stoppa orimliga utvisningar, värna permanenta uppehållstillstånd och göra om angiverilagen.",
-      "pubDate": "2026-11-22T18:03:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "C",
-        "MP"
-      ]
-    },
-    {
-      "title": "Statsvetare om öppna C-splittringen: ”Ingen stark förhandlingsposition”",
-      "link": "https://www.dn.se/sverige/statsvetare-om-oppna-c-splittringen-ingen-stark-forhandlingsposition/",
-      "description": "Den öppna splittringen inom Centerpartiet är ett problem för partiledaren Elisabeth Thand Ringqvist, menar statsvetaren Tommy Möller. – Det ger henne inte en stark förhandlingsposition, säger han.",
-      "pubDate": "2026-11-22T18:01:31Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
       ]
     }
   ],
