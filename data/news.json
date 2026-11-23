@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T09:55:19.837804Z",
+  "updated_at": "2026-11-23T21:47:15.566756Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,196 +79,242 @@
   ],
   "news": [
     {
-      "title": "Chatt: Vem blir statsminister – och när är det klart?",
-      "link": "https://www.svt.se/nyheter/inrikes/chatt-vem-blir-statsminister-och-nar-ar-det-klart",
-      "description": "Över 70 dagar utan regering. Förhandlingar inför öppen ridå. Andersson vs. Kristersson. Hur ska regeringsbildningen sluta? Och när? Ställ dina frågor till SVT:s politikreporter Kristeroffer Törnmalm – som svarar i chatt och livesändning.",
-      "pubDate": "2026-11-23T09:23:25Z",
+      "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
+      "link": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
+      "description": "Det blir ingen rödgrön regering, tror Maud Olofsson.&nbsp; – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”. &nbsp; Nu borde C ”syna” M-ledaren Ulf Kristerssons regeringsalternativ.&nbsp;",
+      "pubDate": "2026-11-23T21:09:52Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "Så sköter sig politikerna: ”Spelar stor roll med inflytande”",
+      "link": "https://www.sverigesradio.se/artikel/9348620",
+      "description": "Jerry Segerberg berättar att han röstade på Vänsterpartiet. Han säger att han till viss del är besviken på de rödgröna partiernas hantering av valresultatet, men om det skulle gå till extra val, så skulle han rösta på samma parti igen.",
+      "pubDate": "2026-11-23T19:38:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Så sköter sig politikerna: ”Jag hoppas på ett extraval”",
+      "link": "https://www.sverigesradio.se/artikel/9348631",
+      "description": "Hugo Söderbäck i Stockholm hoppas på extraval och är kritisk till att partier går till val utan ett regeringsunderlag. Trots missnöjet med situationen är han säker på sin röst och förklarar varför ett extraval inte skulle ändra hans partival.",
+      "pubDate": "2026-11-23T19:36:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Så sköter sig politikerna: ”Man tappar förtroendet för dem”",
+      "link": "https://www.sverigesradio.se/artikel/9348614",
+      "description": "Oenigheten om regeringsbildningen får Malin Tagesson, som bor utanför Ulricehamn, att tappa förtroendet för politikerna, som hon upplever som opålitliga. Hon tycker att den rödgröna sidan borde ha haft en genomtänkt plan för att bilda regering efter valsegern och efterlyser större öppenhet för samarbete.",
+      "pubDate": "2026-11-23T19:34:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Näringslivets C-kritik: ”Det är snarare ett stoppaket”",
+      "link": "https://www.dn.se/sverige/naringslivets-c-kritik-det-ar-snarare-ett-stoppaket/",
+      "description": "Startpaketet till Vänsterpartiet väcker stark kritik i näringslivet. – Det är snarare ett stoppaket för tillväxten än ett startpaket för någonting, säger Företagarnas vd Magnus Demervall. Att Centerpartiet ställt sig bakom förslagen förvånar även Svenskt Näringsliv.",
+      "pubDate": "2026-11-23T19:10:07Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Ovanlig splittring i C: ”Besluten inte långt borta”",
+      "link": "https://www.dn.se/sverige/ovanlig-splittring-i-c-besluten-inte-langt-borta/",
+      "description": "Den interna maktkampen inom Centerpartiet blir alltmer offentlig, vilket är ovanligt för partiet. – Det tyder på att det rör på sig. Besluten är inte långt borta, säger Jonas Hinnfors. Men det är fortfarande svårt att slå fast vilken sida som har övertaget, enligt statsvetaren.",
+      "pubDate": "2026-11-23T19:00:04Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Fridolin rasar mot budet till V: ”Rätt att kräva”",
+      "link": "https://www.expressen.se/nyheter/politik/fridolin-rasar-mot-budet-till-v-ratt-att-krava/",
+      "description": "V har avvisat budet från S, C och MP.&nbsp; Gustav Fridolin är mycket kritisk till punkten om migrationspolitiken.&nbsp; ”Så utan V står de andra rödgröna för att fortsätta orimliga utvisningar?” skriver det tidigare språkröret i Arbetet. &nbsp;",
+      "pubDate": "2026-11-23T18:42:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "Max Hjelm: Högern borde släppa sin snuttefilt och lära sig av Vänsterpartiet",
+      "link": "https://www.dn.se/ledare/max-hjelm-hogern-borde-slappa-sin-snuttefilt-och-lara-sig-av-vansterpartiet/",
+      "description": "Varför gick det så bra för Vänsterpartiet och Socialdemokraterna i utsatta områden? Järvaveckans nya rapport ger en indikation.",
+      "pubDate": "2026-11-23T18:28:27Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Centerpartiet har möte om högersväng",
+      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-har-mote-om-hogersvang/",
+      "description": "Centerpartiet har möte på måndagskvällen för att diskutera ett regeringssamarbete högerut, erfar Expressen.&nbsp; Partistyrelsen och riksdagsgruppen deltar.&nbsp; Samtidigt går 35 lokala C-politiker ut och säger nej till en högersväng i en debattartikel.&nbsp;",
+      "pubDate": "2026-11-23T18:27:27Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Shekarabi försvarar startpaketet – trots V:s ilska",
+      "link": "https://www.dn.se/sverige/shekarabi-forsvarar-startpaketet-trots-vs-ilska/",
+      "description": "Hjärtefrågor för Vänsterpartiet som slopat karensavdrag och stopp för vinster i skolan saknas i det startpaket som S, C och MP har presenterat för V. Frågorna är inte borta ur förhandlingarna, enligt Ardalan Shekarabi (S).",
+      "pubDate": "2026-11-23T17:58:33Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Ida Gabrielsson: Det krävs för att V ska släppa ministerkravet",
+      "link": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet/",
+      "description": "Vänsterpartiet står fast vid kravet på ministerposter. Men nu förklarar vice partiledaren Ida Gabrielsson vad som skulle krävas för att partiet ska överväga att backa.",
+      "pubDate": "2026-11-23T17:07:55Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Gissén: ”Inte kört för de rödgröna – men klockan är fem i tolv”",
+      "link": "https://www.sverigesradio.se/artikel/9348579",
+      "description": "Vänsterpartiet säger nej till startpaketet från Socialdemokraterna, Miljöpartiet och Centerpartiet och står fast vid kravet på ministerposter. Centerpartiet beskriver erbjudandet som sista chansen att göra Magdalena Andersson till statsminister, medan Vänsterpartiet vill fortsätta förhandla. Trots det låsta läget pekar Sveriges Radios inrikespolitiska kommentator Helena Gissén på ett annat tillfälle som kan bli den verkliga tidsgränsen.",
+      "pubDate": "2026-11-23T17:02:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V",
+        "C",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav",
+      "link": "https://www.sverigesradio.se/artikel/9348509",
+      "description": "Vänsterpartiet står fast vid kravet på ministerposter, men vice partiledaren Ida Gabrielsson öppnar för att släppa det vid stora sakpolitiska eftergifter. ”Skulle behöva enormt stora eftergifter”, säger Ida Gabrielsson i Studio Ett . Socialdemokraternas förhandlare Ardalan Shekarabi ser öppningen som ett framsteg och framhåller att de rödgrönas bud innehåller flera förslag som Vänsterpartiet gått till val på.",
+      "pubDate": "2026-11-23T16:24:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Mats Knutson: Tre skäl till att V nobbar S-budet",
+      "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-tre-skal-till-att-v-nobbar-s-budet",
+      "description": "Vänsterpartiet nobbar det nya budet från S, MP och C. Men varför räcker inte erbjudandet? SVT:s inrikespolitiske kommentator Mats Knutson pekar på tre viktiga skäl. – Symboliken att få ministerposter är avgörande, säger han.",
+      "pubDate": "2026-11-23T16:11:57Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
+        "V"
+      ]
+    },
+    {
+      "title": "Pangbud eller skambud – här är Dadgostars dilemma",
+      "link": "https://www.dn.se/podd/alskade-politik/pangbud-eller-skambud-har-ar-dadgostars-dilemma/",
+      "description": "Vad har Vänsterpartiet tackat nej till när de nobbar S, MP och C:s föhandlingsbud? Och varför riskerar C att malas ner i interna strider?",
+      "pubDate": "2026-11-23T15:24:21Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Vänsterpartiet har fått konkreta bud om migrationspolitiken",
+      "link": "https://www.dagensarena.se/innehall/vansterpartiet-har-fatt-konkreta-bud-om-migrationspolitiken/",
+      "description": "Här är buden som Vänsterpartiet fått. Inlägget Vänsterpartiet har fått konkreta bud om migrationspolitiken dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-23T11:31:58Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Vänstern underordnar sig de US-amerikanska storföretagen",
+      "link": "https://blog.zaramis.se/2026/11/23/vanstern-underordnar-sig-de-us-amerikanska-storforetagen/",
+      "description": "Vänsterpartiet kommunicerar huvudsakligen via det högerextrema sociala mediet X som ägs av den fascistiske oligarken och techbrorsan Elon Musk. Genom att använd X så stöder Vänsterpartiet Elon Musks ekonomiska och politiska intressen. Läs mer … Inlägget Vänstern underordnar sig de US-amerikanska storföretagen dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-11-23T11:17:26Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Blir det en ny Kristerssonregering nu?",
+      "link": "https://www.dagensarena.se/innehall/blir-det-en-ny-kristerssonregering-nu/",
+      "description": "Tisdagsmagasinet om slutbud i regeringsbildningen. Inlägget Blir det en ny Kristerssonregering nu? dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-23T10:30:05Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
         "M",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "Dadgostar nobbade Andersson – inför debattartikeln",
-      "link": "https://www.expressen.se/nyheter/politik/dadgostar-nobbade-andersson-infor-debattartikeln/",
-      "description": "Magdalena Andersson ville informera Vänsterpartiet om startpaketet från S, MP och C före debattartikeln. Men hon fick kalla handen – direkt. ”Jag behöver inte ens se det, vi säger nej ändå”, sa Nooshi Dadgostar enligt uppgifter.",
-      "pubDate": "2026-11-23T09:14:40Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
+      "title": "Andersson måste vara sämsta sosseledaren nånsin",
+      "link": "https://blog.zaramis.se/2026/11/23/andersson-maste-vara-samsta-sosseledaren-nansin/",
+      "description": "Magdalena Andersson måste vara sämsta sosseledaren nånsin. Inte nog med att socialdemokraterna under Andersson gjort det sämsta valet på 100 år. Hon tycks helt oförmögen att faktiskt sätta sig i möte eller ens kalla till ett möte där hon faktiskt pratar med Vänsterpartiet. Istället kommer hon med utspel i media, dessutom i Expressen som bedriver en kampanj riktad mot Vänsterpartiet. Läs mer … Inlägget Andersson måste vara sämsta sosseledaren nånsin dök först upp på Svenssons Nyheter .",
+      "pubDate": "2026-11-23T10:08:16Z",
+      "source": "Svensson",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
+      "sourceType": "blog",
       "topics": [
         "S",
         "V"
       ]
     },
-    {
-      "title": "S gick emot vädjan från V: ”Vänstern förhandlar ju inte”",
-      "link": "https://www.sverigesradio.se/artikel/9348059",
-      "description": "I dag ska Vänsterpartiet ge besked om Socialdemokraternas startpaket för att återuppta förhandlingarna, men vice partiledaren Ida Gabrielsson har redan sagt nej i ett inlägg på plattformen X. Förslaget från S, MP och C innehåller bland annat en tandvårdsreform men inga ministerposter. En av anledningarna till nejet är att budet inte innehåller skattepolitik. ”C kan få stora skattesänkningar och då blir det ju nedskärningar i välfärden”, säger Ida Gabrielsson till Dagens ETC . Medan S:s Mikael Damberg beskriver budet snarare som ett seriöst försök att komma framåt. V riktar också kritik mot att startpaketet nådde dem via en debattartikel i Expressen.",
-      "pubDate": "2026-11-23T09:06:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "”Partiet kan inte ha företrädare som säger sig rösta på andra partier”",
-      "link": "https://www.dn.se/sverige/partiet-kan-inte-ha-foretradare-som-sager-sig-rosta-pa-andra-partier/",
-      "description": "Företrädare som deklarerade att de skulle rösta på andra partier, offentliga bråk och strömavhopp kort innan valet. Det var några av orsakerna till Liberalernas tillbakagång i Stockholms stad, enligt partiets egen valanalys. – Är man medlem i ett parti så förutsätts det att man röstar på det partiets kandidater, säger Gulan Avci, Liberalernas gruppledare i Stockholm.",
-      "pubDate": "2026-11-23T09:03:41Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "Fredrik Furtenbach om S erbjudande till V: Kärvar rejält",
-      "link": "https://www.sverigesradio.se/artikel/9348036",
-      "description": "Socialdemokraternas debattartikel i Expressen på söndagskvällen, där man erbjuder Vänsterpartiet flera reformer och positioner, vittnar om förhandlingsproblem. Det säger Ekots inrikespolitiske kommentator Fredrik Furtenbach: ”Det kärvar uppenbarligen rejält”. Många faktorer spelar in i förhandlingarna, menar han: ”Det är också så att för Vänsterpartiet så handlar det här om något mer än ministerposter. Det handlar ju också, kan man säga, om ett slags revansch”.",
-      "pubDate": "2026-11-23T07:59:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "V ville stoppa utspelet – S-toppens svar",
-      "link": "https://www.expressen.se/nyheter/politik/v-ville-stoppa-utspelet-s-toppens-svar/",
-      "description": "S-ledaren Magdalena Andersson gick ut i Expressen med sitt bud till Vänsterpartiet. Men innan det vädjade Vänsterpartiet till S att inte publicera debattartikeln. ”Obegripligt”, skriver Ida Gabrielsson (V) på X om S-draget. Missa inget om regeringsbildningen – ladda ner Expressens app &nbsp;",
-      "pubDate": "2026-11-23T07:25:34Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Gabrielsson: Det här saknar V i erbjudandet",
-      "link": "https://www.expressen.se/nyheter/sverige/gabrielsson-det-har-saknar-v-i-erbjudandet/",
-      "description": "20 minuter tog det – sen slog Vänsterpartiet ner budet från S, MP och C. På X förklarar vice partiledare Ida Gabrielsson varför. ”Nu får det vara slut på tramset”, skriver hon.",
-      "pubDate": "2026-11-23T05:02:00Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ledare: Ida Gabrielsson är enormt omdömeslös – det ska inte C vara",
-      "link": "https://www.dn.se/ledare/ida-gabrielsson-ar-enormt-omdomeslos-det-ska-inte-c-vara/",
-      "description": "Om M-ledaren hade haft ett seriöst alternativ för Centerpartiet hade det här varit läget att gå vidare med det. Saken är bara den att han inte har det.",
-      "pubDate": "2026-11-23T04:35:45Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Stödet för dödshjälp ökar – men inget parti driver frågan",
-      "link": "https://www.sverigesradio.se/artikel/9346371",
-      "description": "Stödet för aktiv dödshjälp ökar i Sverige, men inget riksdagsparti driver frågan trots att en majoritet av partierna vill utreda den. Kristdemokraterna och Socialdemokraterna säger nej till både utredning och införande av dödshjälp. Enligt Göteborgs universitet är 58 procent positiva, jämfört med 37 procent för 20 år sedan. ”Det känns som att ingen vågar ta i den här heta potatisen”, säger Lotta Hasselquist Nilsson, vars man gått bort i ALS.",
-      "pubDate": "2026-11-23T01:00:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "KD"
-      ]
-    },
-    {
-      "title": "C-toppen om splittringen: ”Väldigt laddat och känslosamt”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-toppen-om-splittringen-valdigt-laddat-och-kanslosamt",
-      "description": "Centerpartiet står inför ett vägval i regeringsfrågan. Emma Ytterell (C) gick på lördagen ut med att partiet i stället bör gå vidare med allianspartierna. Nu har allt fler C-distrikt öppnat dörren högerut. – Vi har en gräns och vi har också alternativ, säger Ytterell i SVT:s Agenda på söndagskvällen.",
-      "pubDate": "2026-11-22T22:03:23Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Magdalena Anderssons förlåt räddar inte lördagsgodiset",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/magdalena-anderssons-forlat-raddar-inte-lordagsgodiset/",
-      "description": "Det rödgröna regeringsprojektet rör sig sakta men säkert mot avgrunden. Var det verkligen nödvändigt?",
-      "pubDate": "2026-11-22T21:42:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Stora V-ilskan: ”Mot vår vilja”",
-      "link": "https://www.expressen.se/nyheter/politik/s-de-ville-inte-vara-med--v-bad-om-att-fa-vara-med/",
-      "description": "Vänsterpartiet är inte helt nöjda med S, MP och C-draget att publicera sitt bud i debattform. De bad uttryckligen sina potentiella samarbetspartners att låta bli.&nbsp; ”Hur skulle detta kunna sluta väl?”, skriver Ida Gabrielsson på X.&nbsp;",
-      "pubDate": "2026-11-22T21:37:13Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Insändare. Centerpartister, inse att ni ingår i det rödgröna laget",
-      "link": "https://www.dn.se/insandare/centerpartister-inse-att-ni-befinner-i-det-rodgrona-lagret/",
-      "description": "INSÄNDARE. Över hälften av väljarna ser Sverigedemokraterna som huvudmotståndare till frihet, jämlikhet och demokrati. Vägen framåt för Sverige är att minska SD:s inflytande i riksdagen, skriver Lennart Johansson.",
-      "pubDate": "2026-11-22T20:57:01Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD",
-        "C"
-      ]
-    },
-    {
-      "title": "Statsvetare om turerna S-V: ”Förhandlingarna går nog inte så bra”",
-      "link": "https://www.sverigesradio.se/artikel/9347958",
-      "description": "De senaste turerna kring regeringsbildningen under söndagskvällen visar tydligt att förhandlingarna på den rödgröna sidan inte går särskilt bra, tror docent i statsvetenskap Jenny Madestam. Socialdemokraternas debattartikel i Expressen på söndagskvällen, där man erbjuder Vänsterpartiet flera reformer och positioner, visar också att S är stressade inför veckan som kommer. Jenny Madestam: ”Om man hade kunnat sitta ner och prata hade erbjudandet inte kommit via en debattartikel.”",
-      "pubDate": "2026-11-22T20:39:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Renodlad S-regering skulle ge fokus på sakfrågor",
-      "link": "https://www.dn.se/insandare/renodlad-s-regering-skulle-ge-fokus-pa-sakfragor/",
-      "description": "INSÄNDARE. En minoritetsregering med riksdagens största parti skulle tvinga fram ett fokus på sakfrågorna. Gör som i andra nordiska länder och släpp blockpolitiken, låt största parti regera och ge makten till riksdagen, skriver Hjalmar Croneborg.",
-      "pubDate": "2026-11-22T20:29:03Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    }
-  ],
-  "blogs": [
     {
       "title": "Importerad eller närodlad antisemitism?",
       "link": "https://ledarsidorna.se/importerad-eller-narodlad-antisemitism/",
@@ -283,6 +329,43 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Pangbud eller skambud – här är Dadgostars dilemma",
+      "link": "https://pod.space/alskadepolitik/pangbud-eller-skambud-har-ar-dadgostars-dilemma",
+      "description": "Vad har Vänsterpartiet tackat nej till när de nobbar S, MP och C:s föhandlingsbud? Och varför riskerar C att malas ner i interna strider?",
+      "pubDate": "2026-11-23T15:24:21Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Kvartal Idag: S-veteran: Partiet står inför historisk kris",
+      "link": "https://pod.space/kvartal/kvartal-idag-s-veteran-partiet-star-infor-historisk-kris",
+      "description": "Tvivlar på rödgrön regering efter bråket med V. Bombhot mot skolor i Danmark. Mohamsson pressar C att välja sida. Och SVT-kollegor om Bergfeldt: ”Ett övertramp”. Programledare: Jörgen Huitfeldt.",
+      "pubDate": "2026-11-23T14:46:18Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "L"
+      ]
+    },
+    {
+      "title": "337. Rödgrön slutstrid",
+      "link": "https://pod.space/politikrummet/337-rodgron-slutstrid-7072b226-5549-4b49-97c2-c34b0cb3d959",
+      "description": "Magdalena Andersson lämnar ett bud till Vänsterpartiet. Är det ett startbud, slutbud eller ett skambud? I studion: Filippa Rogvall, Viktor Barth-Kron, Anette Holmqvist och Max V Karlsson Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-11-23T12:43:02Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "V"
+      ]
+    },
     {
       "title": "Veckopanelen: Varför ska de förolämpa varandra på det här sättet?",
       "link": "https://pod.space/kvartal/veckopanelen-varfor-ska-de-forolampa-varandra-pa-det-har-sattet",
@@ -435,48 +518,6 @@
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "podcast",
       "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson får hård kritik | Veckopanelen",
-      "link": "https://pod.space/kvartal/andersson-gor-som-centerpartiet-bestaller-veckopanelen",
-      "description": "Totalpaketen från Moderaterna och Socialdemokraterna ska lämnas till Centerpartiet för utvärdering, och frågan är om Elisabeth Thand Ringqvist har spelat korten skickligt. Harriet Wallberg menar att hon skaffat sig en makt som är större än mandatet, och att det hittills är skickligt spelat. Carl Eos invänder att Centerpartiet kan gå samma öde till mötes som Liberalerna, med svekdebatter, interna spänningar och avhopp. Linn Svansbo tror att partiet självt köper ett steg tillbaka till gamla alliansen, men att väljarna blir arga. Svansbo kallar hanteringen pinsam för Socialdemokraterna: ett parti som fick 28 procent i valet låter 7 procent beställa paket, och Magdalena Anderssons presskonferens kom på Thand Ringqvists beställning. Varför tog Socialdemokraterna aldrig på sig ledartröjan under de 54 dagarna efter valet? Eos går längre och säger att det vore bra om Andersson byttes ut, eftersom hon inte är bra för det svenska politiska samtalet – inte minst efter Vänsterpartiets ordval om Kristallnatten. Är det fördel Ulf Kristersson nu?",
-      "pubDate": "2026-11-16T15:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: Kan C:s vägval bli en återvändsgränd?",
-      "link": "https://pod.space/kvartal/kvartal-idag-kan-cs-vagval-bli-en-atervandsgrand",
-      "description": "Karin Källström: Dörren till M står absolut på glänt. Pressen ökar på V att släppa ministerkrav. Sparkade Nvidia-vd:n kan återvända. Och Ulf Kristersson rasar på Polymarket. Programledare: Magnus Thorén.",
-      "pubDate": "2026-11-16T14:54:26Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "335. Då vinner Dadgostar",
-      "link": "https://pod.space/politikrummet/335-da-vinner-dadgostar",
-      "description": "Centerpartiet väljer Magdalena Andersson – så länge Vänsterpartiet backar. Är vi tillbaka på ruta ett? I studion: Filippa Rogvall, Anette Holmqvist och Viktor Barth-Kron. Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-11-16T13:06:56Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "V",
         "C"
       ]
     }
