@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T21:47:15.566756Z",
+  "updated_at": "2026-11-24T05:39:09.349419Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,15 +79,117 @@
   ],
   "news": [
     {
+      "title": "Strandhäll till V: ”Fullständigt kört sönder detta”",
+      "link": "https://www.expressen.se/nyheter/politik/strandhall-till-v-fullstandigt-kort-sonder-detta/",
+      "description": "S-toppen Annika Strandhäll riktar sig till V-veteranen Ulla Andersson efter Centerpartiets beslut att återuppta högersamtalen. ”Ni har fullständigt kört sönder detta, Ulla. Det är sanningen”, skriver Strandhäll på X.",
+      "pubDate": "2026-11-24T04:22:38Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "C"
+      ]
+    },
+    {
+      "title": "Talmannens täta tisdag – här är vägen till en regering",
+      "link": "https://www.sverigesradio.se/artikel/9348584",
+      "description": "Talman Andreas Norlén träffar på tisdagen partiledarna inför nästa steg mot en ny regering. Ulf Kristersson (M) lämnar sin slutrapport om sonderingsuppdraget. Kristersson kan därefter prövas som statsminister, men Magdalena Andersson (S) kan få företräde om hon presenterar ett färdigt regeringsunderlag. Om en fjärde statsministeromröstning misslyckas väntar extraval inom tre månader.",
+      "pubDate": "2026-11-24T04:09:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Högersvängen splittrar C: ”Inte alls överens”",
+      "link": "https://www.sverigesradio.se/artikel/9348700",
+      "description": "Centerpartiet återupptar samtalen med högersidan. Det beskedet gav partiledaren Elisabeth Thand Ringqvist på måndagskvällen i en kommentar till Ekot. Men Centerpartiet är splittrat. Tidigare under måndagen skrev 35 centerpolitiker i en debattartikel i Aftonbladet att det skulle vara ett svek mot väljarna att bilda en borgerlig regering med SD som vågmästare. ”Vi är ju inte alls överens. Hade vi varit överens så hade väl ingen behövt gå ut i media och tala om vilken väg man tycker att partiet ska ta”, säger Mattias Larsson, Centerpartiets gruppledare i Umeå, som har skrivit under debattartikeln.",
+      "pubDate": "2026-11-24T00:03:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Thand Ringqvist: Tillbaka till samtal med M, L och KD",
+      "link": "https://www.svt.se/nyheter/inrikes/thand-ringqvist-tillbaka-till-samtal-med-m-l-och-kd",
+      "description": "Centerpartiet kommer återuppta samtalen om en ny regering med högersidan, det skriver Elisabeth Thand Ringqvist på sociala medier. ”Vi tänker inte låta regeringsbildningen fastna”, skriver Thand Ringqvist på X.",
+      "pubDate": "2026-11-23T22:53:59Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C återupptar förhandlingar med M, KD och L",
+      "link": "https://www.dn.se/sverige/cs-aterupptar-forhandlingar-med-m-kd-och-l/",
+      "description": "Centerpartiet kommer att återuppta förhandlingarna med M, KD och L, skriver Elisabeth Thand Ringqvist i en kommentar till DN på måndagskvällen. ”Vi tänker inte låta regeringsbildningen fastna. Sverige behöver en regering och därför behöver vi öppna fler dörrar”.",
+      "pubDate": "2026-11-23T22:30:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Möjlig öppning för att V ska släppa ministerkraven",
+      "link": "https://www.svt.se/nyheter/inrikes/mojlig-oppning-for-att-v-ska-slappa-ministerkraven",
+      "description": "Vänsterpartiet kan tänka sig att överväga släppa kravet på ministerposter – men bara om de får igenom större politiska sakfrågor, det säger Ida Gabrielsson (V) i Aktuellt. – Jag hade förväntat mig ett ordentlig bud, inte småsaker.",
+      "pubDate": "2026-11-23T22:22:43Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Centerpartiet återupptar samtal med M, KD och L",
+      "link": "https://www.expressen.se/nyheter/sverige/c-aterupptar-samtal-med-m-kd-och-l/",
+      "description": "C återupptar samtalen med högerpartierna. ”Sverige behöver en regering och därför behöver vi öppna fler dörrar, inte stänga några”, skriver partiledaren Elisabeth Thand Ringqvist i en kommentar till Expressen. V-toppen Ida Gabrielsson ”beklagar C:s sidbyte”.",
+      "pubDate": "2026-11-23T22:08:17Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tidigare C-ledaren: ”Syna Kristersson”",
+      "link": "https://www.svt.se/nyheter/inrikes/tidigare-c-ledaren-syna-kristersson",
+      "description": "Den tidigare C-ledaren Maud Olofsson anser att samtalen mellan de rödgröna partierna har ”nått vägs ände”. Nu vill hon att Centerpartiet vänder sig högerut. – Syna nu vad Ulf Kristersson menar. Vad är de [forna allianspartierna] beredda att ge Centerpartiet? säger hon.",
+      "pubDate": "2026-11-23T21:56:36Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
       "title": "Tidigare C-ledaren Maud Olofsson tror inte på en rödgrön regering",
       "link": "https://www.expressen.se/nyheter/politik/tidigare-c-ledaren-maud-olofsson-tror-inte-pa-en-rodgron-regering/",
-      "description": "Det blir ingen rödgrön regering, tror Maud Olofsson.&nbsp; – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”. &nbsp; Nu borde C ”syna” M-ledaren Ulf Kristerssons regeringsalternativ.&nbsp;",
+      "description": "Det blir ingen rödgrön regering, tror Maud Olofsson.&nbsp; – Jag tror att de har kommit till vägs ände. De har ju suttit hur länge som helst och diskuterat. Man har inte kommit närmare varandra, säger den tidigare C-ledaren i SVT:s ”Aktuellt”. &nbsp; Sent på måndagskvällen säger C:s nuvarande ledare Elisabeth Thand Ringqvist att man ska återuppta samtalen med de borgerliga partierna.&nbsp;",
       "pubDate": "2026-11-23T21:09:52Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M"
+        "C"
       ]
     },
     {
@@ -152,16 +254,6 @@
       ]
     },
     {
-      "title": "Fridolin rasar mot budet till V: ”Rätt att kräva”",
-      "link": "https://www.expressen.se/nyheter/politik/fridolin-rasar-mot-budet-till-v-ratt-att-krava/",
-      "description": "V har avvisat budet från S, C och MP.&nbsp; Gustav Fridolin är mycket kritisk till punkten om migrationspolitiken.&nbsp; ”Så utan V står de andra rödgröna för att fortsätta orimliga utvisningar?” skriver det tidigare språkröret i Arbetet. &nbsp;",
-      "pubDate": "2026-11-23T18:42:17Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": []
-    },
-    {
       "title": "Max Hjelm: Högern borde släppa sin snuttefilt och lära sig av Vänsterpartiet",
       "link": "https://www.dn.se/ledare/max-hjelm-hogern-borde-slappa-sin-snuttefilt-och-lara-sig-av-vansterpartiet/",
       "description": "Varför gick det så bra för Vänsterpartiet och Socialdemokraterna i utsatta områden? Järvaveckans nya rapport ger en indikation.",
@@ -173,98 +265,24 @@
         "S",
         "V"
       ]
-    },
+    }
+  ],
+  "blogs": [
     {
-      "title": "Centerpartiet har möte om högersväng",
-      "link": "https://www.expressen.se/nyheter/politik/centerpartiet-har-mote-om-hogersvang/",
-      "description": "Centerpartiet har möte på måndagskvällen för att diskutera ett regeringssamarbete högerut, erfar Expressen.&nbsp; Partistyrelsen och riksdagsgruppen deltar.&nbsp; Samtidigt går 35 lokala C-politiker ut och säger nej till en högersväng i en debattartikel.&nbsp;",
-      "pubDate": "2026-11-23T18:27:27Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Shekarabi försvarar startpaketet – trots V:s ilska",
-      "link": "https://www.dn.se/sverige/shekarabi-forsvarar-startpaketet-trots-vs-ilska/",
-      "description": "Hjärtefrågor för Vänsterpartiet som slopat karensavdrag och stopp för vinster i skolan saknas i det startpaket som S, C och MP har presenterat för V. Frågorna är inte borta ur förhandlingarna, enligt Ardalan Shekarabi (S).",
-      "pubDate": "2026-11-23T17:58:33Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Ida Gabrielsson: Det krävs för att V ska släppa ministerkravet",
-      "link": "https://www.expressen.se/nyheter/politik/ida-gabrielsson-det-kravs-for-att-v-ska-slappa-ministerkravet/",
-      "description": "Vänsterpartiet står fast vid kravet på ministerposter. Men nu förklarar vice partiledaren Ida Gabrielsson vad som skulle krävas för att partiet ska överväga att backa.",
-      "pubDate": "2026-11-23T17:07:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Gissén: ”Inte kört för de rödgröna – men klockan är fem i tolv”",
-      "link": "https://www.sverigesradio.se/artikel/9348579",
-      "description": "Vänsterpartiet säger nej till startpaketet från Socialdemokraterna, Miljöpartiet och Centerpartiet och står fast vid kravet på ministerposter. Centerpartiet beskriver erbjudandet som sista chansen att göra Magdalena Andersson till statsminister, medan Vänsterpartiet vill fortsätta förhandla. Trots det låsta läget pekar Sveriges Radios inrikespolitiska kommentator Helena Gissén på ett annat tillfälle som kan bli den verkliga tidsgränsen.",
-      "pubDate": "2026-11-23T17:02:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
+      "title": "Centerpartiet behöll sin röda linje – men gav upp innehållet",
+      "link": "https://ledarsidorna.se/centerpartiet-beholl-sin-roda-linje-men-gav-upp-innehallet/",
+      "description": "Socialdemokraterna, Centerpartiet och Miljöpartiet presenterade under söndagen ett startpaket för att få Vänsterpartiet att släppa kravet på ministerposter. V tackade nej inom en timme. Men dokumentet säger mer om Centerpartiet än om Vänsterpartiet. C har behållit sin mest synliga röda linje men givit upp betydande delar av dess praktiska innebörd samt dessutom röjt sin förhandlingsposition. [&#8230;]",
+      "pubDate": "2026-11-24T04:06:01Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
       "topics": [
         "S",
         "V",
         "C",
-        "MP",
-        "Regeringsbildning"
+        "MP"
       ]
     },
-    {
-      "title": "Vänsterpartiet gläntar på dörren för att släppa ministerkrav",
-      "link": "https://www.sverigesradio.se/artikel/9348509",
-      "description": "Vänsterpartiet står fast vid kravet på ministerposter, men vice partiledaren Ida Gabrielsson öppnar för att släppa det vid stora sakpolitiska eftergifter. ”Skulle behöva enormt stora eftergifter”, säger Ida Gabrielsson i Studio Ett . Socialdemokraternas förhandlare Ardalan Shekarabi ser öppningen som ett framsteg och framhåller att de rödgrönas bud innehåller flera förslag som Vänsterpartiet gått till val på.",
-      "pubDate": "2026-11-23T16:24:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Mats Knutson: Tre skäl till att V nobbar S-budet",
-      "link": "https://www.svt.se/nyheter/inrikes/mats-knutson-tre-skal-till-att-v-nobbar-s-budet",
-      "description": "Vänsterpartiet nobbar det nya budet från S, MP och C. Men varför räcker inte erbjudandet? SVT:s inrikespolitiske kommentator Mats Knutson pekar på tre viktiga skäl. – Symboliken att få ministerposter är avgörande, säger han.",
-      "pubDate": "2026-11-23T16:11:57Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Pangbud eller skambud – här är Dadgostars dilemma",
-      "link": "https://www.dn.se/podd/alskade-politik/pangbud-eller-skambud-har-ar-dadgostars-dilemma/",
-      "description": "Vad har Vänsterpartiet tackat nej till när de nobbar S, MP och C:s föhandlingsbud? Och varför riskerar C att malas ner i interna strider?",
-      "pubDate": "2026-11-23T15:24:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    }
-  ],
-  "blogs": [
     {
       "title": "Vänsterpartiet har fått konkreta bud om migrationspolitiken",
       "link": "https://www.dagensarena.se/innehall/vansterpartiet-har-fatt-konkreta-bud-om-migrationspolitiken/",
