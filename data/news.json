@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T09:58:10.587287Z",
+  "updated_at": "2026-11-25T19:43:02.361785Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,35 +79,128 @@
   ],
   "news": [
     {
-      "title": "C kvinnoförbund har valt sida – vill inte vara ”i klorna på SD”",
-      "link": "https://www.sverigesradio.se/artikel/9349693",
-      "description": "Nu har Centerpartiets kvinnoförbund fattat beslut i den omstridda regeringsfrågan Om de rödgröna partierna inte kan enas, så bör Centerpartiet gå i opposition, är beskedet. Centerkvinnorna säger också nej till att ingå i en borgerlig regering, som behöver stöd av Sverigedemokraterna. ”Det här är jätteviktigt, att vår röda linje mot Sverigedemokraterna står fast”, säger Marie-Louise Wernersson, som är förbundsordförande.",
-      "pubDate": "2026-11-25T09:56:00Z",
+      "title": "41 centerpartister öppnar för Kristersson",
+      "link": "https://www.expressen.se/nyheter/politik/41-centerpartister-oppnar-for-kristersson/",
+      "description": "Det är dags att pröva Ulf Kristerssons regeringsalternativ. Det anser 41 lokala centerpartister i en debattartikel i Expressen . ”Är det något vi lärt oss under de senaste 70 dagarna är att det inte går att förhandla med Vänsterpartiet”, skriver undertecknarna.",
+      "pubDate": "2026-11-25T19:33:20Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Utvisningar av vissa unga vuxna pausas – SD kritiserar",
+      "link": "https://www.sverigesradio.se/artikel/9350089",
+      "description": "Efter att politikerna aviserat en ny stopplag pausar Migrationsverket vissa utvisningar av unga vuxna. Sverigedemokraternas migrationspolitiska talesperson Jessika Stegrud är kritisk. ”Det är för vitt och brett och för många oklarheter. Man får känslan att det ska landa i en allmän amnesti”, säger Stegrud.",
+      "pubDate": "2026-11-25T19:30:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Spricka mellan C-topparna inför vägvalet: ”Slöseri”",
+      "link": "https://www.svt.se/nyheter/inrikes/spricka-mellan-c-topparna-infor-vagvalet-sloseri",
+      "description": "Inom C pågår interna strider om vägvalet i regeringsfrågan. Motståndare till en Kristersson-lösning mobiliserar för ett annat alternativ – och källor varnar för en framtid med partisplittring och avhopp.",
+      "pubDate": "2026-11-25T19:19:00Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
+    {
+      "title": "DN Debatt. ”Här är sakpolitiken som kan få Vänsterpartiet att vända”",
+      "link": "https://www.dn.se/debatt/har-ar-sakpolitiken-som-kan-fa-vansterpartiet-att-vanda/",
+      "description": "DN DEBATT. Med tanke på den tredje statsministeromröstningen på måndag är det bråda dagar om en rödgrön regering trots allt ska bli verklighet. Här är sju reformer som skulle kunna få både Centerpartiet och Vänsterpartiet att lösa upp sina röda linjer, skriver Max Jerneck, chefsekonom på den fackliga tankesmedjan Katalys.",
+      "pubDate": "2026-11-25T19:00:00Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Max Hjelm: Kolla vad som går att göra om man inte är beroende av Sverigedemokraterna!",
+      "link": "https://www.dn.se/ledare/max-hjelm-kolla-vad-som-gar-att-gora-om-man-inte-ar-beroende-av-sverigedemokraterna/",
+      "description": "Migrationsverket stoppar utvisningarna av unga vuxna. Så kan en politik som inte är beroende av Sverigedemokraterna se ut.",
+      "pubDate": "2026-11-25T18:04:39Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Insändare. Ge oss grundlurade C-väljare ett extra val",
+      "link": "https://www.dn.se/insandare/ge-oss-grundlurade-c-valjare-ett-extra-val/",
+      "description": "INSÄNDARE. Vi är många som röstade på Centerpartiet på grund av den röda linjen mot Sverigedemokraterna. Vill C-ledningen trots detta dra partiet högerut och välja Ulf Kristersson (M) som statsminister måste den visa sina väljare respekt och se till att det blir ett extra val, skriver Martin Ku.",
+      "pubDate": "2026-11-25T17:56:32Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Statsvetaren om C:s val: ”Kommer krävas förhandlingar med SD”",
+      "link": "https://www.sverigesradio.se/artikel/9350231",
+      "description": "Centerpartiets ledning verkar ha ett mål med att framställa att partiets vägval nu står mellan en regering ledd av Kristersson (M) eller extraval, det säger Jan Teorell professor i statsvetenskap vid Stockholms universitet. ”Det ska ju vara ett argument att gå mot Kristersson eftersom extraval är ännu värre”, säger han. Om en borgerlig fyrpartiregering ska få igenom sin budget kommer det att krävas förhandlingar med Sverigedemokraterna, enligt statsvetaren.",
+      "pubDate": "2026-11-25T17:54:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
         "SD",
         "C"
       ]
     },
     {
-      "title": "Insändare. Byt ut åderförkalkade sossar mot nya företrädare",
-      "link": "https://www.dn.se/insandare/byt-ut-aderforkalkade-sossar-mot-nya-foretradare/",
-      "description": "INSÄNDARE. Socialdemokraternas har inte sett någonting annat än sin egen storhet på flera decennier. Ge oss nya företrädare som kan stå för ett politiskt projekt, skriver Elisabet Forssell.",
-      "pubDate": "2026-11-25T09:51:40Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "S-profilerna varnar: Djup kris om Andersson misslyckas",
+      "link": "https://www.svt.se/nyheter/inrikes/s-profilerna-varnar-djup-kris-om-andersson-misslyckas",
+      "description": "Om Magdalena Andersson misslyckas med att bilda regering riskerar Socialdemokraterna att kastas in i en djup kris. Det menar S-profilerna Daniel Suhonen och Lars Stjernkvist. – Att vinna ett val och sen tappa det. Det är ju nästan häpnadsväckande, säger Suhonen.",
+      "pubDate": "2026-11-25T17:30:46Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S"
       ]
     },
     {
-      "title": "Motförslag förbereds i C: ”Ledningen försöker kuppa”",
-      "link": "https://www.dn.se/sverige/motforslag-forbereds-i-c-ledningen-forsoker-kuppa/",
-      "description": "C-ledningen ger partiet två val: att gå högerut till Ulf Kristersson – eller stå inför ett riskabelt extra val. Nu förbereder falangen som inte vill samarbeta med SD ett motförslag inför det definitiva beslutet, erfar DN. – Ledningen försöker kuppa igenom det här över våra huvuden, säger en C-källa som var med på onsdagens möte.",
-      "pubDate": "2026-11-25T09:43:06Z",
+      "title": "Kristersson: Samtal pågår mellan gamla allianspartierna",
+      "link": "https://www.sverigesradio.se/artikel/9349950",
+      "description": "Det pågår samtal mellan M, KD, C och L, bekräftade Ulf Kristersson, moderat statsminister i övergångsregeringen under onsdagen: ”Ja, att det sker möten och diskussioner och samtal, till och med kanske förhandlingar.” Den tidigare finansministern Anders Borg anser att ett organiserat budgetsamarbete mellan de forna alliansvännerna och SD är ett villkor för en stark regering, skriver han på sociala medier. Men det håller inte Ulf Kristersson med om: ”Jag ser inte framför mig något sådant fast samarbete alls”.",
+      "pubDate": "2026-11-25T17:18:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kristersson: Samtal förs med allianspartierna",
+      "link": "https://www.dn.se/sverige/kristersson-samtal-fors-med-allianspartierna/",
+      "description": "C, KD, L och M samtalar igen för att hitta gemensamma mål. Men enligt Ulf Kristersson (M) görs inga försök att locka Centern till att rösta grönt. – Jag tycker att alla partier ska ha en saklig grund för sitt ställningstagande, säger M-ledaren.",
+      "pubDate": "2026-11-25T16:22:51Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
@@ -116,117 +209,48 @@
       ]
     },
     {
-      "title": "Insändare. Borgerlig fyrklöver skulle ge SD en genväg till Rosenbad",
-      "link": "https://www.dn.se/insandare/borgerlig-fyrklover-skulle-ge-sd-en-genvag-till-rosenbad/",
-      "description": "INSÄNDARE. En alliansregering i minoritet är dömd att haverera under sina egna motsättningar. Den som röstar fram ett så bräckligt regeringsunderlag stoppar inte SD – man ger dem nycklarna till Rosenbad, skriver Kenneth Nilsson.",
-      "pubDate": "2026-11-25T09:41:26Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Insändare. Miljöpartiet bör ge bort ministerposter till V",
-      "link": "https://www.dn.se/insandare/miljopartiet-bor-ge-bort-ministerposter-till-v/",
-      "description": "INSÄNDARE. En eller två av de tilltänkta gröna regeringstaburetterna bör skänkas bort till Vänsterpartiet. Erbjud Vänsterpartiet posterna som civilminister och jämställdhetsminister så är vi klara, skriver Matz Hasselbom.",
-      "pubDate": "2026-11-25T09:28:32Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V",
-        "MP"
-      ]
-    },
-    {
-      "title": "Borgs varning: Därför borde C göra upp med SD",
-      "link": "https://www.expressen.se/nyheter/politik/borgs-varning-darfor-borde-c-gora-upp-med-sd/",
-      "description": "En ny alliansregering behöver göra upp med SD. Det menar tidigare finansministern Anders Borg (M) – som menar att Centern måste budgetsamarbeta med Åkessons parti. ”Det bör vara ett villkor”, skriver han på Facebook.",
-      "pubDate": "2026-11-25T09:04:09Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Andersson: Borde ha varnat för att rösta på V",
-      "link": "https://www.svt.se/nyheter/inrikes/andersson-borde-ha-varnat-for-att-rosta-pa-v",
-      "description": "S-ledaren Magdalena Andersson ångrar att hon i valrörelsen inte varnade för att en röst på Vänsterpartiet kunde leda till en högerregering. – Det är så det riskerar att bli nu och det hade varit bättre att säga det, säger hon i Morgonstudion.",
-      "pubDate": "2026-11-25T08:18:17Z",
+      "title": "Väljarna: C har skött regeringsbildningen sämst",
+      "link": "https://www.svt.se/nyheter/inrikes/valjarna-c-har-skott-regeringsbildningen-samst",
+      "description": "En ny undersökning från Verian visar att väljarna anser att Centerpartiet är det parti som har agerat sämst under regeringsbildningen. – Det är ingen som hade önskat att det skulle vara så här svårt, säger Martin Ådahl, Centerpartiets ekonomiskpolitiska talesperson, till Politikbyrån.",
+      "pubDate": "2026-11-25T15:49:54Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Susanne Nyström: Nooshi Dadgostars höga spel kan sluta i fiasko",
-      "link": "https://www.dn.se/ledare/susanne-nystrom-nooshi-dadgostars-hoga-spel-kan-sluta-i-fiasko/",
-      "description": "Vid det här laget kunde Vänsterpartiet redan ha haft mer inflytande än det någonsin haft. Det hade varit ett hyggligt sätt att behandla de egna väljarna på. Nu riskerar de i stället att hamna i opposition.",
-      "pubDate": "2026-11-25T08:17:20Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "Magdalena Andersson om bråken med V: ”För dumt”",
-      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-om-braken-med-v-for-dumt/",
-      "description": "Magdalena Andersson är inte imponerad av Vänsterpartiets sätt att förhandla om regeringsfrågan. – Det är för dumt, om man inte är beredd att röra sig en millimeter och försöka lösa det här, säger hon i SVT:s ”Morgonstudion”.",
-      "pubDate": "2026-11-25T07:13:16Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "”C-väljarna står närmre de rödgröna än de aktiva politikerna”",
-      "link": "https://www.sverigesradio.se/artikel/9349559",
-      "description": "Centerpartiet och Socialdemokraterna tappar i Indikators opinionsmätning, medan Moderaterna når nästan samma stöd som S på 25 procent. Efter 73 dagars regeringsbildning får Centerpartiet 4,8 procent och ligger inte statistiskt säkerställt över riksdagsspärren. Vänsterpartiet ligger däremot kring sitt valresultat. ”Det handlar nog om att många av Centerns väljare är besvikna. Deras väljare ligger närmare de rödgröna än vad de aktiva politikerna gör”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach.",
-      "pubDate": "2026-11-25T07:08:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
         "C",
-        "Opinion",
         "Regeringsbildning"
       ]
     },
     {
-      "title": "Ny mätning: Centerpartiet backar – nära spärren",
-      "link": "https://www.expressen.se/nyheter/politik/ny-matning-centerpartiet-backar-nara-sparren/",
-      "description": "Centern och Socialdemokraterna backar i en ny opinionsmätning från Ekot/Indikator Opinion . – Det är klart att människor är besvikna och superfrustrerade, säger S-ledaren Magdalena Andersson i ”Morgonstudion” &nbsp;i SVT. Samtidigt ökar Moderaterna med över fem procentenheter jämfört med valresultatet.",
-      "pubDate": "2026-11-25T04:32:55Z",
+      "title": "Sprickan växer inom C – mobiliserar för ny väg",
+      "link": "https://www.sverigesradio.se/artikel/9350038",
+      "description": "Inom Centerpartiet gror missnöjet och ilskan gentemot partiledningen efter gårdagens stormöte. Flera källor som Ekot pratat med beskriver det som att ledningen nu vill få partiet att välja mellan extraval eller en högerregering. Som en motreaktion till partiledningens svartvita syn, som flera källor beskriver det som, har delar av partiet börjat mobilisera för en tredje väg.",
+      "pubDate": "2026-11-25T15:26:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Dadgostars och Anderssons interna brev efter rödgröna haveriet",
+      "link": "https://www.expressen.se/nyheter/politik/dadgostars-brev-till-v-medlemmarna-hade-verkligen-hoppats/",
+      "description": "De rödgröna regeringsförhandlingarna har havererat. I interna brev till partimedlemmarna ger Magdalena Andersson och Nooshi Dadgostar vitt skilda bilder av vad som gått snett. Medan V-ledaren framhåller partiets kompromissvilja anklagar S-ledaren V för att ha vägrat förhandla.",
+      "pubDate": "2026-11-25T15:09:02Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
       "topics": [
         "S",
-        "M",
-        "C",
-        "Opinion"
+        "V"
       ]
     },
     {
-      "title": "Centerpartiet backar i ny mätning – nära spärren",
-      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=242f93dd-9597-4741-bb91-b2d40b93d7c7",
-      "description": "Nära spärren i ny mätning: ”Straffar sig”",
-      "pubDate": "2026-11-25T03:51:01Z",
+      "title": "Ökat stöd för högersväng i Centerpartiet",
+      "link": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet/",
+      "description": "Centern står inför ett uppslitande vägval –&nbsp;där allt fler börjar luta högerut.&nbsp; Många drar paralleller till tidigare jobbiga processer som partiet tagit sig genom. –&nbsp;Jag tror att fler i Centerpartiet vill vara med och ta ansvar i knepiga lägen än de som inte vill det, säger en C-källa.",
+      "pubDate": "2026-11-25T14:40:53Z",
       "source": "Expressen",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
       "sourceType": "news",
@@ -235,52 +259,35 @@
       ]
     },
     {
-      "title": "Centern tappar i ny mätning: ”Inte förvånande”",
-      "link": "https://www.sverigesradio.se/artikel/9349048",
-      "description": "Stödet för Centern minskar i en ny mätning. Partiet får 4,8 procent, alltså strax över spärren till riksdagen. Socialdemokraterna får sin sämsta siffra sedan 2023. De långdragna regeringsförhandlingarna är förklaringen, enligt Per Oleskog Tryggvason på Indikator Opinion som gjort undersökningen. Liberalerna hamnar strax under spärren på 3,7 procent. Miljöpartiet får 8 procent, Kristdemokraterna får 6,2 procent och SD får 16,7 procent.",
-      "pubDate": "2026-11-25T03:00:00Z",
+      "title": "C-toppen varnar för högersväng: ”Det är naivt”",
+      "link": "https://www.sverigesradio.se/artikel/9350002",
+      "description": "Även Centerpartiets EU-parlamentariker Abir Al-Sahlani ger sig nu in i Centerns infekterade diskussion om vilket håll partiets ska gå i regeringsfrågan. Hon varnar för en lösning där Centerpartiet ingår i en fyrparti-regering ledd av Ulf Kristersson. ”Vi har ju ägnat fyra år av att kritisera Ulf Kristersson och hans regering och Sverigedemokraterna för de dåliga beslut de har fattat och tryckt igenom i riksdagen och i regeringen. Så det försvinner inte bara för att vi sitter i en regering tillsammans med dem där vi är helt beroende av Sverigedemokraterna.”",
+      "pubDate": "2026-11-25T14:28:00Z",
       "source": "Sveriges Radio",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "S",
-        "KD",
-        "L",
-        "MP"
-      ]
-    },
-    {
-      "title": "Uppgifter: C-ledaren pekar ut två möjliga lösningar – på internt möte",
-      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-c-ledaren-pekar-ut-tva-mojliga-losningar-pa-internt-mote",
-      "description": "Centerpartiet samlades under tisdagskvällen för ett extrainsatt möte. Där ska C-ledaren, enligt vad SVT erfar, målat upp två alternativ. Antingen väljer man Ulf Kristersson – eller så går man till extraval – vilket Elisabeth Thand Ringqvist varnar för.",
-      "pubDate": "2026-11-24T22:42:38Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
         "M",
+        "SD",
         "C"
-      ]
-    },
-    {
-      "title": "Andersson: V har inte ”rört sig en centimeter”",
-      "link": "https://www.svt.se/nyheter/inrikes/andersson-v-har-inte-rort-sig-en-millimeter",
-      "description": "Klockan tickar inför statsministeromröstningen om Ulf Kristersson (M). På den rödgröna sidan säger S-ledaren Magdalena Andersson att Vänsterpartiet inte ”rört sig en centimeter”, men Miljöpartiet har inte gett upp hoppet om en rödgrön regering. – Vi kan konstatera att skulle Centerpartiet byta sida, ja då är det ett stort svek mot sina väljare, säger MP:s språkrör Amanda Lind i Aktuellt.",
-      "pubDate": "2026-11-24T22:31:31Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "V",
-        "C",
-        "MP",
-        "Regeringsbildning"
       ]
     }
   ],
   "blogs": [
+    {
+      "title": "Andersson, Kristersson eller extraval?",
+      "link": "https://www.dagensarena.se/innehall/andersson-kristersson-eller-extraval/",
+      "description": "Statsvetaren Jonas Hinnfors intervjuas i Magasinet om regeringsbildningen. Inlägget Andersson, Kristersson eller extraval? dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-25T16:12:32Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Det borde vara ett lätt val för Centern",
       "link": "https://www.dagensarena.se/opinion/det-borde-vara-ett-latt-val-centern/",
@@ -382,6 +389,64 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "Danielsson om SD:s mörka rötter: ”Småpotatis mot kommunismens” | Fredagsintervjun",
+      "link": "https://pod.space/kvartal/danielsson-om-sds-morka-rotter-smapotatis-mot-kommunismens-fredagsintervjun",
+      "description": "Centerpartiets nej till samarbete med Sverigedemokraterna ställs mot partiets syn på Vänsterpartiet. Staffan Danielsson kritiserar att Centern inte drar samma röda linje mot båda partierna. Han kallar Sverigedemokraternas mörka rötter för ”småpotatis mot kommunismens”. Enligt honom legitimerar Centern Vänsterpartiet genom samarbeten i kommuner och regioner. Jörgen Huitfeldt frågar varför Centerpartiet ser mildare på Vänsterpartiets historia. Kan det bero på att Vänsterpartiet anses ha tagit större avstånd från sitt förflutna än Sverigedemokraterna? Danielsson medger att det kan vara så. Samtidigt menar han att samtal för båda partierna närmare mitten.",
+      "pubDate": "2026-11-25T17:00:11Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "338. Allt faller för S",
+      "link": "https://pod.space/politikrummet/338-allt-faller-for-s",
+      "description": "Centerpartiet rör sig mot Ulf Kristersson och de rödgröna kollapsar i interna gräl. Går regeringsbildningen mot ett sensationellt slut på måndag? Och vem tar över när Magdalena Andersson går? I studion: Anette Holmqvist och Viktor Barth-Kron. Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-11-25T13:10:10Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Varför vill S grundlagsskydda public service? | Veckopanelen",
+      "link": "https://pod.space/kvartal/varfor-vill-s-grundlagsskydda-public-service-veckopanelen",
+      "description": "Socialdemokraternas erbjudande till Centerpartiet omfattar ett stärkt skydd för public service. Enligt Aftonbladet finns också ett förslag om grundlagsskydd. Widar Andersson ser utspelet som brunsmetning av Moderaterna för samarbetet med SD. Ivar Arpi föreslår ironiskt att ”grundlagsskydda DN:s ledarsida också när vi ändå håller på”. Maria Wetterstrand är tveksam till att ändra grundlagen i ett instabilt politiskt läge. Hon undrar om skyddet ska gälla public services existens, utformning eller finansiering. Arpi kritiserar Magdalena Anderssons bemötande av journalister och menar att högerpolitikers mediekritik bedöms annorlunda. Han tolkar förslaget som en signal till Centerns väljare om gemensamma värderingar och försvar av demokratin.",
+      "pubDate": "2026-11-25T13:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Megapressen: ”C är Liberalerna på speed”",
+      "link": "https://pod.space/alskadepolitik/megapressen-c-ar-liberalerna-pa-speed",
+      "description": "Har Magdalena Andersson gett upp – och vad ska Centerpartiet göra? Det drar ihop sig till statsministeromröstning nummer tre.",
+      "pubDate": "2026-11-25T12:21:25Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "S",
+        "C",
+        "L",
+        "Regeringsbildning"
+      ]
+    },
     {
       "title": "Inläst: Därför JO-anmälde jag Mohamed Alis medborgarskap",
       "link": "https://pod.space/kvartal/inlast-darfor-jo-anmalde-jag-mohamed-alis-medborgarskap",
@@ -521,60 +586,6 @@
       "topics": [
         "SD",
         "L"
-      ]
-    },
-    {
-      "title": "Åkesson öppnar för Socialdemokraterna | Veckopanelen",
-      "link": "https://pod.space/kvartal/akesson-oppnar-for-socialdemokraterna-veckopanelen",
-      "description": "Jimmie Åkesson markerar i Aktuellt att han kan samarbeta med Socialdemokraterna och att borgerlig skattepolitik inte lockar: inom borgerligheten är man ”besjälad av låga skatter för höga inkomster”. Carl Eos ser ett försök att göra Sverigedemokraterna till ett eget block, och tror att partiet går till Socialdemokraterna med till exempel tandvårdsreformen om det blir en alliansregering. Harriet Wallberg menar att Åkesson väljer opposition för att inte tappa mandat och därmed drömmen om statsministerposten 2030. Linn Svansbo säger att ett förslag som har majoritet och råkar vara det egna vallöftet, det röstar man på. Elisabeth Svantesson säger i SVT att hon efter fyra år vet vad som är viktigt för Sverigedemokraterna och har varit lyhörd för det. Svansbo invänder att om Elisabeth Thand Ringqvist går till Alliansen blir Sverigedemokraterna vågmästare i varje riksdagsomröstning i fyra år – på många sätt mer makt än i en regering. Carl Eos kallar de röda linjerna fåniga och hånfulla mot svenska folket. Kan Centerpartiet acceptera att SD avgör varje fråga? Och vilka reformer är det Svantesson ska vara lyhörd för?",
-      "pubDate": "2026-11-19T13:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M",
-        "SD",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "336. Buschs blågröna regering",
-      "link": "https://pod.space/politikrummet/336-buschs-blagrona-regering",
-      "description": "Talmannen lovar en ny regering före jul – eller besked om extraval. Klarar Centerpartiet att välja bland paketen? I riksdagsstudion: Filippa Rogvall, Max V Karlsson och Anette Holmqvist Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-11-19T12:29:29Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "C",
-        "KD"
-      ]
-    },
-    {
-      "title": "Vittnesmålen om Ungsvenskarna | Veckopanelen",
-      "link": "https://pod.space/kvartal/vittnesmalen-om-ungsvenskarna-veckopanelen",
-      "description": "I DN:s granskning av Sverigedemokraternas ungdomsförbund vittnar tidigare medlemmar öppet och anonymt om en sunkig kvinnosyn, hårt supande och unga tjejer som riskerar att utnyttjas av äldre killar. Riksdagsledamoten Rasmus Giertz, som pekas ut som en av centralfigurerna, lämnar sin post och förnekar att han gjort något dåligt. Carl Eos hade velat se Ungsvenskarnas ordförande vara rejält mycket tuffare mot killarna i den egna organisationen. Linn Svansbo menar att förbundet skiljer ut sig, och går längre: det är sanktionerat, ”en sunkig kvinnosyn från hela partiet”. Harriet Wallberg får déjà vu från Svenska Akademien och kulturprofilen 2017 – alla visste, och tjejerna varnade varandra. Eftersom Ungsvenskarna är toppstyrt och ordföranden inte väljs som i andra förbund är det Jimmie Åkesson som måste städa upp och slå fast nolltolerans, säger hon. Carl Eos delar inte uppfattningen att konservativa rörelser måste ha en dålig kvinnosyn, och påminner om att det finns problem överallt där det finns män och alkohol. Gör toppstyrningen skandalen värre? Och är den extra besvärande för ett parti som talar om svenska värderingar och muslimers kvinnosyn?",
-      "pubDate": "2026-11-18T15:00:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "SD"
-      ]
-    },
-    {
-      "title": "Får rödgröna eld i baken av Kristerssons besked?",
-      "link": "https://pod.space/alskadepolitik/far-rodgrona-eld-i-baken-av-kristerssons-besked",
-      "description": "Moderatledaren ger inte upp drömmen om regeringsmakten och vill ha mer tid på sig för att locka till sig Centerpartiet. Och talmannen lovar en jul utan politiska förhandlingar om regeringsmakten. Kan dagens besked ge de rödgröna eld i baken?",
-      "pubDate": "2026-11-17T16:47:01Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "M",
-        "C"
       ]
     }
   ]
