@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T16:35:53.238855Z",
+  "updated_at": "2026-11-25T01:10:14.282712Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,6 +79,152 @@
   ],
   "news": [
     {
+      "title": "Uppgifter: C-ledaren pekar ut två möjliga lösningar – på internt möte",
+      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-c-ledaren-pekar-ut-tva-mojliga-losningar-pa-internt-mote",
+      "description": "Centerpartiet samlades under tisdagskvällen för ett extrainsatt möte. Där ska C-ledaren, enligt vad SVT erfar, målat upp två alternativ. Antingen väljer man Ulf Kristersson – eller så går man till extraval – vilket Elisabeth Thand Ringqvist varnar för.",
+      "pubDate": "2026-11-24T22:42:38Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Thand Ringqvists ord på interna C-mötet: ”Tar stryk”",
+      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvists-ord-pa-interna-c-motet-tar-stryk/",
+      "description": "Centerpartiets ledning ser bara två vägar framåt. Antingen tar man plats i en högerregering – eller så blir det extraval där C får skulden för kaoset i regeringsbildningsprocessen. På internmötet ska Elisabeth Thand Ringqvist ha sagt att C nu ”tar stryk” av att partiet är ”bråkiga”, uppger personer som var med på mötet för Expressen.",
+      "pubDate": "2026-11-24T22:39:38Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Andersson: V har inte ”rört sig en centimeter”",
+      "link": "https://www.svt.se/nyheter/inrikes/andersson-v-har-inte-rort-sig-en-millimeter",
+      "description": "Klockan tickar inför statsministeromröstningen om Ulf Kristersson (M). På den rödgröna sidan säger S-ledaren Magdalena Andersson att Vänsterpartiet inte ”rört sig en centimeter”, men Miljöpartiet har inte gett upp hoppet om en rödgrön regering. – Vi kan konstatera att skulle Centerpartiet byta sida, ja då är det ett stort svek mot sina väljare, säger MP:s språkrör Amanda Lind i Aktuellt.",
+      "pubDate": "2026-11-24T22:31:31Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "V",
+        "C",
+        "MP",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C-toppens lösning på regeringsfrågan: ”Konstruktiv opposition”",
+      "link": "https://www.sverigesradio.se/artikel/9349491",
+      "description": "Centerpartiet är just nu splittrat i vägvalen om man ska samarbeta med höger eller vänstersidan och i sin tur i vilken mån ytterkantspartierna V eller SD ska kunna få inflytande. Kommunalrådet Thomas Selin (C) i Huddinge föreslår en bred mittenregering eller konstruktiv opposition. ”Jag ser att det ändå är det bästa alternativet där Centerpartiet som mittenalternativ kan bidra med att få igenom politik vi tycker är bra och stoppa politik vi tycker är dålig” säger Selin",
+      "pubDate": "2026-11-24T22:21:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Magdalena Andersson (S) rasar mot V: ”Inte rört sig en millimeter”",
+      "link": "https://www.expressen.se/nyheter/politik/magdalena-andersson-s-rasar-mot-v-inte-rort-sig-en-millimeter/",
+      "description": "S-ledaren Magdalena Andersson går till hård attack mot V i ”Aktuellt” på tisdagskvällen.&nbsp; – V har inte rört sig en millimeter under de här veckorna.&nbsp; MP:s språkrör har dock inte gett upp hoppet om en rödgrön regering.&nbsp; – Vi har lagt fram förslag som vi vill att V ska komma med motkrav på och börja förhandla om, säger Amanda Lind.&nbsp;",
+      "pubDate": "2026-11-24T21:21:28Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "MP"
+      ]
+    },
+    {
+      "title": "24 november: Missa inte dagens nyheter",
+      "link": "https://www.dn.se/sverige/24-november-missa-inte-dagens-nyheter/",
+      "description": "Kristersson prövas som statsminister, S nära andraplatsen och milslånga köer i Iran – här är dagens nyheter.",
+      "pubDate": "2026-11-24T20:38:06Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Tomas Ramberg: Åkesson kan bli riksdagens kung",
+      "link": "https://www.dn.se/sverige/tomas-ramberg-akesson-kan-bli-riksdagens-kung/",
+      "description": "På valnatten framstod Sverigedemokraterna som valets stora förlorare. Nu har Jimmie Åkesson chansen att vända nederlaget till framgång. Om Centern släpper fram en Kristersson-regering blir Åkesson riksdagens kung.",
+      "pubDate": "2026-11-24T18:15:29Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD"
+      ]
+    },
+    {
+      "title": "Här är M:s totalpaket till C: ”Hade högre förväntningar”",
+      "link": "https://www.svt.se/nyheter/inrikes/har-ar-ms-totalpaket-till-c-hade-hogre-forvantningar",
+      "description": "Centerpartiet går nu in i nya regeringssamtal med Moderaterna. SVT har tagit del av M:s totalpaket som ligger till grund för samtalen. – Jag hade ärligt talat högre förväntningar, säger en C-källa.",
+      "pubDate": "2026-11-24T17:46:39Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Upprörda känslor i C efter svängen: ”Ledsna och arga”",
+      "link": "https://www.expressen.se/nyheter/politik/upprorda-kanslor-i-c-efter-svangen-ledsna-och-arga/",
+      "description": "Sent på måndagen meddelade Elisabeth Thand Ringqvist att C återupptar samtalen med de borgerliga partierna.&nbsp; Men partiet är djupt splittrat i vägvalet och många är mycket upprörda, erfar Expressen. – Folk är ledsna, uppgivna, arga och känner sig maktlösa, säger en C-källa.&nbsp;",
+      "pubDate": "2026-11-24T17:13:39Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Ledare: Centerpartiet riskerar allt om man går åt höger",
+      "link": "https://www.dn.se/ledare/centerpartiet-riskerar-allt-om-man-gar-at-hoger/",
+      "description": "Det kan låta som en behaglig lösning med en ”borgerlig mittenregering”. Men Ulf Kristerssons projekt har aldrig varit ett mittensamarbete – utan att inkorporera SD i högern.",
+      "pubDate": "2026-11-24T16:57:38Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Ulf Kristersson (M) ska prövas som statsminister",
+      "link": "https://www.sverigesradio.se/artikel/9349374",
+      "description": "Riksdagen röstar på måndag om Ulf Kristersson som statsminister, det meddelar talman Andreas Norlén. Varken Kristersson eller Magdalena Andersson har presenterat ett färdigt regeringsunderlag utan det är istället Kristerssons avslutade sonderingsuppdrag som ligger bakom talmannens val. Det blir den tredje av maximalt fyra statsministeromröstningar.",
+      "pubDate": "2026-11-24T16:53:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
       "title": "Gissén: Omröstningen hänger på Centerpartiet",
       "link": "https://www.sverigesradio.se/artikel/9349359",
       "description": "Ingen partiledare har några invändningar mot att Ulf Kristersson prövas i en statsministeromröstning, men hur den omröstningen kommer att gå hänger på Centerpartiet, säger Ekots inrikespolitiska kommentator Helena Gissén. ”De har nu en intern process nu, där försöker komma fram till hur de ska ställa sig”, säger Gissén om Centerpartiet. Statministeromröstningen äger rum måndagen den 30 november.",
@@ -93,27 +239,15 @@
       ]
     },
     {
-      "title": "Kristersson prövas som statsminister nästa vecka",
+      "title": "Talmannen: Kristersson prövas som statsminister på måndag",
       "link": "https://www.dn.se/sverige/kristersson-provas-som-statsminister-nasta-vecka/",
-      "description": "Ulf Kristersson (M) kommer att prövas i en statsministeromröstning på måndag nästa vecka, meddelar talmannen Andreas Norlén.",
+      "description": "Ulf Kristersson (M) kommer att prövas i en statsministeromröstning nästa måndag meddelar talman Andreas Norlén. – Alternativet hade varit Magdalena Andersson om hon hade haft en färdig regeringslösning, säger han.",
       "pubDate": "2026-11-24T16:16:00Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson prövas som statsminister på måndag",
-      "link": "https://www.expressen.se/nyheter/politik/kristersson-provas-som-statsminister-pa-mandag/",
-      "description": "Talmannen Andreas Norlén föreslår Ulf Kristersson som statsminister. En omröstning om M-ledaren kommer att hållas i riksdagen på måndag nästa vecka. Samtidigt bedömer Norlén risken för ett extraval som ”påtaglig” – och har redan kontaktat Valmyndigheten.",
-      "pubDate": "2026-11-24T16:13:02Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
+        "S",
         "M",
         "Regeringsbildning"
       ]
@@ -121,13 +255,14 @@
     {
       "title": "Talmannen: Kristersson prövas som statsminister på måndag",
       "link": "https://www.svt.se/nyheter/inrikes/talmannen-kristersson-provas-som-statsminister-pa-mandag",
-      "description": "Moderatledaren Ulf Kristersson kommer att prövas som statsminister på måndag nästa vecka, meddelar talman Andreas Norlén.",
+      "description": "Moderaternas partiledare Ulf Kristersson kommer att prövas som statsminister på måndag nästa vecka. Det meddelar talman Andreas Norlén. – Han har varit noga med att understryka att han inte vet i dag hur Centerpartiet kommer ställa sig, säger Norlén.",
       "pubDate": "2026-11-24T15:59:56Z",
       "source": "SVT Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
+        "C",
         "Regeringsbildning"
       ]
     },
@@ -145,132 +280,6 @@
         "KD",
         "L",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "S vädjan till V – pekar på tonårsutvisningarna",
-      "link": "https://www.expressen.se/nyheter/politik/s-vadjan-till-v--pekar-pa-tonarsutvisningarna/",
-      "description": "Tonårsutvisningarna har enat de rödgröna partierna. Nu hoppas Socialdemokraterna att ungdomarnas vädjan kan få Vänsterpartiet att tänka om. – Det handlar om deras liv, då blir ministerposter väldigt litet i det, säger S-toppen Lawen Redar.",
-      "pubDate": "2026-11-24T14:44:48Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Tidigare V-toppen om samarbetet med S: ”Göran Persson hånade mig”",
-      "link": "https://www.svt.se/nyheter/inrikes/tidigare-v-toppen-om-samarbetet-med-s-goran-persson-hanade-mig",
-      "description": "Vänsterpartiet har blivit erbjudna tjänstemän i regeringskansliet och statssekreterare men tydligt sagt nej. Tidigare mandatperioder som stödparti till S har gett känslan av att man blivit lurad. – Man kände sig som en gäst, en främling, säger Johan Lönnroth, före detta vice partiledare i V.",
-      "pubDate": "2026-11-24T14:19:26Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "V"
-      ]
-    },
-    {
-      "title": "C-kommunalrådet varnar: ”Vi kommer gå samma öde till mötes som Liberalerna”",
-      "link": "https://www.dn.se/sverige/c-kommunalradet-varnar-vi-kommer-ga-samma-ode-till-motes-som-liberalerna/",
-      "description": "Förhandla med den rödgröna sidan. Om det inte går borde Centerpartiet förhandla om ett S-C-M-styre. Om det inte går borde Centerpartiet gå i opposition. Det säger Tomas Selin (C), kommunalråd i Huddinge.",
-      "pubDate": "2026-11-24T14:11:21Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "L"
-      ]
-    },
-    {
-      "title": "”Centerpartiet behöver välja vilken svekdebatt som är värst”",
-      "link": "https://www.svt.se/nyheter/inrikes/centerpartiet-behover-valja-vilken-svekdebatt-som-ar-varst",
-      "description": "Nu ligger allt fokus på Centerpartiet och i slutändan måste de välja vilken svekdebatt som skadar dem minst.",
-      "pubDate": "2026-11-24T13:56:18Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Ordkrig mellan S och V: ”Långlånglånglång rad förslag”",
-      "link": "https://www.sverigesradio.se/artikel/9349070",
-      "description": "Efter över 70 dagar utan att regeringsfrågan är avgjord haglar anklagelserna på den rödgröna sidan om vems fel det är att förhandlingarna spruckit. ”Vänsterpartiet har inte kommit med ett enda konkret förslag”, säger Magdalena Andersson. ”Vi har vänt ut och in på oss själva och kommit med en långlånglånglång rad förslag”, kontrar Nooshi Dadgostar.",
-      "pubDate": "2026-11-24T13:43:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Utesluter inte SD-samarbete i intervju: ”Vet jag inte ännu”",
-      "link": "https://www.svt.se/nyheter/inrikes/utesluter-inte-sd-samarbete-i-intervju-vet-jag-inte-annu",
-      "description": "I en SVT-intervju utesluter C-ledaren Elisabeth Thand Ringqvist inte ett samarbete med SD. – Det vet jag inte ännu. Vi fattar beslut inom partiet, säger hon. Kort efter intervjun hör C-ledaren av sig på nytt.",
-      "pubDate": "2026-11-24T13:31:27Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Insändare. Nu bör Magdalena Anderssons ledarskap ifrågasättas",
-      "link": "https://www.dn.se/insandare/nu-bor-magdalena-anderssons-ledarskap-ifragasattas/",
-      "description": "INSÄNDARE. Vi som röstade för en rödgrön förändring riskerar nu ytterligare fyra år med högerstyre. Om förhandlingarna med V, MP och C kollapsar bör Magdalena Andersson och de andra ansvariga i S-ledningen fråga sig om de fortfarande är rätt personer att leda partiet, skriver den tidigare S-riksdagsledamoten Juan Fonseca,",
-      "pubDate": "2026-11-24T13:09:28Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "S tappar – M snart ikapp",
-      "link": "https://www.expressen.se/nyheter/politik/s-tappar-m-snart-ikapp/",
-      "description": "Moderaterna får sin högsta notering på åtta år i DN/Ipsos opinionsundersökning. Samtidigt fortsätter Socialdemokraterna att tappa – tillsammans med Centerpartiet. – Centerpartiet har satt sig i en väldigt svår sits, säger Nicklas Källebring vid Ipsos till DN.",
-      "pubDate": "2026-11-24T13:03:57Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Rödgröna kraschen – skyller på varandra",
-      "link": "https://www.expressen.se/nyheter/politik/rodgrona-kraschen-s-c-mp-och-v-skyller-pa-varandra/",
-      "description": "De rödgröna förhandlingarna har kraschat. Nu skyller partierna på varandra. Vänsterpartiet ville inte förhandla, enligt S-ledaren Magdalena Andersson. – Hon visade kanske inte det ledarskap som behövs innan valet, svarar V-ledaren.",
-      "pubDate": "2026-11-24T12:48:26Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Bodströms attack mot Gabrielsson",
-      "link": "https://www.expressen.se/nyheter/politik/bodstroms-attack-mot-gabrielsson/",
-      "description": "Ida Gabrielsson har gjort mer för en ny Tidöregering än Jimmie Åkesson.&nbsp; Det anser tidigare S-ministern Thomas Bodström.&nbsp; ”Var politiken inte viktigare än så?” skriver han i sociala medier.",
-      "pubDate": "2026-11-24T12:44:59Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "SD"
       ]
     }
   ],
