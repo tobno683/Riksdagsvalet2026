@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:43:02.361785Z",
+  "updated_at": "2026-11-26T02:31:29.839565Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,95 @@
     }
   ],
   "news": [
+    {
+      "title": "MP-språkrören sågar Kristerssons budgetplan: ”Kaos”",
+      "link": "https://www.expressen.se/nyheter/politik/mp-sprakroren-sagar-kristerssons-budgetplan-kaos/",
+      "description": "Den tidigare finansministern Anders Borg menar att en borgerlig minoritetsregering behöver ha ett organiserat budgetsamarbete med SD.&nbsp; Miljöpartiets språkrör Amanda Lind och Daniel Helldén ger honom rätt. Moderaternas öppningar för att bryta ut olika budgetdelar och förhandla med olika partier skulle ”leda till kaos i statsfinanserna”, skriver de.&nbsp;",
+      "pubDate": "2026-11-25T22:56:46Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "MP"
+      ]
+    },
+    {
+      "title": "C-företrädare öppnar för Kristersson: ”Har nått vägs ände”",
+      "link": "https://www.sverigesradio.se/artikel/9350332",
+      "description": "41 lokala centerpartister vill att C nu prövar Ulf Kristerssons regeringsalternativ. I en debattartikel i Expressen skriver de att S-spåret kört fast på grund av Vänsterpartiet. ”På grund av Vänsterpartiets inställning och ovilja att genomföra konkreta förhandlingar så har det här alternativet helt enkelt nått vägs ände”, säger Fredrik Jarl, kommunstyrelsens ordförande i Gagnef. Debattartikeln kommer bara en dag efter att 35 andra centerpartister skrev på Aftonbladet Debatt att en borgerlig regering som är beroende av Sverigedemokraterna vore ett svek mot Centerpartiets väljare.",
+      "pubDate": "2026-11-25T22:36:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Splittring inom C inför öppen ridå",
+      "link": "https://www.dn.se/sverige/splittring-inom-c-infor-oppen-rida/",
+      "description": "Centerpartiet borde gå i opposition, pröva M-ledarens alternativ och ”hålla linjen”. Det är beskeden från olika företrädare och grupper inom partiet på onsdagen. Splittringen i C syns nu inför öppen ridå.",
+      "pubDate": "2026-11-25T21:17:15Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Tre S-profiler: De rödgröna kan knipa regeringsmakten",
+      "link": "https://www.expressen.se/nyheter/politik/tre-s-profiler-de-rodgrona-kan-knipa-regeringsmakten-/",
+      "description": "De rödgröna partierna blev störst i valet. &nbsp; Men på måndag kan M-ledaren Ulf Kristersson bli statsminister.&nbsp; Tre S-profiler tror dock inte att det är helt kört ännu.&nbsp; C är splittrat – och V har öppnat för att backa från kravet på ministerposter.&nbsp; – Fokus nu måste vara att lösa det här, säger Daniel Suhonen.&nbsp;",
+      "pubDate": "2026-11-25T21:16:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Kuppen på S-högkvarteret: ”Svik inte era väljare”",
+      "link": "https://www.sverigesradio.se/artikel/9350314",
+      "description": "Den som gick förbi S högkvarter på Sveavägen 68 i Stockholm under onsdagen möttes av budskapet ”Svik inte era väljare Centerpartiet” på några av byggnadens rutor, efter beskeden att Centerpartiet nu förhandlar högerut. Lokalerna där budskapet är uppklistrat tillhör SSU, enligt Aftonbladet . Efter efter valdagen sattes lappar upp på Sveavägen 68. Då var budskapet: ”Tidö åker ut. Åker ut. Tidö åker ut. Shalalalalalala”.",
+      "pubDate": "2026-11-25T20:56:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Kuppen Socialdemokraternas högkvarter",
+      "link": "https://www.expressen.se/nyheter/expressen-direkt/?post=2c8d4201-684d-4ff9-8808-c2e35d7d7aa2",
+      "description": "Draget när C svänger högerut",
+      "pubDate": "2026-11-25T20:10:01Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "S-veteraner: Andersson kan få avgå om rödgröna misslyckas",
+      "link": "https://www.dn.se/sverige/s-veteraner-andersson-kan-fa-avga-om-rodgrona-misslyckas/",
+      "description": "Än så länge har S-ledaren stöd i partiet, enligt tidigare S-toppar DN talat med. Men om regeringsförhandlingarna slutar med en borgerlig regering kommer det att utlösa en kritisk debatt – som riktas mot Magdalena Andersson. – På kort sikt kommer det att vara en allvarlig kris för vårt parti, säger Lars Stjernkvist.",
+      "pubDate": "2026-11-25T19:55:09Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "41 centerpartister öppnar för Kristersson",
       "link": "https://www.expressen.se/nyheter/politik/41-centerpartister-oppnar-for-kristersson/",
@@ -182,98 +271,33 @@
       "topics": [
         "S"
       ]
-    },
-    {
-      "title": "Kristersson: Samtal pågår mellan gamla allianspartierna",
-      "link": "https://www.sverigesradio.se/artikel/9349950",
-      "description": "Det pågår samtal mellan M, KD, C och L, bekräftade Ulf Kristersson, moderat statsminister i övergångsregeringen under onsdagen: ”Ja, att det sker möten och diskussioner och samtal, till och med kanske förhandlingar.” Den tidigare finansministern Anders Borg anser att ett organiserat budgetsamarbete mellan de forna alliansvännerna och SD är ett villkor för en stark regering, skriver han på sociala medier. Men det håller inte Ulf Kristersson med om: ”Jag ser inte framför mig något sådant fast samarbete alls”.",
-      "pubDate": "2026-11-25T17:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson: Samtal förs med allianspartierna",
-      "link": "https://www.dn.se/sverige/kristersson-samtal-fors-med-allianspartierna/",
-      "description": "C, KD, L och M samtalar igen för att hitta gemensamma mål. Men enligt Ulf Kristersson (M) görs inga försök att locka Centern till att rösta grönt. – Jag tycker att alla partier ska ha en saklig grund för sitt ställningstagande, säger M-ledaren.",
-      "pubDate": "2026-11-25T16:22:51Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Väljarna: C har skött regeringsbildningen sämst",
-      "link": "https://www.svt.se/nyheter/inrikes/valjarna-c-har-skott-regeringsbildningen-samst",
-      "description": "En ny undersökning från Verian visar att väljarna anser att Centerpartiet är det parti som har agerat sämst under regeringsbildningen. – Det är ingen som hade önskat att det skulle vara så här svårt, säger Martin Ådahl, Centerpartiets ekonomiskpolitiska talesperson, till Politikbyrån.",
-      "pubDate": "2026-11-25T15:49:54Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Sprickan växer inom C – mobiliserar för ny väg",
-      "link": "https://www.sverigesradio.se/artikel/9350038",
-      "description": "Inom Centerpartiet gror missnöjet och ilskan gentemot partiledningen efter gårdagens stormöte. Flera källor som Ekot pratat med beskriver det som att ledningen nu vill få partiet att välja mellan extraval eller en högerregering. Som en motreaktion till partiledningens svartvita syn, som flera källor beskriver det som, har delar av partiet börjat mobilisera för en tredje väg.",
-      "pubDate": "2026-11-25T15:26:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Dadgostars och Anderssons interna brev efter rödgröna haveriet",
-      "link": "https://www.expressen.se/nyheter/politik/dadgostars-brev-till-v-medlemmarna-hade-verkligen-hoppats/",
-      "description": "De rödgröna regeringsförhandlingarna har havererat. I interna brev till partimedlemmarna ger Magdalena Andersson och Nooshi Dadgostar vitt skilda bilder av vad som gått snett. Medan V-ledaren framhåller partiets kompromissvilja anklagar S-ledaren V för att ha vägrat förhandla.",
-      "pubDate": "2026-11-25T15:09:02Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Ökat stöd för högersväng i Centerpartiet",
-      "link": "https://www.expressen.se/nyheter/politik/okat-stod-for-hogersvang-i-centerpartiet/",
-      "description": "Centern står inför ett uppslitande vägval –&nbsp;där allt fler börjar luta högerut.&nbsp; Många drar paralleller till tidigare jobbiga processer som partiet tagit sig genom. –&nbsp;Jag tror att fler i Centerpartiet vill vara med och ta ansvar i knepiga lägen än de som inte vill det, säger en C-källa.",
-      "pubDate": "2026-11-25T14:40:53Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "C-toppen varnar för högersväng: ”Det är naivt”",
-      "link": "https://www.sverigesradio.se/artikel/9350002",
-      "description": "Även Centerpartiets EU-parlamentariker Abir Al-Sahlani ger sig nu in i Centerns infekterade diskussion om vilket håll partiets ska gå i regeringsfrågan. Hon varnar för en lösning där Centerpartiet ingår i en fyrparti-regering ledd av Ulf Kristersson. ”Vi har ju ägnat fyra år av att kritisera Ulf Kristersson och hans regering och Sverigedemokraterna för de dåliga beslut de har fattat och tryckt igenom i riksdagen och i regeringen. Så det försvinner inte bara för att vi sitter i en regering tillsammans med dem där vi är helt beroende av Sverigedemokraterna.”",
-      "pubDate": "2026-11-25T14:28:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "SD",
-        "C"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Ett lågvattenmärke i den nordiska socialdemokratins historia",
+      "link": "https://www.dagensarena.se/opinion/ett-lagvattenmarke-den-nordiska-socialdemokratins-historia/",
+      "description": "I Mette Frederiksens Danmark tenderar invandringsfrågan hela tiden att radikaliseras. Inlägget Ett lågvattenmärke i den nordiska socialdemokratins historia dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-26T00:31:33Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Vad håller Vänsterpartiet egentligen på med?",
+      "link": "https://www.dagensarena.se/opinion/vad-haller-vansterpartiet-egentligen-pa-med/",
+      "description": "Än finns möjlighet att få en rödgrön regering. Inlägget Vad håller Vänsterpartiet egentligen på med? dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-26T00:17:51Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "V"
+      ]
+    },
     {
       "title": "Andersson, Kristersson eller extraval?",
       "link": "https://www.dagensarena.se/innehall/andersson-kristersson-eller-extraval/",
@@ -326,18 +350,6 @@
       ]
     },
     {
-      "title": "Vänsterpartiet har fått konkreta bud om migrationspolitiken",
-      "link": "https://www.dagensarena.se/innehall/vansterpartiet-har-fatt-konkreta-bud-om-migrationspolitiken/",
-      "description": "Här är buden som Vänsterpartiet fått. Inlägget Vänsterpartiet har fått konkreta bud om migrationspolitiken dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-23T11:31:58Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "V"
-      ]
-    },
-    {
       "title": "Vänstern underordnar sig de US-amerikanska storföretagen",
       "link": "https://blog.zaramis.se/2026/11/23/vanstern-underordnar-sig-de-us-amerikanska-storforetagen/",
       "description": "Vänsterpartiet kommunicerar huvudsakligen via det högerextrema sociala mediet X som ägs av den fascistiske oligarken och techbrorsan Elon Musk. Genom att använd X så stöder Vänsterpartiet Elon Musks ekonomiska och politiska intressen. Läs mer … Inlägget Vänstern underordnar sig de US-amerikanska storföretagen dök först upp på Svenssons Nyheter .",
@@ -347,19 +359,6 @@
       "sourceType": "blog",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Blir det en ny Kristerssonregering nu?",
-      "link": "https://www.dagensarena.se/innehall/blir-det-en-ny-kristerssonregering-nu/",
-      "description": "Tisdagsmagasinet om slutbud i regeringsbildningen. Inlägget Blir det en ny Kristerssonregering nu? dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-23T10:30:05Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "M",
-        "Regeringsbildning"
       ]
     },
     {
