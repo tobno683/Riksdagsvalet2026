@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T20:37:59.705977Z",
+  "updated_at": "2026-11-27T03:20:09.780201Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -78,6 +78,75 @@
     }
   ],
   "news": [
+    {
+      "title": "C-sprickan – ”Riskerar att bryta isär partiet”",
+      "link": "https://www.sverigesradio.se/artikel/9351197",
+      "description": "Det kommer hård kritik inifrån Centerpartiet mot ledningens nya linje att partiet bör ingå i en regering ledd av Ulf Kristersson. ”Det går ju rakt emot det som vi lovade väljarna i valrörelsen, att SD inte ska få inflytande. Det här riskerar att bryta isär partiet”, säger Jonas Naddebo, distriktsordförande för Centerpartiet i Stockholms stad. En splittrad partistyrelse och riksdagsgrupp i Centern vill att partiet ska rösta grönt för Ulf Kristersson som statsminister på måndag. Partiets förtroenderådet ska fatta beslutet på söndag.",
+      "pubDate": "2026-11-27T03:01:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Efter C:s ”ödesmöte” – det här händer nu",
+      "link": "https://www.svt.se/nyheter/inrikes/efter-cs-odesmote-det-har-hander-nu",
+      "description": "Efter ett extrainsatt möte har Centerpartiets ledning beslutat att man vill rösta igenom Ulf Kristersson (M) till statsminister. Nu återstår de här stegen C måste ta om Sverige ska få en regering på måndag.",
+      "pubDate": "2026-11-26T23:50:31Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Furtenbach om C:s besked: ”En kris för Socialdemokraterna”",
+      "link": "https://www.sverigesradio.se/artikel/9351198",
+      "description": "Centerpartiets styrelse vill ingå i en borgerlig regering och vill att partiet nu på måndag röstar fram Ulf Kristersson som statsminister. Det beskedet gav partiledaren Elisabeth Thand Ringqvist under torsdagen efter ett flera timmar långt möte med partistyrelsen och riksdagsgruppen. ”Det är en kris för Socialdemokraterna”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach.",
+      "pubDate": "2026-11-26T22:35:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "C-toppens tårar efter beskedet: ”Hur är det möjligt”",
+      "link": "https://www.expressen.se/nyheter/politik/c-toppens-tarar-efter-beskedet-hur-ar-det-mojligt/",
+      "description": "Faluns oppositionsråd Fredrik Adolphson reagerade starkt på beskedet att Centerpartiet vill rösta ja till Ulf Kristersson som statsminister. Se klippet på Adolphsons tårar nedan:",
+      "pubDate": "2026-11-26T21:28:07Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Anna Lasses (C): ”Arg och väldigt, väldigt ledsen”",
+      "link": "https://www.expressen.se/nyheter/politik/anna-lasses-c-arg-och-valdigt-valdigt-ledsen/",
+      "description": "C-ledamoten Anna Lasses kommer att rösta rött till Ulf Kristersson på måndag. Hon tror att ungefär en tredjedel av riksdagsgruppen kan komma att göra detsamma. – Jag är arg och väldigt, väldigt ledsen, säger hon i SVT:s ”Aktuellt”.",
+      "pubDate": "2026-11-26T20:54:44Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M"
+      ]
+    },
     {
       "title": "C i Stockholm sågar beslutet – kommer inte rösta ja",
       "link": "https://www.sverigesradio.se/artikel/9351171",
@@ -204,74 +273,21 @@
         "SD",
         "C"
       ]
-    },
-    {
-      "title": "”Att rucka på SD-linjen blev det minst dåliga alternativet”",
-      "link": "https://www.svt.se/nyheter/inrikes/att-rucka-pa-sd-linjen-blev-det-minst-daliga-alternativet",
-      "description": "På rekordfart gör nu Centerpartiet en helomvändning om SD som få trodde var möjlig före valet. Partiet är djupt splittrat och riskerar både avhopp och väljartapp. Ändå kan det visa sig mindre smärtsamt att dra av plåstret snabbt. Men det förutsätter en rejäl dos centerpolitik och ett så litet beroende av SD som möjligt.",
-      "pubDate": "2026-11-26T18:00:15Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "C-ledningen säger ja till Ulf Kristersson",
-      "link": "https://www.svt.se/nyheter/inrikes/c-ledningen-sager-ja-till-ulf-kristersson",
-      "description": "Centerpartiets ledning vill rösta ja till Ulf Kristersson (M) på måndag och ingå i en minoritetsregering. Det meddelar partiledaren Elisabeth Thand Ringqvist under en pressträff. – Vi kommer att ta oss igenom detta tillsammans, säger hon.",
-      "pubDate": "2026-11-26T17:51:21Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Furtenbach: ”Svarade inte på hur det ska gå till”",
-      "link": "https://www.sverigesradio.se/artikel/9351100",
-      "description": "Centerledaren Elisabeth Thand Ringqvist gav under en pressträff besked att partiets riksdagsgrupp och partistyrelse vill släppa fram Ulf Kristersson (M) som statsminister. ”Uppenbart att det var ett tufft beslut för Centern”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach. Frågan om hur en regering med M, C, KD och L ska kunna regera utan SD:s stöd fick inga svar under pressträffen, säger Fredrik Furtenbach.",
-      "pubDate": "2026-11-26T17:44:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Partistyrelse säger ja till Kristersson – C-ledarens avgångshot vid extraval",
-      "link": "https://www.dn.se/sverige/cs-partistyrelse-sager-ja-till-kristersson/",
-      "description": "Partistyrelsen och riksdagsgruppen i Centerpartiet säger ja till att rösta fram Ulf Kristersson som ny statsminister. Thand Ringqvist hotade att avgå vid extraval. Nu går regeringsfrågan vidare till partiets förtroenderåd. – Det är ett beslut som väcker starka känslor i partiet, säger partiledare Elisabeth Thand Ringqvist.",
-      "pubDate": "2026-11-26T17:27:55Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Kristersson efter C:s möte: ”Välkommet besked”",
-      "link": "https://www.expressen.se/nyheter/sverige/kristersson-efter-cs-mote-valkommet-besked/",
-      "description": "Centerledningens besked att man vill se en Moderatledd regering välkomnas av M-ledaren Ulf Kristersson.&nbsp; – Bra för Sverige, säger han.",
-      "pubDate": "2026-11-26T17:22:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
     }
   ],
   "blogs": [
+    {
+      "title": "Sverigedemokraterna har pulvriserat den politiska mitten",
+      "link": "https://www.dagensarena.se/opinion/sverigedemokraterna-har-pulvriserat-den-politiska-mitten/",
+      "description": "Partiet har nu fått hela borgerligheten att dansa efter Åkessons pipa. Inlägget Sverigedemokraterna har pulvriserat den politiska mitten dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-27T00:07:01Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Gränsen höll inte",
       "link": "https://www.dagensarena.se/opinion/gransen-holl-inte/",
@@ -332,18 +348,6 @@
         "S",
         "M",
         "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Det borde vara ett lätt val för Centern",
-      "link": "https://www.dagensarena.se/opinion/det-borde-vara-ett-latt-val-centern/",
-      "description": "Sverigedemokraterna skulle ha ett avgörande inflytande, långt från Centerns politik. Inlägget Det borde vara ett lätt val för Centern dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-25T08:10:03Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "SD"
       ]
     },
     {
