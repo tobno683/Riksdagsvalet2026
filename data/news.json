@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T03:20:09.780201Z",
+  "updated_at": "2026-11-27T12:51:04.501468Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -79,181 +79,34 @@
   ],
   "news": [
     {
-      "title": "C-sprickan – ”Riskerar att bryta isär partiet”",
-      "link": "https://www.sverigesradio.se/artikel/9351197",
-      "description": "Det kommer hård kritik inifrån Centerpartiet mot ledningens nya linje att partiet bör ingå i en regering ledd av Ulf Kristersson. ”Det går ju rakt emot det som vi lovade väljarna i valrörelsen, att SD inte ska få inflytande. Det här riskerar att bryta isär partiet”, säger Jonas Naddebo, distriktsordförande för Centerpartiet i Stockholms stad. En splittrad partistyrelse och riksdagsgrupp i Centern vill att partiet ska rösta grönt för Ulf Kristersson som statsminister på måndag. Partiets förtroenderådet ska fatta beslutet på söndag.",
-      "pubDate": "2026-11-27T03:01:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "title": "C-toppen i Stockholm: ”Det känns lite som att man blir utpressad”",
+      "link": "https://www.dn.se/sverige/c-toppen-i-stockholm-det-kanns-lite-som-att-man-blir-utpressad/",
+      "description": "Stockholms tyngsta C-topp är i öppen konflikt med sin partiledning efter partiets högersväng. – Vi kan inte gå i Jimmie Åkessons fälla, säger Jonas Naddebo till DN.",
+      "pubDate": "2026-11-27T12:41:36Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
       "sourceType": "news",
       "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Efter C:s ”ödesmöte” – det här händer nu",
-      "link": "https://www.svt.se/nyheter/inrikes/efter-cs-odesmote-det-har-hander-nu",
-      "description": "Efter ett extrainsatt möte har Centerpartiets ledning beslutat att man vill rösta igenom Ulf Kristersson (M) till statsminister. Nu återstår de här stegen C måste ta om Sverige ska få en regering på måndag.",
-      "pubDate": "2026-11-26T23:50:31Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Furtenbach om C:s besked: ”En kris för Socialdemokraterna”",
-      "link": "https://www.sverigesradio.se/artikel/9351198",
-      "description": "Centerpartiets styrelse vill ingå i en borgerlig regering och vill att partiet nu på måndag röstar fram Ulf Kristersson som statsminister. Det beskedet gav partiledaren Elisabeth Thand Ringqvist under torsdagen efter ett flera timmar långt möte med partistyrelsen och riksdagsgruppen. ”Det är en kris för Socialdemokraterna”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach.",
-      "pubDate": "2026-11-26T22:35:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "C-toppens tårar efter beskedet: ”Hur är det möjligt”",
-      "link": "https://www.expressen.se/nyheter/politik/c-toppens-tarar-efter-beskedet-hur-ar-det-mojligt/",
-      "description": "Faluns oppositionsråd Fredrik Adolphson reagerade starkt på beskedet att Centerpartiet vill rösta ja till Ulf Kristersson som statsminister. Se klippet på Adolphsons tårar nedan:",
-      "pubDate": "2026-11-26T21:28:07Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Anna Lasses (C): ”Arg och väldigt, väldigt ledsen”",
-      "link": "https://www.expressen.se/nyheter/politik/anna-lasses-c-arg-och-valdigt-valdigt-ledsen/",
-      "description": "C-ledamoten Anna Lasses kommer att rösta rött till Ulf Kristersson på måndag. Hon tror att ungefär en tredjedel av riksdagsgruppen kan komma att göra detsamma. – Jag är arg och väldigt, väldigt ledsen, säger hon i SVT:s ”Aktuellt”.",
-      "pubDate": "2026-11-26T20:54:44Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "C i Stockholm sågar beslutet – kommer inte rösta ja",
-      "link": "https://www.sverigesradio.se/artikel/9351171",
-      "description": "Centerpartiets Stockholmsdistrikt säger nej till partiledningens linje i regeringsfrågan, uppger distriktsordförande Jonas Naddebo. Förtroenderådet fattar beslut på söndag om stödet till Ulf Kristerssons regering. I rådet kommer Stockholmsdistriktet att rösta nej till att gå högerut. ”Det gör så att Centerpartiet riskerar att bli ett femte Tidöparti och det går rakt emot det vi lovade väljarna i valrörelsen, att SD inte skulle få inflytande”, säger Naddebo.",
-      "pubDate": "2026-11-26T20:25:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Kristersson (M): ”Ett mycket välkommet besked”",
-      "link": "https://www.sverigesradio.se/artikel/9351129",
-      "description": "Moderatledaren Ulf Kristersson välkomnar beskedet från Elisabeth Thand Ringqvist om att Centerpartiet rekommenderar sitt förtroenderåd att gå vidare med en borgerlig fyrpartiregering i mitten. ”Ett mycket välkommet besked”, säger Moderatledaren. Samtidigt säger Kristersson att han har besked för att besluten inte är fattade än.",
-      "pubDate": "2026-11-26T19:18:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "C-kvinnornas ordförande: ”Klart att jag är besviken”",
-      "link": "https://www.sverigesradio.se/artikel/9351143",
-      "description": "Flera Centertoppar är besvikna efter dagens möte där partiets riksdagsgrupp och partistyrelse beslutat att förorda en borgerlig minoritetsregeringen ledd av Ulf Kristersson. ”Vi vill absolut inte ha ett samröre med SD”, säger Mari-Louise Wernersson är ordförande för partiets kvinnoförbund. Hon beskriver det runt fem timmar långa mötet med partistyrelse och riksdagsgrupp som respektfullt, men känslosamt, där Elisabeth Thand Ringqqvist hade en majoritet på sin sida, men att det ändå var förhållandevis jämnt när det gällde vägvalet.",
-      "pubDate": "2026-11-26T19:07:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Thand Ringqvists interna brev efter vägvalet: ”En tuff sits”",
-      "link": "https://www.expressen.se/nyheter/politik/thand-ringqvists-interna-brev-efter-vagvalet-en-tuff-sits/",
-      "description": "Centerpartiets partiledning vill att C ingår i en borgerlig regering. I ett internt brev till partimedlemmarna – som Expressen tagit del av – säger Elisabeth Thand Ringqvist att hon förstår att vägvalet väcker känslor. – Oavsett vad förtroenderådet beslutar är det här en tuff sits för oss, säger hon.",
-      "pubDate": "2026-11-26T19:03:11Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "Gissén: ”Ett omvälvande beslut för Centerpartiet”",
-      "link": "https://www.sverigesradio.se/artikel/9351126",
-      "description": "Centerpartiet vill ingå i en fyrpartiregering ledd av Ulf Kristersson, men förtroenderådet måste först säga ja. ”I teorin kan beslut ändras där, sen är det få som tror att det blir så. Det skulle kanske uppfattas som en missförtroendeomröstning om Elisabeth Thand Ringqvist”, säger vår inrikespolitiska kommentator Helena Gissén om förtroenderådet. Samtidigt ryktas det om att tveksamheten inför att ställa sig bakom Kristerssons alternativ är mycket större ute i landet än i partistyrelsen.",
-      "pubDate": "2026-11-26T18:49:00Z",
-      "source": "Sveriges Radio",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M",
-        "C"
-      ]
-    },
-    {
-      "title": "Birgitta Ohlsson (C): ”Fel väg att gå”",
-      "link": "https://www.expressen.se/nyheter/politik/birgitta-ohlsson-c-fel-vag-att-ga/",
-      "description": "Centerpartiets partistyrelse och riksdagsgrupp vill att partiet ingår i en borgerlig regering.&nbsp; – Många tycker att det här var fel väg att gå, säger riksdagsledamoten Birgitta Ohlsson till DN. &nbsp; Partiets förtroenderåd ska fatta det slutgiltiga beslutet.&nbsp;",
-      "pubDate": "2026-11-26T18:27:05Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C"
-      ]
-    },
-    {
-      "title": "C-ledamot ska rösta nej till Kristersson: ”Oerhört upprörd”",
-      "link": "https://www.svt.se/nyheter/inrikes/c-toppen-ska-rosta-nej-till-kristersson-oerhort-upprord",
-      "description": "C-ledamoten Anna Lasses går emot sin partiledare. Hon kommer att rösta nej till en Kristersson-ledd regering – och säger att fler partikollegor kan göra samma sak. – Det kanske rör sig om en tredjedel, säger hon i Aktuellt.",
-      "pubDate": "2026-11-26T18:17:01Z",
-      "source": "SVT Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "M"
-      ]
-    },
-    {
-      "title": "Richard Jomshofs tårthån mot Magdalena Andersson",
-      "link": "https://www.expressen.se/nyheter/sverige/richard-jomshofs-tarthan-mot-magdalena-andersson/",
-      "description": "Tårtorna som Socialdemokraterna beställde efter valet förföljer partiet. När regeringsmakten nu tycks glida partiet ur händerna används bakverken som symbol för att S tog ut segern i förskott. Senast är det SD-toppen Richard Jomshof som delat en elak AI-bild på en gräddkladdig och däst Magdalena Andersson.",
-      "pubDate": "2026-11-26T18:14:55Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "S",
         "SD"
       ]
     },
     {
-      "title": "Ilska och besvikelse bland C-toppar efter beslutet: ”Känner mig bedrövad”",
-      "link": "https://www.dn.se/sverige/ilska-och-besvikelse-bland-c-toppar-efter-beslutet-kanner-mig-bedrovad/",
-      "description": "Centerpartiets vägval i regeringsfrågan har föregåtts av en stor splittring inom partiet. Och efter att det står klart att partistyrelsen säger ja till Ulf Kristersson som statsminister är flera C-toppar besvikna. – Det är en stor existentiell fråga tror jag för många liberaler, säger Birgitta Ohlsson, som bytte från L till C på grund av motståndet mot SD.",
-      "pubDate": "2026-11-26T18:11:34Z",
+      "title": "Insändare. Lös problemet, rödgröna, så vi slipper Tidö 2.0",
+      "link": "https://www.dn.se/insandare/los-problemet-rodgrona-sa-vi-slipper-tido-2-0/",
+      "description": "INSÄNDARE. Om inte C och V kommer överens är det deras gemensamma ansvar att regeringsmakten lämnas över till SD. Lös problemet innan det är för sent, uppmanar Kajsa Sjöberg.",
+      "pubDate": "2026-11-27T12:22:57Z",
       "source": "Dagens Nyheter",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": []
+    },
+    {
+      "title": "C:s vice partiledare stod inte bakom beslutet",
+      "link": "https://www.sverigesradio.se/artikel/9351618",
+      "description": "Centerpartiets riksdagsgrupp och partistyrelse, har beslutat att förorda ett ja till Ulf Kristersson som statsminister och partiets medlemmar är splittrade. Splittringen finns även i partiets yttersta ledning. Vice partiledare Rickard Nordin bekräftar nu för Ekot att han är en av dem som reserverade sig mot partiledaren Elisabeth Thand Ringqvists linje att bilda en borgerlig fyrpartiregering. Två riksdagsledamöter, Birgitta Ohlsson och Anna Lasses har deklarerat, att de oavsett vad partiets förtroenderåd kommer fram till tänker rösta rött vid statsministeromröstningen på måndag.",
+      "pubDate": "2026-11-27T12:20:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "M",
@@ -262,20 +115,193 @@
       ]
     },
     {
-      "title": "Tomas Ramberg: Det blev Thand Ringqvist som höll i yxan",
-      "link": "https://www.dn.se/sverige/tomas-ramberg-det-blev-thand-ringqvist-som-holl-i-yxan/",
-      "description": "Elisabeth Thand Ringqvist går till historien som den som gav upp Centerns fajt mot Sverigedemokraterna. Att det sista liberala alternativet till SD-samarbete försvinner är en händelse som knappast kan överskattas. Den största förloraren blir sannolikt Centerpartiet självt.",
-      "pubDate": "2026-11-26T18:02:32Z",
-      "source": "Dagens Nyheter",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "title": "Furtenbach: ”Förvärras av att SD väcker så starka känslor”",
+      "link": "https://www.sverigesradio.se/artikel/9351600",
+      "description": "Efter Centerpartiets högersväng har debatten inom partiet hårdnat. Enligt Fredrik Furtenbach har partiet inte varit så här splittrat på väldigt lång tid. ”Splittringen förvärras av att frågan om att närma sig Sverigedemokraterna väcker så starka känslor”, säger Ekots inrikespolitiska kommentator Fredrik Furtenbach.",
+      "pubDate": "2026-11-27T12:11:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
       "sourceType": "news",
       "topics": [
         "SD",
         "C"
       ]
+    },
+    {
+      "title": "Insändare. Sveket som vi liberaler känner är monumentalt",
+      "link": "https://www.dn.se/insandare/sveket-som-vi-liberaler-kanner-ar-monumentalt/",
+      "description": "INSÄNDARE. Centerpartiet har ljugit nästan en halv miljon väljare i riksdagsvalet rakt upp i ansiktet. Jag har slut på ord, nu återstår bara tårar, skriver Nils Löfgren.",
+      "pubDate": "2026-11-27T12:07:58Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "C"
+      ]
+    },
+    {
+      "title": "Björn Wiman: Hästhandlarna i Centern lät sig luras av en skojare",
+      "link": "https://www.dn.se/kultur/bjorn-wiman-hasthandlarna-i-centern-lat-sig-luras-av-en-skojare/",
+      "description": "De rödgrönas misslyckande med regeringsbildningen är framför allt ett svek mot väljarna. Skulden bör fördelas brett – alla inblandade har gjort bort sig grundligt, skriver Björn Wiman.",
+      "pubDate": "2026-11-27T12:03:05Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Chockbeskedet: “Ovanligt att C är så öppet sönderslitet”",
+      "link": "https://www.dn.se/podd/alskade-politik/chockbeskedet-ovanligt-att-c-ar-sa-oppet-sonderslitet/",
+      "description": "Efter ett känslomässigt maratonmöte kom Centerpartiet med ett beslut. Får Kristersson en “kaosregering” om C-beslutet håller till måndag?",
+      "pubDate": "2026-11-27T12:02:24Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "C kommer tillbaka – om V släpper ministerkrav",
+      "link": "https://www.expressen.se/nyheter/politik/c-kommer-tillbaka-om-v-slapper-ministerkrav-/",
+      "description": "De rödgröna partierna vill att Centerpartiet kommer tillbaka till förhandlingarna. Och så kan bli fallet. C är beredda att återvända –&nbsp;om Vänsterpartiet släpper ministerkravet.&nbsp; Det sa Elisabeth Thand Ringqvist under ödesmötet.",
+      "pubDate": "2026-11-27T11:52:34Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V",
+        "C"
+      ]
+    },
+    {
+      "title": "Förre C-ledaren: ”Beroendet av SD gör mig rädd”",
+      "link": "https://www.dn.se/sverige/forre-c-ledaren-beroendet-av-sd-gor-mig-radd/",
+      "description": "För den förre Centerledaren Muharrem Demirok råder det ingen tvekan: en borgerlig fyrpartiregering kommer att existera på Jimmie Åkessons nåder. – Det beroendet gör mig rädd. Det var inte det här vi lovade, säger Muharrem Demirok.",
+      "pubDate": "2026-11-27T11:01:11Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "SD"
+      ]
+    },
+    {
+      "title": "Svenska premiärsuccén – trippel i Ruka",
+      "link": "https://www.dn.se/sport/svenska-premiarsuccen-trippel-i-ruka/",
+      "description": "De svenska längddamerna stod för en mäktig styrkedemonstration i världscuppremiären i Ruka. Ebba Andersson vann det klassiska milloppet före Linn Svahn och Frida Karlsson. – Jättekul. Framför allt en väldigt fin svensk laginsats, säger Andersson till Viaplay.",
+      "pubDate": "2026-11-27T10:45:42Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S"
+      ]
+    },
+    {
+      "title": "Uppgifter: Vice Centerledaren Rickard Nordin sa nej",
+      "link": "https://www.expressen.se/nyheter/politik/uppgifter-rickard-nordin-rostade-nej/",
+      "description": "Centerpartiets splittring har tagit sig upp i den absoluta toppen. Vice partiledare Rickard Nordin sa nej till att stötta Kristersson som statsminister, enligt uppgift till Expressen. ”Jag står bakom Elisabeth som vår partiledare och det kommer jag göra oavsett utfall på söndag”, skriver han i en kommentar.&nbsp;",
+      "pubDate": "2026-11-27T10:17:13Z",
+      "source": "Expressen",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C",
+        "Regeringsbildning"
+      ]
+    },
+    {
+      "title": "Insändare. Vänsterpartiet måste acceptera sin roll som ”kantparti”",
+      "link": "https://www.dn.se/insandare/vansterpartiet-maste-acceptera-sin-roll-som-kantparti/",
+      "description": "INSÄNDARE. Det är sorgligt att en rödgrön regering omöjliggörs av att Vänsterpartiet hävdar sin rätt till regeringsposter. Att låta stolthet komma emellan är ett stort svek mot en majoritet av svenska folket och det sista som jag trodde partiet stod för, skriver Lotta Aldén.",
+      "pubDate": "2026-11-27T09:57:40Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "V"
+      ]
+    },
+    {
+      "title": "Uppgifter: Vice partiledaren gick emot Thand Ringqvist",
+      "link": "https://www.svt.se/nyheter/inrikes/uppgifter-vice-partiledaren-gick-emot-thand-ringqvist",
+      "description": "C-ledaren Elisabeth Thand Ringqvist vill att Centerpartiet röstar ja till Ulf Kristersson på måndag. Men partiet är splittrat på högsta nivå – och hon hade en majoritet emot sig i det verkställande utskottet, enligt SVT:s uppgifter. Vice partiledaren Rickard Nordin röstade nej till den lösningen under torsdagens ödesmöte.",
+      "pubDate": "2026-11-27T09:48:07Z",
+      "source": "SVT Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=svt.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Martin Ådahl (C) om partiets besked: ”Reserverat mig mot beslutet”",
+      "link": "https://www.sverigesradio.se/artikel/9351389",
+      "description": "Centerpartiets ekonomisk-politiske talesperson säger att han reserverat sig mot beslutet att Centerpartiet ska ingå i en regering som är beroende av Sverigedemokraterna. På torsdagen kom beskedet från partiledaren Elisabeth Thand Ringqvist, att Centerpartiet vill ingå i en fyrpartiregering ledd av Ulf Kristersson (M). Först måste förtroenderådet säga ja till beslutet. Och enligt Martin Ådahl (C), finns det möjlighet att rådet kan gå emot partistyrelsens beslut.",
+      "pubDate": "2026-11-27T09:44:00Z",
+      "source": "Sveriges Radio",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=sverigesradio.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "M",
+        "SD",
+        "C"
+      ]
+    },
+    {
+      "title": "Chatt: Vad händer efter C:s högersväng?",
+      "link": "https://www.dn.se/sverige/chatt-vad-hander-efter-cs-hogersvang/",
+      "description": "Centerpartiet blickar högerut och väljer att ingå i en regering ledd av Ulf Kristersson (M). Vad betyder det? Kommer budgeten att gå igenom? Hur ska samarbetet med SD se ut? Kommer Magdalena Andersson att sitta kvar? Ställ dina frågor till DN:s politiske kommentator Tomas Ramberg.",
+      "pubDate": "2026-11-27T09:38:12Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "C"
+      ]
     }
   ],
   "blogs": [
+    {
+      "title": "C:s värdegrund kan bara respekteras i en rödgrön regering",
+      "link": "https://www.dagensarena.se/opinion/cs-vardegrund-kan-bara-respekteras-en-rodgron-regering/",
+      "description": "Håll fast vid er värdegrund - välj bort SD! Inlägget C:s värdegrund kan bara respekteras i en rödgrön regering dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-27T10:10:53Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
+    {
+      "title": "Kan Centern ändra sig på söndag?",
+      "link": "https://www.dagensarena.se/opinion/kan-centern-andra-sig-pa-sondag/",
+      "description": "Än är det kanske inte för sent för rödgröna förhandlingar. Inlägget Kan Centern ändra sig på söndag? dök först upp på Dagens Arena .",
+      "pubDate": "2026-11-27T10:00:54Z",
+      "source": "Dagens Arena",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
+      "sourceType": "blog",
+      "topics": []
+    },
+    {
+      "title": "När Socialdemokraterna tappade kontakten med verkligheten",
+      "link": "https://ledarsidorna.se/nar-socialdemokraterna-tappade-kontakten-med-verkligheten/",
+      "description": "Socialdemokraternas genomklappning och kris har flera förklaringar och samverkande faktorer. En av de tyngsta är ofrånkomligen det faktum att partiet idag saknar den naturliga koppling till verkligheten som partiet byggt på. Och frågan är ytterst om den politiska grundlagen gäller även partiet. Den om att varje partis opinonsstöd börjar och slutar i samma punkt. Noll [&#8230;]",
+      "pubDate": "2026-11-27T03:33:43Z",
+      "source": "Ledarsidorna",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
+      "sourceType": "blog",
+      "topics": [
+        "S"
+      ]
+    },
     {
       "title": "Sverigedemokraterna har pulvriserat den politiska mitten",
       "link": "https://www.dagensarena.se/opinion/sverigedemokraterna-har-pulvriserat-den-politiska-mitten/",
@@ -337,20 +363,6 @@
       ]
     },
     {
-      "title": "Andersson, Kristersson eller extraval?",
-      "link": "https://www.dagensarena.se/innehall/andersson-kristersson-eller-extraval/",
-      "description": "Statsvetaren Jonas Hinnfors intervjuas i Magasinet om regeringsbildningen. Inlägget Andersson, Kristersson eller extraval? dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-25T16:12:32Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
       "title": "Så skapas bilden av “falska balanser” och en polarisering som inte finns",
       "link": "https://ledarsidorna.se/sa-skapas-bilden-av-falska-balanser-och-en-polarisering-som-inte-finns/",
       "description": "Journalistikens och medias ideal om balans och opartiskhet, vilket återspeglas i det pressetiska regelverket skapar ofta en vrångbild av folkopinionen i olika sakfrågor. Med en historiskt polariserande svensk valrörelse i färskt minne är medias roll i bildsättningen av olika frågor högaktuell. Då det är media som i flera fall skapar konflikter och polarisering där ingen, [&#8230;]",
@@ -388,19 +400,6 @@
       ]
     },
     {
-      "title": "Andersson måste vara sämsta sosseledaren nånsin",
-      "link": "https://blog.zaramis.se/2026/11/23/andersson-maste-vara-samsta-sosseledaren-nansin/",
-      "description": "Magdalena Andersson måste vara sämsta sosseledaren nånsin. Inte nog med att socialdemokraterna under Andersson gjort det sämsta valet på 100 år. Hon tycks helt oförmögen att faktiskt sätta sig i möte eller ens kalla till ett möte där hon faktiskt pratar med Vänsterpartiet. Istället kommer hon med utspel i media, dessutom i Expressen som bedriver en kampanj riktad mot Vänsterpartiet. Läs mer … Inlägget Andersson måste vara sämsta sosseledaren nånsin dök först upp på Svenssons Nyheter .",
-      "pubDate": "2026-11-23T10:08:16Z",
-      "source": "Svensson",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=blog.zaramis.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
       "title": "Importerad eller närodlad antisemitism?",
       "link": "https://ledarsidorna.se/importerad-eller-narodlad-antisemitism/",
       "description": "Antisemitismen bland Vänsterpartiets kandidater beskrivs ofta som importerad. Forskningen ger en obekvämare bild. Föreställningarna förs med hit, men de odlas och vidareutvecklas här. Av de som finns i Europa. För främst Vänsterpartiet som hävdar att de är en motkraft till rasism och antisemitism är slutsatserna obekväma. Expressens reporter och mottagare av Stora Journalistpriset 2026 Inas [&#8230;]",
@@ -414,6 +413,56 @@
     }
   ],
   "podcasts": [
+    {
+      "title": "339. Centerns inbördeskrig",
+      "link": "https://pod.space/politikrummet/339-centerns-inbordeskrig",
+      "description": "Centerledaren Elisabeth Thand Ringqvist vill hoppa över till Kristerssons lag. Kommer hon att få med sig partiet – eller blir högersvängen hennes fall? I riksdagsstudion: Filippa Rogvall, Max V Karlsson och Viktor Barth-Kron Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
+      "pubDate": "2026-11-27T12:40:58Z",
+      "source": "Politikrummet",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Chockbeskedet: “Ovanligt att C är så öppet sönderslitet”",
+      "link": "https://pod.space/alskadepolitik/chockbeskedet-ovanligt-att-c-ar-sa-oppet-sonderslitet",
+      "description": "Efter ett känslomässigt maratonmöte kom Centerpartiet med ett beslut. Får Kristersson en “kaosregering” om C-beslutet håller till måndag?",
+      "pubDate": "2026-11-27T12:02:24Z",
+      "source": "Älskade politik",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "M",
+        "C"
+      ]
+    },
+    {
+      "title": "Fredagsintervjun: Det stundar en vinter i Ukraina utan dess like",
+      "link": "https://pod.space/kvartal/fredagsintervjun-det-stundar-en-vinter-i-ukraina-utan-dess-like",
+      "description": "Sedan flera år kör han regelbundet lastbilar, materiel och förnödenheter till Ukraina genom organisationen som han grundat: Blågula bilen. Take Aanstoot har också ett långt förflutet inom Miljöpartiet och har engagerat sig särskilt i energifrågor. Den här vintern bedöms bli särskilt hård och kall för många i Ukraina på grund av Rysslands terrorbombningar. Har kriget förändrat hans syn på klassiska gröna värden kring försvar, kärnkraft och behovet av en stark, och kanske också om det krävs repressiv stat? Och vore det bra eller dåligt för klimatet om Mp får inflytande över energipolitiken i en framtida regering?",
+      "pubDate": "2026-11-27T11:50:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "MP"
+      ]
+    },
+    {
+      "title": "Pelle Zackrisson om Jomshofs framtid | Rak höger",
+      "link": "https://pod.space/kvartal/pelle-zackrisson-om-jomshofs-framtid-rak-hoger",
+      "description": "Striden om svenskhet i Sverigedemokraterna är över, enligt Pelle Zackrisson. Han pekar på att Jimmie Åkesson delar reklam för Richard Jomshofs bok på Facebook. Det är en signal om att Jomshof inte ska petas från utskott, menar Zackrisson. ”Han sitter säkert”, säger han. Men frågan om ursprungets betydelse finns kvar. Enligt Zackrisson står alla SD-källor han talar med bakom öppen svenskhet, där det går att bli kulturellt svensk genom assimilering. Han kopplar bråket till sökandet efter en syndabock för valbakslaget. Själv pekar han på bristande ideologisk utveckling under Tidösamarbetet och svag kommunikation om genomförda reformer som möjliga förklaringar. Samtidigt beskriver hans SD-källor Tidöavtalet som en framgång.",
+      "pubDate": "2026-11-27T10:00:00Z",
+      "source": "Kvartal",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
+      "sourceType": "podcast",
+      "topics": [
+        "SD"
+      ]
+    },
     {
       "title": "Han ville ställa frågor – Magdalena Andersson gick därifrån | Rak höger",
       "link": "https://pod.space/kvartal/han-ville-stalla-fragor-magdalena-andersson-gick-darifran-rak-hoger",
@@ -562,57 +611,6 @@
       "sourceType": "podcast",
       "topics": [
         "V"
-      ]
-    },
-    {
-      "title": "Kvartal Idag: S-veteran: Partiet står inför historisk kris",
-      "link": "https://pod.space/kvartal/kvartal-idag-s-veteran-partiet-star-infor-historisk-kris",
-      "description": "Tvivlar på rödgrön regering efter bråket med V. Bombhot mot skolor i Danmark. Mohamsson pressar C att välja sida. Och SVT-kollegor om Bergfeldt: ”Ett övertramp”. Programledare: Jörgen Huitfeldt.",
-      "pubDate": "2026-11-23T14:46:18Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "L"
-      ]
-    },
-    {
-      "title": "337. Rödgrön slutstrid",
-      "link": "https://pod.space/politikrummet/337-rodgron-slutstrid-7072b226-5549-4b49-97c2-c34b0cb3d959",
-      "description": "Magdalena Andersson lämnar ett bud till Vänsterpartiet. Är det ett startbud, slutbud eller ett skambud? I studion: Filippa Rogvall, Viktor Barth-Kron, Anette Holmqvist och Max V Karlsson Producent: Anna Westman Swantesson Ansvarig utgivare: Klas Granström, Expressen AB",
-      "pubDate": "2026-11-23T12:43:02Z",
-      "source": "Politikrummet",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "V"
-      ]
-    },
-    {
-      "title": "Veckopanelen: Varför ska de förolämpa varandra på det här sättet?",
-      "link": "https://pod.space/kvartal/veckopanelen-varfor-ska-de-forolampa-varandra-pa-det-har-sattet",
-      "description": "Veckopanelen med Widar Andersson, Maria Wetterstrand och Ivar Arpi under ledning av Staffan Dopping. Talmannen bjöd på en veckas anstånd eller paus i regeringsbildningen. Ulf Kristersson anser att hans paketförslag inte har avvisats av Centern. Socialdemokraterna är enligt Novus inte största parti, och hur ska Magdalena Andersson nu dyrka upp den rödgröna sidans låsningar? Att grundlagsskydda public service tycks vara en av brickorna i spelet. En miljon svenskar upplever sig vara diskriminerade, sexförbrytaren Jeffrey Epstein blev enligt nya rön sannolikt mördad, och uppburne skådespelaren Robert Pattinson blir nästa James Bond.",
-      "pubDate": "2026-11-21T04:40:00Z",
-      "source": "Kvartal",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=kvartal.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S",
-        "M",
-        "Regeringsbildning"
-      ]
-    },
-    {
-      "title": "Är V på väg att sälja ministerkravet?",
-      "link": "https://pod.space/alskadepolitik/ar-v-pa-vag-att-salja-ministerkravet",
-      "description": "Vad händer med Socialdemokraterna om de inte lyckas sy ihop en regering? Och hur går det med förhandlingarna?",
-      "pubDate": "2026-11-20T13:39:06Z",
-      "source": "Älskade politik",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
-      "sourceType": "podcast",
-      "topics": [
-        "S"
       ]
     }
   ]
