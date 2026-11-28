@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T21:43:01.049983Z",
+  "updated_at": "2026-11-28T03:37:17.908520Z",
   "sources": [
     {
       "name": "SVT Nyheter",
@@ -236,19 +236,6 @@
       ]
     },
     {
-      "title": "Det här är ju värre än i Liberalerna",
-      "link": "https://www.expressen.se/kronikorer/viktor-barth-kron/det-har-ar-ju-varre-an-i-liberalerna/",
-      "description": "Att medge ett fel är sorgligt ovanligt, både i politiken och i journalistiken. Därför tänkte jag föregå med gott exempel här: Jag hade fel om Centerpartiet.",
-      "pubDate": "2026-11-27T15:32:45Z",
-      "source": "Expressen",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=expressen.se&sz=64",
-      "sourceType": "news",
-      "topics": [
-        "C",
-        "L"
-      ]
-    },
-    {
       "title": "Tysk stjärna avstängd för dopningsbrott – stöttas av svenska lagkamrater: ”För hårt straff”",
       "link": "https://www.dn.se/sport/tysk-stjarna-avstangd-for-dopningsbrott-stottas-av-svenska-lagkamrater-for-hart-straff/",
       "description": "VALENCIA. Tysk landslagsfotboll skakas av ett dopningsbrott och en lång avstängning. Frankfurtkaptenen Laura Freigang missar både VM och det kommande OS-kvalet mot Sverige. Straffet är för hårt, tycker svenska klubbkompisen Hanna Bennison.",
@@ -270,6 +257,21 @@
         "M",
         "KD",
         "L"
+      ]
+    },
+    {
+      "title": "Här är Kristerssons erbjudande till Centerpartiet",
+      "link": "https://www.dn.se/sverige/har-ar-kristerssons-erbjudande-till-centern/",
+      "description": "Sänkt bränsleskatt, ny elbilspremie och ett ”superavdrag” till företag är några av de budgetförslag som ska locka Centerpartiet till att helt stänga dörren till de rödgröna. ”Tidö 2 avtalet är ett luftslott som ska få Åkessons drömregering att tillträda”, kritiserar S-toppen Mikael Damberg samarbetsavtalet.",
+      "pubDate": "2026-11-27T15:05:26Z",
+      "source": "Dagens Nyheter",
+      "sourceIcon": "https://www.google.com/s2/favicons?domain=dn.se&sz=64",
+      "sourceType": "news",
+      "topics": [
+        "S",
+        "M",
+        "SD",
+        "C"
       ]
     }
   ],
@@ -351,18 +353,6 @@
       "pubDate": "2026-11-26T04:07:54Z",
       "source": "Ledarsidorna",
       "sourceIcon": "https://www.google.com/s2/favicons?domain=ledarsidorna.se&sz=64",
-      "sourceType": "blog",
-      "topics": [
-        "S"
-      ]
-    },
-    {
-      "title": "Ett lågvattenmärke i den nordiska socialdemokratins historia",
-      "link": "https://www.dagensarena.se/opinion/ett-lagvattenmarke-den-nordiska-socialdemokratins-historia/",
-      "description": "I Mette Frederiksens Danmark tenderar invandringsfrågan hela tiden att radikaliseras. Inlägget Ett lågvattenmärke i den nordiska socialdemokratins historia dök först upp på Dagens Arena .",
-      "pubDate": "2026-11-26T00:31:33Z",
-      "source": "Dagens Arena",
-      "sourceIcon": "https://www.google.com/s2/favicons?domain=dagensarena.se&sz=64",
       "sourceType": "blog",
       "topics": [
         "S"
